@@ -13,10 +13,10 @@ from pathlib import Path
 from urllib.request import Request, urlopen
 import xml.etree.ElementTree as ET
 
-RAIZ = Path(__file__).resolve().parent.parent
-DATOS = RAIZ / "site" / "datos.json"
-FUENTES = RAIZ / "scripts" / "fuentes.json"
-ESTADO = RAIZ / "scripts" / "estado.json"
+RAIZ = Path(__file__).resolve().parent
+DATOS = RAIZ / "datos.json"
+FUENTES = RAIZ / "fuentes.json"
+ESTADO = RAIZ / "estado.json"
 INFORME = RAIZ / "informe.md"
 UA = "info29n.com (actualizador de noticias; contacto en la web)"
 AHORA = datetime.now(timezone.utc)
