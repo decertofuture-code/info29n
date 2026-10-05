@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-05T18:00:00+02:00",
+  "actualizado": "2026-10-05T21:52+00:00",
   "temas": [
     {
       "id": "vivienda",
@@ -391,5 +391,817 @@
       ]
     }
   ],
-  "noticias": []
+  "noticias": [
+    {
+      "titulo": "Alfonso Serrano será el jefe de la campaña electoral del PP de Madrid en la región",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/madrid/alfonso-serrano-jefe-campana-electoral-pp-madrid-20261005211951-nt.html",
+      "fecha": "2026-10-05T19:21+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "Por qué Pedro Sánchez convoca elecciones generales ahora",
+      "medio": "20minutos",
+      "url": "https://www.20minutos.es/nacional/por-que-sanchez-convoca-elecciones-ahora_7045196_3.html",
+      "fecha": "2026-10-05T18:41+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "Del «salvar la democracia» de Moreno al apoyo de Susana Díaz a Pedro Sánchez",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/andalucia/salvar-democracia-moreno-apoyo-susana-diaz-pedro-20261005191609-nts.html",
+      "fecha": "2026-10-05T18:38+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "El PP exige a la JEC que en un máximo de 18 días suprima del censo todas las inscripciones suspendidas por el Supremo",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/pp-exige-jec-maximo-dias-suprima-censo-20261005195350-nt.html",
+      "fecha": "2026-10-05T18:23+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "María Jesús Montero, Cristina Narbona y Rebeca Torró dirigirán la campaña del PSOE para las elecciones generales del 29-N",
+      "medio": "20minutos",
+      "url": "https://www.20minutos.es/nacional/maria-jesus-montero-cristina-narbona-rebeca-torro-dirigiran-campana-psoe-para-las-elecciones-generales-29-n_7045176_0.html",
+      "fecha": "2026-10-05T17:45+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "El PNV se inclina por salvar el primer decreto de vivienda con su voto decisivo en la Diputación Permanente y tumbar los alquileres indefinidos",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/euskadi/pnv-inclina-salvar-decretos-vivienda-diputacion-permanente-tumbar-segundo_1_13564231.html",
+      "fecha": "2026-10-05T17:09+00:00",
+      "partidos": [
+        "pnv"
+      ]
+    },
+    {
+      "titulo": "Los 39 días de calendario judicial hasta la campaña: la vuelta de Puigdemont, Beatriz Biedma y Plus Ultra",
+      "medio": "El Confidencial",
+      "url": "https://www.elconfidencial.com/espana/2026-10-05/los-39-dias-de-calendario-judicial-hasta-la-campana-la-vuelta-de-puigdemont-beatriz-biedma-y-plus-ultra_4438890/",
+      "fecha": "2026-10-05T16:58+00:00",
+      "partidos": [
+        "junts"
+      ]
+    },
+    {
+      "titulo": "Última hora de la manifestación por la vivienda en Barcelona y de las elecciones generales convocadas por Pedro Sánchez, en directo",
+      "medio": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/politica/20261005/11651253/elecciones-generales-29n-2026-anticipadas-pedro-sanchez-ultima-hora-en-directo.html",
+      "fecha": "2026-10-05T16:13+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "Abascal y Ayuso alimentan la teoría de la conspiración del fraude en el voto por correo para las elecciones del 29N",
+      "medio": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/vida/verificacion/20261005/11651653/abascal-ayuso-alimentan-teoria-conspiracion-fraude-voto-correo-elecciones-29n.html",
+      "fecha": "2026-10-05T15:45+00:00",
+      "partidos": [
+        "vox"
+      ]
+    },
+    {
+      "titulo": "Las CCAA del PP celebran el adelanto electoral y confían en que ponga fin al Gobierno de Sánchez",
+      "medio": "Europa Press",
+      "url": "https://www.europapress.es/nacional/noticia-ccaa-pp-celebran-adelanto-electoral-confian-ponga-fin-gobierno-sanchez-20261005172009.html",
+      "fecha": "2026-10-05T15:20+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "Dimite una edil del PP de Ibiza tras la detención de su marido en una operación contra el blanqueo de fortunas de grandes narcos",
+      "medio": "El País",
+      "url": "https://elpais.com/espana/2026-10-05/dimite-una-edil-del-pp-de-ibiza-tras-la-detencion-de-su-marido-en-una-operacion-policial-contra-el-narcotrafico.html",
+      "fecha": "2026-10-05T14:44+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "El Frente Amplio guarda silencio sobre las primarias abiertas de Podemos pero le ofrece negociar",
+      "medio": "El Confidencial",
+      "url": "https://www.elconfidencial.com/espana/2026-10-05/el-frente-amplio-guarda-silencio-sobre-las-primarias-abiertas-de-podemos-pero-le-ofrece-negociar_4438638/",
+      "fecha": "2026-10-05T14:26+00:00",
+      "partidos": [
+        "podemos"
+      ]
+    },
+    {
+      "titulo": "Frente Amplio vuelve a eludir las primarias de Podemos y circunscribe un acuerdo a su unión a la alianza: \"Aquí tienen la silla\"",
+      "medio": "20minutos",
+      "url": "https://www.20minutos.es/nacional/frente-amplio-vuelve-eludir-las-primarias-podemos-circunscribe-un-acuerdo-su-union-alianza-aqui-tienen-silla_7045031_0.html",
+      "fecha": "2026-10-05T14:11+00:00",
+      "partidos": [
+        "podemos"
+      ]
+    },
+    {
+      "titulo": "El Frente Amplio echa balones fuera sobre la propuesta de primarias de Podemos: \"No queremos un debate en los medios\"",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/politica/frente-amplio-echa-balones-fuera-propuesta-primarias-no-queremos-debate-medios_1_13562913.html",
+      "fecha": "2026-10-05T13:53+00:00",
+      "partidos": [
+        "podemos"
+      ]
+    },
+    {
+      "titulo": "Frente Amplio y Podemos: una contrarreloj de 11 días para pactar y un órdago de Irene Montero para hacer primarias los días 14 y 15",
+      "medio": "El Mundo",
+      "url": "https://www.elmundo.es/espana/2026/10/05/6ac35606e4d4d8f67a8b458c.html",
+      "fecha": "2026-10-05T13:44+00:00",
+      "partidos": [
+        "podemos"
+      ]
+    },
+    {
+      "titulo": "El PP gallego defiende que Ana Vázquez puede ir de nuevo en las listas tras llevar un spray de gas pimienta al Congreso",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/galicia/pp-gallego-defiende-ana-vazquez-nuevo-listas-llevar-spray-gas-pimienta-congreso_1_13563459.html",
+      "fecha": "2026-10-05T13:41+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "La izquierda, obligada a negociar contra reloj: Podemos ofrece votar en primarias el 14 y 15 de octubre",
+      "medio": "El País",
+      "url": "https://elpais.com/espana/2026-10-05/el-adelanto-electoral-sorprende-a-la-izquierda-sin-candidato.html",
+      "fecha": "2026-10-05T13:26+00:00",
+      "partidos": [
+        "podemos"
+      ]
+    },
+    {
+      "titulo": "El blindaje judicial que obtiene el PSOE con la convocatoria electoral: los jueces evitan interferir en la cita con las urnas",
+      "medio": "El Mundo",
+      "url": "https://www.elmundo.es/espana/2026/10/05/6ac35ecde9cf4a95248b4588.html",
+      "fecha": "2026-10-05T13:11+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "Sílvia Orriols se jacta de \"hacer caer\" al Gobierno de Pedro Sánchez y mantiene el 'no' de Aliança Catalana a presentarse a las elecciones generales",
+      "medio": "El Mundo",
+      "url": "https://www.elmundo.es/cataluna/2026/10/05/6ac38f9a21efa060448b4588.html",
+      "fecha": "2026-10-05T13:04+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "El PSC carga contra la “traición” de Junts y perfila a Jordi Hereu como candidato para el 29-N",
+      "medio": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/politica/20261005/11651500/psc-carga-traicion-junts-perfila-candidato-previsible-elecciones-generales-29-n.html",
+      "fecha": "2026-10-05T12:34+00:00",
+      "partidos": [
+        "junts"
+      ]
+    },
+    {
+      "titulo": "Pedro Sánchez afronta las urnas con el PSOE señalado en causas y las hijas de Zapatero ante el juez tras las elecciones",
+      "medio": "Europa Press",
+      "url": "https://www.europapress.es/nacional/noticia-sanchez-afronta-urnas-psoe-senalado-causas-hijas-zapatero-juez-elecciones-20261005142548.html",
+      "fecha": "2026-10-05T12:25+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "El PP arranca la campaña desplegando una lona en Génova y con un vídeo especial: \"Por fin\"",
+      "medio": "El Confidencial",
+      "url": "https://www.elconfidencial.com/espana/2026-10-05/partido-popular-video-lona-genova-campana-elecciones-29n_4438617/",
+      "fecha": "2026-10-05T12:18+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "Feijóo pide causar a Sánchez \"el mayor de los castigos\" el 29N y cree que adelanta por \"miedo\" a la corrupción",
+      "medio": "El Confidencial",
+      "url": "https://www.elconfidencial.com/espana/2026-10-05/feijoo-cree-que-sanchez-adelanta-por_4438362/",
+      "fecha": "2026-10-05T12:13+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "Feijóo lanza la precampaña con la promesa de premiar a las empresas con menos bajas laborales médicas",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/politica/feijoo-lanza-precampana-promesa-premiar-empresas-bajas-laborales-medicas_1_13563005.html",
+      "fecha": "2026-10-05T12:03+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "ERC mantiene su apuesta por Rufián pero él está “reflexionando” sobre su papel en las elecciones",
+      "medio": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/politica/20261005/11651375/erc-mantiene-apuesta-rufian-esta-reflexionando-sobre-papel-elecciones.html",
+      "fecha": "2026-10-05T11:58+00:00",
+      "partidos": [
+        "erc"
+      ]
+    },
+    {
+      "titulo": "De cargar contra las \"elites poderosas\" a colcar a España como \"referente mundial\": las frases más destacadas de Pedro Sánchez",
+      "medio": "20minutos",
+      "url": "https://www.20minutos.es/nacional/cargar-contra-las-elites-poderosas-colcar-espana-como-referente-mundial-las-frases-mas-destacadas-pedro-sanchez_7044904_0.html",
+      "fecha": "2026-10-05T11:38+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "Abascal pone condiciones a un futuro gobierno con el PP: “Prioridad nacional, desregulación y remigración”",
+      "medio": "El País",
+      "url": "https://elpais.com/espana/elecciones-generales/2026-10-05/vox-llega-a-la-cita-con-las-urnas-en-su-mejor-momento-y-con-el-viento-a-favor.html",
+      "fecha": "2026-10-05T11:25+00:00",
+      "partidos": [
+        "pp",
+        "vox"
+      ]
+    },
+    {
+      "titulo": "Abascal exige que las elecciones sean “libres, limpias y sin violencia”",
+      "medio": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/politica/20261005/11651306/abascal-exige-elecciones-sean-libres-limpias-violencia.html",
+      "fecha": "2026-10-05T11:08+00:00",
+      "partidos": [
+        "vox"
+      ]
+    },
+    {
+      "titulo": "Qué es la Diputación Permanente que decidirá sobre los nuevos decretos de vivienda y por qué Junts no es decisivo",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/politica/diputacion-permanente-decidira-nuevos-decretos-vivienda_1_13562507.html",
+      "fecha": "2026-10-05T10:59+00:00",
+      "partidos": [
+        "junts"
+      ]
+    },
+    {
+      "titulo": "Abascal señala a Sánchez como el \"candidato de Marruecos\" y niega que la derecha sea favorita en las elecciones",
+      "medio": "El Confidencial",
+      "url": "https://www.elconfidencial.com/espana/2026-10-05/abascal-senala-a-sanchez-como-el_4438332/",
+      "fecha": "2026-10-05T10:56+00:00",
+      "partidos": [
+        "vox"
+      ]
+    },
+    {
+      "titulo": "Andalucía vuelve a las urnas seis meses después de unas autonómicas que dieron paso al Gobierno PP-Vox",
+      "medio": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/local/andalucia/20261005/11651279/andalucia-vuelve-urnas-seis-meses-autonomicas-dieron-paso-gobierno-pp-vox.html",
+      "fecha": "2026-10-05T10:45+00:00",
+      "partidos": [
+        "pp",
+        "vox"
+      ]
+    },
+    {
+      "titulo": "Junts llama a “romper” el 29-N con un modelo que “arrastra al empobrecimiento y que ahoga a impuestos”",
+      "medio": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/politica/20261005/11651269/junts-llama-romper-29-n-modelo-arrastra-empobrecimiento-ahoga-impuestos.html",
+      "fecha": "2026-10-05T10:36+00:00",
+      "partidos": [
+        "junts"
+      ]
+    },
+    {
+      "titulo": "Podemos y el Frente Amplio deberán decidir en los próximos 10 días si van juntos o separados a las elecciones",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/politica/frente-amplio-deberan-decidir-proximos-10-dias-si-separados-elecciones_1_13561882.html",
+      "fecha": "2026-10-05T09:44+00:00",
+      "partidos": [
+        "podemos"
+      ]
+    },
+    {
+      "titulo": "Feijóo se prepara para la batalla definitiva convencido de que esta vez llegará a La Moncloa: “Por fin decidirán los españoles”",
+      "medio": "El País",
+      "url": "https://elpais.com/espana/2026-10-05/feijoo-se-prepara-para-la-batalla-definitiva-convencido-de-que-esta-vez-llegara-a-la-moncloa.html",
+      "fecha": "2026-10-05T09:33+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "Podemos mete presión a Sumar y plantea primarias abiertas para elegir al líder de la izquierda el 14 y 15 de octubre",
+      "medio": "20minutos",
+      "url": "https://www.20minutos.es/nacional/podemos-propone-sumar-primarias-abiertas-para-elegir-lider-izquierda-14-15-octubre-tras-adelanto-electoral_7044817_0.html",
+      "fecha": "2026-10-05T08:59+00:00",
+      "partidos": [
+        "sumar",
+        "podemos"
+      ]
+    },
+    {
+      "titulo": "El PNV ve que la legislatura \"no podía seguir\", pero encara el 29N sin haber buscado aún relevo para Aitor Esteban",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/euskadi/pnv-ve-legislatura-no-podia-seguir-encara-29n-haber-buscado-relevo-aitor-esteban_1_13561937.html",
+      "fecha": "2026-10-05T08:45+00:00",
+      "partidos": [
+        "pnv"
+      ]
+    },
+    {
+      "titulo": "Abascal llama a su electorado a no confiarse ante unos comicios que prevé \"muy inciertos\" e insta a evitar el voto por correo",
+      "medio": "El Mundo",
+      "url": "https://www.elmundo.es/espana/2026/10/05/6ac3533021efa0e83b8b456d.html",
+      "fecha": "2026-10-05T08:44+00:00",
+      "partidos": [
+        "vox"
+      ]
+    },
+    {
+      "titulo": "El Gobierno aprobará mañana medidas sobre vivienda que ya no requerirán del voto de Junts",
+      "medio": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/politica/20261005/11651142/gobierno-aprobara-manana-medidas-sobre-vivienda-requeriran-voto-junts.html",
+      "fecha": "2026-10-05T08:43+00:00",
+      "partidos": [
+        "junts"
+      ]
+    },
+    {
+      "titulo": "\"¡Por fin!\": Feijóo celebra el adelanto electoral, promete un \"cambio profundo\" y que \"los impuestos no se van a subir\"",
+      "medio": "El Mundo",
+      "url": "https://www.elmundo.es/espana/2026/10/05/6ac35e19fc6c837b7d8b45a4.html",
+      "fecha": "2026-10-05T08:40+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "Dimite una concejala del PP en Ibiza tras la detención de su marido en una operación contra el blanqueo de capitales",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/illes-balears/politica/dimite-concejala-pp-detencion-marido-operacion-blanqueo-narcotrafico_1_13561938.html",
+      "fecha": "2026-10-05T08:37+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "Feijóo cree que Sánchez convoca elecciones por “miedo a la maraña de casos de corrupción”",
+      "medio": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/politica/20261005/11651131/feijoo-cree-sanchez-convoca-elecciones-miedo-marana-casos-corrupcion.html",
+      "fecha": "2026-10-05T08:35+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "Así ha sido el discurso íntegro de Pedro Sánchez con el que ha convocado elecciones",
+      "medio": "El Mundo",
+      "url": "https://www.elmundo.es/espana/2026/10/05/6ac35e7ae4d4d83b688b457c.html",
+      "fecha": "2026-10-05T08:26+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "Feijóo apela al cambio para cerrar una \"negra etapa\" y abrir una reconstrucción nacional: \"Por fin podremos elegir\"",
+      "medio": "Europa Press",
+      "url": "https://www.europapress.es/nacional/noticia-feijoo-apela-cambio-reconstruccion-nacional-cree-sanchez-merece-mayor-castigos-20261005102608.html",
+      "fecha": "2026-10-05T08:26+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "Mónica García se postula para liderar el Frente Amplio, que invita a Podemos a sentarse a dialogar",
+      "medio": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/politica/20261005/11651117/sumar-todavia-sin-candidato-frente-amplio-somos-mas.html",
+      "fecha": "2026-10-05T08:19+00:00",
+      "partidos": [
+        "podemos"
+      ]
+    },
+    {
+      "titulo": "Sánchez llama a las urnas con el PP y Vox en más de 200 escaños y la izquierda en mínimos",
+      "medio": "El Mundo",
+      "url": "https://www.elmundo.es/espana/encuestas/2026/10/04/6ac25e4dfc6c83bb588b458d.html",
+      "fecha": "2026-10-05T08:03+00:00",
+      "partidos": [
+        "pp",
+        "vox"
+      ]
+    },
+    {
+      "titulo": "Lee el discurso completo de Pedro Sánchez sobre las elecciones anticipadas",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/politica/consulta-discurso-completo-pedro-sanchez-elecciones-anticipadas_1_13561725.html",
+      "fecha": "2026-10-05T07:30+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "Vox toma impulso en la pugna de la derecha de cara a las elecciones: Abascal vuelve a recibir un millón de votantes de Feijóo",
+      "medio": "El Mundo",
+      "url": "https://www.elmundo.es/espana/encuestas/2026/10/05/6ac262c3e4d4d8ff418b4575.html",
+      "fecha": "2026-10-05T07:21+00:00",
+      "partidos": [
+        "pp",
+        "vox"
+      ]
+    },
+    {
+      "titulo": "Feijóo comparece tras el anuncio de adelanto electoral",
+      "medio": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/politica/20261005/11651079/feijoo-comparece-anuncio-adelanto-electoral.html",
+      "fecha": "2026-10-05T07:21+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "El PSOE afronta las elecciones anticipadas con un único objetivo realista: evitar el batacazo aunque gobiernen PP y Vox",
+      "medio": "El Mundo",
+      "url": "https://www.elmundo.es/espana/2026/10/04/6ac26bb0fdddffe9668b45a4.html",
+      "fecha": "2026-10-05T07:09+00:00",
+      "partidos": [
+        "pp",
+        "psoe",
+        "vox"
+      ]
+    },
+    {
+      "titulo": "Pedro Sánchez adelanta las elecciones generales al 29 de noviembre",
+      "medio": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/politica/20261005/11651065/pedro-sanchez-adelanta-elecciones-generales-29-noviembre.html",
+      "fecha": "2026-10-05T07:09+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "Page es el favorito de los españoles para sustituir a Sánchez e Illa la mejor opción según los socialistas",
+      "medio": "El Mundo",
+      "url": "https://www.elmundo.es/espana/2026/10/05/6ac2304521efa037618b456d.html",
+      "fecha": "2026-10-05T06:31+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "Adelanto electoral de Sánchez, en directo | El PNV no confirma su voto a favor del decreto de vivienda en la Diputación Permanente: \"Lo analizaremos en profundidad\"",
+      "medio": "20minutos",
+      "url": "https://www.20minutos.es/nacional/adelanto-electoral-sanchez-directo-sanchez-decide-si-convoca-elecciones-tras-un-fin-semana-reflexion-movilizaciones-las-calles_7044725_6.html",
+      "fecha": "2026-10-05T05:48+00:00",
+      "partidos": [
+        "pnv"
+      ]
+    },
+    {
+      "titulo": "Los partidos de Sumar aceleran la designación de su líder ante un eventual adelanto electoral",
+      "medio": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/politica/20261005/11650741/partidos-sumar-designaran-lider-17-octubre-eventual-adelanto-electoral.html",
+      "fecha": "2026-10-05T04:00+00:00",
+      "partidos": [
+        "sumar"
+      ]
+    },
+    {
+      "titulo": "El TC despejará esta semana el regreso de Puigdemont tras la estocada de Junts al Gobierno y en pleno ambiente preelectoral",
+      "medio": "20minutos",
+      "url": "https://www.20minutos.es/nacional/tc-despejara-esta-semana-regreso-puigdemont-tras-estocada-junts-gobierno-pleno-ambiente-preelectoral_7044271_0.html",
+      "fecha": "2026-10-05T03:00+00:00",
+      "partidos": [
+        "junts"
+      ]
+    },
+    {
+      "titulo": "El PP ve el órdago de Sánchez con el adelanto de las elecciones y no teme una campaña que pivote sobre vivienda",
+      "medio": "El Mundo",
+      "url": "https://www.elmundo.es/espana/2026/10/05/6ac11ec8fdddff4e1a8b45ae.html",
+      "fecha": "2026-10-04T22:01+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "El último cuarto de Pedro Sánchez",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/politica/ultimo-cuarto-pedro-sanchez_129_13561423.html",
+      "fecha": "2026-10-04T20:11+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "Tres juzgados investigan a alcaldes del PP en Huelva por presuntos \"amaños\" en la contratación pública de festejos taurinos",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/andalucia/tres-juzgados-investigan-alcaldes-pp-huelva-presuntos-amanos-contratacion-publica-festejos-taurinos_1_13499610.html",
+      "fecha": "2026-10-04T20:11+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "Iberdrola, PNV y PP calientan el \"viejo\" debate para un posible troceo de Red Eléctrica: \"Es la gallina de los huevos de oro\"",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/economia/iberdrola-pnv-pp-calientan-viejo-debate-posible-troceo-red-electrica-gallina-huevos-oro_1_13556087.html",
+      "fecha": "2026-10-04T20:11+00:00",
+      "partidos": [
+        "pp",
+        "pnv"
+      ]
+    },
+    {
+      "titulo": "Los partidos de Sumar anuncian que presentarán a su candidato a las elecciones el 17 de octubre y su proyecto llamado Frente Amplio",
+      "medio": "El Mundo",
+      "url": "https://www.elmundo.es/espana/2026/10/04/6ac24afde4d4d8d9328b4575.html",
+      "fecha": "2026-10-04T13:12+00:00",
+      "partidos": [
+        "sumar"
+      ]
+    },
+    {
+      "titulo": "Sumar acelera su Frente Amplio y fija el 17 de octubre para su lanzamiento",
+      "medio": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/politica/20261004/11650670/partidos-sumar-aceleran-frente-amplio-fijan-17-octubre-presentacion.html",
+      "fecha": "2026-10-04T13:04+00:00",
+      "partidos": [
+        "sumar"
+      ]
+    },
+    {
+      "titulo": "Barones del PSOE presionan para que Sánchez convoque ya las elecciones: \"Hay una ventana de oportunidad ahora que la ciudadanía ha despertado\"",
+      "medio": "El Mundo",
+      "url": "https://www.elmundo.es/espana/2026/10/04/6ac23f6dfdddff33668b4597.html",
+      "fecha": "2026-10-04T12:16+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "Con Junts empezó y sin Junts se acaba",
+      "medio": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/politica/20261004/11650280/junts-empezo-junts-acaba.html",
+      "fecha": "2026-10-04T04:00+00:00",
+      "partidos": [
+        "junts"
+      ]
+    },
+    {
+      "titulo": "La coherencia de Junts",
+      "medio": "El País",
+      "url": "https://elpais.com/opinion/2026-10-04/la-coherencia-de-junts.html",
+      "fecha": "2026-10-04T03:30+00:00",
+      "partidos": [
+        "junts"
+      ]
+    },
+    {
+      "titulo": "Dilema en el PSOE mientras Sánchez ultima su decisión: \"Calentar más calle\" o convocar y \"hacérselo pagar ya al PP\"",
+      "medio": "El Mundo",
+      "url": "https://www.elmundo.es/espana/2026/10/04/6ac14a90e4d4d8a9708b45b9.html",
+      "fecha": "2026-10-03T23:51+00:00",
+      "partidos": [
+        "pp",
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "Quiniela de candidatos en Sumar: Mónica García y Colau, al alza y un tapado de IU",
+      "medio": "El Mundo",
+      "url": "https://www.elmundo.es/espana/2026/10/04/6ac11ecdfdddfff8458b456e.html",
+      "fecha": "2026-10-03T23:51+00:00",
+      "partidos": [
+        "sumar"
+      ]
+    },
+    {
+      "titulo": "Sánchez usó a Zapatero como baza con Junts para intentar salvar los decretos de vivienda",
+      "medio": "El Mundo",
+      "url": "https://www.elmundo.es/espana/2026/10/03/6ac131e8e4d4d82f0f8b45b6.html",
+      "fecha": "2026-10-03T20:48+00:00",
+      "partidos": [
+        "junts"
+      ]
+    },
+    {
+      "titulo": "Feijóo reclama a Sánchez no \"amagar\" más con el adelanto electoral porque España tiene \"derecho a decidir ya\"",
+      "medio": "El Mundo",
+      "url": "https://www.elmundo.es/espana/2026/10/03/6ac0e11ce85ece26648b4573.html",
+      "fecha": "2026-10-03T12:44+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "Junts avisa al Gobierno de que está “a tiempo” de “rectificar” y negociar un nuevo decreto",
+      "medio": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/politica/20261003/11650194/junts-avisa-gobierno-esta-rectificar-negociar-nuevo-decreto.html",
+      "fecha": "2026-10-03T12:32+00:00",
+      "partidos": [
+        "junts"
+      ]
+    },
+    {
+      "titulo": "Feijóo insta a Sánchez a convocar elecciones no por “revanchismo” sino porque “el país no aguanta más”",
+      "medio": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/politica/20261003/11650189/feijoo-insta-sanchez-convocar-elecciones-revanchismo-pais-aguanta-mas.html",
+      "fecha": "2026-10-03T11:43+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "Junts regresa al sistema",
+      "medio": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/politica/20261003/11649802/junts-regresa-sistema.html",
+      "fecha": "2026-10-03T06:54+00:00",
+      "partidos": [
+        "junts"
+      ]
+    },
+    {
+      "titulo": "Sánchez abona el adelanto electoral tras el golpe de Junts a la legislatura",
+      "medio": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/politica/20261003/11649812/sanchez-abona-adelanto-electoral-golpe-junts-legislatura.html",
+      "fecha": "2026-10-02T22:05+00:00",
+      "partidos": [
+        "junts"
+      ]
+    },
+    {
+      "titulo": "¿Lentejas? Junts las deja",
+      "medio": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/politica/20261003/11649782/lentejas-junts-deja.html",
+      "fecha": "2026-10-02T22:05+00:00",
+      "partidos": [
+        "junts"
+      ]
+    },
+    {
+      "titulo": "Rufián llama a Junts “clasistas de mierda” y Turull le responde que él es “un invento de las cloacas del Estado”",
+      "medio": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/politica/20261002/11649757/rufian-llama-junts-clasistas-mierda-turull-le-responde-invento-cloacas.html",
+      "fecha": "2026-10-02T16:45+00:00",
+      "partidos": [
+        "junts"
+      ]
+    },
+    {
+      "titulo": "Feijóo exige elecciones a Sánchez tras el rechazo a los decretos de vivienda: “La escapada debe terminar aquí”",
+      "medio": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/politica/20261002/11649676/feijoo-exige-elecciones-sanchez-rechazo-decretos-vivienda-escapada-debe-terminar.html",
+      "fecha": "2026-10-02T14:30+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "El Congreso tumba los decretos de vivienda: última hora sobre el adelanto de las elecciones de Pedro Sánchez y las acampadas indefinidas, en directo",
+      "medio": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/politica/20261002/11649232/congreso-de-los-dipuatdos-decreto-vivienda-deshaucio-maricarmen-acampada-puerta-del-sol-madrid-manifestaciones-crisis-vivienda-ultima-hora-hoy-en-directo.html",
+      "fecha": "2026-10-02T13:52+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "Rufián pide \"cabeza fría\" a Sánchez y le emplaza a no convocar elecciones: no tiene \"nada a su izquierda para poder sumar\"",
+      "medio": "20minutos",
+      "url": "https://www.20minutos.es/nacional/rufian-pide-cabeza-fria-sanchez-le-emplaza-no-convocar-elecciones-no-tiene-nada-su-izquierda-para-poder-sumar_7044184_0.html",
+      "fecha": "2026-10-02T12:04+00:00",
+      "partidos": [
+        "sumar"
+      ]
+    },
+    {
+      "titulo": "Illa expresa su “profunda decepción” con Junts por no apoyar los decretos de vivienda",
+      "medio": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/politica/20261002/11649533/illa-expresa-profunda-decepcion-junts-apoyar-decretos-vivienda.html",
+      "fecha": "2026-10-02T11:50+00:00",
+      "partidos": [
+        "junts"
+      ]
+    },
+    {
+      "titulo": "El PP señala el “fracaso sanchista” en la vivienda y reivindica su plan: “No os vamos a fallar”",
+      "medio": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/politica/20261002/11649508/pp-senala-fracaso-sanchista-vivienda-reivindica-plan-fallar.html",
+      "fecha": "2026-10-02T11:42+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "Documento | La propuesta de Junts al Gobierno: prórroga voluntaria del alquiler y echar a ocupas en 48 horas",
+      "medio": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/politica/20261002/11649448/documento-propuesta-junts-gobierno-rechazo-decretos-vivienda.html",
+      "fecha": "2026-10-02T10:45+00:00",
+      "partidos": [
+        "junts"
+      ]
+    },
+    {
+      "titulo": "Rufián acusa a Junts de “pagar una deuda” y de defender sus intereses que “putean a miles de personas”",
+      "medio": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/politica/20261002/11649442/rufian-acusa-junts-pagar-deuda-defender-intereses-putean-miles-personas.html",
+      "fecha": "2026-10-02T10:38+00:00",
+      "partidos": [
+        "junts"
+      ]
+    },
+    {
+      "titulo": "Junts acusa al Gobierno de “alimentar la mentira y una falsa esperanza” con el decreto de vivienda e insiste en que se agravaría el problema",
+      "medio": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/politica/20261002/11649413/junts-acusa-gobierno-alimentar-mentira-falsa-esperanza-decreto-vivienda-e-insiste-agravaria-problema.html",
+      "fecha": "2026-10-02T10:17+00:00",
+      "partidos": [
+        "junts"
+      ]
+    },
+    {
+      "titulo": "El Gobierno insta a Junts a desmarcarse de la derecha española con una abstención que salve el decreto",
+      "medio": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/politica/20261002/11649400/gobierno-insta-junts-desmarcarse-derecha-espanola-abstencion-salve-decreto.html",
+      "fecha": "2026-10-02T10:04+00:00",
+      "partidos": [
+        "junts"
+      ]
+    },
+    {
+      "titulo": "Los partidos de Sumar activan su maquinaria ante un posible adelanto electoral de Sánchez",
+      "medio": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/politica/20261002/11649295/partidos-sumar-activan-maquinaria-posible-adelanto-electoral-sanchez.html",
+      "fecha": "2026-10-02T08:06+00:00",
+      "partidos": [
+        "sumar"
+      ]
+    },
+    {
+      "titulo": "España bate un nuevo récord de empleo con 22,4 millones de afiliados tras sumar 92.300 en septiembre, la mayoría por la regularización de migrantes",
+      "medio": "20minutos",
+      "url": "https://www.20minutos.es/lainformacion/economia-y-finanzas/espana-bate-un-nuevo-record-empleo-tras-sumar-92-300-afiliados-septiembre-mayoria-por-regularizacion-migrantes_7044005_0.html",
+      "fecha": "2026-10-02T07:00+00:00",
+      "partidos": [
+        "sumar"
+      ]
+    },
+    {
+      "titulo": "ERC incluye en la condonación del FLA que Catalunya asuma la mayoría del Consorci de la Zona Franca",
+      "medio": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/politica/20261002/11649252/erc-incluye-condonacion-fla-catalunya-asuma-mayoria-consorci-zona-franca.html",
+      "fecha": "2026-10-02T06:49+00:00",
+      "partidos": [
+        "erc"
+      ]
+    },
+    {
+      "titulo": "La tutela de Feijóo",
+      "medio": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/politica/20261002/11649072/tutela-feijoo.html",
+      "fecha": "2026-10-01T22:15+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "Junts tumbará los dos decretos de vivienda y pide al Gobierno que los rehaga",
+      "medio": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/politica/20261001/11649001/junts-tumbara-dos-decretos-vivienda-priva-gobierno-victoria-le-de-oxigeno.html",
+      "fecha": "2026-10-01T20:20+00:00",
+      "partidos": [
+        "junts"
+      ]
+    },
+    {
+      "titulo": "Junts se queda con la llave del primer decreto de vivienda tras el voto a favor de Coalición Canaria",
+      "medio": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/politica/20261001/11648906/junts-queda-llave-primer-decreto-vivienda-voto-favor-coalicion-canaria.html",
+      "fecha": "2026-10-01T18:29+00:00",
+      "partidos": [
+        "junts",
+        "cc"
+      ]
+    },
+    {
+      "titulo": "El PP cree que los decretos de vivienda desatarán una ola de recursos judiciales",
+      "medio": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/politica/20261001/11648783/pp-cree-decretos-vivienda-desataran-ola-recursos-judiciales.html",
+      "fecha": "2026-10-01T15:36+00:00",
+      "partidos": [
+        "pp"
+      ]
+    }
+  ]
 }
