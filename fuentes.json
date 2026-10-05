@@ -1,0 +1,31 @@
+{
+  "_nota": "Lista de medios y palabras clave. Puedes editarla desde GitHub. Si un medio falla varios días, el informe diario lo avisará.",
+  "dias_a_conservar": 14,
+  "max_noticias": 300,
+  "feeds": [
+    {"medio": "RTVE", "url": "https://api2.rtve.es/rss/temas_espana.xml"},
+    {"medio": "El País", "url": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/section/espana/portada"},
+    {"medio": "El Mundo", "url": "https://e00-elmundo.uecdn.es/elmundo/rss/espana.xml"},
+    {"medio": "elDiario.es", "url": "https://www.eldiario.es/rss/"},
+    {"medio": "ABC", "url": "https://www.abc.es/rss/2.0/espana/"},
+    {"medio": "La Vanguardia", "url": "https://www.lavanguardia.com/rss/politica.xml"},
+    {"medio": "El Confidencial", "url": "https://rss.elconfidencial.com/espana/"},
+    {"medio": "20minutos", "url": "https://www.20minutos.es/rss/nacional/"},
+    {"medio": "Europa Press", "url": "https://www.europapress.es/rss/rss.aspx?ch=00066"}
+  ],
+  "partidos": {
+    "pp":      ["PP", "Partido Popular", "Feijóo", "Génova"],
+    "psoe":    ["PSOE", "Pedro Sánchez", "Ferraz", "socialistas"],
+    "vox":     ["Vox", "Abascal"],
+    "sumar":   ["Sumar"],
+    "erc":     ["ERC", "Esquerra Republicana"],
+    "junts":   ["Junts", "Puigdemont"],
+    "bildu":   ["Bildu"],
+    "pnv":     ["PNV", "Partido Nacionalista Vasco"],
+    "podemos": ["Podemos"],
+    "bng":     ["BNG", "Bloque Nacionalista Galego"],
+    "cc":      ["Coalición Canaria"],
+    "upn":     ["UPN", "Unión del Pueblo Navarro"]
+  },
+  "revisar": ["programa electoral", "listas electorales", "cabeza de lista", "candidato a la presidencia", "candidata a la presidencia", "imputad", "investigad", "condena", "sentencia", "Supremo", "Audiencia Nacional", "Junta Electoral"]
+}

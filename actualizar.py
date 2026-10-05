@@ -1,0 +1,174 @@
+#!/usr/bin/env python3
+"""
+Actualiza site/datos.json con titulares de campaña y prepara un informe diario
+de cosas que conviene revisar a mano (casos judiciales, programas, listas).
+
+Publica solo: titulares con enlace (sección Noticias).
+Nunca publica solo: medidas de programas ni casos de corrupción. Eso va al informe.
+"""
+import json, re, sys, html, os
+from datetime import datetime, timedelta, timezone
+from email.utils import parsedate_to_datetime
+from pathlib import Path
+from urllib.request import Request, urlopen
+import xml.etree.ElementTree as ET
+
+RAIZ = Path(__file__).resolve().parent.parent
+DATOS = RAIZ / "site" / "datos.json"
+FUENTES = RAIZ / "scripts" / "fuentes.json"
+ESTADO = RAIZ / "scripts" / "estado.json"
+INFORME = RAIZ / "informe.md"
+UA = "info29n.com (actualizador de noticias; contacto en la web)"
+AHORA = datetime.now(timezone.utc)
+
+def descargar(url, timeout=25):
+    req = Request(url, headers={"User-Agent": UA})
+    with urlopen(req, timeout=timeout) as r:
+        return r.read()
+
+def texto(el, *tags):
+    for t in tags:
+        x = el.find(t)
+        if x is not None and (x.text or "").strip():
+            return x.text.strip()
+        if x is not None and x.get("href"):
+            return x.get("href")
+    return ""
+
+def fecha_item(raw):
+    if not raw:
+        return AHORA
+    try:
+        d = parsedate_to_datetime(raw)
+    except Exception:
+        try:
+            d = datetime.fromisoformat(raw.replace("Z", "+00:00"))
+        except Exception:
+            return AHORA
+    if d.tzinfo is None:
+        d = d.replace(tzinfo=timezone.utc)
+    return d
+
+def leer_feed(url):
+    raiz = ET.fromstring(descargar(url))
+    ns = {"a": "http://www.w3.org/2005/Atom"}
+    items = raiz.findall(".//item") or raiz.findall(".//a:entry", ns)
+    salida = []
+    for it in items:
+        titulo = texto(it, "title", "{http://www.w3.org/2005/Atom}title")
+        enlace = texto(it, "link", "{http://www.w3.org/2005/Atom}link")
+        fecha = texto(it, "pubDate", "{http://purl.org/dc/elements/1.1/}date",
+                      "{http://www.w3.org/2005/Atom}updated", "{http://www.w3.org/2005/Atom}published")
+        if titulo and enlace.startswith("http"):
+            salida.append({"titulo": html.unescape(re.sub(r"\s+", " ", titulo)),
+                           "url": enlace.strip(), "fecha": fecha_item(fecha)})
+    return salida
+
+def patron(palabra):
+    # Siglas cortas en mayúsculas: coincidencia exacta y sensible a mayúsculas.
+    if palabra.isupper() and len(palabra) <= 5:
+        return re.compile(r"(?<![\wÁÉÍÓÚÑáéíóúñ])" + re.escape(palabra) + r"(?![\wÁÉÍÓÚÑáéíóúñ])")
+    return re.compile(r"(?<![\wÁÉÍÓÚÑáéíóúñ])" + re.escape(palabra) + r"(?![\wÁÉÍÓÚÑáéíóúñ])", re.I)
+
+def norm(t):
+    return re.sub(r"[^\wáéíóúñ]+", " ", t.lower()).strip()
+
+def main():
+    fuentes = json.loads(FUENTES.read_text(encoding="utf-8"))
+    datos = json.loads(DATOS.read_text(encoding="utf-8"))
+    estado = json.loads(ESTADO.read_text(encoding="utf-8")) if ESTADO.exists() else {}
+    pats = {pid: [patron(w) for w in ws] for pid, ws in fuentes["partidos"].items()}
+    revisar = [patron(w) for w in fuentes.get("revisar", [])]
+
+    previas = datos.get("noticias", [])
+    vistos_url = {n["url"] for n in previas}
+    vistos_tit = {norm(n["titulo"]) for n in previas}
+    nuevas, fallos, para_revisar = [], [], []
+
+    for f in fuentes["feeds"]:
+        try:
+            items = leer_feed(f["url"])
+        except Exception as e:
+            fallos.append(f"{f['medio']}: {type(e).__name__} {e}"[:200])
+            continue
+        for it in items:
+            partidos = [pid for pid, ps in pats.items() if any(p.search(it["titulo"]) for p in ps)]
+            if not partidos:
+                continue
+            if it["url"] in vistos_url or norm(it["titulo"]) in vistos_tit:
+                continue
+            vistos_url.add(it["url"]); vistos_tit.add(norm(it["titulo"]))
+            n = {"titulo": it["titulo"], "medio": f["medio"], "url": it["url"],
+                 "fecha": it["fecha"].astimezone(timezone.utc).isoformat(timespec="minutes"),
+                 "partidos": partidos}
+            nuevas.append(n)
+            if any(p.search(it["titulo"]) for p in revisar):
+                para_revisar.append(n)
+
+    limite = AHORA - timedelta(days=fuentes.get("dias_a_conservar", 14))
+    todas = [n for n in previas + nuevas if datetime.fromisoformat(n["fecha"]) >= limite]
+    todas.sort(key=lambda n: n["fecha"], reverse=True)
+    todas = todas[: fuentes.get("max_noticias", 300)]
+
+    cambiado = todas != previas
+    if cambiado:
+        datos["noticias"] = todas
+        datos["actualizado"] = AHORA.isoformat(timespec="minutes")
+        DATOS.write_text(json.dumps(datos, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
+
+    # --- Casos Aislados: solo como aviso para revisar, nunca se publica solo ---
+    ca_nuevos, ca_error = [], None
+    try:
+        h = descargar("https://casos-aislados.com/index.php").decode("utf-8", "replace")
+        bloque = h.split("Casos Actualizados", 1)[1][:15000] if "Casos Actualizados" in h else h
+        rx = re.compile(r'href="([^"]*Caso-Aislado\.php\?Caso=[^"]*?numero=(\d+))"[^>]*>([^<]+)</a>\s*\((\d{2}/\d{2}/\d{2})\)')
+        vistos = estado.setdefault("casos_aislados_vistos", {})
+        encontrados = rx.findall(bloque)
+        if not encontrados:
+            ca_error = "no se encontró la lista de casos actualizados (puede haber cambiado el diseño de la web)"
+        for href, num, nombre, fecha in encontrados:
+            clave = f"{num}|{fecha}"
+            if clave not in vistos:
+                vistos[clave] = AHORA.date().isoformat()
+                url = html.unescape(href)
+                if not url.startswith("http"):
+                    url = "https://casos-aislados.com/" + url.lstrip("/")
+                ca_nuevos.append((html.unescape(nombre.strip()), fecha, url.replace(" ", "%20")))
+        ESTADO.write_text(json.dumps(estado, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
+    except Exception as e:
+        ca_error = f"{type(e).__name__} {e}"[:200]
+
+    # --- Informe diario ---
+    pid2name = {p["id"]: p["name"] for p in datos["partidos"]}
+    lineas = []
+    if para_revisar:
+        lineas.append("## Titulares que pueden afectar a programas, listas o casos judiciales\n")
+        lineas.append("Ya están publicados en Noticias. Revisa si hay que actualizar Propuestas o Corrupción.\n")
+        for n in para_revisar:
+            ps = ", ".join(pid2name.get(p, p) for p in n["partidos"])
+            lineas.append(f"- [ ] [{n['titulo']}]({n['url']}) · {n['medio']} · {ps}")
+        lineas.append("")
+    if ca_nuevos:
+        lineas.append("## Casos Aislados: casos nuevos o actualizados\n")
+        lineas.append("Solo como pista. Antes de añadir nada, comprueba el estado judicial en prensa o en la resolución.\n")
+        for nombre, fecha, url in ca_nuevos:
+            lineas.append(f"- [ ] [{nombre}]({url}) · actualizado el {fecha}")
+        lineas.append("")
+    if fallos or ca_error:
+        lineas.append("## Fuentes que han fallado\n")
+        for f in fallos:
+            lineas.append(f"- {f}")
+        if ca_error:
+            lineas.append(f"- Casos Aislados: {ca_error}")
+        lineas.append("")
+    if lineas:
+        cab = f"Noticias nuevas en esta ejecución: {len(nuevas)}. Total publicadas: {len(todas)}.\n"
+        INFORME.write_text(cab + "\n" + "\n".join(lineas), encoding="utf-8")
+    elif INFORME.exists():
+        INFORME.unlink()
+
+    print(f"nuevas={len(nuevas)} total={len(todas)} revisar={len(para_revisar)} "
+          f"casos_aislados={len(ca_nuevos)} fallos={len(fallos)} cambiado={cambiado}")
+
+if __name__ == "__main__":
+    sys.exit(main())

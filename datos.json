@@ -1,0 +1,395 @@
+{
+  "actualizado": "2026-10-05T18:00:00+02:00",
+  "temas": [
+    {
+      "id": "vivienda",
+      "name": "Vivienda",
+      "cis": 37.5,
+      "desc": "Alquiler, compra, vivienda pública y acceso para jóvenes."
+    },
+    {
+      "id": "economia",
+      "name": "Economía y coste de vida",
+      "cis": 21.6,
+      "desc": "Precios, impuestos, salarios y poder adquisitivo."
+    },
+    {
+      "id": "inmigracion",
+      "name": "Inmigración",
+      "cis": 19.7,
+      "desc": "Control de fronteras, integración y regularización."
+    },
+    {
+      "id": "politica",
+      "name": "Política e instituciones",
+      "cis": 18.8,
+      "desc": "Gobierno, partidos, corrupción y reformas institucionales."
+    },
+    {
+      "id": "empleo",
+      "name": "Empleo",
+      "cis": 13.7,
+      "desc": "Calidad del empleo, paro y condiciones laborales."
+    },
+    {
+      "id": "sanidad",
+      "name": "Sanidad",
+      "cis": 11.1,
+      "desc": "Listas de espera, atención primaria y personal sanitario."
+    }
+  ],
+  "partidos": [
+    {
+      "id": "pp",
+      "name": "Partido Popular (PP)",
+      "scope": "Toda España"
+    },
+    {
+      "id": "psoe",
+      "name": "PSOE",
+      "scope": "Toda España"
+    },
+    {
+      "id": "vox",
+      "name": "Vox",
+      "scope": "Toda España"
+    },
+    {
+      "id": "sumar",
+      "name": "Sumar",
+      "scope": "Toda España"
+    },
+    {
+      "id": "erc",
+      "name": "ERC",
+      "scope": "Cataluña"
+    },
+    {
+      "id": "junts",
+      "name": "Junts",
+      "scope": "Cataluña"
+    },
+    {
+      "id": "bildu",
+      "name": "EH Bildu",
+      "scope": "País Vasco y Navarra"
+    },
+    {
+      "id": "pnv",
+      "name": "PNV",
+      "scope": "País Vasco"
+    },
+    {
+      "id": "podemos",
+      "name": "Podemos",
+      "scope": "Toda España"
+    },
+    {
+      "id": "bng",
+      "name": "BNG",
+      "scope": "Galicia"
+    },
+    {
+      "id": "cc",
+      "name": "Coalición Canaria",
+      "scope": "Canarias"
+    },
+    {
+      "id": "upn",
+      "name": "UPN",
+      "scope": "Navarra"
+    }
+  ],
+  "medidas": {},
+  "resumen": {},
+  "votaciones": [
+    {
+      "topic": "vivienda",
+      "title": "Primer decreto de vivienda",
+      "date": "2026-10-02",
+      "what": "Prórroga de alquileres, topes a las rentas, límites a la compra de vivienda por grandes fondos y medidas contra los desahucios.",
+      "result": "Rechazado: 172 votos a favor y 178 en contra.",
+      "yesLabel": "A favor",
+      "noLabel": "En contra",
+      "si": [
+        "psoe",
+        "sumar",
+        "erc",
+        "bildu",
+        "pnv",
+        "podemos",
+        "bng",
+        "cc"
+      ],
+      "no": [
+        "pp",
+        "vox",
+        "junts",
+        "upn"
+      ],
+      "src": "https://theobjective.com/espana/politica/2026-10-02/congreso-sanchez-decretos-vivienda-elecciones/"
+    },
+    {
+      "topic": "vivienda",
+      "title": "Segundo decreto de vivienda",
+      "date": "2026-10-02",
+      "what": "Contratos de alquiler indefinidos, con renovación automática.",
+      "result": "Rechazado: 166 votos a favor y 184 en contra.",
+      "yesLabel": "A favor",
+      "noLabel": "En contra",
+      "si": [
+        "psoe",
+        "sumar",
+        "erc",
+        "bildu",
+        "podemos",
+        "bng"
+      ],
+      "no": [
+        "pp",
+        "vox",
+        "junts",
+        "upn",
+        "pnv",
+        "cc"
+      ],
+      "src": "https://pamplonaactual.com/pamplona-actual/el-congreso-tumba-los-dos-decretos-de-vivienda-con-el-rechazo-de-pp-vox-junts-y-upn/"
+    },
+    {
+      "topic": "empleo",
+      "title": "Reducción de la jornada laboral a 37,5 horas",
+      "date": "2025-09-10",
+      "what": "Se votó si devolver la ley al Gobierno, como pedían PP, Vox y Junts. Aquí \"a favor\" significa a favor de seguir tramitando la ley.",
+      "result": "La ley decayó: 178 votos para devolverla y 170 para seguir tramitándola.",
+      "yesLabel": "A favor de tramitarla",
+      "noLabel": "En contra",
+      "si": [
+        "psoe",
+        "sumar",
+        "erc",
+        "bildu",
+        "pnv",
+        "podemos",
+        "bng"
+      ],
+      "no": [
+        "pp",
+        "vox",
+        "junts",
+        "upn"
+      ],
+      "src": "https://www.economistjurist.es/zbloque-1/cronica-de-una-derrota-anunciada-el-congreso-dice-no-al-proyecto-de-ley-de-reduccion-de-jornada-laboral-de-yolanda-diaz/"
+    },
+    {
+      "topic": "inmigracion",
+      "title": "Iniciativa popular para regularizar a unas 500.000 personas migrantes",
+      "date": "2024-04-09",
+      "what": "Se votó admitirla a debate en el Congreso (toma en consideración), no aprobarla.",
+      "result": "Admitida: 310 votos a favor y 33 en contra.",
+      "yesLabel": "A favor de debatirla",
+      "noLabel": "En contra",
+      "si": [
+        "pp",
+        "psoe",
+        "sumar",
+        "erc",
+        "junts",
+        "bildu",
+        "pnv",
+        "podemos",
+        "bng"
+      ],
+      "no": [
+        "vox"
+      ],
+      "src": "https://www.elsaltodiario.com/migracion/ilp-regularizacion-personas-migrantes-entra-congreso-mayoritario-grupo"
+    },
+    {
+      "topic": "politica",
+      "title": "Ley de amnistía",
+      "date": "2024-05-30",
+      "what": "Amnistía para las personas encausadas por el proceso independentista catalán. Votación final tras el veto del Senado.",
+      "result": "Aprobada: 177 votos a favor y 172 en contra.",
+      "yesLabel": "A favor",
+      "noLabel": "En contra",
+      "si": [
+        "psoe",
+        "sumar",
+        "erc",
+        "junts",
+        "bildu",
+        "pnv",
+        "podemos",
+        "bng"
+      ],
+      "no": [
+        "pp",
+        "vox",
+        "cc",
+        "upn"
+      ],
+      "src": "https://www.lamarea.com/2024/05/30/el-congreso-aprueba-la-ley-de-amnistia-y-da-paso-a-la-justicia"
+    }
+  ],
+  "estados": {
+    "inv": "En investigación",
+    "juicio": "Juicio celebrado, pendiente de sentencia",
+    "nofirme": "Condena no firme",
+    "firme": "Condena firme",
+    "ts": "Condena del Tribunal Supremo"
+  },
+  "casos": [
+    {
+      "party": "pp",
+      "title": "Operación Kitchen",
+      "who": "Jorge Fernández Díaz, exministro del Interior (Gobierno de Rajoy), y su antigua cúpula policial.",
+      "what": "Presunta operación parapolicial desde el Ministerio del Interior para quitar al extesorero del PP, Luis Bárcenas, documentación comprometedora para el partido. La Fiscalía Anticorrupción pide 15 años de prisión para el exministro. Su defensa pide la absolución.",
+      "status": "juicio",
+      "date": "2026-07-28",
+      "src": [
+        [
+          "elDiario.es",
+          "https://www.eldiario.es/1_cca583"
+        ],
+        [
+          "Diari de Tarragona (EFE)",
+          "https://www.diaridetarragona.com/espana/266956/audiencia-nacional-deja-visto-sentencia-juicio-kitchen.html"
+        ]
+      ]
+    },
+    {
+      "party": "pp",
+      "title": "Caso Montoro",
+      "who": "Cristóbal Montoro, exministro de Hacienda.",
+      "what": "Un juzgado de Tarragona investiga si, desde el ministerio, se modificaron leyes para favorecer a empresas clientes del despacho que fundó, a cambio de pagos. Las defensas sostienen que las reformas eran legítimas. La instrucción se prorrogó en julio de 2026.",
+      "status": "inv",
+      "date": "2026-07-27",
+      "src": [
+        [
+          "elDiario.es",
+          "https://www.eldiario.es/politica/juez-busca-relanzar-investigacion-montoro-beneficiar-gasistas-cambio-comisiones_1_13421297.html"
+        ],
+        [
+          "Ara",
+          "https://es.ara.cat/politica/punto-caso-montoro-ano-despues-salir-luz_1_5821351.html"
+        ]
+      ]
+    },
+    {
+      "party": "pp",
+      "title": "Caso Erial",
+      "who": "Eduardo Zaplana, exministro y expresidente de la Generalitat Valenciana.",
+      "what": "Condenado por la Audiencia de Valencia a 10 años y 5 meses de prisión por cobrar comisiones por adjudicaciones de las ITV y llevar el dinero al extranjero. Recurrió al Tribunal Supremo; no hemos podido confirmar si ya hay resolución.",
+      "status": "nofirme",
+      "date": "2024-10-15",
+      "src": [
+        [
+          "Valencia Plaza",
+          "https://valenciaplaza.com/sentencia-caso-erial-zaplana"
+        ],
+        [
+          "El Independiente",
+          "https://www.elindependiente.com/espana/2025/03/12/zaplana-denuncia-que-la-sentencia-de-la-audiencia-de-valencia-por-el-caso-erial-se-basa-en-pruebas-prefabricadas-y-pide-su-absolucion-al-supremo/amp/"
+        ]
+      ]
+    },
+    {
+      "party": "psoe",
+      "title": "Caso Koldo: contratos de mascarillas",
+      "who": "José Luis Ábalos, exministro de Transportes y exsecretario de Organización del PSOE (expulsado del partido en 2024), y su exasesor Koldo García.",
+      "what": "Condenados por el Tribunal Supremo por organización criminal, cohecho, malversación y tráfico de influencias en contratos de mascarillas durante la pandemia: 24 años de prisión para Ábalos y 19 para Koldo García.",
+      "status": "ts",
+      "date": "2026-06-22",
+      "src": [
+        [
+          "El Español",
+          "https://www.elespanol.com/espana/politica/20260622/abalos-condenado-carcel-koldo-prision-aldama-directo/1003744294876_10.html"
+        ]
+      ]
+    },
+    {
+      "party": "psoe",
+      "title": "Caso Koldo: adjudicaciones de obra pública",
+      "who": "Santos Cerdán, exsecretario de Organización del PSOE (dejó el partido en 2025).",
+      "what": "La Audiencia Nacional investiga su posible participación en presuntos amaños de obra pública. Pasó varios meses en prisión provisional desde junio de 2025. El Supremo remitió esta parte de la investigación a la Audiencia Nacional.",
+      "status": "inv",
+      "date": "2026-03-02",
+      "src": [
+        [
+          "Iustel (Diario del Derecho)",
+          "https://www.iustel.com/diario_del_derecho/noticia.asp?ref_iustel=1262777"
+        ]
+      ]
+    },
+    {
+      "party": "psoe",
+      "title": "Contratación en la Diputación de Badajoz",
+      "who": "Miguel Ángel Gallardo, expresidente de la Diputación de Badajoz y exsecretario general del PSOE de Extremadura.",
+      "what": "Condenado a 18 años de inhabilitación por dos delitos de prevaricación administrativa relacionados con la plaza creada para David Sánchez, hermano del presidente del Gobierno, también condenado. Absueltos de tráfico de influencias. La sentencia es recurrible.",
+      "status": "nofirme",
+      "date": "2026-07-14",
+      "src": [
+        [
+          "El Independiente",
+          "https://www.elindependiente.com/espana/2026/07/14/david-sanchez-condenado-inhabilitacion-prevaricacion-contratacion-badajoz/"
+        ],
+        [
+          "Diari de Tarragona (EFE)",
+          "https://www.diaridetarragona.com/espana/265755/david-sanchez-condenado-9-anos-inhabilitacion-empleo-publico.html"
+        ]
+      ]
+    },
+    {
+      "party": "vox",
+      "title": "Financiación del partido",
+      "who": "El propio partido.",
+      "what": "La Fiscalía Anticorrupción abrió en 2025 diligencias, tras una denuncia del PSOE, sobre donaciones en efectivo en sus puestos callejeros y un préstamo de un banco húngaro. Son diligencias de la Fiscalía, una fase previa a la vía judicial. Vox defiende la legalidad de su financiación. No hemos podido confirmar su estado actual.",
+      "status": "inv",
+      "date": "2025-03-10",
+      "src": [
+        [
+          "The Objective",
+          "https://theobjective.com/espana/tribunales/2025-03-10/fiscalia-anticorrupcion-vox-financiacion-irregular/"
+        ],
+        [
+          "Ara",
+          "https://es.ara.cat/politica/fiscalia-anticorrupcion-abre-investigacion-vox-financiacion-irregular_1_5310337.html"
+        ]
+      ]
+    },
+    {
+      "party": "junts",
+      "title": "Institució de les Lletres Catalanes",
+      "who": "Laura Borràs, expresidenta del Parlament y de Junts.",
+      "what": "Condenada a 4 años y medio de prisión y 13 de inhabilitación por prevaricación y falsedad, por fraccionar contratos para adjudicarlos a un conocido. El Supremo confirmó la condena en 2025 y descartó aplicarle la amnistía. El Gobierno le concedió después un indulto parcial que rebaja la prisión a 2 años.",
+      "status": "firme",
+      "date": "2025-02-01",
+      "dateLabel": "febrero de 2025",
+      "src": [
+        [
+          "Ara",
+          "https://es.ara.cat/politica/supremo-confirma-condena-borras-rechaza-aplicarle-amnistia_1_5282392.html"
+        ],
+        [
+          "Diari de Tarragona",
+          "https://www.diaridetarragona.com/catalunya/267044/gobierno-concede-indulto-parcial-expresidenta-parlament-laura-borras_amp.html"
+        ]
+      ]
+    },
+    {
+      "party": "pnv",
+      "title": "Caso De Miguel",
+      "who": "Alfredo de Miguel, exnúmero dos del PNV en Álava, y otros excargos del partido.",
+      "what": "Condenados por adjudicaciones irregulares de contratos públicos y cobro de comisiones. De Miguel ingresó en prisión en julio de 2023 para cumplir 12 años y 4 meses.",
+      "status": "firme",
+      "date": "2023-07-06",
+      "src": [
+        [
+          "El Independiente",
+          "https://www.elindependiente.com/espana/2023/07/06/ingresan-en-prision-dos-exaltos-cargos-del-pnv-que-lideraban-la-mayor-trama-de-corrupcion-de-euskadi/"
+        ]
+      ]
+    }
+  ],
+  "noticias": []
+}
