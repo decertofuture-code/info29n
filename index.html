@@ -521,7 +521,20 @@ const esc=t=>String(t).replace(/[&<>"']/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;"
 document.getElementById("news-filter").addEventListener("click",e=>{
   const b=e.target.closest("button"); if(!b) return; newsParty=b.dataset.p; renderNews();
 });
-fetch("datos.json",{cache:"no-cache"}).then(r=>{if(!r.ok) throw new Error(r.status); return r.json();}).then(d=>{
+// Los datos se leen de GitHub para que actualizarlos no requiera publicar la web en Netlify
+// (cada publicación en Netlify gasta créditos). Si falla, se usa la copia local.
+const FUENTES_DATOS=[
+  "https://cdn.jsdelivr.net/gh/decertofuture-code/info29n@main/datos.json",
+  "https://raw.githubusercontent.com/decertofuture-code/info29n/main/datos.json",
+  "datos.json"
+];
+async function cargarDatos(){
+  for(const u of FUENTES_DATOS){
+    try{ const r=await fetch(u,{cache:"no-cache"}); if(r.ok) return await r.json(); }catch(e){}
+  }
+  throw new Error("sin datos");
+}
+cargarDatos().then(d=>{
   TOPICS=d.temas; PARTIES=d.partidos.map(p=>({...p,lead:`Se presenta en: ${p.scope}. Candidatura por confirmar.`}));
   MEASURES=d.medidas||{}; RESUMEN=d.resumen||{}; VOTES=d.votaciones||[]; STATUS=d.estados||{}; CASES=d.casos||[];
   NEWS=(d.noticias||[]).sort((a,b)=>b.fecha.localeCompare(a.fecha)); UPDATED=d.actualizado;

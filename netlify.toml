@@ -1,6 +1,8 @@
 [build]
   publish = "."
   command = ""
+  # No publicar si solo cambian los datos: la web los lee de GitHub y cada publicación gasta créditos.
+  ignore = "git diff --quiet $CACHED_COMMIT_REF $COMMIT_REF -- . ':(exclude)datos.json' ':(exclude)estado.json'"
 
 [[headers]]
   for = "/datos.json"

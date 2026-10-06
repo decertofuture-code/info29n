@@ -64,11 +64,39 @@ def leer_feed(url):
                            "url": enlace.strip(), "fecha": fecha_item(fecha)})
     return salida
 
-def patron(palabra):
-    # Siglas cortas en mayúsculas: coincidencia exacta y sensible a mayúsculas.
-    if palabra.isupper() and len(palabra) <= 5:
-        return re.compile(r"(?<![\wÁÉÍÓÚÑáéíóúñ])" + re.escape(palabra) + r"(?![\wÁÉÍÓÚÑáéíóúñ])")
-    return re.compile(r"(?<![\wÁÉÍÓÚÑáéíóúñ])" + re.escape(palabra) + r"(?![\wÁÉÍÓÚÑáéíóúñ])", re.I)
+def patron(palabra, prefijo=False):
+    # Si la palabra lleva alguna mayúscula (nombre propio o siglas) se exige igual:
+    # así "Sumar" o "Podemos" no coinciden con los verbos "sumar" o "podemos".
+    flags = 0 if any(c.isupper() for c in palabra) else re.I
+    fin = "" if prefijo else r"(?![\wÁÉÍÓÚÑáéíóúñ])"  # prefijo=True: "candidat" vale para candidato, candidatura...
+    return re.compile(r"(?<![\wÁÉÍÓÚÑáéíóúñ])" + re.escape(palabra) + fin, flags)
+
+def inicio_de_frase(titulo, pos):
+    antes = titulo[:pos].rstrip()
+    return antes == "" or antes[-1] in "¿¡«\"“'(.:;!?"
+
+def partidos_de(titulo, pats, ambiguas, contexto):
+    """Partidos mencionados en un titular.
+    Las palabras ambiguas (p. ej. "Podemos", que también es un verbo) solo cuentan a principio
+    de frase si el titular tiene además alguna palabra de contexto político."""
+    hay_contexto = None
+    res = []
+    for pid, ps in pats.items():
+        ok = False
+        for palabra, p in ps:
+            for m in p.finditer(titulo):
+                if palabra in ambiguas and inicio_de_frase(titulo, m.start()):
+                    if hay_contexto is None:
+                        hay_contexto = any(c.search(titulo) for c in contexto)
+                    if not hay_contexto:
+                        continue
+                ok = True
+                break
+            if ok:
+                break
+        if ok:
+            res.append(pid)
+    return res
 
 def norm(t):
     return re.sub(r"[^\wáéíóúñ]+", " ", t.lower()).strip()
@@ -77,10 +105,20 @@ def main():
     fuentes = json.loads(FUENTES.read_text(encoding="utf-8"))
     datos = json.loads(DATOS.read_text(encoding="utf-8"))
     estado = json.loads(ESTADO.read_text(encoding="utf-8")) if ESTADO.exists() else {}
-    pats = {pid: [patron(w) for w in ws] for pid, ws in fuentes["partidos"].items()}
-    revisar = [patron(w) for w in fuentes.get("revisar", [])]
+    pats = {pid: [(w, patron(w)) for w in ws] for pid, ws in fuentes["partidos"].items()}
+    ambiguas = set(fuentes.get("ambiguas", []))
+    contexto = [patron(w, prefijo=True) for w in fuentes.get("contexto_politico", [])]
+    clasificar = lambda t: partidos_de(t, pats, ambiguas, contexto)
+    revisar = [patron(w, prefijo=True) for w in fuentes.get("revisar", [])]
 
-    previas = datos.get("noticias", [])
+    # Se vuelven a clasificar las noticias ya publicadas por si han cambiado las reglas;
+    # las que ya no mencionan a ningún partido se retiran.
+    previas_orig = datos.get("noticias", [])
+    previas = []
+    for n in previas_orig:
+        ps = clasificar(n["titulo"])
+        if ps:
+            previas.append({**n, "partidos": ps})
     vistos_url = {n["url"] for n in previas}
     vistos_tit = {norm(n["titulo"]) for n in previas}
     nuevas, fallos, para_revisar = [], [], []
@@ -92,7 +130,7 @@ def main():
             fallos.append(f"{f['medio']}: {type(e).__name__} {e}"[:200])
             continue
         for it in items:
-            partidos = [pid for pid, ps in pats.items() if any(p.search(it["titulo"]) for p in ps)]
+            partidos = clasificar(it["titulo"])
             if not partidos:
                 continue
             if it["url"] in vistos_url or norm(it["titulo"]) in vistos_tit:
@@ -110,33 +148,13 @@ def main():
     todas.sort(key=lambda n: n["fecha"], reverse=True)
     todas = todas[: fuentes.get("max_noticias", 300)]
 
-    cambiado = todas != previas
+    cambiado = todas != previas_orig
     if cambiado:
         datos["noticias"] = todas
         datos["actualizado"] = AHORA.isoformat(timespec="minutes")
         DATOS.write_text(json.dumps(datos, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
 
-    # --- Casos Aislados: solo como aviso para revisar, nunca se publica solo ---
-    ca_nuevos, ca_error = [], None
-    try:
-        h = descargar("https://casos-aislados.com/index.php").decode("utf-8", "replace")
-        bloque = h.split("Casos Actualizados", 1)[1][:15000] if "Casos Actualizados" in h else h
-        rx = re.compile(r'href="([^"]*Caso-Aislado\.php\?Caso=[^"]*?numero=(\d+))"[^>]*>([^<]+)</a>\s*\((\d{2}/\d{2}/\d{2})\)')
-        vistos = estado.setdefault("casos_aislados_vistos", {})
-        encontrados = rx.findall(bloque)
-        if not encontrados:
-            ca_error = "no se encontró la lista de casos actualizados (puede haber cambiado el diseño de la web)"
-        for href, num, nombre, fecha in encontrados:
-            clave = f"{num}|{fecha}"
-            if clave not in vistos:
-                vistos[clave] = AHORA.date().isoformat()
-                url = html.unescape(href)
-                if not url.startswith("http"):
-                    url = "https://casos-aislados.com/" + url.lstrip("/")
-                ca_nuevos.append((html.unescape(nombre.strip()), fecha, url.replace(" ", "%20")))
-        ESTADO.write_text(json.dumps(estado, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
-    except Exception as e:
-        ca_error = f"{type(e).__name__} {e}"[:200]
+    ca_nuevos, ca_error = [], None  # Casos Aislados desactivado
 
     # --- Informe diario ---
     pid2name = {p["id"]: p["name"] for p in datos["partidos"]}
