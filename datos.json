@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-05T21:52+00:00",
+  "actualizado": "2026-10-06T05:04+00:00",
   "temas": [
     {
       "id": "vivienda",
@@ -392,6 +392,310 @@
     }
   ],
   "noticias": [
+    {
+      "titulo": "La campaña no paralizará las investigaciones que cercan al PSOE pero puede retrasar las decisiones más graves",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/campana-electoral-paralizara-investigaciones-cercan-psoe-sanchez-20261006011407-nt.html",
+      "fecha": "2026-10-06T04:26+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "El Gobierno reflota medidas de choque en vivienda que ya no necesitan a Junts",
+      "medio": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/politica/20261006/11651792/gobierno-reflota-medidas-choque-vivienda-necesitan-junts.html",
+      "fecha": "2026-10-06T04:00+00:00",
+      "partidos": [
+        "junts"
+      ]
+    },
+    {
+      "titulo": "¿Habrá cara a cara Sánchez-Feijóo?",
+      "medio": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/politica/20261006/11651773/habra-cara-cara-sanchez-feijoo.html",
+      "fecha": "2026-10-06T04:00+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "Junts se encomienda a Nogueras para el 29-N... y al posible retorno de Puigdemont",
+      "medio": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/politica/20261006/11651762/junts-encomienda-nogueras-29-n-posible-retorno-puigdemont.html",
+      "fecha": "2026-10-06T04:00+00:00",
+      "partidos": [
+        "junts"
+      ]
+    },
+    {
+      "titulo": "El aval del TC para amnistiar a Puigdemont abre el fuego electoral",
+      "medio": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/politica/20261006/11651758/aval-tc-amnistiar-puigdemont-abre-fuego-electoral.html",
+      "fecha": "2026-10-06T04:00+00:00",
+      "partidos": [
+        "junts"
+      ]
+    },
+    {
+      "titulo": "Así gestó Sánchez el adelanto electoral: “Este Congreso no nos vale, tenemos que ir a elecciones, podemos ganar”",
+      "medio": "El País",
+      "url": "https://elpais.com/espana/elecciones-generales/2026-10-06/asi-gesto-sanchez-el-adelanto-electoral-este-congreso-no-nos-vale-tenemos-que-ir-a-elecciones-podemos-ganar.html",
+      "fecha": "2026-10-06T03:30+00:00",
+      "partidos": [
+        "podemos"
+      ]
+    },
+    {
+      "titulo": "Feijóo no teme otra remontada de Sánchez y niega el paralelismo con las elecciones de 2023",
+      "medio": "El País",
+      "url": "https://elpais.com/espana/2026-10-06/feijoo-no-teme-otra-remontada-de-sanchez-y-niega-el-paralelismo-con-las-elecciones-de-2023.html",
+      "fecha": "2026-10-06T03:30+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "El PSOE encara las elecciones entre la ilusión y el alivio: “Nos vamos a reivindicar con orgullo”",
+      "medio": "El País",
+      "url": "https://elpais.com/espana/elecciones-generales/2026-10-06/el-psoe-encara-las-elecciones-entre-la-ilusion-y-el-alivio-nos-vamos-a-reivindicar-con-orgullo.html",
+      "fecha": "2026-10-06T03:30+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "La izquierda encara el reto de agitar en 54 días un electorado más desmovilizado que el de PP y Vox",
+      "medio": "El País",
+      "url": "https://elpais.com/espana/elecciones-generales/2026-10-06/la-izquierda-encara-el-reto-de-agitar-en-55-dias-un-electorado-mas-desmovilizado-que-el-de-pp-y-vox.html",
+      "fecha": "2026-10-06T03:30+00:00",
+      "partidos": [
+        "pp",
+        "vox"
+      ]
+    },
+    {
+      "titulo": "No habrá 'superdomingo' en Valencia: Llorca descarta apretar el botón rojo del adelanto a la espera de Génova",
+      "medio": "El Confidencial",
+      "url": "https://www.elconfidencial.com/espana/comunidad-valenciana/2026-10-06/valencianas-generales-llorca-boton-rojo-genova_4438574/",
+      "fecha": "2026-10-06T03:00+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "Orriols le roba a Junts el socio belga que acogió a Puigdemont y echa el anzuelo a los rumanos",
+      "medio": "El Confidencial",
+      "url": "https://www.elconfidencial.com/espana/cataluna/2026-10-06/orriols-junts-socio-belga-puigdemont-anzuelo_4438640/",
+      "fecha": "2026-10-06T03:00+00:00",
+      "partidos": [
+        "junts"
+      ]
+    },
+    {
+      "titulo": "PP y Vox aprenden la lección: contactos fluidos desde hace meses con un único objetivo, Sánchez",
+      "medio": "El Confidencial",
+      "url": "https://www.elconfidencial.com/espana/2026-10-06/pp-vox-aprenden-leccion-contactos-fluidos-objetivo-sanchez_4438742/",
+      "fecha": "2026-10-06T03:00+00:00",
+      "partidos": [
+        "pp",
+        "vox"
+      ]
+    },
+    {
+      "titulo": "El PP mira a los jóvenes y les promete atajar su \"falta de oportunidades\" para engrosar su electorado: \"Merecen otro futuro\"",
+      "medio": "20minutos",
+      "url": "https://www.20minutos.es/nacional/pp-mira-los-jovenes-les-promete-atajar-su-falta-oportunidades-para-engrosar-su-electorado-merecen-otro-futuro_7045115_0.html",
+      "fecha": "2026-10-06T03:00+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "La unión de la izquierda se complica a 10 días de presentar las alianzas: Frente Amplio no cede y aleja las primarias de Podemos",
+      "medio": "20minutos",
+      "url": "https://www.20minutos.es/nacional/union-izquierda-se-complica-10-dias-presentar-las-alianzas-frente-amplio-no-cede-aleja-las-primarias-podemos_7045111_0.html",
+      "fecha": "2026-10-06T03:00+00:00",
+      "partidos": [
+        "podemos"
+      ]
+    },
+    {
+      "titulo": "Las elecciones generales del 29-N culminan un año repleto de comicios y teñido por el color azul del PP",
+      "medio": "20minutos",
+      "url": "https://www.20minutos.es/nacional/las-elecciones-generales-29-n-culminan-un-ano-repleto-comicios-tenido-por-color-azul-pp_7045074_0.html",
+      "fecha": "2026-10-06T03:00+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "Vox confía en capitalizar el descontento por la vivienda y advierte de que la calle \"grita\" contra el Gobierno",
+      "medio": "20minutos",
+      "url": "https://www.20minutos.es/nacional/vox-confia-capitalizar-descontento-por-vivienda-advierte-que-calle-grita-contra-gobierno_7045001_0.html",
+      "fecha": "2026-10-06T03:00+00:00",
+      "partidos": [
+        "vox"
+      ]
+    },
+    {
+      "titulo": "El adelanto electoral no frenará la causa de las cloacas pero aleja el escenario de la posible imputación del PSOE",
+      "medio": "20minutos",
+      "url": "https://www.20minutos.es/nacional/adelanto-electoral-no-frenara-causa-las-cloacas-pero-aleja-escenario-posible-imputacion-psoe_7044989_0.html",
+      "fecha": "2026-10-06T03:00+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "El PP asume una campaña sucia y que necesitará combatir el miedo a la derecha",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/pp-asume-campana-caliente-prepara-disuadir-miedo-20261006011345-nt.html",
+      "fecha": "2026-10-05T23:15+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "Vox no se esperaba el 29N: temor a nuevos errores del PP y centrado en su 'prioridad nacional'",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/vox-esperaba-29n-temor-nuevos-errores-pp-20261006011338-nt.html",
+      "fecha": "2026-10-05T23:14+00:00",
+      "partidos": [
+        "pp",
+        "vox"
+      ]
+    },
+    {
+      "titulo": "El Supremo facilitará la vuelta de Puigdemont de forma inminente tras el fallo del TC",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/supremo-facilitara-vuelta-puigdemont-forma-inminente-tras-20261005010925-nt.html",
+      "fecha": "2026-10-05T23:09+00:00",
+      "partidos": [
+        "junts"
+      ]
+    },
+    {
+      "titulo": "El PP de Ayuso aplaza su congreso y Más Madrid deja ahora en el aire el futuro de su candidata",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/madrid/pp-ayuso-desliga-generales-autonomicas-momento-desmontar-20261005010052-nt.html",
+      "fecha": "2026-10-05T23:00+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "Mónica García favorita como candidata del Frente Amplio, que esquiva la 'trampa' de la primarias de Podemos",
+      "medio": "El Mundo",
+      "url": "https://www.elmundo.es/espana/2026/10/06/6ac3d014e4d4d8a8108b456e.html",
+      "fecha": "2026-10-05T22:00+00:00",
+      "partidos": [
+        "podemos"
+      ]
+    },
+    {
+      "titulo": "El pueblo sin agua potable donde un diputado del PP quiere aprobar macrogranjas en suelo de su familia: “Van a echarnos de aquí”",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/aragon/politica/pueblo-agua-potable-diputado-pp-quiere-aprobar-macrogranjas-suelo-familia-echarnos_1_13562441.html",
+      "fecha": "2026-10-05T21:10+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "Yates, vacaciones en la nieve y bolsos de lujo: la vida de la concejala del PP de Ibiza y su marido detenido por blanqueo",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/illes-balears/politica/yates-vacaciones-nieve-bolsos-lujo-vida-concejala-pp-ibiza-marido-detenido-blanqueo_1_13563773.html",
+      "fecha": "2026-10-05T21:10+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "Feijóo frenado por Vox y la izquierda activada por la vivienda: la jugada que vio Sánchez en los sondeos internos para ir a las urnas",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/politica/feijoo-frenado-vox-izquierda-activada-vivienda-jugada-vio-sanchez-sondeos-internos-urnas_1_13563584.html",
+      "fecha": "2026-10-05T21:09+00:00",
+      "partidos": [
+        "pp",
+        "vox"
+      ]
+    },
+    {
+      "titulo": "La cuenta atrás de 10 días para aliarse fuerza a Podemos y Frente Amplio a afrontar el debate sobre una coalición",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/politica/cuenta-10-dias-aliarse-fuerza-frente-amplio-afrontar-debate-coalicion_1_13564358.html",
+      "fecha": "2026-10-05T21:09+00:00",
+      "partidos": [
+        "podemos"
+      ]
+    },
+    {
+      "titulo": "El Constitucional activa la cuenta atrás para la vuelta de Puigdemont a las puertas de las elecciones generales",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/catalunya/constitucional-activa-cuenta-vuelta-puigdemont-puertas-elecciones-generales_1_13562127.html",
+      "fecha": "2026-10-05T21:09+00:00",
+      "partidos": [
+        "junts"
+      ]
+    },
+    {
+      "titulo": "El 29N obliga a Junts y ERC a redefinir contra reloj sus estrategias electorales",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/catalunya/29n-obliga-junts-erc-redefinir-reloj-estrategias-electorales_1_13562051.html",
+      "fecha": "2026-10-05T21:09+00:00",
+      "partidos": [
+        "erc",
+        "junts"
+      ]
+    },
+    {
+      "titulo": "Así es el cambio \"profundo\" que promete Feijóo en impuestos, vivienda y con límites a Vox",
+      "medio": "El Mundo",
+      "url": "https://www.elmundo.es/espana/2026/10/05/6ac3ce2de85ecebc638b458e.html",
+      "fecha": "2026-10-05T20:49+00:00",
+      "partidos": [
+        "pp",
+        "vox"
+      ]
+    },
+    {
+      "titulo": "El dato clave del 29-N: Vox deja a cero a la izquierda Sumar y decanta el mapa a la derecha",
+      "medio": "El Mundo",
+      "url": "https://www.elmundo.es/espana/encuestas/2026/10/05/6ac3f534fc6c83e7778b45ba.html",
+      "fecha": "2026-10-05T20:45+00:00",
+      "partidos": [
+        "vox",
+        "sumar"
+      ]
+    },
+    {
+      "titulo": "El adelanto electoral retrasará la imputación del PSOE como persona jurídica en el caso de las cloacas de Ferraz",
+      "medio": "El Mundo",
+      "url": "https://www.elmundo.es/espana/2026/10/05/6ac3f6fdfdddff4f438b458b.html",
+      "fecha": "2026-10-05T20:43+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "Aznar: \"Si Pedro Sánchez puede formar gobierno tras las elecciones del 29 de noviembre, la Monarquía se terminaría\"",
+      "medio": "El Mundo",
+      "url": "https://www.elmundo.es/andalucia/2026/10/05/6ac3da51fc6c83265c8b459c.html",
+      "fecha": "2026-10-05T20:08+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "Federico Zabala Allende, el brillante jurista del PNV que regresó tras salir del campo de concentración para pleitear contra el franquismo",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/euskadi/gobierno-de-euzkadi-90-anos/federico-zabala-allende-brillante-jurista-pnv-regreso-salir-campo-concentracion-pleitear-franquismo_132_13433483.html",
+      "fecha": "2026-10-05T19:46+00:00",
+      "partidos": [
+        "pnv"
+      ]
+    },
     {
       "titulo": "Alfonso Serrano será el jefe de la campaña electoral del PP de Madrid en la región",
       "medio": "ABC",
