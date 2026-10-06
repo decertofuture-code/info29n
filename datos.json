@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-06T13:17+00:00",
+  "actualizado": "2026-10-06T16:30+00:00",
   "temas": [
     {
       "id": "vivienda",
@@ -392,6 +392,151 @@
     }
   ],
   "noticias": [
+    {
+      "titulo": "Puigdemont señala que la sentencia del Constitucional \"derrota la estrategia de los poderes públicos españoles\"",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/catalunya/puigdemont-senala-sentencia-constitucional-derrota-estrategia-poderes-publicos-espanoles_1_13565802.html",
+      "fecha": "2026-10-06T16:17+00:00",
+      "partidos": [
+        "junts"
+      ]
+    },
+    {
+      "titulo": "Puigdemont: «La amnistía es la derrota de los poderes públicos españoles»",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/cataluna/puigdemont-amnistia-derrota-poderes-publicos-espanoles-20261006181215-nt.html",
+      "fecha": "2026-10-06T16:14+00:00",
+      "partidos": [
+        "junts"
+      ]
+    },
+    {
+      "titulo": "Llarena levanta la orden de detención de Puigdemont tras conocer el fallo del TC",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/llarena-levanta-orden-detencion-puigdemont-tras-conocer-20261006125040-nt.html",
+      "fecha": "2026-10-06T16:12+00:00",
+      "partidos": [
+        "junts"
+      ]
+    },
+    {
+      "titulo": "Susana Díaz cierra filas con Pedro Sánchez ante las elecciones generales: «No concuerdo con él en muchas cosas, pero es el mejor candidato para el PSOE»",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/andalucia/susana-diaz-concuerdo-sanchez-mejor-candidato-psoe-20261005111533-nts.html",
+      "fecha": "2026-10-06T16:10+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "Susana Díaz: «Yo soy del PSOE como soy del Betis y lo votaré siempre»",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/andalucia/susana-diaz-psoe-betis-votare-siempre-20261006171908-nts.html",
+      "fecha": "2026-10-06T15:46+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "El aval del TC a la Ley de Amnistía permitirá que Junts recupere el escaño de Toni Comín en el Parlamento Europeo",
+      "medio": "Europa Press",
+      "url": "https://www.europapress.es/nacional/noticia-aval-tc-ley-amnistia-permitira-junts-recupere-escano-parlamento-europeo-20261006174651.html",
+      "fecha": "2026-10-06T15:46+00:00",
+      "partidos": [
+        "junts"
+      ]
+    },
+    {
+      "titulo": "Puigdemont comparece tras la aplicación de la amnistía a los líderes del procés",
+      "medio": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/politica/20261006/11652356/puigdemont-comparece-aplicacion-amnistia-lideres-proces.html",
+      "fecha": "2026-10-06T15:30+00:00",
+      "partidos": [
+        "junts"
+      ]
+    },
+    {
+      "titulo": "El PNV anuncia que votará a favor del primer decreto de vivienda y allana su aprobación en la Diputación Permanente del Congreso",
+      "medio": "20minutos",
+      "url": "https://www.20minutos.es/nacional/pnv-votara-favor-primer-decreto-vivienda-contra-segundo-prorroga-indefinida-alquileres_7045628_0.html",
+      "fecha": "2026-10-06T15:11+00:00",
+      "partidos": [
+        "pnv"
+      ]
+    },
+    {
+      "titulo": "El voto del PNV permitirá aprobar el decreto de vivienda que tumbaron las derechas",
+      "medio": "El País",
+      "url": "https://elpais.com/espana/2026-10-06/el-pnv-volvera-a-apoyar-el-decreto-principal-de-vivienda.html",
+      "fecha": "2026-10-06T15:06+00:00",
+      "partidos": [
+        "pnv"
+      ]
+    },
+    {
+      "titulo": "El PNV confirma que salvará con su voto clave el principal decreto de vivienda en la Diputación Permanente",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/euskadi/pnv-confirma-salvara-responsabilidad-decreto-desahucios-diputacion-permanente_1_13566946.html",
+      "fecha": "2026-10-06T14:57+00:00",
+      "partidos": [
+        "pnv"
+      ]
+    },
+    {
+      "titulo": "Cuándo puede volver Puigdemont a España tras quedar sin efecto la orden de detención",
+      "medio": "El Confidencial",
+      "url": "https://www.elconfidencial.com/espana/2026-10-06/cuando-puede-volver-puigdemont-tras-quedar-sin-efecto-detencion_4439571/",
+      "fecha": "2026-10-06T14:38+00:00",
+      "partidos": [
+        "junts"
+      ]
+    },
+    {
+      "titulo": "Vox amplía la querella contra la 'cloaca' y pide a Pedraz que investigue si se propuso asesinar a la juez del 'hermanísimo'",
+      "medio": "El Mundo",
+      "url": "https://www.elmundo.es/espana/2026/10/06/6ac505b8fdddff5f2b8b4591.html",
+      "fecha": "2026-10-06T14:34+00:00",
+      "partidos": [
+        "vox"
+      ]
+    },
+    {
+      "titulo": "Pedraz requiere nueva documentación al PSOE y pregunta a Anticorrupción sobre su imputación",
+      "medio": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/politica/20261006/11652541/pedraz-requiere-nueva-documentacion-psoe-pregunta-anticorrupcion-sobre-imputacion.html",
+      "fecha": "2026-10-06T14:10+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "'Caso Cloacas': Pedraz reclama al PSOE datos de todos los abogados que ha contratado e imputa a Nervis Villalobos por lograr la nacionalidad con documentos falsos",
+      "medio": "El Mundo",
+      "url": "https://www.elmundo.es/espana/2026/10/06/6ac4f2a9fc6c8325798b457c.html",
+      "fecha": "2026-10-06T13:48+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "El juez Pedraz pide al PSOE datos sobre el fichaje de los abogados de las cloacas y pregunta a Fiscalía si debe imputar al partido",
+      "medio": "20minutos",
+      "url": "https://www.20minutos.es/nacional/juez-pedraz-pide-psoe-datos-sobre-fichaje-los-abogados-las-cloacas-pregunta-fiscalia-si-debe-imputar-partido_7045545_0.html",
+      "fecha": "2026-10-06T13:48+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "PP y Vox rechazan poner tope a los alquileres en Balears mientras las protestas por la vivienda prenden en la calle",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/illes-balears/politica/pp-vox-rechazan-poner-tope-alquileres-balears-protestas-vivienda-prenden-calle_1_13565371.html",
+      "fecha": "2026-10-06T13:38+00:00",
+      "partidos": [
+        "pp",
+        "vox"
+      ]
+    },
     {
       "titulo": "El juez del caso cloacas pide al PSOE una lista de los abogados y consultores que contrató entre 2021 y 2025",
       "medio": "El Confidencial",
@@ -823,7 +968,6 @@
       "url": "https://www.europapress.es/nacional/noticia-sumar-abre-puerta-podemos-aleja-peticion-primarias-mejor-acordar-competir-nosotros-20261006110305.html",
       "fecha": "2026-10-06T09:03+00:00",
       "partidos": [
-        "sumar",
         "podemos"
       ]
     },
@@ -855,32 +999,13 @@
       ]
     },
     {
-      "titulo": "Podemos y Frente Amplio rompen el hielo con un encuentro fortuito en la calle: \"Oye, plantéalo en una reunión y no a través de la tele\"",
-      "medio": "El Mundo",
-      "url": "https://www.elmundo.es/espana/2026/10/06/6ac4b28efdddffe8268b45a3.html",
-      "fecha": "2026-10-06T08:37+00:00",
-      "partidos": [
-        "podemos"
-      ]
-    },
-    {
       "titulo": "Encuestas elecciones generales 29-N: resultados de PSOE, PP y VOX y ganador según los sondeos",
       "medio": "ABC",
       "url": "https://www.abc.es/espana/encuestas-elecciones-generales-29n-resultados-ganador-segun-20261006053000-nt.html",
       "fecha": "2026-10-06T08:17+00:00",
       "partidos": [
         "pp",
-        "psoe",
-        "vox"
-      ]
-    },
-    {
-      "titulo": "¿Agua oxigenada o percarbonato de sodio? Cuál es la diferencia y qué podemos limpiar con cada una",
-      "medio": "elDiario.es",
-      "url": "https://www.eldiario.es/consumoclaro/agua-oxigenada-percarbonato-sodio-diferencia-limpiar_1_13556637.html",
-      "fecha": "2026-10-06T08:13+00:00",
-      "partidos": [
-        "podemos"
+        "psoe"
       ]
     },
     {
@@ -1025,15 +1150,6 @@
       "fecha": "2026-10-06T04:00+00:00",
       "partidos": [
         "psoe"
-      ]
-    },
-    {
-      "titulo": "Así gestó Sánchez el adelanto electoral: “Este Congreso no nos vale, tenemos que ir a elecciones, podemos ganar”",
-      "medio": "El País",
-      "url": "https://elpais.com/espana/elecciones-generales/2026-10-06/asi-gesto-sanchez-el-adelanto-electoral-este-congreso-no-nos-vale-tenemos-que-ir-a-elecciones-podemos-ganar.html",
-      "fecha": "2026-10-06T03:30+00:00",
-      "partidos": [
-        "podemos"
       ]
     },
     {
@@ -1844,15 +1960,6 @@
       ]
     },
     {
-      "titulo": "Sumar acelera su Frente Amplio y fija el 17 de octubre para su lanzamiento",
-      "medio": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/politica/20261004/11650670/partidos-sumar-aceleran-frente-amplio-fijan-17-octubre-presentacion.html",
-      "fecha": "2026-10-04T13:04+00:00",
-      "partidos": [
-        "sumar"
-      ]
-    },
-    {
       "titulo": "Barones del PSOE presionan para que Sánchez convoque ya las elecciones: \"Hay una ventana de oportunidad ahora que la ciudadanía ha despertado\"",
       "medio": "El Mundo",
       "url": "https://www.elmundo.es/espana/2026/10/04/6ac23f6dfdddff33668b4597.html",
@@ -1989,15 +2096,6 @@
       ]
     },
     {
-      "titulo": "Rufián pide \"cabeza fría\" a Sánchez y le emplaza a no convocar elecciones: no tiene \"nada a su izquierda para poder sumar\"",
-      "medio": "20minutos",
-      "url": "https://www.20minutos.es/nacional/rufian-pide-cabeza-fria-sanchez-le-emplaza-no-convocar-elecciones-no-tiene-nada-su-izquierda-para-poder-sumar_7044184_0.html",
-      "fecha": "2026-10-02T12:04+00:00",
-      "partidos": [
-        "sumar"
-      ]
-    },
-    {
       "titulo": "Illa expresa su “profunda decepción” con Junts por no apoyar los decretos de vivienda",
       "medio": "La Vanguardia",
       "url": "https://www.lavanguardia.com/politica/20261002/11649533/illa-expresa-profunda-decepcion-junts-apoyar-decretos-vivienda.html",
@@ -2056,15 +2154,6 @@
       "medio": "La Vanguardia",
       "url": "https://www.lavanguardia.com/politica/20261002/11649295/partidos-sumar-activan-maquinaria-posible-adelanto-electoral-sanchez.html",
       "fecha": "2026-10-02T08:06+00:00",
-      "partidos": [
-        "sumar"
-      ]
-    },
-    {
-      "titulo": "España bate un nuevo récord de empleo con 22,4 millones de afiliados tras sumar 92.300 en septiembre, la mayoría por la regularización de migrantes",
-      "medio": "20minutos",
-      "url": "https://www.20minutos.es/lainformacion/economia-y-finanzas/espana-bate-un-nuevo-record-empleo-tras-sumar-92-300-afiliados-septiembre-mayoria-por-regularizacion-migrantes_7044005_0.html",
-      "fecha": "2026-10-02T07:00+00:00",
       "partidos": [
         "sumar"
       ]
