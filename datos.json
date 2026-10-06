@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-06T16:30+00:00",
+  "actualizado": "2026-10-06T17:16+00:00",
   "temas": [
     {
       "id": "vivienda",
@@ -392,6 +392,91 @@
     }
   ],
   "noticias": [
+    {
+      "titulo": "El pleno del Parlamento evidencia la soledad del BNG ante el pacto lingüístico de PP y PSdeG",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/galicia/pacto-gallego-alla-aulas-ganar-terreno-redes-20261006183154-nt.html",
+      "fecha": "2026-10-06T16:44+00:00",
+      "partidos": [
+        "pp",
+        "bng"
+      ]
+    },
+    {
+      "titulo": "El PP denuncia a Sánchez ante la Junta Electoral Central por usar Moncloa «para dar un mitin del PSOE»",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/pp-denuncia-sanchez-ante-junta-electoral-central-20261006184346-nt.html",
+      "fecha": "2026-10-06T16:43+00:00",
+      "partidos": [
+        "pp",
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "El PP usa una queja por presunto acoso machista para forzar el desalojo de la acampada por la vivienda en Palma",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/illes-balears/sociedad/pp-esgrime-queja-presunto-acoso-machista-forzar-desalojo-acampada-vivienda-palma_1_13566951.html",
+      "fecha": "2026-10-06T16:38+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "El PP lleva a Sánchez ante la Junta Electoral por “usar Moncloa para dar un mitin” del 29-N",
+      "medio": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/politica/20261006/11652683/pp-lleva-sanchez-junta-electoral-moncloa-dar-mitin-29-n.html",
+      "fecha": "2026-10-06T16:36+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "El PP pide a la Junta Electoral que sancione a Sánchez por \"utilizar\" la Moncloa para \"dar un mitin del PSOE\"",
+      "medio": "Europa Press",
+      "url": "https://www.europapress.es/nacional/noticia-pp-pide-junta-electoral-sancione-sanchez-utilizar-moncloa-dar-mitin-psoe-20261006183024.html",
+      "fecha": "2026-10-06T16:30+00:00",
+      "partidos": [
+        "pp",
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "El PNV mantiene su 'sí' al primer decreto y salva el «parche» de Sánchez en vivienda",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/pais-vasco/pnv-mantiene-dara-luz-verde-primer-decreto-20261006171232-nt.html",
+      "fecha": "2026-10-06T16:29+00:00",
+      "partidos": [
+        "pnv"
+      ]
+    },
+    {
+      "titulo": "Puigdemont celebra \"victoria de la amnistía\" en el Constitucional de Pumpido y evita aclarar cuándo regresará a España",
+      "medio": "El Mundo",
+      "url": "https://www.elmundo.es/espana/2026/10/06/6ac51c86fdddff187a8b45d7.html",
+      "fecha": "2026-10-06T16:24+00:00",
+      "partidos": [
+        "junts"
+      ]
+    },
+    {
+      "titulo": "El PSOE sitúa a Velázquez en las listas al Congreso y el PP replica: «Que se preocupen de lo suyo»",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/castilla-la-mancha/toledo/psoe-situa-velazquez-listas-congreso-pp-replica-20261006181901-nt.html",
+      "fecha": "2026-10-06T16:19+00:00",
+      "partidos": [
+        "pp",
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "Puigdemont celebra la amnistía pero dice que \"hoy no se soluciona nada\" del conflicto político",
+      "medio": "Europa Press",
+      "url": "https://www.europapress.es/catalunya/noticia-puigdemont-celebra-amnistia-dice-hoy-no-soluciona-nada-conflicto-politico-20261006181919.html",
+      "fecha": "2026-10-06T16:19+00:00",
+      "partidos": [
+        "junts"
+      ]
+    },
     {
       "titulo": "Puigdemont señala que la sentencia del Constitucional \"derrota la estrategia de los poderes públicos españoles\"",
       "medio": "elDiario.es",
