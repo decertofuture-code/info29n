@@ -4,6 +4,9 @@ on:
   schedule:
     - cron: "0 5 * * *"            # 07:00 en España hasta el 25 de octubre y 06:00 después (cambio de hora): actualiza y manda el informe
     - cron: "0 9,13,17,21 * * *"   # resto del día: solo actualiza noticias
+  push:
+    paths:
+      - datos.json                 # si editas datos.json a mano, solo se refresca la caché
   workflow_dispatch:
     inputs:
       informe:
@@ -21,6 +24,7 @@ concurrency:
 
 jobs:
   actualizar:
+    if: github.event_name != 'push'
     runs-on: ubuntu-latest
     timeout-minutes: 10
     steps:
@@ -33,7 +37,7 @@ jobs:
       - name: Recoger noticias y avisos
         run: python actualizar.py
 
-      - name: Guardar cambios (Netlify publica solo)
+      - name: Guardar cambios (sin publicar en Netlify; la web lee los datos de GitHub)
         run: |
           git config user.name "info29n-bot"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
@@ -41,8 +45,9 @@ jobs:
           if git diff --cached --quiet; then
             echo "Sin cambios."
           else
-            git commit -m "Actualización automática $(date -u +'%Y-%m-%d %H:%M') UTC"
+            git commit -m "Actualización automática $(date -u +'%Y-%m-%d %H:%M') UTC [skip netlify]"
             git push
+            curl -fsS https://purge.jsdelivr.net/gh/${{ github.repository }}@main/datos.json || true
           fi
 
       - name: Informe diario
@@ -53,3 +58,10 @@ jobs:
           gh issue create \
             --title "Revisión del $(TZ=Europe/Madrid date +'%d/%m/%Y')" \
             --body-file informe.md
+
+  refrescar-cache:
+    if: github.event_name == 'push'
+    runs-on: ubuntu-latest
+    steps:
+      - name: Refrescar la caché de datos.json
+        run: curl -fsS https://purge.jsdelivr.net/gh/${{ github.repository }}@main/datos.json || true
