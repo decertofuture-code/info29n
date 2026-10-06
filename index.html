@@ -228,6 +228,17 @@ body{background:transparent!important} html{background:var(--paper)}
 footer{padding:2rem 0 3rem;color:var(--muted);font-size:.9rem;border-top:1px solid var(--line)}
 footer p{max-width:44rem}
 @media (prefers-reduced-motion:no-preference){ .parties{transition:opacity .15s} }
+.follow-x{position:fixed;z-index:20;right:max(1rem,env(safe-area-inset-right,0px));bottom:calc(1rem + env(safe-area-inset-bottom,0px));
+  display:inline-flex;align-items:center;gap:.55rem;min-height:44px;padding:.6rem 1rem .6rem .85rem;border-radius:999px;
+  background:var(--ink);color:var(--paper);font-weight:700;font-size:.95rem;text-decoration:none;
+  box-shadow:0 2px 4px rgba(0,0,0,.12),0 4px 8px -4px rgba(0,0,0,.25);transition:transform .2s cubic-bezier(.16,1,.3,1),background-color .2s}
+.follow-x svg{width:1.05rem;height:1.05rem;flex:none;fill:currentColor}
+.follow-x:hover{transform:translateY(-2px);background:color-mix(in srgb,var(--ink) 88%,var(--accent))}
+.follow-x:focus-visible{outline-offset:4px}
+@media (max-width:640px){.follow-x{padding:.6rem .9rem;font-size:.9rem}}
+@media (prefers-reduced-motion:reduce){.follow-x{transition:none}.follow-x:hover{transform:none}}
+@media print{.follow-x{display:none}}
+footer{padding-bottom:5.5rem!important}
 </style>
 </head>
 <body data-tab="inicio">
@@ -393,6 +404,10 @@ footer p{max-width:44rem}
   </footer>
 </div>
 
+<a class="follow-x" href="https://x.com/info29N" target="_blank" rel="noopener" aria-label="Síguenos en X (se abre en una pestaña nueva)">
+  <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M18.244 2.25h3.308l-7.227 8.26 8.502 11.24H16.17l-5.214-6.817L4.99 21.75H1.68l7.73-8.835L1.254 2.25H8.08l4.713 6.231zm-1.161 17.52h1.833L7.084 4.126H5.117z"/></svg>
+  Síguenos en X
+</a>
 <script>
 // ---- DATOS: se cargan desde datos.json ----
 let TOPICS=[],PARTIES=[],MEASURES={},RESUMEN={},VOTES=[],STATUS={},CASES=[],NEWS=[],UPDATED=null;
