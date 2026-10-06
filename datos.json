@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-06T17:16+00:00",
+  "actualizado": "2026-10-06T19:53+00:00",
   "temas": [
     {
       "id": "vivienda",
@@ -393,6 +393,60 @@
   ],
   "noticias": [
     {
+      "titulo": "El PSOE balear lleva a una mujer desahuciada al pleno y acaba abrazada y llorando con Prohens",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/baleares/psoe-balear-lleva-mujer-desahuciada-pleno-acaba-20261006211524-nt.html",
+      "fecha": "2026-10-06T19:15+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "Pedro Sánchez vuelve al 'santuario' de Dos Hermanas como único superviviente del mítico Peugeot",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/andalucia/pedro-sanchez-vuelve-santuario-dos-hermanas-unico-20261006204532-nts.html",
+      "fecha": "2026-10-06T18:45+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "Sánchez reivindica la amnistía pero no se hará la foto con Puigdemont",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/sanchez-reivindica-amnistia-hara-foto-puigdemont-20261006152431-nt.html",
+      "fecha": "2026-10-06T18:26+00:00",
+      "partidos": [
+        "junts"
+      ]
+    },
+    {
+      "titulo": "Puigdemont aguardará al archivo de la causa en el Supremo para volver a Catalunya",
+      "medio": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/politica/20261006/11652725/puigdemont-aguardara-archivo-causa-supremo-volver-catalunya.html",
+      "fecha": "2026-10-06T18:03+00:00",
+      "partidos": [
+        "junts"
+      ]
+    },
+    {
+      "titulo": "Puigdemont descarta volver de forma inminente: lo hará cuando «se le aplique toda» la amnistía",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/cataluna/puigdemont-descarta-volver-forma-inminente-hara-aplique-20261006193230-nt.html",
+      "fecha": "2026-10-06T17:32+00:00",
+      "partidos": [
+        "junts"
+      ]
+    },
+    {
+      "titulo": "El PP denuncia ante la Junta Electoral el \"mitin\" de Sánchez tras el Consejo de Ministros",
+      "medio": "20minutos",
+      "url": "https://www.20minutos.es/nacional/pp-denuncia-ante-junta-electoral-mitin-sanchez-tras-consejo-ministros_7045675_0.html",
+      "fecha": "2026-10-06T16:48+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
       "titulo": "El pleno del Parlamento evidencia la soledad del BNG ante el pacto lingüístico de PP y PSdeG",
       "medio": "ABC",
       "url": "https://www.abc.es/espana/galicia/pacto-gallego-alla-aulas-ganar-terreno-redes-20261006183154-nt.html",
@@ -453,6 +507,15 @@
       "titulo": "Puigdemont celebra \"victoria de la amnistía\" en el Constitucional de Pumpido y evita aclarar cuándo regresará a España",
       "medio": "El Mundo",
       "url": "https://www.elmundo.es/espana/2026/10/06/6ac51c86fdddff187a8b45d7.html",
+      "fecha": "2026-10-06T16:24+00:00",
+      "partidos": [
+        "junts"
+      ]
+    },
+    {
+      "titulo": "Puigdemont no fija la fecha de su vuelta y da por cerrada \"la etapa de represión\", pero cree que la amnistía \"no soluciona el conflicto\"",
+      "medio": "20minutos",
+      "url": "https://www.20minutos.es/cataluna/puigdemont-no-fija-fecha-su-retorno-aunque-da-por-cerrada-etapa-represion-politica-tras-aval-tc-amnistia_7045581_0.html",
       "fecha": "2026-10-06T16:24+00:00",
       "partidos": [
         "junts"
