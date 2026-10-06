@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-06T05:04+00:00",
+  "actualizado": "2026-10-06T09:16+00:00",
   "temas": [
     {
       "id": "vivienda",
@@ -393,6 +393,163 @@
   ],
   "noticias": [
     {
+      "titulo": "Pedro Sánchez arranca la campaña con María Jesús Montero este sábado en Sevilla",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/andalucia/pedro-sanchez-arranca-campana-maria-jesus-montero-20261006105322-nts.html",
+      "fecha": "2026-10-06T09:09+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "Junqueras carga contra Junts y PSOE por «reventar» la legislatura y desactivar la quita del FLA y la financiación autonómica",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/cataluna/junqueras-carga-junts-psoe-reventar-legislatura-desactivar-20261006110243-nt.html",
+      "fecha": "2026-10-06T09:03+00:00",
+      "partidos": [
+        "psoe",
+        "junts"
+      ]
+    },
+    {
+      "titulo": "Sumar abre la puerta a Podemos pero aleja su petición de primarias: \"Mejor acordar que competir entre nosotros\"",
+      "medio": "Europa Press",
+      "url": "https://www.europapress.es/nacional/noticia-sumar-abre-puerta-podemos-aleja-peticion-primarias-mejor-acordar-competir-nosotros-20261006110305.html",
+      "fecha": "2026-10-06T09:03+00:00",
+      "partidos": [
+        "sumar",
+        "podemos"
+      ]
+    },
+    {
+      "titulo": "Sentencia del Tribunal Constitucional sobre la amnistía y la última hora de Puigdemont, hoy en directo",
+      "medio": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/politica/20261006/11652015/resolucion-tribunal-constitucional-ley-de-amnistia-ultima-hora-hoy-en-directo.html",
+      "fecha": "2026-10-06T08:41+00:00",
+      "partidos": [
+        "junts"
+      ]
+    },
+    {
+      "titulo": "La comparecencia de Pedro Sánchez y la última hora sobre las elecciones generales y el decreto de la vivienda, en directo",
+      "medio": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/politica/20261006/11652090/elecciones-29-n-espana-decreto-vivienda-pedro-sanchez-ultima-hora-hoy-en-directo.html",
+      "fecha": "2026-10-06T08:39+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "Encuestas elecciones generales 29-N: resultados de PSOE, PP y VOX y ganador según los sondeos",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/encuestas-elecciones-generales-29n-resultados-ganador-segun-20261006053000-nt.html",
+      "fecha": "2026-10-06T08:17+00:00",
+      "partidos": [
+        "pp",
+        "psoe",
+        "vox"
+      ]
+    },
+    {
+      "titulo": "¿Agua oxigenada o percarbonato de sodio? Cuál es la diferencia y qué podemos limpiar con cada una",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/consumoclaro/agua-oxigenada-percarbonato-sodio-diferencia-limpiar_1_13556637.html",
+      "fecha": "2026-10-06T08:13+00:00",
+      "partidos": [
+        "podemos"
+      ]
+    },
+    {
+      "titulo": "Junqueras da por seguro que Rufián repetirá como candidato de ERC el 29-N",
+      "medio": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/politica/20261006/11652120/junqueras-da-seguro-rufian-repetira-candidato-erc-29-n.html",
+      "fecha": "2026-10-06T08:08+00:00",
+      "partidos": [
+        "erc"
+      ]
+    },
+    {
+      "titulo": "Mínguez asegura, sobre la huelga general, que el PSOE siempre defiende a los trabajadores y su expresión pública",
+      "medio": "Europa Press",
+      "url": "https://www.europapress.es/nacional/noticia-minguez-asegura-huelga-general-psoe-siempre-defiende-trabajadores-expresion-publica-20261006100356.html",
+      "fecha": "2026-10-06T08:03+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "PP entiende las dudas del voto por correo tras \"maniobras\" de Sánchez y pide a la JEC pronunciarse sobre el censo",
+      "medio": "Europa Press",
+      "url": "https://www.europapress.es/nacional/noticia-pp-entiende-dudas-voto-correo-maniobras-sanchez-pide-jec-pronunciarse-censo-20261006100042.html",
+      "fecha": "2026-10-06T08:00+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "El PP se burla de una lesión de Óscar Puente y el ministro responde: \"Son la peor gentuza que habita este país\"",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/rastreador/pp-ridiculiza-lesion-oscar-puente-ministro-responde-son-peor-gentuza-habita-pais_132_13565035.html",
+      "fecha": "2026-10-06T07:59+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "Quién es Maribel Vaquero: de concejala en Urnieta a primera mujer portavoz del PNV en el Congreso",
+      "medio": "El Confidencial",
+      "url": "https://www.elconfidencial.com/espana/2026-10-06/quien-es-maribel-vaquero_4439066/",
+      "fecha": "2026-10-06T07:39+00:00",
+      "partidos": [
+        "pnv"
+      ]
+    },
+    {
+      "titulo": "Elecciones generales en España, en directo: comparecencia de Pedro Sánchez tras la aprobación de los decretos de vivienda y última hora hoy",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/comparecencia-pedro-sanchez-directo-posible-convocatoria-elecciones-20261005080806-di.html",
+      "fecha": "2026-10-06T07:35+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "Junqueras avala a Rufián de cara al 29N: \"Seguro que será el candidato de ERC\"",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/catalunya/junqueras-avala-rufian-cara-29n-seguro-sera-candidato-erc_1_13565068.html",
+      "fecha": "2026-10-06T07:29+00:00",
+      "partidos": [
+        "erc"
+      ]
+    },
+    {
+      "titulo": "El PP se burla de Óscar Puente con un vídeo del momento en que se rompió el cuádriceps: “Miedo le tenías tú a un esguince”",
+      "medio": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/politica/20261006/11652092/pp-ataca-oscar-puente-video-momento-rompio-cuadriceps-miedo-le-tenias-esguince.html",
+      "fecha": "2026-10-06T07:27+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "El PP inicia la precampaña con un vídeo en el que se burla de una lesión de Óscar Puente: “Miedo le tenías tú a un esguince”",
+      "medio": "El País",
+      "url": "https://elpais.com/espana/elecciones-generales/2026-10-06/el-pp-inicia-la-precampana-con-un-video-en-el-que-se-burla-de-una-grave-lesion-de-oscar-puente-miedo-tu-esguince.html",
+      "fecha": "2026-10-06T07:23+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "Pedro Sánchez comparecerá hoy tras la celebración del Consejo de Ministros",
+      "medio": "Europa Press",
+      "url": "https://www.europapress.es/nacional/noticia-pedro-sanchez-comparecera-hoy-celebracion-consejo-ministros-20261006084854.html",
+      "fecha": "2026-10-06T06:48+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
       "titulo": "La campaña no paralizará las investigaciones que cercan al PSOE pero puede retrasar las decisiones más graves",
       "medio": "ABC",
       "url": "https://www.abc.es/espana/campana-electoral-paralizara-investigaciones-cercan-psoe-sanchez-20261006011407-nt.html",
@@ -435,6 +592,15 @@
       "fecha": "2026-10-06T04:00+00:00",
       "partidos": [
         "junts"
+      ]
+    },
+    {
+      "titulo": "Pedro Sánchez pulsa el botón rojo para el 29-N y activa una polarizada batalla en las elecciones",
+      "medio": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/politica/20261006/11651782/sanchez-pulsa-boton-rojo-29-n-activa-polarizada-batalla-electoral.html",
+      "fecha": "2026-10-06T04:00+00:00",
+      "partidos": [
+        "psoe"
       ]
     },
     {
@@ -548,6 +714,15 @@
       ]
     },
     {
+      "titulo": "Relación \"ordenada\": la palabra clave de Vox para esquivar los errores que frenaron a la derecha en 2023",
+      "medio": "El Mundo",
+      "url": "https://www.elmundo.es/espana/2026/10/06/6ac40717e4d4d80a2f8b4590.html",
+      "fecha": "2026-10-05T23:59+00:00",
+      "partidos": [
+        "vox"
+      ]
+    },
+    {
       "titulo": "El PP asume una campaña sucia y que necesitará combatir el miedo a la derecha",
       "medio": "ABC",
       "url": "https://www.abc.es/espana/pp-asume-campana-caliente-prepara-disuadir-miedo-20261006011345-nt.html",
@@ -580,6 +755,15 @@
       "medio": "ABC",
       "url": "https://www.abc.es/espana/madrid/pp-ayuso-desliga-generales-autonomicas-momento-desmontar-20261005010052-nt.html",
       "fecha": "2026-10-05T23:00+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "La propuesta estrella del Gobierno del PP en Teruel en materia de vivienda se viene abajo por errores en la tramitación",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/aragon/politica/propuesta-estrella-gobierno-pp-teruel-materia-vivienda-viene-abajo-errores-tramitacion_1_13564769.html",
+      "fecha": "2026-10-05T22:49+00:00",
       "partidos": [
         "pp"
       ]
