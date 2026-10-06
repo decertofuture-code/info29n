@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-06T09:16+00:00",
+  "actualizado": "2026-10-06T13:17+00:00",
   "temas": [
     {
       "id": "vivienda",
@@ -393,6 +393,412 @@
   ],
   "noticias": [
     {
+      "titulo": "El juez del caso cloacas pide al PSOE una lista de los abogados y consultores que contrató entre 2021 y 2025",
+      "medio": "El Confidencial",
+      "url": "https://www.elconfidencial.com/espana/2026-10-06/el-juez-del-caso-cloacas-pide-al-psoe-una-lista-de-los-abogados-y-consultores-que-contrato-entre-2021-y-2025_4439493/",
+      "fecha": "2026-10-06T13:07+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "El PP pide la imputación del PSOE a la Audiencia Nacional en el primer día de precampaña",
+      "medio": "El País",
+      "url": "https://elpais.com/espana/2026-10-06/el-pp-pide-la-imputacion-del-psoe-a-la-audiencia-nacional-en-el-primer-dia-de-precampana.html",
+      "fecha": "2026-10-06T13:00+00:00",
+      "partidos": [
+        "pp",
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "El juez pide a Anticorrupción que se pronuncie sobre la petición del PP para imputar ya al PSOE",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/juez-pide-anticorrupcion-pronuncie-sobre-peticion-pp-20261006145822-nt.html",
+      "fecha": "2026-10-06T12:58+00:00",
+      "partidos": [
+        "pp",
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "Feijóo, sobre el fallo de TC: «Nada puede borrar que la amnistía es otro engaño más de Sánchez»",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/pp-cree-fallo-supremo-fin-transaccion-gobierno-20261006135411-nt.html",
+      "fecha": "2026-10-06T12:48+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "El PSOE reclama a Núñez medidas «concretas» ante el aumento de costes del campo",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/castilla-la-mancha/psoe-reclama-nunez-medidas-concretas-ante-aumento-20261006143508-nt.html",
+      "fecha": "2026-10-06T12:35+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "Vox “acata” la amnistía a Puigdemont y aboga por “pasar página del odio del separatismo”",
+      "medio": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/politica/20261006/11652447/vox-acata-amnistia-puigdemont-aboga-pasar-pagina-odio-separatismo.html",
+      "fecha": "2026-10-06T12:31+00:00",
+      "partidos": [
+        "vox",
+        "junts"
+      ]
+    },
+    {
+      "titulo": "Sánchez acusa al PP de \"judicializar la política\" en lugar de responder a los problemas como hace el Gobierno",
+      "medio": "Europa Press",
+      "url": "https://www.europapress.es/nacional/noticia-sanchez-acusa-pp-judicializar-politica-lugar-responder-problemas-hace-gobierno-20261006142506.html",
+      "fecha": "2026-10-06T12:25+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "La Junta cuestiona que un Gobierno con Vox vaya a beneficiar al campo",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/castilla-la-mancha/junta-cuestiona-gobierno-vox-vaya-beneficiar-campo-20261006141748-nt.html",
+      "fecha": "2026-10-06T12:17+00:00",
+      "partidos": [
+        "vox"
+      ]
+    },
+    {
+      "titulo": "El PP entiende que ”haya millones de españoles que puedan tener dudas sobre el voto por correo”",
+      "medio": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/politica/20261006/11652417/pp-entiende-haya-millones-espanoles-puedan-dudas-sobre-voto-correo.html",
+      "fecha": "2026-10-06T12:13+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "Feijóo ve la amnistía \"otro engaño más\" de Sánchez: \"Vender favores a cambio de poder debe castigarse en las urnas\"",
+      "medio": "Europa Press",
+      "url": "https://www.europapress.es/nacional/noticia-feijoo-ve-amnistia-otro-engano-mas-sanchez-vender-favores-cambio-poder-debe-castigarse-urnas-20261006141229.html",
+      "fecha": "2026-10-06T12:12+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "Junts deja en manos de Puigdemont los detalles sobre el regreso a Catalunya, todavía sin fecha",
+      "medio": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/politica/20261006/11652419/junts-deja-manos-puigdemont-detalles-sobre-regreso-catalunya-todavia-fecha.html",
+      "fecha": "2026-10-06T12:09+00:00",
+      "partidos": [
+        "junts"
+      ]
+    },
+    {
+      "titulo": "Claves de la amnistía | ¿Cuándo puede volver Puigdemont? ¿Junqueras podrá presentarse a unas elecciones?",
+      "medio": "El País",
+      "url": "https://elpais.com/espana/2026-10-06/el-supremo-levantara-la-orden-de-detencion-de-puigdemont-cuando-reciba-la-sentencia-del-constitucional.html",
+      "fecha": "2026-10-06T12:03+00:00",
+      "partidos": [
+        "junts"
+      ]
+    },
+    {
+      "titulo": "Sánchez, tras el aval del Constitucional a amnistiar a Puigdemont: \"No lo hicimos por ningún líder, sino por la convivencia\"",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/politica/sanchez-aval-constitucional-amnistiar-puigdemont-no-hicimos-lider-convivencia_1_13566194.html",
+      "fecha": "2026-10-06T12:01+00:00",
+      "partidos": [
+        "junts"
+      ]
+    },
+    {
+      "titulo": "Pedro Sánchez arrancará la campaña del 29-N el sábado en Dos Hermanas, su ciudad 'talismán'",
+      "medio": "El Mundo",
+      "url": "https://www.elmundo.es/espana/2026/10/06/6ac4e006e4d4d8c8698b4573.html",
+      "fecha": "2026-10-06T11:58+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "Sánchez asegura no arrepentirse de la amnistía, pese al golpe de Junts que precipita las elecciones del 29-N",
+      "medio": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/politica/20261006/11652395/sanchez-asegura-arrepentirse-amnistia-pese-golpe-junts-precipita-elecciones-29-n.html",
+      "fecha": "2026-10-06T11:55+00:00",
+      "partidos": [
+        "junts"
+      ]
+    },
+    {
+      "titulo": "Estas son las únicas provincias donde puedes votar a Bildu, ERC, Adelante Andalucía o BNG",
+      "medio": "20minutos",
+      "url": "https://www.20minutos.es/nacional/unicas-provincias-donde-puedes-votar-bildu-erc-adelante-andalucia-bng_7045440_0.html",
+      "fecha": "2026-10-06T11:53+00:00",
+      "partidos": [
+        "erc",
+        "bildu",
+        "bng"
+      ]
+    },
+    {
+      "titulo": "La encuesta interna que convenció a Sánchez para adelantar las elecciones: Vox se dispara y hay 15 escaños en juego entre bloques",
+      "medio": "El Mundo",
+      "url": "https://www.elmundo.es/espana/2026/10/06/6ac4d9a1fc6c83560c8b4586.html",
+      "fecha": "2026-10-06T11:50+00:00",
+      "partidos": [
+        "vox"
+      ]
+    },
+    {
+      "titulo": "Sánchez atribuye las dudas de PP y Vox sobre el voto por correo a que \"no ven tan evidente\" su victoria el 29N",
+      "medio": "Europa Press",
+      "url": "https://www.europapress.es/nacional/noticia-sanchez-atribuye-dudas-pp-vox-voto-correo-no-ven-tan-evidente-victoria-29n-20261006134759.html",
+      "fecha": "2026-10-06T11:47+00:00",
+      "partidos": [
+        "pp",
+        "vox"
+      ]
+    },
+    {
+      "titulo": "Quién es Pepa Millán: la portavoz más joven de la historia del Congreso que lidera a Vox en la Cámara",
+      "medio": "El Confidencial",
+      "url": "https://www.elconfidencial.com/espana/2026-10-06/quien-pepa-millan-portavoz-portavoz-joven-historia-congreso_4439266/",
+      "fecha": "2026-10-06T11:42+00:00",
+      "partidos": [
+        "vox"
+      ]
+    },
+    {
+      "titulo": "El PP pide en la Audiencia Nacional la imputación del PSOE por financiación ilegal",
+      "medio": "El Mundo",
+      "url": "https://www.elmundo.es/espana/2026/10/06/6ac4cfc0e4d4d80a2f8b45a5.html",
+      "fecha": "2026-10-06T11:37+00:00",
+      "partidos": [
+        "pp",
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "Illa, dispuesto a recibir a Puigdemont en Palau igual que hizo con el resto de expresidentes",
+      "medio": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/politica/20261006/11652365/illa-recibira-puigdemont-palau-igual-hizo-resto-expresidentes.html",
+      "fecha": "2026-10-06T11:33+00:00",
+      "partidos": [
+        "junts"
+      ]
+    },
+    {
+      "titulo": "Una mujer desahuciada por un fondo buitre irrumpe ante la presidenta del Govern balear del PP: \"Me han abandonado\"",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/illes-balears/sociedad/mujer-desahuciada-fondo-buitre-presidenta-govern-balear-pp-han-abandonado_1_13566006.html",
+      "fecha": "2026-10-06T11:29+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "Sánchez defiende que el aval a la amnistía ayuda a la convivencia y descarta reunirse con Puigdemont",
+      "medio": "Europa Press",
+      "url": "https://www.europapress.es/nacional/noticia-sanchez-aval-amnistia-regreso-puigdemont-importante-convivencia-catalanes-20261006132700.html",
+      "fecha": "2026-10-06T11:27+00:00",
+      "partidos": [
+        "junts"
+      ]
+    },
+    {
+      "titulo": "El Constitucional ampara a los líderes del 'procés' y Llarena levanta la orden de detención contra Puigdemont que podrá regresar ya a España",
+      "medio": "El Mundo",
+      "url": "https://www.elmundo.es/espana/2026/10/06/6ac4c58c21efa0dc1f8b45ba.html",
+      "fecha": "2026-10-06T11:25+00:00",
+      "partidos": [
+        "junts"
+      ]
+    },
+    {
+      "titulo": "Referéndum, cárcel, huida y amnistía a Puigdemont y los exconsellers: cronología de una década de procés",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/catalunya/referendum-carcel-huida-amnistia-puigdemont-exconsellers-cronologia-decada-proces_1_13565879.html",
+      "fecha": "2026-10-06T11:25+00:00",
+      "partidos": [
+        "junts"
+      ]
+    },
+    {
+      "titulo": "Vox defiende una reforma hacia la privatización de las pensiones y da por muerto el sistema público actual",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/economia/vox-defiende-reforma-privatizacion-pensiones-da-muerto-sistema-publico-actual_1_13565422.html",
+      "fecha": "2026-10-06T11:24+00:00",
+      "partidos": [
+        "vox"
+      ]
+    },
+    {
+      "titulo": "El PP pide al juez la imputación del PSOE en la causa de las cloacas por cinco delitos de corrupción",
+      "medio": "20minutos",
+      "url": "https://www.20minutos.es/nacional/pp-pide-juez-imputacion-psoe-causa-las-cloacas-por-cinco-delitos-corrupcion_7045442_0.html",
+      "fecha": "2026-10-06T11:07+00:00",
+      "partidos": [
+        "pp",
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "María Jesús Montero no volverá a ir en la listas del PSOE al Congreso como número uno por Sevilla",
+      "medio": "El Mundo",
+      "url": "https://www.elmundo.es/espana/2026/10/06/6ac4d1f5e85ece50618b45a0.html",
+      "fecha": "2026-10-06T11:00+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "Quién es José María Figaredo: el abogado y economista de la familia de Rodrigo Rato que lleva la voz económica de Vox en el Congreso",
+      "medio": "El Confidencial",
+      "url": "https://www.elconfidencial.com/espana/2026-10-06/quien-es-jose-maria-figaredo-abogado-economista-familia-rodrigo-rato-1qrt_4439195/",
+      "fecha": "2026-10-06T11:00+00:00",
+      "partidos": [
+        "vox"
+      ]
+    },
+    {
+      "titulo": "El PP pide a la Audiencia Nacional la imputación del PSOE en el caso Leire Díez",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/politica/pp-pide-audiencia-nacional-imputacion-psoe-caso-leire-diez_1_13565841.html",
+      "fecha": "2026-10-06T10:56+00:00",
+      "partidos": [
+        "pp",
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "El juez Llarena levanta la orden de detención de Puigdemont tras conocer el fallo del Constitucional",
+      "medio": "20minutos",
+      "url": "https://www.20minutos.es/nacional/juez-llarena-levanta-orden-detencion-puigdemont-tras-conocer-fallo-constitucional_7045435_0.html",
+      "fecha": "2026-10-06T10:55+00:00",
+      "partidos": [
+        "junts"
+      ]
+    },
+    {
+      "titulo": "El TC ordena aplicar la amnistía, Llarena levanta la orden de detención de Puigdemont: ¿Y ahora qué?",
+      "medio": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/politica/20261006/11652315/tc-ordena-aplicar-amnistia-llarena-levanta-orden-detencion-puigdemont-que.html",
+      "fecha": "2026-10-06T10:51+00:00",
+      "partidos": [
+        "junts"
+      ]
+    },
+    {
+      "titulo": "El Supremo levanta la orden de detención contra Puigdemont tras el aval del TC a amnistiar la malversación",
+      "medio": "Europa Press",
+      "url": "https://www.europapress.es/nacional/noticia-supremo-levanta-orden-detencion-contra-puigdemont-aval-tc-amnistiar-malversacion-20261006124641.html",
+      "fecha": "2026-10-06T10:46+00:00",
+      "partidos": [
+        "junts"
+      ]
+    },
+    {
+      "titulo": "Puigdemont ya puede volver a España tras retirar el Supremo su orden de detención",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/catalunya/juez-llarena-levanta-orden-detencion-puigdemont-sentencia-constitucional_1_13565825.html",
+      "fecha": "2026-10-06T10:43+00:00",
+      "partidos": [
+        "junts"
+      ]
+    },
+    {
+      "titulo": "El juez Llarena deja sin efecto la orden de detención de Puigdemont",
+      "medio": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/politica/20261006/11652301/llarena-deja-efecto-orden-detencion-puigdemont.html",
+      "fecha": "2026-10-06T10:42+00:00",
+      "partidos": [
+        "junts"
+      ]
+    },
+    {
+      "titulo": "El Supremo levanta la orden de detención a Puigdemont, pero no le aplica todavía la amnistía",
+      "medio": "El País",
+      "url": "https://elpais.com/espana/2026-10-06/el-supremo-levanta-la-orden-de-detencion-a-puigdemont.html",
+      "fecha": "2026-10-06T10:41+00:00",
+      "partidos": [
+        "junts"
+      ]
+    },
+    {
+      "titulo": "El PP pide la imputación del PSOE en el caso Leire que se investiga en la Audiencia Nacional",
+      "medio": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/politica/20261006/11652297/pp-pide-imputacion-psoe-caso-leire-investiga-audiencia-nacional.html",
+      "fecha": "2026-10-06T10:39+00:00",
+      "partidos": [
+        "pp",
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "Génova se desmarca de Ayuso y ve \"garantista\" el voto por correo mientras ella se reafirma: \"Todo el mundo tiene que ir a la urna\"",
+      "medio": "El Mundo",
+      "url": "https://www.elmundo.es/espana/2026/10/06/6ac4ba7ce4d4d8a07c8b45b9.html",
+      "fecha": "2026-10-06T10:32+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "Génova se distancia de Ayuso y ve “garantista” el sistema de voto por correo: “Que vayan a votar por tierra, mar y aire”",
+      "medio": "El País",
+      "url": "https://elpais.com/espana/elecciones-generales/2026-10-06/genova-se-desmarca-de-ayuso-y-ve-garantista-el-sistema-de-voto-por-correo-que-vayan-a-votar-por-tierra-mar-y-aire.html",
+      "fecha": "2026-10-06T10:19+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "El Constitucional avala amnistiar la malversación del 'procés' y sienta las bases para el regreso inminente de Puigdemont",
+      "medio": "20minutos",
+      "url": "https://www.20minutos.es/nacional/constitucional-avala-amnistiar-malversacion-proces-sienta-las-bases-para-regreso-inminente-puigdemont_7045116_0.html",
+      "fecha": "2026-10-06T10:05+00:00",
+      "partidos": [
+        "junts"
+      ]
+    },
+    {
+      "titulo": "El Constitucional aplica la amnistía a la malversación del procés y permite el regreso de Puigdemont",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/catalunya/constitucional-aplica-amnistia-malversacion-proces-abre-puerta-regreso-puigdemont_1_13565198.html",
+      "fecha": "2026-10-06T10:04+00:00",
+      "partidos": [
+        "junts"
+      ]
+    },
+    {
+      "titulo": "El TC ordena al Supremo amnistiar a los líderes del procés y abre la vía al retorno de Puigdemont",
+      "medio": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/politica/20261006/11652114/tc-ordena-supremo-amnistiar-lideres-proces-abre-retorno-puigdemont.html",
+      "fecha": "2026-10-06T09:53+00:00",
+      "partidos": [
+        "junts"
+      ]
+    },
+    {
+      "titulo": "Vox pide al Supremo que suspenda también el voto a los descendientes de exiliados",
+      "medio": "El País",
+      "url": "https://elpais.com/espana/elecciones-generales/2026-10-06/vox-pide-al-supremo-que-suspenda-tambien-el-voto-a-los-descendientes-de-exiliados.html",
+      "fecha": "2026-10-06T09:48+00:00",
+      "partidos": [
+        "vox"
+      ]
+    },
+    {
+      "titulo": "El líder del PP vasco, Javier de Andrés, alimenta sin pruebas las sospechas de manipulación del voto por correo",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/euskadi/lider-pp-vasco-javier-andres-alimenta-pruebas-sospechas-manipulacion-voto-correo_1_13565289.html",
+      "fecha": "2026-10-06T09:12+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
       "titulo": "Pedro Sánchez arranca la campaña con María Jesús Montero este sábado en Sevilla",
       "medio": "ABC",
       "url": "https://www.abc.es/espana/andalucia/pedro-sanchez-arranca-campana-maria-jesus-montero-20261006105322-nts.html",
@@ -422,6 +828,15 @@
       ]
     },
     {
+      "titulo": "Aval del Constitucional a la amnistía, en directo | Feijóo acata la decisión del TC, pero dice que la amnistía fue un engaño de Sánchez \"que debe castigarse en las urnas\"",
+      "medio": "20minutos",
+      "url": "https://www.20minutos.es/nacional/aval-constitucional-amnistia-directo-tc-se-dispone-avalar-amnistia-malversacion-proces-que-sienta-las-bases-para-regreso-puigdemont_7045295_6.html",
+      "fecha": "2026-10-06T09:00+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
       "titulo": "Sentencia del Tribunal Constitucional sobre la amnistía y la última hora de Puigdemont, hoy en directo",
       "medio": "La Vanguardia",
       "url": "https://www.lavanguardia.com/politica/20261006/11652015/resolucion-tribunal-constitucional-ley-de-amnistia-ultima-hora-hoy-en-directo.html",
@@ -437,6 +852,15 @@
       "fecha": "2026-10-06T08:39+00:00",
       "partidos": [
         "psoe"
+      ]
+    },
+    {
+      "titulo": "Podemos y Frente Amplio rompen el hielo con un encuentro fortuito en la calle: \"Oye, plantéalo en una reunión y no a través de la tele\"",
+      "medio": "El Mundo",
+      "url": "https://www.elmundo.es/espana/2026/10/06/6ac4b28efdddffe8268b45a3.html",
+      "fecha": "2026-10-06T08:37+00:00",
+      "partidos": [
+        "podemos"
       ]
     },
     {
