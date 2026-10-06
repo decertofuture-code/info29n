@@ -37,6 +37,17 @@ jobs:
       - name: Recoger noticias y avisos
         run: python actualizar.py
 
+      - name: Publicar en X (calendario, cuenta atrás y resumen de ayer)
+        if: github.event.schedule == '0 5 * * *' || (github.event_name == 'workflow_dispatch' && inputs.informe)
+        continue-on-error: true   # si X falla, las noticias se guardan igual
+        run: python publicar_x.py diario
+        env:
+          X_ACTIVO: ${{ vars.X_ACTIVO }}
+          X_API_KEY: ${{ secrets.X_API_KEY }}
+          X_API_SECRET: ${{ secrets.X_API_SECRET }}
+          X_ACCESS_TOKEN: ${{ secrets.X_ACCESS_TOKEN }}
+          X_ACCESS_SECRET: ${{ secrets.X_ACCESS_SECRET }}
+
       - name: Guardar cambios (sin publicar en Netlify; la web lee los datos de GitHub)
         run: |
           git config user.name "info29n-bot"
@@ -59,9 +70,26 @@ jobs:
             --title "Revisión del $(TZ=Europe/Madrid date +'%d/%m/%Y')" \
             --body-file informe.md
 
-  refrescar-cache:
+  al-editar-datos:
     if: github.event_name == 'push'
     runs-on: ubuntu-latest
     steps:
       - name: Refrescar la caché de datos.json
         run: curl -fsS https://purge.jsdelivr.net/gh/${{ github.repository }}@main/datos.json || true
+
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 2
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Anunciar en X los cambios de esta edición
+        run: python publicar_x.py cambios
+        env:
+          X_ACTIVO: ${{ vars.X_ACTIVO }}
+          X_API_KEY: ${{ secrets.X_API_KEY }}
+          X_API_SECRET: ${{ secrets.X_API_SECRET }}
+          X_ACCESS_TOKEN: ${{ secrets.X_ACCESS_TOKEN }}
+          X_ACCESS_SECRET: ${{ secrets.X_ACCESS_SECRET }}
