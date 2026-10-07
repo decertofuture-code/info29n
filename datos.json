@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-07T09:19+00:00",
+  "actualizado": "2026-10-07T13:21+00:00",
   "temas": [
     {
       "id": "vivienda",
@@ -393,6 +393,215 @@
   ],
   "noticias": [
     {
+      "titulo": "Feijóo abona las dudas del PP sobre el voto por correo y pedirá “medidas adicionales” a la Junta Electoral",
+      "medio": "El País",
+      "url": "https://elpais.com/espana/elecciones-generales/2026-10-07/feijoo-abona-a-las-dudas-del-pp-sobre-el-voto-por-correo-y-pedira-mas-controles-a-la-junta-electoral.html",
+      "fecha": "2026-10-07T13:13+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "Feijóo pedirá a la JEC medidas para dar más garantías al voto por correo: \"No confío en los directivos de Correos\"",
+      "medio": "Europa Press",
+      "url": "https://www.europapress.es/nacional/noticia-feijoo-pedira-jec-medidas-dar-mas-garantias-voto-correo-no-confio-directivos-correos-20261007150427.html",
+      "fecha": "2026-10-07T13:04+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "Turull (Junts): «No investiremos a Sánchez porque hemos salido escaldados con esta persona»",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/cataluna/turull-junts-investiremos-sanchez-salido-escaldados-persona-20261007111906-nt.html",
+      "fecha": "2026-10-07T13:03+00:00",
+      "partidos": [
+        "junts"
+      ]
+    },
+    {
+      "titulo": "Feijóo cuestiona la confianza en los directivos de Correos y pedirá medidas a la JEC para incrementar la garantía del voto por correo",
+      "medio": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/politica/20261007/11653429/feijoo-cuestiona-confianza-directivos-correos-pedira-medidas-jec-incrementar-garantia-voto-correo.html",
+      "fecha": "2026-10-07T13:02+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "Armengol permite a Sumar organizar en el Congreso una jornada para atacar al Supremo por la 'ley de nietos'",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/armengol-permite-sumar-organizar-congreso-jornada-atacar-20261007150119-nt.html",
+      "fecha": "2026-10-07T13:01+00:00",
+      "partidos": [
+        "sumar"
+      ]
+    },
+    {
+      "titulo": "Diputados de ERC se borran de las listas del 29N tras la confirmación de Rufián como candidato",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/diputados-erc-borran-listas-madrid-tras-confirmacion-20261009145005-nt.html",
+      "fecha": "2026-10-07T12:59+00:00",
+      "partidos": [
+        "erc"
+      ]
+    },
+    {
+      "titulo": "Feijóo avanza que el PP propondrá medidas para mejorar la seguridad del voto por correo: \"No confío en sus directivos\"",
+      "medio": "El Confidencial",
+      "url": "https://www.elconfidencial.com/espana/2026-10-07/feijoo-propone-medidas-voto-correo-1tps_4440277/",
+      "fecha": "2026-10-07T12:50+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "Page afirma que Puigdemont sólo puede \"humillar\" a los que \"firmaron el contrato de compraventa en el que consistió la amnistía\"",
+      "medio": "El Mundo",
+      "url": "https://www.elmundo.es/espana/2026/10/07/6ac61934e85ece253d8b45ad.html",
+      "fecha": "2026-10-07T12:42+00:00",
+      "partidos": [
+        "junts"
+      ]
+    },
+    {
+      "titulo": "Feijóo arranca la precampaña con Vivas: «Ceuta será la primera carpeta en el Consejo de Ministros»",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/feijoo-arranca-precampana-vivas-ceuta-primera-carpeta-20261007140616-nt.html",
+      "fecha": "2026-10-07T12:39+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "Feijóo sopesa que Albiol sea el candidato por Barcelona en las elecciones del 29-N",
+      "medio": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/politica/20261007/11653341/feijoo-sopesa-albiol-sea-candidato-barcelona-elecciones-29-n.html",
+      "fecha": "2026-10-07T12:39+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "Feijóo se compromete a aprobar medidas para Ceuta en el primer consejo de Ministros",
+      "medio": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/politica/20261007/11653410/feijoo-compromete-aprobar-medidas-ceuta-primer-consejo-ministros.html",
+      "fecha": "2026-10-07T12:35+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "«La estabilidad de Page se llama más Sánchez», aseguran desde el PP",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/castilla-la-mancha/estabilidad-page-llama-sanchez-aseguran-pp-20261007143314-nt.html",
+      "fecha": "2026-10-07T12:33+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "Pilar Vallugera no repetirá en las listas de ERC para las elecciones del 29-N",
+      "medio": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/politica/20261007/11653404/pilar-vallugera-repetira-listas-erc-elecciones-29-n.html",
+      "fecha": "2026-10-07T12:28+00:00",
+      "partidos": [
+        "erc"
+      ]
+    },
+    {
+      "titulo": "Feijóo pone en duda el voto por correo: \"He sido presidente de Correos, confío en los carteros, no en los directivos\"",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/politica/feijoo-pone-duda-voto-correo-he-sido-presidente-correos-confio-plenamente-carteros-no-confio-directivos_1_13569337.html",
+      "fecha": "2026-10-07T12:23+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "Feijóo promete en Ceuta una nueva Ley de Extranjería para devolver a irregulares: \"La invasión no volverá a pasar\"",
+      "medio": "Europa Press",
+      "url": "https://www.europapress.es/nacional/noticia-feijoo-promete-ceuta-nueva-ley-extranjeria-devolver-irregulares-invasion-no-volvera-pasar-20261007142235.html",
+      "fecha": "2026-10-07T12:22+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "Feijóo pedirá a la JEC \"incrementar la garantía\" del voto por correo: \"Confío en los empleados, no en los directivos\"",
+      "medio": "20minutos",
+      "url": "https://www.20minutos.es/nacional/feijoo-pedira-jec-incrementar-garantia-voto-por-correo-confio-los-empleados-no-los-directivos_7046017_0.html",
+      "fecha": "2026-10-07T12:15+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "Mediaset propone un 'cara a cara' entre Sánchez y Feijóo presentado por Carlos Franganillo y Alba Lago",
+      "medio": "Europa Press",
+      "url": "https://www.europapress.es/sociedad/noticia-mediaset-propone-cara-cara-sanchez-feijoo-presentado-carlos-franganillo-alba-lago-20261007133515.html",
+      "fecha": "2026-10-07T11:35+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "El portavoz de Vox en el Parlamento de Castilla y León llama \"psicópata\" a Pedro Sánchez en un pleno",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/castilla-y-leon/politica/portavoz-vox-castilla-leon-llama-psicopata-sanchez-niega-retirar-calificativo_1_13569085.html",
+      "fecha": "2026-10-07T11:25+00:00",
+      "partidos": [
+        "psoe",
+        "vox"
+      ]
+    },
+    {
+      "titulo": "El PP de Ayuso difunde un vídeo con IA que advierte de que Sánchez \"nos quiere llevar a una dictadura\": \"No votes por correo\"",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/rastreador/pp-ayuso-difunde-video-ia-advierte-sanchez-quiere-llevar-dictadura-no-votes-correo_132_13568556.html",
+      "fecha": "2026-10-07T11:01+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "¿Cuánto tiempo lleva Pedro Sánchez como presidente del Gobierno de España?",
+      "medio": "20minutos",
+      "url": "https://www.20minutos.es/nacional/cuanto-tiempo-lleva-pedro-sanchez-presidente-gobierno-espana_7045862_0.html",
+      "fecha": "2026-10-07T10:51+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "Figuras próximas a Puigdemont alientan un retorno después de las elecciones del 29-N",
+      "medio": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/politica/20261007/11653197/figuras-proximas-piugdemont-alientan-retorno-elecciones-29-n.html",
+      "fecha": "2026-10-07T10:11+00:00",
+      "partidos": [
+        "junts"
+      ]
+    },
+    {
+      "titulo": "El PSOE acusa de racismo al Gobierno de Guardiola tras vaciar los fondos para menores migrantes, en manos de Vox",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/extremadura/politica/psoe-acusa-racismo-gobierno-guardiola-vaciar-fondos-menores-migrantes-manos-vox_1_13568492.html",
+      "fecha": "2026-10-07T09:58+00:00",
+      "partidos": [
+        "psoe",
+        "vox"
+      ]
+    },
+    {
+      "titulo": "Turull descarta que Junts invista a Sánchez tras el 29N: \"Hemos salido escarmentados\"",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/catalunya/turull-descarta-junts-invista-sanchez-29n-hemos-salido-escarmentados_1_13568472.html",
+      "fecha": "2026-10-07T09:45+00:00",
+      "partidos": [
+        "junts"
+      ]
+    },
+    {
       "titulo": "Turull descarta volver a apoyar una investidura de Pedro Sánchez tras las elecciones del 29-N",
       "medio": "La Vanguardia",
       "url": "https://www.lavanguardia.com/politica/20261007/11653142/turull-descarta-volver-apoyar-investidura-pedro-sanchez-elecciones-29-n.html",
@@ -424,6 +633,15 @@
       "medio": "Europa Press",
       "url": "https://www.europapress.es/nacional/noticia-urtasun-acusa-feijoo-estar-entregado-trumpismo-asegura-voto-correo-espanol-envidiable-20261007095514.html",
       "fecha": "2026-10-07T07:55+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "Sémper contradice a Ayuso y aclara la postura del PP sobre el voto por correo: \"Nuestro sistema es garantista\"",
+      "medio": "El Mundo",
+      "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/10/07/6ac5f6ccfc6c83a02d8b4593.html",
+      "fecha": "2026-10-07T07:51+00:00",
       "partidos": [
         "pp"
       ]
