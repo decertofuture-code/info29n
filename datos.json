@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-07T17:22+00:00",
+  "actualizado": "2026-10-07T21:18+00:00",
   "temas": [
     {
       "id": "vivienda",
@@ -392,6 +392,69 @@
     }
   ],
   "noticias": [
+    {
+      "titulo": "Maricarmen Abascal y los 15 días que levantaron a un país contra los desahucios",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/madrid/maricarmen-abascal-14-dias-levantaron-pais-desahucios_1_13570663.html",
+      "fecha": "2026-10-07T19:48+00:00",
+      "partidos": [
+        "vox"
+      ]
+    },
+    {
+      "titulo": "Pedro Sánchez lamenta la muerte de Maricarmen: \"Un abrazo también a todos los que hoy sentimos esta pérdida como propia\"",
+      "medio": "20minutos",
+      "url": "https://www.20minutos.es/nacional/pedro-sanchez-lamenta-muerte-maricarmen-un-abrazo-tambien-todos-los-que-hoy-sentimos-esta-perdida-como-propia_7046285_0.html",
+      "fecha": "2026-10-07T19:22+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "Puigdemont traslada su oficina de expresidente a la zona alta de Barcelona antes de su regreso",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/cataluna/puigdemont-traslada-oficina-expresidente-zona-alta-barcelona-20261007205744-nt.html",
+      "fecha": "2026-10-07T18:57+00:00",
+      "partidos": [
+        "junts"
+      ]
+    },
+    {
+      "titulo": "Juanma Moreno activa la maquinaria del PP-A para revalidar la «mayoría social» y «contribuir al cambio en España»",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/andalucia/juanma-moreno-activa-maquinaria-ppa-revalidar-mayoria-20261007204150-nts.html",
+      "fecha": "2026-10-07T18:41+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "El PSOE local de Toledo vuelve a proponer a Tolón como cabeza de lista al Congreso tras su rechazo en 2023",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/castilla-la-mancha/toledo/psoe-local-toledo-vuelve-proponer-tolon-cabeza-20261007201253-nt.html",
+      "fecha": "2026-10-07T18:13+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "El concejal de Vivienda de Benalmádena, del PP, llama “puta sinvergüenza” a Maricarmen en un Consejo Sectorial",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/andalucia/malaga/concejal-vivienda-benalmadena-pp-carga-maricarmen-califica-puta-sinverguenza_1_13570425.html",
+      "fecha": "2026-10-07T18:05+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "Puigdemont traslada su oficina de expresidente a la zona alta de Barcelona",
+      "medio": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/politica/20261007/11653666/puigdemont-traslada-oficina-expresidente-zona-alta-barcelona.html",
+      "fecha": "2026-10-07T17:51+00:00",
+      "partidos": [
+        "junts"
+      ]
+    },
     {
       "titulo": "La UCO confirma que la cloaca del PSOE contactó con los narcos para «eliminar» a la juez del caso del hermano de Sánchez",
       "medio": "ABC",
