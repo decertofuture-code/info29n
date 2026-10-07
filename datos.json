@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-07T05:05+00:00",
+  "actualizado": "2026-10-07T09:19+00:00",
   "temas": [
     {
       "id": "vivienda",
@@ -393,6 +393,71 @@
   ],
   "noticias": [
     {
+      "titulo": "Turull descarta volver a apoyar una investidura de Pedro Sánchez tras las elecciones del 29-N",
+      "medio": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/politica/20261007/11653142/turull-descarta-volver-apoyar-investidura-pedro-sanchez-elecciones-29-n.html",
+      "fecha": "2026-10-07T09:07+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "Abascal arremete contra Sánchez: \"Primero arruina a los españoles, luego les insulta comprándoles el voto\"",
+      "medio": "Europa Press",
+      "url": "https://www.europapress.es/nacional/noticia-abascal-arremete-contra-sanchez-primero-arruina-espanoles-luego-les-insulta-comprandoles-voto-20261007110745.html",
+      "fecha": "2026-10-07T09:07+00:00",
+      "partidos": [
+        "vox"
+      ]
+    },
+    {
+      "titulo": "IU abre las puertas del Frente Amplio a Podemos: \"Aquí tiene cabida toda la izquierda transformadora\"",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/politica/iu-abre-puertas-frente-amplio-cabida-izquierda-trasformadora_1_13568008.html",
+      "fecha": "2026-10-07T09:00+00:00",
+      "partidos": [
+        "podemos"
+      ]
+    },
+    {
+      "titulo": "Urtasun acusa a Feijóo de estar \"entregado al trumpismo\" y asegura que el voto por correo español es envidiable",
+      "medio": "Europa Press",
+      "url": "https://www.europapress.es/nacional/noticia-urtasun-acusa-feijoo-estar-entregado-trumpismo-asegura-voto-correo-espanol-envidiable-20261007095514.html",
+      "fecha": "2026-10-07T07:55+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "El Gobierno reivindica la amnistía: “Puigdemont podría regresar hoy si quisiera”",
+      "medio": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/politica/20261007/11653050/gobierno-reivindica-amnistia-puigdemont-regresar-hoy-quisiera.html",
+      "fecha": "2026-10-07T07:30+00:00",
+      "partidos": [
+        "junts"
+      ]
+    },
+    {
+      "titulo": "Encuestas elecciones Cataluña: resultados de Aliança Catalana, PSC, Junts, PP y Vox y ganador según los sondeos",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/cataluna/encuestas-elecciones-cataluna-resultados-catalanas-segun-ultimas-20261007212057-nt.html",
+      "fecha": "2026-10-07T07:20+00:00",
+      "partidos": [
+        "pp",
+        "vox",
+        "junts"
+      ]
+    },
+    {
+      "titulo": "El PP avanza un mitin de Feijóo con Ayuso el sábado en Madrid y reta a Sánchez a ir con Zapatero al suyo en Sevilla",
+      "medio": "Europa Press",
+      "url": "https://www.europapress.es/nacional/noticia-pp-avanza-mitin-feijoo-ayuso-sabado-madrid-reta-sanchez-ir-zapatero-suyo-sevilla-20261007090946.html",
+      "fecha": "2026-10-07T07:09+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
       "titulo": "Un estudio de opinión testa quién podría suceder a Page como presidente: no incluye a Tolón y sí a Paco Núñez (PP)",
       "medio": "ABC",
       "url": "https://www.abc.es/espana/castilla-la-mancha/estudio-opinion-testa-suceder-page-presidente-incluye-20261006060003-nt.html",
@@ -469,6 +534,15 @@
       ]
     },
     {
+      "titulo": "¿Cuándo volverá Puigdemont a España? Las claves de su regreso tras el levantamiento de la orden de detención",
+      "medio": "20minutos",
+      "url": "https://www.20minutos.es/cataluna/cuando-volvera-puigdemont-espana-las-claves-su-regreso-tras-levantamiento-orden-detencion_7045595_0.html",
+      "fecha": "2026-10-07T03:00+00:00",
+      "partidos": [
+        "junts"
+      ]
+    },
+    {
       "titulo": "Los 70 diputados de Vox, el listón clave que espera el PSOE y que \"puede hacer la legislatura casi imposible\" para el PP",
       "medio": "El Mundo",
       "url": "https://www.elmundo.es/espana/2026/10/07/6ac53478e9cf4af3538b4577.html",
@@ -477,6 +551,15 @@
         "pp",
         "psoe",
         "vox"
+      ]
+    },
+    {
+      "titulo": "Puigdemont descarta un regreso inminente y delega en Nogueras el peso de la campaña del 29-N",
+      "medio": "El Mundo",
+      "url": "https://www.elmundo.es/cataluna/2026/10/07/6ac5508be85ececc648b45b9.html",
+      "fecha": "2026-10-06T23:36+00:00",
+      "partidos": [
+        "junts"
       ]
     },
     {
