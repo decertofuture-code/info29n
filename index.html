@@ -270,6 +270,9 @@ footer{padding-bottom:5.5rem!important}
 .consent{display:flex!important;gap:.6rem;align-items:flex-start;font-weight:400!important;margin-top:1rem!important;line-height:1.45}
 .consent input{width:1.15rem!important;height:1.15rem;flex:none;margin:.18rem 0 0;padding:0}
 .privacy b{font-weight:700;color:var(--ink)}
+
+.commit{background:var(--sheet);border:1px solid var(--line);border-radius:10px;box-shadow:var(--shadow);padding:.4rem 1.2rem;margin:0 0 1.75rem;max-width:44rem}
+.commit p{margin:.7rem 0}
 </style>
 </head>
 <body data-tab="inicio">
@@ -404,12 +407,17 @@ footer{padding-bottom:5.5rem!important}
 
   <section id="metodo" aria-labelledby="metodo-h" class="method" role="tabpanel" tabindex="0" hidden>
     <h2 id="metodo-h">Cómo hacemos esta web</h2>
+    <div class="commit">
+      <p><b>Sin publicidad, nunca.</b> Esta web no tiene ni tendrá anuncios, contenido patrocinado ni enlaces pagados.</p>
+      <p><b>Financiada por su responsable.</b> Todos los costes (dominio, alojamiento y herramientas) los paga de su bolsillo su responsable, Cristian Duarte Iglesias. La web no recibe dinero de partidos, empresas ni instituciones.</p>
+      <p><b>Neutral por principio.</b> Aplicamos los mismos criterios a todos los partidos, no valoramos sus propuestas y no pedimos ni recomendamos el voto. Si crees que algo no es neutral, escríbenos y lo revisaremos.</p>
+    </div>
     <p><b>Qué partidos aparecen.</b> Los que tienen diputados en el Congreso al final de la legislatura, ordenados por número de diputados. Cuando se cierren las listas se añadirán las candidaturas nuevas que se presenten en toda España.</p>
     <p><b>Qué temas.</b> Los que más citan los españoles como principal problema del país en el último barómetro del CIS, en ese orden.</p>
     <p><b>Qué medidas.</b> Solo las que aparecen en el programa oficial de cada partido o en una declaración pública de su candidato, siempre con enlace y fecha. No resumimos con adjetivos ni valoramos si una medida es buena o mala.</p>
     <p><b>Casos de corrupción.</b> Solo procedimientos penales (no sanciones administrativas) por delitos de corrupción que afecten al partido o a personas que ocupaban un cargo en él o en su nombre, con alguna novedad judicial entre 2023 y 2026. Indicamos siempre el estado: investigación, pendiente de sentencia, condena no firme o condena firme. Incluimos los casos con más repercusión por el cargo de los implicados; la lista se irá ampliando, y que un partido no tenga casos aquí no certifica nada.</p>
     <p><b>Votaciones.</b> Datos del Pleno del Congreso. Cuando no podemos confirmar el voto de un grupo, lo indicamos como "sin dato" en lugar de suponerlo.</p>
-    <p><b>Correcciones.</b> Si ves un error, escríbenos desde el <a href="#buzon" data-go="buzon">buzón de sugerencias</a> y lo revisaremos. Esta web no pide ni recomienda el voto.</p>
+    <p><b>Correcciones.</b> Si ves un error, escríbenos desde el <a href="#buzon" data-go="buzon">buzón de sugerencias</a> y lo revisaremos.</p>
   </section>
 
   <section id="buzon" aria-labelledby="buzon-h" role="tabpanel" tabindex="0" hidden>
@@ -442,7 +450,7 @@ footer{padding-bottom:5.5rem!important}
   </section>
 
   <footer>
-    <p>Última actualización: <span class="js-updated">—</span>. Partidos con representación en el Congreso, ordenados por número de diputados al final de la legislatura; las candidaturas definitivas se conocerán al cerrarse las listas. Cada medida enlaza a su fuente. Esta web no pide ni recomienda el voto.</p>
+    <p>Última actualización: <span class="js-updated">—</span>. Partidos con representación en el Congreso, ordenados por número de diputados al final de la legislatura; las candidaturas definitivas se conocerán al cerrarse las listas. Cada medida enlaza a su fuente. Sin publicidad y financiada por su responsable. Esta web no pide ni recomienda el voto.</p>
     <p><a href="privacidad.html">Política de privacidad</a> · <a href="#buzon" data-go="buzon">Contacto</a></p>
   </footer>
 </div>
