@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-06T19:53+00:00",
+  "actualizado": "2026-10-07T05:05+00:00",
   "temas": [
     {
       "id": "vivienda",
@@ -393,6 +393,203 @@
   ],
   "noticias": [
     {
+      "titulo": "Un estudio de opinión testa quién podría suceder a Page como presidente: no incluye a Tolón y sí a Paco Núñez (PP)",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/castilla-la-mancha/estudio-opinion-testa-suceder-page-presidente-incluye-20261006060003-nt.html",
+      "fecha": "2026-10-07T04:00+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "El TC, expectante ante el siguiente paso del Supremo con Puigdemont para zanjar la amnistía",
+      "medio": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/politica/20261007/11652734/tc-expectante-siguiente-paso-supremo-puigdemont-zanjar-amnistia.html",
+      "fecha": "2026-10-07T04:00+00:00",
+      "partidos": [
+        "junts"
+      ]
+    },
+    {
+      "titulo": "PP, Vox y Junts han votado ocho veces juntos contra decretos con medidas sobre vivienda",
+      "medio": "El País",
+      "url": "https://elpais.com/espana/2026-10-07/pp-vox-y-junts-han-votado-ocho-veces-juntos-contra-decretos-con-medidas-sobre-vivienda.html",
+      "fecha": "2026-10-07T03:30+00:00",
+      "partidos": [
+        "pp",
+        "vox",
+        "junts"
+      ]
+    },
+    {
+      "titulo": "Junts busca exprimir el regreso de Puigdemont para impactar en la campaña electoral",
+      "medio": "El País",
+      "url": "https://elpais.com/espana/catalunya/2026-10-07/junts-busca-exprimir-el-regreso-de-puigdemont-para-impactar-en-la-campana-electoral.html",
+      "fecha": "2026-10-07T03:30+00:00",
+      "partidos": [
+        "junts"
+      ]
+    },
+    {
+      "titulo": "La vuelta de Puigdemont",
+      "medio": "20minutos",
+      "url": "https://www.20minutos.es/nacional/vuelta-puigdemont-carmelo-encinas-proces-amnistia_7045761_3.html",
+      "fecha": "2026-10-07T03:02+00:00",
+      "partidos": [
+        "junts"
+      ]
+    },
+    {
+      "titulo": "Las encuestas en Cataluña lanzan a Orriols, meten miedo al PSC y dejan a Junts en manos de Puigdemont",
+      "medio": "El Confidencial",
+      "url": "https://www.elconfidencial.com/espana/cataluna/2026-10-07/encuestas-cataluna-orriols-miedo-psc-junts-puigdemont_4439721/",
+      "fecha": "2026-10-07T03:00+00:00",
+      "partidos": [
+        "junts"
+      ]
+    },
+    {
+      "titulo": "El PP rescata Ceuta y la corrupción para atacar al PSOE en campaña y mira de reojo al voto por correo",
+      "medio": "El Confidencial",
+      "url": "https://www.elconfidencial.com/espana/2026-10-07/pp-rescata-ceuta-corrupcion-atacar-psoe-campana-voto-correo_4439654/",
+      "fecha": "2026-10-07T03:00+00:00",
+      "partidos": [
+        "pp",
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "PSOE y Sumar se disputan la bandera de la vivienda en el primer pulso electoral de la coalición",
+      "medio": "20minutos",
+      "url": "https://www.20minutos.es/nacional/psoe-sumar-se-disputan-bandera-vivienda-primer-pulso-electoral-coalicion_7043857_0.html",
+      "fecha": "2026-10-07T03:00+00:00",
+      "partidos": [
+        "psoe",
+        "sumar"
+      ]
+    },
+    {
+      "titulo": "Los 70 diputados de Vox, el listón clave que espera el PSOE y que \"puede hacer la legislatura casi imposible\" para el PP",
+      "medio": "El Mundo",
+      "url": "https://www.elmundo.es/espana/2026/10/07/6ac53478e9cf4af3538b4577.html",
+      "fecha": "2026-10-06T23:36+00:00",
+      "partidos": [
+        "pp",
+        "psoe",
+        "vox"
+      ]
+    },
+    {
+      "titulo": "Podemos escenificará unas primarias abiertas aunque se descuelgue Sumar",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/podemos-escenificara-primarias-abiertas-descuelgue-sumar-20261006012141-nt.html",
+      "fecha": "2026-10-06T23:22+00:00",
+      "partidos": [
+        "sumar"
+      ]
+    },
+    {
+      "titulo": "Moncloa cree que la vuelta de Puigdemont es un aval a su gestión y beneficia a Illa",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/moncloa-cree-vuelta-puigdemont-aval-gestion-beneficia-20261007012130-nt.html",
+      "fecha": "2026-10-06T23:21+00:00",
+      "partidos": [
+        "junts"
+      ]
+    },
+    {
+      "titulo": "El PP valenciano cierra filas para el 29-N con el objetivo de mejorar el resultado de 2023 y despejar dudas en Génova sobre Llorca",
+      "medio": "El Mundo",
+      "url": "https://www.elmundo.es/comunidad-valenciana/2026/10/07/6ac4f610e9cf4a35798b4573.html",
+      "fecha": "2026-10-06T22:00+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "El Colegio de Ingenieros que contrató al despacho del portavoz de Vox en València destina 25.000 euros a \"asesoría jurídica\"",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/comunitat-valenciana/valencia/colegio-ingenieros-contrato-despacho-portavoz-vox-valencia-destina-25-000-euros-asesoria-juridica_1_13567186.html",
+      "fecha": "2026-10-06T21:57+00:00",
+      "partidos": [
+        "vox"
+      ]
+    },
+    {
+      "titulo": "El PSOE exprime el caos de Sumar y se lanza a laminar a sus socios en las provincias medianas y pequeñas con el voto útil",
+      "medio": "El Mundo",
+      "url": "https://www.elmundo.es/espana/2026/10/06/6ac54230fc6c83251f8b459c.html",
+      "fecha": "2026-10-06T20:48+00:00",
+      "partidos": [
+        "psoe",
+        "sumar"
+      ]
+    },
+    {
+      "titulo": "Feijóo arenga al PP para que no se confíe: \"Sois mi ejército y ésta es la madre de todas las batallas, no podemos fallar\"",
+      "medio": "El Mundo",
+      "url": "https://www.elmundo.es/espana/2026/10/06/6ac533f4e9cf4a30408b4577.html",
+      "fecha": "2026-10-06T20:48+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "El PP inaugura la precampaña del 29N con una nueva ofensiva en los tribunales contra el PSOE",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/politica/pp-inaugura-precampana-29n-nueva-ofensiva-tribunales-psoe_1_13566904.html",
+      "fecha": "2026-10-06T20:02+00:00",
+      "partidos": [
+        "pp",
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "Por qué Ayuso y Abascal tiran del manual de la ultraderecha para cuestionar las elecciones",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/internacional/ayuso-abascal-tiran-manual-ultraderecha-cuestionar-elecciones_1_13567145.html",
+      "fecha": "2026-10-06T20:02+00:00",
+      "partidos": [
+        "vox"
+      ]
+    },
+    {
+      "titulo": "Puigdemont no aclara cuándo regresará a Catalunya y se plantea volver tras el 29N",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/catalunya/puigdemont-no-aclara-regresara-catalunya-plantea-volver-29n_1_13566601.html",
+      "fecha": "2026-10-06T20:02+00:00",
+      "partidos": [
+        "junts"
+      ]
+    },
+    {
+      "titulo": "El regreso de Puigdemont, una buena noticia",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/opinion/zona-critica/regreso-puigdemont-buena-noticia_129_13567571.html",
+      "fecha": "2026-10-06T20:02+00:00",
+      "partidos": [
+        "junts"
+      ]
+    },
+    {
+      "titulo": "\"Nada que decir\": el PP guarda silencio sobre las cuatro macrogranjas que un diputado quiere aprobar en suelo familiar",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/aragon/politica/decir-pp-guarda-silencio-cuatro-macrogranjas-diputado-quiere-aprobar-suelo-familiar_1_13566549.html",
+      "fecha": "2026-10-06T20:02+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "Puigdemont ya puede volver",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/opinion/puigdemont-volver_131_13567667.html",
+      "fecha": "2026-10-06T20:02+00:00",
+      "partidos": [
+        "junts"
+      ]
+    },
+    {
       "titulo": "El PSOE balear lleva a una mujer desahuciada al pleno y acaba abrazada y llorando con Prohens",
       "medio": "ABC",
       "url": "https://www.abc.es/espana/baleares/psoe-balear-lleva-mujer-desahuciada-pleno-acaba-20261006211524-nt.html",
@@ -415,6 +612,15 @@
       "medio": "ABC",
       "url": "https://www.abc.es/espana/sanchez-reivindica-amnistia-hara-foto-puigdemont-20261006152431-nt.html",
       "fecha": "2026-10-06T18:26+00:00",
+      "partidos": [
+        "junts"
+      ]
+    },
+    {
+      "titulo": "Un obispo nacionalista y amigo de Puigdemont se perfila como sustituto de Omella al frente de la iglesia catalana",
+      "medio": "El Mundo",
+      "url": "https://www.elmundo.es/cataluna/2026/10/06/6ac53a4bfdddff1e5b8b45bf.html",
+      "fecha": "2026-10-06T18:21+00:00",
       "partidos": [
         "junts"
       ]
@@ -1463,6 +1669,15 @@
       "fecha": "2026-10-05T22:00+00:00",
       "partidos": [
         "podemos"
+      ]
+    },
+    {
+      "titulo": "El adelanto obliga a todo el PSOE a remar para Sánchez, se contará con Zapatero \"si él quiere\" y hasta Page tendrá que hacer campaña",
+      "medio": "El Mundo",
+      "url": "https://www.elmundo.es/espana/2026/10/06/6ac3faa3fc6c8321308b457e.html",
+      "fecha": "2026-10-05T22:00+00:00",
+      "partidos": [
+        "psoe"
       ]
     },
     {
