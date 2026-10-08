@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-07T21:18+00:00",
+  "actualizado": "2026-10-08T05:05+00:00",
   "temas": [
     {
       "id": "vivienda",
@@ -393,6 +393,242 @@
   ],
   "noticias": [
     {
+      "titulo": "Pedro Sánchez sólo hace catorce de cada cien pisos prometidos y ninguno en Andalucía",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/andalucia/pedro-sanchez-solo-catorce-cien-pisos-prometidos-20261008181358-nts.html",
+      "fecha": "2026-10-08T05:02+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "La apuesta por Colau reordena la izquierda alternativa y facilitaría un pacto con Podemos",
+      "medio": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/politica/20261008/11653699/apuesta-mas-madrid-colau-reordena-izquierda-alternativa.html",
+      "fecha": "2026-10-08T04:00+00:00",
+      "partidos": [
+        "podemos"
+      ]
+    },
+    {
+      "titulo": "Sánchez apuesta por Catalunya como clave para ganar terreno al PP el 29-N",
+      "medio": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/politica/20261008/11653670/sanchez-apuesta-catalunya-clave-ganar-terreno-pp-29-n.html",
+      "fecha": "2026-10-08T04:00+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "El PP trata de centrar la campaña en la crisis migratoria ceutí y la corrupción",
+      "medio": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/politica/20261008/11653639/pp-trata-centrar-campana-crisis-migratoria-ceuti-corrupcion.html",
+      "fecha": "2026-10-08T04:00+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "Ayuso arrastra a Feijóo al laberinto del voto por correo",
+      "medio": "El País",
+      "url": "https://elpais.com/espana/2026-10-08/ayuso-arrastra-a-feijoo-al-laberinto-del-voto-por-correo.html",
+      "fecha": "2026-10-08T03:30+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "La propuesta para que Colau lidere el Frente Amplio en las generales reabre el debate sobre el encaje de Podemos",
+      "medio": "El País",
+      "url": "https://elpais.com/espana/elecciones-generales/2026-10-08/la-propuesta-para-que-colau-lidere-el-frente-amplio-en-las-generales-reabre-el-debate-sobre-el-encaje-de-podemos.html",
+      "fecha": "2026-10-08T03:30+00:00",
+      "partidos": [
+        "podemos"
+      ]
+    },
+    {
+      "titulo": "Pucherazo en Correos, la teoría del submundo conspiranoico que se extiende por el PP y Vox",
+      "medio": "El País",
+      "url": "https://elpais.com/espana/2026-10-08/pucherazo-en-correos-la-teoria-del-submundo-conspiranoico-que-se-extiende-por-el-pp-y-vox.html",
+      "fecha": "2026-10-08T03:30+00:00",
+      "partidos": [
+        "pp",
+        "vox"
+      ]
+    },
+    {
+      "titulo": "La Generalitat y AVL se emplazan a trabajar de forma conjunta pese a la presión de Vox",
+      "medio": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/local/valencia/20261008/11653486/generalitat-avl-emplazan-trabajar-forma-conjunta-pese-presion-vox.html",
+      "fecha": "2026-10-08T03:30+00:00",
+      "partidos": [
+        "vox"
+      ]
+    },
+    {
+      "titulo": "Junts afronta un duro golpe electoral pero cierra filas con Puigdemont por no venir a España antes del 29-N",
+      "medio": "El Confidencial",
+      "url": "https://www.elconfidencial.com/espana/cataluna/2026-10-08/junts-crisis-electoral-cerrando-filas-puigdemont_4440529/",
+      "fecha": "2026-10-08T03:00+00:00",
+      "partidos": [
+        "junts"
+      ]
+    },
+    {
+      "titulo": "El reparto de poder entre Más Madrid y Colau solivianta al resto de Frente Amplio, mientras Podemos insiste en ir a primarias",
+      "medio": "20minutos",
+      "url": "https://www.20minutos.es/nacional/reparto-poder-entre-mas-madrid-colau-solivianta-resto-frente-amplio-mientras-podemos-insiste-ir-primarias_7046217_0.html",
+      "fecha": "2026-10-08T03:00+00:00",
+      "partidos": [
+        "podemos"
+      ]
+    },
+    {
+      "titulo": "El Gobierno retrasa la nueva votación de los decretos de vivienda y el PP denuncia un \"uso electoral\" del Congreso por parte de Sánchez",
+      "medio": "20minutos",
+      "url": "https://www.20minutos.es/nacional/gobierno-retrasa-nueva-votacion-los-decretos-vivienda-pp-denuncia-un-uso-electoral-congreso-por-parte-sanchez_7046199_0.html",
+      "fecha": "2026-10-08T03:00+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "Feijóo se vuelca con Ceuta y la presión judicial para dar la puntilla a Sánchez",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/pp-insiste-ceuta-presion-judicial-dar-puntilla-20261008011910-nt.html",
+      "fecha": "2026-10-07T23:37+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "El juez decidirá sobre la imputación del PSOE antes de la campaña",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/juez-decidira-sobre-imputacion-psoe-campana-20261008012316-nt.html",
+      "fecha": "2026-10-07T23:24+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "Sectores de Junts quieren a Puigdemont como candidato el 29N",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/cataluna/sectores-junts-quieren-puigdemont-candidato-29n-20261006012300-nt.html",
+      "fecha": "2026-10-07T23:23+00:00",
+      "partidos": [
+        "junts"
+      ]
+    },
+    {
+      "titulo": "Los agujeros de Sánchez en las listas del PSOE: quién es su pareja por Madrid, qué papel juega Cuerpo y la renuncia de los ministros candidatos",
+      "medio": "El Mundo",
+      "url": "https://www.elmundo.es/espana/2026/10/08/6ac654dbe85ece78768b45bb.html",
+      "fecha": "2026-10-07T23:19+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "Feijóo intenta centrar en Ceuta la precampaña mientras esquiva la crisis de la vivienda",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/politica/feijoo-centrar-ceuta-precampana-esquiva-crisis-vivienda_1_13570526.html",
+      "fecha": "2026-10-07T22:07+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "Reventar la confianza en la democracia es tendencia en la campaña del PP",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/politica/reventar-confianza-democracia-tendencia-campana-pp_129_13569040.html",
+      "fecha": "2026-10-07T22:07+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "El futuro incierto de Cuelgamuros: la memoria histórica queda en el aire ante el revisionismo de PP y Vox",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/sociedad/futuro-incierto-cuelgamuros-memoria-historica-queda-aire-revisionismo-pp-vox_1_13563442.html",
+      "fecha": "2026-10-07T22:07+00:00",
+      "partidos": [
+        "pp",
+        "vox"
+      ]
+    },
+    {
+      "titulo": "🎙 PODCAST | Empezó con Puigdemont y terminó con Puigdemont",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/un-tema-al-dia/podcast-empezo-termino-con-puigdemont_132_13570094.html",
+      "fecha": "2026-10-07T22:07+00:00",
+      "partidos": [
+        "junts"
+      ]
+    },
+    {
+      "titulo": "Pano, la mujer que llevó 90.000 € a Ferraz: \"También querían sobornarme para negar que le compramos el chalet a Ábalos\"",
+      "medio": "El Mundo",
+      "url": "https://www.elmundo.es/espana/2026/10/08/6ac68600e85ece60158b4570.html",
+      "fecha": "2026-10-07T22:00+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "Feijóo busca a su \"Josep Piqué\" para Cataluña",
+      "medio": "El Mundo",
+      "url": "https://www.elmundo.es/cataluna/2026/10/08/6ac68f00e85ece2a4f8b4581.html",
+      "fecha": "2026-10-07T22:00+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "Pedro Sánchez, ante la muerte de Maricarmen: “Un abrazo a los que sentimos esta pérdida como propia”",
+      "medio": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/vida/20261007/11653731/pedro-sanchez-muerte-maricarmen-abrazo-sentimos-perdida-propia.html",
+      "fecha": "2026-10-07T21:37+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "Feijóo asegura que solo cabe \"respeto\" por la muerte de Maricarmen: \"Ni campaña, ni partidos, ni utilización interesada\"",
+      "medio": "Europa Press",
+      "url": "https://www.europapress.es/sociedad/noticia-feijoo-asegura-solo-cabe-respeto-muerte-maricarmen-campana-partidos-utilizacion-interesada-20261007233244.html",
+      "fecha": "2026-10-07T21:32+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "Feijóo traslada el pésame a la familia de Maricarmen y pide no hacer \"campaña\" con su muerte",
+      "medio": "20minutos",
+      "url": "https://www.20minutos.es/nacional/feijoo-traslada-pesame-familia-maricarmen-pide-no-hacer-campana-con-su-muerte_7046305_0.html",
+      "fecha": "2026-10-07T21:16+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "El Ayuntamiento de València no defenderá judicialmente al edil de Vox que se coló en el sindicato de estudiantes",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/comunitat-valenciana/valencia/ayuntamiento-valencia-no-defendera-judicialmente-edil-vox-colo-sindicato-estudiantes_1_13568781.html",
+      "fecha": "2026-10-07T21:01+00:00",
+      "partidos": [
+        "vox"
+      ]
+    },
+    {
+      "titulo": "La juez Biedma comparece con \"muchos datos y pruebas\" tras desvelar la UCO que las cloacas del PSOE pidieron hacerle \"daño físico\"",
+      "medio": "El Mundo",
+      "url": "https://www.elmundo.es/espana/2026/10/07/6ac68488fc6c83da478b45aa.html",
+      "fecha": "2026-10-07T20:49+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
       "titulo": "Maricarmen Abascal y los 15 días que levantaron a un país contra los desahucios",
       "medio": "elDiario.es",
       "url": "https://www.eldiario.es/madrid/maricarmen-abascal-14-dias-levantaron-pais-desahucios_1_13570663.html",
@@ -411,12 +647,30 @@
       ]
     },
     {
+      "titulo": "Sánchez traslada su pésame por la muerte de Maricarmen Abascal: \"Sentimos esta pérdida como propia\"",
+      "medio": "Europa Press",
+      "url": "https://www.europapress.es/nacional/noticia-sanchez-traslada-pesame-muerte-maricarmen-abascal-sentimos-perdida-propia-20261007212150.html",
+      "fecha": "2026-10-07T19:21+00:00",
+      "partidos": [
+        "vox"
+      ]
+    },
+    {
       "titulo": "Puigdemont traslada su oficina de expresidente a la zona alta de Barcelona antes de su regreso",
       "medio": "ABC",
       "url": "https://www.abc.es/espana/cataluna/puigdemont-traslada-oficina-expresidente-zona-alta-barcelona-20261007205744-nt.html",
       "fecha": "2026-10-07T18:57+00:00",
       "partidos": [
         "junts"
+      ]
+    },
+    {
+      "titulo": "Frente Amplio: la vía Colau como candidata acerca a Podemos pero la lista de Madrid es un polvorín por la batalla entre los partidos",
+      "medio": "El Mundo",
+      "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/10/07/6ac68c84e4d4d877778b45ca.html",
+      "fecha": "2026-10-07T18:48+00:00",
+      "partidos": [
+        "podemos"
       ]
     },
     {
@@ -2885,160 +3139,6 @@
       "fecha": "2026-10-03T06:54+00:00",
       "partidos": [
         "junts"
-      ]
-    },
-    {
-      "titulo": "Sánchez abona el adelanto electoral tras el golpe de Junts a la legislatura",
-      "medio": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/politica/20261003/11649812/sanchez-abona-adelanto-electoral-golpe-junts-legislatura.html",
-      "fecha": "2026-10-02T22:05+00:00",
-      "partidos": [
-        "junts"
-      ]
-    },
-    {
-      "titulo": "¿Lentejas? Junts las deja",
-      "medio": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/politica/20261003/11649782/lentejas-junts-deja.html",
-      "fecha": "2026-10-02T22:05+00:00",
-      "partidos": [
-        "junts"
-      ]
-    },
-    {
-      "titulo": "Rufián llama a Junts “clasistas de mierda” y Turull le responde que él es “un invento de las cloacas del Estado”",
-      "medio": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/politica/20261002/11649757/rufian-llama-junts-clasistas-mierda-turull-le-responde-invento-cloacas.html",
-      "fecha": "2026-10-02T16:45+00:00",
-      "partidos": [
-        "junts"
-      ]
-    },
-    {
-      "titulo": "Feijóo exige elecciones a Sánchez tras el rechazo a los decretos de vivienda: “La escapada debe terminar aquí”",
-      "medio": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/politica/20261002/11649676/feijoo-exige-elecciones-sanchez-rechazo-decretos-vivienda-escapada-debe-terminar.html",
-      "fecha": "2026-10-02T14:30+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "El Congreso tumba los decretos de vivienda: última hora sobre el adelanto de las elecciones de Pedro Sánchez y las acampadas indefinidas, en directo",
-      "medio": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/politica/20261002/11649232/congreso-de-los-dipuatdos-decreto-vivienda-deshaucio-maricarmen-acampada-puerta-del-sol-madrid-manifestaciones-crisis-vivienda-ultima-hora-hoy-en-directo.html",
-      "fecha": "2026-10-02T13:52+00:00",
-      "partidos": [
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "Illa expresa su “profunda decepción” con Junts por no apoyar los decretos de vivienda",
-      "medio": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/politica/20261002/11649533/illa-expresa-profunda-decepcion-junts-apoyar-decretos-vivienda.html",
-      "fecha": "2026-10-02T11:50+00:00",
-      "partidos": [
-        "junts"
-      ]
-    },
-    {
-      "titulo": "El PP señala el “fracaso sanchista” en la vivienda y reivindica su plan: “No os vamos a fallar”",
-      "medio": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/politica/20261002/11649508/pp-senala-fracaso-sanchista-vivienda-reivindica-plan-fallar.html",
-      "fecha": "2026-10-02T11:42+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Documento | La propuesta de Junts al Gobierno: prórroga voluntaria del alquiler y echar a ocupas en 48 horas",
-      "medio": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/politica/20261002/11649448/documento-propuesta-junts-gobierno-rechazo-decretos-vivienda.html",
-      "fecha": "2026-10-02T10:45+00:00",
-      "partidos": [
-        "junts"
-      ]
-    },
-    {
-      "titulo": "Rufián acusa a Junts de “pagar una deuda” y de defender sus intereses que “putean a miles de personas”",
-      "medio": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/politica/20261002/11649442/rufian-acusa-junts-pagar-deuda-defender-intereses-putean-miles-personas.html",
-      "fecha": "2026-10-02T10:38+00:00",
-      "partidos": [
-        "junts"
-      ]
-    },
-    {
-      "titulo": "Junts acusa al Gobierno de “alimentar la mentira y una falsa esperanza” con el decreto de vivienda e insiste en que se agravaría el problema",
-      "medio": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/politica/20261002/11649413/junts-acusa-gobierno-alimentar-mentira-falsa-esperanza-decreto-vivienda-e-insiste-agravaria-problema.html",
-      "fecha": "2026-10-02T10:17+00:00",
-      "partidos": [
-        "junts"
-      ]
-    },
-    {
-      "titulo": "El Gobierno insta a Junts a desmarcarse de la derecha española con una abstención que salve el decreto",
-      "medio": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/politica/20261002/11649400/gobierno-insta-junts-desmarcarse-derecha-espanola-abstencion-salve-decreto.html",
-      "fecha": "2026-10-02T10:04+00:00",
-      "partidos": [
-        "junts"
-      ]
-    },
-    {
-      "titulo": "Los partidos de Sumar activan su maquinaria ante un posible adelanto electoral de Sánchez",
-      "medio": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/politica/20261002/11649295/partidos-sumar-activan-maquinaria-posible-adelanto-electoral-sanchez.html",
-      "fecha": "2026-10-02T08:06+00:00",
-      "partidos": [
-        "sumar"
-      ]
-    },
-    {
-      "titulo": "ERC incluye en la condonación del FLA que Catalunya asuma la mayoría del Consorci de la Zona Franca",
-      "medio": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/politica/20261002/11649252/erc-incluye-condonacion-fla-catalunya-asuma-mayoria-consorci-zona-franca.html",
-      "fecha": "2026-10-02T06:49+00:00",
-      "partidos": [
-        "erc"
-      ]
-    },
-    {
-      "titulo": "La tutela de Feijóo",
-      "medio": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/politica/20261002/11649072/tutela-feijoo.html",
-      "fecha": "2026-10-01T22:15+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Junts tumbará los dos decretos de vivienda y pide al Gobierno que los rehaga",
-      "medio": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/politica/20261001/11649001/junts-tumbara-dos-decretos-vivienda-priva-gobierno-victoria-le-de-oxigeno.html",
-      "fecha": "2026-10-01T20:20+00:00",
-      "partidos": [
-        "junts"
-      ]
-    },
-    {
-      "titulo": "Junts se queda con la llave del primer decreto de vivienda tras el voto a favor de Coalición Canaria",
-      "medio": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/politica/20261001/11648906/junts-queda-llave-primer-decreto-vivienda-voto-favor-coalicion-canaria.html",
-      "fecha": "2026-10-01T18:29+00:00",
-      "partidos": [
-        "junts",
-        "cc"
-      ]
-    },
-    {
-      "titulo": "El PP cree que los decretos de vivienda desatarán una ola de recursos judiciales",
-      "medio": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/politica/20261001/11648783/pp-cree-decretos-vivienda-desataran-ola-recursos-judiciales.html",
-      "fecha": "2026-10-01T15:36+00:00",
-      "partidos": [
-        "pp"
       ]
     }
   ]
