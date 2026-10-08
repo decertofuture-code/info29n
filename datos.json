@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-08T17:18+00:00",
+  "actualizado": "2026-10-08T21:18+00:00",
   "temas": [
     {
       "id": "vivienda",
@@ -392,6 +392,51 @@
     }
   ],
   "noticias": [
+    {
+      "titulo": "Adriana lastra encabezará lista del PSOE al Congreso por Asturias el 29-N",
+      "medio": "El País",
+      "url": "https://elpais.com/espana/elecciones-generales/2026-10-08/adriana-lastra-encabezara-lista-del-psoe-al-congreso-por-asturias-el-29-n.html",
+      "fecha": "2026-10-08T19:23+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "Miguel Ángel Rodríguez: \"Hasta donde sé, Leire, Cerdán y el PSOE van pa'lante, por eso intentan quemar las calles\"",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/madrid/miguel-angel-rodriguez-leire-cerdan-psoe-pa-lante-quemar-calles_1_13573737.html",
+      "fecha": "2026-10-08T18:42+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "Rufián asegura que quiere ser el candidato de ERC en las elecciones, pero \"acompañado\" de otras fuerzas de izquierdas",
+      "medio": "20minutos",
+      "url": "https://www.20minutos.es/nacional/rufian-asegura-que-quiere-ser-candidato-esquerra-las-elecciones-pero-acompanado-otras-fuerzas-izquierdas_7046790_0.html",
+      "fecha": "2026-10-08T17:54+00:00",
+      "partidos": [
+        "erc"
+      ]
+    },
+    {
+      "titulo": "Rufián asegura que quiere ser el candidato de ERC pero \"acompañado\" de otras izquierdas",
+      "medio": "El Confidencial",
+      "url": "https://www.elconfidencial.com/espana/2026-10-08/rufian-dudas-internas-candidatura_4441377/",
+      "fecha": "2026-10-08T17:19+00:00",
+      "partidos": [
+        "erc"
+      ]
+    },
+    {
+      "titulo": "Rufián afirma que quiere representar a ERC acompañado de otras fuerzas: \"Lo intentaré hasta el final\"",
+      "medio": "Europa Press",
+      "url": "https://www.europapress.es/catalunya/noticia-rufian-afirma-quiere-representar-erc-acompanado-otras-fuerzas-intentare-final-20261008190904.html",
+      "fecha": "2026-10-08T17:09+00:00",
+      "partidos": [
+        "erc"
+      ]
+    },
     {
       "titulo": "Un portavoz cercano a Junqueras se postula para la lista de ERC ante las dudas de Rufián",
       "medio": "El Confidencial",
@@ -3094,51 +3139,6 @@
       "fecha": "2026-10-05T17:09+00:00",
       "partidos": [
         "pnv"
-      ]
-    },
-    {
-      "titulo": "Los 39 días de calendario judicial hasta la campaña: la vuelta de Puigdemont, Beatriz Biedma y Plus Ultra",
-      "medio": "El Confidencial",
-      "url": "https://www.elconfidencial.com/espana/2026-10-05/los-39-dias-de-calendario-judicial-hasta-la-campana-la-vuelta-de-puigdemont-beatriz-biedma-y-plus-ultra_4438890/",
-      "fecha": "2026-10-05T16:58+00:00",
-      "partidos": [
-        "junts"
-      ]
-    },
-    {
-      "titulo": "Última hora de la manifestación por la vivienda en Barcelona y de las elecciones generales convocadas por Pedro Sánchez, en directo",
-      "medio": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/politica/20261005/11651253/elecciones-generales-29n-2026-anticipadas-pedro-sanchez-ultima-hora-en-directo.html",
-      "fecha": "2026-10-05T16:13+00:00",
-      "partidos": [
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "Abascal y Ayuso alimentan la teoría de la conspiración del fraude en el voto por correo para las elecciones del 29N",
-      "medio": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/vida/verificacion/20261005/11651653/abascal-ayuso-alimentan-teoria-conspiracion-fraude-voto-correo-elecciones-29n.html",
-      "fecha": "2026-10-05T15:45+00:00",
-      "partidos": [
-        "vox"
-      ]
-    },
-    {
-      "titulo": "Las CCAA del PP celebran el adelanto electoral y confían en que ponga fin al Gobierno de Sánchez",
-      "medio": "Europa Press",
-      "url": "https://www.europapress.es/nacional/noticia-ccaa-pp-celebran-adelanto-electoral-confian-ponga-fin-gobierno-sanchez-20261005172009.html",
-      "fecha": "2026-10-05T15:20+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Dimite una edil del PP de Ibiza tras la detención de su marido en una operación contra el blanqueo de fortunas de grandes narcos",
-      "medio": "El País",
-      "url": "https://elpais.com/espana/2026-10-05/dimite-una-edil-del-pp-de-ibiza-tras-la-detencion-de-su-marido-en-una-operacion-policial-contra-el-narcotrafico.html",
-      "fecha": "2026-10-05T14:44+00:00",
-      "partidos": [
-        "pp"
       ]
     }
   ]
