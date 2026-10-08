@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-08T13:23+00:00",
+  "actualizado": "2026-10-08T17:18+00:00",
   "temas": [
     {
       "id": "vivienda",
@@ -392,6 +392,87 @@
     }
   ],
   "noticias": [
+    {
+      "titulo": "Un portavoz cercano a Junqueras se postula para la lista de ERC ante las dudas de Rufián",
+      "medio": "El Confidencial",
+      "url": "https://www.elconfidencial.com/espana/2026-10-08/un-portavoz-cercano-a-junqueras-se-postula-para-la-lista-de-erc-ante-las-dudas-de-rufian_4441377/",
+      "fecha": "2026-10-08T17:04+00:00",
+      "partidos": [
+        "erc"
+      ]
+    },
+    {
+      "titulo": "El PSOE mantiene la incógnita sobre si Begoña Gómez irá a la lista para las elecciones del 29N",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/psoe-mantiene-incognita-sobre-begona-gomez-ira-20261008122844-nt.html",
+      "fecha": "2026-10-08T17:02+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "El hermano de Pedro Sánchez pide su absolución por considerar que se le condenó por su parentesco con el presidente del Gobierno",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/hermano-sanchez-pide-absolucion-considerar-condeno-parentesco-20261008115945-nt.html",
+      "fecha": "2026-10-08T17:01+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "Podemos avanza en su plan de primarias abiertas y lanza una web para recoger a inscritos y candidatos al 29N",
+      "medio": "Europa Press",
+      "url": "https://www.europapress.es/nacional/noticia-podemos-avanza-plan-primarias-abiertas-lanza-web-recoger-inscritos-candidatos-29n-20261008184011.html",
+      "fecha": "2026-10-08T16:40+00:00",
+      "partidos": [
+        "podemos"
+      ]
+    },
+    {
+      "titulo": "La jueza Biedma declara que las cloacas del PSOE realizaron seguimientos en el colegio de sus hijas",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/jueza-biedma-dice-sintio-angustiada-perseguida-cloacas-20261008122158-nt.html",
+      "fecha": "2026-10-08T16:35+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "Las negociaciones entre ERC y Rufián siguen abiertas y la dirección sopesa una alternativa para el 29-N",
+      "medio": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/politica/20261008/11654486/negociaciones-erc-rufian-siguen-abiertas-direccion-sopesa-alternativa-29-n.html",
+      "fecha": "2026-10-08T16:09+00:00",
+      "partidos": [
+        "erc"
+      ]
+    },
+    {
+      "titulo": "El plan B de ERC para las elecciones generales por si Rufián da la espantada",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/catalunya/plan-b-erc-elecciones-generales-si-rufian-da-espantada_1_13573245.html",
+      "fecha": "2026-10-08T15:59+00:00",
+      "partidos": [
+        "erc"
+      ]
+    },
+    {
+      "titulo": "El hermano de Pedro Sánchez presenta recurso de apelación por \"investigación prospectiva\" y pide su absolución",
+      "medio": "Europa Press",
+      "url": "https://www.europapress.es/extremadura/noticia-hermano-pedro-sanchez-presenta-recurso-apelacion-investigacion-prospectiva-pide-absolucion-20261008174049.html",
+      "fecha": "2026-10-08T15:40+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "Feijóo nombra a Miguel Tellado como director de campaña y se rodea de su núcleo duro para ganar las elecciones generales",
+      "medio": "20minutos",
+      "url": "https://www.20minutos.es/nacional/feijoo-nombra-miguel-tellado-como-director-campana-se-rodea-su-nucleo-duro-para-ganar-las-elecciones-generales_7046655_0.html",
+      "fecha": "2026-10-08T14:43+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
     {
       "titulo": "Feijóo evita mencionar a Maricarmen ante la cúpula del PP: “No vamos a permitir el intento de manipulación emocional a los ciudadanos”",
       "medio": "El País",
@@ -3058,87 +3139,6 @@
       "fecha": "2026-10-05T14:44+00:00",
       "partidos": [
         "pp"
-      ]
-    },
-    {
-      "titulo": "El Frente Amplio guarda silencio sobre las primarias abiertas de Podemos pero le ofrece negociar",
-      "medio": "El Confidencial",
-      "url": "https://www.elconfidencial.com/espana/2026-10-05/el-frente-amplio-guarda-silencio-sobre-las-primarias-abiertas-de-podemos-pero-le-ofrece-negociar_4438638/",
-      "fecha": "2026-10-05T14:26+00:00",
-      "partidos": [
-        "podemos"
-      ]
-    },
-    {
-      "titulo": "Frente Amplio vuelve a eludir las primarias de Podemos y circunscribe un acuerdo a su unión a la alianza: \"Aquí tienen la silla\"",
-      "medio": "20minutos",
-      "url": "https://www.20minutos.es/nacional/frente-amplio-vuelve-eludir-las-primarias-podemos-circunscribe-un-acuerdo-su-union-alianza-aqui-tienen-silla_7045031_0.html",
-      "fecha": "2026-10-05T14:11+00:00",
-      "partidos": [
-        "podemos"
-      ]
-    },
-    {
-      "titulo": "El Frente Amplio echa balones fuera sobre la propuesta de primarias de Podemos: \"No queremos un debate en los medios\"",
-      "medio": "elDiario.es",
-      "url": "https://www.eldiario.es/politica/frente-amplio-echa-balones-fuera-propuesta-primarias-no-queremos-debate-medios_1_13562913.html",
-      "fecha": "2026-10-05T13:53+00:00",
-      "partidos": [
-        "podemos"
-      ]
-    },
-    {
-      "titulo": "Frente Amplio y Podemos: una contrarreloj de 11 días para pactar y un órdago de Irene Montero para hacer primarias los días 14 y 15",
-      "medio": "El Mundo",
-      "url": "https://www.elmundo.es/espana/2026/10/05/6ac35606e4d4d8f67a8b458c.html",
-      "fecha": "2026-10-05T13:44+00:00",
-      "partidos": [
-        "podemos"
-      ]
-    },
-    {
-      "titulo": "El PP gallego defiende que Ana Vázquez puede ir de nuevo en las listas tras llevar un spray de gas pimienta al Congreso",
-      "medio": "elDiario.es",
-      "url": "https://www.eldiario.es/galicia/pp-gallego-defiende-ana-vazquez-nuevo-listas-llevar-spray-gas-pimienta-congreso_1_13563459.html",
-      "fecha": "2026-10-05T13:41+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "La izquierda, obligada a negociar contra reloj: Podemos ofrece votar en primarias el 14 y 15 de octubre",
-      "medio": "El País",
-      "url": "https://elpais.com/espana/2026-10-05/el-adelanto-electoral-sorprende-a-la-izquierda-sin-candidato.html",
-      "fecha": "2026-10-05T13:26+00:00",
-      "partidos": [
-        "podemos"
-      ]
-    },
-    {
-      "titulo": "El blindaje judicial que obtiene el PSOE con la convocatoria electoral: los jueces evitan interferir en la cita con las urnas",
-      "medio": "El Mundo",
-      "url": "https://www.elmundo.es/espana/2026/10/05/6ac35ecde9cf4a95248b4588.html",
-      "fecha": "2026-10-05T13:11+00:00",
-      "partidos": [
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "Sílvia Orriols se jacta de \"hacer caer\" al Gobierno de Pedro Sánchez y mantiene el 'no' de Aliança Catalana a presentarse a las elecciones generales",
-      "medio": "El Mundo",
-      "url": "https://www.elmundo.es/cataluna/2026/10/05/6ac38f9a21efa060448b4588.html",
-      "fecha": "2026-10-05T13:04+00:00",
-      "partidos": [
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "El PSC carga contra la “traición” de Junts y perfila a Jordi Hereu como candidato para el 29-N",
-      "medio": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/politica/20261005/11651500/psc-carga-traicion-junts-perfila-candidato-previsible-elecciones-generales-29-n.html",
-      "fecha": "2026-10-05T12:34+00:00",
-      "partidos": [
-        "junts"
       ]
     }
   ]
