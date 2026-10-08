@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-08T05:05+00:00",
+  "actualizado": "2026-10-08T09:19+00:00",
   "temas": [
     {
       "id": "vivienda",
@@ -393,6 +393,191 @@
   ],
   "noticias": [
     {
+      "titulo": "Anticorrupción ve indicios de delito en el PSOE pero se opone a su imputación como persona jurídica por ser prematura",
+      "medio": "El Mundo",
+      "url": "https://www.elmundo.es/espana/2026/10/08/6ac75af4fc6c83da478b45c0.html",
+      "fecha": "2026-10-08T09:17+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "El hermano de Pedro Sánchez recurre su condena de inhabilitación: “Lo persiguen por su libro de familia”",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/extremadura/politica/hermano-pedro-sanchez-recurre-condena-inhabilitacion-persiguen-libro-familia_1_13571448.html",
+      "fecha": "2026-10-08T09:08+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "La Fiscalía ve \"prematuro\" imputar ahora al PSOE como pide el PP pese a ver indicios",
+      "medio": "El Confidencial",
+      "url": "https://www.elconfidencial.com/espana/2026-10-08/la-fiscalia-ve-prematuro-imputar-ahora-al-psoe-como-pide-el-pp-pese-a-ver-indicios_4440873/",
+      "fecha": "2026-10-08T09:04+00:00",
+      "partidos": [
+        "pp",
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "Elma Saiz elude responder si Begoña Gómez irá en las listas del PSOE: \"Ni confirmo ni desmiento, no me corresponde\"",
+      "medio": "Europa Press",
+      "url": "https://www.europapress.es/nacional/noticia-elma-saiz-elude-responder-si-begona-gomez-ira-listas-psoe-confirmo-desmiento-no-me-corresponde-20261008110402.html",
+      "fecha": "2026-10-08T09:04+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "Más Madrid y el PSOE usan el cadáver de Maricarmen para lanzarlo como arma política contra Ayuso",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/madrid/madrid-psoe-usan-cadaver-maricarmen-lanzarlo-arma-20261008105136-nt.html",
+      "fecha": "2026-10-08T09:00+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "La Fiscalía Anticorrupción ve indicios contra el PSOE en el ‘caso Leire Díez’ pero pospone la decisión sobre su imputación",
+      "medio": "El País",
+      "url": "https://elpais.com/espana/2026-10-08/la-fiscalia-anticorrupcion-ve-indicios-contra-el-psoe-en-el-caso-leire-diez-pero-pospone-la-decision-sobre-su-imputacion.html",
+      "fecha": "2026-10-08T08:57+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "La Fiscalía Anticorrupción se opone por prematura a la petición del PP de imputar al PSOE en el caso Leire Díez",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/politica/fiscalia-anticorrupcion-opone-prematura-peticion-pp-imputar-psoe-caso-leire_1_13571361.html",
+      "fecha": "2026-10-08T08:56+00:00",
+      "partidos": [
+        "pp",
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "El campeón olímpico Cristian Toro jura su cargo como concejal de Vox en el Ayuntamiento de Madrid",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/madrid/campeon-olimpico-cristian-toro-jura-cargo-concejal-20261008104344-nt.html",
+      "fecha": "2026-10-08T08:48+00:00",
+      "partidos": [
+        "vox"
+      ]
+    },
+    {
+      "titulo": "Los 'barones' del PSOE lamentan la muerte de Maricarmen y piden continuar la \"lucha\" de la vivienda",
+      "medio": "Europa Press",
+      "url": "https://www.europapress.es/nacional/noticia-barones-psoe-lamentan-muerte-maricarmen-piden-continuar-lucha-vivienda-20261008104815.html",
+      "fecha": "2026-10-08T08:48+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "De \"Morocarmen\" a \"puta sinvergüenza\": los insultos y las burlas de PP y Vox contra Maricarmen tras su desahucio",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/politica/morocarmen-puta-sinverguenza-insultos-burlas-pp-vox-maricarmen-desahucio_1_13571238.html",
+      "fecha": "2026-10-08T08:41+00:00",
+      "partidos": [
+        "pp",
+        "vox"
+      ]
+    },
+    {
+      "titulo": "El PSOE ve «lógico» que Tolón quiera encabezar la lista del PSOE al Congreso por Toledo",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/castilla-la-mancha/psoe-logico-tolon-quiera-encabezar-lista-psoe-20261008102838-nt.html",
+      "fecha": "2026-10-08T08:28+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "Bolaños acusa a PP y Vox de \"recortar el derecho de votar por correo\" al \"sembrar dudas\" sobre el proceso electoral",
+      "medio": "Europa Press",
+      "url": "https://www.europapress.es/nacional/noticia-bolanos-acusa-pp-vox-recortar-derecho-votar-correo-sembrar-dudas-proceso-electoral-20261008102235.html",
+      "fecha": "2026-10-08T08:22+00:00",
+      "partidos": [
+        "pp",
+        "vox"
+      ]
+    },
+    {
+      "titulo": "Oskar Matute, dispuesto a repetir como candidato de EH Bildu en las generales del 29 de noviembre",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/euskadi/oskar-matute-dispuesto-repetir-candidato-eh-bildu-generales-29-noviembre_1_13571246.html",
+      "fecha": "2026-10-08T08:14+00:00",
+      "partidos": [
+        "bildu"
+      ]
+    },
+    {
+      "titulo": "Quién era Xosé Manuel Beiras: del Partido Socialista Galego en la clandestinidad a líder histórico del BNG",
+      "medio": "El Confidencial",
+      "url": "https://www.elconfidencial.com/espana/2026-10-08/quien-era-xose-manuel-beiras_4440807/",
+      "fecha": "2026-10-08T08:01+00:00",
+      "partidos": [
+        "bng"
+      ]
+    },
+    {
+      "titulo": "Un eurodiputado de Vox pide una autopsia al cuerpo de Maricarmen Abascal",
+      "medio": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/politica/20261008/11654001/eurodiputado-vox-pide-autopsia-cuerpo-maricarmen-abascal.html",
+      "fecha": "2026-10-08T07:58+00:00",
+      "partidos": [
+        "vox"
+      ]
+    },
+    {
+      "titulo": "Colau dice que aceptará liderar el Frente Amplio si es una lista de unidad que incluya a Podemos",
+      "medio": "Europa Press",
+      "url": "https://www.europapress.es/nacional/noticia-colau-dice-aceptara-liderar-frente-amplio-si-auna-sola-papeleta-todas-izquierdas-20261008095748.html",
+      "fecha": "2026-10-08T07:57+00:00",
+      "partidos": [
+        "podemos"
+      ]
+    },
+    {
+      "titulo": "Más Madrid y PSOE paran el Pleno con un minuto de silencio por Maricarmen y Almeida les acusa de «carroñerismo»",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/madrid/madrid-psoe-paran-pleno-minuto-silencio-maricarmen-20261008095017-nt.html",
+      "fecha": "2026-10-08T07:50+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "Quién es Miguel Tellado: de estratega del PP gallego a número dos de Feijóo y jefe de campaña del 29-N",
+      "medio": "El Confidencial",
+      "url": "https://www.elconfidencial.com/espana/2026-10-08/quien-es-miguel-tellado-estratega-pp-gallego-numero-dos-feijoo-1qrt_4440805/",
+      "fecha": "2026-10-08T07:44+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "Almeida, el PP y Vox se quedan sentados en el minuto de silencio por Maricarmen que guardó el Ayuntamiento de Madrid",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/madrid/somos/almeida-pp-vox-quedan-sentados-durante-minuto-silencio-maricarmen-ayuntamiento-madrid_1_13571140.html",
+      "fecha": "2026-10-08T07:42+00:00",
+      "partidos": [
+        "pp",
+        "vox"
+      ]
+    },
+    {
+      "titulo": "Feijóo nombra director de campaña a Miguel Tellado, que ya dirigió las dos últimas de éste en Galicia",
+      "medio": "Europa Press",
+      "url": "https://www.europapress.es/nacional/noticia-feijoo-nombra-director-campana-miguel-tellado-ya-dirigio-dos-ultimas-galicia-20261008081916.html",
+      "fecha": "2026-10-08T06:19+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
       "titulo": "Pedro Sánchez sólo hace catorce de cada cien pisos prometidos y ninguno en Andalucía",
       "medio": "ABC",
       "url": "https://www.abc.es/espana/andalucia/pedro-sanchez-solo-catorce-cien-pisos-prometidos-20261008181358-nts.html",
@@ -524,6 +709,15 @@
       "medio": "El Mundo",
       "url": "https://www.elmundo.es/espana/2026/10/08/6ac654dbe85ece78768b45bb.html",
       "fecha": "2026-10-07T23:19+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "Delgado (Más Madrid) dice que \"hay que poner orden rápido\" a la izquierda del PSOE y que no pueden permitirse no ir unid",
+      "medio": "Europa Press",
+      "url": "https://www.europapress.es/nacional/noticia-delgado-mas-madrid-dice-hay-poner-orden-rapido-izquierda-psoe-no-pueden-permitirse-no-ir-unid-20261008005500.html",
+      "fecha": "2026-10-07T22:55+00:00",
       "partidos": [
         "psoe"
       ]
@@ -2946,199 +3140,6 @@
       "fecha": "2026-10-05T07:21+00:00",
       "partidos": [
         "pp"
-      ]
-    },
-    {
-      "titulo": "El PSOE afronta las elecciones anticipadas con un único objetivo realista: evitar el batacazo aunque gobiernen PP y Vox",
-      "medio": "El Mundo",
-      "url": "https://www.elmundo.es/espana/2026/10/04/6ac26bb0fdddffe9668b45a4.html",
-      "fecha": "2026-10-05T07:09+00:00",
-      "partidos": [
-        "pp",
-        "psoe",
-        "vox"
-      ]
-    },
-    {
-      "titulo": "Pedro Sánchez adelanta las elecciones generales al 29 de noviembre",
-      "medio": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/politica/20261005/11651065/pedro-sanchez-adelanta-elecciones-generales-29-noviembre.html",
-      "fecha": "2026-10-05T07:09+00:00",
-      "partidos": [
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "Page es el favorito de los españoles para sustituir a Sánchez e Illa la mejor opción según los socialistas",
-      "medio": "El Mundo",
-      "url": "https://www.elmundo.es/espana/2026/10/05/6ac2304521efa037618b456d.html",
-      "fecha": "2026-10-05T06:31+00:00",
-      "partidos": [
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "Adelanto electoral de Sánchez, en directo | El PNV no confirma su voto a favor del decreto de vivienda en la Diputación Permanente: \"Lo analizaremos en profundidad\"",
-      "medio": "20minutos",
-      "url": "https://www.20minutos.es/nacional/adelanto-electoral-sanchez-directo-sanchez-decide-si-convoca-elecciones-tras-un-fin-semana-reflexion-movilizaciones-las-calles_7044725_6.html",
-      "fecha": "2026-10-05T05:48+00:00",
-      "partidos": [
-        "pnv"
-      ]
-    },
-    {
-      "titulo": "Los partidos de Sumar aceleran la designación de su líder ante un eventual adelanto electoral",
-      "medio": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/politica/20261005/11650741/partidos-sumar-designaran-lider-17-octubre-eventual-adelanto-electoral.html",
-      "fecha": "2026-10-05T04:00+00:00",
-      "partidos": [
-        "sumar"
-      ]
-    },
-    {
-      "titulo": "El TC despejará esta semana el regreso de Puigdemont tras la estocada de Junts al Gobierno y en pleno ambiente preelectoral",
-      "medio": "20minutos",
-      "url": "https://www.20minutos.es/nacional/tc-despejara-esta-semana-regreso-puigdemont-tras-estocada-junts-gobierno-pleno-ambiente-preelectoral_7044271_0.html",
-      "fecha": "2026-10-05T03:00+00:00",
-      "partidos": [
-        "junts"
-      ]
-    },
-    {
-      "titulo": "El PP ve el órdago de Sánchez con el adelanto de las elecciones y no teme una campaña que pivote sobre vivienda",
-      "medio": "El Mundo",
-      "url": "https://www.elmundo.es/espana/2026/10/05/6ac11ec8fdddff4e1a8b45ae.html",
-      "fecha": "2026-10-04T22:01+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "El último cuarto de Pedro Sánchez",
-      "medio": "elDiario.es",
-      "url": "https://www.eldiario.es/politica/ultimo-cuarto-pedro-sanchez_129_13561423.html",
-      "fecha": "2026-10-04T20:11+00:00",
-      "partidos": [
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "Tres juzgados investigan a alcaldes del PP en Huelva por presuntos \"amaños\" en la contratación pública de festejos taurinos",
-      "medio": "elDiario.es",
-      "url": "https://www.eldiario.es/andalucia/tres-juzgados-investigan-alcaldes-pp-huelva-presuntos-amanos-contratacion-publica-festejos-taurinos_1_13499610.html",
-      "fecha": "2026-10-04T20:11+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Iberdrola, PNV y PP calientan el \"viejo\" debate para un posible troceo de Red Eléctrica: \"Es la gallina de los huevos de oro\"",
-      "medio": "elDiario.es",
-      "url": "https://www.eldiario.es/economia/iberdrola-pnv-pp-calientan-viejo-debate-posible-troceo-red-electrica-gallina-huevos-oro_1_13556087.html",
-      "fecha": "2026-10-04T20:11+00:00",
-      "partidos": [
-        "pp",
-        "pnv"
-      ]
-    },
-    {
-      "titulo": "Los partidos de Sumar anuncian que presentarán a su candidato a las elecciones el 17 de octubre y su proyecto llamado Frente Amplio",
-      "medio": "El Mundo",
-      "url": "https://www.elmundo.es/espana/2026/10/04/6ac24afde4d4d8d9328b4575.html",
-      "fecha": "2026-10-04T13:12+00:00",
-      "partidos": [
-        "sumar"
-      ]
-    },
-    {
-      "titulo": "Barones del PSOE presionan para que Sánchez convoque ya las elecciones: \"Hay una ventana de oportunidad ahora que la ciudadanía ha despertado\"",
-      "medio": "El Mundo",
-      "url": "https://www.elmundo.es/espana/2026/10/04/6ac23f6dfdddff33668b4597.html",
-      "fecha": "2026-10-04T12:16+00:00",
-      "partidos": [
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "Con Junts empezó y sin Junts se acaba",
-      "medio": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/politica/20261004/11650280/junts-empezo-junts-acaba.html",
-      "fecha": "2026-10-04T04:00+00:00",
-      "partidos": [
-        "junts"
-      ]
-    },
-    {
-      "titulo": "La coherencia de Junts",
-      "medio": "El País",
-      "url": "https://elpais.com/opinion/2026-10-04/la-coherencia-de-junts.html",
-      "fecha": "2026-10-04T03:30+00:00",
-      "partidos": [
-        "junts"
-      ]
-    },
-    {
-      "titulo": "Dilema en el PSOE mientras Sánchez ultima su decisión: \"Calentar más calle\" o convocar y \"hacérselo pagar ya al PP\"",
-      "medio": "El Mundo",
-      "url": "https://www.elmundo.es/espana/2026/10/04/6ac14a90e4d4d8a9708b45b9.html",
-      "fecha": "2026-10-03T23:51+00:00",
-      "partidos": [
-        "pp",
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "Quiniela de candidatos en Sumar: Mónica García y Colau, al alza y un tapado de IU",
-      "medio": "El Mundo",
-      "url": "https://www.elmundo.es/espana/2026/10/04/6ac11ecdfdddfff8458b456e.html",
-      "fecha": "2026-10-03T23:51+00:00",
-      "partidos": [
-        "sumar"
-      ]
-    },
-    {
-      "titulo": "Sánchez usó a Zapatero como baza con Junts para intentar salvar los decretos de vivienda",
-      "medio": "El Mundo",
-      "url": "https://www.elmundo.es/espana/2026/10/03/6ac131e8e4d4d82f0f8b45b6.html",
-      "fecha": "2026-10-03T20:48+00:00",
-      "partidos": [
-        "junts"
-      ]
-    },
-    {
-      "titulo": "Feijóo reclama a Sánchez no \"amagar\" más con el adelanto electoral porque España tiene \"derecho a decidir ya\"",
-      "medio": "El Mundo",
-      "url": "https://www.elmundo.es/espana/2026/10/03/6ac0e11ce85ece26648b4573.html",
-      "fecha": "2026-10-03T12:44+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Junts avisa al Gobierno de que está “a tiempo” de “rectificar” y negociar un nuevo decreto",
-      "medio": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/politica/20261003/11650194/junts-avisa-gobierno-esta-rectificar-negociar-nuevo-decreto.html",
-      "fecha": "2026-10-03T12:32+00:00",
-      "partidos": [
-        "junts"
-      ]
-    },
-    {
-      "titulo": "Feijóo insta a Sánchez a convocar elecciones no por “revanchismo” sino porque “el país no aguanta más”",
-      "medio": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/politica/20261003/11650189/feijoo-insta-sanchez-convocar-elecciones-revanchismo-pais-aguanta-mas.html",
-      "fecha": "2026-10-03T11:43+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Junts regresa al sistema",
-      "medio": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/politica/20261003/11649802/junts-regresa-sistema.html",
-      "fecha": "2026-10-03T06:54+00:00",
-      "partidos": [
-        "junts"
       ]
     }
   ]
