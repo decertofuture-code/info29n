@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-08T21:18+00:00",
+  "actualizado": "2026-10-09T05:05+00:00",
   "temas": [
     {
       "id": "vivienda",
@@ -393,6 +393,167 @@
   ],
   "noticias": [
     {
+      "titulo": "Feijóo pide al PP no repetir los errores del 23J",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/feijoo-pide-pp-repetir-errores-23j-encarga-20261009021121-nt.html",
+      "fecha": "2026-10-09T04:34+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "Pedro Sánchez: \"Es hora de que el Parlamento se parezca a la calle y no a quienes viven en aticazos\"",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/politica/pedro-sanchez-hora-parlamento-parezca-calle-no-viven-aticazos_1_13569153.html",
+      "fecha": "2026-10-09T04:01+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "Las frases de la entrevista a Pedro Sánchez: \"El bulo del voto por correo es miedo a perder\"",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/politica/frases-entrevista-pedro-sanchez-bulo-voto-correo-miedo-perder_1_13570028.html",
+      "fecha": "2026-10-09T04:01+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "ERC baraja un plan B por si Rufián descarta ser candidato en las elecciones generales",
+      "medio": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/politica/20261009/11654557/erc-baraja-plan-b-rufian-descarta-candidato-29-n.html",
+      "fecha": "2026-10-09T04:00+00:00",
+      "partidos": [
+        "erc"
+      ]
+    },
+    {
+      "titulo": "La vía Colau en las elecciones acerca posiciones a la izquierda del PSOE pero no a Podemos",
+      "medio": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/politica/20261009/11654551/colau-acerca-posiciones-izquierda-psoe.html",
+      "fecha": "2026-10-09T04:00+00:00",
+      "partidos": [
+        "psoe",
+        "podemos"
+      ]
+    },
+    {
+      "titulo": "El PP y Vox mantienen la mayoría absoluta tras el adelanto electoral",
+      "medio": "El País",
+      "url": "https://elpais.com/espana/2026-10-09/el-pp-y-vox-mantienen-la-mayoria-absoluta-tras-el-adelanto-electoral.html",
+      "fecha": "2026-10-09T03:30+00:00",
+      "partidos": [
+        "pp",
+        "vox"
+      ]
+    },
+    {
+      "titulo": "Encuestas elecciones generales 29N: resultados de PSOE, PP y VOX y ganador según los sondeos",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/encuestas-elecciones-generales-29n-resultados-psoe-pp-vox-sondeos-20261009053000-nt.html",
+      "fecha": "2026-10-09T03:30+00:00",
+      "partidos": [
+        "pp",
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "La oficina de retorno forzada por Vox ofrece a los migrantes atención a víctimas de discriminación",
+      "medio": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/local/valencia/20261009/11653302/oficina-retorno-forzada-vox-ofrece-migrantes-atencion-victimas-discriminacion.html",
+      "fecha": "2026-10-09T03:30+00:00",
+      "partidos": [
+        "vox"
+      ]
+    },
+    {
+      "titulo": "Malestar por el retraso de una oposición de letrados de Valencia a la que aspiran dos hijos de un concejal del PP",
+      "medio": "El Confidencial",
+      "url": "https://www.elconfidencial.com/espana/comunidad-valenciana/2026-10-09/malestar-oposicion-letrados-valencia-concejal-pp_4441233/",
+      "fecha": "2026-10-09T03:00+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "Abascal, ausente otra vez del desfile del 12-O: celebrará en Ceuta la Fiesta Nacional con el líder de Patriots",
+      "medio": "El Confidencial",
+      "url": "https://www.elconfidencial.com/espana/2026-10-09/abascal-desfile-12o-ceuta-fiesta-nacional_4441306/",
+      "fecha": "2026-10-09T03:00+00:00",
+      "partidos": [
+        "vox"
+      ]
+    },
+    {
+      "titulo": "Solo el 63% de votantes del PSOE refrendará su apoyo en las urnas mientras Vox lidera la fidelidad con un 86%",
+      "medio": "20minutos",
+      "url": "https://www.20minutos.es/nacional/solo-63-votantes-psoe-refrendara-su-apoyo-las-urnas-mientras-vox-lidera-fidelidad-con-un-86_7046705_0.html",
+      "fecha": "2026-10-09T03:00+00:00",
+      "partidos": [
+        "psoe",
+        "vox"
+      ]
+    },
+    {
+      "titulo": "El PSOE absorbe la intención de votos de Sumar y Podemos mientras PP y Vox consolidan su mayoría",
+      "medio": "20minutos",
+      "url": "https://www.20minutos.es/nacional/psoe-absorbe-intencion-votos-sumar-podemos-mientras-pp-vox-consolidan-su-mayoria_7046598_0.html",
+      "fecha": "2026-10-09T03:00+00:00",
+      "partidos": [
+        "pp",
+        "psoe",
+        "vox",
+        "sumar",
+        "podemos"
+      ]
+    },
+    {
+      "titulo": "Coalición Canaria busca alianzas para ganar dos escaños claves para el 29N",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/canarias/coalicion-canaria-busca-tres-diputados-29n-presentandose-20261008022101-nt.html",
+      "fecha": "2026-10-09T00:21+00:00",
+      "partidos": [
+        "cc"
+      ]
+    },
+    {
+      "titulo": "La Justicia avala que la Cámara de Cuentas andaluza investigue al consejero del PSOE que asesoró en secreto a Begoña Gómez",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/andalucia/justicia-avala-camara-cuentas-andaluza-investigue-consejero-20261009021352-nts.html",
+      "fecha": "2026-10-09T00:13+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "Recibe la carta de Paloma Esteban: la newsletter con toda la actualidad sobre el PP",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/recibe-carta-paloma-esteban-newsletter-actualidad-sobre-20261009020608-nt.html",
+      "fecha": "2026-10-09T00:06+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "El PSOE está a solo 0,5 puntos de verse sobrepasado por Compromís en la Comunidad Valenciana antes de las generales",
+      "medio": "El Mundo",
+      "url": "https://www.elmundo.es/espana/encuestas/2026/10/08/6ac7db79e9cf4af0188b4583.html",
+      "fecha": "2026-10-08T20:41+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "Las recetas del responsable económico de Vox: rumbo a la privatización de las pensiones y un IRPF a medida de los ricos",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/economia/recetas-responsable-economico-vox-rumbo-privatizacion-pensiones-irpf-medida-ricos_1_13572527.html",
+      "fecha": "2026-10-08T20:34+00:00",
+      "partidos": [
+        "vox"
+      ]
+    },
+    {
       "titulo": "Adriana lastra encabezará lista del PSOE al Congreso por Asturias el 29-N",
       "medio": "El País",
       "url": "https://elpais.com/espana/elecciones-generales/2026-10-08/adriana-lastra-encabezara-lista-del-psoe-al-congreso-por-asturias-el-29-n.html",
@@ -402,10 +563,28 @@
       ]
     },
     {
+      "titulo": "La legislatura del PSIR: el Gobierno del PP impulsa seis proyectos de recalificación de suelo para promotores privados",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/cantabria/legislatura-psir-gobierno-pp-impulsa-seis-proyectos-recalificacion-suelo-promotores-privados_1_13568249.html",
+      "fecha": "2026-10-08T19:22+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
       "titulo": "Miguel Ángel Rodríguez: \"Hasta donde sé, Leire, Cerdán y el PSOE van pa'lante, por eso intentan quemar las calles\"",
       "medio": "elDiario.es",
       "url": "https://www.eldiario.es/madrid/miguel-angel-rodriguez-leire-cerdan-psoe-pa-lante-quemar-calles_1_13573737.html",
       "fecha": "2026-10-08T18:42+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "Adriana Lastra volverá a ser cabeza de lista del PSOE al Congreso por Asturias en las elecciones generales",
+      "medio": "El Mundo",
+      "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/10/08/6ac7dbc1e9cf4a916b8b4597.html",
+      "fecha": "2026-10-08T18:09+00:00",
       "partidos": [
         "psoe"
       ]
@@ -462,6 +641,15 @@
       "fecha": "2026-10-08T17:01+00:00",
       "partidos": [
         "psoe"
+      ]
+    },
+    {
+      "titulo": "ERC ya teme la ruptura con Rufián y empieza a sondear a candidatos alternativos: \"Veremos. El no acuerdo sería un desastre\"",
+      "medio": "El Mundo",
+      "url": "https://www.elmundo.es/cataluna/2026/10/08/6ac7cbf7fdddff142d8b456e.html",
+      "fecha": "2026-10-08T16:59+00:00",
+      "partidos": [
+        "erc"
       ]
     },
     {
@@ -2955,190 +3143,6 @@
       "fecha": "2026-10-05T23:00+00:00",
       "partidos": [
         "pp"
-      ]
-    },
-    {
-      "titulo": "La propuesta estrella del Gobierno del PP en Teruel en materia de vivienda se viene abajo por errores en la tramitación",
-      "medio": "elDiario.es",
-      "url": "https://www.eldiario.es/aragon/politica/propuesta-estrella-gobierno-pp-teruel-materia-vivienda-viene-abajo-errores-tramitacion_1_13564769.html",
-      "fecha": "2026-10-05T22:49+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Mónica García favorita como candidata del Frente Amplio, que esquiva la 'trampa' de la primarias de Podemos",
-      "medio": "El Mundo",
-      "url": "https://www.elmundo.es/espana/2026/10/06/6ac3d014e4d4d8a8108b456e.html",
-      "fecha": "2026-10-05T22:00+00:00",
-      "partidos": [
-        "podemos"
-      ]
-    },
-    {
-      "titulo": "El adelanto obliga a todo el PSOE a remar para Sánchez, se contará con Zapatero \"si él quiere\" y hasta Page tendrá que hacer campaña",
-      "medio": "El Mundo",
-      "url": "https://www.elmundo.es/espana/2026/10/06/6ac3faa3fc6c8321308b457e.html",
-      "fecha": "2026-10-05T22:00+00:00",
-      "partidos": [
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "El pueblo sin agua potable donde un diputado del PP quiere aprobar macrogranjas en suelo de su familia: “Van a echarnos de aquí”",
-      "medio": "elDiario.es",
-      "url": "https://www.eldiario.es/aragon/politica/pueblo-agua-potable-diputado-pp-quiere-aprobar-macrogranjas-suelo-familia-echarnos_1_13562441.html",
-      "fecha": "2026-10-05T21:10+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Yates, vacaciones en la nieve y bolsos de lujo: la vida de la concejala del PP de Ibiza y su marido detenido por blanqueo",
-      "medio": "elDiario.es",
-      "url": "https://www.eldiario.es/illes-balears/politica/yates-vacaciones-nieve-bolsos-lujo-vida-concejala-pp-ibiza-marido-detenido-blanqueo_1_13563773.html",
-      "fecha": "2026-10-05T21:10+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Feijóo frenado por Vox y la izquierda activada por la vivienda: la jugada que vio Sánchez en los sondeos internos para ir a las urnas",
-      "medio": "elDiario.es",
-      "url": "https://www.eldiario.es/politica/feijoo-frenado-vox-izquierda-activada-vivienda-jugada-vio-sanchez-sondeos-internos-urnas_1_13563584.html",
-      "fecha": "2026-10-05T21:09+00:00",
-      "partidos": [
-        "pp",
-        "vox"
-      ]
-    },
-    {
-      "titulo": "La cuenta atrás de 10 días para aliarse fuerza a Podemos y Frente Amplio a afrontar el debate sobre una coalición",
-      "medio": "elDiario.es",
-      "url": "https://www.eldiario.es/politica/cuenta-10-dias-aliarse-fuerza-frente-amplio-afrontar-debate-coalicion_1_13564358.html",
-      "fecha": "2026-10-05T21:09+00:00",
-      "partidos": [
-        "podemos"
-      ]
-    },
-    {
-      "titulo": "El Constitucional activa la cuenta atrás para la vuelta de Puigdemont a las puertas de las elecciones generales",
-      "medio": "elDiario.es",
-      "url": "https://www.eldiario.es/catalunya/constitucional-activa-cuenta-vuelta-puigdemont-puertas-elecciones-generales_1_13562127.html",
-      "fecha": "2026-10-05T21:09+00:00",
-      "partidos": [
-        "junts"
-      ]
-    },
-    {
-      "titulo": "El 29N obliga a Junts y ERC a redefinir contra reloj sus estrategias electorales",
-      "medio": "elDiario.es",
-      "url": "https://www.eldiario.es/catalunya/29n-obliga-junts-erc-redefinir-reloj-estrategias-electorales_1_13562051.html",
-      "fecha": "2026-10-05T21:09+00:00",
-      "partidos": [
-        "erc",
-        "junts"
-      ]
-    },
-    {
-      "titulo": "Así es el cambio \"profundo\" que promete Feijóo en impuestos, vivienda y con límites a Vox",
-      "medio": "El Mundo",
-      "url": "https://www.elmundo.es/espana/2026/10/05/6ac3ce2de85ecebc638b458e.html",
-      "fecha": "2026-10-05T20:49+00:00",
-      "partidos": [
-        "pp",
-        "vox"
-      ]
-    },
-    {
-      "titulo": "El dato clave del 29-N: Vox deja a cero a la izquierda Sumar y decanta el mapa a la derecha",
-      "medio": "El Mundo",
-      "url": "https://www.elmundo.es/espana/encuestas/2026/10/05/6ac3f534fc6c83e7778b45ba.html",
-      "fecha": "2026-10-05T20:45+00:00",
-      "partidos": [
-        "vox",
-        "sumar"
-      ]
-    },
-    {
-      "titulo": "El adelanto electoral retrasará la imputación del PSOE como persona jurídica en el caso de las cloacas de Ferraz",
-      "medio": "El Mundo",
-      "url": "https://www.elmundo.es/espana/2026/10/05/6ac3f6fdfdddff4f438b458b.html",
-      "fecha": "2026-10-05T20:43+00:00",
-      "partidos": [
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "Aznar: \"Si Pedro Sánchez puede formar gobierno tras las elecciones del 29 de noviembre, la Monarquía se terminaría\"",
-      "medio": "El Mundo",
-      "url": "https://www.elmundo.es/andalucia/2026/10/05/6ac3da51fc6c83265c8b459c.html",
-      "fecha": "2026-10-05T20:08+00:00",
-      "partidos": [
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "Federico Zabala Allende, el brillante jurista del PNV que regresó tras salir del campo de concentración para pleitear contra el franquismo",
-      "medio": "elDiario.es",
-      "url": "https://www.eldiario.es/euskadi/gobierno-de-euzkadi-90-anos/federico-zabala-allende-brillante-jurista-pnv-regreso-salir-campo-concentracion-pleitear-franquismo_132_13433483.html",
-      "fecha": "2026-10-05T19:46+00:00",
-      "partidos": [
-        "pnv"
-      ]
-    },
-    {
-      "titulo": "Alfonso Serrano será el jefe de la campaña electoral del PP de Madrid en la región",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/madrid/alfonso-serrano-jefe-campana-electoral-pp-madrid-20261005211951-nt.html",
-      "fecha": "2026-10-05T19:21+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Por qué Pedro Sánchez convoca elecciones generales ahora",
-      "medio": "20minutos",
-      "url": "https://www.20minutos.es/nacional/por-que-sanchez-convoca-elecciones-ahora_7045196_3.html",
-      "fecha": "2026-10-05T18:41+00:00",
-      "partidos": [
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "Del «salvar la democracia» de Moreno al apoyo de Susana Díaz a Pedro Sánchez",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/andalucia/salvar-democracia-moreno-apoyo-susana-diaz-pedro-20261005191609-nts.html",
-      "fecha": "2026-10-05T18:38+00:00",
-      "partidos": [
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "El PP exige a la JEC que en un máximo de 18 días suprima del censo todas las inscripciones suspendidas por el Supremo",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/pp-exige-jec-maximo-dias-suprima-censo-20261005195350-nt.html",
-      "fecha": "2026-10-05T18:23+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "María Jesús Montero, Cristina Narbona y Rebeca Torró dirigirán la campaña del PSOE para las elecciones generales del 29-N",
-      "medio": "20minutos",
-      "url": "https://www.20minutos.es/nacional/maria-jesus-montero-cristina-narbona-rebeca-torro-dirigiran-campana-psoe-para-las-elecciones-generales-29-n_7045176_0.html",
-      "fecha": "2026-10-05T17:45+00:00",
-      "partidos": [
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "El PNV se inclina por salvar el primer decreto de vivienda con su voto decisivo en la Diputación Permanente y tumbar los alquileres indefinidos",
-      "medio": "elDiario.es",
-      "url": "https://www.eldiario.es/euskadi/pnv-inclina-salvar-decretos-vivienda-diputacion-permanente-tumbar-segundo_1_13564231.html",
-      "fecha": "2026-10-05T17:09+00:00",
-      "partidos": [
-        "pnv"
       ]
     }
   ]
