@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-09T17:16+00:00",
+  "actualizado": "2026-10-09T21:18+00:00",
   "temas": [
     {
       "id": "vivienda",
@@ -393,12 +393,77 @@
   ],
   "noticias": [
     {
+      "titulo": "El PPdeG activa su campaña y deja en manos de Feijóo la renovación de las listas",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/galicia/ppdeg-activa-campana-deja-manos-feijoo-renovacion-20261009213000-nt.html",
+      "fecha": "2026-10-09T19:30+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "Pedraz avisa de la «apariencia delictiva» de las 'cloacas' del PSOE, aunque espera para imputarle",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/claves-auto-pedraz-sobre-financiacion-psoe-20261009195404-nt.html",
+      "fecha": "2026-10-09T18:23+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "El PSOE estudia candidaturas conjuntas para el Senado con otras fuerzas de izquierda para evitar la mayoría del PP",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/politica/psoe-estudia-candidaturas-conjuntas-senado-fuerzas-izquierda-evitar-mayoria-pp_1_13576621.html",
+      "fecha": "2026-10-09T18:12+00:00",
+      "partidos": [
+        "pp",
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "Bendodo pide interventores del PP en todas las mesas en las elecciones generales: \"No nos fiamos de este Gobierno\"",
+      "medio": "20minutos",
+      "url": "https://www.20minutos.es/nacional/bendodo-pide-interventores-pp-todas-las-mesas-las-elecciones-generales-no-nos-fiamos-este-gobierno_7047310_0.html",
+      "fecha": "2026-10-09T18:01+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "Comuns ahondan en la línea Colau y piden incluir a Podemos y otros aliados en Frente Amplio para un acuerdo",
+      "medio": "Europa Press",
+      "url": "https://www.europapress.es/nacional/noticia-29n-comuns-reclama-incluir-podemos-frente-amplio-llegar-acuerdo-candidatura-colau-20261009191930.html",
+      "fecha": "2026-10-09T17:19+00:00",
+      "partidos": [
+        "podemos"
+      ]
+    },
+    {
+      "titulo": "Feijóo y Abascal aceptan la invitación de Jordi Wild para ser entrevistados en su podcast: Sánchez aún no ha respondido",
+      "medio": "20minutos",
+      "url": "https://www.20minutos.es/nacional/feijoo-abascal-aceptan-invitacion-jordi-wild-para-ser-entrevistados-su-podcast-sanchez-aun-no-ha-respondido_7047296_0.html",
+      "fecha": "2026-10-09T17:00+00:00",
+      "partidos": [
+        "pp",
+        "vox"
+      ]
+    },
+    {
       "titulo": "La colíder de Sumar, sobre Rufián: \"Tenemos todos los teléfonos pendientes de si Gabriel quiere estar en Frente Amplio\"",
       "medio": "Europa Press",
       "url": "https://www.europapress.es/nacional/noticia-colider-sumar-rufian-tenemos-todos-telefonos-pendientes-si-gabriel-quiere-estar-frente-amplio-20261009185029.html",
       "fecha": "2026-10-09T16:50+00:00",
       "partidos": [
         "sumar"
+      ]
+    },
+    {
+      "titulo": "Una diputada de Más Madrid critica las primarias de Podemos: \"Como si la democracia se hiciera en TikTok\"",
+      "medio": "20minutos",
+      "url": "https://www.20minutos.es/nacional/una-diputada-mas-madrid-critica-las-primarias-podemos-como-si-democracia-se-hiciera-tiktok_7047275_0.html",
+      "fecha": "2026-10-09T16:30+00:00",
+      "partidos": [
+        "podemos"
       ]
     },
     {
@@ -3079,70 +3144,6 @@
       "medio": "El Confidencial",
       "url": "https://www.elconfidencial.com/espana/2026-10-06/quien-pepa-millan-portavoz-portavoz-joven-historia-congreso_4439266/",
       "fecha": "2026-10-06T11:42+00:00",
-      "partidos": [
-        "vox"
-      ]
-    },
-    {
-      "titulo": "El PP pide en la Audiencia Nacional la imputación del PSOE por financiación ilegal",
-      "medio": "El Mundo",
-      "url": "https://www.elmundo.es/espana/2026/10/06/6ac4cfc0e4d4d80a2f8b45a5.html",
-      "fecha": "2026-10-06T11:37+00:00",
-      "partidos": [
-        "pp",
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "Illa, dispuesto a recibir a Puigdemont en Palau igual que hizo con el resto de expresidentes",
-      "medio": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/politica/20261006/11652365/illa-recibira-puigdemont-palau-igual-hizo-resto-expresidentes.html",
-      "fecha": "2026-10-06T11:33+00:00",
-      "partidos": [
-        "junts"
-      ]
-    },
-    {
-      "titulo": "Una mujer desahuciada por un fondo buitre irrumpe ante la presidenta del Govern balear del PP: \"Me han abandonado\"",
-      "medio": "elDiario.es",
-      "url": "https://www.eldiario.es/illes-balears/sociedad/mujer-desahuciada-fondo-buitre-presidenta-govern-balear-pp-han-abandonado_1_13566006.html",
-      "fecha": "2026-10-06T11:29+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Sánchez defiende que el aval a la amnistía ayuda a la convivencia y descarta reunirse con Puigdemont",
-      "medio": "Europa Press",
-      "url": "https://www.europapress.es/nacional/noticia-sanchez-aval-amnistia-regreso-puigdemont-importante-convivencia-catalanes-20261006132700.html",
-      "fecha": "2026-10-06T11:27+00:00",
-      "partidos": [
-        "junts"
-      ]
-    },
-    {
-      "titulo": "El Constitucional ampara a los líderes del 'procés' y Llarena levanta la orden de detención contra Puigdemont que podrá regresar ya a España",
-      "medio": "El Mundo",
-      "url": "https://www.elmundo.es/espana/2026/10/06/6ac4c58c21efa0dc1f8b45ba.html",
-      "fecha": "2026-10-06T11:25+00:00",
-      "partidos": [
-        "junts"
-      ]
-    },
-    {
-      "titulo": "Referéndum, cárcel, huida y amnistía a Puigdemont y los exconsellers: cronología de una década de procés",
-      "medio": "elDiario.es",
-      "url": "https://www.eldiario.es/catalunya/referendum-carcel-huida-amnistia-puigdemont-exconsellers-cronologia-decada-proces_1_13565879.html",
-      "fecha": "2026-10-06T11:25+00:00",
-      "partidos": [
-        "junts"
-      ]
-    },
-    {
-      "titulo": "Vox defiende una reforma hacia la privatización de las pensiones y da por muerto el sistema público actual",
-      "medio": "elDiario.es",
-      "url": "https://www.eldiario.es/economia/vox-defiende-reforma-privatizacion-pensiones-da-muerto-sistema-publico-actual_1_13565422.html",
-      "fecha": "2026-10-06T11:24+00:00",
       "partidos": [
         "vox"
       ]
