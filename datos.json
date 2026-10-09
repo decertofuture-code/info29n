@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-09T05:05+00:00",
+  "actualizado": "2026-10-09T09:20+00:00",
   "temas": [
     {
       "id": "vivienda",
@@ -393,6 +393,151 @@
   ],
   "noticias": [
     {
+      "titulo": "De la abogacía a los gabinetes políticos: quién es Alma Ezcurra, la encargada del programa electoral del PP",
+      "medio": "El Confidencial",
+      "url": "https://www.elconfidencial.com/espana/2026-10-09/quien-es-alma-excurra-encargada-programa-electoral-pp-1qrt_4441648/",
+      "fecha": "2026-10-09T09:20+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "El juez descarta imputar por ahora al PSOE en el 'caso Leire Díez' y esperará a practicar más diligencias",
+      "medio": "Europa Press",
+      "url": "https://www.europapress.es/nacional/noticia-juez-descarta-imputar-ahora-psoe-caso-leire-diez-esperara-practicar-mas-diligencias-20261009105737.html",
+      "fecha": "2026-10-09T08:57+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "El juez Pedraz rechaza imputar \"en este momento\" al PSOE en el caso Leire Díez",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/politica/juez-pedraz-rechaza-imputar-momento-psoe-caso-leire-diez_1_13574529.html",
+      "fecha": "2026-10-09T08:55+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "El juez Pedraz rechaza imputar “en este momento” al PSOE en el ‘caso Leire Díez’, como pedía el PP",
+      "medio": "El País",
+      "url": "https://elpais.com/espana/2026-10-09/el-juez-pedraz-rechaza-imputar-por-ahora-al-psoe-en-el-caso-leire-diez-como-pedia-el-pp.html",
+      "fecha": "2026-10-09T08:39+00:00",
+      "partidos": [
+        "pp",
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "Movimiento Sumar llama a Comuns, Más Madrid e IU a zanjar con \"discreción\" la pugna por las listas de Madrid y Barcelona",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/politica/movimiento-sumar-llama-comuns-madrid-e-iu-zanjar-discrecion-pugna-listas-madrid-barcelona_1_13574395.html",
+      "fecha": "2026-10-09T08:38+00:00",
+      "partidos": [
+        "sumar"
+      ]
+    },
+    {
+      "titulo": "El juez que investiga a las cloacas descarta imputar por ahora al PSOE por financiación ilegal",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/juez-investiga-cloacas-descarta-imputar-psoe-financiacion-20261009103234-nt.html",
+      "fecha": "2026-10-09T08:38+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "Abascal se ausentará también este año del desfile del 12 de octubre y celebrará la Hispanidad en Ceuta",
+      "medio": "Europa Press",
+      "url": "https://www.europapress.es/nacional/noticia-abascal-ausentara-tambien-ano-desfile-12-octubre-celebrara-hispanidad-ceuta-20261009102224.html",
+      "fecha": "2026-10-09T08:22+00:00",
+      "partidos": [
+        "vox"
+      ]
+    },
+    {
+      "titulo": "Puente insta a Podemos y Frente Amplio a llegar a un acuerdo y dejar de lado los \"egos\"",
+      "medio": "Europa Press",
+      "url": "https://www.europapress.es/nacional/noticia-puente-insta-podemos-frente-amplio-llegar-acuerdo-dejar-lado-egos-20261009101918.html",
+      "fecha": "2026-10-09T08:19+00:00",
+      "partidos": [
+        "podemos"
+      ]
+    },
+    {
+      "titulo": "El PP acepta tres debates y pide a RTVE que la entrevista a Feijóo no la hagan productoras externas",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/pp-acepta-tres-debates-electorales-pone-condiciones-20261009093513-nt.html",
+      "fecha": "2026-10-09T08:10+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "Movimiento Sumar elige a Verónica Barbero como su candidata dentro del Frente Amplio para las elecciones del 29-N",
+      "medio": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/politica/20261009/11654986/movimiento-sumar-elige-veronica-barbero-candidata-frente-amplio-elecciones-29-n.html",
+      "fecha": "2026-10-09T08:10+00:00",
+      "partidos": [
+        "sumar"
+      ]
+    },
+    {
+      "titulo": "El PP plantea un 'cara a cara' de Feijóo y Sánchez, un debate a cuatro y otro de portavoces para el 29N",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/politica/pp-plantea-cara-cara-feijoo-sanchez-debate-cuatro-portavoces-29n_1_13574252.html",
+      "fecha": "2026-10-09T07:39+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "Feijóo acepta el debate 'cara a cara' con Sánchez en Mediaset y plantea celebrarlo el 16 de noviembre",
+      "medio": "20minutos",
+      "url": "https://www.20minutos.es/nacional/feijoo-acepta-debate-cara-cara-con-sanchez-mediaset-plantea-celebrarlo-16-noviembre_7046924_0.html",
+      "fecha": "2026-10-09T07:38+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "Feijóo propone un cara a cara con Sánchez el 16 de noviembre en Mediaset",
+      "medio": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/politica/20261009/11654951/feijoo-propone-cara-cara-sanchez-16-noviembre-mediaset.html",
+      "fecha": "2026-10-09T07:37+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "Feijóo acepta el 'cara a cara' propuesto por Mediaset con Sánchez y plantea celebrarlo el 16 de noviembre",
+      "medio": "Europa Press",
+      "url": "https://www.europapress.es/nacional/noticia-feijoo-acepta-cara-cara-propuesto-mediaset-sanchez-plantea-celebrarlo-16-noviembre-20261009092201.html",
+      "fecha": "2026-10-09T07:22+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "El PNV de Vizcaya desautoriza a Aitor Esteban y evidencia su fractura en plena precampaña",
+      "medio": "El Mundo",
+      "url": "https://www.elmundo.es/pais-vasco/2026/10/09/6ac7ef28e85ece60158b45a6.html",
+      "fecha": "2026-10-09T06:54+00:00",
+      "partidos": [
+        "pnv"
+      ]
+    },
+    {
+      "titulo": "Movimiento Sumar llama al resto de partidos del Frente Amplio a negociar con “discreción y generosidad”",
+      "medio": "El País",
+      "url": "https://elpais.com/espana/elecciones-generales/2026-10-09/movimiento-sumar-llama-al-resto-de-partidos-del-frente-amplio-a-negociar-con-discrecion-y-generosidad.html",
+      "fecha": "2026-10-09T06:30+00:00",
+      "partidos": [
+        "sumar"
+      ]
+    },
+    {
       "titulo": "Feijóo pide al PP no repetir los errores del 23J",
       "medio": "ABC",
       "url": "https://www.abc.es/espana/feijoo-pide-pp-repetir-errores-23j-encarga-20261009021121-nt.html",
@@ -509,6 +654,15 @@
       ]
     },
     {
+      "titulo": "El clan de 'Los Rochos', el más temido de Extremadura y señalado ahora en la investigación de las cloacas del PSOE",
+      "medio": "20minutos",
+      "url": "https://www.20minutos.es/extremadura/asi-son-los-rochos-peligroso-narcoclan-enfrentado-los-matias-senalado-ahora-investigacion-las-cloacas-psoe_7046448_0.html",
+      "fecha": "2026-10-09T03:00+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
       "titulo": "Coalición Canaria busca alianzas para ganar dos escaños claves para el 29N",
       "medio": "ABC",
       "url": "https://www.abc.es/espana/canarias/coalicion-canaria-busca-tres-diputados-29n-presentandose-20261008022101-nt.html",
@@ -587,6 +741,15 @@
       "fecha": "2026-10-08T18:09+00:00",
       "partidos": [
         "psoe"
+      ]
+    },
+    {
+      "titulo": "Vox sustituye a la díscola Carla Toscano por un medallista olímpico para el Ayuntamiento de Madrid",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/madrid/somos/medallista-olimpico-toma-relevo-carla-toscano-concejal-vox-ayuntamiento-madrid_1_13571759.html",
+      "fecha": "2026-10-08T18:00+00:00",
+      "partidos": [
+        "vox"
       ]
     },
     {
@@ -2978,171 +3141,6 @@
       "fecha": "2026-10-06T04:00+00:00",
       "partidos": [
         "junts"
-      ]
-    },
-    {
-      "titulo": "El aval del TC para amnistiar a Puigdemont abre el fuego electoral",
-      "medio": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/politica/20261006/11651758/aval-tc-amnistiar-puigdemont-abre-fuego-electoral.html",
-      "fecha": "2026-10-06T04:00+00:00",
-      "partidos": [
-        "junts"
-      ]
-    },
-    {
-      "titulo": "Pedro Sánchez pulsa el botón rojo para el 29-N y activa una polarizada batalla en las elecciones",
-      "medio": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/politica/20261006/11651782/sanchez-pulsa-boton-rojo-29-n-activa-polarizada-batalla-electoral.html",
-      "fecha": "2026-10-06T04:00+00:00",
-      "partidos": [
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "Feijóo no teme otra remontada de Sánchez y niega el paralelismo con las elecciones de 2023",
-      "medio": "El País",
-      "url": "https://elpais.com/espana/2026-10-06/feijoo-no-teme-otra-remontada-de-sanchez-y-niega-el-paralelismo-con-las-elecciones-de-2023.html",
-      "fecha": "2026-10-06T03:30+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "El PSOE encara las elecciones entre la ilusión y el alivio: “Nos vamos a reivindicar con orgullo”",
-      "medio": "El País",
-      "url": "https://elpais.com/espana/elecciones-generales/2026-10-06/el-psoe-encara-las-elecciones-entre-la-ilusion-y-el-alivio-nos-vamos-a-reivindicar-con-orgullo.html",
-      "fecha": "2026-10-06T03:30+00:00",
-      "partidos": [
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "La izquierda encara el reto de agitar en 54 días un electorado más desmovilizado que el de PP y Vox",
-      "medio": "El País",
-      "url": "https://elpais.com/espana/elecciones-generales/2026-10-06/la-izquierda-encara-el-reto-de-agitar-en-55-dias-un-electorado-mas-desmovilizado-que-el-de-pp-y-vox.html",
-      "fecha": "2026-10-06T03:30+00:00",
-      "partidos": [
-        "pp",
-        "vox"
-      ]
-    },
-    {
-      "titulo": "No habrá 'superdomingo' en Valencia: Llorca descarta apretar el botón rojo del adelanto a la espera de Génova",
-      "medio": "El Confidencial",
-      "url": "https://www.elconfidencial.com/espana/comunidad-valenciana/2026-10-06/valencianas-generales-llorca-boton-rojo-genova_4438574/",
-      "fecha": "2026-10-06T03:00+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Orriols le roba a Junts el socio belga que acogió a Puigdemont y echa el anzuelo a los rumanos",
-      "medio": "El Confidencial",
-      "url": "https://www.elconfidencial.com/espana/cataluna/2026-10-06/orriols-junts-socio-belga-puigdemont-anzuelo_4438640/",
-      "fecha": "2026-10-06T03:00+00:00",
-      "partidos": [
-        "junts"
-      ]
-    },
-    {
-      "titulo": "PP y Vox aprenden la lección: contactos fluidos desde hace meses con un único objetivo, Sánchez",
-      "medio": "El Confidencial",
-      "url": "https://www.elconfidencial.com/espana/2026-10-06/pp-vox-aprenden-leccion-contactos-fluidos-objetivo-sanchez_4438742/",
-      "fecha": "2026-10-06T03:00+00:00",
-      "partidos": [
-        "pp",
-        "vox"
-      ]
-    },
-    {
-      "titulo": "El PP mira a los jóvenes y les promete atajar su \"falta de oportunidades\" para engrosar su electorado: \"Merecen otro futuro\"",
-      "medio": "20minutos",
-      "url": "https://www.20minutos.es/nacional/pp-mira-los-jovenes-les-promete-atajar-su-falta-oportunidades-para-engrosar-su-electorado-merecen-otro-futuro_7045115_0.html",
-      "fecha": "2026-10-06T03:00+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "La unión de la izquierda se complica a 10 días de presentar las alianzas: Frente Amplio no cede y aleja las primarias de Podemos",
-      "medio": "20minutos",
-      "url": "https://www.20minutos.es/nacional/union-izquierda-se-complica-10-dias-presentar-las-alianzas-frente-amplio-no-cede-aleja-las-primarias-podemos_7045111_0.html",
-      "fecha": "2026-10-06T03:00+00:00",
-      "partidos": [
-        "podemos"
-      ]
-    },
-    {
-      "titulo": "Las elecciones generales del 29-N culminan un año repleto de comicios y teñido por el color azul del PP",
-      "medio": "20minutos",
-      "url": "https://www.20minutos.es/nacional/las-elecciones-generales-29-n-culminan-un-ano-repleto-comicios-tenido-por-color-azul-pp_7045074_0.html",
-      "fecha": "2026-10-06T03:00+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Vox confía en capitalizar el descontento por la vivienda y advierte de que la calle \"grita\" contra el Gobierno",
-      "medio": "20minutos",
-      "url": "https://www.20minutos.es/nacional/vox-confia-capitalizar-descontento-por-vivienda-advierte-que-calle-grita-contra-gobierno_7045001_0.html",
-      "fecha": "2026-10-06T03:00+00:00",
-      "partidos": [
-        "vox"
-      ]
-    },
-    {
-      "titulo": "El adelanto electoral no frenará la causa de las cloacas pero aleja el escenario de la posible imputación del PSOE",
-      "medio": "20minutos",
-      "url": "https://www.20minutos.es/nacional/adelanto-electoral-no-frenara-causa-las-cloacas-pero-aleja-escenario-posible-imputacion-psoe_7044989_0.html",
-      "fecha": "2026-10-06T03:00+00:00",
-      "partidos": [
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "Relación \"ordenada\": la palabra clave de Vox para esquivar los errores que frenaron a la derecha en 2023",
-      "medio": "El Mundo",
-      "url": "https://www.elmundo.es/espana/2026/10/06/6ac40717e4d4d80a2f8b4590.html",
-      "fecha": "2026-10-05T23:59+00:00",
-      "partidos": [
-        "vox"
-      ]
-    },
-    {
-      "titulo": "El PP asume una campaña sucia y que necesitará combatir el miedo a la derecha",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/pp-asume-campana-caliente-prepara-disuadir-miedo-20261006011345-nt.html",
-      "fecha": "2026-10-05T23:15+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Vox no se esperaba el 29N: temor a nuevos errores del PP y centrado en su 'prioridad nacional'",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/vox-esperaba-29n-temor-nuevos-errores-pp-20261006011338-nt.html",
-      "fecha": "2026-10-05T23:14+00:00",
-      "partidos": [
-        "pp",
-        "vox"
-      ]
-    },
-    {
-      "titulo": "El Supremo facilitará la vuelta de Puigdemont de forma inminente tras el fallo del TC",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/supremo-facilitara-vuelta-puigdemont-forma-inminente-tras-20261005010925-nt.html",
-      "fecha": "2026-10-05T23:09+00:00",
-      "partidos": [
-        "junts"
-      ]
-    },
-    {
-      "titulo": "El PP de Ayuso aplaza su congreso y Más Madrid deja ahora en el aire el futuro de su candidata",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/madrid/pp-ayuso-desliga-generales-autonomicas-momento-desmontar-20261005010052-nt.html",
-      "fecha": "2026-10-05T23:00+00:00",
-      "partidos": [
-        "pp"
       ]
     }
   ]
