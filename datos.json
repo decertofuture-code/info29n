@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-09T09:20+00:00",
+  "actualizado": "2026-10-09T13:22+00:00",
   "temas": [
     {
       "id": "vivienda",
@@ -393,12 +393,188 @@
   ],
   "noticias": [
     {
+      "titulo": "El PSOE advierte de «no fiarse» de los posibles «pactos ocultos» de Núñez con el PP y Vox",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/castilla-la-mancha/psoe-advierte-fiarse-posibles-pactos-ocultos-nunez-20261009150623-nt.html",
+      "fecha": "2026-10-09T13:06+00:00",
+      "partidos": [
+        "pp",
+        "psoe",
+        "vox"
+      ]
+    },
+    {
+      "titulo": "El PP propone a Marta Bosquet como nueva Defensora del Pueblo Andaluz para desbloquear el relevo de Jesús Maeztu",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/andalucia/pp-propone-marta-bosquet-nueva-defensora-pueblo-20261009125548-nts.html",
+      "fecha": "2026-10-09T13:06+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "Page, contundente sobre Pedro Sánchez: «Las relaciones son muy malas. Me ha quedado bastante claro la distancia que quiere tener el presidente con mi tierra»",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/castilla-la-mancha/page-contundente-sobre-pedro-sanchez-relaciones-malas-20261009114331-nt.html",
+      "fecha": "2026-10-09T12:58+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "La Policía identifica a los autores de las pintadas en la sede del PSOE de Córdoba",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/andalucia/cordoba/policia-identifica-autores-pintadas-sede-psoe-cordoba-20261009145445-nts.html",
+      "fecha": "2026-10-09T12:54+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "El PSOE solicita un informe sobre la actuación de la presidenta de las Cortes de Aragón en el minuto de silencio por Maricarmen",
+      "medio": "El Mundo",
+      "url": "https://www.elmundo.es/aragon/2026/10/09/6ac8dd7ae9cf4ad53d8b458d.html",
+      "fecha": "2026-10-09T12:52+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "El PP avisa de que la \"cloaca\" del PSOE se presenta en el 29N y promete que no se olvidarán los casos de corrupción",
+      "medio": "Europa Press",
+      "url": "https://www.europapress.es/nacional/noticia-pp-avisa-cloaca-psoe-presenta-29n-promete-no-olvidaran-casos-corrupcion-20261009144607.html",
+      "fecha": "2026-10-09T12:46+00:00",
+      "partidos": [
+        "pp",
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "El PPdeG disculpa el silencio de Feijóo tras la muerte de Beiras: «Todo el partido mostró su pesar»",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/galicia/ppdeg-disculpa-silencio-feijoo-tras-muerte-beiras-20261009142946-nt.html",
+      "fecha": "2026-10-09T12:29+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "El PSOE estudia presentarse al Senado en lista conjunta con otras formaciones de izquierda para evitar mayoría del PP",
+      "medio": "Europa Press",
+      "url": "https://www.europapress.es/nacional/noticia-psoe-estudia-presentarse-senado-lista-conjunta-otras-formaciones-izquierda-evitar-mayoria-pp-20261009142726.html",
+      "fecha": "2026-10-09T12:27+00:00",
+      "partidos": [
+        "pp",
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "Manos Limpias denuncia al ex juez de la 'cloaca' del PSOE por \"tentativa de asesinato\" contra Biedma",
+      "medio": "El Mundo",
+      "url": "https://www.elmundo.es/espana/extremadura/2026/10/09/6ac8d9ddfc6c83727a8b457a.html",
+      "fecha": "2026-10-09T12:24+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "Vox pide incorporar psicólogos generales sanitarios al Sescam para reforzar la atención a la salud mental",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/castilla-la-mancha/vox-pide-incorporar-psicologos-generales-sanitarios-sescam-20261009142312-nt.html",
+      "fecha": "2026-10-09T12:23+00:00",
+      "partidos": [
+        "vox"
+      ]
+    },
+    {
+      "titulo": "Feijóo acepta un debate cara a cara con Sánchez y otro a cuatro con el resto de candidatos",
+      "medio": "El País",
+      "url": "https://elpais.com/espana/elecciones-generales/2026-10-09/feijoo-acepta-un-debate-cara-a-cara-con-sanchez-y-otro-a-cuatro-con-el-resto-de-candidatos.html",
+      "fecha": "2026-10-09T12:04+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "El ministro Torres renuncia a ser candidato del PSOE al Congreso en los próximos comicios",
+      "medio": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/politica/20261009/11655272/ministro-torres-renuncia-candidato-psoe-congreso-proximos-comicios.html",
+      "fecha": "2026-10-09T11:55+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "Romero insta a Junts a aclarar a quién investirá tras el 29-N: “No hacerlo sería engañar a la gente”",
+      "medio": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/politica/20261009/11655262/romero-insta-junts-aclarar-investira-29-n-hacerlo-seria-enganar-gente.html",
+      "fecha": "2026-10-09T11:50+00:00",
+      "partidos": [
+        "junts"
+      ]
+    },
+    {
+      "titulo": "La salida de Etxanobe de la Diputación de Bizkaia reabre la crisis interna del PNV y cuestiona el liderazgo de Aitor Esteban",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/euskadi/salida-etxanobe-diputacion-bizkaia-reabre-crisis-interna-pnv-cuestiona-liderazgo-aitor-esteban_1_13574792.html",
+      "fecha": "2026-10-09T10:58+00:00",
+      "partidos": [
+        "pnv"
+      ]
+    },
+    {
+      "titulo": "El juez Pedraz rechaza imputar al PSOE \"en este momento\" en el 'caso Cloacas'",
+      "medio": "El Mundo",
+      "url": "https://www.elmundo.es/espana/2026/10/09/6ac8af6efdddffc46e8b45c2.html",
+      "fecha": "2026-10-09T10:48+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "El PSOE explora listas conjuntas de izquierdas frente a la mayoría absoluta del PP en el Senado",
+      "medio": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/politica/20261009/11655079/psoe-explora-listas-conjuntas-izquierdas-frente-mayoria-absoluta-pp-senado.html",
+      "fecha": "2026-10-09T09:37+00:00",
+      "partidos": [
+        "pp",
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "El juez Pedraz descarta “de momento” imputar al PSOE en el caso Leire",
+      "medio": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/politica/20261009/11655051/juez-pedraz-descarta-momento-imputar-psoe-caso-cloacas.html",
+      "fecha": "2026-10-09T09:35+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
       "titulo": "De la abogacía a los gabinetes políticos: quién es Alma Ezcurra, la encargada del programa electoral del PP",
       "medio": "El Confidencial",
       "url": "https://www.elconfidencial.com/espana/2026-10-09/quien-es-alma-excurra-encargada-programa-electoral-pp-1qrt_4441648/",
       "fecha": "2026-10-09T09:20+00:00",
       "partidos": [
         "pp"
+      ]
+    },
+    {
+      "titulo": "Abascal se ausentará también este año del desfile del 12 de octubre para celebrar la Hispanidad en Ceuta",
+      "medio": "20minutos",
+      "url": "https://www.20minutos.es/nacional/abascal-se-ausentara-tambien-este-ano-desfile-12-octubre-para-celebrar-hispanidad-ceuta_7046996_0.html",
+      "fecha": "2026-10-09T09:19+00:00",
+      "partidos": [
+        "vox"
+      ]
+    },
+    {
+      "titulo": "El juez Pedraz rechaza imputar al PSOE al no ver un \"principio de prueba\" que lo justifique \"en este momento\"",
+      "medio": "20minutos",
+      "url": "https://www.20minutos.es/nacional/juez-pedraz-rechaza-imputar-psoe-no-ver-un-principio-prueba-que-justifique-este-momento_7046992_0.html",
+      "fecha": "2026-10-09T08:59+00:00",
+      "partidos": [
+        "psoe"
       ]
     },
     {
@@ -445,6 +621,15 @@
       "fecha": "2026-10-09T08:38+00:00",
       "partidos": [
         "psoe"
+      ]
+    },
+    {
+      "titulo": "Sumar elige a Verónica Martínez como su candidata dentro de Frente Amplio y pide a sus socios negociar con discreción",
+      "medio": "20minutos",
+      "url": "https://www.20minutos.es/nacional/sumar-elige-veronica-martinez-como-referente-para-las-listas-frente-amplio-pide-sus-socios-negociar-con-discrecion_7046975_0.html",
+      "fecha": "2026-10-09T08:32+00:00",
+      "partidos": [
+        "sumar"
       ]
     },
     {
@@ -685,6 +870,33 @@
       "medio": "ABC",
       "url": "https://www.abc.es/espana/recibe-carta-paloma-esteban-newsletter-actualidad-sobre-20261009020608-nt.html",
       "fecha": "2026-10-09T00:06+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "Colau y Montero hablan directamente para desatascar la integración de Podemos en el Frente Amplio",
+      "medio": "El Mundo",
+      "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/10/09/6ac7d26cfdddffae308b459d.html",
+      "fecha": "2026-10-08T23:52+00:00",
+      "partidos": [
+        "podemos"
+      ]
+    },
+    {
+      "titulo": "La amenaza de Landaluce al PP: apunta a una candidatura independiente tras la denuncia de una militante y pone en riesgo el poder popular en Cádiz",
+      "medio": "El Mundo",
+      "url": "https://www.elmundo.es/andalucia/2026/10/09/6ac7c217e85eced7738b4595.html",
+      "fecha": "2026-10-08T23:52+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "Moreno y Ayuso harán campaña propia como si fueran candidatos para reforzar a Feijóo: \"Nos van a hacer trampas muy sucias\"",
+      "medio": "El Mundo",
+      "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/10/08/6ac7d2a5fdddffea268b4574.html",
+      "fecha": "2026-10-08T20:42+00:00",
       "partidos": [
         "pp"
       ]
@@ -2930,215 +3142,6 @@
       "medio": "La Vanguardia",
       "url": "https://www.lavanguardia.com/politica/20261006/11652114/tc-ordena-supremo-amnistiar-lideres-proces-abre-retorno-puigdemont.html",
       "fecha": "2026-10-06T09:53+00:00",
-      "partidos": [
-        "junts"
-      ]
-    },
-    {
-      "titulo": "Vox pide al Supremo que suspenda también el voto a los descendientes de exiliados",
-      "medio": "El País",
-      "url": "https://elpais.com/espana/elecciones-generales/2026-10-06/vox-pide-al-supremo-que-suspenda-tambien-el-voto-a-los-descendientes-de-exiliados.html",
-      "fecha": "2026-10-06T09:48+00:00",
-      "partidos": [
-        "vox"
-      ]
-    },
-    {
-      "titulo": "El líder del PP vasco, Javier de Andrés, alimenta sin pruebas las sospechas de manipulación del voto por correo",
-      "medio": "elDiario.es",
-      "url": "https://www.eldiario.es/euskadi/lider-pp-vasco-javier-andres-alimenta-pruebas-sospechas-manipulacion-voto-correo_1_13565289.html",
-      "fecha": "2026-10-06T09:12+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Pedro Sánchez arranca la campaña con María Jesús Montero este sábado en Sevilla",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/andalucia/pedro-sanchez-arranca-campana-maria-jesus-montero-20261006105322-nts.html",
-      "fecha": "2026-10-06T09:09+00:00",
-      "partidos": [
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "Junqueras carga contra Junts y PSOE por «reventar» la legislatura y desactivar la quita del FLA y la financiación autonómica",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/cataluna/junqueras-carga-junts-psoe-reventar-legislatura-desactivar-20261006110243-nt.html",
-      "fecha": "2026-10-06T09:03+00:00",
-      "partidos": [
-        "psoe",
-        "junts"
-      ]
-    },
-    {
-      "titulo": "Sumar abre la puerta a Podemos pero aleja su petición de primarias: \"Mejor acordar que competir entre nosotros\"",
-      "medio": "Europa Press",
-      "url": "https://www.europapress.es/nacional/noticia-sumar-abre-puerta-podemos-aleja-peticion-primarias-mejor-acordar-competir-nosotros-20261006110305.html",
-      "fecha": "2026-10-06T09:03+00:00",
-      "partidos": [
-        "podemos"
-      ]
-    },
-    {
-      "titulo": "Aval del Constitucional a la amnistía, en directo | Feijóo acata la decisión del TC, pero dice que la amnistía fue un engaño de Sánchez \"que debe castigarse en las urnas\"",
-      "medio": "20minutos",
-      "url": "https://www.20minutos.es/nacional/aval-constitucional-amnistia-directo-tc-se-dispone-avalar-amnistia-malversacion-proces-que-sienta-las-bases-para-regreso-puigdemont_7045295_6.html",
-      "fecha": "2026-10-06T09:00+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Sentencia del Tribunal Constitucional sobre la amnistía y la última hora de Puigdemont, hoy en directo",
-      "medio": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/politica/20261006/11652015/resolucion-tribunal-constitucional-ley-de-amnistia-ultima-hora-hoy-en-directo.html",
-      "fecha": "2026-10-06T08:41+00:00",
-      "partidos": [
-        "junts"
-      ]
-    },
-    {
-      "titulo": "La comparecencia de Pedro Sánchez y la última hora sobre las elecciones generales y el decreto de la vivienda, en directo",
-      "medio": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/politica/20261006/11652090/elecciones-29-n-espana-decreto-vivienda-pedro-sanchez-ultima-hora-hoy-en-directo.html",
-      "fecha": "2026-10-06T08:39+00:00",
-      "partidos": [
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "Encuestas elecciones generales 29-N: resultados de PSOE, PP y VOX y ganador según los sondeos",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/encuestas-elecciones-generales-29n-resultados-ganador-segun-20261006053000-nt.html",
-      "fecha": "2026-10-06T08:17+00:00",
-      "partidos": [
-        "pp",
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "Junqueras da por seguro que Rufián repetirá como candidato de ERC el 29-N",
-      "medio": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/politica/20261006/11652120/junqueras-da-seguro-rufian-repetira-candidato-erc-29-n.html",
-      "fecha": "2026-10-06T08:08+00:00",
-      "partidos": [
-        "erc"
-      ]
-    },
-    {
-      "titulo": "Mínguez asegura, sobre la huelga general, que el PSOE siempre defiende a los trabajadores y su expresión pública",
-      "medio": "Europa Press",
-      "url": "https://www.europapress.es/nacional/noticia-minguez-asegura-huelga-general-psoe-siempre-defiende-trabajadores-expresion-publica-20261006100356.html",
-      "fecha": "2026-10-06T08:03+00:00",
-      "partidos": [
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "PP entiende las dudas del voto por correo tras \"maniobras\" de Sánchez y pide a la JEC pronunciarse sobre el censo",
-      "medio": "Europa Press",
-      "url": "https://www.europapress.es/nacional/noticia-pp-entiende-dudas-voto-correo-maniobras-sanchez-pide-jec-pronunciarse-censo-20261006100042.html",
-      "fecha": "2026-10-06T08:00+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "El PP se burla de una lesión de Óscar Puente y el ministro responde: \"Son la peor gentuza que habita este país\"",
-      "medio": "elDiario.es",
-      "url": "https://www.eldiario.es/rastreador/pp-ridiculiza-lesion-oscar-puente-ministro-responde-son-peor-gentuza-habita-pais_132_13565035.html",
-      "fecha": "2026-10-06T07:59+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Quién es Maribel Vaquero: de concejala en Urnieta a primera mujer portavoz del PNV en el Congreso",
-      "medio": "El Confidencial",
-      "url": "https://www.elconfidencial.com/espana/2026-10-06/quien-es-maribel-vaquero_4439066/",
-      "fecha": "2026-10-06T07:39+00:00",
-      "partidos": [
-        "pnv"
-      ]
-    },
-    {
-      "titulo": "Elecciones generales en España, en directo: comparecencia de Pedro Sánchez tras la aprobación de los decretos de vivienda y última hora hoy",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/comparecencia-pedro-sanchez-directo-posible-convocatoria-elecciones-20261005080806-di.html",
-      "fecha": "2026-10-06T07:35+00:00",
-      "partidos": [
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "Junqueras avala a Rufián de cara al 29N: \"Seguro que será el candidato de ERC\"",
-      "medio": "elDiario.es",
-      "url": "https://www.eldiario.es/catalunya/junqueras-avala-rufian-cara-29n-seguro-sera-candidato-erc_1_13565068.html",
-      "fecha": "2026-10-06T07:29+00:00",
-      "partidos": [
-        "erc"
-      ]
-    },
-    {
-      "titulo": "El PP se burla de Óscar Puente con un vídeo del momento en que se rompió el cuádriceps: “Miedo le tenías tú a un esguince”",
-      "medio": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/politica/20261006/11652092/pp-ataca-oscar-puente-video-momento-rompio-cuadriceps-miedo-le-tenias-esguince.html",
-      "fecha": "2026-10-06T07:27+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "El PP inicia la precampaña con un vídeo en el que se burla de una lesión de Óscar Puente: “Miedo le tenías tú a un esguince”",
-      "medio": "El País",
-      "url": "https://elpais.com/espana/elecciones-generales/2026-10-06/el-pp-inicia-la-precampana-con-un-video-en-el-que-se-burla-de-una-grave-lesion-de-oscar-puente-miedo-tu-esguince.html",
-      "fecha": "2026-10-06T07:23+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Pedro Sánchez comparecerá hoy tras la celebración del Consejo de Ministros",
-      "medio": "Europa Press",
-      "url": "https://www.europapress.es/nacional/noticia-pedro-sanchez-comparecera-hoy-celebracion-consejo-ministros-20261006084854.html",
-      "fecha": "2026-10-06T06:48+00:00",
-      "partidos": [
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "La campaña no paralizará las investigaciones que cercan al PSOE pero puede retrasar las decisiones más graves",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/campana-electoral-paralizara-investigaciones-cercan-psoe-sanchez-20261006011407-nt.html",
-      "fecha": "2026-10-06T04:26+00:00",
-      "partidos": [
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "El Gobierno reflota medidas de choque en vivienda que ya no necesitan a Junts",
-      "medio": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/politica/20261006/11651792/gobierno-reflota-medidas-choque-vivienda-necesitan-junts.html",
-      "fecha": "2026-10-06T04:00+00:00",
-      "partidos": [
-        "junts"
-      ]
-    },
-    {
-      "titulo": "¿Habrá cara a cara Sánchez-Feijóo?",
-      "medio": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/politica/20261006/11651773/habra-cara-cara-sanchez-feijoo.html",
-      "fecha": "2026-10-06T04:00+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Junts se encomienda a Nogueras para el 29-N... y al posible retorno de Puigdemont",
-      "medio": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/politica/20261006/11651762/junts-encomienda-nogueras-29-n-posible-retorno-puigdemont.html",
-      "fecha": "2026-10-06T04:00+00:00",
       "partidos": [
         "junts"
       ]
