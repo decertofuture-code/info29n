@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-10T17:15+00:00",
+  "actualizado": "2026-10-10T21:16+00:00",
   "temas": [
     {
       "id": "vivienda",
@@ -392,6 +392,15 @@
     }
   ],
   "noticias": [
+    {
+      "titulo": "María Rivas aspira a liderar la lista del PSOE al Congreso por La Coruña",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/galicia/maria-rivas-aspira-liderar-lista-psoe-congreso-20261010210006-nt.html",
+      "fecha": "2026-10-10T19:00+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
     {
       "titulo": "ERC y Rufián apuran una negociación abierta pero “encauzada” para la candidatura del 29-N",
       "medio": "La Vanguardia",
@@ -3139,15 +3148,6 @@
       "medio": "elDiario.es",
       "url": "https://www.eldiario.es/illes-balears/sociedad/pp-esgrime-queja-presunto-acoso-machista-forzar-desalojo-acampada-vivienda-palma_1_13566951.html",
       "fecha": "2026-10-06T16:38+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "El PP lleva a Sánchez ante la Junta Electoral por “usar Moncloa para dar un mitin” del 29-N",
-      "medio": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/politica/20261006/11652683/pp-lleva-sanchez-junta-electoral-moncloa-dar-mitin-29-n.html",
-      "fecha": "2026-10-06T16:36+00:00",
       "partidos": [
         "pp"
       ]
