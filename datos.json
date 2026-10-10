@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-10T13:17+00:00",
+  "actualizado": "2026-10-10T17:15+00:00",
   "temas": [
     {
       "id": "vivienda",
@@ -393,6 +393,55 @@
   ],
   "noticias": [
     {
+      "titulo": "ERC y Rufián apuran una negociación abierta pero “encauzada” para la candidatura del 29-N",
+      "medio": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/politica/20261010/11656057/erc-rufian-apuran-negociacion-abierta-encauzada-candidatura-29-n.html",
+      "fecha": "2026-10-10T16:30+00:00",
+      "partidos": [
+        "erc"
+      ]
+    },
+    {
+      "titulo": "Llorca: «Con Feijóo vamos a tener un presidente que priorice a la Comunitat Valenciana»",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/comunidad-valenciana/llorca-feijoo-vamos-tener-presidente-priorice-comunitat-20261010170849-nt.html",
+      "fecha": "2026-10-10T16:24+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "El PNV rechaza que se le incluya en ningún bloque tras el 29N, pero avisa a Feijóo que con Vox, \"ni a heredar\"",
+      "medio": "20minutos",
+      "url": "https://www.20minutos.es/nacional/pnv-rechaza-que-se-le-incluya-ningun-bloque-tras-29n-pero-avisa-feijoo-que-con-vox-ni-heredar_7047483_0.html",
+      "fecha": "2026-10-10T15:31+00:00",
+      "partidos": [
+        "pp",
+        "vox",
+        "pnv"
+      ]
+    },
+    {
+      "titulo": "Cristina Valido (CC) teme un Gobierno de PP-Vox a pesar de que su partido pacta con ambos en Canarias",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/canariasahora/politica/cristina-valido-cc-teme-gobierno-pp-vox-partido-pacta-canarias_1_13577589.html",
+      "fecha": "2026-10-10T15:05+00:00",
+      "partidos": [
+        "pp",
+        "vox"
+      ]
+    },
+    {
+      "titulo": "ERC afirma que \"subirá el precio\" para volver a investir a Pedro Sánchez",
+      "medio": "20minutos",
+      "url": "https://www.20minutos.es/nacional/erc-afirma-que-subira-precio-para-volver-investir-pedro-sanchez_7047461_0.html",
+      "fecha": "2026-10-10T13:23+00:00",
+      "partidos": [
+        "psoe",
+        "erc"
+      ]
+    },
+    {
       "titulo": "Feijóo se compromete a ser «el presidente que España está esperando»: «Vamos a ganar y gobernar»",
       "medio": "ABC",
       "url": "https://www.abc.es/espana/feijoo-compromete-presidente-espana-esperando-vamos-ganar-20261010135221-nt.html",
@@ -408,6 +457,25 @@
       "fecha": "2026-10-10T12:58+00:00",
       "partidos": [
         "psoe"
+      ]
+    },
+    {
+      "titulo": "Sánchez promete \"reforzar\" el decreto de vivienda y acusa a PP y Vox de lanzar bulos del voto por correo: \"Tienen miedo a perder\"",
+      "medio": "20minutos",
+      "url": "https://www.20minutos.es/nacional/sanchez-promete-reforzar-decreto-vivienda-acusa-pp-vox-lanzar-bulos-voto-correo-miedo-perder_7047444_0.html",
+      "fecha": "2026-10-10T12:34+00:00",
+      "partidos": [
+        "pp",
+        "vox"
+      ]
+    },
+    {
+      "titulo": "Sánchez se centra en vivienda y ataca al PP por dudar del voto por correo: “Estos son los de cuantos menos voten, mejor”",
+      "medio": "El País",
+      "url": "https://elpais.com/espana/elecciones-generales/2026-10-10/sanchez-se-centra-en-vivienda-y-ataca-al-pp-por-dudar-del-voto-por-correo-estos-son-los-de-cuantos-menos-voten-mejor.html",
+      "fecha": "2026-10-10T12:20+00:00",
+      "partidos": [
+        "pp"
       ]
     },
     {
@@ -472,6 +540,15 @@
       "fecha": "2026-10-10T11:19+00:00",
       "partidos": [
         "psoe"
+      ]
+    },
+    {
+      "titulo": "Feijóo asume que el 29-N será su última oportunidad: “¡No tenemos derecho a fallar. No vamos a fallar!”",
+      "medio": "El País",
+      "url": "https://elpais.com/espana/elecciones-generales/2026-10-10/feijoo-asume-que-el-29n-sera-su-ultima-oportunidad-no-tenemos-derecho-a-fallar-no-vamos-a-fallar.html",
+      "fecha": "2026-10-10T11:15+00:00",
+      "partidos": [
+        "pp"
       ]
     },
     {
@@ -3073,80 +3150,6 @@
       "fecha": "2026-10-06T16:36+00:00",
       "partidos": [
         "pp"
-      ]
-    },
-    {
-      "titulo": "El PP pide a la Junta Electoral que sancione a Sánchez por \"utilizar\" la Moncloa para \"dar un mitin del PSOE\"",
-      "medio": "Europa Press",
-      "url": "https://www.europapress.es/nacional/noticia-pp-pide-junta-electoral-sancione-sanchez-utilizar-moncloa-dar-mitin-psoe-20261006183024.html",
-      "fecha": "2026-10-06T16:30+00:00",
-      "partidos": [
-        "pp",
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "El PNV mantiene su 'sí' al primer decreto y salva el «parche» de Sánchez en vivienda",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/pais-vasco/pnv-mantiene-dara-luz-verde-primer-decreto-20261006171232-nt.html",
-      "fecha": "2026-10-06T16:29+00:00",
-      "partidos": [
-        "pnv"
-      ]
-    },
-    {
-      "titulo": "Puigdemont celebra \"victoria de la amnistía\" en el Constitucional de Pumpido y evita aclarar cuándo regresará a España",
-      "medio": "El Mundo",
-      "url": "https://www.elmundo.es/espana/2026/10/06/6ac51c86fdddff187a8b45d7.html",
-      "fecha": "2026-10-06T16:24+00:00",
-      "partidos": [
-        "junts"
-      ]
-    },
-    {
-      "titulo": "Puigdemont no fija la fecha de su vuelta y da por cerrada \"la etapa de represión\", pero cree que la amnistía \"no soluciona el conflicto\"",
-      "medio": "20minutos",
-      "url": "https://www.20minutos.es/cataluna/puigdemont-no-fija-fecha-su-retorno-aunque-da-por-cerrada-etapa-represion-politica-tras-aval-tc-amnistia_7045581_0.html",
-      "fecha": "2026-10-06T16:24+00:00",
-      "partidos": [
-        "junts"
-      ]
-    },
-    {
-      "titulo": "El PSOE sitúa a Velázquez en las listas al Congreso y el PP replica: «Que se preocupen de lo suyo»",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/castilla-la-mancha/toledo/psoe-situa-velazquez-listas-congreso-pp-replica-20261006181901-nt.html",
-      "fecha": "2026-10-06T16:19+00:00",
-      "partidos": [
-        "pp",
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "Puigdemont celebra la amnistía pero dice que \"hoy no se soluciona nada\" del conflicto político",
-      "medio": "Europa Press",
-      "url": "https://www.europapress.es/catalunya/noticia-puigdemont-celebra-amnistia-dice-hoy-no-soluciona-nada-conflicto-politico-20261006181919.html",
-      "fecha": "2026-10-06T16:19+00:00",
-      "partidos": [
-        "junts"
-      ]
-    },
-    {
-      "titulo": "Puigdemont señala que la sentencia del Constitucional \"derrota la estrategia de los poderes públicos españoles\"",
-      "medio": "elDiario.es",
-      "url": "https://www.eldiario.es/catalunya/puigdemont-senala-sentencia-constitucional-derrota-estrategia-poderes-publicos-espanoles_1_13565802.html",
-      "fecha": "2026-10-06T16:17+00:00",
-      "partidos": [
-        "junts"
-      ]
-    },
-    {
-      "titulo": "La declaración de Carles Puigdemont y la decisión del TC sobre la amnistía y su regreso a España, última hora en directo",
-      "medio": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/politica/20261006/11652015/resolucion-tribunal-constitucional-ley-de-amnistia-ultima-hora-hoy-en-directo.html",
-      "fecha": "2026-10-06T16:17+00:00",
-      "partidos": [
-        "junts"
       ]
     }
   ]
