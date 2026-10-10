@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-09T21:18+00:00",
+  "actualizado": "2026-10-10T05:04+00:00",
   "temas": [
     {
       "id": "vivienda",
@@ -393,12 +393,141 @@
   ],
   "noticias": [
     {
+      "titulo": "El PSOE busca alianzas para evitar otra mayoría absoluta del PP en el Senado",
+      "medio": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/politica/20261010/11655494/moncloa-intenta-evitar-pp-reedite-mayoria-absoluta-camara-alta.html",
+      "fecha": "2026-10-10T04:00+00:00",
+      "partidos": [
+        "pp",
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "Rufián, Junqueras y la suma de izquierdas: el triángulo imposible de ERC",
+      "medio": "El País",
+      "url": "https://elpais.com/espana/catalunya/2026-10-10/rufian-junqueras-y-la-suma-de-izquierdas-el-triangulo-imposible-de-erc.html",
+      "fecha": "2026-10-10T03:30+00:00",
+      "partidos": [
+        "erc"
+      ]
+    },
+    {
+      "titulo": "Llorca lidera una comitiva para arropar a Feijóo en su primer mitin en pleno debate de su candidatura",
+      "medio": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/local/valencia/20261010/11655399/llorca-lidera-comitiva-arropar-feijoo-primer-mitin-pleno-debate-candidatura.html",
+      "fecha": "2026-10-10T03:30+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "Encuestas elecciones generales 29N en la Comunidad Valenciana: resultados de PSOE, PP, VOX y Compromís y ganador según los sondeos",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/comunidad-valenciana/encuestas-elecciones-generales-29n-comunidad-valenciana-resultados-20261010051500-nt.html",
+      "fecha": "2026-10-10T03:15+00:00",
+      "partidos": [
+        "pp",
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "La Cámara de Cuentas concluye que el consejero del PSOE que asesoró a Begoña Gómez hizo trabajos incompatibles",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/andalucia/camara-cuentas-concluye-consejero-psoe-asesoro-begona-20261010013030-nts.html",
+      "fecha": "2026-10-09T23:30+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "Indicios \"de singular importancia\": Anticorrupción atribuye al PSOE cohecho y tráfico de influencias",
+      "medio": "El Mundo",
+      "url": "https://www.elmundo.es/espana/2026/10/10/6ac92eade85ece5a4d8b458f.html",
+      "fecha": "2026-10-09T23:10+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "Puigdemont vuelve; ¿Rufián se va?",
+      "medio": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/politica/20261010/11655492/puigdemont-vuelve-rufian.html",
+      "fecha": "2026-10-09T22:05+00:00",
+      "partidos": [
+        "junts"
+      ]
+    },
+    {
+      "titulo": "La 'guerra interna' en el PNV en Vizcaya da alas a EH Bildu: \"Van a ser las elecciones más disputadas de la Historia\"",
+      "medio": "El Mundo",
+      "url": "https://www.elmundo.es/pais-vasco/2026/10/10/6ac92929e9cf4a8c1f8b4584.html",
+      "fecha": "2026-10-09T22:02+00:00",
+      "partidos": [
+        "bildu",
+        "pnv"
+      ]
+    },
+    {
+      "titulo": "La juez unifica en Vox la representación de la acusación popular en el caso del accidente de Adamuz",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/andalucia/cordoba/juez-unifica-vox-representacion-acusacion-popular-accidente-20261009232550-nts.html",
+      "fecha": "2026-10-09T21:25+00:00",
+      "partidos": [
+        "vox"
+      ]
+    },
+    {
+      "titulo": "Alarma por la falta de medidas contra la 'cloaca del PSOE': el ex juez de los 96 vídeos contra Biedma alardea de que \"ningún juzgado\" lo cita",
+      "medio": "El Mundo",
+      "url": "https://www.elmundo.es/espana/2026/10/09/6ac92ecde85ece9c278b458d.html",
+      "fecha": "2026-10-09T20:40+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "Un pacto entre Podemos y el Frente Amplio duplicaría sus opciones para las generales",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/politica/pacto-frente-amplio-duplicaria-opciones-generales_1_13574953.html",
+      "fecha": "2026-10-09T20:40+00:00",
+      "partidos": [
+        "podemos"
+      ]
+    },
+    {
+      "titulo": "La Justicia absuelve a un tuitero por hablar de Abascal “colgado” de un puente y recuerda que él dijo lo mismo de Sánchez",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/politica/justicia-absuelve-tuitero-hablar-abascal-colgado-puente-recuerda-dijo-sanchez_1_13571493.html",
+      "fecha": "2026-10-09T20:40+00:00",
+      "partidos": [
+        "vox"
+      ]
+    },
+    {
+      "titulo": "Desde la calle de Doña Maricarmen Abascal",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/opinion/tribuna-abierta/calle-dona-maricarmen-abascal_129_13576278.html",
+      "fecha": "2026-10-09T20:40+00:00",
+      "partidos": [
+        "vox"
+      ]
+    },
+    {
       "titulo": "El PPdeG activa su campaña y deja en manos de Feijóo la renovación de las listas",
       "medio": "ABC",
       "url": "https://www.abc.es/espana/galicia/ppdeg-activa-campana-deja-manos-feijoo-renovacion-20261009213000-nt.html",
       "fecha": "2026-10-09T19:30+00:00",
       "partidos": [
         "pp"
+      ]
+    },
+    {
+      "titulo": "Maniobra de la izquierda para un vuelco en el Senado: PSOE y Frente Amplio negocian una alianza que les habría dado la mayoría clara en 2023",
+      "medio": "El Mundo",
+      "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/10/09/6ac932d921efa0c7758b45ae.html",
+      "fecha": "2026-10-09T18:52+00:00",
+      "partidos": [
+        "psoe"
       ]
     },
     {
@@ -511,6 +640,15 @@
       "fecha": "2026-10-09T15:19+00:00",
       "partidos": [
         "psoe"
+      ]
+    },
+    {
+      "titulo": "La juez que investiga la tragedia de Adamuz deja en manos de Vox la representación de todas las acusaciones populares, incluida la asociación de víctimas",
+      "medio": "El Mundo",
+      "url": "https://www.elmundo.es/andalucia/2026/10/09/6ac8fe06fdddffbf348b45c2.html",
+      "fecha": "2026-10-09T15:15+00:00",
+      "partidos": [
+        "vox"
       ]
     },
     {
@@ -825,6 +963,15 @@
       "fecha": "2026-10-09T08:32+00:00",
       "partidos": [
         "sumar"
+      ]
+    },
+    {
+      "titulo": "Feijóo acepta dos debates electorales con Sánchez, incluido un cara a cara, y a TVE le concede sólo una entrevista",
+      "medio": "El Mundo",
+      "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/10/09/6ac8a01c21efa09f4a8b4582.html",
+      "fecha": "2026-10-09T08:24+00:00",
+      "partidos": [
+        "pp"
       ]
     },
     {
@@ -2998,154 +3145,6 @@
       "fecha": "2026-10-06T12:48+00:00",
       "partidos": [
         "pp"
-      ]
-    },
-    {
-      "titulo": "El PSOE reclama a Núñez medidas «concretas» ante el aumento de costes del campo",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/castilla-la-mancha/psoe-reclama-nunez-medidas-concretas-ante-aumento-20261006143508-nt.html",
-      "fecha": "2026-10-06T12:35+00:00",
-      "partidos": [
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "Vox “acata” la amnistía a Puigdemont y aboga por “pasar página del odio del separatismo”",
-      "medio": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/politica/20261006/11652447/vox-acata-amnistia-puigdemont-aboga-pasar-pagina-odio-separatismo.html",
-      "fecha": "2026-10-06T12:31+00:00",
-      "partidos": [
-        "vox",
-        "junts"
-      ]
-    },
-    {
-      "titulo": "Sánchez acusa al PP de \"judicializar la política\" en lugar de responder a los problemas como hace el Gobierno",
-      "medio": "Europa Press",
-      "url": "https://www.europapress.es/nacional/noticia-sanchez-acusa-pp-judicializar-politica-lugar-responder-problemas-hace-gobierno-20261006142506.html",
-      "fecha": "2026-10-06T12:25+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "La Junta cuestiona que un Gobierno con Vox vaya a beneficiar al campo",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/castilla-la-mancha/junta-cuestiona-gobierno-vox-vaya-beneficiar-campo-20261006141748-nt.html",
-      "fecha": "2026-10-06T12:17+00:00",
-      "partidos": [
-        "vox"
-      ]
-    },
-    {
-      "titulo": "El PP entiende que ”haya millones de españoles que puedan tener dudas sobre el voto por correo”",
-      "medio": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/politica/20261006/11652417/pp-entiende-haya-millones-espanoles-puedan-dudas-sobre-voto-correo.html",
-      "fecha": "2026-10-06T12:13+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Última hora de Pedro Sánchez, en directo: medidas de vivienda, elecciones anticipadas y reacciones",
-      "medio": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/politica/20261006/11652090/elecciones-29-n-espana-decreto-vivienda-pedro-sanchez-ultima-hora-hoy-en-directo.html",
-      "fecha": "2026-10-06T12:13+00:00",
-      "partidos": [
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "Feijóo ve la amnistía \"otro engaño más\" de Sánchez: \"Vender favores a cambio de poder debe castigarse en las urnas\"",
-      "medio": "Europa Press",
-      "url": "https://www.europapress.es/nacional/noticia-feijoo-ve-amnistia-otro-engano-mas-sanchez-vender-favores-cambio-poder-debe-castigarse-urnas-20261006141229.html",
-      "fecha": "2026-10-06T12:12+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Junts deja en manos de Puigdemont los detalles sobre el regreso a Catalunya, todavía sin fecha",
-      "medio": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/politica/20261006/11652419/junts-deja-manos-puigdemont-detalles-sobre-regreso-catalunya-todavia-fecha.html",
-      "fecha": "2026-10-06T12:09+00:00",
-      "partidos": [
-        "junts"
-      ]
-    },
-    {
-      "titulo": "Claves de la amnistía | ¿Cuándo puede volver Puigdemont? ¿Junqueras podrá presentarse a unas elecciones?",
-      "medio": "El País",
-      "url": "https://elpais.com/espana/2026-10-06/el-supremo-levantara-la-orden-de-detencion-de-puigdemont-cuando-reciba-la-sentencia-del-constitucional.html",
-      "fecha": "2026-10-06T12:03+00:00",
-      "partidos": [
-        "junts"
-      ]
-    },
-    {
-      "titulo": "Sánchez, tras el aval del Constitucional a amnistiar a Puigdemont: \"No lo hicimos por ningún líder, sino por la convivencia\"",
-      "medio": "elDiario.es",
-      "url": "https://www.eldiario.es/politica/sanchez-aval-constitucional-amnistiar-puigdemont-no-hicimos-lider-convivencia_1_13566194.html",
-      "fecha": "2026-10-06T12:01+00:00",
-      "partidos": [
-        "junts"
-      ]
-    },
-    {
-      "titulo": "Pedro Sánchez arrancará la campaña del 29-N el sábado en Dos Hermanas, su ciudad 'talismán'",
-      "medio": "El Mundo",
-      "url": "https://www.elmundo.es/espana/2026/10/06/6ac4e006e4d4d8c8698b4573.html",
-      "fecha": "2026-10-06T11:58+00:00",
-      "partidos": [
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "Sánchez asegura no arrepentirse de la amnistía, pese al golpe de Junts que precipita las elecciones del 29-N",
-      "medio": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/politica/20261006/11652395/sanchez-asegura-arrepentirse-amnistia-pese-golpe-junts-precipita-elecciones-29-n.html",
-      "fecha": "2026-10-06T11:55+00:00",
-      "partidos": [
-        "junts"
-      ]
-    },
-    {
-      "titulo": "Estas son las únicas provincias donde puedes votar a Bildu, ERC, Adelante Andalucía o BNG",
-      "medio": "20minutos",
-      "url": "https://www.20minutos.es/nacional/unicas-provincias-donde-puedes-votar-bildu-erc-adelante-andalucia-bng_7045440_0.html",
-      "fecha": "2026-10-06T11:53+00:00",
-      "partidos": [
-        "erc",
-        "bildu",
-        "bng"
-      ]
-    },
-    {
-      "titulo": "La encuesta interna que convenció a Sánchez para adelantar las elecciones: Vox se dispara y hay 15 escaños en juego entre bloques",
-      "medio": "El Mundo",
-      "url": "https://www.elmundo.es/espana/2026/10/06/6ac4d9a1fc6c83560c8b4586.html",
-      "fecha": "2026-10-06T11:50+00:00",
-      "partidos": [
-        "vox"
-      ]
-    },
-    {
-      "titulo": "Sánchez atribuye las dudas de PP y Vox sobre el voto por correo a que \"no ven tan evidente\" su victoria el 29N",
-      "medio": "Europa Press",
-      "url": "https://www.europapress.es/nacional/noticia-sanchez-atribuye-dudas-pp-vox-voto-correo-no-ven-tan-evidente-victoria-29n-20261006134759.html",
-      "fecha": "2026-10-06T11:47+00:00",
-      "partidos": [
-        "pp",
-        "vox"
-      ]
-    },
-    {
-      "titulo": "Quién es Pepa Millán: la portavoz más joven de la historia del Congreso que lidera a Vox en la Cámara",
-      "medio": "El Confidencial",
-      "url": "https://www.elconfidencial.com/espana/2026-10-06/quien-pepa-millan-portavoz-portavoz-joven-historia-congreso_4439266/",
-      "fecha": "2026-10-06T11:42+00:00",
-      "partidos": [
-        "vox"
       ]
     }
   ]
