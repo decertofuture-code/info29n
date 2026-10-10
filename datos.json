@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-10T05:04+00:00",
+  "actualizado": "2026-10-10T09:17+00:00",
   "temas": [
     {
       "id": "vivienda",
@@ -392,6 +392,72 @@
     }
   ],
   "noticias": [
+    {
+      "titulo": "Sigue en directo el acto de precampaña de Feijóo junto Ayuso y Almeida en Madrid",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/sigue-directo-intervencion-feijoo-acto-junto-ayuso-20261010103859-nt.html",
+      "fecha": "2026-10-10T08:40+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "Vox ve las elecciones del 29-N como la “última oportunidad” de “recuperar” España y alerta: “Puede volver a ganar Sánchez”",
+      "medio": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/politica/20261010/11655876/vox-ve-elecciones-29-n-ultima-oportunidad-recuperar-espana-alerta-volver-ganar-sanchez.html",
+      "fecha": "2026-10-10T08:37+00:00",
+      "partidos": [
+        "vox"
+      ]
+    },
+    {
+      "titulo": "ERC y Bildu reeditan su coalición en el Senado para las elecciones generales del 29-N",
+      "medio": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/politica/20261010/11655849/erc-bildu-reeditan-coalicion-senado-elecciones-generales-29-n.html",
+      "fecha": "2026-10-10T07:20+00:00",
+      "partidos": [
+        "erc",
+        "bildu"
+      ]
+    },
+    {
+      "titulo": "Patxi López lamenta que Junts se haya enrocado en el 'no' al final de la legislatura: \"Es una cosa para estudiar\"",
+      "medio": "Europa Press",
+      "url": "https://www.europapress.es/nacional/noticia-patxi-lopez-lamenta-junts-haya-enrocado-no-final-legislatura-cosa-estudiar-20261010091448.html",
+      "fecha": "2026-10-10T07:14+00:00",
+      "partidos": [
+        "junts"
+      ]
+    },
+    {
+      "titulo": "EH Bildu y ERC reeditan su coalición y se presentarán juntos al Senado",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/politica/eh-bildu-erc-reeditan-coalicion-presentan-senado_1_13576976.html",
+      "fecha": "2026-10-10T06:52+00:00",
+      "partidos": [
+        "erc",
+        "bildu"
+      ]
+    },
+    {
+      "titulo": "29N.- El PP parte con ventaja frente al PSOE en el Senado antes de las elecciones: 23 escaños frente a 19",
+      "medio": "Europa Press",
+      "url": "https://www.europapress.es/nacional/noticia-29n-pp-parte-ventaja-frente-psoe-senado-antes-elecciones-23-escanos-frente-19-20261010082955.html",
+      "fecha": "2026-10-10T06:29+00:00",
+      "partidos": [
+        "pp",
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "El PP contrapondrá sus propuestas con los últimos años de escándalos de Sánchez en una campaña electoral que prevé \"muy sucia\"",
+      "medio": "20minutos",
+      "url": "https://www.20minutos.es/nacional/pp-contrapondra-sus-propuestas-con-los-ultimos-anos-escandalos-sanchez-una-campana-electoral-que-preve-muy-sucia_7046763_0.html",
+      "fecha": "2026-10-10T05:44+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
     {
       "titulo": "El PSOE busca alianzas para evitar otra mayoría absoluta del PP en el Senado",
       "medio": "La Vanguardia",
@@ -3079,72 +3145,6 @@
       "fecha": "2026-10-06T14:10+00:00",
       "partidos": [
         "psoe"
-      ]
-    },
-    {
-      "titulo": "'Caso Cloacas': Pedraz reclama al PSOE datos de todos los abogados que ha contratado e imputa a Nervis Villalobos por lograr la nacionalidad con documentos falsos",
-      "medio": "El Mundo",
-      "url": "https://www.elmundo.es/espana/2026/10/06/6ac4f2a9fc6c8325798b457c.html",
-      "fecha": "2026-10-06T13:48+00:00",
-      "partidos": [
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "El juez Pedraz pide al PSOE datos sobre el fichaje de los abogados de las cloacas y pregunta a Fiscalía si debe imputar al partido",
-      "medio": "20minutos",
-      "url": "https://www.20minutos.es/nacional/juez-pedraz-pide-psoe-datos-sobre-fichaje-los-abogados-las-cloacas-pregunta-fiscalia-si-debe-imputar-partido_7045545_0.html",
-      "fecha": "2026-10-06T13:48+00:00",
-      "partidos": [
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "PP y Vox rechazan poner tope a los alquileres en Balears mientras las protestas por la vivienda prenden en la calle",
-      "medio": "elDiario.es",
-      "url": "https://www.eldiario.es/illes-balears/politica/pp-vox-rechazan-poner-tope-alquileres-balears-protestas-vivienda-prenden-calle_1_13565371.html",
-      "fecha": "2026-10-06T13:38+00:00",
-      "partidos": [
-        "pp",
-        "vox"
-      ]
-    },
-    {
-      "titulo": "El juez del caso cloacas pide al PSOE una lista de los abogados y consultores que contrató entre 2021 y 2025",
-      "medio": "El Confidencial",
-      "url": "https://www.elconfidencial.com/espana/2026-10-06/el-juez-del-caso-cloacas-pide-al-psoe-una-lista-de-los-abogados-y-consultores-que-contrato-entre-2021-y-2025_4439493/",
-      "fecha": "2026-10-06T13:07+00:00",
-      "partidos": [
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "El PP pide la imputación del PSOE a la Audiencia Nacional en el primer día de precampaña",
-      "medio": "El País",
-      "url": "https://elpais.com/espana/2026-10-06/el-pp-pide-la-imputacion-del-psoe-a-la-audiencia-nacional-en-el-primer-dia-de-precampana.html",
-      "fecha": "2026-10-06T13:00+00:00",
-      "partidos": [
-        "pp",
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "El juez pide a Anticorrupción que se pronuncie sobre la petición del PP para imputar ya al PSOE",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/juez-pide-anticorrupcion-pronuncie-sobre-peticion-pp-20261006145822-nt.html",
-      "fecha": "2026-10-06T12:58+00:00",
-      "partidos": [
-        "pp",
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "Feijóo, sobre el fallo de TC: «Nada puede borrar que la amnistía es otro engaño más de Sánchez»",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/pp-cree-fallo-supremo-fin-transaccion-gobierno-20261006135411-nt.html",
-      "fecha": "2026-10-06T12:48+00:00",
-      "partidos": [
-        "pp"
       ]
     }
   ]
