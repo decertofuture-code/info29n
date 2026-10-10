@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-10T09:17+00:00",
+  "actualizado": "2026-10-10T13:17+00:00",
   "temas": [
     {
       "id": "vivienda",
@@ -392,6 +392,116 @@
     }
   ],
   "noticias": [
+    {
+      "titulo": "Feijóo se compromete a ser «el presidente que España está esperando»: «Vamos a ganar y gobernar»",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/feijoo-compromete-presidente-espana-esperando-vamos-ganar-20261010135221-nt.html",
+      "fecha": "2026-10-10T13:06+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "Pedro Sánchez se reivindica en Dos Hermanas como «un perro sin amo» y azuza el miedo hacia los «lobos» de la derecha",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/andalucia/pedro-sanchez-reivindica-dos-hermanas-perro-amo-20261010141756-nts.html",
+      "fecha": "2026-10-10T12:58+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "Irene Montero arremete contra el PSOE y pide llenar el Congreso de \"Robin Hood\" que cojan el dinero de ricos para la \"gente trabajadora\"",
+      "medio": "20minutos",
+      "url": "https://www.20minutos.es/nacional/irene-montero-arremete-contra-psoe-pide-llenar-congreso-robin-hood-que-cojan-dinero-ricos-para-gente-trabajadora_7047439_0.html",
+      "fecha": "2026-10-10T12:03+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "Feijóo pregunta a Sánchez quién dio la orden de \"deshacerse\" de la jueza Biedma y promete una \"reconstrucción nacional total\"",
+      "medio": "20minutos",
+      "url": "https://www.20minutos.es/nacional/feijoo-pregunta-sanchez-quien-dio-orden-deshacerse-juez-biedma-promete-reconstruccion-nacional-total_7047435_0.html",
+      "fecha": "2026-10-10T11:55+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "El PSOE ficha a los alcaldes de Rianxo y A Pobra para liderar sus candidaturas en 2027",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/galicia/psoe-ficha-alcaldes-rianxo-pobra-liderar-candidaturas-20261010134025-nt.html",
+      "fecha": "2026-10-10T11:40+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "Sánchez se reivindica como \"perro sin amo\" y pide urnas llenas frente al \"miedo\" de PP y Vox al voto por correo del 29N",
+      "medio": "Europa Press",
+      "url": "https://www.europapress.es/andalucia/noticia-sanchez-reivindica-perro-amo-pide-urnas-llenas-frente-miedo-pp-vox-voto-correo-29n-20261010133133.html",
+      "fecha": "2026-10-10T11:31+00:00",
+      "partidos": [
+        "pp",
+        "vox"
+      ]
+    },
+    {
+      "titulo": "Sigue en directo el acto de Pedro Sánchez en Dos Hermanas",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/sigue-directo-acto-pedro-sanchez-dos-hermanas-20261010120912-nt.html",
+      "fecha": "2026-10-10T11:27+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "Feijóo promete \"un Gobierno que pedirá sacrificios\" y Ayuso tilda de \"terroristas\" a los acampados en Sol",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/politica/feijoo-promete-gobierno-pedira-sacrificios-ayuso-tilda-terroristas-acampados-sol_1_13577261.html",
+      "fecha": "2026-10-10T11:19+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "Antidio Fagúndez y José Fernández repetirán como cabeza de lista al Congreso y número uno al Senado por el PSOE",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/castilla-leon/antidio-fagundez-jose-fernandez-repetiran-cabeza-lista-20261010131655-nt.html",
+      "fecha": "2026-10-10T11:19+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "Feijóo plantea un cambio “total” y “sereno” frente a Sánchez: “Lo vamos a echar con el voto de la gente”",
+      "medio": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/politica/20261010/11655919/feijoo-plantea-cambio-total-sereno-frente-sanchez-echar-voto-gente.html",
+      "fecha": "2026-10-10T10:41+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "ERC y EH Bildu reeditarán su coalición al Senado para hacer frente al \"bloque reaccionario\"",
+      "medio": "20minutos",
+      "url": "https://www.20minutos.es/nacional/erc-eh-bildu-reeditaran-su-coalicion-senado-para-hacer-frente-bloque-reaccionario_7047407_0.html",
+      "fecha": "2026-10-10T09:37+00:00",
+      "partidos": [
+        "erc",
+        "bildu"
+      ]
+    },
+    {
+      "titulo": "Patxi López lamenta que Junts se haya enrocado en el 'no' en el final de legislatura: \"Es una cosa para estudiar\"",
+      "medio": "20minutos",
+      "url": "https://www.20minutos.es/nacional/patxi-lopez-lamenta-que-junts-se-haya-enrocado-no-final-legislatura-es-una-cosa-para-estudiar_7047405_0.html",
+      "fecha": "2026-10-10T09:11+00:00",
+      "partidos": [
+        "junts"
+      ]
+    },
     {
       "titulo": "Sigue en directo el acto de precampaña de Feijóo junto Ayuso y Almeida en Madrid",
       "medio": "ABC",
@@ -3037,114 +3147,6 @@
       "fecha": "2026-10-06T16:17+00:00",
       "partidos": [
         "junts"
-      ]
-    },
-    {
-      "titulo": "Puigdemont: «La amnistía es la derrota de los poderes públicos españoles»",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/cataluna/puigdemont-amnistia-derrota-poderes-publicos-espanoles-20261006181215-nt.html",
-      "fecha": "2026-10-06T16:14+00:00",
-      "partidos": [
-        "junts"
-      ]
-    },
-    {
-      "titulo": "Llarena levanta la orden de detención de Puigdemont tras conocer el fallo del TC",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/llarena-levanta-orden-detencion-puigdemont-tras-conocer-20261006125040-nt.html",
-      "fecha": "2026-10-06T16:12+00:00",
-      "partidos": [
-        "junts"
-      ]
-    },
-    {
-      "titulo": "Susana Díaz cierra filas con Pedro Sánchez ante las elecciones generales: «No concuerdo con él en muchas cosas, pero es el mejor candidato para el PSOE»",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/andalucia/susana-diaz-concuerdo-sanchez-mejor-candidato-psoe-20261005111533-nts.html",
-      "fecha": "2026-10-06T16:10+00:00",
-      "partidos": [
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "Susana Díaz: «Yo soy del PSOE como soy del Betis y lo votaré siempre»",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/andalucia/susana-diaz-psoe-betis-votare-siempre-20261006171908-nts.html",
-      "fecha": "2026-10-06T15:46+00:00",
-      "partidos": [
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "El aval del TC a la Ley de Amnistía permitirá que Junts recupere el escaño de Toni Comín en el Parlamento Europeo",
-      "medio": "Europa Press",
-      "url": "https://www.europapress.es/nacional/noticia-aval-tc-ley-amnistia-permitira-junts-recupere-escano-parlamento-europeo-20261006174651.html",
-      "fecha": "2026-10-06T15:46+00:00",
-      "partidos": [
-        "junts"
-      ]
-    },
-    {
-      "titulo": "Puigdemont comparece tras la aplicación de la amnistía a los líderes del procés",
-      "medio": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/politica/20261006/11652356/puigdemont-comparece-aplicacion-amnistia-lideres-proces.html",
-      "fecha": "2026-10-06T15:30+00:00",
-      "partidos": [
-        "junts"
-      ]
-    },
-    {
-      "titulo": "El PNV anuncia que votará a favor del primer decreto de vivienda y allana su aprobación en la Diputación Permanente del Congreso",
-      "medio": "20minutos",
-      "url": "https://www.20minutos.es/nacional/pnv-votara-favor-primer-decreto-vivienda-contra-segundo-prorroga-indefinida-alquileres_7045628_0.html",
-      "fecha": "2026-10-06T15:11+00:00",
-      "partidos": [
-        "pnv"
-      ]
-    },
-    {
-      "titulo": "El voto del PNV permitirá aprobar el decreto de vivienda que tumbaron las derechas",
-      "medio": "El País",
-      "url": "https://elpais.com/espana/2026-10-06/el-pnv-volvera-a-apoyar-el-decreto-principal-de-vivienda.html",
-      "fecha": "2026-10-06T15:06+00:00",
-      "partidos": [
-        "pnv"
-      ]
-    },
-    {
-      "titulo": "El PNV confirma que salvará con su voto clave el principal decreto de vivienda en la Diputación Permanente",
-      "medio": "elDiario.es",
-      "url": "https://www.eldiario.es/euskadi/pnv-confirma-salvara-responsabilidad-decreto-desahucios-diputacion-permanente_1_13566946.html",
-      "fecha": "2026-10-06T14:57+00:00",
-      "partidos": [
-        "pnv"
-      ]
-    },
-    {
-      "titulo": "Cuándo puede volver Puigdemont a España tras quedar sin efecto la orden de detención",
-      "medio": "El Confidencial",
-      "url": "https://www.elconfidencial.com/espana/2026-10-06/cuando-puede-volver-puigdemont-tras-quedar-sin-efecto-detencion_4439571/",
-      "fecha": "2026-10-06T14:38+00:00",
-      "partidos": [
-        "junts"
-      ]
-    },
-    {
-      "titulo": "Vox amplía la querella contra la 'cloaca' y pide a Pedraz que investigue si se propuso asesinar a la juez del 'hermanísimo'",
-      "medio": "El Mundo",
-      "url": "https://www.elmundo.es/espana/2026/10/06/6ac505b8fdddff5f2b8b4591.html",
-      "fecha": "2026-10-06T14:34+00:00",
-      "partidos": [
-        "vox"
-      ]
-    },
-    {
-      "titulo": "Pedraz requiere nueva documentación al PSOE y pregunta a Anticorrupción sobre su imputación",
-      "medio": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/politica/20261006/11652541/pedraz-requiere-nueva-documentacion-psoe-pregunta-anticorrupcion-sobre-imputacion.html",
-      "fecha": "2026-10-06T14:10+00:00",
-      "partidos": [
-        "psoe"
       ]
     }
   ]
