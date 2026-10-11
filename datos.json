@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-11T09:18+00:00",
+  "actualizado": "2026-10-11T13:18+00:00",
   "temas": [
     {
       "id": "vivienda",
@@ -392,6 +392,157 @@
     }
   ],
   "noticias": [
+    {
+      "titulo": "Illa proclama a Jordi Hereu candidato del PSC a las elecciones generales y declara la guerra a Junts",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/cataluna/lla-proclama-jordi-hereu-candidato-psc-elecciones-20261011120838-nt.html",
+      "fecha": "2026-10-11T13:10+00:00",
+      "partidos": [
+        "junts"
+      ]
+    },
+    {
+      "titulo": "Ester Muñoz plantea una «reconstrucción nacional» de la mano del PP frente al PSOE de «las cloacas y las joyas»",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/castilla-leon/ester-munoz-plantea-reconstruccion-nacional-mano-pp-20261011145542-nt.html",
+      "fecha": "2026-10-11T12:57+00:00",
+      "partidos": [
+        "pp",
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "Pedro Sánchez promete «cuatro años más de progreso y justicia social para el Bierzo y el conjunto de León»",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/castilla-leon/pedro-sanchez-promete-cuatro-anos-progreso-justicia-20261011144734-nt.html",
+      "fecha": "2026-10-11T12:48+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "Rufián encabezará la candidatura de ERC por Barcelona para las elecciones del 29N",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/cataluna/rufian-encabezara-candidatura-erc-elecciones-29n-20261011121241-nt.html",
+      "fecha": "2026-10-11T12:48+00:00",
+      "partidos": [
+        "erc"
+      ]
+    },
+    {
+      "titulo": "Más Madrid invita a Podemos a unirse a la lista por Madrid liderada por Emilio Delgado",
+      "medio": "20minutos",
+      "url": "https://www.20minutos.es/nacional/mas-madrid-invita-podemos-unirse-lista-por-madrid-liderada-por-emilio-delgado_7047630_0.html",
+      "fecha": "2026-10-11T12:23+00:00",
+      "partidos": [
+        "podemos"
+      ]
+    },
+    {
+      "titulo": "Cendón compara a Pedro Sánchez con Tom Cruise: «La leyenda continúa, porque vas a volver a ganar las elecciones»",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/castilla-leon/cendon-compara-pedro-sanchez-tom-cruise-leyenda-20261011140945-nt.html",
+      "fecha": "2026-10-11T12:11+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "Sánchez pide al Supremo que \"frene el intento de atropello de Feijóo y Abascal\" contra la ley de nietos: \"¿Es constitucional?\"",
+      "medio": "20minutos",
+      "url": "https://www.20minutos.es/nacional/sanchez-pide-supremo-frene-intento-atropello-feijoo-abascal-garantice-voto-nietos-exilio_7047620_0.html",
+      "fecha": "2026-10-11T12:06+00:00",
+      "partidos": [
+        "pp",
+        "vox"
+      ]
+    },
+    {
+      "titulo": "El PP replica al PSOE que el “sacrificio” no tiene “nada que ver con los recortes”: “Si te esfuerzas, tienes recompensa”",
+      "medio": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/politica/20261011/11656532/pp-replica-psoe-sacrificio-ver-recortes-te-esfuerzas-tienes-recompensa.html",
+      "fecha": "2026-10-11T11:47+00:00",
+      "partidos": [
+        "pp",
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "Sánchez agita causas de izquierda para aglutinar voto: “La disyuntiva es Feijóo y Abascal o PSOE”",
+      "medio": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/politica/20261011/11656533/sanchez-agita-causas-izquierda-aglutinar-voto-disyuntiva-feijoo-abascal-psoe.html",
+      "fecha": "2026-10-11T11:40+00:00",
+      "partidos": [
+        "pp",
+        "psoe",
+        "vox"
+      ]
+    },
+    {
+      "titulo": "Sánchez pide al Supremo que frene el \"atropello\" de Feijóo y Abascal contra la ley de nietos",
+      "medio": "Europa Press",
+      "url": "https://www.europapress.es/nacional/noticia-sanchez-pide-supremo-frene-atropello-feijoo-abascal-contra-ley-nietos-20261011131447.html",
+      "fecha": "2026-10-11T11:14+00:00",
+      "partidos": [
+        "pp",
+        "vox"
+      ]
+    },
+    {
+      "titulo": "Illa encumbra a Jordi Hereu como candidato del PSC y declara la guerra a Junts: “¿Para qué sirves?”",
+      "medio": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/politica/20261011/11656509/illa-encumbra-jordi-hereu-candidato-psc-declara-guerra-junts-que-sirves.html",
+      "fecha": "2026-10-11T10:22+00:00",
+      "partidos": [
+        "junts"
+      ]
+    },
+    {
+      "titulo": "Gabriel Rufián encabezará la lista de ERC al Congreso en las elecciones generales",
+      "medio": "20minutos",
+      "url": "https://www.20minutos.es/nacional/gabriel-rufia-cabeza-lista-erc-congreso-elecciones-generales-noviembre-2026_7047601_0.html",
+      "fecha": "2026-10-11T10:19+00:00",
+      "partidos": [
+        "erc"
+      ]
+    },
+    {
+      "titulo": "Gabriel Rufián liderará la candidatura de ERC el 29-N y tiene cerca un acuerdo de colaboración con Podemos",
+      "medio": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/politica/20261011/11656507/gabriel-rufian-volvera-liderar-candidatura-erc-elecciones-29-n.html",
+      "fecha": "2026-10-11T10:07+00:00",
+      "partidos": [
+        "erc",
+        "podemos"
+      ]
+    },
+    {
+      "titulo": "ERC confirma a Rufián como cabeza de lista y cierra la puerta al Frente Amplio",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/catalunya/erc-confirma-rufian-cabeza-lista-cierra-puerta-frente-amplio_1_13577275.html",
+      "fecha": "2026-10-11T10:04+00:00",
+      "partidos": [
+        "erc"
+      ]
+    },
+    {
+      "titulo": "Mertxe Aizpurua no repetirá como candidata de EH Bildu al Congreso por decisión propia",
+      "medio": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/politica/20261011/11656480/mertxe-aizpurua-repetira-candidata-eh-bildu-congreso-decision-propia.html",
+      "fecha": "2026-10-11T09:25+00:00",
+      "partidos": [
+        "bildu"
+      ]
+    },
+    {
+      "titulo": "Vox propone construir \"masivamente\" vivienda social y adjudicarla con \"prioridad nacional\"",
+      "medio": "20minutos",
+      "url": "https://www.20minutos.es/nacional/vox-propone-construir-masivamente-vivienda-social-adjudicarla-con-prioridad-nacional_7047575_0.html",
+      "fecha": "2026-10-11T08:55+00:00",
+      "partidos": [
+        "vox"
+      ]
+    },
     {
       "titulo": "'Génova' cree que ya no funciona el \"miedo\" a Vox que agita el PSOE y que moviliza más la \"animadversión\" hacia Sánchez",
       "medio": "Europa Press",
@@ -2999,157 +3150,6 @@
       "fecha": "2026-10-07T07:09+00:00",
       "partidos": [
         "pp"
-      ]
-    },
-    {
-      "titulo": "Un estudio de opinión testa quién podría suceder a Page como presidente: no incluye a Tolón y sí a Paco Núñez (PP)",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/castilla-la-mancha/estudio-opinion-testa-suceder-page-presidente-incluye-20261006060003-nt.html",
-      "fecha": "2026-10-07T04:00+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "El TC, expectante ante el siguiente paso del Supremo con Puigdemont para zanjar la amnistía",
-      "medio": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/politica/20261007/11652734/tc-expectante-siguiente-paso-supremo-puigdemont-zanjar-amnistia.html",
-      "fecha": "2026-10-07T04:00+00:00",
-      "partidos": [
-        "junts"
-      ]
-    },
-    {
-      "titulo": "PP, Vox y Junts han votado ocho veces juntos contra decretos con medidas sobre vivienda",
-      "medio": "El País",
-      "url": "https://elpais.com/espana/2026-10-07/pp-vox-y-junts-han-votado-ocho-veces-juntos-contra-decretos-con-medidas-sobre-vivienda.html",
-      "fecha": "2026-10-07T03:30+00:00",
-      "partidos": [
-        "pp",
-        "vox",
-        "junts"
-      ]
-    },
-    {
-      "titulo": "Junts busca exprimir el regreso de Puigdemont para impactar en la campaña electoral",
-      "medio": "El País",
-      "url": "https://elpais.com/espana/catalunya/2026-10-07/junts-busca-exprimir-el-regreso-de-puigdemont-para-impactar-en-la-campana-electoral.html",
-      "fecha": "2026-10-07T03:30+00:00",
-      "partidos": [
-        "junts"
-      ]
-    },
-    {
-      "titulo": "La vuelta de Puigdemont",
-      "medio": "20minutos",
-      "url": "https://www.20minutos.es/nacional/vuelta-puigdemont-carmelo-encinas-proces-amnistia_7045761_3.html",
-      "fecha": "2026-10-07T03:02+00:00",
-      "partidos": [
-        "junts"
-      ]
-    },
-    {
-      "titulo": "Las encuestas en Cataluña lanzan a Orriols, meten miedo al PSC y dejan a Junts en manos de Puigdemont",
-      "medio": "El Confidencial",
-      "url": "https://www.elconfidencial.com/espana/cataluna/2026-10-07/encuestas-cataluna-orriols-miedo-psc-junts-puigdemont_4439721/",
-      "fecha": "2026-10-07T03:00+00:00",
-      "partidos": [
-        "junts"
-      ]
-    },
-    {
-      "titulo": "El PP rescata Ceuta y la corrupción para atacar al PSOE en campaña y mira de reojo al voto por correo",
-      "medio": "El Confidencial",
-      "url": "https://www.elconfidencial.com/espana/2026-10-07/pp-rescata-ceuta-corrupcion-atacar-psoe-campana-voto-correo_4439654/",
-      "fecha": "2026-10-07T03:00+00:00",
-      "partidos": [
-        "pp",
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "PSOE y Sumar se disputan la bandera de la vivienda en el primer pulso electoral de la coalición",
-      "medio": "20minutos",
-      "url": "https://www.20minutos.es/nacional/psoe-sumar-se-disputan-bandera-vivienda-primer-pulso-electoral-coalicion_7043857_0.html",
-      "fecha": "2026-10-07T03:00+00:00",
-      "partidos": [
-        "psoe",
-        "sumar"
-      ]
-    },
-    {
-      "titulo": "¿Cuándo volverá Puigdemont a España? Las claves de su regreso tras el levantamiento de la orden de detención",
-      "medio": "20minutos",
-      "url": "https://www.20minutos.es/cataluna/cuando-volvera-puigdemont-espana-las-claves-su-regreso-tras-levantamiento-orden-detencion_7045595_0.html",
-      "fecha": "2026-10-07T03:00+00:00",
-      "partidos": [
-        "junts"
-      ]
-    },
-    {
-      "titulo": "Los 70 diputados de Vox, el listón clave que espera el PSOE y que \"puede hacer la legislatura casi imposible\" para el PP",
-      "medio": "El Mundo",
-      "url": "https://www.elmundo.es/espana/2026/10/07/6ac53478e9cf4af3538b4577.html",
-      "fecha": "2026-10-06T23:36+00:00",
-      "partidos": [
-        "pp",
-        "psoe",
-        "vox"
-      ]
-    },
-    {
-      "titulo": "Puigdemont descarta un regreso inminente y delega en Nogueras el peso de la campaña del 29-N",
-      "medio": "El Mundo",
-      "url": "https://www.elmundo.es/cataluna/2026/10/07/6ac5508be85ececc648b45b9.html",
-      "fecha": "2026-10-06T23:36+00:00",
-      "partidos": [
-        "junts"
-      ]
-    },
-    {
-      "titulo": "Sánchez usará la Diputación Permanente para \"seguir gobernando\" y esquivar a PP y Junts",
-      "medio": "El Mundo",
-      "url": "https://www.elmundo.es/espana/2026/10/07/6ac53416e9cf4a86098b45a1.html",
-      "fecha": "2026-10-06T23:36+00:00",
-      "partidos": [
-        "pp",
-        "junts"
-      ]
-    },
-    {
-      "titulo": "Podemos escenificará unas primarias abiertas aunque se descuelgue Sumar",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/podemos-escenificara-primarias-abiertas-descuelgue-sumar-20261006012141-nt.html",
-      "fecha": "2026-10-06T23:22+00:00",
-      "partidos": [
-        "sumar"
-      ]
-    },
-    {
-      "titulo": "Moncloa cree que la vuelta de Puigdemont es un aval a su gestión y beneficia a Illa",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/moncloa-cree-vuelta-puigdemont-aval-gestion-beneficia-20261007012130-nt.html",
-      "fecha": "2026-10-06T23:21+00:00",
-      "partidos": [
-        "junts"
-      ]
-    },
-    {
-      "titulo": "El PP valenciano cierra filas para el 29-N con el objetivo de mejorar el resultado de 2023 y despejar dudas en Génova sobre Llorca",
-      "medio": "El Mundo",
-      "url": "https://www.elmundo.es/comunidad-valenciana/2026/10/07/6ac4f610e9cf4a35798b4573.html",
-      "fecha": "2026-10-06T22:00+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "El Colegio de Ingenieros que contrató al despacho del portavoz de Vox en València destina 25.000 euros a \"asesoría jurídica\"",
-      "medio": "elDiario.es",
-      "url": "https://www.eldiario.es/comunitat-valenciana/valencia/colegio-ingenieros-contrato-despacho-portavoz-vox-valencia-destina-25-000-euros-asesoria-juridica_1_13567186.html",
-      "fecha": "2026-10-06T21:57+00:00",
-      "partidos": [
-        "vox"
       ]
     }
   ]
