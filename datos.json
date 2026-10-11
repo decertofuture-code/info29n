@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-10T21:16+00:00",
+  "actualizado": "2026-10-11T05:05+00:00",
   "temas": [
     {
       "id": "vivienda",
@@ -393,10 +393,91 @@
   ],
   "noticias": [
     {
+      "titulo": "Feijóo arranca su precampaña de las elecciones del 29-N con una demostración de fortaleza en Madrid",
+      "medio": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/politica/20261011/11656082/feijoo-arranca-precampana-elecciones-29-n-demostracion-fortaleza-madrid.html",
+      "fecha": "2026-10-11T04:00+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "El dilema de Puigdemont sobre su regreso: entre la expectativa de bombazo electoral y el temor al pinchazo",
+      "medio": "El País",
+      "url": "https://elpais.com/espana/catalunya/2026-10-11/el-dilema-de-puigdemont-sobre-su-regreso-entre-la-expectativa-de-bombazo-electoral-y-el-temor-al-pinchazo.html",
+      "fecha": "2026-10-11T03:30+00:00",
+      "partidos": [
+        "junts"
+      ]
+    },
+    {
+      "titulo": "El 60% de la sociedad opina que Puigdemont no debería ser amnistiado ni volver a España",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/sociedad-opina-puigdemont-deberia-amnistiado-volver-espana-20261011021206-nt.html",
+      "fecha": "2026-10-11T00:12+00:00",
+      "partidos": [
+        "junts"
+      ]
+    },
+    {
+      "titulo": "Santiago Abascal: «Los españoles deben temerse lo peor. Van a ser unas elecciones muy complicadas y sucias»",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/santiago-abascal-espanoles-deben-temerse-peor-van-20261011021159-nt.html",
+      "fecha": "2026-10-11T00:12+00:00",
+      "partidos": [
+        "vox"
+      ]
+    },
+    {
+      "titulo": "Santiago Abascal: «La amistad con Marruecos ahora no es posible. Pedimos poco, que no nos invadan»",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/santiago-abascal-amistad-marruecos-posible-pedimos-poco-20261011021149-nt.html",
+      "fecha": "2026-10-11T00:12+00:00",
+      "partidos": [
+        "vox"
+      ]
+    },
+    {
+      "titulo": "El PSOE pone autobuses para poder llenar el primer mitin de Pedro Sánchez en su feudo histórico de Dos Hermanas",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/andalucia/psoe-necesita-poner-autobuses-llenar-primer-mitin-20261011012428-nts.html",
+      "fecha": "2026-10-10T23:24+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "Los críticos de Sánchez se ponen en alerta ante su campaña \"en rojo\": \"Busca quedarse en Ferraz con un resultado digno\"",
+      "medio": "El Mundo",
+      "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/10/11/6aca5993e4d4d8704b8b456f.html",
+      "fecha": "2026-10-10T22:09+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "Sánchez y Feijóo encaran su duelo electoral más cruento",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/politica/sanchez-feijoo-encaran-duelo-electoral-cruento_1_13574968.html",
+      "fecha": "2026-10-10T20:10+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
       "titulo": "María Rivas aspira a liderar la lista del PSOE al Congreso por La Coruña",
       "medio": "ABC",
       "url": "https://www.abc.es/espana/galicia/maria-rivas-aspira-liderar-lista-psoe-congreso-20261010210006-nt.html",
       "fecha": "2026-10-10T19:00+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "El PSOE arranca la precampaña con un amplio catálogo de insultos al \"perro\" Sánchez para tratar de movilizar a sus votantes",
+      "medio": "El Mundo",
+      "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/10/10/6aca5e98fc6c8301108b4571.html",
+      "fecha": "2026-10-10T17:19+00:00",
       "partidos": [
         "psoe"
       ]
@@ -556,6 +637,15 @@
       "medio": "El País",
       "url": "https://elpais.com/espana/elecciones-generales/2026-10-10/feijoo-asume-que-el-29n-sera-su-ultima-oportunidad-no-tenemos-derecho-a-fallar-no-vamos-a-fallar.html",
       "fecha": "2026-10-10T11:15+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "Feijóo lanza la precampaña prometiendo \"responder a la mafia con democracia\" y Ayuso carga contra la acampada de Sol manejada por \"un grupo con antecedentes terroristas\"",
+      "medio": "El Mundo",
+      "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/10/10/6aca1a56e4d4d847628b457b.html",
+      "fecha": "2026-10-10T11:00+00:00",
       "partidos": [
         "pp"
       ]
@@ -3058,98 +3148,6 @@
       "fecha": "2026-10-06T20:02+00:00",
       "partidos": [
         "junts"
-      ]
-    },
-    {
-      "titulo": "El PSOE balear lleva a una mujer desahuciada al pleno y acaba abrazada y llorando con Prohens",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/baleares/psoe-balear-lleva-mujer-desahuciada-pleno-acaba-20261006211524-nt.html",
-      "fecha": "2026-10-06T19:15+00:00",
-      "partidos": [
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "Pedro Sánchez vuelve al 'santuario' de Dos Hermanas como único superviviente del mítico Peugeot",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/andalucia/pedro-sanchez-vuelve-santuario-dos-hermanas-unico-20261006204532-nts.html",
-      "fecha": "2026-10-06T18:45+00:00",
-      "partidos": [
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "Sánchez reivindica la amnistía pero no se hará la foto con Puigdemont",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/sanchez-reivindica-amnistia-hara-foto-puigdemont-20261006152431-nt.html",
-      "fecha": "2026-10-06T18:26+00:00",
-      "partidos": [
-        "junts"
-      ]
-    },
-    {
-      "titulo": "Un obispo nacionalista y amigo de Puigdemont se perfila como sustituto de Omella al frente de la iglesia catalana",
-      "medio": "El Mundo",
-      "url": "https://www.elmundo.es/cataluna/2026/10/06/6ac53a4bfdddff1e5b8b45bf.html",
-      "fecha": "2026-10-06T18:21+00:00",
-      "partidos": [
-        "junts"
-      ]
-    },
-    {
-      "titulo": "Puigdemont aguardará al archivo de la causa en el Supremo para volver a Catalunya",
-      "medio": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/politica/20261006/11652725/puigdemont-aguardara-archivo-causa-supremo-volver-catalunya.html",
-      "fecha": "2026-10-06T18:03+00:00",
-      "partidos": [
-        "junts"
-      ]
-    },
-    {
-      "titulo": "Puigdemont descarta volver de forma inminente: lo hará cuando «se le aplique toda» la amnistía",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/cataluna/puigdemont-descarta-volver-forma-inminente-hara-aplique-20261006193230-nt.html",
-      "fecha": "2026-10-06T17:32+00:00",
-      "partidos": [
-        "junts"
-      ]
-    },
-    {
-      "titulo": "El PP denuncia ante la Junta Electoral el \"mitin\" de Sánchez tras el Consejo de Ministros",
-      "medio": "20minutos",
-      "url": "https://www.20minutos.es/nacional/pp-denuncia-ante-junta-electoral-mitin-sanchez-tras-consejo-ministros_7045675_0.html",
-      "fecha": "2026-10-06T16:48+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "El pleno del Parlamento evidencia la soledad del BNG ante el pacto lingüístico de PP y PSdeG",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/galicia/pacto-gallego-alla-aulas-ganar-terreno-redes-20261006183154-nt.html",
-      "fecha": "2026-10-06T16:44+00:00",
-      "partidos": [
-        "pp",
-        "bng"
-      ]
-    },
-    {
-      "titulo": "El PP denuncia a Sánchez ante la Junta Electoral Central por usar Moncloa «para dar un mitin del PSOE»",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/pp-denuncia-sanchez-ante-junta-electoral-central-20261006184346-nt.html",
-      "fecha": "2026-10-06T16:43+00:00",
-      "partidos": [
-        "pp",
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "El PP usa una queja por presunto acoso machista para forzar el desalojo de la acampada por la vivienda en Palma",
-      "medio": "elDiario.es",
-      "url": "https://www.eldiario.es/illes-balears/sociedad/pp-esgrime-queja-presunto-acoso-machista-forzar-desalojo-acampada-vivienda-palma_1_13566951.html",
-      "fecha": "2026-10-06T16:38+00:00",
-      "partidos": [
-        "pp"
       ]
     }
   ]
