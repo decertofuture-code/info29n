@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-11T17:16+00:00",
+  "actualizado": "2026-10-11T21:17+00:00",
   "temas": [
     {
       "id": "vivienda",
@@ -392,6 +392,80 @@
     }
   ],
   "noticias": [
+    {
+      "titulo": "Abascal se compromete al inicio de la precampaña a \"recuperar el poder para el ciudadano\"",
+      "medio": "El Confidencial",
+      "url": "https://www.elconfidencial.com/espana/2026-10-11/abascal-vox-elecciones-generales-1tna-1tps_4443121/",
+      "fecha": "2026-10-11T19:44+00:00",
+      "partidos": [
+        "vox"
+      ]
+    },
+    {
+      "titulo": "Abascal da comienzo a la precampaña de la «última oportunidad» en Estepona: «Es momento de dejar de soportar injusticias»",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/abascal-comienzo-precampana-ultima-oportunidad-estepona-momento-20261011195837-nt.html",
+      "fecha": "2026-10-11T19:32+00:00",
+      "partidos": [
+        "vox"
+      ]
+    },
+    {
+      "titulo": "¿En qué consiste y qué puede incluir el acuerdo que negocian ERC y Podemos para el 29-N?",
+      "medio": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/politica/elecciones/20261011/11656664/que-consiste-que-incluir-acuerdo-negocian-erc-29-n.html",
+      "fecha": "2026-10-11T18:54+00:00",
+      "partidos": [
+        "erc",
+        "podemos"
+      ]
+    },
+    {
+      "titulo": "Puigdemont, en París para asistir en el Olympia al 50 aniversario de María del Mar Bonet",
+      "medio": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/politica/20261011/11656650/puigdemont-paris-asistir-olympia-50-aniversario-maria-mar-bonet.html",
+      "fecha": "2026-10-11T18:17+00:00",
+      "partidos": [
+        "junts"
+      ]
+    },
+    {
+      "titulo": "Abascal abre la precampaña del 29N pidiendo no hacer caso a las encuestas porque son el \"principal enemigo\" para las elecciones",
+      "medio": "20minutos",
+      "url": "https://www.20minutos.es/nacional/abascal-abre-precampana-29n-pidiendo-no-hacer-caso-las-encuestas-porque-son-principal-enemigo-para-las-elecciones_7047678_0.html",
+      "fecha": "2026-10-11T18:02+00:00",
+      "partidos": [
+        "vox"
+      ]
+    },
+    {
+      "titulo": "Abascal dice que con Vox las pensiones se pagarán y habrá vivienda \"como sea\" y sigue llamando al voto presencial",
+      "medio": "Europa Press",
+      "url": "https://www.europapress.es/nacional/noticia-abascal-dice-vox-pensiones-pagaran-habra-vivienda-sea-sigue-llamando-voto-presencial-20261011195906.html",
+      "fecha": "2026-10-11T17:59+00:00",
+      "partidos": [
+        "vox"
+      ]
+    },
+    {
+      "titulo": "Abascal llama a evitar el “exceso de confianza” en las encuestas y avisa que Sánchez usará la “mentira” y la “violencia”",
+      "medio": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/politica/20261011/11656642/abascal-llama-evitar-exceso-confianza-encuestas-avisa-sanchez-usara-mentira-violencia.html",
+      "fecha": "2026-10-11T17:50+00:00",
+      "partidos": [
+        "vox"
+      ]
+    },
+    {
+      "titulo": "La decisión de Rufián sacude a la izquierda: opción de pacto inédito ERC-Podemos en Cataluña y nuevo giro en Frente Amplio",
+      "medio": "20minutos",
+      "url": "https://www.20minutos.es/nacional/decision-rufian-sacude-izquierda-opcion-pacto-inedito-erc-podemos-cataluna-nuevo-giro-frente-amplio_7047674_0.html",
+      "fecha": "2026-10-11T17:18+00:00",
+      "partidos": [
+        "erc",
+        "podemos"
+      ]
+    },
     {
       "titulo": "Besteiro confirma que no será candidato al Congreso y defiende al PSOE como «voto útil»",
       "medio": "ABC",
@@ -3075,79 +3149,6 @@
       "fecha": "2026-10-07T11:25+00:00",
       "partidos": [
         "psoe",
-        "vox"
-      ]
-    },
-    {
-      "titulo": "El PP de Ayuso difunde un vídeo con IA que advierte de que Sánchez \"nos quiere llevar a una dictadura\": \"No votes por correo\"",
-      "medio": "elDiario.es",
-      "url": "https://www.eldiario.es/rastreador/pp-ayuso-difunde-video-ia-advierte-sanchez-quiere-llevar-dictadura-no-votes-correo_132_13568556.html",
-      "fecha": "2026-10-07T11:01+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "¿Cuánto tiempo lleva Pedro Sánchez como presidente del Gobierno de España?",
-      "medio": "20minutos",
-      "url": "https://www.20minutos.es/nacional/cuanto-tiempo-lleva-pedro-sanchez-presidente-gobierno-espana_7045862_0.html",
-      "fecha": "2026-10-07T10:51+00:00",
-      "partidos": [
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "El PSOE balear busca su 'efecto Maricarmen' con el drama de Pilar: la mujer desahuciada que lloró ante la presidenta Prohens",
-      "medio": "El Mundo",
-      "url": "https://www.elmundo.es/baleares/2026/10/07/6ac6148221efa0b7728b4585.html",
-      "fecha": "2026-10-07T10:49+00:00",
-      "partidos": [
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "Figuras próximas a Puigdemont alientan un retorno después de las elecciones del 29-N",
-      "medio": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/politica/20261007/11653197/figuras-proximas-piugdemont-alientan-retorno-elecciones-29-n.html",
-      "fecha": "2026-10-07T10:11+00:00",
-      "partidos": [
-        "junts"
-      ]
-    },
-    {
-      "titulo": "El PSOE acusa de racismo al Gobierno de Guardiola tras vaciar los fondos para menores migrantes, en manos de Vox",
-      "medio": "elDiario.es",
-      "url": "https://www.eldiario.es/extremadura/politica/psoe-acusa-racismo-gobierno-guardiola-vaciar-fondos-menores-migrantes-manos-vox_1_13568492.html",
-      "fecha": "2026-10-07T09:58+00:00",
-      "partidos": [
-        "psoe",
-        "vox"
-      ]
-    },
-    {
-      "titulo": "Turull descarta que Junts invista a Sánchez tras el 29N: \"Hemos salido escarmentados\"",
-      "medio": "elDiario.es",
-      "url": "https://www.eldiario.es/catalunya/turull-descarta-junts-invista-sanchez-29n-hemos-salido-escarmentados_1_13568472.html",
-      "fecha": "2026-10-07T09:45+00:00",
-      "partidos": [
-        "junts"
-      ]
-    },
-    {
-      "titulo": "Turull descarta volver a apoyar una investidura de Pedro Sánchez tras las elecciones del 29-N",
-      "medio": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/politica/20261007/11653142/turull-descarta-volver-apoyar-investidura-pedro-sanchez-elecciones-29-n.html",
-      "fecha": "2026-10-07T09:07+00:00",
-      "partidos": [
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "Abascal arremete contra Sánchez: \"Primero arruina a los españoles, luego les insulta comprándoles el voto\"",
-      "medio": "Europa Press",
-      "url": "https://www.europapress.es/nacional/noticia-abascal-arremete-contra-sanchez-primero-arruina-espanoles-luego-les-insulta-comprandoles-voto-20261007110745.html",
-      "fecha": "2026-10-07T09:07+00:00",
-      "partidos": [
         "vox"
       ]
     }
