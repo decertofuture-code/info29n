@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-11T05:05+00:00",
+  "actualizado": "2026-10-11T09:18+00:00",
   "temas": [
     {
       "id": "vivienda",
@@ -392,6 +392,82 @@
     }
   ],
   "noticias": [
+    {
+      "titulo": "'Génova' cree que ya no funciona el \"miedo\" a Vox que agita el PSOE y que moviliza más la \"animadversión\" hacia Sánchez",
+      "medio": "Europa Press",
+      "url": "https://www.europapress.es/nacional/noticia-genova-cree-ya-no-funciona-miedo-vox-agita-psoe-moviliza-mas-animadversion-sanchez-20261011103946.html",
+      "fecha": "2026-10-11T08:39+00:00",
+      "partidos": [
+        "pp",
+        "psoe",
+        "vox"
+      ]
+    },
+    {
+      "titulo": "Mertxe Aizpurua no repetirá como candidata de EH Bildu al Congreso el 29-N",
+      "medio": "El País",
+      "url": "https://elpais.com/espana/elecciones-generales/2026-10-11/mertxe-aizpurua-no-repetira-como-candidata-de-eh-bildu-al-congreso-el-29-n.html",
+      "fecha": "2026-10-11T08:35+00:00",
+      "partidos": [
+        "bildu"
+      ]
+    },
+    {
+      "titulo": "Mertxe Aizpurua no será candidata de EH Bildu al Congreso por decisión propia",
+      "medio": "20minutos",
+      "url": "https://www.20minutos.es/nacional/mertxe-aizpurua-no-sera-candidata-eh-bildu-congreso-por-decision-propia_7047565_0.html",
+      "fecha": "2026-10-11T08:15+00:00",
+      "partidos": [
+        "bildu"
+      ]
+    },
+    {
+      "titulo": "Sigue en directo el acto de Pedro Sánchez en Ponferrada",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/sigue-directo-acto-pedro-sanchez-ponferrada-20261011094659-nt.html",
+      "fecha": "2026-10-11T07:47+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "Así ha sido la presión cordobesa de PP y Vox al Gobierno en las Cortes en toda la legislatura: 12.219 preguntas",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/andalucia/cordoba/presion-cordobesa-pp-vox-gobierno-cortes-legislatura-20261011093452-nts.html",
+      "fecha": "2026-10-11T07:34+00:00",
+      "partidos": [
+        "pp",
+        "vox"
+      ]
+    },
+    {
+      "titulo": "Mertxe Aizpurua no irá en las listas de EH Bildu para las generales y no continuará en el Congreso",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/euskadi/mertxe-aizpurua-no-ira-listas-eh-bildu-generales-no-continuara-congreso_1_13578124.html",
+      "fecha": "2026-10-11T07:21+00:00",
+      "partidos": [
+        "bildu"
+      ]
+    },
+    {
+      "titulo": "Sigue el incendio interno en el PNV: Aitor Esteban cuestiona abiertamente la salida de Elixabete Etxanobe de Bizkaia",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/euskadi/sigue-incendio-interno-pnv-aitor-esteban-cuestiona-abiertamente-salida-elixabete-etxanobe-bizkaia_1_13578052.html",
+      "fecha": "2026-10-11T06:42+00:00",
+      "partidos": [
+        "pnv"
+      ]
+    },
+    {
+      "titulo": "Las tres vías de Sánchez para optimizar votos el 29N: épica de remontada, Vox al alza a costa del PP y explorar listas conjuntas al Senado",
+      "medio": "20minutos",
+      "url": "https://www.20minutos.es/nacional/las-tres-vias-sanchez-para-optimizar-votos-29n-epica-remontada-vox-alza-costa-pp-explorar-listas-conjuntas-senado_7046247_0.html",
+      "fecha": "2026-10-11T05:55+00:00",
+      "partidos": [
+        "pp",
+        "vox"
+      ]
+    },
     {
       "titulo": "Feijóo arranca su precampaña de las elecciones del 29-N con una demostración de fortaleza en Madrid",
       "medio": "La Vanguardia",
@@ -3074,80 +3150,6 @@
       "fecha": "2026-10-06T21:57+00:00",
       "partidos": [
         "vox"
-      ]
-    },
-    {
-      "titulo": "El PSOE exprime el caos de Sumar y se lanza a laminar a sus socios en las provincias medianas y pequeñas con el voto útil",
-      "medio": "El Mundo",
-      "url": "https://www.elmundo.es/espana/2026/10/06/6ac54230fc6c83251f8b459c.html",
-      "fecha": "2026-10-06T20:48+00:00",
-      "partidos": [
-        "psoe",
-        "sumar"
-      ]
-    },
-    {
-      "titulo": "Feijóo arenga al PP para que no se confíe: \"Sois mi ejército y ésta es la madre de todas las batallas, no podemos fallar\"",
-      "medio": "El Mundo",
-      "url": "https://www.elmundo.es/espana/2026/10/06/6ac533f4e9cf4a30408b4577.html",
-      "fecha": "2026-10-06T20:48+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "El PP inaugura la precampaña del 29N con una nueva ofensiva en los tribunales contra el PSOE",
-      "medio": "elDiario.es",
-      "url": "https://www.eldiario.es/politica/pp-inaugura-precampana-29n-nueva-ofensiva-tribunales-psoe_1_13566904.html",
-      "fecha": "2026-10-06T20:02+00:00",
-      "partidos": [
-        "pp",
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "Por qué Ayuso y Abascal tiran del manual de la ultraderecha para cuestionar las elecciones",
-      "medio": "elDiario.es",
-      "url": "https://www.eldiario.es/internacional/ayuso-abascal-tiran-manual-ultraderecha-cuestionar-elecciones_1_13567145.html",
-      "fecha": "2026-10-06T20:02+00:00",
-      "partidos": [
-        "vox"
-      ]
-    },
-    {
-      "titulo": "Puigdemont no aclara cuándo regresará a Catalunya y se plantea volver tras el 29N",
-      "medio": "elDiario.es",
-      "url": "https://www.eldiario.es/catalunya/puigdemont-no-aclara-regresara-catalunya-plantea-volver-29n_1_13566601.html",
-      "fecha": "2026-10-06T20:02+00:00",
-      "partidos": [
-        "junts"
-      ]
-    },
-    {
-      "titulo": "El regreso de Puigdemont, una buena noticia",
-      "medio": "elDiario.es",
-      "url": "https://www.eldiario.es/opinion/zona-critica/regreso-puigdemont-buena-noticia_129_13567571.html",
-      "fecha": "2026-10-06T20:02+00:00",
-      "partidos": [
-        "junts"
-      ]
-    },
-    {
-      "titulo": "\"Nada que decir\": el PP guarda silencio sobre las cuatro macrogranjas que un diputado quiere aprobar en suelo familiar",
-      "medio": "elDiario.es",
-      "url": "https://www.eldiario.es/aragon/politica/decir-pp-guarda-silencio-cuatro-macrogranjas-diputado-quiere-aprobar-suelo-familiar_1_13566549.html",
-      "fecha": "2026-10-06T20:02+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Puigdemont ya puede volver",
-      "medio": "elDiario.es",
-      "url": "https://www.eldiario.es/opinion/puigdemont-volver_131_13567667.html",
-      "fecha": "2026-10-06T20:02+00:00",
-      "partidos": [
-        "junts"
       ]
     }
   ]
