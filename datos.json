@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-11T13:18+00:00",
+  "actualizado": "2026-10-11T17:16+00:00",
   "temas": [
     {
       "id": "vivienda",
@@ -392,6 +392,61 @@
     }
   ],
   "noticias": [
+    {
+      "titulo": "Besteiro confirma que no será candidato al Congreso y defiende al PSOE como «voto útil»",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/galicia/besteiro-confirma-candidato-congreso-defiende-psoe-voto-20261011170815-nt.html",
+      "fecha": "2026-10-11T16:34+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "Podemos y ERC, «muy cerca» de un pacto en Cataluña al margen del Frente Amplio",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/madrid-propone-emilio-delgado-delante-monica-garcia-20261011140034-nt.html",
+      "fecha": "2026-10-11T16:25+00:00",
+      "partidos": [
+        "erc"
+      ]
+    },
+    {
+      "titulo": "La decisión de Rufián sacude a la izquierda: opción de pacto inédito ERC-Podemos y nuevo giro en Frente Amplio",
+      "medio": "Europa Press",
+      "url": "https://www.europapress.es/nacional/noticia-decision-rufian-sacude-izquierda-opcion-pacto-inedito-erc-podemos-nuevo-giro-frente-amplio-20261011174549.html",
+      "fecha": "2026-10-11T15:45+00:00",
+      "partidos": [
+        "erc",
+        "podemos"
+      ]
+    },
+    {
+      "titulo": "Francesc-Marc Álvaro será el cabeza de lista de ERC al Senado por Barcelona el 29-N",
+      "medio": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/politica/20261011/11656609/francesc-marc-alvaro-sera-cabeza-lista-erc-senado-barcelona-29-n.html",
+      "fecha": "2026-10-11T15:42+00:00",
+      "partidos": [
+        "erc"
+      ]
+    },
+    {
+      "titulo": "El PP de Cuenca respalda a Feijóo en el inicio de la precampaña electoral: «Es una etapa ilusionante»",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/castilla-la-mancha/pp-cuenca-respalda-feijoo-precampana-electoral-inicio-20261011165316-nt.html",
+      "fecha": "2026-10-11T14:55+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "ERC y Podem ultiman un acuerdo para concurrir juntos en Cataluña a las generales",
+      "medio": "20minutos",
+      "url": "https://www.20minutos.es/nacional/erc-podem-ultiman-un-acuerdo-para-concurrir-juntos-cataluna-las-generales_7047645_0.html",
+      "fecha": "2026-10-11T14:25+00:00",
+      "partidos": [
+        "erc"
+      ]
+    },
     {
       "titulo": "Illa proclama a Jordi Hereu candidato del PSC a las elecciones generales y declara la guerra a Junts",
       "medio": "ABC",
@@ -3094,62 +3149,6 @@
       "fecha": "2026-10-07T09:07+00:00",
       "partidos": [
         "vox"
-      ]
-    },
-    {
-      "titulo": "IU abre las puertas del Frente Amplio a Podemos: \"Aquí tiene cabida toda la izquierda transformadora\"",
-      "medio": "elDiario.es",
-      "url": "https://www.eldiario.es/politica/iu-abre-puertas-frente-amplio-cabida-izquierda-trasformadora_1_13568008.html",
-      "fecha": "2026-10-07T09:00+00:00",
-      "partidos": [
-        "podemos"
-      ]
-    },
-    {
-      "titulo": "Urtasun acusa a Feijóo de estar \"entregado al trumpismo\" y asegura que el voto por correo español es envidiable",
-      "medio": "Europa Press",
-      "url": "https://www.europapress.es/nacional/noticia-urtasun-acusa-feijoo-estar-entregado-trumpismo-asegura-voto-correo-espanol-envidiable-20261007095514.html",
-      "fecha": "2026-10-07T07:55+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Sémper contradice a Ayuso y aclara la postura del PP sobre el voto por correo: \"Nuestro sistema es garantista\"",
-      "medio": "El Mundo",
-      "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/10/07/6ac5f6ccfc6c83a02d8b4593.html",
-      "fecha": "2026-10-07T07:51+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "El Gobierno reivindica la amnistía: “Puigdemont podría regresar hoy si quisiera”",
-      "medio": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/politica/20261007/11653050/gobierno-reivindica-amnistia-puigdemont-regresar-hoy-quisiera.html",
-      "fecha": "2026-10-07T07:30+00:00",
-      "partidos": [
-        "junts"
-      ]
-    },
-    {
-      "titulo": "Encuestas elecciones Cataluña: resultados de Aliança Catalana, PSC, Junts, PP y Vox y ganador según los sondeos",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/cataluna/encuestas-elecciones-cataluna-resultados-catalanas-segun-ultimas-20261007212057-nt.html",
-      "fecha": "2026-10-07T07:20+00:00",
-      "partidos": [
-        "pp",
-        "vox",
-        "junts"
-      ]
-    },
-    {
-      "titulo": "El PP avanza un mitin de Feijóo con Ayuso el sábado en Madrid y reta a Sánchez a ir con Zapatero al suyo en Sevilla",
-      "medio": "Europa Press",
-      "url": "https://www.europapress.es/nacional/noticia-pp-avanza-mitin-feijoo-ayuso-sabado-madrid-reta-sanchez-ir-zapatero-suyo-sevilla-20261007090946.html",
-      "fecha": "2026-10-07T07:09+00:00",
-      "partidos": [
-        "pp"
       ]
     }
   ]
