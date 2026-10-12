@@ -2,7 +2,7 @@
   publish = "."
   command = ""
   # Solo se publica si cambian los archivos de la propia web (no los datos, scripts ni workflows).
-  ignore = "git diff --quiet $CACHED_COMMIT_REF $COMMIT_REF -- index.html privacidad.html og-image.png '*.woff2' netlify.toml estatico.css partido tema comparador img sitemap.xml robots.txt"
+  ignore = "git diff --quiet $CACHED_COMMIT_REF $COMMIT_REF -- index.html privacidad.html og-image.png '*.woff2' netlify.toml estatico.css partido tema comparador img sitemap.xml robots.txt 'google*.html'"
 
 [[headers]]
   for = "/datos.json"
