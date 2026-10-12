@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-12T17:18+00:00",
+  "actualizado": "2026-10-12T21:17+00:00",
   "temas": [
     {
       "id": "vivienda",
@@ -392,6 +392,80 @@
     }
   ],
   "noticias": [
+    {
+      "titulo": "El PP de Cádiz exige al alcalde de Algeciras que dimita al conocer otra denuncia por abuso sexual",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/andalucia/cadiz/genova-exige-alcalde-algeciras-dimita-conocer-denuncia-20261012213812-nts.html",
+      "fecha": "2026-10-12T20:32+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "Frente Amplio propone a Colau como candidata al 29-N y llama a Podemos a incorporarse pese a su pacto con ERC",
+      "medio": "El Confidencial",
+      "url": "https://www.elconfidencial.com/espana/2026-10-12/ada-colau-candidata-frente-amplio-elecciones-1tps_4443526/",
+      "fecha": "2026-10-12T20:17+00:00",
+      "partidos": [
+        "erc",
+        "podemos"
+      ]
+    },
+    {
+      "titulo": "El Frente Amplio propone a Ada Colau como candidata a la presidencia y deja abierta la integración de Podemos",
+      "medio": "El País",
+      "url": "https://elpais.com/espana/elecciones-generales/2026-10-12/el-frente-amplio-propone-a-ada-colau-como-candidata-a-la-presidencia-y-deja-abierta-la-integracion-de-podemos.html",
+      "fecha": "2026-10-12T18:15+00:00",
+      "partidos": [
+        "podemos"
+      ]
+    },
+    {
+      "titulo": "Frente Amplio confirma a Ada Colau como candidata el 29N y llama a Podemos a sumarse tras su acuerdo con Rufián",
+      "medio": "20minutos",
+      "url": "https://www.20minutos.es/nacional/frente-amplio-propone-ada-colau-como-cabeza-lista-las-elecciones-29n_7047873_0.html",
+      "fecha": "2026-10-12T18:10+00:00",
+      "partidos": [
+        "podemos"
+      ]
+    },
+    {
+      "titulo": "Santiago Abascal celebra en Ceuta junto a Bardella el 12 de Octubre",
+      "medio": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/politica/20261012/11657266/santiago-abascal-celebra-ceuta-bardella-12-octubre.html",
+      "fecha": "2026-10-12T18:07+00:00",
+      "partidos": [
+        "vox"
+      ]
+    },
+    {
+      "titulo": "Frente Amplio propone a Colau como candidata al 29N y llama a Podemos a incorporarse pese a su pacto con ERC",
+      "medio": "Europa Press",
+      "url": "https://www.europapress.es/nacional/noticia-partidos-frente-amplio-proponen-ada-colau-candidata-29n-20261012200309.html",
+      "fecha": "2026-10-12T18:03+00:00",
+      "partidos": [
+        "erc",
+        "podemos"
+      ]
+    },
+    {
+      "titulo": "El Frente Amplio responde al órdago de Podemos y Rufián: confirma a Colau como candidata y llama a Montero a sumarse",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/politica/frente-amplio-responde-ordago-rufian-confirma-colau-candidata-llama-montero-sumarse_1_13580395.html",
+      "fecha": "2026-10-12T17:56+00:00",
+      "partidos": [
+        "podemos"
+      ]
+    },
+    {
+      "titulo": "Primera crisis entre Illa y ERC por la gestión de TV3 a causa de un reportaje sobre vacunas",
+      "medio": "El Confidencial",
+      "url": "https://www.elconfidencial.com/espana/2026-10-12/primera-crisis-illa-erc-gestion-tv3-vacunas_4443365/",
+      "fecha": "2026-10-12T17:45+00:00",
+      "partidos": [
+        "erc"
+      ]
+    },
     {
       "titulo": "El 29-N acapara los corrillos en el Palacio Real: duelo de optimismo entre Sánchez y Feijóo",
       "medio": "ABC",
@@ -3093,79 +3167,6 @@
       "fecha": "2026-10-08T05:02+00:00",
       "partidos": [
         "psoe"
-      ]
-    },
-    {
-      "titulo": "La apuesta por Colau reordena la izquierda alternativa y facilitaría un pacto con Podemos",
-      "medio": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/politica/20261008/11653699/apuesta-mas-madrid-colau-reordena-izquierda-alternativa.html",
-      "fecha": "2026-10-08T04:00+00:00",
-      "partidos": [
-        "podemos"
-      ]
-    },
-    {
-      "titulo": "Sánchez apuesta por Catalunya como clave para ganar terreno al PP el 29-N",
-      "medio": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/politica/20261008/11653670/sanchez-apuesta-catalunya-clave-ganar-terreno-pp-29-n.html",
-      "fecha": "2026-10-08T04:00+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "El PP trata de centrar la campaña en la crisis migratoria ceutí y la corrupción",
-      "medio": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/politica/20261008/11653639/pp-trata-centrar-campana-crisis-migratoria-ceuti-corrupcion.html",
-      "fecha": "2026-10-08T04:00+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Ayuso arrastra a Feijóo al laberinto del voto por correo",
-      "medio": "El País",
-      "url": "https://elpais.com/espana/2026-10-08/ayuso-arrastra-a-feijoo-al-laberinto-del-voto-por-correo.html",
-      "fecha": "2026-10-08T03:30+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "La propuesta para que Colau lidere el Frente Amplio en las generales reabre el debate sobre el encaje de Podemos",
-      "medio": "El País",
-      "url": "https://elpais.com/espana/elecciones-generales/2026-10-08/la-propuesta-para-que-colau-lidere-el-frente-amplio-en-las-generales-reabre-el-debate-sobre-el-encaje-de-podemos.html",
-      "fecha": "2026-10-08T03:30+00:00",
-      "partidos": [
-        "podemos"
-      ]
-    },
-    {
-      "titulo": "Pucherazo en Correos, la teoría del submundo conspiranoico que se extiende por el PP y Vox",
-      "medio": "El País",
-      "url": "https://elpais.com/espana/2026-10-08/pucherazo-en-correos-la-teoria-del-submundo-conspiranoico-que-se-extiende-por-el-pp-y-vox.html",
-      "fecha": "2026-10-08T03:30+00:00",
-      "partidos": [
-        "pp",
-        "vox"
-      ]
-    },
-    {
-      "titulo": "La Generalitat y AVL se emplazan a trabajar de forma conjunta pese a la presión de Vox",
-      "medio": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/local/valencia/20261008/11653486/generalitat-avl-emplazan-trabajar-forma-conjunta-pese-presion-vox.html",
-      "fecha": "2026-10-08T03:30+00:00",
-      "partidos": [
-        "vox"
-      ]
-    },
-    {
-      "titulo": "Junts afronta un duro golpe electoral pero cierra filas con Puigdemont por no venir a España antes del 29-N",
-      "medio": "El Confidencial",
-      "url": "https://www.elconfidencial.com/espana/cataluna/2026-10-08/junts-crisis-electoral-cerrando-filas-puigdemont_4440529/",
-      "fecha": "2026-10-08T03:00+00:00",
-      "partidos": [
-        "junts"
       ]
     }
   ]
