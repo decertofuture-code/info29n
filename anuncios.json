@@ -1,0 +1,14 @@
+{
+  "anuncios": [
+    {
+      "id": "novedades-2026-10-13",
+      "hilo": [
+        {"texto": "Novedades en info29n.com para las elecciones del 29N. Te las contamos en este hilo 👇", "seccion": "inicio"},
+        {"texto": "Nuevo comparador «¿Quién propone qué?»: la postura de cada partido en 8 cuestiones clave, como el alquiler, el IRPF, la jornada laboral o las listas de espera, con la cita literal de su programa. Se irá completando según se publiquen los programas.", "seccion": "comparador"},
+        {"texto": "Nueva sección Partidos: toda la información de cada partido en una sola página. Sus propuestas, qué ha votado en el Congreso, los casos judiciales que le afectan y sus últimas noticias.", "seccion": "partidos"},
+        {"texto": "Hemos añadido dos votaciones del Congreso: el decreto ómnibus que incluía la subida de las pensiones (enero de 2026) y la ley de la Agencia Estatal de Salud Pública (marzo de 2025). Puedes ver qué votó cada partido.", "seccion": "votaciones"},
+        {"texto": "Y en «Cómo votar», una guía para comprobar el censo y tu mesa electoral. El plazo para consultarlo y reclamar errores termina el lunes 19 de octubre.", "seccion": "como-votar"}
+      ]
+    }
+  ]
+}
