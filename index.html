@@ -55,9 +55,6 @@ a{color:var(--civic)}
 html{caret-color:var(--accent);accent-color:var(--accent);scrollbar-color:color-mix(in srgb,var(--muted) 55%,transparent) transparent}
 a{text-underline-offset:.2em;text-decoration-thickness:1px}
 .calendar .d,.topics .pct,.countdown,.vote .meta,.vote b,.news-meta,.case .who,.steps b,.pg-head span{font-variant-numeric:tabular-nums}
-[role="tablist"].fade-r{mask-image:linear-gradient(to right,#000 calc(100% - 2.5rem),transparent);-webkit-mask-image:linear-gradient(to right,#000 calc(100% - 2.5rem),transparent)}
-[role="tablist"].fade-l{mask-image:linear-gradient(to left,#000 calc(100% - 2.5rem),transparent);-webkit-mask-image:linear-gradient(to left,#000 calc(100% - 2.5rem),transparent)}
-[role="tablist"].fade-l.fade-r{mask-image:linear-gradient(to right,transparent,#000 2.5rem,#000 calc(100% - 2.5rem),transparent);-webkit-mask-image:linear-gradient(to right,transparent,#000 2.5rem,#000 calc(100% - 2.5rem),transparent)}
 .loading{color:var(--muted)}
 @media (prefers-reduced-motion:reduce){.shortcuts a{transition:none}.shortcuts a:hover{transform:none}}
 
@@ -141,12 +138,7 @@ h2{font-size:1.6rem;margin:0 0 .5rem}
 
 .tabs{position:sticky;top:0;z-index:5;background:var(--paper);border-bottom:2px solid var(--line);
   margin:0 -1.25rem;padding:env(safe-area-inset-top,0px) 1.25rem 0}
-[role="tablist"]{display:flex;gap:.25rem;overflow-x:auto;scrollbar-width:none}
-[role="tablist"]::-webkit-scrollbar{display:none}
-[role="tab"]{font:inherit;font-size:1rem;flex:0 0 auto;cursor:pointer;background:none;border:0;
-  color:var(--muted);padding:.85rem .8rem .7rem;border-bottom:3px solid transparent;margin-bottom:-2px}
-[role="tab"][aria-selected="true"]{color:var(--ink);font-weight:700;border-bottom-color:var(--civic)}
-[role="tabpanel"]{border-top:0}
+.panel{border-top:0}
 header{padding:2rem 0 1.25rem}
 .shortcuts{display:grid;grid-template-columns:repeat(auto-fit,minmax(14rem,1fr));gap:1rem;margin-top:2rem}
 .shortcuts a{display:block;background:var(--sheet);border:1px solid var(--line);padding:1rem 1.1rem;color:var(--ink);text-decoration:none}
@@ -180,15 +172,11 @@ body[data-tab="metodo"]{--accent:var(--c-metodo)} body[data-tab="buzon"]{--accen
 .bgmap path.inset{fill:none;stroke-dasharray:6 6}
 @media (max-width:640px){.bgmap{width:150vw;right:-30vw;bottom:-2vh}}
 body{background:transparent!important} html{background:var(--paper)}
-[role="tabpanel"]{outline:none}
+.panel{outline:none}
 .strip{display:flex;height:6px;margin:0 -1.25rem}
 .strip span{flex:1}
-[role="tab"]{display:inline-flex;align-items:center;gap:.45rem}
-[role="tab"]::before{content:"";width:.6rem;height:.6rem;border-radius:50%;background:var(--tc);opacity:.55}
-[role="tab"][aria-selected="true"]{border-bottom:4px solid var(--tc)!important;color:var(--ink)}
-[role="tab"][aria-selected="true"]::before{opacity:1}
-[role="tabpanel"] h2{display:flex;align-items:center;gap:.6rem}
-[role="tabpanel"] h2::before{content:"";width:.5rem;align-self:stretch;min-height:1.6rem;background:var(--accent);border-radius:2px}
+.panel h2{display:flex;align-items:center;gap:.6rem}
+.panel h2::before{content:"";width:.5rem;align-self:stretch;min-height:1.6rem;background:var(--accent);border-radius:2px}
 .party,.vote,.case,.howto details,.shortcuts a,.news-list li,.sug,.empty{background:var(--sheet);border:1px solid var(--line);border-radius:10px;box-shadow:var(--shadow)}
 .shortcuts a{transition:border-color .2s,transform .2s cubic-bezier(.16,1,.3,1)}
 .shortcuts a:hover{border-color:var(--accent);transform:translateY(-2px)}
@@ -290,6 +278,38 @@ footer{padding-bottom:5.5rem!important}
 .cita{margin:.3rem 0 0;font-size:.92rem}
 .cita summary{cursor:pointer;color:var(--muted);min-height:32px;display:inline-flex;align-items:center}
 .cita blockquote{margin:.3rem 0 .4rem;padding:.4rem .8rem;border-left:2px solid var(--line);color:var(--ink);font-style:italic}
+
+.navbar{display:flex;align-items:stretch;gap:.25rem}
+.brand{display:inline-flex;align-items:center;padding:0 .9rem 0 0;margin-right:.35rem;border-right:1px solid var(--line);font-weight:700;font-size:1.05rem;color:var(--ink);text-decoration:none;min-height:48px;letter-spacing:-.01em}
+.brand:hover{color:var(--accent)}
+body[data-tab="inicio"] .brand{color:var(--accent)}
+.tablist{display:flex;gap:.1rem;overflow-x:auto;scrollbar-width:none;flex:1;min-width:0}
+.tablist::-webkit-scrollbar{display:none}
+.tablist.fade-r{mask-image:linear-gradient(to right,#000 calc(100% - 2.5rem),transparent);-webkit-mask-image:linear-gradient(to right,#000 calc(100% - 2.5rem),transparent)}
+.tablist.fade-l{mask-image:linear-gradient(to left,#000 calc(100% - 2.5rem),transparent);-webkit-mask-image:linear-gradient(to left,#000 calc(100% - 2.5rem),transparent)}
+.tablist.fade-l.fade-r{mask-image:linear-gradient(to right,transparent,#000 2.5rem,#000 calc(100% - 2.5rem),transparent);-webkit-mask-image:linear-gradient(to right,transparent,#000 2.5rem,#000 calc(100% - 2.5rem),transparent)}
+.tab{display:inline-flex;align-items:center;gap:.4rem;flex:0 0 auto;padding:.8rem .6rem .65rem;font-size:.97rem;color:var(--muted);text-decoration:none;border-bottom:3px solid transparent;margin-bottom:-2px;white-space:nowrap;transition:color .15s}
+.tab::before{content:"";width:.5rem;height:.5rem;border-radius:50%;background:var(--tc);opacity:.5}
+.tab:hover{color:var(--ink)}
+.tab[aria-current="page"]{color:var(--ink);font-weight:700;border-bottom-color:var(--tc)}
+.tab[aria-current="page"]::before{opacity:1}
+.nav-current{display:none}
+.menu-btn{display:inline-flex;align-items:center;gap:.4rem;margin-left:auto;flex:none;font:inherit;font-size:.95rem;font-weight:700;color:var(--ink);background:none;border:0;padding:0 .2rem 0 .7rem;cursor:pointer;min-height:48px}
+.menu-btn svg{width:1.25rem;height:1.25rem;fill:none;stroke:currentColor;stroke-width:2;stroke-linecap:round}
+.menu-btn[aria-expanded="true"]{color:var(--accent)}
+.nav-menu{border-top:1px solid var(--line);padding:.75rem 0 1rem;background:var(--paper);max-height:calc(100vh - 4rem);overflow-y:auto}
+.nav-menu ul{list-style:none;margin:0;padding:0;display:grid;grid-template-columns:repeat(auto-fill,minmax(13.5rem,1fr));gap:.4rem}
+.nav-menu a{display:block;padding:.6rem .75rem .6rem 1.6rem;position:relative;border-radius:8px;text-decoration:none;color:var(--ink)}
+.nav-menu a::before{content:"";position:absolute;left:.65rem;top:1.05rem;width:.5rem;height:.5rem;border-radius:50%;background:var(--tc)}
+.nav-menu a:hover,.nav-menu a[aria-current="page"]{background:color-mix(in srgb,var(--tc) 12%,var(--sheet))}
+.nav-menu b{display:block} .nav-menu span{display:block;color:var(--muted);font-size:.88rem}
+@media (max-width:1000px){
+  .tablist{display:none}
+  .nav-current{display:inline-flex;align-items:center;gap:.45rem;font-weight:700;color:var(--ink);min-width:0;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+  .nav-current::before{content:"";width:.55rem;height:.55rem;border-radius:50%;background:var(--accent);flex:none}
+}
+@media (prefers-reduced-motion:reduce){.tab{transition:none}}
+.pg-head .pg-name{font-size:inherit;font-weight:700;color:var(--ink)}
 </style>
 </head>
 <body data-tab="inicio">
@@ -304,21 +324,38 @@ footer{padding-bottom:5.5rem!important}
   </header>
 
   <nav class="tabs" aria-label="Secciones">
-    <div role="tablist" id="tablist">
-      <button role="tab" style="--tc:var(--c-inicio)" id="tab-inicio" aria-controls="inicio" aria-selected="false" tabindex="-1">Inicio</button>
-      <button role="tab" style="--tc:var(--c-partidos)" id="tab-partidos" aria-controls="partidos" aria-selected="false" tabindex="-1">Partidos</button>
-      <button role="tab" style="--tc:var(--c-programas)" id="tab-programas" aria-controls="programas" aria-selected="false" tabindex="-1">Propuestas</button>
-      <button role="tab" style="--tc:var(--c-comparador)" id="tab-comparador" aria-controls="comparador" aria-selected="false" tabindex="-1">Comparador</button>
-      <button role="tab" style="--tc:var(--c-votaciones)" id="tab-votaciones" aria-controls="votaciones" aria-selected="false" tabindex="-1">Votaciones</button>
-      <button role="tab" style="--tc:var(--c-corrupcion)" id="tab-corrupcion" aria-controls="corrupcion" aria-selected="false" tabindex="-1">Corrupción</button>
-      <button role="tab" style="--tc:var(--c-como-votar)" id="tab-como-votar" aria-controls="como-votar" aria-selected="false" tabindex="-1">Cómo votar</button>
-      <button role="tab" style="--tc:var(--c-medios)" id="tab-medios" aria-controls="medios" aria-selected="false" tabindex="-1">Noticias</button>
-      <button role="tab" style="--tc:var(--c-metodo)" id="tab-metodo" aria-controls="metodo" aria-selected="false" tabindex="-1">Método</button>
-      <button role="tab" style="--tc:var(--c-buzon)" id="tab-buzon" aria-controls="buzon" aria-selected="false" tabindex="-1">Buzón</button>
+    <div class="navbar">
+      <a class="brand" href="#inicio" data-go="inicio" aria-label="Inicio">29N</a>
+      <div class="tablist" id="tablist">
+      <a class="tab" href="#partidos" data-go="partidos" style="--tc:var(--c-partidos)">Partidos</a>
+      <a class="tab" href="#programas" data-go="programas" style="--tc:var(--c-programas)">Propuestas</a>
+      <a class="tab" href="#comparador" data-go="comparador" style="--tc:var(--c-comparador)">Comparador</a>
+      <a class="tab" href="#votaciones" data-go="votaciones" style="--tc:var(--c-votaciones)">Votaciones</a>
+      <a class="tab" href="#corrupcion" data-go="corrupcion" style="--tc:var(--c-corrupcion)">Corrupción</a>
+      <a class="tab" href="#medios" data-go="medios" style="--tc:var(--c-medios)">Noticias</a>
+      <a class="tab" href="#como-votar" data-go="como-votar" style="--tc:var(--c-como-votar)">Cómo votar</a>
+      </div>
+      <span class="nav-current" id="nav-current" aria-hidden="true"></span>
+      <button type="button" class="menu-btn" id="menu-btn" aria-expanded="false" aria-controls="nav-menu">
+        <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 7h16M4 12h16M4 17h16"/></svg><span>Menú</span></button>
+    </div>
+    <div class="nav-menu" id="nav-menu" hidden>
+      <ul>
+      <li><a href="#inicio" data-go="inicio" style="--tc:var(--c-inicio)"><b>Inicio</b><span>Calendario y accesos directos</span></a></li>
+      <li><a href="#partidos" data-go="partidos" style="--tc:var(--c-partidos)"><b>Partidos</b><span>Toda la información de cada partido</span></a></li>
+      <li><a href="#programas" data-go="programas" style="--tc:var(--c-programas)"><b>Propuestas</b><span>Qué propone cada uno, por tema</span></a></li>
+      <li><a href="#comparador" data-go="comparador" style="--tc:var(--c-comparador)"><b>Comparador</b><span>Su postura en las cuestiones clave</span></a></li>
+      <li><a href="#votaciones" data-go="votaciones" style="--tc:var(--c-votaciones)"><b>Votaciones</b><span>Qué votaron en el Congreso</span></a></li>
+      <li><a href="#corrupcion" data-go="corrupcion" style="--tc:var(--c-corrupcion)"><b>Corrupción</b><span>Casos judiciales y su estado</span></a></li>
+      <li><a href="#medios" data-go="medios" style="--tc:var(--c-medios)"><b>Noticias</b><span>Titulares de campaña</span></a></li>
+      <li><a href="#como-votar" data-go="como-votar" style="--tc:var(--c-como-votar)"><b>Cómo votar</b><span>Censo, voto por correo y mesas</span></a></li>
+      <li><a href="#metodo" data-go="metodo" style="--tc:var(--c-metodo)"><b>Método</b><span>Cómo hacemos esta web</span></a></li>
+      <li><a href="#buzon" data-go="buzon" style="--tc:var(--c-buzon)"><b>Buzón</b><span>Correcciones y sugerencias</span></a></li>
+      </ul>
     </div>
   </nav>
 
-  <section id="inicio" aria-labelledby="inicio-h" role="tabpanel" tabindex="0" hidden>
+  <section id="inicio" aria-labelledby="inicio-h" class="panel" tabindex="-1" hidden>
     <h2 id="inicio-h">Calendario electoral</h2>
     <ol class="calendar" style="margin-top:1.5rem" aria-label="Calendario electoral">
       <li data-date="2026-10-05"><span class="d">5 oct</span><span class="e">Sánchez anuncia el adelanto</span></li>
@@ -339,14 +376,14 @@ footer{padding-bottom:5.5rem!important}
     </div>
   </section>
 
-  <section id="partidos" aria-labelledby="partidos-h" role="tabpanel" tabindex="0" hidden>
+  <section id="partidos" aria-labelledby="partidos-h" class="panel" tabindex="-1" hidden>
     <h2 id="partidos-h">Partidos</h2>
     <p class="sub">Elige un partido para ver en un solo sitio sus propuestas, lo que ha votado, los casos judiciales que le afectan y sus últimas noticias.</p>
     <div class="party-picker" id="party-picker" role="group" aria-label="Elige un partido"><p class="loading">Cargando datos…</p></div>
     <div id="party-view" aria-live="polite"></div>
   </section>
 
-  <section id="programas" aria-labelledby="programas-h" role="tabpanel" tabindex="0" hidden>
+  <section id="programas" aria-labelledby="programas-h" class="panel" tabindex="-1" hidden>
     <h2 id="programas-h">Propuestas por tema</h2>
     <p class="sub">Temas ordenados según el barómetro del CIS de septiembre de 2026 (porcentaje de menciones como principal problema de España).</p>
     <ul class="topics" id="topics" aria-label="Elige un tema"></ul>
@@ -359,7 +396,7 @@ footer{padding-bottom:5.5rem!important}
   </section>
 
 
-  <section id="corrupcion" aria-labelledby="corrupcion-h" role="tabpanel" tabindex="0" hidden>
+  <section id="corrupcion" aria-labelledby="corrupcion-h" class="panel" tabindex="-1" hidden>
     <h2 id="corrupcion-h">Casos de corrupción</h2>
     <p class="sub">Procedimientos penales por corrupción que afectan a cargos o excargos de cada partido, o al propio partido, con alguna novedad judicial entre 2023 y 2026. Toda persona investigada o con condena recurrida es inocente mientras no haya sentencia firme.</p>
     <div class="scope" role="group" aria-label="Filtrar por partido" id="corr-filter"></div>
@@ -367,7 +404,7 @@ footer{padding-bottom:5.5rem!important}
     <p class="none" id="no-cases"></p>
   </section>
 
-  <section id="como-votar" aria-labelledby="votar-h" class="howto" role="tabpanel" tabindex="0" hidden>
+  <section id="como-votar" aria-labelledby="votar-h" class="howto panel" tabindex="-1" hidden>
     <h2 id="votar-h">Cómo votar el 29 de noviembre</h2>
     <p class="sub">Elige tu caso. Fechas según el calendario que marca la ley electoral (LOREG) a partir de la convocatoria del 6 de octubre.</p>
 
@@ -425,7 +462,7 @@ footer{padding-bottom:5.5rem!important}
   </section>
 
 
-  <section id="comparador" aria-labelledby="comparador-h" role="tabpanel" tabindex="0" hidden>
+  <section id="comparador" aria-labelledby="comparador-h" class="panel" tabindex="-1" hidden>
     <h2 id="comparador-h">¿Quién propone qué?</h2>
     <p class="sub">La postura de cada partido en algunas de las cuestiones más debatidas, según lo que dice su programa electoral, con la cita literal y la página. Si el programa no dice nada claro, aparece como «No se pronuncia».</p>
     <p class="updated" id="cmp-status"></p>
@@ -433,13 +470,13 @@ footer{padding-bottom:5.5rem!important}
     <div id="cmp-list"><p class="loading">Cargando datos…</p></div>
   </section>
 
-  <section id="votaciones" aria-labelledby="votaciones-h" role="tabpanel" tabindex="0" hidden>
+  <section id="votaciones" aria-labelledby="votaciones-h" class="panel" tabindex="-1" hidden>
     <h2 id="votaciones-h">Qué votaron en esta legislatura</h2>
     <p class="sub">Votaciones del Congreso sobre los temas que más preocupan. Es el voto de cada grupo: puede haber diputados ausentes o que votaran distinto.</p>
     <div class="votes" id="votes"><p class="loading">Cargando datos…</p></div>
   </section>
 
-  <section id="medios" aria-labelledby="medios-h" role="tabpanel" tabindex="0" hidden>
+  <section id="medios" aria-labelledby="medios-h" class="panel" tabindex="-1" hidden>
     <h2 id="medios-h">Noticias de campaña</h2>
     <p class="sub">Titulares recientes sobre los partidos y la campaña en medios de distinta línea editorial, con enlace a cada noticia. Se actualiza automáticamente varias veces al día.</p>
     <div class="scope" role="group" aria-label="Filtrar por partido" id="news-filter"></div>
@@ -447,7 +484,7 @@ footer{padding-bottom:5.5rem!important}
   </section>
 
 
-  <section id="metodo" aria-labelledby="metodo-h" class="method" role="tabpanel" tabindex="0" hidden>
+  <section id="metodo" aria-labelledby="metodo-h" class="method panel" tabindex="-1" hidden>
     <h2 id="metodo-h">Cómo hacemos esta web</h2>
     <div class="commit">
       <p><b>Sin publicidad, nunca.</b> Esta web no tiene ni tendrá anuncios, contenido patrocinado ni enlaces pagados.</p>
@@ -464,7 +501,7 @@ footer{padding-bottom:5.5rem!important}
     <p><b>Correcciones.</b> Si ves un error, escríbenos desde el <a href="#buzon" data-go="buzon">buzón de sugerencias</a> y lo revisaremos.</p>
   </section>
 
-  <section id="buzon" aria-labelledby="buzon-h" role="tabpanel" tabindex="0" hidden>
+  <section id="buzon" aria-labelledby="buzon-h" class="panel" tabindex="-1" hidden>
     <h2 id="buzon-h">Buzón de sugerencias</h2>
     <p class="sub">¿Has visto un error, falta un dato o se te ocurre una mejora? Escríbenos. Si quieres respuesta, deja tu correo.</p>
     <form name="sugerencias" method="POST" data-netlify="true" netlify-honeypot="web" id="sug-form" class="sug">
@@ -495,7 +532,7 @@ footer{padding-bottom:5.5rem!important}
 
   <footer>
     <p>Última actualización: <span class="js-updated">—</span>. Partidos con representación en el Congreso, ordenados por número de diputados al final de la legislatura; las candidaturas definitivas se conocerán al cerrarse las listas. Cada medida enlaza a su fuente. Sin publicidad y financiada por su responsable. Esta web no pide ni recomienda el voto.</p>
-    <p><a href="privacidad.html">Política de privacidad</a> · <a href="#buzon" data-go="buzon">Contacto</a></p>
+    <p><a href="#metodo" data-go="metodo">Cómo hacemos esta web</a> · <a href="#buzon" data-go="buzon">Buzón de sugerencias</a> · <a href="privacidad.html">Política de privacidad</a></p>
   </footer>
 </div>
 
@@ -706,36 +743,35 @@ document.getElementById("party-view").addEventListener("click",e=>{
   const m=e.target.closest("[data-news-party]"); if(m){ e.preventDefault(); newsParty=m.dataset.newsParty; renderNews(); selectTab("medios"); window.scrollTo({top:0}); }
 });
 
-// ---- PESTAÑAS ----
+// ---- NAVEGACIÓN ----
 const tl=document.getElementById("tablist");
 function fadeTabs(){const max=tl.scrollWidth-tl.clientWidth;tl.classList.toggle("fade-l",tl.scrollLeft>4);tl.classList.toggle("fade-r",max>4&&tl.scrollLeft<max-4);}
 tl.addEventListener("scroll",fadeTabs,{passive:true}); window.addEventListener("resize",fadeTabs); fadeTabs();
-const tabs=[...document.querySelectorAll('[role="tab"]')];
-function selectTab(id,focus){
+const panels=[...document.querySelectorAll("section.panel")];
+const SEC_NAME=Object.fromEntries([...document.querySelectorAll("#nav-menu a")].map(a=>[a.dataset.go,a.querySelector("b").textContent]));
+const menuBtn=document.getElementById("menu-btn"), menu=document.getElementById("nav-menu");
+function toggleMenu(open){ menu.hidden=!open; menuBtn.setAttribute("aria-expanded",open); if(open) menu.querySelector("a").focus(); }
+menuBtn.addEventListener("click",()=>toggleMenu(menu.hidden));
+document.addEventListener("keydown",e=>{ if(e.key==="Escape"&&!menu.hidden){ toggleMenu(false); menuBtn.focus(); } });
+document.addEventListener("click",e=>{ if(!menu.hidden && !e.target.closest(".tabs")) toggleMenu(false); });
+function selectTab(id){
   let party=null;
   if(id && id.startsWith("partido-")){ party=id.slice(8); id="partidos"; }
   let pregunta=null;
   if(id && id.startsWith("pregunta-")){ pregunta=id; id="comparador"; }
-  if(!document.getElementById(id)) id="inicio";
-  tabs.forEach(t=>{const on=t.getAttribute("aria-controls")===id;
-    t.setAttribute("aria-selected",on); t.tabIndex=on?0:-1;
-    document.getElementById(t.getAttribute("aria-controls")).hidden=!on;
-    if(on&&focus) t.focus(); if(on) t.scrollIntoView({block:"nearest",inline:"nearest"});});
+  if(!document.getElementById(id) || !document.getElementById(id).classList.contains("panel")) id="inicio";
+  panels.forEach(p=>p.hidden=p.id!==id);
+  document.querySelectorAll(".tabs [data-go]").forEach(a=>{ if(a.dataset.go===id) a.setAttribute("aria-current","page"); else a.removeAttribute("aria-current"); });
+  const cur=tl.querySelector('[aria-current="page"]'); if(cur) cur.scrollIntoView({block:"nearest",inline:"nearest"});
+  document.getElementById("nav-current").textContent=SEC_NAME[id]||"";
+  if(!menu.hidden) toggleMenu(false);
   document.body.dataset.tab=id;
   if(party){ currentParty=party; renderPartyView(); }
   if(pregunta){ cmpTopic="all"; pendingPregunta=pregunta; if(PREGUNTAS.length){ renderComparador(); irAPregunta(); } }
   const h=pregunta?"#"+pregunta:(id==="partidos"&&currentParty)?"#partido-"+currentParty:"#"+id;
   if(location.hash!==h) history.replaceState(null,"",h);
 }
-tabs.forEach((t,i)=>{
-  t.addEventListener("click",()=>{selectTab(t.getAttribute("aria-controls"));window.scrollTo({top:0});});
-  t.addEventListener("keydown",e=>{
-    let j=null; if(e.key==="ArrowRight") j=(i+1)%tabs.length; if(e.key==="ArrowLeft") j=(i-1+tabs.length)%tabs.length;
-    if(e.key==="Home") j=0; if(e.key==="End") j=tabs.length-1;
-    if(j!==null){e.preventDefault(); selectTab(tabs[j].getAttribute("aria-controls"),true);}
-  });
-});
-document.querySelectorAll("[data-go]").forEach(a=>a.addEventListener("click",e=>{e.preventDefault();selectTab(a.dataset.go);window.scrollTo({top:0});}));
+document.addEventListener("click",e=>{const a=e.target.closest("[data-go]"); if(!a) return; e.preventDefault(); selectTab(a.dataset.go); window.scrollTo({top:0});});
 window.addEventListener("hashchange",()=>{const h=location.hash.slice(1);if(!h.startsWith("pregunta-")) window.scrollTo({top:0});selectTab(h);});
 selectTab(location.hash.slice(1)||"inicio");
 window.addEventListener("load",()=>setTimeout(()=>{ if(!location.hash.startsWith("#pregunta-")) window.scrollTo(0,0); },0));
@@ -781,7 +817,7 @@ cargarDatos().then(d=>{
   NEWS=(d.noticias||[]).sort((a,b)=>b.fecha.localeCompare(a.fecha)); UPDATED=d.actualizado;
   iniciar();
 }).catch(err=>{
-  document.querySelectorAll('[role="tabpanel"] .sub').forEach(()=>{});
+  document.querySelectorAll('.panel .sub').forEach(()=>{});
   const m=document.createElement("p"); m.className="load-error"; m.setAttribute("role","alert");
   m.textContent="No se han podido cargar los datos. Recarga la página en unos segundos.";
   document.querySelector("header").appendChild(m);
