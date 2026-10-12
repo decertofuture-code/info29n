@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-12T09:22+00:00",
+  "actualizado": "2026-10-12T13:35+00:00",
   "temas": [
     {
       "id": "vivienda",
@@ -392,6 +392,184 @@
     }
   ],
   "noticias": [
+    {
+      "titulo": "Sánchez confía en gobernar tras las elecciones por la movilización progresista y la \"brutal\" fuga de votos del PP a Vox",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/politica/sanchez-confia-gobernar-elecciones-movilizacion-progresista-brutal-fuga-votos-pp-vox_1_13579991.html",
+      "fecha": "2026-10-12T13:18+00:00",
+      "partidos": [
+        "pp",
+        "vox"
+      ]
+    },
+    {
+      "titulo": "Podemos y ERC oficializan su alianza para el 29-N y harán campaña juntos",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/podemos-erc-oficializan-alianza-29n-haran-campana-20261012122428-nt.html",
+      "fecha": "2026-10-12T13:14+00:00",
+      "partidos": [
+        "erc",
+        "podemos"
+      ]
+    },
+    {
+      "titulo": "Abascal se ausenta del desfile del 12-O porque Ceuta «sigue invadida»",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/abascal-ausenta-desfile-12o-ceuta-sigue-invadida-20261012142626-nt.html",
+      "fecha": "2026-10-12T13:12+00:00",
+      "partidos": [
+        "vox"
+      ]
+    },
+    {
+      "titulo": "Así han sido los abucheos a Pedro Sánchez en su llegada al desfile de la Fiesta Nacional 2026",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/abucheos-pedro-sanchez-llegada-desfile-fiesta-nacional-20261012113227-nt.html",
+      "fecha": "2026-10-12T13:11+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "Vox pide el rechazo rotundo del Parlamento al «blanqueamiento» de EH Bildu por Adelante Andalucía",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/andalucia/vox-pide-rechazo-rotundo-parlamento-blanqueamiento-bildu-20261012142315-nts.html",
+      "fecha": "2026-10-12T12:23+00:00",
+      "partidos": [
+        "vox",
+        "bildu"
+      ]
+    },
+    {
+      "titulo": "Comuns acusan a Rufián de dividir la izquierda tras el pacto ERC-Podemos e irán a las elecciones con Frente Amplio",
+      "medio": "Europa Press",
+      "url": "https://www.europapress.es/nacional/noticia-comuns-acusan-rufian-dividir-izquierda-pacto-erc-podemos-iran-elecciones-frente-amplio-20261012141859.html",
+      "fecha": "2026-10-12T12:18+00:00",
+      "partidos": [
+        "erc",
+        "podemos"
+      ]
+    },
+    {
+      "titulo": "Abascal justifica su ausencia del desfile del 12-O por que Ceuta “sigue invadida”",
+      "medio": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/politica/20261012/11657123/abascal-justifica-ausencia-desfile-12-ceuta-sigue-invadida.html",
+      "fecha": "2026-10-12T12:16+00:00",
+      "partidos": [
+        "vox"
+      ]
+    },
+    {
+      "titulo": "PP y Vox llevan a las calles de Barcelona la protesta por la “invasión” de Ceuta",
+      "medio": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/politica/20261012/11657121/pp-vox-llevan-calles-barcelona-protesta-invasion-ceuta.html",
+      "fecha": "2026-10-12T12:11+00:00",
+      "partidos": [
+        "pp",
+        "vox"
+      ]
+    },
+    {
+      "titulo": "Los Comuns cargan contra Rufián tras pactar con Podemos: \"Venía a unir a la izquierda y está haciendo lo posible por dividirla\"",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/politica/comuns-cargan-rufian-pactar-venia-unir-izquierda-haciendo-posible-dividirla_1_13579832.html",
+      "fecha": "2026-10-12T11:53+00:00",
+      "partidos": [
+        "podemos"
+      ]
+    },
+    {
+      "titulo": "Abascal arremete desde Ceuta contra el \"Gobierno de traidores\" y exige la \"militarización\" de la frontera",
+      "medio": "El Mundo",
+      "url": "https://www.elmundo.es/espana/2026/10/12/6accc854fc6c835e4f8b458e.html",
+      "fecha": "2026-10-12T11:48+00:00",
+      "partidos": [
+        "vox"
+      ]
+    },
+    {
+      "titulo": "Abascal planta a los reyes el 12 de octubre para irse a Ceuta con el ultra Bardella: \"No quiero compartir tribuna con traidores\"",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/politica/abascal-planta-reyes-12-octubre-irse-ceuta-ultra-bardella-no-quiero-compartir-tribuna-traidores_1_13579298.html",
+      "fecha": "2026-10-12T11:08+00:00",
+      "partidos": [
+        "vox"
+      ]
+    },
+    {
+      "titulo": "El desfile del 12 de octubre deja insultos a Pedro Sánchez y un nuevo plantón de Abascal a los reyes",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/politica/desfile-12-octubre-deja-insultos-pedro-sanchez-nuevo-planton-abascal-reyes_1_13579441.html",
+      "fecha": "2026-10-12T10:47+00:00",
+      "partidos": [
+        "psoe",
+        "vox"
+      ]
+    },
+    {
+      "titulo": "Rufián y Montero harán “equipo” en la campaña de las elecciones y ERC incorporará a Podemos en las listas",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/politica/confirma-erc-les-incorporara-listas-rufian-hara-campana-montero_1_13579498.html",
+      "fecha": "2026-10-12T10:13+00:00",
+      "partidos": [
+        "erc",
+        "podemos"
+      ]
+    },
+    {
+      "titulo": "Los abucheos a Pedro Sánchez marcan el comienzo de un desfile de la Hispanidad de claro ambiente preelectoral",
+      "medio": "20minutos",
+      "url": "https://www.20minutos.es/nacional/los-abucheos-pedro-sanchez-marcan-comienzo-un-desfile-hispanidad-claro-ambiente-preelectoral_7047759_0.html",
+      "fecha": "2026-10-12T10:02+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "Junts exhibe ante Illa las medidas del Gobierno que ha frenado y bajadas de impuestos",
+      "medio": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/politica/20261012/11656936/junts-exhibe-illa-medidas-gobierno-frenado-bajadas-impuestos.html",
+      "fecha": "2026-10-12T09:45+00:00",
+      "partidos": [
+        "junts"
+      ]
+    },
+    {
+      "titulo": "Comuns acusa a Rufián de “dividir” a la izquierda y Frente Amplio acelera un acuerdo con Podemos",
+      "medio": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/politica/20261012/11656934/frente-amplio-recula-portazo-rufian-traslada-presion.html",
+      "fecha": "2026-10-12T09:28+00:00",
+      "partidos": [
+        "podemos"
+      ]
+    },
+    {
+      "titulo": "Barbero (Sumar) pide \"tranquilidad\" y aspira a anunciar \"cuanto antes\" una lista única que integre a Podemos",
+      "medio": "Europa Press",
+      "url": "https://www.europapress.es/nacional/noticia-barbero-sumar-pide-tranquilidad-aspira-anunciar-cuanto-antes-lista-unica-integre-podemos-20261012112852.html",
+      "fecha": "2026-10-12T09:28+00:00",
+      "partidos": [
+        "podemos"
+      ]
+    },
+    {
+      "titulo": "Los insultos a Sánchez y el plante de Abascal al Rey marcan el desfile del 12-O",
+      "medio": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/politica/20261012/11656931/insultos-abucheos-pedro-sanchez-llegada-desfile-militar.html",
+      "fecha": "2026-10-12T09:21+00:00",
+      "partidos": [
+        "vox"
+      ]
+    },
+    {
+      "titulo": "Pedro Sánchez reafirma su confianza en Bernabé, España y Torró y los sitúa como cabezas de lista por Valencia",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/comunitat-valenciana/pedro-sanchez-reafirma-confianza-bernabe-espana-torro-situa-cabezas-lista-valencia_1_13579349.html",
+      "fecha": "2026-10-12T09:14+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
     {
       "titulo": "Insultos para Pedro Sánchez en la Fiesta Nacional que ha apurado la llegada para camuflarse entre los vítores a los Reyes",
       "medio": "El Mundo",
@@ -2986,178 +3164,6 @@
       "fecha": "2026-10-07T22:07+00:00",
       "partidos": [
         "pp"
-      ]
-    },
-    {
-      "titulo": "El futuro incierto de Cuelgamuros: la memoria histórica queda en el aire ante el revisionismo de PP y Vox",
-      "medio": "elDiario.es",
-      "url": "https://www.eldiario.es/sociedad/futuro-incierto-cuelgamuros-memoria-historica-queda-aire-revisionismo-pp-vox_1_13563442.html",
-      "fecha": "2026-10-07T22:07+00:00",
-      "partidos": [
-        "pp",
-        "vox"
-      ]
-    },
-    {
-      "titulo": "🎙 PODCAST | Empezó con Puigdemont y terminó con Puigdemont",
-      "medio": "elDiario.es",
-      "url": "https://www.eldiario.es/un-tema-al-dia/podcast-empezo-termino-con-puigdemont_132_13570094.html",
-      "fecha": "2026-10-07T22:07+00:00",
-      "partidos": [
-        "junts"
-      ]
-    },
-    {
-      "titulo": "Pano, la mujer que llevó 90.000 € a Ferraz: \"También querían sobornarme para negar que le compramos el chalet a Ábalos\"",
-      "medio": "El Mundo",
-      "url": "https://www.elmundo.es/espana/2026/10/08/6ac68600e85ece60158b4570.html",
-      "fecha": "2026-10-07T22:00+00:00",
-      "partidos": [
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "Feijóo busca a su \"Josep Piqué\" para Cataluña",
-      "medio": "El Mundo",
-      "url": "https://www.elmundo.es/cataluna/2026/10/08/6ac68f00e85ece2a4f8b4581.html",
-      "fecha": "2026-10-07T22:00+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Pedro Sánchez, ante la muerte de Maricarmen: “Un abrazo a los que sentimos esta pérdida como propia”",
-      "medio": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/vida/20261007/11653731/pedro-sanchez-muerte-maricarmen-abrazo-sentimos-perdida-propia.html",
-      "fecha": "2026-10-07T21:37+00:00",
-      "partidos": [
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "Feijóo asegura que solo cabe \"respeto\" por la muerte de Maricarmen: \"Ni campaña, ni partidos, ni utilización interesada\"",
-      "medio": "Europa Press",
-      "url": "https://www.europapress.es/sociedad/noticia-feijoo-asegura-solo-cabe-respeto-muerte-maricarmen-campana-partidos-utilizacion-interesada-20261007233244.html",
-      "fecha": "2026-10-07T21:32+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Feijóo traslada el pésame a la familia de Maricarmen y pide no hacer \"campaña\" con su muerte",
-      "medio": "20minutos",
-      "url": "https://www.20minutos.es/nacional/feijoo-traslada-pesame-familia-maricarmen-pide-no-hacer-campana-con-su-muerte_7046305_0.html",
-      "fecha": "2026-10-07T21:16+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "El Ayuntamiento de València no defenderá judicialmente al edil de Vox que se coló en el sindicato de estudiantes",
-      "medio": "elDiario.es",
-      "url": "https://www.eldiario.es/comunitat-valenciana/valencia/ayuntamiento-valencia-no-defendera-judicialmente-edil-vox-colo-sindicato-estudiantes_1_13568781.html",
-      "fecha": "2026-10-07T21:01+00:00",
-      "partidos": [
-        "vox"
-      ]
-    },
-    {
-      "titulo": "La juez Biedma comparece con \"muchos datos y pruebas\" tras desvelar la UCO que las cloacas del PSOE pidieron hacerle \"daño físico\"",
-      "medio": "El Mundo",
-      "url": "https://www.elmundo.es/espana/2026/10/07/6ac68488fc6c83da478b45aa.html",
-      "fecha": "2026-10-07T20:49+00:00",
-      "partidos": [
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "Maricarmen Abascal y los 15 días que levantaron a un país contra los desahucios",
-      "medio": "elDiario.es",
-      "url": "https://www.eldiario.es/madrid/maricarmen-abascal-14-dias-levantaron-pais-desahucios_1_13570663.html",
-      "fecha": "2026-10-07T19:48+00:00",
-      "partidos": [
-        "vox"
-      ]
-    },
-    {
-      "titulo": "Pedro Sánchez lamenta la muerte de Maricarmen: \"Un abrazo también a todos los que hoy sentimos esta pérdida como propia\"",
-      "medio": "20minutos",
-      "url": "https://www.20minutos.es/nacional/pedro-sanchez-lamenta-muerte-maricarmen-un-abrazo-tambien-todos-los-que-hoy-sentimos-esta-perdida-como-propia_7046285_0.html",
-      "fecha": "2026-10-07T19:22+00:00",
-      "partidos": [
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "Sánchez traslada su pésame por la muerte de Maricarmen Abascal: \"Sentimos esta pérdida como propia\"",
-      "medio": "Europa Press",
-      "url": "https://www.europapress.es/nacional/noticia-sanchez-traslada-pesame-muerte-maricarmen-abascal-sentimos-perdida-propia-20261007212150.html",
-      "fecha": "2026-10-07T19:21+00:00",
-      "partidos": [
-        "vox"
-      ]
-    },
-    {
-      "titulo": "Puigdemont traslada su oficina de expresidente a la zona alta de Barcelona antes de su regreso",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/cataluna/puigdemont-traslada-oficina-expresidente-zona-alta-barcelona-20261007205744-nt.html",
-      "fecha": "2026-10-07T18:57+00:00",
-      "partidos": [
-        "junts"
-      ]
-    },
-    {
-      "titulo": "Frente Amplio: la vía Colau como candidata acerca a Podemos pero la lista de Madrid es un polvorín por la batalla entre los partidos",
-      "medio": "El Mundo",
-      "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/10/07/6ac68c84e4d4d877778b45ca.html",
-      "fecha": "2026-10-07T18:48+00:00",
-      "partidos": [
-        "podemos"
-      ]
-    },
-    {
-      "titulo": "Juanma Moreno activa la maquinaria del PP-A para revalidar la «mayoría social» y «contribuir al cambio en España»",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/andalucia/juanma-moreno-activa-maquinaria-ppa-revalidar-mayoria-20261007204150-nts.html",
-      "fecha": "2026-10-07T18:41+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "El PSOE local de Toledo vuelve a proponer a Tolón como cabeza de lista al Congreso tras su rechazo en 2023",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/castilla-la-mancha/toledo/psoe-local-toledo-vuelve-proponer-tolon-cabeza-20261007201253-nt.html",
-      "fecha": "2026-10-07T18:13+00:00",
-      "partidos": [
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "El concejal de Vivienda de Benalmádena, del PP, llama “puta sinvergüenza” a Maricarmen en un Consejo Sectorial",
-      "medio": "elDiario.es",
-      "url": "https://www.eldiario.es/andalucia/malaga/concejal-vivienda-benalmadena-pp-carga-maricarmen-califica-puta-sinverguenza_1_13570425.html",
-      "fecha": "2026-10-07T18:05+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Puigdemont traslada su oficina de expresidente a la zona alta de Barcelona",
-      "medio": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/politica/20261007/11653666/puigdemont-traslada-oficina-expresidente-zona-alta-barcelona.html",
-      "fecha": "2026-10-07T17:51+00:00",
-      "partidos": [
-        "junts"
-      ]
-    },
-    {
-      "titulo": "La UCO confirma que la cloaca del PSOE contactó con los narcos para «eliminar» a la juez del caso del hermano de Sánchez",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/uco-confirma-contactos-cloacas-psoe-narcos-juez-20261007154617-nt.html",
-      "fecha": "2026-10-07T17:17+00:00",
-      "partidos": [
-        "psoe"
       ]
     }
   ]
