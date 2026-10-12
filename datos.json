@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-12T13:35+00:00",
+  "actualizado": "2026-10-12T17:18+00:00",
   "temas": [
     {
       "id": "vivienda",
@@ -392,6 +392,98 @@
     }
   ],
   "noticias": [
+    {
+      "titulo": "El 29-N acapara los corrillos en el Palacio Real: duelo de optimismo entre Sánchez y Feijóo",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/29n-acapara-corrillos-palacio-real-duelo-optimismo-20261012163120-nt.html",
+      "fecha": "2026-10-12T16:44+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "Beatriz Jiménez renuncia a encabezar la lista del PP al Congreso por Cuenca el 29N",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/castilla-la-mancha/beatriz-jimenez-renuncia-encabezar-lista-pp-congreso-20261012183231-nt.html",
+      "fecha": "2026-10-12T16:35+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "Juzgan a una concejal de Puertollano por presunta propaganda electoral a favor del PSOE el 23J",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/castilla-la-mancha/juzgan-concejal-puertollano-presunta-propaganda-electoral-favor-20261012182027-nt.html",
+      "fecha": "2026-10-12T16:20+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "Comuns acusa a Rufián de azuzar la división en las izquierdas por su acuerdo con Podemos",
+      "medio": "El País",
+      "url": "https://elpais.com/espana/elecciones-generales/2026-10-12/podemos-y-erc-oficializan-el-acuerdo-por-el-que-rufian-y-montero-haran-campana-juntos.html",
+      "fecha": "2026-10-12T15:11+00:00",
+      "partidos": [
+        "podemos"
+      ]
+    },
+    {
+      "titulo": "ERC y Podemos acuerdan su alianza electoral del 29-N para \"frenar a la extrema derecha\"",
+      "medio": "El Mundo",
+      "url": "https://www.elmundo.es/cataluna/2026/10/12/6accb0cae4d4d88f608b4577.html",
+      "fecha": "2026-10-12T15:11+00:00",
+      "partidos": [
+        "erc",
+        "podemos"
+      ]
+    },
+    {
+      "titulo": "Vox celebra que el Supremo le dé la razón con la 'ley de nietos' y que las elecciones se celebren \"sin fraude\"",
+      "medio": "Europa Press",
+      "url": "https://www.europapress.es/nacional/noticia-vox-celebra-supremo-le-razon-ley-nietos-elecciones-celebren-fraude-20261012170722.html",
+      "fecha": "2026-10-12T15:07+00:00",
+      "partidos": [
+        "vox"
+      ]
+    },
+    {
+      "titulo": "Sánchez ve una \"movilización progresista\" como en 2019 y Feijóo augura el apoyo de más de ocho millones de votantes el 29-N",
+      "medio": "20minutos",
+      "url": "https://www.20minutos.es/nacional/sanchez-ve-una-movilizacion-progresista-como-2019-feijoo-augura-apoyo-menos-8-millones-votantes-29-n_7047818_0.html",
+      "fecha": "2026-10-12T14:29+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "Feijóo reivindica que el PP es voto del cambio y asegura que con Vox \"no habrá cordón sanitario pero tampoco umbilical\"",
+      "medio": "Europa Press",
+      "url": "https://www.europapress.es/nacional/noticia-feijoo-reivindica-pp-voto-cambio-asegura-vox-no-habra-cordon-sanitario-tampoco-umbilical-20261012162715.html",
+      "fecha": "2026-10-12T14:27+00:00",
+      "partidos": [
+        "pp",
+        "vox"
+      ]
+    },
+    {
+      "titulo": "Abascal carga contra Sánchez durante su visita a Ceuta en el día de la Hispanidad: \"Este es un Gobierno que odia a España\"",
+      "medio": "20minutos",
+      "url": "https://www.20minutos.es/nacional/abascal-carga-contra-sanchez-durante-su-visita-ceuta-dia-hispanidad-este-es-un-gobierno-que-odia-espana_7047812_0.html",
+      "fecha": "2026-10-12T14:04+00:00",
+      "partidos": [
+        "vox"
+      ]
+    },
+    {
+      "titulo": "Bernabé encabezará la lista del PSOE por Valencia, delante de España y Torró",
+      "medio": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/local/valencia/20261012/11657149/bernabe-encabezara-lista-psoe-valencia-delante-espana-torro.html",
+      "fecha": "2026-10-12T13:33+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
     {
       "titulo": "Sánchez confía en gobernar tras las elecciones por la movilización progresista y la \"brutal\" fuga de votos del PP a Vox",
       "medio": "elDiario.es",
@@ -3074,96 +3166,6 @@
       "fecha": "2026-10-08T03:00+00:00",
       "partidos": [
         "junts"
-      ]
-    },
-    {
-      "titulo": "El reparto de poder entre Más Madrid y Colau solivianta al resto de Frente Amplio, mientras Podemos insiste en ir a primarias",
-      "medio": "20minutos",
-      "url": "https://www.20minutos.es/nacional/reparto-poder-entre-mas-madrid-colau-solivianta-resto-frente-amplio-mientras-podemos-insiste-ir-primarias_7046217_0.html",
-      "fecha": "2026-10-08T03:00+00:00",
-      "partidos": [
-        "podemos"
-      ]
-    },
-    {
-      "titulo": "El Gobierno retrasa la nueva votación de los decretos de vivienda y el PP denuncia un \"uso electoral\" del Congreso por parte de Sánchez",
-      "medio": "20minutos",
-      "url": "https://www.20minutos.es/nacional/gobierno-retrasa-nueva-votacion-los-decretos-vivienda-pp-denuncia-un-uso-electoral-congreso-por-parte-sanchez_7046199_0.html",
-      "fecha": "2026-10-08T03:00+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Feijóo se vuelca con Ceuta y la presión judicial para dar la puntilla a Sánchez",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/pp-insiste-ceuta-presion-judicial-dar-puntilla-20261008011910-nt.html",
-      "fecha": "2026-10-07T23:37+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "El juez decidirá sobre la imputación del PSOE antes de la campaña",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/juez-decidira-sobre-imputacion-psoe-campana-20261008012316-nt.html",
-      "fecha": "2026-10-07T23:24+00:00",
-      "partidos": [
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "Sectores de Junts quieren a Puigdemont como candidato el 29N",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/cataluna/sectores-junts-quieren-puigdemont-candidato-29n-20261006012300-nt.html",
-      "fecha": "2026-10-07T23:23+00:00",
-      "partidos": [
-        "junts"
-      ]
-    },
-    {
-      "titulo": "Los agujeros de Sánchez en las listas del PSOE: quién es su pareja por Madrid, qué papel juega Cuerpo y la renuncia de los ministros candidatos",
-      "medio": "El Mundo",
-      "url": "https://www.elmundo.es/espana/2026/10/08/6ac654dbe85ece78768b45bb.html",
-      "fecha": "2026-10-07T23:19+00:00",
-      "partidos": [
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "Así sería la Ley de Extranjería del PP: triajes en 72 horas y repatriaciones a terceros países",
-      "medio": "El Mundo",
-      "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/10/08/6ac684d5fc6c8381658b45ad.html",
-      "fecha": "2026-10-07T23:19+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Delgado (Más Madrid) dice que \"hay que poner orden rápido\" a la izquierda del PSOE y que no pueden permitirse no ir unid",
-      "medio": "Europa Press",
-      "url": "https://www.europapress.es/nacional/noticia-delgado-mas-madrid-dice-hay-poner-orden-rapido-izquierda-psoe-no-pueden-permitirse-no-ir-unid-20261008005500.html",
-      "fecha": "2026-10-07T22:55+00:00",
-      "partidos": [
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "Feijóo intenta centrar en Ceuta la precampaña mientras esquiva la crisis de la vivienda",
-      "medio": "elDiario.es",
-      "url": "https://www.eldiario.es/politica/feijoo-centrar-ceuta-precampana-esquiva-crisis-vivienda_1_13570526.html",
-      "fecha": "2026-10-07T22:07+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Reventar la confianza en la democracia es tendencia en la campaña del PP",
-      "medio": "elDiario.es",
-      "url": "https://www.eldiario.es/politica/reventar-confianza-democracia-tendencia-campana-pp_129_13569040.html",
-      "fecha": "2026-10-07T22:07+00:00",
-      "partidos": [
-        "pp"
       ]
     }
   ]
