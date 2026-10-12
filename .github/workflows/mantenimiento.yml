@@ -1,0 +1,27 @@
+name: Aplicar parche de datos
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  parche:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Aplicar parche
+        run: python parche_datos.py
+      - name: Guardar
+        run: |
+          git config user.name "info29n-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add datos.json
+          if git diff --cached --quiet; then echo "Sin cambios."; else
+            git commit -m "Parche de datos [skip netlify]"; git push
+            curl -fsS https://purge.jsdelivr.net/gh/${{ github.repository }}@main/datos.json || true
+          fi
