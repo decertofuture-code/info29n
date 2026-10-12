@@ -5,6 +5,7 @@ on:
     - cron: "0 5 * * *"            # 07:00 en España hasta el 25 de octubre y 06:00 después (cambio de hora): actualiza y manda el informe
     - cron: "0 9,13,17,21 * * *"   # resto del día: solo actualiza noticias
   push:
+    branches: [main]               # solo cuando el cambio llega a la web publicada
     paths:
       - datos.json                 # si editas datos.json a mano, solo se refresca la caché
   workflow_dispatch:
@@ -36,6 +37,11 @@ jobs:
 
       - name: Recoger noticias y avisos
         run: python actualizar.py
+
+      - name: Revisar el BOE (candidaturas y Junta Electoral)
+        if: github.event.schedule == '0 5 * * *' || (github.event_name == 'workflow_dispatch' && inputs.informe)
+        continue-on-error: true
+        run: python vigilar_boe.py
 
       - name: Publicar en X (calendario, cuenta atrás y resumen de ayer)
         if: github.event.schedule == '0 5 * * *' || (github.event_name == 'workflow_dispatch' && inputs.informe)
