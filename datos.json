@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-12T05:08+00:00",
+  "actualizado": "2026-10-12T09:22+00:00",
   "temas": [
     {
       "id": "vivienda",
@@ -392,6 +392,71 @@
     }
   ],
   "noticias": [
+    {
+      "titulo": "Insultos para Pedro Sánchez en la Fiesta Nacional que ha apurado la llegada para camuflarse entre los vítores a los Reyes",
+      "medio": "El Mundo",
+      "url": "https://www.elmundo.es/espana/2026/10/12/6acc994efc6c83b5608b4577.html",
+      "fecha": "2026-10-12T09:13+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "Gritos coreados de \"Pedro Sánchez, hijo de puta\" reciben al jefe del Gobierno en el desfile del 12-O",
+      "medio": "El Confidencial",
+      "url": "https://www.elconfidencial.com/espana/2026-10-12/pitada-sanchez_4443159/",
+      "fecha": "2026-10-12T09:10+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "El PP pide a Bruselas pronunciarse por las intimidaciones a la jueza Biedma por investigar al hermano de Pedro Sánchez",
+      "medio": "Europa Press",
+      "url": "https://www.europapress.es/nacional/noticia-pp-pide-bruselas-pronunciarse-intimidaciones-jueza-biedma-investigar-hermano-pedro-sanchez-20261012104005.html",
+      "fecha": "2026-10-12T08:40+00:00",
+      "partidos": [
+        "pp",
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "El PP promete \"regeneración\" en el Tribunal Constitucional si Feijóo llega a Moncloa",
+      "medio": "Europa Press",
+      "url": "https://www.europapress.es/nacional/noticia-pp-promete-regeneracion-tribunal-constitucional-si-feijoo-llega-moncloa-20261012103951.html",
+      "fecha": "2026-10-12T08:39+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "Sevilla, la última provincia que se le resiste al PP y sigue fiel al PSOE",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/andalucia/sevilla-20261012070626-nts.html",
+      "fecha": "2026-10-12T08:22+00:00",
+      "partidos": [
+        "pp",
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "Pedro Sánchez reivindica una España plural el 12-O: “Llevamos nuestros derechos por bandera”",
+      "medio": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/politica/20261012/11656895/pedro-sanchez-reivindica-espana-plural-12-llevamos-derechos-bandera.html",
+      "fecha": "2026-10-12T07:33+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "Frente Amplio y Podemos encaran una semana decisiva en la que tendrán que decidir si concurren juntos a las elecciones",
+      "medio": "20minutos",
+      "url": "https://www.20minutos.es/nacional/frente-amplio-podemos-encaran-una-semana-decisiva-que-tendran-que-decidir-si-concurren-juntos-las-elecciones_7046022_0.html",
+      "fecha": "2026-10-12T05:22+00:00",
+      "partidos": [
+        "podemos"
+      ]
+    },
     {
       "titulo": "El PNV huye de los bloques en un escenario electoral que favorece a Bildu",
       "medio": "La Vanguardia",
@@ -3093,70 +3158,6 @@
       "fecha": "2026-10-07T17:17+00:00",
       "partidos": [
         "psoe"
-      ]
-    },
-    {
-      "titulo": "El PSOE acusa a Núñez de «fatiga argumental» y le pide que «innove» con sus «bulos y ocurrencias»",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/castilla-la-mancha/psoe-acusa-nunez-fatiga-argumental-pide-innove-20261007190021-nt.html",
-      "fecha": "2026-10-07T17:00+00:00",
-      "partidos": [
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "El PSOE dice que la Junta sólo ha promovido 222 viviendas en ocho años",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/andalucia/psoe-dice-junta-solo-promovido-222-viviendas-20261007124141-nts.html",
-      "fecha": "2026-10-07T16:48+00:00",
-      "partidos": [
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "El clan de los Rocho reconoce que las cloacas del PSOE pidieron hacerle \"un daño físico\" a la juez Biedma",
-      "medio": "El Mundo",
-      "url": "https://www.elmundo.es/espana/2026/10/07/6ac664d5e85ecee15e8b457d.html",
-      "fecha": "2026-10-07T16:35+00:00",
-      "partidos": [
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "El 'community manager' de Vox tuvo sexo consentido con un afiliado menor de edad: archivada la denuncia por abuso sexual",
-      "medio": "El Mundo",
-      "url": "https://www.elmundo.es/espana/2026/10/07/6ac66a82e85ecea57c8b457b.html",
-      "fecha": "2026-10-07T16:24+00:00",
-      "partidos": [
-        "vox"
-      ]
-    },
-    {
-      "titulo": "ERC propone una ley que obligue a los grandes tenedores a prorrogar los alquileres",
-      "medio": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/politica/20261007/11653602/erc-propone-ley-obligue-grandes-tenedores-prorrogar-alquileres.html",
-      "fecha": "2026-10-07T16:12+00:00",
-      "partidos": [
-        "erc"
-      ]
-    },
-    {
-      "titulo": "Vox pide ayudas directas y bonificaciones fiscales para garantizar el relevo artesano",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/castilla-la-mancha/vox-pide-ayudas-directas-bonificaciones-fiscales-garantizar-20261007180857-nt.html",
-      "fecha": "2026-10-07T16:08+00:00",
-      "partidos": [
-        "vox"
-      ]
-    },
-    {
-      "titulo": "Las Cortes dan luz verde a un techo de gasto de 15.104 millones para 2027 con el 'sí' de PP y Vox",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/castilla-leon/cortes-dan-luz-verde-techo-gasto-15104-20261007160149-nt.html",
-      "fecha": "2026-10-07T16:02+00:00",
-      "partidos": [
-        "pp",
-        "vox"
       ]
     }
   ]
