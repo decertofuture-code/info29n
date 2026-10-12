@@ -1,0 +1,53 @@
+name: Procesar programa electoral
+
+on:
+  workflow_dispatch:
+    inputs:
+      partido:
+        description: "Partido"
+        type: choice
+        options: [pp, psoe, vox, sumar, erc, junts, bildu, pnv, podemos, bng, cc, upn]
+      url_pdf:
+        description: "Enlace directo al PDF del programa (en la web oficial del partido)"
+        type: string
+        required: true
+
+permissions:
+  contents: write
+  pull-requests: write
+
+jobs:
+  procesar:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Instalar lector de PDF
+        run: pip install pypdf
+
+      - name: Extraer medidas con Claude
+        env:
+          PARTIDO: ${{ inputs.partido }}
+          URL_PDF: ${{ inputs.url_pdf }}
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: python extraer_programa.py
+
+      - name: Abrir propuesta de cambio para revisar
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          RAMA="programa-${{ inputs.partido }}-$(date +%Y%m%d-%H%M)"
+          git config user.name "info29n-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git checkout -b "$RAMA"
+          git add datos.json
+          git commit -m "Programa de ${{ inputs.partido }}: borrador para revisar [skip netlify]"
+          git push origin "$RAMA"
+          gh pr create --base main --head "$RAMA" \
+            --title "Programa electoral: ${{ inputs.partido }} (revisar antes de publicar)" \
+            --body-file informe_programa.md
