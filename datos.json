@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-11T21:17+00:00",
+  "actualizado": "2026-10-12T05:08+00:00",
   "temas": [
     {
       "id": "vivienda",
@@ -393,6 +393,111 @@
   ],
   "noticias": [
     {
+      "titulo": "El PNV huye de los bloques en un escenario electoral que favorece a Bildu",
+      "medio": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/politica/20261012/11656605/pnv-huye-bloques-escenario-electoral-favorece-bildu.html",
+      "fecha": "2026-10-12T04:00+00:00",
+      "partidos": [
+        "bildu",
+        "pnv"
+      ]
+    },
+    {
+      "titulo": "Orriols trabaja para Abascal",
+      "medio": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/politica/20261012/11656592/orriols-trabaja-abascal.html",
+      "fecha": "2026-10-12T04:00+00:00",
+      "partidos": [
+        "vox"
+      ]
+    },
+    {
+      "titulo": "Feijóo toca a rebato y pide a los barones “movilización máxima”",
+      "medio": "El País",
+      "url": "https://elpais.com/espana/elecciones-generales/2026-10-12/feijoo-toca-a-rebato-y-pide-a-los-barones-movilizacion-maxima.html",
+      "fecha": "2026-10-12T03:30+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "Junts sale a empatar el 29-N pese a los negros augurios de los sondeos y repite candidatos al Congreso",
+      "medio": "El Confidencial",
+      "url": "https://www.elconfidencial.com/espana/cataluna/2026-10-12/junts-empatar-sondeos-repiten-grueso-candidatos_4442142/",
+      "fecha": "2026-10-12T03:00+00:00",
+      "partidos": [
+        "junts"
+      ]
+    },
+    {
+      "titulo": "Toni Comín y Lluís Puig volverán a Cataluña antes que Carles Puigdemont por su cuenta y sin solemnidad",
+      "medio": "El Confidencial",
+      "url": "https://www.elconfidencial.com/espana/cataluna/2026-10-12/toni-comin-lluis-puig-volver-cataluna-puigdemont_4441616/",
+      "fecha": "2026-10-12T03:00+00:00",
+      "partidos": [
+        "junts"
+      ]
+    },
+    {
+      "titulo": "El lamento de los antidisturbios del 1-O con el regreso de Puigdemont: «Se van de rositas después de humillar a España»",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/lamento-antidisturbios-regreso-puigdemont-policias-jubilados-culpa-20261009014534-nt.html",
+      "fecha": "2026-10-11T23:57+00:00",
+      "partidos": [
+        "junts"
+      ]
+    },
+    {
+      "titulo": "Sánchez intenta evitar el hundimiento del PSOE por la corrupción pero no cuela entre jueces y fiscales",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/carmen-lucastorres-sanchez-intenta-evitar-implosion-psoe-corrupcion-cuela-20261012014955-nt.html",
+      "fecha": "2026-10-11T23:53+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "Seis de cada diez españoles creen que PP y Vox gobernarán en coalición tras las elecciones",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/seis-diez-espanoles-creen-pp-vox-gobernaran-20261012015019-nt.html",
+      "fecha": "2026-10-11T23:50+00:00",
+      "partidos": [
+        "pp",
+        "vox"
+      ]
+    },
+    {
+      "titulo": "Feijóo crece como futuro presidente para el 60% de los españoles y Abascal ya empata con Sánchez y Díaz",
+      "medio": "El Mundo",
+      "url": "https://www.elmundo.es/espana/encuestas/2026/10/12/6acba99dfc6c83803b8b457e.html",
+      "fecha": "2026-10-11T22:12+00:00",
+      "partidos": [
+        "pp",
+        "vox"
+      ]
+    },
+    {
+      "titulo": "La ley educativa que el PP guardó en el cajón hace seis años: un MIR y tres cursos de Bachillerato",
+      "medio": "El Mundo",
+      "url": "https://www.elmundo.es/espana/2026/10/12/6acbb839fdddffeb618b4581.html",
+      "fecha": "2026-10-11T22:12+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "La izquierda sigue KO tras el adelanto: PSOE y Sumar repiten en mínimos mientras Vox logra un récord a costa del PP",
+      "medio": "El Mundo",
+      "url": "https://www.elmundo.es/espana/encuestas/2026/10/11/6acba028e85ece77088b4580.html",
+      "fecha": "2026-10-11T20:40+00:00",
+      "partidos": [
+        "pp",
+        "psoe",
+        "vox",
+        "sumar"
+      ]
+    },
+    {
       "titulo": "Abascal se compromete al inicio de la precampaña a \"recuperar el poder para el ciudadano\"",
       "medio": "El Confidencial",
       "url": "https://www.elconfidencial.com/espana/2026-10-11/abascal-vox-elecciones-generales-1tna-1tps_4443121/",
@@ -408,6 +513,70 @@
       "fecha": "2026-10-11T19:32+00:00",
       "partidos": [
         "vox"
+      ]
+    },
+    {
+      "titulo": "La permanente falta de médicos en Andoain enfrenta al Ayuntamiento de EH Bildu con el Gobierno vasco",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/euskadi/permanente-falta-medicos-andoain-enfrenta-ayuntamiento-eh-bildu-gobierno-vasco_1_13573747.html",
+      "fecha": "2026-10-11T19:20+00:00",
+      "partidos": [
+        "bildu"
+      ]
+    },
+    {
+      "titulo": "Puigdemont asiste al recital de 50 aniversario de María del Mar Bonet en el Olympia",
+      "medio": "El Mundo",
+      "url": "https://www.elmundo.es/espana/2026/10/11/6acbe11421efa083378b456f.html",
+      "fecha": "2026-10-11T19:18+00:00",
+      "partidos": [
+        "junts"
+      ]
+    },
+    {
+      "titulo": "Feijóo, un hombre sin puntería",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/andalucia/desdeelsur/feijoo-hombre-punteria_132_13578695.html",
+      "fecha": "2026-10-11T19:11+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "El giro de Rufián descoloca a la izquierda y complica el pacto entre Podemos y el Frente Amplio",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/catalunya/giro-rufian-descoloca-izquierda-complica-pacto-frente-amplio_1_13579035.html",
+      "fecha": "2026-10-11T19:10+00:00",
+      "partidos": [
+        "podemos"
+      ]
+    },
+    {
+      "titulo": "La Fiscalía se enreda en una investigación contra el PSOE que conduce a la guerra sucia de las cloacas del PP",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/politica/fiscalia-enreda-investigacion-psoe-conduce-guerra-sucia-cloacas-pp_129_13568309.html",
+      "fecha": "2026-10-11T19:10+00:00",
+      "partidos": [
+        "pp",
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "Ni agentes de la UCO ni móviles incautados: la revelación de secretos del PP no se investiga como al exfiscal general",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/politica/agentes-uco-moviles-incautados-revelacion-secretos-pp-no-investiga-exfiscal-general_1_13574778.html",
+      "fecha": "2026-10-11T19:10+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "Ayuso, el juguete roto del Neverland de Feijóo",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/economia/ayuso-juguete-roto-neverland-feijoo_129_13575852.html",
+      "fecha": "2026-10-11T19:10+00:00",
+      "partidos": [
+        "pp"
       ]
     },
     {
@@ -427,6 +596,16 @@
       "fecha": "2026-10-11T18:17+00:00",
       "partidos": [
         "junts"
+      ]
+    },
+    {
+      "titulo": "Rufián firma la paz con Junqueras para liderar ERC y negocia una alianza con Podemos que puede reventar el Frente Amplio",
+      "medio": "El Mundo",
+      "url": "https://www.elmundo.es/cataluna/2026/10/11/6aca79c0e9cf4a25568b45b0.html",
+      "fecha": "2026-10-11T18:04+00:00",
+      "partidos": [
+        "erc",
+        "podemos"
       ]
     },
     {
@@ -467,6 +646,15 @@
       ]
     },
     {
+      "titulo": "Abascal pide calma ante las \"provocaciones\" desde Estepona, pero alerta contra el \"gobierno más sucio\": \"No os fieis de una sola encuesta\"",
+      "medio": "El Mundo",
+      "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/10/11/6acbac50e85ece731f8b457c.html",
+      "fecha": "2026-10-11T17:11+00:00",
+      "partidos": [
+        "vox"
+      ]
+    },
+    {
       "titulo": "Besteiro confirma que no será candidato al Congreso y defiende al PSOE como «voto útil»",
       "medio": "ABC",
       "url": "https://www.abc.es/espana/galicia/besteiro-confirma-candidato-congreso-defiende-psoe-voto-20261011170815-nt.html",
@@ -501,6 +689,15 @@
       "fecha": "2026-10-11T15:42+00:00",
       "partidos": [
         "erc"
+      ]
+    },
+    {
+      "titulo": "Mertxe Aizpurua no repetirá en la candidatura de Bildu después de siete años siendo la portavoz 'abertzale' en el Congreso",
+      "medio": "El Mundo",
+      "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/10/11/6acba629fdddff20068b457e.html",
+      "fecha": "2026-10-11T15:10+00:00",
+      "partidos": [
+        "bildu"
       ]
     },
     {
@@ -2959,196 +3156,6 @@
       "fecha": "2026-10-07T16:02+00:00",
       "partidos": [
         "pp",
-        "vox"
-      ]
-    },
-    {
-      "titulo": "El PP prepara un plan contra el crimen organizado para que España vuelva a ser \"un país seguro\"",
-      "medio": "20minutos",
-      "url": "https://www.20minutos.es/nacional/pp-prepara-un-plan-contra-crimen-organizado-para-que-espana-vuelva-ser-un-pais-seguro_7045987_0.html",
-      "fecha": "2026-10-07T15:07+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "La líder de un clan de narcos dice a la UCO que un juez ligado a las cloacas del PSOE pidió \"eliminar\" a la jueza del caso David Sánchez",
-      "medio": "20minutos",
-      "url": "https://www.20minutos.es/nacional/lider-un-clan-narcos-dice-uco-que-un-juez-ligado-las-cloacas-psoe-pidio-eliminar-jueza-caso-david-sanchez_7046119_0.html",
-      "fecha": "2026-10-07T14:37+00:00",
-      "partidos": [
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "Alberto Núñez Feijóo: \"Mi primer encargo concreto será recuperar la normalidad en la ciudad de Ceuta y será la primera carpeta en la mesa del consejo de ministros\"",
-      "medio": "El Confidencial",
-      "url": "https://www.elconfidencial.com/espana/2026-10-07/feijoo-primer-encargo-recuperar-normalidad-ceuta-1qrt_4440314/",
-      "fecha": "2026-10-07T14:24+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Feijóo abona las dudas del PP sobre el voto por correo y pedirá “medidas adicionales” a la Junta Electoral",
-      "medio": "El País",
-      "url": "https://elpais.com/espana/elecciones-generales/2026-10-07/feijoo-abona-a-las-dudas-del-pp-sobre-el-voto-por-correo-y-pedira-mas-controles-a-la-junta-electoral.html",
-      "fecha": "2026-10-07T13:13+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Feijóo pedirá a la JEC medidas para dar más garantías al voto por correo: \"No confío en los directivos de Correos\"",
-      "medio": "Europa Press",
-      "url": "https://www.europapress.es/nacional/noticia-feijoo-pedira-jec-medidas-dar-mas-garantias-voto-correo-no-confio-directivos-correos-20261007150427.html",
-      "fecha": "2026-10-07T13:04+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Turull (Junts): «No investiremos a Sánchez porque hemos salido escaldados con esta persona»",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/cataluna/turull-junts-investiremos-sanchez-salido-escaldados-persona-20261007111906-nt.html",
-      "fecha": "2026-10-07T13:03+00:00",
-      "partidos": [
-        "junts"
-      ]
-    },
-    {
-      "titulo": "Feijóo cuestiona la confianza en los directivos de Correos y pedirá medidas a la JEC para incrementar la garantía del voto por correo",
-      "medio": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/politica/20261007/11653429/feijoo-cuestiona-confianza-directivos-correos-pedira-medidas-jec-incrementar-garantia-voto-correo.html",
-      "fecha": "2026-10-07T13:02+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Armengol permite a Sumar organizar en el Congreso una jornada para atacar al Supremo por la 'ley de nietos'",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/armengol-permite-sumar-organizar-congreso-jornada-atacar-20261007150119-nt.html",
-      "fecha": "2026-10-07T13:01+00:00",
-      "partidos": [
-        "sumar"
-      ]
-    },
-    {
-      "titulo": "Diputados de ERC se borran de las listas del 29N tras la confirmación de Rufián como candidato",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/diputados-erc-borran-listas-madrid-tras-confirmacion-20261009145005-nt.html",
-      "fecha": "2026-10-07T12:59+00:00",
-      "partidos": [
-        "erc"
-      ]
-    },
-    {
-      "titulo": "Feijóo avanza que el PP propondrá medidas para mejorar la seguridad del voto por correo: \"No confío en sus directivos\"",
-      "medio": "El Confidencial",
-      "url": "https://www.elconfidencial.com/espana/2026-10-07/feijoo-propone-medidas-voto-correo-1tps_4440277/",
-      "fecha": "2026-10-07T12:50+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Page afirma que Puigdemont sólo puede \"humillar\" a los que \"firmaron el contrato de compraventa en el que consistió la amnistía\"",
-      "medio": "El Mundo",
-      "url": "https://www.elmundo.es/espana/2026/10/07/6ac61934e85ece253d8b45ad.html",
-      "fecha": "2026-10-07T12:42+00:00",
-      "partidos": [
-        "junts"
-      ]
-    },
-    {
-      "titulo": "Feijóo arranca la precampaña con Vivas: «Ceuta será la primera carpeta en el Consejo de Ministros»",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/feijoo-arranca-precampana-vivas-ceuta-primera-carpeta-20261007140616-nt.html",
-      "fecha": "2026-10-07T12:39+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Feijóo sopesa que Albiol sea el candidato por Barcelona en las elecciones del 29-N",
-      "medio": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/politica/20261007/11653341/feijoo-sopesa-albiol-sea-candidato-barcelona-elecciones-29-n.html",
-      "fecha": "2026-10-07T12:39+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Feijóo se compromete a aprobar medidas para Ceuta en el primer consejo de Ministros",
-      "medio": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/politica/20261007/11653410/feijoo-compromete-aprobar-medidas-ceuta-primer-consejo-ministros.html",
-      "fecha": "2026-10-07T12:35+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "«La estabilidad de Page se llama más Sánchez», aseguran desde el PP",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/castilla-la-mancha/estabilidad-page-llama-sanchez-aseguran-pp-20261007143314-nt.html",
-      "fecha": "2026-10-07T12:33+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Pilar Vallugera no repetirá en las listas de ERC para las elecciones del 29-N",
-      "medio": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/politica/20261007/11653404/pilar-vallugera-repetira-listas-erc-elecciones-29-n.html",
-      "fecha": "2026-10-07T12:28+00:00",
-      "partidos": [
-        "erc"
-      ]
-    },
-    {
-      "titulo": "Feijóo pone en duda el voto por correo: \"He sido presidente de Correos, confío en los carteros, no en los directivos\"",
-      "medio": "elDiario.es",
-      "url": "https://www.eldiario.es/politica/feijoo-pone-duda-voto-correo-he-sido-presidente-correos-confio-plenamente-carteros-no-confio-directivos_1_13569337.html",
-      "fecha": "2026-10-07T12:23+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Feijóo promete en Ceuta una nueva Ley de Extranjería para devolver a irregulares: \"La invasión no volverá a pasar\"",
-      "medio": "Europa Press",
-      "url": "https://www.europapress.es/nacional/noticia-feijoo-promete-ceuta-nueva-ley-extranjeria-devolver-irregulares-invasion-no-volvera-pasar-20261007142235.html",
-      "fecha": "2026-10-07T12:22+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Feijóo pedirá a la JEC \"incrementar la garantía\" del voto por correo: \"Confío en los empleados, no en los directivos\"",
-      "medio": "20minutos",
-      "url": "https://www.20minutos.es/nacional/feijoo-pedira-jec-incrementar-garantia-voto-por-correo-confio-los-empleados-no-los-directivos_7046017_0.html",
-      "fecha": "2026-10-07T12:15+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Mediaset propone un 'cara a cara' entre Sánchez y Feijóo presentado por Carlos Franganillo y Alba Lago",
-      "medio": "Europa Press",
-      "url": "https://www.europapress.es/sociedad/noticia-mediaset-propone-cara-cara-sanchez-feijoo-presentado-carlos-franganillo-alba-lago-20261007133515.html",
-      "fecha": "2026-10-07T11:35+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "El portavoz de Vox en el Parlamento de Castilla y León llama \"psicópata\" a Pedro Sánchez en un pleno",
-      "medio": "elDiario.es",
-      "url": "https://www.eldiario.es/castilla-y-leon/politica/portavoz-vox-castilla-leon-llama-psicopata-sanchez-niega-retirar-calificativo_1_13569085.html",
-      "fecha": "2026-10-07T11:25+00:00",
-      "partidos": [
-        "psoe",
         "vox"
       ]
     }
