@@ -97,6 +97,15 @@ def diario():
     if faltan in CUENTA_ATRAS and f"cuenta:{faltan}" not in hechos:
         posts.append((f"cuenta:{faltan}", f"Faltan {faltan} días para las elecciones generales del 29 de noviembre. Propuestas, votaciones y casos judiciales de cada partido, con fuentes:", "inicio"))
 
+    for deb in datos.get("debates", []):
+        if deb.get("fecha") == HOY.isoformat() and f"debate:{deb.get('id', deb.get('titulo'))}" not in hechos:
+            texto = f"Hoy{(', a las ' + deb['hora']) if deb.get('hora') else ''}: {deb['titulo']}"
+            texto += f" en {deb['cadenas']}." if deb.get("cadenas") else "."
+            if deb.get("participantes"):
+                texto += f" Participan {deb['participantes']}."
+            texto += " Antes de verlo, puedes repasar qué propone cada partido:"
+            posts.append((f"debate:{deb.get('id', deb.get('titulo'))}", texto, "inicio"))
+
     ayer = HOY - timedelta(days=1)
     if f"resumen:{ayer}" not in hechos:
         n = sum(1 for x in datos.get("noticias", [])
@@ -172,6 +181,18 @@ def cambios():
                            f"Estado: {estados.get(c['status'], c['status']).lower()}.", "corrupcion"))
         elif antes[k].get("status") != c.get("status"):
             avisos.append((f"Actualizado el estado del caso {c['title']}: {estados.get(c['status'], c['status']).lower()}.", "corrupcion"))
+
+    # Debates confirmados
+    vistos_deb = {x.get("id", x.get("titulo")) for x in viejo.get("debates", [])}
+    for deb in nuevo.get("debates", []):
+        if deb.get("id", deb.get("titulo")) not in vistos_deb:
+            a, m, dd = deb["fecha"].split("-")
+            meses = ["enero", "febrero", "marzo", "abril", "mayo", "junio", "julio", "agosto", "septiembre", "octubre", "noviembre", "diciembre"]
+            cuando = f"el {int(dd)} de {meses[int(m) - 1]}" + (f" a las {deb['hora']}" if deb.get("hora") else "")
+            texto = f"Confirmado: {deb['titulo']} {cuando}" + (f" en {deb['cadenas']}" if deb.get("cadenas") else "") + "."
+            if deb.get("participantes"):
+                texto += f" Participan {deb['participantes']}."
+            avisos.append((texto, "inicio"))
 
     if not avisos:
         print("Sin cambios que anunciar (las noticias no se anuncian una a una).")

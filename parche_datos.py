@@ -63,6 +63,8 @@ for q in PREGUNTAS:
                 cambios.append(f"AVISO: no se cambia «{q['id']}» porque ya tiene posturas; habría que reprocesar los programas")
                 continue
             e.update({k: q[k] for k in ("tema", "pregunta", "explicacion")}); cambios.append(f"pregunta reformulada: {q['id']}")
+if "debates" not in d:
+    d["debates"] = []; cambios.append("apartado debates")
 if "programas" not in d:
     d["programas"] = {}; cambios.append("apartado programas")
 

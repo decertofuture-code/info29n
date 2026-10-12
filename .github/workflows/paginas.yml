@@ -1,0 +1,40 @@
+name: Generar páginas fijas
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - datos.json
+      - generar_paginas.py
+      - estatico.css
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: actualizar
+  cancel-in-progress: false
+
+jobs:
+  generar:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Instalar Pillow
+        run: pip install pillow
+      - name: Generar páginas por partido, tema y pregunta
+        run: python generar_paginas.py
+      - name: Guardar (Netlify publica solo si las páginas han cambiado)
+        run: |
+          git config user.name "info29n-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A partido tema comparador img sitemap.xml robots.txt
+          if git diff --cached --quiet; then echo "Las páginas no han cambiado."; else
+            git commit -m "Páginas fijas actualizadas"
+            git pull --rebase
+            git push
+          fi

@@ -310,6 +310,12 @@ body[data-tab="inicio"] .brand{color:var(--accent)}
 }
 @media (prefers-reduced-motion:reduce){.tab{transition:none}}
 .pg-head .pg-name{font-size:inherit;font-weight:700;color:var(--ink)}
+
+.debates-h{margin-top:2.25rem}
+.deb-list{margin:0 0 .5rem}
+.deb-list .t b{display:block}
+.deb-pasado{opacity:.65}
+.idx p{margin:.35rem 0}
 </style>
 </head>
 <body data-tab="inicio">
@@ -365,6 +371,9 @@ body[data-tab="inicio"] .brand{color:var(--accent)}
       <li data-date="2026-11-28"><span class="d">28 nov</span><span class="e">Jornada de reflexión</span></li>
       <li class="voteday" data-date="2026-11-29"><span class="d">29 nov</span><span class="e">Votación</span></li>
     </ol>
+
+    <h2 id="debates-h" class="debates-h">Debates electorales</h2>
+    <div id="debates"><p class="loading">Cargando…</p></div>
 
     <div class="shortcuts">
       <a href="#partidos" data-go="partidos"><b>Partidos</b><span>Toda la información de cada partido en una sola página.</span></a>
@@ -532,6 +541,7 @@ body[data-tab="inicio"] .brand{color:var(--accent)}
 
   <footer>
     <p>Última actualización: <span class="js-updated">—</span>. Partidos con representación en el Congreso, ordenados por número de diputados al final de la legislatura; las candidaturas definitivas se conocerán al cerrarse las listas. Cada medida enlaza a su fuente. Sin publicidad y financiada por su responsable. Esta web no pide ni recomienda el voto.</p>
+    <nav class="idx" id="idx" aria-label="Páginas por partido y tema"></nav>
     <p><a href="#metodo" data-go="metodo">Cómo hacemos esta web</a> · <a href="#buzon" data-go="buzon">Buzón de sugerencias</a> · <a href="privacidad.html">Política de privacidad</a></p>
   </footer>
 </div>
@@ -542,6 +552,7 @@ body[data-tab="inicio"] .brand{color:var(--accent)}
 </a>
 <script>
 // ---- DATOS: se cargan desde datos.json ----
+let DEBATES=[];
 let TOPICS=[],PARTIES=[],MEASURES={},RESUMEN={},VOTES=[],STATUS={},CASES=[],NEWS=[],UPDATED=null,PROGRAMAS={},PREGUNTAS=[];
 // Medidas visibles: las no verificadas (cita sin comprobar) no se publican.
 const visibles = (pid,tid) => ((MEASURES[pid]||{})[tid]||[]).filter(x=>x.verificada!==false);
@@ -623,6 +634,8 @@ document.getElementById("corr-filter").addEventListener("click",e=>{
 renderCases();
 
 renderNews();
+  renderDebates();
+  document.getElementById("idx").innerHTML=`<p><b>Por partido:</b> ${PARTIES.map(p=>`<a href="/partido/${p.id}/">${p.name}</a>`).join(" · ")}</p><p><b>Por tema:</b> ${TOPICS.map(t=>`<a href="/tema/${t.id}/">${t.name}</a>`).join(" · ")}</p>`;
   renderComparador();
   irAPregunta();
   renderPartyView();
@@ -672,7 +685,7 @@ function renderComparador(){
     const t=TOPICS.find(x=>x.id===q.tema);
     return `<article class="cmp-q" id="pregunta-${q.id}"><p class="cmp-tema">${t?t.name:""}</p><h3>${q.pregunta}</h3><p class="cmp-exp">${q.explicacion}</p>
       <ul class="cmp-grid">${PARTIES.map(p=>stanceCell(q,p.id,true)).join("")}</ul>
-      <a class="cmp-share" href="#pregunta-${q.id}">Enlace a esta pregunta</a></article>`;
+      <a class="cmp-share" href="/comparador/${q.id}/">Compartir esta pregunta</a></article>`;
   }).join("");
 }
 function partyStances(pid){
@@ -686,10 +699,21 @@ document.getElementById("cmp-filter").addEventListener("click",e=>{
 });
 document.getElementById("cmp-list").addEventListener("click",e=>{
   const a=e.target.closest(".cmp-share"); if(!a) return; e.preventDefault();
-  const url=location.origin+location.pathname+a.getAttribute("href");
+  const url=location.origin+a.getAttribute("href");
   if(navigator.share){ navigator.share({url,title:a.closest(".cmp-q").querySelector("h3").textContent}).catch(()=>{}); }
-  else if(navigator.clipboard){ navigator.clipboard.writeText(url).then(()=>{a.textContent="Enlace copiado";setTimeout(()=>a.textContent="Enlace a esta pregunta",2000);}); }
+  else if(navigator.clipboard){ navigator.clipboard.writeText(url).then(()=>{a.textContent="Enlace copiado";setTimeout(()=>a.textContent="Compartir esta pregunta",2000);}); }
 });
+
+// ---- DEBATES ----
+function renderDebates(){
+  const el=document.getElementById("debates");
+  if(!DEBATES.length){ el.innerHTML='<p class="pv-empty">Todavía no hay debates confirmados. Los añadiremos en cuanto las cadenas y los partidos cierren las fechas.</p>'; return; }
+  const hoy=new Date().toLocaleDateString("sv-SE",{timeZone:"Europe/Madrid"});
+  el.innerHTML=`<ul class="pv-votes deb-list">${DEBATES.map(x=>{
+    const pasado=x.fecha<hoy, esHoy=x.fecha===hoy;
+    const cuando=`${fdate(x.fecha)}${x.hora?`, ${x.hora} h`:""}`;
+    return `<li class="${pasado?"deb-pasado":""}"><span class="t"><b>${esc(x.titulo)}</b><small>${cuando}${x.cadenas?` · ${esc(x.cadenas)}`:""}</small>${x.participantes?`<small>${esc(x.participantes)}</small>`:""}${x.fuente?`<small><a class="src" href="${x.fuente}" target="_blank" rel="noopener">Fuente</a></small>`:""}</span><span class="v ${esHoy?"si":pasado?"nd":""}">${esHoy?"Hoy":pasado?"Celebrado":"Próximo"}</span></li>`;}).join("")}</ul>`;
+}
 
 // ---- VISTA POR PARTIDO ----
 let currentParty=null;
@@ -812,7 +836,7 @@ async function cargarDatos(){
 }
 cargarDatos().then(d=>{
   TOPICS=d.temas; PARTIES=d.partidos.map(p=>({...p,lead:`Se presenta en: ${p.scope}. ${p.candidato?`Candidato: ${p.candidato}.`:"Candidatura por confirmar."}`}));
-  PROGRAMAS=d.programas||{}; PREGUNTAS=d.preguntas||[];
+  PROGRAMAS=d.programas||{}; PREGUNTAS=d.preguntas||[]; DEBATES=(d.debates||[]).slice().sort((a,b)=>(a.fecha+(a.hora||"")).localeCompare(b.fecha+(b.hora||"")));
   MEASURES=d.medidas||{}; RESUMEN=d.resumen||{}; VOTES=d.votaciones||[]; STATUS=d.estados||{}; CASES=d.casos||[];
   NEWS=(d.noticias||[]).sort((a,b)=>b.fecha.localeCompare(a.fecha)); UPDATED=d.actualizado;
   iniciar();
