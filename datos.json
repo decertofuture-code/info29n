@@ -3237,8 +3237,8 @@
     {
       "id": "grandes-tenedores",
       "tema": "vivienda",
-      "pregunta": "¿Restringir la compra de vivienda por grandes tenedores o compradores no residentes?",
-      "explicacion": "Límites, prohibiciones o impuestos especiales a la compra de vivienda por fondos, grandes propietarios o no residentes.",
+      "pregunta": "¿Poner límites a la compra de vivienda por grandes propietarios y fondos de inversión?",
+      "explicacion": "Prohibiciones, cupos o impuestos especiales para que empresas o personas con muchas viviendas compren más.",
       "posturas": {}
     },
     {
@@ -3251,8 +3251,8 @@
     {
       "id": "grandes-fortunas",
       "tema": "economia",
-      "pregunta": "¿Mantener un impuesto específico sobre las grandes fortunas?",
-      "explicacion": "Continuidad, eliminación o reforma del impuesto estatal sobre los grandes patrimonios.",
+      "pregunta": "¿Mantener el impuesto estatal sobre las grandes fortunas?",
+      "explicacion": "Que siga existiendo el impuesto que el Estado cobra a los patrimonios más altos, en lugar de suprimirlo.",
       "posturas": {}
     },
     {
@@ -3265,8 +3265,8 @@
     {
       "id": "indultos",
       "tema": "politica",
-      "pregunta": "¿Limitar los indultos por delitos de corrupción?",
-      "explicacion": "Prohibir o restringir por ley que el Gobierno indulte a condenados por delitos de corrupción.",
+      "pregunta": "¿Prohibir por ley los indultos por delitos de corrupción?",
+      "explicacion": "Que el Gobierno no pueda indultar a personas condenadas por delitos de corrupción, como la malversación o el cohecho.",
       "posturas": {}
     },
     {
