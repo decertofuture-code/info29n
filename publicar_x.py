@@ -129,14 +129,27 @@ def cambios():
     estados = nuevo.get("estados", {})
     avisos = []
 
+    # Programas electorales recién añadidos: un solo post por partido (y no se anuncian sus medidas una a una)
+    prog_v, prog_n = viejo.get("programas", {}), nuevo.get("programas", {})
+    nuevos_programas = [pid for pid in prog_n if pid not in prog_v]
+    for pid in nuevos_programas:
+        visibles = sum(1 for ms in nuevo.get("medidas", {}).get(pid, {}).values() for m in ms if m.get("verificada", True))
+        avisos.append((f"Ya puedes consultar el programa electoral de {nombre.get(pid, pid)}: {visibles} medidas ordenadas por tema, "
+                       "cada una con su cita literal y la página del programa.", f"partido-{pid}"))
+
     # Medidas de los programas
     mv, mn = viejo.get("medidas", {}), nuevo.get("medidas", {})
     for pid in mn:
+        if pid in nuevos_programas:
+            continue
         for tid, lista in mn[pid].items():
             antes = mv.get(pid, {}).get(tid, [])
             if lista == antes:
                 continue
-            extra = len(lista) - len(antes)
+            visibles = lambda xs: [x for x in xs if x.get("verificada", True)]
+            if visibles(lista) == visibles(antes):
+                continue
+            extra = len(visibles(lista)) - len(visibles(antes))
             if extra > 0:
                 avisos.append((f"Añadidas {extra} {'medida' if extra == 1 else 'medidas'} de {nombre.get(pid, pid)} sobre {tema.get(tid, tid).lower()} en la sección de propuestas.", "programas"))
             else:
