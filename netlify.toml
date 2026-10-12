@@ -1,8 +1,9 @@
 [build]
   publish = "."
   command = ""
-  # No publicar si solo cambian los datos: la web los lee de GitHub y cada publicación gasta créditos.
-  ignore = "git diff --quiet $CACHED_COMMIT_REF $COMMIT_REF -- . ':(exclude)datos.json' ':(exclude)estado.json'"
+  # Solo se publica si cambian los archivos de la propia web. Los cambios en datos, scripts o
+  # workflows no gastan créditos, aunque el commit no lleve [skip netlify].
+  ignore = "git diff --quiet $CACHED_COMMIT_REF $COMMIT_REF -- index.html privacidad.html og-image.png '*.woff2' netlify.toml"
 
 [[headers]]
   for = "/datos.json"

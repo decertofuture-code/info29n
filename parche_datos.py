@@ -28,16 +28,16 @@ VOTOS_NUEVOS = [
 PREGUNTAS = [
     {"id": "alquiler", "tema": "vivienda", "pregunta": "¿Limitar por ley el precio del alquiler en zonas tensionadas?",
      "explicacion": "Topes o índices de referencia obligatorios para los precios del alquiler en zonas con precios muy altos."},
-    {"id": "grandes-tenedores", "tema": "vivienda", "pregunta": "¿Restringir la compra de vivienda por grandes tenedores o compradores no residentes?",
-     "explicacion": "Límites, prohibiciones o impuestos especiales a la compra de vivienda por fondos, grandes propietarios o no residentes."},
+    {"id": "grandes-tenedores", "tema": "vivienda", "pregunta": "¿Poner límites a la compra de vivienda por grandes propietarios y fondos de inversión?",
+     "explicacion": "Prohibiciones, cupos o impuestos especiales para que empresas o personas con muchas viviendas compren más."},
     {"id": "irpf", "tema": "economia", "pregunta": "¿Bajar el IRPF de forma general?",
      "explicacion": "Rebaja del impuesto sobre la renta para todos o la mayoría de los contribuyentes, no solo deducciones concretas."},
-    {"id": "grandes-fortunas", "tema": "economia", "pregunta": "¿Mantener un impuesto específico sobre las grandes fortunas?",
-     "explicacion": "Continuidad, eliminación o reforma del impuesto estatal sobre los grandes patrimonios."},
+    {"id": "grandes-fortunas", "tema": "economia", "pregunta": "¿Mantener el impuesto estatal sobre las grandes fortunas?",
+     "explicacion": "Que siga existiendo el impuesto que el Estado cobra a los patrimonios más altos, en lugar de suprimirlo."},
     {"id": "regularizacion", "tema": "inmigracion", "pregunta": "¿Regularizar de forma extraordinaria a inmigrantes en situación irregular?",
      "explicacion": "Procesos excepcionales para dar permiso de residencia y trabajo a personas que ya viven en España sin papeles."},
-    {"id": "indultos", "tema": "politica", "pregunta": "¿Limitar los indultos por delitos de corrupción?",
-     "explicacion": "Prohibir o restringir por ley que el Gobierno indulte a condenados por delitos de corrupción."},
+    {"id": "indultos", "tema": "politica", "pregunta": "¿Prohibir por ley los indultos por delitos de corrupción?",
+     "explicacion": "Que el Gobierno no pueda indultar a personas condenadas por delitos de corrupción, como la malversación o el cohecho."},
     {"id": "jornada", "tema": "empleo", "pregunta": "¿Reducir por ley la jornada laboral máxima?",
      "explicacion": "Bajar la jornada máxima legal (actualmente 40 horas semanales) sin reducción de sueldo."},
     {"id": "listas-espera", "tema": "sanidad", "pregunta": "¿Fijar por ley tiempos máximos de espera en la sanidad pública?",
@@ -52,10 +52,17 @@ for v in VOTOS_NUEVOS:
 for p in d.get("partidos", []):
     if "candidato" not in p:
         p["candidato"] = None; cambios.append(f"candidato: {p['id']}")
-existentes = {q["id"] for q in d.get("preguntas", [])}
+existentes = {q["id"]: q for q in d.get("preguntas", [])}
 for q in PREGUNTAS:
     if q["id"] not in existentes:
         d.setdefault("preguntas", []).append({**q, "posturas": {}}); cambios.append(f"pregunta: {q['id']}")
+    else:
+        e = existentes[q["id"]]
+        if any(e.get(k) != q[k] for k in ("tema", "pregunta", "explicacion")):
+            if any(v.get("postura") not in (None, "sin") for v in e.get("posturas", {}).values()):
+                cambios.append(f"AVISO: no se cambia «{q['id']}» porque ya tiene posturas; habría que reprocesar los programas")
+                continue
+            e.update({k: q[k] for k in ("tema", "pregunta", "explicacion")}); cambios.append(f"pregunta reformulada: {q['id']}")
 if "programas" not in d:
     d["programas"] = {}; cambios.append("apartado programas")
 

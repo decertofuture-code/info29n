@@ -26,6 +26,8 @@ MAX_POSTS_POR_EJECUCION = 3
 WEB = "https://info29n.com/"
 
 CALENDARIO = {
+    "2026-10-13": "Hasta el lunes 19 de octubre puedes comprobar que estás bien inscrito en el censo y consultar tu mesa para el 29N: en la sede electrónica del INE, en tu ayuntamiento o en el 900 343 232. Si hay un error, es el plazo para reclamar.",
+    "2026-10-19": "Hoy es el último día para consultar el censo electoral y reclamar si hay algún error: en la sede electrónica del INE, en tu ayuntamiento o, si vives fuera, en tu consulado.",
     "2026-10-31": "Estos días los ayuntamientos sortean quién formará las mesas electorales del 29N. Si te toca, te lo notificarán en mano. Es obligatorio salvo causa justificada, que puedes alegar en los 7 días siguientes a la notificación.",
     "2026-11-09": "Desde hoy, Correos empieza a entregar en mano la documentación del voto por correo a quienes lo han solicitado.",
     "2026-11-13": "Hoy empieza la campaña electoral de las elecciones generales del 29 de noviembre. Termina el viernes 27.",
