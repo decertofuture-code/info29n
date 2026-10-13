@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-13T09:21+00:00",
+  "actualizado": "2026-10-13T13:26+00:00",
   "temas": [
     {
       "id": "vivienda",
@@ -449,6 +449,270 @@
   ],
   "noticias": [
     {
+      "titulo": "El PP y Vox presentan los Presupuestos en Castilla y León sin incluir una dotación para la “prioridad nacional”",
+      "medio": "El País",
+      "url": "https://elpais.com/espana/2026-10-13/el-pp-y-vox-presentan-los-presupuestos-en-castilla-y-leon-sin-incluir-una-dotacion-para-la-prioridad-nacional.html",
+      "fecha": "2026-10-13T13:11+00:00",
+      "partidos": [
+        "pp",
+        "vox"
+      ]
+    },
+    {
+      "titulo": "Vox se querella contra el delegado del Gobierno en Madrid y los organizadores de la acampada en Sol",
+      "medio": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/politica/20261013/11657927/vox-querella-delegado-gobierno-madrid-organizadores-acampada-sol.html",
+      "fecha": "2026-10-13T13:07+00:00",
+      "partidos": [
+        "vox"
+      ]
+    },
+    {
+      "titulo": "Vox denuncia que Page «no ha cumplido ninguna de las medidas» del pacto regional por la caza",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/castilla-la-mancha/vox-denuncia-page-cumplido-ninguna-medidas-pacto-20261013144816-nt.html",
+      "fecha": "2026-10-13T12:48+00:00",
+      "partidos": [
+        "vox"
+      ]
+    },
+    {
+      "titulo": "El Gobierno alerta de la “gravedad” de restringir el voto y critica que el PP hable de “pucherazo”",
+      "medio": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/politica/20261013/11657912/gobierno-alerta-gravedad-restringir-voto-critica-pp-hable-pucherazo.html",
+      "fecha": "2026-10-13T12:44+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "Landaluce desafía al PP y se aferra a la Alcaldía de Algeciras pese a las denuncias de acoso sexual: \"Seguiré intentando luchar\"",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/andalucia/landaluce-desafia-pp-aferrarse-alcaldia-algeciras-seguire-intentando-luchar-dificil-han-puesto_1_13581952.html",
+      "fecha": "2026-10-13T12:31+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "Una concejala del PSOE en Puertollano pacta con la Fiscalía una pena por publicar mensajes el día de las elecciones",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/castilla-la-mancha/concejala-psoe-puertollano-pacta-fiscalia-pena-publicar-20261013143002-nt.html",
+      "fecha": "2026-10-13T12:30+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "ERC define el pacto con Podemos como una absorción y Rufián insiste en que se sume el Frente Amplio bajo su liderazgo",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/cataluna/erc-define-pacto-podemos-absorcion-rufian-insiste-20261013142253-nt.html",
+      "fecha": "2026-10-13T12:26+00:00",
+      "partidos": [
+        "sumar",
+        "erc",
+        "podemos"
+      ]
+    },
+    {
+      "titulo": "PP y UPN recuperan su alianza en Navarra para disputar al PSOE la victoria el 29N y eliminar su vía de incorporación a Euskadi",
+      "medio": "El Mundo",
+      "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/10/13/6ace18a621efa0c63d8b45a5.html",
+      "fecha": "2026-10-13T12:25+00:00",
+      "partidos": [
+        "pp",
+        "psoe",
+        "upn"
+      ]
+    },
+    {
+      "titulo": "Rufián pide que ERC y Comuns \"se entiendan\" y su partido replica que se presentarán con sus siglas",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/catalunya/rufian-pide-erc-comuns-entiendan-partido-replica-presentaran-siglas_1_13581810.html",
+      "fecha": "2026-10-13T12:09+00:00",
+      "partidos": [
+        "erc"
+      ]
+    },
+    {
+      "titulo": "Rufián pide sumar a Comuns y la dirección de ERC cierra el paso: “No diluiremos nuestras siglas”",
+      "medio": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/politica/20261013/11657885/rufian-pide-sumar-comuns-direccion-erc-cierra-paso-diluiremos-siglas.html",
+      "fecha": "2026-10-13T12:06+00:00",
+      "partidos": [
+        "erc"
+      ]
+    },
+    {
+      "titulo": "ERC niega una coalición con Podemos, que sí \"contribuirá\" con independientes a listas por Barcelona y Tarragona",
+      "medio": "Europa Press",
+      "url": "https://www.europapress.es/catalunya/noticia-erc-niega-coalicion-podemos-si-contribuira-independientes-listas-barcelona-tarragona-20261013135705.html",
+      "fecha": "2026-10-13T11:57+00:00",
+      "partidos": [
+        "erc",
+        "podemos"
+      ]
+    },
+    {
+      "titulo": "El PP de Lanzarote cesa al consejero de los Centros Turísticos después de que su hijo consiguiera plaza fija de freganchín",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/canariasahora/politica/pp-lanzarote-aparta-consejero-centros-turisticos-despues-hijo-consiguiera-plaza-fija-freganchin_1_13581417.html",
+      "fecha": "2026-10-13T11:36+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "PP y UPN llegan a un principio de acuerdo para presentarse juntos a las elecciones",
+      "medio": "20minutos",
+      "url": "https://www.20minutos.es/nacional/pp-upn-llegan-un-principio-acuerdo-para-presentarse-juntos-las-elecciones_7048151_0.html",
+      "fecha": "2026-10-13T11:35+00:00",
+      "partidos": [
+        "pp",
+        "upn"
+      ]
+    },
+    {
+      "titulo": "El PP cambia de estrategia en redes y se lanza contra Sarah Santaolalla y Afra Blanco: “A esto se viene llorado”",
+      "medio": "El País",
+      "url": "https://elpais.com/espana/elecciones-generales/2026-10-13/el-pp-cambia-de-estrategia-en-redes-y-se-lanza-contra-sarah-santaolalla-y-afra-blanco-a-esto-se-viene-llorado.html",
+      "fecha": "2026-10-13T11:29+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "La instructora Beatriz Biedma pide imputar al exjuez ligado a las cloacas del PSOE que contactó con una 'narco' para atacarla",
+      "medio": "20minutos",
+      "url": "https://www.20minutos.es/nacional/instructora-caso-david-sanchez-pide-imputar-exjuez-ligado-las-cloacas-psoe-que-contacto-con-una-narco-para-atacarla_7048156_0.html",
+      "fecha": "2026-10-13T11:21+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "La juez Biedma pide a la Audiencia Nacional que impute al ex juez que la amenazó por orden de las 'cloacas' del PSOE",
+      "medio": "El Mundo",
+      "url": "https://www.elmundo.es/espana/2026/10/13/6ace1173e9cf4a3f058b45a6.html",
+      "fecha": "2026-10-13T11:20+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "UPN y PP llegan a un acuerdo para concurrir a las elecciones generales",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/navarra/upn-pp-llegan-acuerdo-concurrir-elecciones-generales_1_13581039.html",
+      "fecha": "2026-10-13T10:59+00:00",
+      "partidos": [
+        "pp",
+        "upn"
+      ]
+    },
+    {
+      "titulo": "Podemos sentencia que su proyecto es el tándem con Rufián y solo se abre a que Frente Amplio se integre dentro",
+      "medio": "Europa Press",
+      "url": "https://www.europapress.es/nacional/noticia-podemos-sentencia-proyecto-tandem-rufian-solo-abre-frente-amplio-integre-dentro-20261013124805.html",
+      "fecha": "2026-10-13T10:48+00:00",
+      "partidos": [
+        "sumar"
+      ]
+    },
+    {
+      "titulo": "El Gobierno de PP y Vox en Aragón ficha a un representante de Abogados Cristianos como asesor en Medio Ambiente",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/aragon/politica/coalicion-pp-vox-aragon-ficha-representante-abogados-cristianos-asesor-juridico-medio-ambiente_1_13581436.html",
+      "fecha": "2026-10-13T10:38+00:00",
+      "partidos": [
+        "pp",
+        "vox"
+      ]
+    },
+    {
+      "titulo": "Ana Vázquez (PP) se libra de la sanción por llevar un spray de pimienta al Congreso por la convocatoria electoral",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/politica/ana-vazquez-pp-libra-sancion-llevar-spray-pimienta-congreso-convocatoria-electoral_1_13581460.html",
+      "fecha": "2026-10-13T10:34+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "El PP y UPN alcanzan un principio de acuerdo para ir en coalición el 29-N",
+      "medio": "El País",
+      "url": "https://elpais.com/espana/elecciones-generales/2026-10-13/el-pp-y-upn-alcanzan-un-principio-de-acuerdo-para-ir-en-coalicion-el-29-n.html",
+      "fecha": "2026-10-13T10:26+00:00",
+      "partidos": [
+        "pp",
+        "upn"
+      ]
+    },
+    {
+      "titulo": "Feijóo acusa a Sánchez de mentir por la entrada de buques marroquíes en Ceuta y cree que debió desplegar el Ejército",
+      "medio": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/politica/20261013/11657744/feijoo-acusa-sanchez-mentir-entrada-buques-marroquies-ceuta-cree-debio-desplegar-ejercito.html",
+      "fecha": "2026-10-13T10:21+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "Podemos da la vuelta a la oferta del Frente Amplio y lo invita a “sumarse” a su alianza con ERC",
+      "medio": "El País",
+      "url": "https://elpais.com/espana/elecciones-generales/2026-10-13/montero-confirma-conversaciones-con-el-frente-amplio-lo-importante-es-llegar-a-buen-puerto.html",
+      "fecha": "2026-10-13T10:16+00:00",
+      "partidos": [
+        "sumar",
+        "erc"
+      ]
+    },
+    {
+      "titulo": "Irene Montero descarta integrar Podemos en Frente Amplio, pero se abre a intentar \"todas las formas de colaboración\"",
+      "medio": "20minutos",
+      "url": "https://www.20minutos.es/nacional/irene-montero-descarta-integrar-podemos-frente-amplio-pero-mantiene-abiertas-las-vias-colaboracion_7048050_0.html",
+      "fecha": "2026-10-13T09:58+00:00",
+      "partidos": [
+        "sumar",
+        "podemos"
+      ]
+    },
+    {
+      "titulo": "Feijóo promete \"garantizar la viabilidad\" del sistema de pensiones y revalorizarlas conforme al IPC",
+      "medio": "20minutos",
+      "url": "https://www.20minutos.es/nacional/feijoo-promete-garantizar-viabilidad-sistema-pensiones-revalorizarlas-conforme-ipc_7048047_0.html",
+      "fecha": "2026-10-13T09:50+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "Bardella arropa a Abascal hacia el 29-N cargando contra la política migratoria de Sánchez por sus \"consecuencias dramáticas para el equilibrio\" de Europa",
+      "medio": "El Mundo",
+      "url": "https://www.elmundo.es/espana/2026/10/13/6acdcf07fc6c837c458b4579.html",
+      "fecha": "2026-10-13T09:29+00:00",
+      "partidos": [
+        "vox"
+      ]
+    },
+    {
+      "titulo": "Feijóo asegura que Sánchez debió desplegar el Ejército en Ceuta y le acusa de \"mentir\" sobre los buques marroquíes que entraron en aguas españolas",
+      "medio": "El Mundo",
+      "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/10/13/6acdd627e9cf4a3f058b4586.html",
+      "fecha": "2026-10-13T09:24+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "Feijóo, tras el fallo del Supremo sobre la 'ley de nietos': \"No hay limpieza democrática si no hay limpieza del censo\"",
+      "medio": "Europa Press",
+      "url": "https://www.europapress.es/nacional/noticia-feijoo-fallo-supremo-ley-nietos-no-hay-limpieza-democratica-si-no-hay-limpieza-censo-20261013112247.html",
+      "fecha": "2026-10-13T09:22+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
       "titulo": "El Parlamento asturiano guarda un minuto de silencio por Maricarmen con la ausencia de PP, Vox y Foro",
       "medio": "elDiario.es",
       "url": "https://www.eldiario.es/asturias/parlamento-asturiano-guarda-minuto-silencio-maricarmen-ausencia-pp-vox-foro_1_13581038.html",
@@ -669,6 +933,15 @@
       ]
     },
     {
+      "titulo": "Dónde está la España de Vox",
+      "medio": "El Mundo",
+      "url": "https://www.elmundo.es/espana/2026/10/13/6acd1967fc6c83ee738b457c.html",
+      "fecha": "2026-10-12T22:00+00:00",
+      "partidos": [
+        "vox"
+      ]
+    },
+    {
       "titulo": "El PP pide al alcalde de Algeciras que dimita tras recibir dos denuncias por agresión sexual de afiliadas del partido",
       "medio": "elDiario.es",
       "url": "https://www.eldiario.es/andalucia/cadiz/pp-pide-alcalde-algeciras-dimita-recibir-denuncias-agresion-sexual-afiliadas-partido_1_13580516.html",
@@ -728,6 +1001,15 @@
       "medio": "El País",
       "url": "https://elpais.com/espana/2026-10-12/el-pp-de-cadiz-exige-la-dimision-del-alcalde-de-algeciras-tras-conocer-una-nueva-denuncia-de-agresion-sexual.html",
       "fecha": "2026-10-12T20:26+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "El PP pide la dimisión del alcalde de Algeciras tras la denuncia por abusos sexuales de una segunda militante",
+      "medio": "El Mundo",
+      "url": "https://www.elmundo.es/andalucia/2026/10/12/6acd3c42fc6c83097b8b4591.html",
+      "fecha": "2026-10-12T20:19+00:00",
       "partidos": [
         "pp"
       ]
@@ -2975,277 +3257,6 @@
       "medio": "El Mundo",
       "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/10/08/6ac7d2a5fdddffea268b4574.html",
       "fecha": "2026-10-08T20:42+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "El PSOE está a solo 0,5 puntos de verse sobrepasado por Compromís en la Comunidad Valenciana antes de las generales",
-      "medio": "El Mundo",
-      "url": "https://www.elmundo.es/espana/encuestas/2026/10/08/6ac7db79e9cf4af0188b4583.html",
-      "fecha": "2026-10-08T20:41+00:00",
-      "partidos": [
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "Las recetas del responsable económico de Vox: rumbo a la privatización de las pensiones y un IRPF a medida de los ricos",
-      "medio": "elDiario.es",
-      "url": "https://www.eldiario.es/economia/recetas-responsable-economico-vox-rumbo-privatizacion-pensiones-irpf-medida-ricos_1_13572527.html",
-      "fecha": "2026-10-08T20:34+00:00",
-      "partidos": [
-        "vox"
-      ]
-    },
-    {
-      "titulo": "Adriana lastra encabezará lista del PSOE al Congreso por Asturias el 29-N",
-      "medio": "El País",
-      "url": "https://elpais.com/espana/elecciones-generales/2026-10-08/adriana-lastra-encabezara-lista-del-psoe-al-congreso-por-asturias-el-29-n.html",
-      "fecha": "2026-10-08T19:23+00:00",
-      "partidos": [
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "La legislatura del PSIR: el Gobierno del PP impulsa seis proyectos de recalificación de suelo para promotores privados",
-      "medio": "elDiario.es",
-      "url": "https://www.eldiario.es/cantabria/legislatura-psir-gobierno-pp-impulsa-seis-proyectos-recalificacion-suelo-promotores-privados_1_13568249.html",
-      "fecha": "2026-10-08T19:22+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Miguel Ángel Rodríguez: \"Hasta donde sé, Leire, Cerdán y el PSOE van pa'lante, por eso intentan quemar las calles\"",
-      "medio": "elDiario.es",
-      "url": "https://www.eldiario.es/madrid/miguel-angel-rodriguez-leire-cerdan-psoe-pa-lante-quemar-calles_1_13573737.html",
-      "fecha": "2026-10-08T18:42+00:00",
-      "partidos": [
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "Adriana Lastra volverá a ser cabeza de lista del PSOE al Congreso por Asturias en las elecciones generales",
-      "medio": "El Mundo",
-      "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/10/08/6ac7dbc1e9cf4a916b8b4597.html",
-      "fecha": "2026-10-08T18:09+00:00",
-      "partidos": [
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "Vox sustituye a la díscola Carla Toscano por un medallista olímpico para el Ayuntamiento de Madrid",
-      "medio": "elDiario.es",
-      "url": "https://www.eldiario.es/madrid/somos/medallista-olimpico-toma-relevo-carla-toscano-concejal-vox-ayuntamiento-madrid_1_13571759.html",
-      "fecha": "2026-10-08T18:00+00:00",
-      "partidos": [
-        "vox"
-      ]
-    },
-    {
-      "titulo": "Rufián asegura que quiere ser el candidato de ERC en las elecciones, pero \"acompañado\" de otras fuerzas de izquierdas",
-      "medio": "20minutos",
-      "url": "https://www.20minutos.es/nacional/rufian-asegura-que-quiere-ser-candidato-esquerra-las-elecciones-pero-acompanado-otras-fuerzas-izquierdas_7046790_0.html",
-      "fecha": "2026-10-08T17:54+00:00",
-      "partidos": [
-        "erc"
-      ]
-    },
-    {
-      "titulo": "Rufián asegura que quiere ser el candidato de ERC pero \"acompañado\" de otras izquierdas",
-      "medio": "El Confidencial",
-      "url": "https://www.elconfidencial.com/espana/2026-10-08/rufian-dudas-internas-candidatura_4441377/",
-      "fecha": "2026-10-08T17:19+00:00",
-      "partidos": [
-        "erc"
-      ]
-    },
-    {
-      "titulo": "Rufián afirma que quiere representar a ERC acompañado de otras fuerzas: \"Lo intentaré hasta el final\"",
-      "medio": "Europa Press",
-      "url": "https://www.europapress.es/catalunya/noticia-rufian-afirma-quiere-representar-erc-acompanado-otras-fuerzas-intentare-final-20261008190904.html",
-      "fecha": "2026-10-08T17:09+00:00",
-      "partidos": [
-        "erc"
-      ]
-    },
-    {
-      "titulo": "Un portavoz cercano a Junqueras se postula para la lista de ERC ante las dudas de Rufián",
-      "medio": "El Confidencial",
-      "url": "https://www.elconfidencial.com/espana/2026-10-08/un-portavoz-cercano-a-junqueras-se-postula-para-la-lista-de-erc-ante-las-dudas-de-rufian_4441377/",
-      "fecha": "2026-10-08T17:04+00:00",
-      "partidos": [
-        "erc"
-      ]
-    },
-    {
-      "titulo": "El PSOE mantiene la incógnita sobre si Begoña Gómez irá a la lista para las elecciones del 29N",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/psoe-mantiene-incognita-sobre-begona-gomez-ira-20261008122844-nt.html",
-      "fecha": "2026-10-08T17:02+00:00",
-      "partidos": [
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "El hermano de Pedro Sánchez pide su absolución por considerar que se le condenó por su parentesco con el presidente del Gobierno",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/hermano-sanchez-pide-absolucion-considerar-condeno-parentesco-20261008115945-nt.html",
-      "fecha": "2026-10-08T17:01+00:00",
-      "partidos": [
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "ERC ya teme la ruptura con Rufián y empieza a sondear a candidatos alternativos: \"Veremos. El no acuerdo sería un desastre\"",
-      "medio": "El Mundo",
-      "url": "https://www.elmundo.es/cataluna/2026/10/08/6ac7cbf7fdddff142d8b456e.html",
-      "fecha": "2026-10-08T16:59+00:00",
-      "partidos": [
-        "erc"
-      ]
-    },
-    {
-      "titulo": "Podemos avanza en su plan de primarias abiertas y lanza una web para recoger a inscritos y candidatos al 29N",
-      "medio": "Europa Press",
-      "url": "https://www.europapress.es/nacional/noticia-podemos-avanza-plan-primarias-abiertas-lanza-web-recoger-inscritos-candidatos-29n-20261008184011.html",
-      "fecha": "2026-10-08T16:40+00:00",
-      "partidos": [
-        "podemos"
-      ]
-    },
-    {
-      "titulo": "La jueza Biedma declara que las cloacas del PSOE realizaron seguimientos en el colegio de sus hijas",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/jueza-biedma-dice-sintio-angustiada-perseguida-cloacas-20261008122158-nt.html",
-      "fecha": "2026-10-08T16:35+00:00",
-      "partidos": [
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "Las negociaciones entre ERC y Rufián siguen abiertas y la dirección sopesa una alternativa para el 29-N",
-      "medio": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/politica/20261008/11654486/negociaciones-erc-rufian-siguen-abiertas-direccion-sopesa-alternativa-29-n.html",
-      "fecha": "2026-10-08T16:09+00:00",
-      "partidos": [
-        "erc"
-      ]
-    },
-    {
-      "titulo": "El plan B de ERC para las elecciones generales por si Rufián da la espantada",
-      "medio": "elDiario.es",
-      "url": "https://www.eldiario.es/catalunya/plan-b-erc-elecciones-generales-si-rufian-da-espantada_1_13573245.html",
-      "fecha": "2026-10-08T15:59+00:00",
-      "partidos": [
-        "erc"
-      ]
-    },
-    {
-      "titulo": "El hermano de Pedro Sánchez presenta recurso de apelación por \"investigación prospectiva\" y pide su absolución",
-      "medio": "Europa Press",
-      "url": "https://www.europapress.es/extremadura/noticia-hermano-pedro-sanchez-presenta-recurso-apelacion-investigacion-prospectiva-pide-absolucion-20261008174049.html",
-      "fecha": "2026-10-08T15:40+00:00",
-      "partidos": [
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "Feijóo nombra a Miguel Tellado como director de campaña y se rodea de su núcleo duro para ganar las elecciones generales",
-      "medio": "20minutos",
-      "url": "https://www.20minutos.es/nacional/feijoo-nombra-miguel-tellado-como-director-campana-se-rodea-su-nucleo-duro-para-ganar-las-elecciones-generales_7046655_0.html",
-      "fecha": "2026-10-08T14:43+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Feijóo evita mencionar a Maricarmen ante la cúpula del PP: “No vamos a permitir el intento de manipulación emocional a los ciudadanos”",
-      "medio": "El País",
-      "url": "https://elpais.com/espana/elecciones-generales/2026-10-08/feijoo-evita-mencionar-a-maricarmen-ante-la-cupula-del-pp-no-vamos-a-permitir-el-intento-de-manipulacion-emocional-a-los-ciudadanos.html",
-      "fecha": "2026-10-08T13:16+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Anticorrupción informa al juez de que existen indicios contra el PSOE por el caso Leire pero aún es prematuro pedir su imputación",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/anticorrupcion-informa-juez-existen-indicios-psoe-leire-20261008110744-nt.html",
-      "fecha": "2026-10-08T13:12+00:00",
-      "partidos": [
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "Felipe González, sin contemplaciones con Pedro Sánchez: «Me cuesta trabajo soportar que diga que el Parlamento traicionó a la mayoría. Es lo que dicen en Venezuela»",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/felipe-gonzalez-contemplaciones-pedro-sanchez-cuesta-trabajo-20261008130010-nt.html",
-      "fecha": "2026-10-08T12:52+00:00",
-      "partidos": [
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "'Barones' del PP, tras los indicios de Anticorrupción contra el PSOE en el 'caso Leire': \"Son una banda de mafiosos\"",
-      "medio": "Europa Press",
-      "url": "https://www.europapress.es/nacional/noticia-barones-pp-indicios-anticorrupcion-contra-psoe-caso-leire-son-banda-mafiosos-20261008144836.html",
-      "fecha": "2026-10-08T12:48+00:00",
-      "partidos": [
-        "pp",
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "El PP de Núñez, sobre la retirada del Estatuto: «Es un ejemplo más del fracaso del Gobierno de Page»",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/castilla-la-mancha/pp-nunez-sobre-retirada-estatuto-ejemplo-fracaso-20261008120517-nt.html",
-      "fecha": "2026-10-08T12:47+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Junts repetirá cartel electoral el 29-N en Barcelona, Lleida, Girona y Tarragona",
-      "medio": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/politica/elecciones/20261008/11654276/junts-repetira-cartel-electoral-29-n-barcelona-lleida-girona-tarragona.html",
-      "fecha": "2026-10-08T12:26+00:00",
-      "partidos": [
-        "junts"
-      ]
-    },
-    {
-      "titulo": "La vía Ada Colau no altera el paso a Podemos: Irene Montero proclama que sólo cabe el acuerdo si hay primarias",
-      "medio": "Europa Press",
-      "url": "https://www.europapress.es/nacional/noticia-via-ada-colau-no-altera-paso-podemos-irene-montero-proclama-solo-cabe-acuerdo-si-hay-primarias-20261008142154.html",
-      "fecha": "2026-10-08T12:21+00:00",
-      "partidos": [
-        "podemos"
-      ]
-    },
-    {
-      "titulo": "Feijóo acusa a Sánchez de \"intentar manipular emocionalmente a los españoles\" tras la muerte de Maricarmen: \"no vamos a caer en sus trampas\"",
-      "medio": "elDiario.es",
-      "url": "https://www.eldiario.es/politica/feijoo-acusa-sanchez-manipular-emocionalmente-espanoles-muerte-maricarmen-no-caer-trampas_1_13572237.html",
-      "fecha": "2026-10-08T12:13+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Feijóo acusa a Sánchez de “manipulación emocional” con la vivienda tras haber “creado el problema”",
-      "medio": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/politica/20261008/11654238/feijoo-acusa-sanchez-manipulacion-emocional-vivienda-haber-creado-problema.html",
-      "fecha": "2026-10-08T11:46+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Feijóo pide al PP no confiarse ante una campaña llena de \"manipulaciones\" de Sánchez: \"No vamos a caer en sus trampas\"",
-      "medio": "20minutos",
-      "url": "https://www.20minutos.es/nacional/feijoo-pide-pp-no-confiarse-ante-una-campana-llena-manipulaciones-sanchez-no-vamos-caer-sus-trampas_7046547_0.html",
-      "fecha": "2026-10-08T11:30+00:00",
       "partidos": [
         "pp"
       ]
