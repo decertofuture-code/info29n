@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-12T21:17+00:00",
+  "actualizado": "2026-10-13T05:08+00:00",
   "temas": [
     {
       "id": "vivienda",
@@ -449,6 +449,138 @@
   ],
   "noticias": [
     {
+      "titulo": "Sánchez y Feijóo ven la victoria a mano y creen que sus fieles están activados",
+      "medio": "El País",
+      "url": "https://elpais.com/espana/elecciones-generales/2026-10-13/sanchez-y-feijoo-ven-la-victoria-a-mano-y-creen-que-sus-fieles-estan-activados.html",
+      "fecha": "2026-10-13T03:30+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "El voto exterior favorece a la izquierda: el PSOE gana fuera mientras pierde en casa",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/voto-exterior-favorece-izquierda-psoe-gana-pierde-20261013015532-nt.html",
+      "fecha": "2026-10-13T00:26+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "Feijóo, ante la ausencia de Abascal en la Fiesta Nacional: «Con Vox, ni cordón sanitario ni cordón umbilical»",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/feijoo-ante-ausencia-abascal-vox-cordon-sanitario-20261013014249-nt.html",
+      "fecha": "2026-10-12T23:42+00:00",
+      "partidos": [
+        "pp",
+        "vox"
+      ]
+    },
+    {
+      "titulo": "Feijóo, a la embajadora de Marruecos: «He cumplido con mi deber»",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/feijoo-embajadora-marruecos-cumplido-deber-20261013014233-nt.html",
+      "fecha": "2026-10-12T23:42+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "Vox sacude el mapa electoral: cerca al PSOE en Andalucía, lo supera en Murcia y da el sorpasso al PP en Cataluña",
+      "medio": "El Mundo",
+      "url": "https://www.elmundo.es/espana/encuestas/2026/10/13/6acd12e2e4d4d82d4c8b4592.html",
+      "fecha": "2026-10-12T23:37+00:00",
+      "partidos": [
+        "pp",
+        "psoe",
+        "vox"
+      ]
+    },
+    {
+      "titulo": "PSOE i PP es barallen en el fang",
+      "medio": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/encatala/20261013/11657003/psoe-i-pp-fang-digital-ctx.html",
+      "fecha": "2026-10-12T22:35+00:00",
+      "partidos": [
+        "pp",
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "PSOE y PP pelean en el barro",
+      "medio": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/opinion/20261013/11656996/psoe-pp-barro-digital.html",
+      "fecha": "2026-10-12T22:30+00:00",
+      "partidos": [
+        "pp",
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "El Frente Amplio proclama líder a Colau tras la provocación del pacto entre Rufián y Montero",
+      "medio": "El Mundo",
+      "url": "https://www.elmundo.es/cataluna/2026/10/13/6acd3c3be85ecee9318b4594.html",
+      "fecha": "2026-10-12T22:00+00:00",
+      "partidos": [
+        "sumar"
+      ]
+    },
+    {
+      "titulo": "Guerra en la cima del PNV entre el clan de Ortuzar y Aitor Esteban con la 'excusa' del control en Vizcaya",
+      "medio": "El Mundo",
+      "url": "https://www.elmundo.es/pais-vasco/2026/10/13/6accce7ae85eceb3788b4580.html",
+      "fecha": "2026-10-12T22:00+00:00",
+      "partidos": [
+        "pnv"
+      ]
+    },
+    {
+      "titulo": "El PP pide al alcalde de Algeciras que dimita tras recibir dos denuncias por agresión sexual de afiliadas del partido",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/andalucia/cadiz/pp-pide-alcalde-algeciras-dimita-recibir-denuncias-agresion-sexual-afiliadas-partido_1_13580516.html",
+      "fecha": "2026-10-12T21:52+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "Maíllo dice que \"siempre\" ha tenido claro que Rufián \"nunca iba a dar el paso\" e insta a Podemos a decidir",
+      "medio": "Europa Press",
+      "url": "https://www.europapress.es/nacional/noticia-maillo-dice-siempre-tenido-claro-rufian-nunca-iba-dar-paso-insta-podemos-decidir-20261012232718.html",
+      "fecha": "2026-10-12T21:27+00:00",
+      "partidos": [
+        "podemos"
+      ]
+    },
+    {
+      "titulo": "La mayoría de votantes de izquierdas apoyan que Frente Amplio y Podemos vayan juntos a las elecciones",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/politica/mayoria-votantes-izquierdas-apoyan-frente-amplio-vayan-elecciones_1_13579824.html",
+      "fecha": "2026-10-12T20:35+00:00",
+      "partidos": [
+        "sumar",
+        "podemos"
+      ]
+    },
+    {
+      "titulo": "Ignacio González se sienta en el banquillo por el amaño del campo de golf que el PP construyó en el centro de Madrid",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/politica/ignacio-gonzalez-sienta-banquillo-amano-campo-golf-pp-construyo-centro-madrid_1_13575747.html",
+      "fecha": "2026-10-12T20:35+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "El Pacto 'estrella' del PP para transformar Balears se desinfla entre el hermetismo y más de 230.000 euros públicos en gastos",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/illes-balears/economia/pacto-estrella-pp-transformar-balears-desinfla-hermetismo-230-000-euros-publicos-gastos_1_13531583.html",
+      "fecha": "2026-10-12T20:35+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
       "titulo": "El PP de Cádiz exige al alcalde de Algeciras que dimita al conocer otra denuncia por abuso sexual",
       "medio": "ABC",
       "url": "https://www.abc.es/espana/andalucia/cadiz/genova-exige-alcalde-algeciras-dimita-conocer-denuncia-20261012213812-nts.html",
@@ -463,8 +595,27 @@
       "url": "https://www.elconfidencial.com/espana/2026-10-12/ada-colau-candidata-frente-amplio-elecciones-1tps_4443526/",
       "fecha": "2026-10-12T20:17+00:00",
       "partidos": [
+        "sumar",
         "erc",
         "podemos"
+      ]
+    },
+    {
+      "titulo": "Frente Amplio elige a Colau como candidata y alfombra su vuelta a la política",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/frente-amplio-coloca-candidata-presidencia-colau-vuelve-20261012200501-nt.html",
+      "fecha": "2026-10-12T20:05+00:00",
+      "partidos": [
+        "sumar"
+      ]
+    },
+    {
+      "titulo": "Una segunda militante del PP denuncia al alcalde de Algeciras por abusar de ella sexualmente en su despacho",
+      "medio": "El Mundo",
+      "url": "https://www.elmundo.es/andalucia/2026/10/12/6aca82d3e85ece8e168b456d.html",
+      "fecha": "2026-10-12T19:23+00:00",
+      "partidos": [
+        "pp"
       ]
     },
     {
@@ -473,6 +624,7 @@
       "url": "https://elpais.com/espana/elecciones-generales/2026-10-12/el-frente-amplio-propone-a-ada-colau-como-candidata-a-la-presidencia-y-deja-abierta-la-integracion-de-podemos.html",
       "fecha": "2026-10-12T18:15+00:00",
       "partidos": [
+        "sumar",
         "podemos"
       ]
     },
@@ -482,6 +634,7 @@
       "url": "https://www.20minutos.es/nacional/frente-amplio-propone-ada-colau-como-cabeza-lista-las-elecciones-29n_7047873_0.html",
       "fecha": "2026-10-12T18:10+00:00",
       "partidos": [
+        "sumar",
         "podemos"
       ]
     },
@@ -500,6 +653,7 @@
       "url": "https://www.europapress.es/nacional/noticia-partidos-frente-amplio-proponen-ada-colau-candidata-29n-20261012200309.html",
       "fecha": "2026-10-12T18:03+00:00",
       "partidos": [
+        "sumar",
         "erc",
         "podemos"
       ]
@@ -510,6 +664,7 @@
       "url": "https://www.eldiario.es/politica/frente-amplio-responde-ordago-rufian-confirma-colau-candidata-llama-montero-sumarse_1_13580395.html",
       "fecha": "2026-10-12T17:56+00:00",
       "partidos": [
+        "sumar",
         "podemos"
       ]
     },
@@ -668,6 +823,7 @@
       "url": "https://www.europapress.es/nacional/noticia-comuns-acusan-rufian-dividir-izquierda-pacto-erc-podemos-iran-elecciones-frente-amplio-20261012141859.html",
       "fecha": "2026-10-12T12:18+00:00",
       "partidos": [
+        "sumar",
         "erc",
         "podemos"
       ]
@@ -762,6 +918,7 @@
       "url": "https://www.lavanguardia.com/politica/20261012/11656934/frente-amplio-recula-portazo-rufian-traslada-presion.html",
       "fecha": "2026-10-12T09:28+00:00",
       "partidos": [
+        "sumar",
         "podemos"
       ]
     },
@@ -854,6 +1011,7 @@
       "url": "https://www.20minutos.es/nacional/frente-amplio-podemos-encaran-una-semana-decisiva-que-tendran-que-decidir-si-concurren-juntos-las-elecciones_7046022_0.html",
       "fecha": "2026-10-12T05:22+00:00",
       "partidos": [
+        "sumar",
         "podemos"
       ]
     },
@@ -883,6 +1041,15 @@
       "fecha": "2026-10-12T03:30+00:00",
       "partidos": [
         "pp"
+      ]
+    },
+    {
+      "titulo": "La candidatura por Madrid frena el acuerdo del Frente Amplio",
+      "medio": "El País",
+      "url": "https://elpais.com/espana/elecciones-generales/2026-10-12/la-candidatura-por-madrid-frena-el-acuerdo-del-frente-amplio.html",
+      "fecha": "2026-10-12T03:30+00:00",
+      "partidos": [
+        "sumar"
       ]
     },
     {
@@ -1013,6 +1180,7 @@
       "url": "https://www.eldiario.es/catalunya/giro-rufian-descoloca-izquierda-complica-pacto-frente-amplio_1_13579035.html",
       "fecha": "2026-10-11T19:10+00:00",
       "partidos": [
+        "sumar",
         "podemos"
       ]
     },
@@ -1055,6 +1223,15 @@
       ]
     },
     {
+      "titulo": "IU apoya a Ada Colau para que lidere el Frente Amplio y pide responsabilidad a los partidos",
+      "medio": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/politica/20261011/11656655/iu-apoya-ada-colau-lidere-frente-amplio-pide-responsabilidad-partidos.html",
+      "fecha": "2026-10-11T18:22+00:00",
+      "partidos": [
+        "sumar"
+      ]
+    },
+    {
       "titulo": "Puigdemont, en París para asistir en el Olympia al 50 aniversario de María del Mar Bonet",
       "medio": "La Vanguardia",
       "url": "https://www.lavanguardia.com/politica/20261011/11656650/puigdemont-paris-asistir-olympia-50-aniversario-maria-mar-bonet.html",
@@ -1069,6 +1246,7 @@
       "url": "https://www.elmundo.es/cataluna/2026/10/11/6aca79c0e9cf4a25568b45b0.html",
       "fecha": "2026-10-11T18:04+00:00",
       "partidos": [
+        "sumar",
         "erc",
         "podemos"
       ]
@@ -1106,6 +1284,7 @@
       "url": "https://www.20minutos.es/nacional/decision-rufian-sacude-izquierda-opcion-pacto-inedito-erc-podemos-cataluna-nuevo-giro-frente-amplio_7047674_0.html",
       "fecha": "2026-10-11T17:18+00:00",
       "partidos": [
+        "sumar",
         "erc",
         "podemos"
       ]
@@ -1134,6 +1313,7 @@
       "url": "https://www.abc.es/espana/madrid-propone-emilio-delgado-delante-monica-garcia-20261011140034-nt.html",
       "fecha": "2026-10-11T16:25+00:00",
       "partidos": [
+        "sumar",
         "erc"
       ]
     },
@@ -1143,6 +1323,7 @@
       "url": "https://www.europapress.es/nacional/noticia-decision-rufian-sacude-izquierda-opcion-pacto-inedito-erc-podemos-nuevo-giro-frente-amplio-20261011174549.html",
       "fecha": "2026-10-11T15:45+00:00",
       "partidos": [
+        "sumar",
         "erc",
         "podemos"
       ]
@@ -1249,6 +1430,15 @@
       ]
     },
     {
+      "titulo": "Más Madrid propone a Emilio Delgado como cabeza de lista del Frente Amplio por Madrid",
+      "medio": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/politica/20261011/11656543/mas-madrid-propone-emilio-delgado-cabeza-lista-frente-amplio-madrid.html",
+      "fecha": "2026-10-11T11:57+00:00",
+      "partidos": [
+        "sumar"
+      ]
+    },
+    {
       "titulo": "El PP replica al PSOE que el “sacrificio” no tiene “nada que ver con los recortes”: “Si te esfuerzas, tienes recompensa”",
       "medio": "La Vanguardia",
       "url": "https://www.lavanguardia.com/politica/20261011/11656532/pp-replica-psoe-sacrificio-ver-recortes-te-esfuerzas-tienes-recompensa.html",
@@ -1313,6 +1503,7 @@
       "url": "https://www.eldiario.es/catalunya/erc-confirma-rufian-cabeza-lista-cierra-puerta-frente-amplio_1_13577275.html",
       "fecha": "2026-10-11T10:04+00:00",
       "partidos": [
+        "sumar",
         "erc"
       ]
     },
@@ -1453,6 +1644,15 @@
       "fecha": "2026-10-11T00:12+00:00",
       "partidos": [
         "vox"
+      ]
+    },
+    {
+      "titulo": "Colau, la preferida de los votantes del Frente Amplio por delante de Mónica García e Irene Montero",
+      "medio": "El Mundo",
+      "url": "https://www.elmundo.es/espana/encuestas/2026/10/11/6aca59f9fdddff80638b456d.html",
+      "fecha": "2026-10-11T00:06+00:00",
+      "partidos": [
+        "sumar"
       ]
     },
     {
@@ -1678,6 +1878,15 @@
       ]
     },
     {
+      "titulo": "Comuns ratifica su invitación a Rufián para que forme parte del Frente Amplio",
+      "medio": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/politica/20261010/11655932/comuns-ratifica-invitacion-rufian-forme-parte-frente-amplio.html",
+      "fecha": "2026-10-10T10:35+00:00",
+      "partidos": [
+        "sumar"
+      ]
+    },
+    {
       "titulo": "ERC y EH Bildu reeditarán su coalición al Senado para hacer frente al \"bloque reaccionario\"",
       "medio": "20minutos",
       "url": "https://www.20minutos.es/nacional/erc-eh-bildu-reeditaran-su-coalicion-senado-para-hacer-frente-bloque-reaccionario_7047407_0.html",
@@ -1861,6 +2070,7 @@
       "url": "https://www.eldiario.es/politica/pacto-frente-amplio-duplicaria-opciones-generales_1_13574953.html",
       "fecha": "2026-10-09T20:40+00:00",
       "partidos": [
+        "sumar",
         "podemos"
       ]
     },
@@ -1897,7 +2107,8 @@
       "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/10/09/6ac932d921efa0c7758b45ae.html",
       "fecha": "2026-10-09T18:52+00:00",
       "partidos": [
-        "psoe"
+        "psoe",
+        "sumar"
       ]
     },
     {
@@ -1920,6 +2131,15 @@
       ]
     },
     {
+      "titulo": "Colau abre el Frente Amplio a Rufián y le pide ejercer su liderazgo para unir a las izquierdas",
+      "medio": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/politica/20261009/11655525/colau-abre-frente-amplio-rufian-le-pide-ejercer-liderazgo-unir-izquierdas.html",
+      "fecha": "2026-10-09T18:05+00:00",
+      "partidos": [
+        "sumar"
+      ]
+    },
+    {
       "titulo": "Bendodo pide interventores del PP en todas las mesas en las elecciones generales: \"No nos fiamos de este Gobierno\"",
       "medio": "20minutos",
       "url": "https://www.20minutos.es/nacional/bendodo-pide-interventores-pp-todas-las-mesas-las-elecciones-generales-no-nos-fiamos-este-gobierno_7047310_0.html",
@@ -1934,6 +2154,7 @@
       "url": "https://www.europapress.es/nacional/noticia-29n-comuns-reclama-incluir-podemos-frente-amplio-llegar-acuerdo-candidatura-colau-20261009191930.html",
       "fecha": "2026-10-09T17:19+00:00",
       "partidos": [
+        "sumar",
         "podemos"
       ]
     },
@@ -2359,6 +2580,7 @@
       "url": "https://www.europapress.es/nacional/noticia-puente-insta-podemos-frente-amplio-llegar-acuerdo-dejar-lado-egos-20261009101918.html",
       "fecha": "2026-10-09T08:19+00:00",
       "partidos": [
+        "sumar",
         "podemos"
       ]
     },
@@ -2592,6 +2814,7 @@
       "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/10/09/6ac7d26cfdddffae308b459d.html",
       "fecha": "2026-10-08T23:52+00:00",
       "partidos": [
+        "sumar",
         "podemos"
       ]
     },
@@ -3018,209 +3241,6 @@
       "medio": "Europa Press",
       "url": "https://www.europapress.es/nacional/noticia-anticorrupcion-ve-indicios-contra-psoe-caso-leire-diez-considera-imputacion-prematura-20261008111339.html",
       "fecha": "2026-10-08T09:13+00:00",
-      "partidos": [
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "Anticorrupción ve \"prematura\" la posibilidad de imputar al PSOE en el caso cloacas pero aprecia \"indicios\" contra el partido",
-      "medio": "20minutos",
-      "url": "https://www.20minutos.es/nacional/anticorrupcion-ve-prematura-posibilidad-imputar-psoe-caso-cloacas-pero-ve-indicios-contra-partido_7046443_0.html",
-      "fecha": "2026-10-08T09:10+00:00",
-      "partidos": [
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "El hermano de Pedro Sánchez recurre su condena de inhabilitación: “Lo persiguen por su libro de familia”",
-      "medio": "elDiario.es",
-      "url": "https://www.eldiario.es/extremadura/politica/hermano-pedro-sanchez-recurre-condena-inhabilitacion-persiguen-libro-familia_1_13571448.html",
-      "fecha": "2026-10-08T09:08+00:00",
-      "partidos": [
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "La Fiscalía ve \"prematuro\" imputar ahora al PSOE como pide el PP pese a ver indicios",
-      "medio": "El Confidencial",
-      "url": "https://www.elconfidencial.com/espana/2026-10-08/la-fiscalia-ve-prematuro-imputar-ahora-al-psoe-como-pide-el-pp-pese-a-ver-indicios_4440873/",
-      "fecha": "2026-10-08T09:04+00:00",
-      "partidos": [
-        "pp",
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "Elma Saiz elude responder si Begoña Gómez irá en las listas del PSOE: \"Ni confirmo ni desmiento, no me corresponde\"",
-      "medio": "Europa Press",
-      "url": "https://www.europapress.es/nacional/noticia-elma-saiz-elude-responder-si-begona-gomez-ira-listas-psoe-confirmo-desmiento-no-me-corresponde-20261008110402.html",
-      "fecha": "2026-10-08T09:04+00:00",
-      "partidos": [
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "Más Madrid y el PSOE usan el cadáver de Maricarmen para lanzarlo como arma política contra Ayuso",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/madrid/madrid-psoe-usan-cadaver-maricarmen-lanzarlo-arma-20261008105136-nt.html",
-      "fecha": "2026-10-08T09:00+00:00",
-      "partidos": [
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "La Fiscalía Anticorrupción ve indicios contra el PSOE en el ‘caso Leire Díez’ pero pospone la decisión sobre su imputación",
-      "medio": "El País",
-      "url": "https://elpais.com/espana/2026-10-08/la-fiscalia-anticorrupcion-ve-indicios-contra-el-psoe-en-el-caso-leire-diez-pero-pospone-la-decision-sobre-su-imputacion.html",
-      "fecha": "2026-10-08T08:57+00:00",
-      "partidos": [
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "La Fiscalía Anticorrupción se opone por prematura a la petición del PP de imputar al PSOE en el caso Leire Díez",
-      "medio": "elDiario.es",
-      "url": "https://www.eldiario.es/politica/fiscalia-anticorrupcion-opone-prematura-peticion-pp-imputar-psoe-caso-leire_1_13571361.html",
-      "fecha": "2026-10-08T08:56+00:00",
-      "partidos": [
-        "pp",
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "El campeón olímpico Cristian Toro jura su cargo como concejal de Vox en el Ayuntamiento de Madrid",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/madrid/campeon-olimpico-cristian-toro-jura-cargo-concejal-20261008104344-nt.html",
-      "fecha": "2026-10-08T08:48+00:00",
-      "partidos": [
-        "vox"
-      ]
-    },
-    {
-      "titulo": "Los 'barones' del PSOE lamentan la muerte de Maricarmen y piden continuar la \"lucha\" de la vivienda",
-      "medio": "Europa Press",
-      "url": "https://www.europapress.es/nacional/noticia-barones-psoe-lamentan-muerte-maricarmen-piden-continuar-lucha-vivienda-20261008104815.html",
-      "fecha": "2026-10-08T08:48+00:00",
-      "partidos": [
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "De \"Morocarmen\" a \"puta sinvergüenza\": los insultos y las burlas de PP y Vox contra Maricarmen tras su desahucio",
-      "medio": "elDiario.es",
-      "url": "https://www.eldiario.es/politica/morocarmen-puta-sinverguenza-insultos-burlas-pp-vox-maricarmen-desahucio_1_13571238.html",
-      "fecha": "2026-10-08T08:41+00:00",
-      "partidos": [
-        "pp",
-        "vox"
-      ]
-    },
-    {
-      "titulo": "El PSOE ve «lógico» que Tolón quiera encabezar la lista del PSOE al Congreso por Toledo",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/castilla-la-mancha/psoe-logico-tolon-quiera-encabezar-lista-psoe-20261008102838-nt.html",
-      "fecha": "2026-10-08T08:28+00:00",
-      "partidos": [
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "Bolaños acusa a PP y Vox de \"recortar el derecho de votar por correo\" al \"sembrar dudas\" sobre el proceso electoral",
-      "medio": "Europa Press",
-      "url": "https://www.europapress.es/nacional/noticia-bolanos-acusa-pp-vox-recortar-derecho-votar-correo-sembrar-dudas-proceso-electoral-20261008102235.html",
-      "fecha": "2026-10-08T08:22+00:00",
-      "partidos": [
-        "pp",
-        "vox"
-      ]
-    },
-    {
-      "titulo": "Oskar Matute, dispuesto a repetir como candidato de EH Bildu en las generales del 29 de noviembre",
-      "medio": "elDiario.es",
-      "url": "https://www.eldiario.es/euskadi/oskar-matute-dispuesto-repetir-candidato-eh-bildu-generales-29-noviembre_1_13571246.html",
-      "fecha": "2026-10-08T08:14+00:00",
-      "partidos": [
-        "bildu"
-      ]
-    },
-    {
-      "titulo": "Colau ejerce de líder del Frente Amplio: ofrece a Podemos un \"papel\" y \"visibilidad\" para pactar y le avisa de que \"hay vidas en juego como la de Maricarmen\"",
-      "medio": "El Mundo",
-      "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/10/08/6ac75082e4d4d801548b457f.html",
-      "fecha": "2026-10-08T08:14+00:00",
-      "partidos": [
-        "podemos"
-      ]
-    },
-    {
-      "titulo": "Quién era Xosé Manuel Beiras: del Partido Socialista Galego en la clandestinidad a líder histórico del BNG",
-      "medio": "El Confidencial",
-      "url": "https://www.elconfidencial.com/espana/2026-10-08/quien-era-xose-manuel-beiras_4440807/",
-      "fecha": "2026-10-08T08:01+00:00",
-      "partidos": [
-        "bng"
-      ]
-    },
-    {
-      "titulo": "Un eurodiputado de Vox pide una autopsia al cuerpo de Maricarmen Abascal",
-      "medio": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/politica/20261008/11654001/eurodiputado-vox-pide-autopsia-cuerpo-maricarmen-abascal.html",
-      "fecha": "2026-10-08T07:58+00:00",
-      "partidos": [
-        "vox"
-      ]
-    },
-    {
-      "titulo": "Colau dice que aceptará liderar el Frente Amplio si es una lista de unidad que incluya a Podemos",
-      "medio": "Europa Press",
-      "url": "https://www.europapress.es/nacional/noticia-colau-dice-aceptara-liderar-frente-amplio-si-auna-sola-papeleta-todas-izquierdas-20261008095748.html",
-      "fecha": "2026-10-08T07:57+00:00",
-      "partidos": [
-        "podemos"
-      ]
-    },
-    {
-      "titulo": "Más Madrid y PSOE paran el Pleno con un minuto de silencio por Maricarmen y Almeida les acusa de «carroñerismo»",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/madrid/madrid-psoe-paran-pleno-minuto-silencio-maricarmen-20261008095017-nt.html",
-      "fecha": "2026-10-08T07:50+00:00",
-      "partidos": [
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "Quién es Miguel Tellado: de estratega del PP gallego a número dos de Feijóo y jefe de campaña del 29-N",
-      "medio": "El Confidencial",
-      "url": "https://www.elconfidencial.com/espana/2026-10-08/quien-es-miguel-tellado-estratega-pp-gallego-numero-dos-feijoo-1qrt_4440805/",
-      "fecha": "2026-10-08T07:44+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Almeida, el PP y Vox se quedan sentados en el minuto de silencio por Maricarmen que guardó el Ayuntamiento de Madrid",
-      "medio": "elDiario.es",
-      "url": "https://www.eldiario.es/madrid/somos/almeida-pp-vox-quedan-sentados-durante-minuto-silencio-maricarmen-ayuntamiento-madrid_1_13571140.html",
-      "fecha": "2026-10-08T07:42+00:00",
-      "partidos": [
-        "pp",
-        "vox"
-      ]
-    },
-    {
-      "titulo": "Feijóo nombra director de campaña a Miguel Tellado, que ya dirigió las dos últimas de éste en Galicia",
-      "medio": "Europa Press",
-      "url": "https://www.europapress.es/nacional/noticia-feijoo-nombra-director-campana-miguel-tellado-ya-dirigio-dos-ultimas-galicia-20261008081916.html",
-      "fecha": "2026-10-08T06:19+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Pedro Sánchez sólo hace catorce de cada cien pisos prometidos y ninguno en Andalucía",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/andalucia/pedro-sanchez-solo-catorce-cien-pisos-prometidos-20261008181358-nts.html",
-      "fecha": "2026-10-08T05:02+00:00",
       "partidos": [
         "psoe"
       ]
