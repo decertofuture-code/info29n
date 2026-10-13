@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-13T05:08+00:00",
+  "actualizado": "2026-10-13T09:21+00:00",
   "temas": [
     {
       "id": "vivienda",
@@ -449,6 +449,140 @@
   ],
   "noticias": [
     {
+      "titulo": "El Parlamento asturiano guarda un minuto de silencio por Maricarmen con la ausencia de PP, Vox y Foro",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/asturias/parlamento-asturiano-guarda-minuto-silencio-maricarmen-ausencia-pp-vox-foro_1_13581038.html",
+      "fecha": "2026-10-13T09:04+00:00",
+      "partidos": [
+        "pp",
+        "vox"
+      ]
+    },
+    {
+      "titulo": "Feijóo promueve un plan de emergencia en Europa para blindar fronteras y permitir expulsiones inmediatas",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/feijoo-promueve-plan-emergencia-europa-blindar-fronteras-20261013105523-nt.html",
+      "fecha": "2026-10-13T09:00+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "Mínguez (PSOE) critica que se utilice Ceuta para \"agarrar unos votos\" y como \"plató electoral\"",
+      "medio": "Europa Press",
+      "url": "https://www.europapress.es/nacional/noticia-minguez-psoe-critica-utilice-ceuta-agarrar-votos-plato-electoral-20261013105250.html",
+      "fecha": "2026-10-13T08:52+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "El PSOE de Toledo acusa a Velázquez de paralizar el nuevo cuartel de la Guardia Civil: «Tiene que pedir perdón»",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/castilla-la-mancha/toledo/psoe-toledo-acusa-velazquez-paralizar-nuevo-cuartel-20261013104443-nt.html",
+      "fecha": "2026-10-13T08:44+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "Montero reivindica su pacto con ERC pero evita aclarar el encaje de Podemos en el Frente Amplio",
+      "medio": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/politica/20261013/11657624/montero-reivindica-pacto-erc-evita-aclarar-encaje-frente-amplio.html",
+      "fecha": "2026-10-13T08:43+00:00",
+      "partidos": [
+        "sumar",
+        "erc",
+        "podemos"
+      ]
+    },
+    {
+      "titulo": "Boye afirma que Puigdemont «no va a regresar en medio de la campaña, que es lo que querría el PSOE»",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/cataluna/boye-puigdemont-regresar-medio-campana-electoral-querria-20261013102625-nt.html",
+      "fecha": "2026-10-13T08:28+00:00",
+      "partidos": [
+        "psoe",
+        "junts"
+      ]
+    },
+    {
+      "titulo": "Abascal hace precampaña con Bardella y reivindica una “alianza en lo esencial” con una Francia de Le Pen",
+      "medio": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/politica/20261013/11657590/abascal-precampana-bardella-reivindica-alianza-esencial-francia-le-pen.html",
+      "fecha": "2026-10-13T08:24+00:00",
+      "partidos": [
+        "vox"
+      ]
+    },
+    {
+      "titulo": "Feijóo dice que Sánchez debió desplegar el Ejército con los buques marroquíes en aguas de Ceuta y le acusa de \"mentir\"",
+      "medio": "El Confidencial",
+      "url": "https://www.elconfidencial.com/espana/2026-10-13/feijoo-ejercito-frontera-buques-ceuta-1tps_4443667/",
+      "fecha": "2026-10-13T08:22+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "Podemos descarta integrarse en Frente Amplio y defiende el acuerdo con ERC abierto a otros partidos",
+      "medio": "Europa Press",
+      "url": "https://www.europapress.es/nacional/noticia-montero-defiende-alianza-erc-evita-pronunciarse-puerta-abierta-unirse-frente-amplio-20261013100131.html",
+      "fecha": "2026-10-13T08:01+00:00",
+      "partidos": [
+        "sumar",
+        "erc",
+        "podemos"
+      ]
+    },
+    {
+      "titulo": "El PSOE apela al voto útil en circunscripciones pequeñas para no \"vayan a la basura\" votos del espacio de la izquierda",
+      "medio": "Europa Press",
+      "url": "https://www.europapress.es/nacional/noticia-psoe-apela-voto-util-circunscripciones-pequenas-no-vayan-basura-votos-espacio-izquierda-20261013095756.html",
+      "fecha": "2026-10-13T07:57+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "El PP muestra un vídeo de Sarah Santaolalla haciendo botellón tras insinuar que Ayuso iba borracha",
+      "medio": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/politica/20261013/11657556/pp-madrid-irrita-sarah-santaolalla-mostrar-video-bailando-haciendo-botellon-menor.html",
+      "fecha": "2026-10-13T07:41+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "Sumar confía en que Podemos se incorpore a Frente Amplio y dice que la \"actitud\" de Rufián no debe impedir acuerdos",
+      "medio": "Europa Press",
+      "url": "https://www.europapress.es/nacional/noticia-sumar-confia-podemos-incorpore-frente-amplio-dice-actitud-rufian-no-debe-impedir-acuerdos-20261013084254.html",
+      "fecha": "2026-10-13T06:42+00:00",
+      "partidos": [
+        "sumar",
+        "podemos"
+      ]
+    },
+    {
+      "titulo": "El PP de Cádiz exige la dimisión del alcalde de Algeciras tras denuncias de agresión sexual",
+      "medio": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/politica/20261013/11657504/pp-cadiz-exige-dimision-alcalde-algeciras-denuncias-agresion-sexual.html",
+      "fecha": "2026-10-13T06:18+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "Pisarello (Comuns) reprocha a Rufián que el pacto entre ERC y Podemos no es lo que \"venía proponiendo\"",
+      "medio": "Europa Press",
+      "url": "https://www.europapress.es/nacional/noticia-pisarello-comuns-reprocha-rufian-pacto-erc-podemos-no-venia-proponiendo-20261013080852.html",
+      "fecha": "2026-10-13T06:08+00:00",
+      "partidos": [
+        "erc",
+        "podemos"
+      ]
+    },
+    {
       "titulo": "Sánchez y Feijóo ven la victoria a mano y creen que sus fieles están activados",
       "medio": "El País",
       "url": "https://elpais.com/espana/elecciones-generales/2026-10-13/sanchez-y-feijoo-ven-la-victoria-a-mano-y-creen-que-sus-fieles-estan-activados.html",
@@ -585,6 +719,15 @@
       "medio": "ABC",
       "url": "https://www.abc.es/espana/andalucia/cadiz/genova-exige-alcalde-algeciras-dimita-conocer-denuncia-20261012213812-nts.html",
       "fecha": "2026-10-12T20:32+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "El PP de Cádiz exige la dimisión del alcalde de Algeciras tras conocer una nueva denuncia de agresión sexual",
+      "medio": "El País",
+      "url": "https://elpais.com/espana/2026-10-12/el-pp-de-cadiz-exige-la-dimision-del-alcalde-de-algeciras-tras-conocer-una-nueva-denuncia-de-agresion-sexual.html",
+      "fecha": "2026-10-12T20:26+00:00",
       "partidos": [
         "pp"
       ]
@@ -3105,144 +3248,6 @@
       "fecha": "2026-10-08T11:30+00:00",
       "partidos": [
         "pp"
-      ]
-    },
-    {
-      "titulo": "Anticorrupción ve prematura la imputación del PSOE por el 'caso Leire'",
-      "medio": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/politica/20261008/11654229/anticorrupcion-ve-prematura-imputacion-psoe-caso-leire.html",
-      "fecha": "2026-10-08T11:29+00:00",
-      "partidos": [
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "La jueza Biedma dice que notó que la seguían y supo por un clan de narcos que las cloacas del PSOE querían quitarla \"de en medio\"",
-      "medio": "20minutos",
-      "url": "https://www.20minutos.es/nacional/jueza-biedma-dice-que-noto-seguimientos-supo-por-un-clan-narcos-que-las-cloacas-psoe-querian-quitarla-medio_7046541_0.html",
-      "fecha": "2026-10-08T11:22+00:00",
-      "partidos": [
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "Feijóo acusa a Sánchez y el PSOE de intentar \"manipular\" con la vivienda tras la muerte de Maricarmen: \"No va a colar\"",
-      "medio": "Europa Press",
-      "url": "https://www.europapress.es/nacional/noticia-feijoo-acusa-sanchez-psoe-intentar-manipular-vivienda-muerte-maricarmen-no-va-colar-20261008131900.html",
-      "fecha": "2026-10-08T11:19+00:00",
-      "partidos": [
-        "pp",
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "El día que Beiras golpeó el escaño de Feijóo por sus vínculos con el narco Marcial Dorado: \"¡Tenga un poco de decencia!\"",
-      "medio": "elDiario.es",
-      "url": "https://www.eldiario.es/galicia/dia-beiras-golpeo-escano-feijoo-vinculos-narco-marcial-dorado-tenga-decencia_1_13571569.html",
-      "fecha": "2026-10-08T11:18+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Comín abre la puerta a regresar a Catalunya antes que Puigdemont",
-      "medio": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/politica/20261008/11654140/comin-abre-puerta-regresar-catalunya-puigdemont.html",
-      "fecha": "2026-10-08T10:57+00:00",
-      "partidos": [
-        "junts"
-      ]
-    },
-    {
-      "titulo": "Una diputada del PP se cuela en la acampada de València para preguntar sobre Sánchez: \"Pedro, cierra al salir\"",
-      "medio": "elDiario.es",
-      "url": "https://www.eldiario.es/comunitat-valenciana/politica/diputada-pp-cuela-acampada-valencia-preguntar-sanchez-pedro-cierra-salir_1_13571816.html",
-      "fecha": "2026-10-08T10:48+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Maíllo pide abandonar el \"fulanismo\" sobre el candidato de Frente Amplío e insiste en tender la mano a Podemos",
-      "medio": "Europa Press",
-      "url": "https://www.europapress.es/nacional/noticia-maillo-pide-abandonar-fulanismo-candidato-frente-amplio-insiste-tender-mano-podemos-20261008124418.html",
-      "fecha": "2026-10-08T10:44+00:00",
-      "partidos": [
-        "podemos"
-      ]
-    },
-    {
-      "titulo": "Ferraz acusa a la derecha de \"difundir un bulo\" sobre la posibilidad de incorporar a Begoña Gómez a las listas del PSOE",
-      "medio": "Europa Press",
-      "url": "https://www.europapress.es/nacional/noticia-ferraz-acusa-derecha-difundir-bulo-posibilidad-incorporar-begona-gomez-listas-psoe-20261008123937.html",
-      "fecha": "2026-10-08T10:39+00:00",
-      "partidos": [
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "Guerra de minutos de silencio: PP y Vox lo rechazan pero PSOE y Chunta lo guardan en su turno",
-      "medio": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/politica/20261008/11654150/guerra-minutos-silencio-pp-vox-rechazan-psoe-chunta-guardan-turno.html",
-      "fecha": "2026-10-08T10:31+00:00",
-      "partidos": [
-        "pp",
-        "psoe",
-        "vox"
-      ]
-    },
-    {
-      "titulo": "Una militante del PP denuncia al alcalde de Algeciras ante el Supremo por presuntas agresiones sexuales",
-      "medio": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/local/andalucia/20261008/11654133/militante-pp-denuncia-alcalde-algeciras-supremo-presuntas-agresiones-sexuales.html",
-      "fecha": "2026-10-08T10:26+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Iván Redondo: \"Hay 28 provincias donde la división entre PP y VOX, lo que hace, entre otras cosas, que el Partido Socialista gane en alguna provincia en la que no tenía previsto ganar\"",
-      "medio": "El Confidencial",
-      "url": "https://www.elconfidencial.com/espana/2026-10-08/ivan-redondo-exdirector-del-gabinete-de-la-presidencia-del-gobierno_4440938/",
-      "fecha": "2026-10-08T10:16+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "El Gobierno atribuye a “grupos de presión” el voto negativo de Junts que tumbó la legislatura",
-      "medio": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/politica/20261008/11654126/gobierno-atribuye-grupos-presion-voto-negativo-junts-tumbo-legislatura.html",
-      "fecha": "2026-10-08T10:13+00:00",
-      "partidos": [
-        "junts"
-      ]
-    },
-    {
-      "titulo": "El bulo ultra del “asesinato” de Maricarmen: “Procede una autopsia. Zurdos de mierda. El PSOE hará todo para ganar las elecciones”",
-      "medio": "El País",
-      "url": "https://elpais.com/espana/elecciones-generales/2026-10-08/el-bulo-ultra-del-asesinato-de-maricarmen-procede-una-autopsia-zurdos-de-mierda-el-psoe-hara-todo-para-ganar-las-elecciones.html",
-      "fecha": "2026-10-08T09:29+00:00",
-      "partidos": [
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "Anticorrupción ve indicios de delito en el PSOE pero se opone a su imputación como persona jurídica por ser prematura",
-      "medio": "El Mundo",
-      "url": "https://www.elmundo.es/espana/2026/10/08/6ac75af4fc6c83da478b45c0.html",
-      "fecha": "2026-10-08T09:17+00:00",
-      "partidos": [
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "Anticorrupción ve indicios contra el PSOE en el 'caso Leire Díez', pero considera prematura una imputación",
-      "medio": "Europa Press",
-      "url": "https://www.europapress.es/nacional/noticia-anticorrupcion-ve-indicios-contra-psoe-caso-leire-diez-considera-imputacion-prematura-20261008111339.html",
-      "fecha": "2026-10-08T09:13+00:00",
-      "partidos": [
-        "psoe"
       ]
     }
   ],
