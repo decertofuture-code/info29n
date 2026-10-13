@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-13T13:26+00:00",
+  "actualizado": "2026-10-13T17:19+00:00",
   "temas": [
     {
       "id": "vivienda",
@@ -449,6 +449,167 @@
   ],
   "noticias": [
     {
+      "titulo": "PP y Vox alumbran un presupuesto de 16.472 millones con «vocación» de completar la legislatura",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/castilla-leon/presupuestos-castilla-leon-elevan-1311-alcanzan-cifra-20261013125715-nt.html",
+      "fecha": "2026-10-13T16:51+00:00",
+      "partidos": [
+        "pp",
+        "vox"
+      ]
+    },
+    {
+      "titulo": "\"¡Pedro Sánchez, a la mierda!\": una concejala del PP de Torre Pacheco increpa a los manifestantes de Sol",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/murcia/politica/pedro-sanchez-mierda-concejala-pp-torre-pacheco-increpa-manifestantes-sol_1_13582912.html",
+      "fecha": "2026-10-13T16:38+00:00",
+      "partidos": [
+        "pp",
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "PP y Vox dan carpetazo al debate sobre la saturación turística en Balears pese a las protestas y el récord de visitantes",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/illes-balears/politica/pp-vox-bloquean-debate-saturacion-turistica-balears-pese-protestas-record-visitantes_1_13582800.html",
+      "fecha": "2026-10-13T16:09+00:00",
+      "partidos": [
+        "pp",
+        "vox"
+      ]
+    },
+    {
+      "titulo": "Colau ve \"un honor\" que Frente Amplio la proponga como líder, pero insiste en la unidad con Podemos y tiende la mano a ERC",
+      "medio": "20minutos",
+      "url": "https://www.20minutos.es/nacional/colau-ve-un-honor-que-frente-amplio-proponga-como-lider-pero-insiste-unidad-con-podemos-tiende-mano-erc_7048310_0.html",
+      "fecha": "2026-10-13T16:05+00:00",
+      "partidos": [
+        "sumar",
+        "erc",
+        "podemos"
+      ]
+    },
+    {
+      "titulo": "Colau insiste en seguir trabajando para que Podemos se integre en el Frente Amplio: \"Todavía hay tiempo\"",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/catalunya/colau-insiste-seguir-trabajando-integre-frente-amplio-todavia-hay-tiempo_1_13582780.html",
+      "fecha": "2026-10-13T15:40+00:00",
+      "partidos": [
+        "sumar",
+        "podemos"
+      ]
+    },
+    {
+      "titulo": "La Audiencia Nacional imputa al exjuez ligado a las cloacas del PSOE que contactó con el clan de 'Los Rochos' para atacar a Biedma",
+      "medio": "20minutos",
+      "url": "https://www.20minutos.es/nacional/audiencia-nacional-imputa-exjuez-ligado-las-cloacas-psoe-que-contacto-con-clan-los-rochos-para-atacar-biedma_7048297_0.html",
+      "fecha": "2026-10-13T15:39+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "Pedraz imputa al ex juez que hostigó a la juez Biedma por orden de las 'cloacas' del PSOE",
+      "medio": "El Mundo",
+      "url": "https://www.elmundo.es/espana/2026/10/13/6ace4f8ce85ece79358b45ad.html",
+      "fecha": "2026-10-13T15:36+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "Colau llama a ERC y Podemos a negociar para una candidatura única: \"Todavía hay tiempo\"",
+      "medio": "Europa Press",
+      "url": "https://www.europapress.es/catalunya/noticia-colau-llama-erc-podemos-negociar-candidatura-unica-izquierdas-todavia-hay-tiempo-20261013172813.html",
+      "fecha": "2026-10-13T15:28+00:00",
+      "partidos": [
+        "erc",
+        "podemos"
+      ]
+    },
+    {
+      "titulo": "Colau dice sí a liderar la izquierda alternativa, pero apurará el plazo para sumar a Podemos",
+      "medio": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/politica/20261013/11658052/colau-acepta-liderar-izquierda-frente-amplio-apurar-plazo-sumar-podemos.html",
+      "fecha": "2026-10-13T15:26+00:00",
+      "partidos": [
+        "podemos"
+      ]
+    },
+    {
+      "titulo": "El PP intensifica los ataques personales en redes en plena precampaña",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/rastreador/pp-intensifica-ataques-personales-redes-plena-precampana_132_13582490.html",
+      "fecha": "2026-10-13T15:19+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "ERC denuncia que las obras del mercado Torner de Badalona llevan paradas desde julio",
+      "medio": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/local/barcelones-nord/20261013/11658029/erc-denuncia-obras-mercado-torner-badalona-llevan-paradas-julio.html",
+      "fecha": "2026-10-13T15:13+00:00",
+      "partidos": [
+        "erc"
+      ]
+    },
+    {
+      "titulo": "Una sala del Supremo conservadora y un ponente afín a Feijóo: los jueces que han tumbado el voto de miles de personas",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/politica/sala-supremo-conservadora-ponente-afin-feijoo-jueces-han-tumbado-voto-miles-personas_1_13581316.html",
+      "fecha": "2026-10-13T15:12+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "Ferraz traslada el Comité Federal del PSOE a Fuenlabrada, suprime el turno de intervenciones y añade un mitin de Sánchez",
+      "medio": "El Mundo",
+      "url": "https://www.elmundo.es/espana/2026/10/13/6ace3f92e4d4d88b1e8b459f.html",
+      "fecha": "2026-10-13T15:09+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "Vox elimina la línea de ayudas a personas LGTBI en Aragón y deja en el aire su financiación",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/aragon/politica/vox-elimina-linea-ayudas-personas-lgtbi-aragon-deja-aire-financiacion_1_13582118.html",
+      "fecha": "2026-10-13T15:07+00:00",
+      "partidos": [
+        "vox"
+      ]
+    },
+    {
+      "titulo": "PP y Vox recortan un 33% las partidas para sindicatos en unos presupuestos de Castilla y León que aún no aterrizan la \"prioridad nacional\"",
+      "medio": "El Mundo",
+      "url": "https://www.elmundo.es/espana/2026/10/13/6ace3631e9cf4a766c8b4593.html",
+      "fecha": "2026-10-13T14:55+00:00",
+      "partidos": [
+        "pp",
+        "vox"
+      ]
+    },
+    {
+      "titulo": "El pulso entre Landaluce y el PP acaba con la salida de 12 concejales del gobierno local de Algeciras tras negarse el alcalde a dimitir",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/andalucia/pulso-landaluce-pp-acaba-salida-12-concejales-gobierno-local-algeciras-negarse-alcalde-dimitir_1_13582550.html",
+      "fecha": "2026-10-13T14:36+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "Beatriz Fanjul, la diputada del PP que llegó al Congreso en 2019 gracias al voto extranjero, no será candidata otra vez",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/euskadi/beatriz-fanjul-diputada-pp-llego-congreso-gracias-voto-extranjero-no-sera-candidata-vez_1_13582395.html",
+      "fecha": "2026-10-13T13:39+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
       "titulo": "El PP y Vox presentan los Presupuestos en Castilla y León sin incluir una dotación para la “prioridad nacional”",
       "medio": "El País",
       "url": "https://elpais.com/espana/2026-10-13/el-pp-y-vox-presentan-los-presupuestos-en-castilla-y-leon-sin-incluir-una-dotacion-para-la-prioridad-nacional.html",
@@ -604,6 +765,16 @@
       "medio": "elDiario.es",
       "url": "https://www.eldiario.es/navarra/upn-pp-llegan-acuerdo-concurrir-elecciones-generales_1_13581039.html",
       "fecha": "2026-10-13T10:59+00:00",
+      "partidos": [
+        "pp",
+        "upn"
+      ]
+    },
+    {
+      "titulo": "UPN y PP alcanzan un principio de acuerdo para concurrir juntos a las elecciones generales",
+      "medio": "Europa Press",
+      "url": "https://www.europapress.es/navarra/noticia-consejo-politico-upn-decide-tarde-si-concurre-coalicion-pp-generales-20261013125157.html",
+      "fecha": "2026-10-13T10:51+00:00",
       "partidos": [
         "pp",
         "upn"
@@ -3086,177 +3257,6 @@
       "medio": "ABC",
       "url": "https://www.abc.es/espana/feijoo-pide-pp-repetir-errores-23j-encarga-20261009021121-nt.html",
       "fecha": "2026-10-09T04:34+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Pedro Sánchez: \"Es hora de que el Parlamento se parezca a la calle y no a quienes viven en aticazos\"",
-      "medio": "elDiario.es",
-      "url": "https://www.eldiario.es/politica/pedro-sanchez-hora-parlamento-parezca-calle-no-viven-aticazos_1_13569153.html",
-      "fecha": "2026-10-09T04:01+00:00",
-      "partidos": [
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "Las frases de la entrevista a Pedro Sánchez: \"El bulo del voto por correo es miedo a perder\"",
-      "medio": "elDiario.es",
-      "url": "https://www.eldiario.es/politica/frases-entrevista-pedro-sanchez-bulo-voto-correo-miedo-perder_1_13570028.html",
-      "fecha": "2026-10-09T04:01+00:00",
-      "partidos": [
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "ERC baraja un plan B por si Rufián descarta ser candidato en las elecciones generales",
-      "medio": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/politica/20261009/11654557/erc-baraja-plan-b-rufian-descarta-candidato-29-n.html",
-      "fecha": "2026-10-09T04:00+00:00",
-      "partidos": [
-        "erc"
-      ]
-    },
-    {
-      "titulo": "La vía Colau en las elecciones acerca posiciones a la izquierda del PSOE pero no a Podemos",
-      "medio": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/politica/20261009/11654551/colau-acerca-posiciones-izquierda-psoe.html",
-      "fecha": "2026-10-09T04:00+00:00",
-      "partidos": [
-        "psoe",
-        "podemos"
-      ]
-    },
-    {
-      "titulo": "El PP y Vox mantienen la mayoría absoluta tras el adelanto electoral",
-      "medio": "El País",
-      "url": "https://elpais.com/espana/2026-10-09/el-pp-y-vox-mantienen-la-mayoria-absoluta-tras-el-adelanto-electoral.html",
-      "fecha": "2026-10-09T03:30+00:00",
-      "partidos": [
-        "pp",
-        "vox"
-      ]
-    },
-    {
-      "titulo": "Encuestas elecciones generales 29N: resultados de PSOE, PP y VOX y ganador según los sondeos",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/encuestas-elecciones-generales-29n-resultados-psoe-pp-vox-sondeos-20261009053000-nt.html",
-      "fecha": "2026-10-09T03:30+00:00",
-      "partidos": [
-        "pp",
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "La oficina de retorno forzada por Vox ofrece a los migrantes atención a víctimas de discriminación",
-      "medio": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/local/valencia/20261009/11653302/oficina-retorno-forzada-vox-ofrece-migrantes-atencion-victimas-discriminacion.html",
-      "fecha": "2026-10-09T03:30+00:00",
-      "partidos": [
-        "vox"
-      ]
-    },
-    {
-      "titulo": "Malestar por el retraso de una oposición de letrados de Valencia a la que aspiran dos hijos de un concejal del PP",
-      "medio": "El Confidencial",
-      "url": "https://www.elconfidencial.com/espana/comunidad-valenciana/2026-10-09/malestar-oposicion-letrados-valencia-concejal-pp_4441233/",
-      "fecha": "2026-10-09T03:00+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Abascal, ausente otra vez del desfile del 12-O: celebrará en Ceuta la Fiesta Nacional con el líder de Patriots",
-      "medio": "El Confidencial",
-      "url": "https://www.elconfidencial.com/espana/2026-10-09/abascal-desfile-12o-ceuta-fiesta-nacional_4441306/",
-      "fecha": "2026-10-09T03:00+00:00",
-      "partidos": [
-        "vox"
-      ]
-    },
-    {
-      "titulo": "Solo el 63% de votantes del PSOE refrendará su apoyo en las urnas mientras Vox lidera la fidelidad con un 86%",
-      "medio": "20minutos",
-      "url": "https://www.20minutos.es/nacional/solo-63-votantes-psoe-refrendara-su-apoyo-las-urnas-mientras-vox-lidera-fidelidad-con-un-86_7046705_0.html",
-      "fecha": "2026-10-09T03:00+00:00",
-      "partidos": [
-        "psoe",
-        "vox"
-      ]
-    },
-    {
-      "titulo": "El PSOE absorbe la intención de votos de Sumar y Podemos mientras PP y Vox consolidan su mayoría",
-      "medio": "20minutos",
-      "url": "https://www.20minutos.es/nacional/psoe-absorbe-intencion-votos-sumar-podemos-mientras-pp-vox-consolidan-su-mayoria_7046598_0.html",
-      "fecha": "2026-10-09T03:00+00:00",
-      "partidos": [
-        "pp",
-        "psoe",
-        "vox",
-        "sumar",
-        "podemos"
-      ]
-    },
-    {
-      "titulo": "El clan de 'Los Rochos', el más temido de Extremadura y señalado ahora en la investigación de las cloacas del PSOE",
-      "medio": "20minutos",
-      "url": "https://www.20minutos.es/extremadura/asi-son-los-rochos-peligroso-narcoclan-enfrentado-los-matias-senalado-ahora-investigacion-las-cloacas-psoe_7046448_0.html",
-      "fecha": "2026-10-09T03:00+00:00",
-      "partidos": [
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "Coalición Canaria busca alianzas para ganar dos escaños claves para el 29N",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/canarias/coalicion-canaria-busca-tres-diputados-29n-presentandose-20261008022101-nt.html",
-      "fecha": "2026-10-09T00:21+00:00",
-      "partidos": [
-        "cc"
-      ]
-    },
-    {
-      "titulo": "La Justicia avala que la Cámara de Cuentas andaluza investigue al consejero del PSOE que asesoró en secreto a Begoña Gómez",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/andalucia/justicia-avala-camara-cuentas-andaluza-investigue-consejero-20261009021352-nts.html",
-      "fecha": "2026-10-09T00:13+00:00",
-      "partidos": [
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "Recibe la carta de Paloma Esteban: la newsletter con toda la actualidad sobre el PP",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/recibe-carta-paloma-esteban-newsletter-actualidad-sobre-20261009020608-nt.html",
-      "fecha": "2026-10-09T00:06+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Colau y Montero hablan directamente para desatascar la integración de Podemos en el Frente Amplio",
-      "medio": "El Mundo",
-      "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/10/09/6ac7d26cfdddffae308b459d.html",
-      "fecha": "2026-10-08T23:52+00:00",
-      "partidos": [
-        "sumar",
-        "podemos"
-      ]
-    },
-    {
-      "titulo": "La amenaza de Landaluce al PP: apunta a una candidatura independiente tras la denuncia de una militante y pone en riesgo el poder popular en Cádiz",
-      "medio": "El Mundo",
-      "url": "https://www.elmundo.es/andalucia/2026/10/09/6ac7c217e85eced7738b4595.html",
-      "fecha": "2026-10-08T23:52+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Moreno y Ayuso harán campaña propia como si fueran candidatos para reforzar a Feijóo: \"Nos van a hacer trampas muy sucias\"",
-      "medio": "El Mundo",
-      "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/10/08/6ac7d2a5fdddffea268b4574.html",
-      "fecha": "2026-10-08T20:42+00:00",
       "partidos": [
         "pp"
       ]
