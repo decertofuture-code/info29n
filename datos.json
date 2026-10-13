@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-13T17:19+00:00",
+  "actualizado": "2026-10-13T21:27+00:00",
   "temas": [
     {
       "id": "vivienda",
@@ -448,6 +448,96 @@
     }
   ],
   "noticias": [
+    {
+      "titulo": "Núñez llama a convertir el «enfado» con Sánchez en votos para llevar a Feijóo a Moncloa",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/castilla-la-mancha/nunez-llama-convertir-enfado-sanchez-votos-llevar-20261013213633-nt.html",
+      "fecha": "2026-10-13T19:36+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "Feijóo critica a Sánchez por haber dejado al rey \"solo\" en una visita histórica a Ceuta",
+      "medio": "El Confidencial",
+      "url": "https://www.elconfidencial.com/espana/2026-10-13/feijoo-sanchez-reyes-ceuta-1tps_4444296/",
+      "fecha": "2026-10-13T19:11+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "Frente Amplio acuerda que Emilio Delgado sea cabeza de lista por Madrid",
+      "medio": "20minutos",
+      "url": "https://www.20minutos.es/nacional/frente-amplio-acuerda-que-emilio-delgado-sea-cabeza-lista-por-madrid_7048383_0.html",
+      "fecha": "2026-10-13T18:43+00:00",
+      "partidos": [
+        "sumar"
+      ]
+    },
+    {
+      "titulo": "El Frente Amplio acuerda que Emilio Delgado (Más Madrid) lidere la lista por Madrid",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/frente-amplio-acuerda-emilio-delgado-madrid-lidere-20261013203944-nt.html",
+      "fecha": "2026-10-13T18:39+00:00",
+      "partidos": [
+        "sumar"
+      ]
+    },
+    {
+      "titulo": "Feijóo eleva el tono: «Señor Sánchez: ¿dónde está el oro de Maduro? ¿Cuántas cajas fuertes hay como la de Zapatero?»",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/aragon/feijoo-eleva-tono-senor-sanchez-oro-maduro-20261013194551-nt.html",
+      "fecha": "2026-10-13T18:32+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "El PSOE acusa a Núñez de estar «poco preparado para la política» y le pide que estudie más",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/castilla-la-mancha/toledo/psoe-acusa-nunez-estar-poco-preparado-politica-20261013201807-nt.html",
+      "fecha": "2026-10-13T18:18+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "El PP de Córdoba empieza a perfilar sus listas para el 29-N con la aspiración del tercer escaño",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/andalucia/cordoba/pp-cordoba-empieza-perfilar-listas-29n-aspiracion-20261013201259-nts.html",
+      "fecha": "2026-10-13T18:12+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "Feijóo ensalza la figura de Felipe VI y asegura que él \"no le habría dejado solo en Ceuta\" si fuera presidente del Gobierno",
+      "medio": "El Mundo",
+      "url": "https://www.elmundo.es/espana/2026/10/13/6ace668321efa0e8618b458e.html",
+      "fecha": "2026-10-13T18:02+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "El Frente Amplio confirma a Emilio Delgado como número uno en la candidatura por Madrid",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/politica/frente-amplio-confirma-emilio-delgado-numero-1-madrid_1_13583221.html",
+      "fecha": "2026-10-13T17:55+00:00",
+      "partidos": [
+        "sumar"
+      ]
+    },
+    {
+      "titulo": "El PSOE acepta retirar los cuadros de presidentes franquistas del Congreso, tras años de peticiones",
+      "medio": "El Mundo",
+      "url": "https://www.elmundo.es/espana/2026/10/13/6ace698efc6c8393708b459f.html",
+      "fecha": "2026-10-13T17:28+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
     {
       "titulo": "PP y Vox alumbran un presupuesto de 16.472 millones con «vocación» de completar la legislatura",
       "medio": "ABC",
@@ -1015,6 +1105,15 @@
       "partidos": [
         "erc",
         "podemos"
+      ]
+    },
+    {
+      "titulo": "Visita de los Reyes a Ceuta, en directo | Feijóo critica a Sánchez por no haber ido con los monarcas: \"Yo sí los habría acompañado\"",
+      "medio": "20minutos",
+      "url": "https://www.20minutos.es/nacional/directo-visita-rey-felipe-vi-letizia-ceuta-melilla-crisis-inmigrantes-marruecos_7047926_6.html",
+      "fecha": "2026-10-13T05:47+00:00",
+      "partidos": [
+        "pp"
       ]
     },
     {
@@ -3157,106 +3256,6 @@
       "medio": "El Mundo",
       "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/10/09/6ac8a01c21efa09f4a8b4582.html",
       "fecha": "2026-10-09T08:24+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Abascal se ausentará también este año del desfile del 12 de octubre y celebrará la Hispanidad en Ceuta",
-      "medio": "Europa Press",
-      "url": "https://www.europapress.es/nacional/noticia-abascal-ausentara-tambien-ano-desfile-12-octubre-celebrara-hispanidad-ceuta-20261009102224.html",
-      "fecha": "2026-10-09T08:22+00:00",
-      "partidos": [
-        "vox"
-      ]
-    },
-    {
-      "titulo": "Puente insta a Podemos y Frente Amplio a llegar a un acuerdo y dejar de lado los \"egos\"",
-      "medio": "Europa Press",
-      "url": "https://www.europapress.es/nacional/noticia-puente-insta-podemos-frente-amplio-llegar-acuerdo-dejar-lado-egos-20261009101918.html",
-      "fecha": "2026-10-09T08:19+00:00",
-      "partidos": [
-        "sumar",
-        "podemos"
-      ]
-    },
-    {
-      "titulo": "El PP acepta tres debates y pide a RTVE que la entrevista a Feijóo no la hagan productoras externas",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/pp-acepta-tres-debates-electorales-pone-condiciones-20261009093513-nt.html",
-      "fecha": "2026-10-09T08:10+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Movimiento Sumar elige a Verónica Barbero como su candidata dentro del Frente Amplio para las elecciones del 29-N",
-      "medio": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/politica/20261009/11654986/movimiento-sumar-elige-veronica-barbero-candidata-frente-amplio-elecciones-29-n.html",
-      "fecha": "2026-10-09T08:10+00:00",
-      "partidos": [
-        "sumar"
-      ]
-    },
-    {
-      "titulo": "El PP plantea un 'cara a cara' de Feijóo y Sánchez, un debate a cuatro y otro de portavoces para el 29N",
-      "medio": "elDiario.es",
-      "url": "https://www.eldiario.es/politica/pp-plantea-cara-cara-feijoo-sanchez-debate-cuatro-portavoces-29n_1_13574252.html",
-      "fecha": "2026-10-09T07:39+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Feijóo acepta el debate 'cara a cara' con Sánchez en Mediaset y plantea celebrarlo el 16 de noviembre",
-      "medio": "20minutos",
-      "url": "https://www.20minutos.es/nacional/feijoo-acepta-debate-cara-cara-con-sanchez-mediaset-plantea-celebrarlo-16-noviembre_7046924_0.html",
-      "fecha": "2026-10-09T07:38+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Feijóo propone un cara a cara con Sánchez el 16 de noviembre en Mediaset",
-      "medio": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/politica/20261009/11654951/feijoo-propone-cara-cara-sanchez-16-noviembre-mediaset.html",
-      "fecha": "2026-10-09T07:37+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Feijóo acepta el 'cara a cara' propuesto por Mediaset con Sánchez y plantea celebrarlo el 16 de noviembre",
-      "medio": "Europa Press",
-      "url": "https://www.europapress.es/nacional/noticia-feijoo-acepta-cara-cara-propuesto-mediaset-sanchez-plantea-celebrarlo-16-noviembre-20261009092201.html",
-      "fecha": "2026-10-09T07:22+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "El PNV de Vizcaya desautoriza a Aitor Esteban y evidencia su fractura en plena precampaña",
-      "medio": "El Mundo",
-      "url": "https://www.elmundo.es/pais-vasco/2026/10/09/6ac7ef28e85ece60158b45a6.html",
-      "fecha": "2026-10-09T06:54+00:00",
-      "partidos": [
-        "pnv"
-      ]
-    },
-    {
-      "titulo": "Movimiento Sumar llama al resto de partidos del Frente Amplio a negociar con “discreción y generosidad”",
-      "medio": "El País",
-      "url": "https://elpais.com/espana/elecciones-generales/2026-10-09/movimiento-sumar-llama-al-resto-de-partidos-del-frente-amplio-a-negociar-con-discrecion-y-generosidad.html",
-      "fecha": "2026-10-09T06:30+00:00",
-      "partidos": [
-        "sumar"
-      ]
-    },
-    {
-      "titulo": "Feijóo pide al PP no repetir los errores del 23J",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/feijoo-pide-pp-repetir-errores-23j-encarga-20261009021121-nt.html",
-      "fecha": "2026-10-09T04:34+00:00",
       "partidos": [
         "pp"
       ]
