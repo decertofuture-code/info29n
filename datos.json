@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-14T17:31+00:00",
+  "actualizado": "2026-10-14T21:28+00:00",
   "temas": [
     {
       "id": "vivienda",
@@ -449,12 +449,146 @@
   ],
   "noticias": [
     {
+      "titulo": "Landaluce asume el fin de su mandato en Algeciras tras la moción de censura del PP y Vox: «Esto no tiene vuelta atrás»",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/andalucia/cadiz/landaluce-asume-fin-mandato-algeciras-tras-mocion-20261014230730-nts.html",
+      "fecha": "2026-10-14T21:07+00:00",
+      "partidos": [
+        "pp",
+        "vox"
+      ]
+    },
+    {
+      "titulo": "Anabel Mateos releva a Antonio Hernando, su pareja, como cabeza de lista del PSOE de Almería al Congreso",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/andalucia/almeria/anabel-mateos-releva-antonio-hernando-pareja-cabeza-20261014213919-nts.html",
+      "fecha": "2026-10-14T19:42+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "Abascal se reúne con Le Pen, Orbán y Babiš en Bruselas y recibe sus apoyos para el 29N",
+      "medio": "El Confidencial",
+      "url": "https://www.elconfidencial.com/espana/2026-10-14/abascal-le-pen-patriotas-europa-elecciones-1tps_4445168/",
+      "fecha": "2026-10-14T19:38+00:00",
+      "partidos": [
+        "vox"
+      ]
+    },
+    {
+      "titulo": "El PSCL pendiente del 'sí' de Ferraz a unas listas que en Burgos recuperan a Tudanca para el Senado",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/castilla-leon/pscl-pendiente-ferraz-listas-burgos-recuperan-tudanca-20261014213010-nt.html",
+      "fecha": "2026-10-14T19:30+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "El PSOE andaluz rechaza el cese de su consejero tras asesorar a Begoña Gómez: «Es una caza de brujas del PP»",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/andalucia/psoe-andaluz-rebela-cese-consejero-tras-asesorar-20261014201606-nts.html",
+      "fecha": "2026-10-14T19:17+00:00",
+      "partidos": [
+        "pp",
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "PP y Vox pactan la moción de censura contra Landaluce en Algeciras y ponen en aprietos al PSOE",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/andalucia/cadiz/pp-vox-firman-peticion-mocion-censura-algeciras-20261014204148-nts.html",
+      "fecha": "2026-10-14T19:04+00:00",
+      "partidos": [
+        "pp",
+        "psoe",
+        "vox"
+      ]
+    },
+    {
+      "titulo": "Un testigo clave de la guerra sucia del Gobierno del PP contra Podemos renuncia a declarar en el último momento",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/politica/testigo-clave-guerra-sucia-gobierno-pp-renuncia-declarar-ultimo-momento_1_13580344.html",
+      "fecha": "2026-10-14T19:00+00:00",
+      "partidos": [
+        "pp",
+        "podemos"
+      ]
+    },
+    {
+      "titulo": "La ministra Isabel Rodríguez repetirá como cabeza de lista del PSOE al Congreso por Ciudad Real",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/castilla-la-mancha/ministra-isabel-rodriguez-repetira-cabeza-lista-psoe-20261014203807-nt.html",
+      "fecha": "2026-10-14T18:55+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "El PSOE de Granada apuesta por la alcaldesa de Albuñol, María José Sánchez, para liderar su lista al Congreso",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/andalucia/granada/psoe-granada-apuesta-alcaldesa-albunol-maria-jose-20261014203614-nts.html",
+      "fecha": "2026-10-14T18:36+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "Sánchez cree que si PP y Vox llegan al Gobierno de España \"firman la carta de defunción del Estado del Bienestar\"",
+      "medio": "Europa Press",
+      "url": "https://www.europapress.es/aragon/noticia-sanchez-cree-si-pp-vox-llegan-gobierno-espana-firman-carta-defuncion-estado-bienestar-20261014203519.html",
+      "fecha": "2026-10-14T18:35+00:00",
+      "partidos": [
+        "pp",
+        "vox"
+      ]
+    },
+    {
+      "titulo": "Mireia Ingla, Jordi Albert y Laura Pelay serán los números 2, 3 y 4 de la lista de ERC al Congreso",
+      "medio": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/politica/20261014/11659113/mireia-ingla-jordi-albert-laura-pelay-seran-numeros-2-3-4-lista-erc-congreso.html",
+      "fecha": "2026-10-14T18:17+00:00",
+      "partidos": [
+        "erc"
+      ]
+    },
+    {
+      "titulo": "Milagros Tolón e Isabel Rodríguez encabezarán las listas del PSOE al Congreso por Toledo y Ciudad Real el 29N",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/castilla-la-mancha/politica/milagros-tolon-e-isabel-rodriguez-encabezaran-listas-psoe-congreso-toledo-ciudad-real-29n_1_13585871.html",
+      "fecha": "2026-10-14T17:30+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "El PP critica las \"mentiras\" del PSOE contra Feijóo por las pensiones y promete subirlas conforme IPC si gobiernan",
+      "medio": "Europa Press",
+      "url": "https://www.europapress.es/nacional/noticia-pp-critica-mentiras-psoe-contra-feijoo-pensiones-promete-subirlas-conforme-ipc-si-gobiernan-20261014192806.html",
+      "fecha": "2026-10-14T17:28+00:00",
+      "partidos": [
+        "pp",
+        "psoe"
+      ]
+    },
+    {
       "titulo": "Puigdemont insta al Supremo a amnistiarle \"sin más demora\" porque contribuye a la \"normalización\" de Cataluña",
       "medio": "Europa Press",
       "url": "https://www.europapress.es/nacional/noticia-puigdemont-insta-supremo-amnistiarle-mas-demora-porque-contribuye-normalizacion-cataluna-20261014191624.html",
       "fecha": "2026-10-14T17:16+00:00",
       "partidos": [
         "junts"
+      ]
+    },
+    {
+      "titulo": "Sánchez carga contra Feijóo por las pensiones: “Si PP y Vox llegan al Gobierno firman la carta de defunción del Estado del bienestar”",
+      "medio": "El País",
+      "url": "https://elpais.com/espana/elecciones-generales/2026-10-14/sanchez-carga-contra-el-pp-por-las-pensiones-si-pp-y-vox-llegan-al-gobierno-firman-la-carta-de-defuncion-del-estado-del-bienestar.html",
+      "fecha": "2026-10-14T17:06+00:00",
+      "partidos": [
+        "pp",
+        "vox"
       ]
     },
     {
@@ -3140,135 +3274,6 @@
       "fecha": "2026-10-11T04:00+00:00",
       "partidos": [
         "pp"
-      ]
-    },
-    {
-      "titulo": "El dilema de Puigdemont sobre su regreso: entre la expectativa de bombazo electoral y el temor al pinchazo",
-      "medio": "El País",
-      "url": "https://elpais.com/espana/catalunya/2026-10-11/el-dilema-de-puigdemont-sobre-su-regreso-entre-la-expectativa-de-bombazo-electoral-y-el-temor-al-pinchazo.html",
-      "fecha": "2026-10-11T03:30+00:00",
-      "partidos": [
-        "junts"
-      ]
-    },
-    {
-      "titulo": "El 60% de la sociedad opina que Puigdemont no debería ser amnistiado ni volver a España",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/sociedad-opina-puigdemont-deberia-amnistiado-volver-espana-20261011021206-nt.html",
-      "fecha": "2026-10-11T00:12+00:00",
-      "partidos": [
-        "junts"
-      ]
-    },
-    {
-      "titulo": "Santiago Abascal: «Los españoles deben temerse lo peor. Van a ser unas elecciones muy complicadas y sucias»",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/santiago-abascal-espanoles-deben-temerse-peor-van-20261011021159-nt.html",
-      "fecha": "2026-10-11T00:12+00:00",
-      "partidos": [
-        "vox"
-      ]
-    },
-    {
-      "titulo": "Santiago Abascal: «La amistad con Marruecos ahora no es posible. Pedimos poco, que no nos invadan»",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/santiago-abascal-amistad-marruecos-posible-pedimos-poco-20261011021149-nt.html",
-      "fecha": "2026-10-11T00:12+00:00",
-      "partidos": [
-        "vox"
-      ]
-    },
-    {
-      "titulo": "Colau, la preferida de los votantes del Frente Amplio por delante de Mónica García e Irene Montero",
-      "medio": "El Mundo",
-      "url": "https://www.elmundo.es/espana/encuestas/2026/10/11/6aca59f9fdddff80638b456d.html",
-      "fecha": "2026-10-11T00:06+00:00",
-      "partidos": [
-        "sumar"
-      ]
-    },
-    {
-      "titulo": "El PSOE pone autobuses para poder llenar el primer mitin de Pedro Sánchez en su feudo histórico de Dos Hermanas",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/andalucia/psoe-necesita-poner-autobuses-llenar-primer-mitin-20261011012428-nts.html",
-      "fecha": "2026-10-10T23:24+00:00",
-      "partidos": [
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "Los críticos de Sánchez se ponen en alerta ante su campaña \"en rojo\": \"Busca quedarse en Ferraz con un resultado digno\"",
-      "medio": "El Mundo",
-      "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/10/11/6aca5993e4d4d8704b8b456f.html",
-      "fecha": "2026-10-10T22:09+00:00",
-      "partidos": [
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "Sánchez y Feijóo encaran su duelo electoral más cruento",
-      "medio": "elDiario.es",
-      "url": "https://www.eldiario.es/politica/sanchez-feijoo-encaran-duelo-electoral-cruento_1_13574968.html",
-      "fecha": "2026-10-10T20:10+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "María Rivas aspira a liderar la lista del PSOE al Congreso por La Coruña",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/galicia/maria-rivas-aspira-liderar-lista-psoe-congreso-20261010210006-nt.html",
-      "fecha": "2026-10-10T19:00+00:00",
-      "partidos": [
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "El PSOE arranca la precampaña con un amplio catálogo de insultos al \"perro\" Sánchez para tratar de movilizar a sus votantes",
-      "medio": "El Mundo",
-      "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/10/10/6aca5e98fc6c8301108b4571.html",
-      "fecha": "2026-10-10T17:19+00:00",
-      "partidos": [
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "ERC y Rufián apuran una negociación abierta pero “encauzada” para la candidatura del 29-N",
-      "medio": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/politica/20261010/11656057/erc-rufian-apuran-negociacion-abierta-encauzada-candidatura-29-n.html",
-      "fecha": "2026-10-10T16:30+00:00",
-      "partidos": [
-        "erc"
-      ]
-    },
-    {
-      "titulo": "Llorca: «Con Feijóo vamos a tener un presidente que priorice a la Comunitat Valenciana»",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/comunidad-valenciana/llorca-feijoo-vamos-tener-presidente-priorice-comunitat-20261010170849-nt.html",
-      "fecha": "2026-10-10T16:24+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "El PNV rechaza que se le incluya en ningún bloque tras el 29N, pero avisa a Feijóo que con Vox, \"ni a heredar\"",
-      "medio": "20minutos",
-      "url": "https://www.20minutos.es/nacional/pnv-rechaza-que-se-le-incluya-ningun-bloque-tras-29n-pero-avisa-feijoo-que-con-vox-ni-heredar_7047483_0.html",
-      "fecha": "2026-10-10T15:31+00:00",
-      "partidos": [
-        "pp",
-        "vox",
-        "pnv"
-      ]
-    },
-    {
-      "titulo": "Cristina Valido (CC) teme un Gobierno de PP-Vox a pesar de que su partido pacta con ambos en Canarias",
-      "medio": "elDiario.es",
-      "url": "https://www.eldiario.es/canariasahora/politica/cristina-valido-cc-teme-gobierno-pp-vox-partido-pacta-canarias_1_13577589.html",
-      "fecha": "2026-10-10T15:05+00:00",
-      "partidos": [
-        "pp",
-        "vox"
       ]
     }
   ],
