@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-13T21:27+00:00",
+  "actualizado": "2026-10-14T05:17+00:00",
   "temas": [
     {
       "id": "vivienda",
@@ -449,12 +449,231 @@
   ],
   "noticias": [
     {
+      "titulo": "La crisis con el alcalde de Algeciras deja en peligro la Diputación de Cádiz para el PP",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/andalucia/crisis-alcalde-algeciras-deja-peligro-diputacion-cadiz-20261014185053-nts.html",
+      "fecha": "2026-10-14T05:13+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "Encuestas elecciones generales 29N: resultados de PSOE, PP y VOX y ganador según GAD3 y otros sondeos",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/encuestas-elecciones-generales-29n-resultados-psoe-pp-20261014053000-nt.html",
+      "fecha": "2026-10-14T05:11+00:00",
+      "partidos": [
+        "pp",
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "El PP plantea una rebaja de impuestos a las inmobiliarias que compran viviendas para revenderlas",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/castilla-la-mancha/pp-plantea-rebaja-impuestos-inmobiliarias-compran-viviendas-20261013065501-nt.html",
+      "fecha": "2026-10-14T04:55+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "El Gobierno critica que PP y Vox hablen de “pucherazo” aprovechando el freno judicial a la 'ley de nietos'",
+      "medio": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/politica/20261014/11658155/gobierno-alerta-gravedad-resolucion-supremo-restringir-voto.html",
+      "fecha": "2026-10-14T04:00+00:00",
+      "partidos": [
+        "pp",
+        "vox"
+      ]
+    },
+    {
+      "titulo": "Feijóo y Abascal evitan el choque en la campaña del 29-N: “El cambio está por encima del PP”",
+      "medio": "El País",
+      "url": "https://elpais.com/espana/elecciones-generales/2026-10-14/feijoo-y-abascal-evitan-el-choque-en-la-campana-del-29-n-el-cambio-esta-por-encima-del-pp.html",
+      "fecha": "2026-10-14T03:30+00:00",
+      "partidos": [
+        "pp",
+        "vox"
+      ]
+    },
+    {
+      "titulo": "El PSOE se aferra a la España periférica para reducir la ventaja de PP y Vox",
+      "medio": "El País",
+      "url": "https://elpais.com/espana/elecciones-generales/2026-10-14/el-psoe-se-aferra-a-la-espana-periferica-para-reducir-la-ventaja-de-pp-y-vox.html",
+      "fecha": "2026-10-14T03:30+00:00",
+      "partidos": [
+        "pp",
+        "psoe",
+        "vox"
+      ]
+    },
+    {
+      "titulo": "El PSPV aclara sus listas, Compromís encalla en la negociación y PP y Vox miran a Madrid",
+      "medio": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/local/valencia/20261014/11657871/pspv-aclara-listas-compromis-encalla-negociacion-pp-vox-miran-madrid.html",
+      "fecha": "2026-10-14T03:30+00:00",
+      "partidos": [
+        "pp",
+        "vox"
+      ]
+    },
+    {
+      "titulo": "El primer presupuesto de PP y Vox en CyL: rebaja del IRPF, 36 nuevas bonificaciones y un 50% más para vivienda",
+      "medio": "El Confidencial",
+      "url": "https://www.elconfidencial.com/espana/castilla-y-leon/2026-10-14/presupuesto-pp-vox-rebaja-irpf-bonificaciones_4444073/",
+      "fecha": "2026-10-14T03:00+00:00",
+      "partidos": [
+        "pp",
+        "vox"
+      ]
+    },
+    {
+      "titulo": "Un concejal del PP de Valencia participó en la Junta que amplió las plazas de la oposición a la que aspiran sus hijos",
+      "medio": "El Confidencial",
+      "url": "https://www.elconfidencial.com/espana/comunidad-valenciana/2026-10-14/concejal-pp-valencia-plazas-oposicion-letrados-hijos_4443888/",
+      "fecha": "2026-10-14T03:00+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "La negativa de Podemos a integrarse en Frente Amplio condiciona la posible unión a acuerdos en circunscripciones concretas",
+      "medio": "20minutos",
+      "url": "https://www.20minutos.es/nacional/negativa-podemos-integrarse-frente-amplio-condiciona-posible-union-acuerdos-circunscripciones-concretas_7048279_0.html",
+      "fecha": "2026-10-14T03:00+00:00",
+      "partidos": [
+        "sumar",
+        "podemos"
+      ]
+    },
+    {
+      "titulo": "El PSOE se lanza a la estrategia del voto útil ante la falta de acuerdos a su izquierda",
+      "medio": "20minutos",
+      "url": "https://www.20minutos.es/nacional/psoe-se-lanza-estrategia-voto-util-ante-falta-acuerdos-su-izquierda_7048321_0.html",
+      "fecha": "2026-10-14T03:00+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "El entorno del PSOE anima a nietos nacionalizados a recurrir la decisión del Supremo: «Os ayudaremos con lo que sea»",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/entorno-psoe-anima-nietos-nacionalizados-recurrir-decision-20261014012325-nt.html",
+      "fecha": "2026-10-13T23:23+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "Tudanca se impone entre las agrupaciones del PSOE de Burgos para ser el cabeza de lista al Senado",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/castilla-leon/tudanca-impone-agrupaciones-psoe-burgos-cabeza-lista-20261013001314-nt.html",
+      "fecha": "2026-10-13T22:13+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "¿Tres izquierdas en Valencia? Compromís lleva al límite la negociación con Podemos e Izquierda Unida",
+      "medio": "El Mundo",
+      "url": "https://www.elmundo.es/comunidad-valenciana/2026/10/14/6ace70c3e85ece01258b459e.html",
+      "fecha": "2026-10-13T22:04+00:00",
+      "partidos": [
+        "podemos"
+      ]
+    },
+    {
+      "titulo": "Pardo de Vera, ex secretaria de Estado de Transportes: \"Cargos del Gobierno me propusieron colocar a gente afín al PSOE en la cúpula de Adif\"",
+      "medio": "El Mundo",
+      "url": "https://www.elmundo.es/espana/2026/10/13/6ace6df121efa06c418b458a.html",
+      "fecha": "2026-10-13T21:02+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "La negociación entre Podemos y el Frente Amplio encalla y apunta a una resolución el viernes en el último minuto",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/politica/negociacion-frente-amplio-encalla-apunta-resolucion-viernes-ultimo-minuto_1_13583015.html",
+      "fecha": "2026-10-13T20:57+00:00",
+      "partidos": [
+        "sumar",
+        "podemos"
+      ]
+    },
+    {
+      "titulo": "El PP valenciano y Vox validan ‘prioridad nacional’ en vivienda por arraigo de 10 años pese a que la UE solo permite cinco",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/comunitat-valenciana/politica/pp-valenciano-vox-validan-prioridad-nacional-vivienda-arraigo-10-anos-pese-ue-permite-cinco_1_13581613.html",
+      "fecha": "2026-10-13T20:57+00:00",
+      "partidos": [
+        "pp",
+        "vox"
+      ]
+    },
+    {
+      "titulo": "Landaluce, el alcalde “referente” del PP acusado de acoso sexual: “Llevo 42 años militando y me exigen que me vaya”",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/andalucia/cadiz/landaluce-alcalde-referente-pp-acusado-acoso-sexual-llevo-42-anos-militando-exigen_1_13583067.html",
+      "fecha": "2026-10-13T20:57+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "PP y la devastación de la democracia",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/opinion/zona-critica/pp-devastacion-democracia_129_13582445.html",
+      "fecha": "2026-10-13T20:57+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "El patriota Abascal",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/opinion/zona-critica/patriota-abascal_129_13582412.html",
+      "fecha": "2026-10-13T20:57+00:00",
+      "partidos": [
+        "vox"
+      ]
+    },
+    {
+      "titulo": "La operación inmobiliaria bajo sospecha con la que un concejal del PP quiso salvar a su hermana de los acreedores",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/illes-balears/politica/operacion-inmobiliaria-sospecha-concejal-pp-quiso-salvar-hermana-acreedores_1_13581758.html",
+      "fecha": "2026-10-13T20:57+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "Sin Estatuto y sin avances: PP y Vox vuelven a dejar en el aire los derechos de las mujeres rurales en Aragón",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/aragon/politica/estatuto-avances-pp-vox-vuelven-aire-derechos-mujeres-rurales-aragon_1_13582312.html",
+      "fecha": "2026-10-13T20:57+00:00",
+      "partidos": [
+        "pp",
+        "vox"
+      ]
+    },
+    {
       "titulo": "Núñez llama a convertir el «enfado» con Sánchez en votos para llevar a Feijóo a Moncloa",
       "medio": "ABC",
       "url": "https://www.abc.es/espana/castilla-la-mancha/nunez-llama-convertir-enfado-sanchez-votos-llevar-20261013213633-nt.html",
       "fecha": "2026-10-13T19:36+00:00",
       "partidos": [
         "pp"
+      ]
+    },
+    {
+      "titulo": "12 de los 15 concejales del PP de Algeciras abandonan el gobierno de Landaluce y barajan presentar una moción de censura junto a Vox",
+      "medio": "El Mundo",
+      "url": "https://www.elmundo.es/andalucia/2026/10/13/6ace42e921efa0b74f8b4593.html",
+      "fecha": "2026-10-13T19:16+00:00",
+      "partidos": [
+        "pp",
+        "vox"
       ]
     },
     {
@@ -491,6 +710,15 @@
       "fecha": "2026-10-13T18:32+00:00",
       "partidos": [
         "pp"
+      ]
+    },
+    {
+      "titulo": "Los partidos del Frente Amplio pactan que Emilio Delgado encabece Madrid y eso aboca a Ada Colau a ir por Barcelona",
+      "medio": "El Mundo",
+      "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/10/13/6ace73e9e9cf4a207c8b45a1.html",
+      "fecha": "2026-10-13T18:31+00:00",
+      "partidos": [
+        "sumar"
       ]
     },
     {
@@ -3038,226 +3266,6 @@
       "fecha": "2026-10-09T12:58+00:00",
       "partidos": [
         "psoe"
-      ]
-    },
-    {
-      "titulo": "La Policía identifica a los autores de las pintadas en la sede del PSOE de Córdoba",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/andalucia/cordoba/policia-identifica-autores-pintadas-sede-psoe-cordoba-20261009145445-nts.html",
-      "fecha": "2026-10-09T12:54+00:00",
-      "partidos": [
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "El PSOE solicita un informe sobre la actuación de la presidenta de las Cortes de Aragón en el minuto de silencio por Maricarmen",
-      "medio": "El Mundo",
-      "url": "https://www.elmundo.es/aragon/2026/10/09/6ac8dd7ae9cf4ad53d8b458d.html",
-      "fecha": "2026-10-09T12:52+00:00",
-      "partidos": [
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "El PP avisa de que la \"cloaca\" del PSOE se presenta en el 29N y promete que no se olvidarán los casos de corrupción",
-      "medio": "Europa Press",
-      "url": "https://www.europapress.es/nacional/noticia-pp-avisa-cloaca-psoe-presenta-29n-promete-no-olvidaran-casos-corrupcion-20261009144607.html",
-      "fecha": "2026-10-09T12:46+00:00",
-      "partidos": [
-        "pp",
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "El PPdeG disculpa el silencio de Feijóo tras la muerte de Beiras: «Todo el partido mostró su pesar»",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/galicia/ppdeg-disculpa-silencio-feijoo-tras-muerte-beiras-20261009142946-nt.html",
-      "fecha": "2026-10-09T12:29+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "El PSOE estudia presentarse al Senado en lista conjunta con otras formaciones de izquierda para evitar mayoría del PP",
-      "medio": "Europa Press",
-      "url": "https://www.europapress.es/nacional/noticia-psoe-estudia-presentarse-senado-lista-conjunta-otras-formaciones-izquierda-evitar-mayoria-pp-20261009142726.html",
-      "fecha": "2026-10-09T12:27+00:00",
-      "partidos": [
-        "pp",
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "Manos Limpias denuncia al ex juez de la 'cloaca' del PSOE por \"tentativa de asesinato\" contra Biedma",
-      "medio": "El Mundo",
-      "url": "https://www.elmundo.es/espana/extremadura/2026/10/09/6ac8d9ddfc6c83727a8b457a.html",
-      "fecha": "2026-10-09T12:24+00:00",
-      "partidos": [
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "Vox pide incorporar psicólogos generales sanitarios al Sescam para reforzar la atención a la salud mental",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/castilla-la-mancha/vox-pide-incorporar-psicologos-generales-sanitarios-sescam-20261009142312-nt.html",
-      "fecha": "2026-10-09T12:23+00:00",
-      "partidos": [
-        "vox"
-      ]
-    },
-    {
-      "titulo": "Feijóo acepta un debate cara a cara con Sánchez y otro a cuatro con el resto de candidatos",
-      "medio": "El País",
-      "url": "https://elpais.com/espana/elecciones-generales/2026-10-09/feijoo-acepta-un-debate-cara-a-cara-con-sanchez-y-otro-a-cuatro-con-el-resto-de-candidatos.html",
-      "fecha": "2026-10-09T12:04+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "El ministro Torres renuncia a ser candidato del PSOE al Congreso en los próximos comicios",
-      "medio": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/politica/20261009/11655272/ministro-torres-renuncia-candidato-psoe-congreso-proximos-comicios.html",
-      "fecha": "2026-10-09T11:55+00:00",
-      "partidos": [
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "Romero insta a Junts a aclarar a quién investirá tras el 29-N: “No hacerlo sería engañar a la gente”",
-      "medio": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/politica/20261009/11655262/romero-insta-junts-aclarar-investira-29-n-hacerlo-seria-enganar-gente.html",
-      "fecha": "2026-10-09T11:50+00:00",
-      "partidos": [
-        "junts"
-      ]
-    },
-    {
-      "titulo": "La salida de Etxanobe de la Diputación de Bizkaia reabre la crisis interna del PNV y cuestiona el liderazgo de Aitor Esteban",
-      "medio": "elDiario.es",
-      "url": "https://www.eldiario.es/euskadi/salida-etxanobe-diputacion-bizkaia-reabre-crisis-interna-pnv-cuestiona-liderazgo-aitor-esteban_1_13574792.html",
-      "fecha": "2026-10-09T10:58+00:00",
-      "partidos": [
-        "pnv"
-      ]
-    },
-    {
-      "titulo": "El juez Pedraz rechaza imputar al PSOE \"en este momento\" en el 'caso Cloacas'",
-      "medio": "El Mundo",
-      "url": "https://www.elmundo.es/espana/2026/10/09/6ac8af6efdddffc46e8b45c2.html",
-      "fecha": "2026-10-09T10:48+00:00",
-      "partidos": [
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "El PSOE explora listas conjuntas de izquierdas frente a la mayoría absoluta del PP en el Senado",
-      "medio": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/politica/20261009/11655079/psoe-explora-listas-conjuntas-izquierdas-frente-mayoria-absoluta-pp-senado.html",
-      "fecha": "2026-10-09T09:37+00:00",
-      "partidos": [
-        "pp",
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "El juez Pedraz descarta “de momento” imputar al PSOE en el caso Leire",
-      "medio": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/politica/20261009/11655051/juez-pedraz-descarta-momento-imputar-psoe-caso-cloacas.html",
-      "fecha": "2026-10-09T09:35+00:00",
-      "partidos": [
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "De la abogacía a los gabinetes políticos: quién es Alma Ezcurra, la encargada del programa electoral del PP",
-      "medio": "El Confidencial",
-      "url": "https://www.elconfidencial.com/espana/2026-10-09/quien-es-alma-excurra-encargada-programa-electoral-pp-1qrt_4441648/",
-      "fecha": "2026-10-09T09:20+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Abascal se ausentará también este año del desfile del 12 de octubre para celebrar la Hispanidad en Ceuta",
-      "medio": "20minutos",
-      "url": "https://www.20minutos.es/nacional/abascal-se-ausentara-tambien-este-ano-desfile-12-octubre-para-celebrar-hispanidad-ceuta_7046996_0.html",
-      "fecha": "2026-10-09T09:19+00:00",
-      "partidos": [
-        "vox"
-      ]
-    },
-    {
-      "titulo": "El juez Pedraz rechaza imputar al PSOE al no ver un \"principio de prueba\" que lo justifique \"en este momento\"",
-      "medio": "20minutos",
-      "url": "https://www.20minutos.es/nacional/juez-pedraz-rechaza-imputar-psoe-no-ver-un-principio-prueba-que-justifique-este-momento_7046992_0.html",
-      "fecha": "2026-10-09T08:59+00:00",
-      "partidos": [
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "El juez descarta imputar por ahora al PSOE en el 'caso Leire Díez' y esperará a practicar más diligencias",
-      "medio": "Europa Press",
-      "url": "https://www.europapress.es/nacional/noticia-juez-descarta-imputar-ahora-psoe-caso-leire-diez-esperara-practicar-mas-diligencias-20261009105737.html",
-      "fecha": "2026-10-09T08:57+00:00",
-      "partidos": [
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "El juez Pedraz rechaza imputar \"en este momento\" al PSOE en el caso Leire Díez",
-      "medio": "elDiario.es",
-      "url": "https://www.eldiario.es/politica/juez-pedraz-rechaza-imputar-momento-psoe-caso-leire-diez_1_13574529.html",
-      "fecha": "2026-10-09T08:55+00:00",
-      "partidos": [
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "El juez Pedraz rechaza imputar “en este momento” al PSOE en el ‘caso Leire Díez’, como pedía el PP",
-      "medio": "El País",
-      "url": "https://elpais.com/espana/2026-10-09/el-juez-pedraz-rechaza-imputar-por-ahora-al-psoe-en-el-caso-leire-diez-como-pedia-el-pp.html",
-      "fecha": "2026-10-09T08:39+00:00",
-      "partidos": [
-        "pp",
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "Movimiento Sumar llama a Comuns, Más Madrid e IU a zanjar con \"discreción\" la pugna por las listas de Madrid y Barcelona",
-      "medio": "elDiario.es",
-      "url": "https://www.eldiario.es/politica/movimiento-sumar-llama-comuns-madrid-e-iu-zanjar-discrecion-pugna-listas-madrid-barcelona_1_13574395.html",
-      "fecha": "2026-10-09T08:38+00:00",
-      "partidos": [
-        "sumar"
-      ]
-    },
-    {
-      "titulo": "El juez que investiga a las cloacas descarta imputar por ahora al PSOE por financiación ilegal",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/juez-investiga-cloacas-descarta-imputar-psoe-financiacion-20261009103234-nt.html",
-      "fecha": "2026-10-09T08:38+00:00",
-      "partidos": [
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "Sumar elige a Verónica Martínez como su candidata dentro de Frente Amplio y pide a sus socios negociar con discreción",
-      "medio": "20minutos",
-      "url": "https://www.20minutos.es/nacional/sumar-elige-veronica-martinez-como-referente-para-las-listas-frente-amplio-pide-sus-socios-negociar-con-discrecion_7046975_0.html",
-      "fecha": "2026-10-09T08:32+00:00",
-      "partidos": [
-        "sumar"
-      ]
-    },
-    {
-      "titulo": "Feijóo acepta dos debates electorales con Sánchez, incluido un cara a cara, y a TVE le concede sólo una entrevista",
-      "medio": "El Mundo",
-      "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/10/09/6ac8a01c21efa09f4a8b4582.html",
-      "fecha": "2026-10-09T08:24+00:00",
-      "partidos": [
-        "pp"
       ]
     }
   ],
