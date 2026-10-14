@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-14T05:17+00:00",
+  "actualizado": "2026-10-14T09:32+00:00",
   "temas": [
     {
       "id": "vivienda",
@@ -448,6 +448,186 @@
     }
   ],
   "noticias": [
+    {
+      "titulo": "El Tribunal de Cuentas aplica la amnistía a Puigdemont y todos los encausados en el caso de los gastos del 'procés'",
+      "medio": "Europa Press",
+      "url": "https://www.europapress.es/nacional/noticia-tribunal-cuentas-aplica-amnistia-puigdemont-todos-encausados-caso-gastos-proces-20261014112151.html",
+      "fecha": "2026-10-14T09:21+00:00",
+      "partidos": [
+        "junts"
+      ]
+    },
+    {
+      "titulo": "El Tribunal de Cuentas absuelve a Puigdemont de la reclamación por los gastos del procés",
+      "medio": "El Confidencial",
+      "url": "https://www.elconfidencial.com/espana/2026-10-14/el-tribunal-de-cuentas-absuelve-a-puigdemont-de-la-reclamacion-por-los-gastos-del-proces_4444557/",
+      "fecha": "2026-10-14T09:16+00:00",
+      "partidos": [
+        "junts"
+      ]
+    },
+    {
+      "titulo": "El Tribunal de Cuentas amnistía a Puigdemont y una treintena de ex altos cargos del Govern por los gastos del 'procés'",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/cataluna/tribunal-cuentas-amnistia-puigdemont-treintena-altos-cargos-20261014111538-nt.html",
+      "fecha": "2026-10-14T09:15+00:00",
+      "partidos": [
+        "junts"
+      ]
+    },
+    {
+      "titulo": "El PSC gana, ERC sube y Sumar se hunde en las elecciones generales en Catalunya, según el CEO",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/catalunya/psc-gana-erc-sube-sumar-hunde-generales-catalunya-ceo_1_13583824.html",
+      "fecha": "2026-10-14T09:06+00:00",
+      "partidos": [
+        "sumar",
+        "erc"
+      ]
+    },
+    {
+      "titulo": "Luis Planas renuncia a ir en las listas del PSOE por Córdoba para las generales",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/andalucia/cordoba/luis-planas-renuncia-listas-psoe-cordoba-generales-20261014102110-nts.html",
+      "fecha": "2026-10-14T08:58+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "El Tribunal de Cuentas amnistía a Puigdemont, Junqueras y otros 30 excargos del Govern por los gastos del procés",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/catalunya/tribunal-cuentas-amnistia-puigdemont-junqueras-30-excargos-govern-gastos-proces_1_13499322.html",
+      "fecha": "2026-10-14T08:56+00:00",
+      "partidos": [
+        "junts"
+      ]
+    },
+    {
+      "titulo": "Ester Muñoz, portavoz del PP, tajante sobre el futuro de las pensiones: «El sistema actual va a colapsar»",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/ester-munoz-portavoz-nacional-pp-advierte-futuro-20261014104001-nt.html",
+      "fecha": "2026-10-14T08:55+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "El Frente Amplio estrena marca mientras Colau plantea cambiarla para pactar con Podemos",
+      "medio": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/politica/20261014/11658583/frente-amplio-estrena-marca-colau-plantea-cambiarla-pactar.html",
+      "fecha": "2026-10-14T08:50+00:00",
+      "partidos": [
+        "sumar",
+        "podemos"
+      ]
+    },
+    {
+      "titulo": "El Frente Amplio presenta su imagen a pocos días de que se resuelva la negociación con Podemos",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/politica/frente-amplio-presenta-imagen-dias-resuelva-negociacion_1_13583965.html",
+      "fecha": "2026-10-14T08:47+00:00",
+      "partidos": [
+        "sumar",
+        "podemos"
+      ]
+    },
+    {
+      "titulo": "El consejero del PSOE que asesoró a Begoña Gómez recurrirá al TSJA tras su cese de la Cámara de Cuentas",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/andalucia/consejero-psoe-asesoro-begona-gomez-recurrira-tsja-20261014100005-nts.html",
+      "fecha": "2026-10-14T08:29+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "Arranca las votaciones de las primarias impulsadas por Podemos con Irene Montero como aspirante a candidata",
+      "medio": "Europa Press",
+      "url": "https://www.europapress.es/nacional/noticia-arranca-votaciones-primarias-impulsadas-podemos-irene-montero-aspirante-candidata-20261014102702.html",
+      "fecha": "2026-10-14T08:27+00:00",
+      "partidos": [
+        "podemos"
+      ]
+    },
+    {
+      "titulo": "Antonio Maíllo, coordinador general de IU: «Gabriel Rufián es agua pasada, dice que va a echar una mano pero no va a ser candidato de Frente Amplio»",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/andalucia/antonio-maillo-coordinador-general-iu-gabriel-rufian-20261014101737-nts.html",
+      "fecha": "2026-10-14T08:22+00:00",
+      "partidos": [
+        "sumar"
+      ]
+    },
+    {
+      "titulo": "Ada Colau, dispuesta a dar un paso a un lado y a desechar la marca Frente Amplio para sumar a Podemos y ERC",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/colau-dispuesta-dar-paso-lado-desechar-marca-20261014093406-nt.html",
+      "fecha": "2026-10-14T08:21+00:00",
+      "partidos": [
+        "sumar",
+        "erc",
+        "podemos"
+      ]
+    },
+    {
+      "titulo": "Colau lanza un órdago y se muestra dispuesta a renunciar y cambiar el nombre del Frente Amplio para convencer a Podemos",
+      "medio": "El Confidencial",
+      "url": "https://www.elconfidencial.com/espana/2026-10-14/ada-colau-candidata-frente-amplio-1tps_4444456/",
+      "fecha": "2026-10-14T07:43+00:00",
+      "partidos": [
+        "sumar",
+        "podemos"
+      ]
+    },
+    {
+      "titulo": "Ada Colau dice que su candidatura es solo \"una propuesta\" y se abre a no liderar Frente Amplio para atraer a Podemos",
+      "medio": "20minutos",
+      "url": "https://www.20minutos.es/nacional/ada-colau-dice-que-su-candidatura-es-solo-una-propuesta-se-abre-no-liderar-frente-amplio-para-atraer-podemos_7048485_0.html",
+      "fecha": "2026-10-14T07:38+00:00",
+      "partidos": [
+        "sumar",
+        "podemos"
+      ]
+    },
+    {
+      "titulo": "Colau, dispuesta a renunciar al liderazgo del Frente Amplio para pactar con Podemos",
+      "medio": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/politica/20261014/11658507/colau-ofrece-negociar-lineas-rojas-propia-candidatura-marca-electoral.html",
+      "fecha": "2026-10-14T07:31+00:00",
+      "partidos": [
+        "sumar",
+        "podemos"
+      ]
+    },
+    {
+      "titulo": "Colau se abre a no ser candidata para que Frente Amplio y Podemos pacten",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/catalunya/colau-abre-no-candidata-frente-amplio-pacten-si-hay-persona-consenso-adelante_1_13583444.html",
+      "fecha": "2026-10-14T07:27+00:00",
+      "partidos": [
+        "sumar",
+        "podemos"
+      ]
+    },
+    {
+      "titulo": "Colau afirma que está dispuesta a apartarse como candidata si ayuda a un acuerdo para la unidad con Podemos",
+      "medio": "Europa Press",
+      "url": "https://www.europapress.es/nacional/noticia-colau-afirma-estar-dispuesta-dar-paso-atras-candidata-si-ayuda-pacto-lista-unidad-20261014092307.html",
+      "fecha": "2026-10-14T07:23+00:00",
+      "partidos": [
+        "podemos"
+      ]
+    },
+    {
+      "titulo": "La portavoz del PP defiende \"cambiar\" el sistema público de pensiones de forma \"valiente\" porque \"va a petar\"",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/politica/portavoz-pp-defiende-cambiar-sistema-publico-pensiones-forma-valiente-petar_1_13583651.html",
+      "fecha": "2026-10-14T06:45+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
     {
       "titulo": "La crisis con el alcalde de Algeciras deja en peligro la Diputación de Cádiz para el PP",
       "medio": "ABC",
@@ -3089,183 +3269,6 @@
       "partidos": [
         "pp",
         "vox"
-      ]
-    },
-    {
-      "titulo": "La colíder de Sumar, sobre Rufián: \"Tenemos todos los teléfonos pendientes de si Gabriel quiere estar en Frente Amplio\"",
-      "medio": "Europa Press",
-      "url": "https://www.europapress.es/nacional/noticia-colider-sumar-rufian-tenemos-todos-telefonos-pendientes-si-gabriel-quiere-estar-frente-amplio-20261009185029.html",
-      "fecha": "2026-10-09T16:50+00:00",
-      "partidos": [
-        "sumar"
-      ]
-    },
-    {
-      "titulo": "Una diputada de Más Madrid critica las primarias de Podemos: \"Como si la democracia se hiciera en TikTok\"",
-      "medio": "20minutos",
-      "url": "https://www.20minutos.es/nacional/una-diputada-mas-madrid-critica-las-primarias-podemos-como-si-democracia-se-hiciera-tiktok_7047275_0.html",
-      "fecha": "2026-10-09T16:30+00:00",
-      "partidos": [
-        "podemos"
-      ]
-    },
-    {
-      "titulo": "Feijóo y Abascal aceptan la invitación del youtuber Jordi Wild para ser entrevistados",
-      "medio": "elDiario.es",
-      "url": "https://www.eldiario.es/rastreador/feijoo-abascal-aceptan-invitacion-youtuber-jordi-wild-entrevistados_132_13576243.html",
-      "fecha": "2026-10-09T16:06+00:00",
-      "partidos": [
-        "pp",
-        "vox"
-      ]
-    },
-    {
-      "titulo": "Junts y el PNC sellan un acuerdo para este ciclo electoral y los de Pascal tendrán voz en la dirección",
-      "medio": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/politica/20261009/11655451/junts-pnc-sellan-acuerdo-ciclo-electoral-pascal-tendran-voz-direccion.html",
-      "fecha": "2026-10-09T15:52+00:00",
-      "partidos": [
-        "junts"
-      ]
-    },
-    {
-      "titulo": "El PSOE explora una lista unitaria de izquierdas en el Senado para arrebatar su control al PP",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/psoe-explora-lista-unitaria-izquierdas-senado-arrebatar-20261009131117-nt.html",
-      "fecha": "2026-10-09T15:33+00:00",
-      "partidos": [
-        "pp",
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "Page admite que tiene mala relación con Sánchez y dice que es más del PSOE que algunos que lo dirigen",
-      "medio": "20minutos",
-      "url": "https://www.20minutos.es/nacional/page-admite-que-tiene-mala-relacion-con-sanchez-dice-que-es-mas-psoe-que-algunos-que-dirigen_7047241_0.html",
-      "fecha": "2026-10-09T15:23+00:00",
-      "partidos": [
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "Ángel Víctor Torres renuncia a ser candidato del PSOE al Congreso para centrarse en \"volver a ganar las elecciones en Canarias\"",
-      "medio": "20minutos",
-      "url": "https://www.20minutos.es/nacional/angel-victor-torres-renuncia-ser-candidato-psoe-congreso-para-centrarse-volver-ganar-las-elecciones-canarias_7047240_0.html",
-      "fecha": "2026-10-09T15:19+00:00",
-      "partidos": [
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "La juez que investiga la tragedia de Adamuz deja en manos de Vox la representación de todas las acusaciones populares, incluida la asociación de víctimas",
-      "medio": "El Mundo",
-      "url": "https://www.elmundo.es/andalucia/2026/10/09/6ac8fe06fdddffbf348b45c2.html",
-      "fecha": "2026-10-09T15:15+00:00",
-      "partidos": [
-        "vox"
-      ]
-    },
-    {
-      "titulo": "El PP dice que Biedma no sufrió daños porque Los Rochos tuvieron \"más escrúpulos que el clan de los Sánchez\"",
-      "medio": "20minutos",
-      "url": "https://www.20minutos.es/nacional/pp-dice-que-biedma-no-sufrio-danos-porque-los-rochos-tuvieron-mas-escrupulos-que-clan-los-sanchez_7047228_0.html",
-      "fecha": "2026-10-09T15:07+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Podemos lanza sus primarias con Irene Montero como única candidata: el plazo de inscripción para votar finaliza este domingo",
-      "medio": "20minutos",
-      "url": "https://www.20minutos.es/nacional/podemos-lanza-sus-primarias-con-irene-montero-como-unica-candidata-plazo-inscripcion-para-votar-finaliza-este-domingo_7047214_0.html",
-      "fecha": "2026-10-09T14:35+00:00",
-      "partidos": [
-        "podemos"
-      ]
-    },
-    {
-      "titulo": "Vox pide al Supremo que vuelva a activar la orden de detención de Puigdemont",
-      "medio": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/politica/20261009/11655366/vox-pide-supremo-vuelva-activar-orden-detencion-puigdemont.html",
-      "fecha": "2026-10-09T14:04+00:00",
-      "partidos": [
-        "vox",
-        "junts"
-      ]
-    },
-    {
-      "titulo": "PSOE estudia presentarse al Senado en una lista conjunta con otras formaciones de izquierda para evitar mayoría del PP",
-      "medio": "20minutos",
-      "url": "https://www.20minutos.es/nacional/psoe-estudia-presentarse-senado-una-lista-conjunta-con-otras-formaciones-izquierda-para-evitar-mayoria-pp_7047196_0.html",
-      "fecha": "2026-10-09T13:59+00:00",
-      "partidos": [
-        "pp",
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "Abascal volverá a ausentarse de los actos institucionales del 12 de octubre y viajará a Ceuta ese día",
-      "medio": "El Mundo",
-      "url": "https://www.elmundo.es/espana/2026/10/09/6ac8b0a6e85ecee9028b4592.html",
-      "fecha": "2026-10-09T13:41+00:00",
-      "partidos": [
-        "vox"
-      ]
-    },
-    {
-      "titulo": "El último director de la Guardia Civil con el PP defiende su orden de archivar el ‘caso Cuarteles’",
-      "medio": "El País",
-      "url": "https://elpais.com/espana/2026-10-09/el-ultimo-director-de-la-guardia-civil-con-el-pp-defiende-su-orden-de-archivar-el-caso-cuarteles.html",
-      "fecha": "2026-10-09T13:36+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Santiago (IU) espera \"una sola candidatura a la izquierda del PSOE\" y asegura que su formación trabaja para ello",
-      "medio": "Europa Press",
-      "url": "https://www.europapress.es/andalucia/noticia-santiago-iu-espera-sola-candidatura-izquierda-psoe-asegura-formacion-trabaja-ello-20261009153037.html",
-      "fecha": "2026-10-09T13:30+00:00",
-      "partidos": [
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "El PSOE advierte de «no fiarse» de los posibles «pactos ocultos» de Núñez con el PP y Vox",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/castilla-la-mancha/psoe-advierte-fiarse-posibles-pactos-ocultos-nunez-20261009150623-nt.html",
-      "fecha": "2026-10-09T13:06+00:00",
-      "partidos": [
-        "pp",
-        "psoe",
-        "vox"
-      ]
-    },
-    {
-      "titulo": "El PP propone a Marta Bosquet como nueva Defensora del Pueblo Andaluz para desbloquear el relevo de Jesús Maeztu",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/andalucia/pp-propone-marta-bosquet-nueva-defensora-pueblo-20261009125548-nts.html",
-      "fecha": "2026-10-09T13:06+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "El PP denuncia a Bergerot (Más Madrid) por sus palabras de que el caso Maricarmen provocará alteraciones en las calles",
-      "medio": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/local/madrid/20261009/11655320/pp-denuncia-bergerot-mas-madrid-palabras-caso-maricarmen-provocara-alteraciones-calles.html",
-      "fecha": "2026-10-09T13:02+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Page, contundente sobre Pedro Sánchez: «Las relaciones son muy malas. Me ha quedado bastante claro la distancia que quiere tener el presidente con mi tierra»",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/castilla-la-mancha/page-contundente-sobre-pedro-sanchez-relaciones-malas-20261009114331-nt.html",
-      "fecha": "2026-10-09T12:58+00:00",
-      "partidos": [
-        "psoe"
       ]
     }
   ],
