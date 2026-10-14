@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-14T13:35+00:00",
+  "actualizado": "2026-10-14T17:31+00:00",
   "temas": [
     {
       "id": "vivienda",
@@ -448,6 +448,144 @@
     }
   ],
   "noticias": [
+    {
+      "titulo": "Puigdemont insta al Supremo a amnistiarle \"sin más demora\" porque contribuye a la \"normalización\" de Cataluña",
+      "medio": "Europa Press",
+      "url": "https://www.europapress.es/nacional/noticia-puigdemont-insta-supremo-amnistiarle-mas-demora-porque-contribuye-normalizacion-cataluna-20261014191624.html",
+      "fecha": "2026-10-14T17:16+00:00",
+      "partidos": [
+        "junts"
+      ]
+    },
+    {
+      "titulo": "El PP responde a Padilla: «O está acusando al Gobierno de Page de beneficiar a los fondos buitre o miente»",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/castilla-la-mancha/pp-acorrala-page-fondos-buitre-mantiene-2022-20261014180243-nt.html",
+      "fecha": "2026-10-14T17:04+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "El PP trata de zanjar el debate sobre las pensiones: promete pagarlas, subirlas \"y nada más\"",
+      "medio": "El Confidencial",
+      "url": "https://www.elconfidencial.com/espana/2026-10-14/el-pp-trata-de-zanjar-el-debate-sobre-el-sistema-de-pensiones-promete-subirlas_4444904/",
+      "fecha": "2026-10-14T17:04+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "Sánchez sitúa Margarita Robles como número dos del PSOE en Madrid en unas listas plagadas de ministros",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/margarita-robles-numero-dos-psoe-listas-madrid-20261014174436-nt.html",
+      "fecha": "2026-10-14T17:02+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "Margarita Robles será la número dos de la lista del PSOE por Madrid tras Pedro Sánchez y por delante de Bolaños",
+      "medio": "El Confidencial",
+      "url": "https://www.elconfidencial.com/espana/2026-10-14/psoe-madrid-margarita-robles-elecciones-1tps_4445010/",
+      "fecha": "2026-10-14T16:50+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "Un cálculo alternativo de los resultados del CIS augura un empate técnico entre PP y PSOE con 119 y 116 diputados",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/politica/calculo-alternativo-resultados-cis-augura-empate-tecnico-pp-psoe_1_13585700.html",
+      "fecha": "2026-10-14T16:40+00:00",
+      "partidos": [
+        "pp",
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "El diputado Alberto Mayoral, número uno de la lista del PSOE por Córdoba y la líder provincial, al Senado",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/andalucia/cordoba/diputado-alberto-mayoral-numero-lista-psoe-cordoba-20261014182244-nts.html",
+      "fecha": "2026-10-14T16:22+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "De Puigdemont a los delegados de la Generalitat: los 35 amnistiados por el Tribunal de Cuentas",
+      "medio": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/politica/20261014/11658877/puigdemont-delegados-generalitat-35-amnistiados-tribunal-cuentas.html",
+      "fecha": "2026-10-14T16:03+00:00",
+      "partidos": [
+        "junts"
+      ]
+    },
+    {
+      "titulo": "Segunda denuncia de Junts ante la Junta Electoral por actos del gobierno Collboni",
+      "medio": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/local/barcelona/20261014/11659015/segunda-denuncia-junts-junta-electoral-actos-gobierno-collboni.html",
+      "fecha": "2026-10-14T15:34+00:00",
+      "partidos": [
+        "junts"
+      ]
+    },
+    {
+      "titulo": "Margarita Robles será la número dos de Sánchez en la lista del PSOE",
+      "medio": "20minutos",
+      "url": "https://www.20minutos.es/nacional/margarita-robles-sera-numero-dos-sanchez-lista-psoe_7048818_0.html",
+      "fecha": "2026-10-14T15:34+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "PP y Vox firman la moción de censura contra el alcalde de Algeciras, acusado de acoso sexual",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/andalucia/cadiz/pp-vox-firman-mocion-censura-alcalde-algeciras-acusado-acoso-sexual_1_13585783.html",
+      "fecha": "2026-10-14T15:30+00:00",
+      "partidos": [
+        "pp",
+        "vox"
+      ]
+    },
+    {
+      "titulo": "Margarita Robles será la ‘número dos’ de Pedro Sánchez en las listas del PSOE",
+      "medio": "El País",
+      "url": "https://elpais.com/espana/elecciones-generales/2026-10-14/margarita-robles-sera-la-numero-dos-de-pedro-sanchez-en-las-listas-del-psoe.html",
+      "fecha": "2026-10-14T15:12+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "Margarita Robles será la número dos de Sánchez en las listas del PSOE por Madrid",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/politica/margarita-robles-sera-numero-sanchez-listas-psoe-madrid_1_13582904.html",
+      "fecha": "2026-10-14T15:08+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "Vox justifica eliminar las ayudas para financiar proyectos LGTBI en Aragón asegurando que no tienen \"ninguna discapacidad\"",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/aragon/politica/vox-justifica-eliminacion-ayudas-financiar-proyectos-sociales-dirigidos-personas-lgtbi-aragon_1_13585659.html",
+      "fecha": "2026-10-14T14:53+00:00",
+      "partidos": [
+        "vox"
+      ]
+    },
+    {
+      "titulo": "El PP denuncia la “incoherencia” de la portavoz del PSOE por los pisos de su pareja y la reta a un debate de vivienda",
+      "medio": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/politica/20261014/11658965/pp-denuncia-incoherencia-portavoz-psoe-pisos-pareja-reta-debate-vivienda.html",
+      "fecha": "2026-10-14T14:45+00:00",
+      "partidos": [
+        "pp",
+        "psoe"
+      ]
+    },
     {
       "titulo": "El PSOE acusa a Núñez de no tener una alternativa para gobernar Castilla-La Mancha",
       "medio": "ABC",
@@ -3131,144 +3269,6 @@
       "partidos": [
         "pp",
         "vox"
-      ]
-    },
-    {
-      "titulo": "ERC afirma que \"subirá el precio\" para volver a investir a Pedro Sánchez",
-      "medio": "20minutos",
-      "url": "https://www.20minutos.es/nacional/erc-afirma-que-subira-precio-para-volver-investir-pedro-sanchez_7047461_0.html",
-      "fecha": "2026-10-10T13:23+00:00",
-      "partidos": [
-        "psoe",
-        "erc"
-      ]
-    },
-    {
-      "titulo": "Feijóo se compromete a ser «el presidente que España está esperando»: «Vamos a ganar y gobernar»",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/feijoo-compromete-presidente-espana-esperando-vamos-ganar-20261010135221-nt.html",
-      "fecha": "2026-10-10T13:06+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Pedro Sánchez se reivindica en Dos Hermanas como «un perro sin amo» y azuza el miedo hacia los «lobos» de la derecha",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/andalucia/pedro-sanchez-reivindica-dos-hermanas-perro-amo-20261010141756-nts.html",
-      "fecha": "2026-10-10T12:58+00:00",
-      "partidos": [
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "Sánchez promete \"reforzar\" el decreto de vivienda y acusa a PP y Vox de lanzar bulos del voto por correo: \"Tienen miedo a perder\"",
-      "medio": "20minutos",
-      "url": "https://www.20minutos.es/nacional/sanchez-promete-reforzar-decreto-vivienda-acusa-pp-vox-lanzar-bulos-voto-correo-miedo-perder_7047444_0.html",
-      "fecha": "2026-10-10T12:34+00:00",
-      "partidos": [
-        "pp",
-        "vox"
-      ]
-    },
-    {
-      "titulo": "Sánchez se centra en vivienda y ataca al PP por dudar del voto por correo: “Estos son los de cuantos menos voten, mejor”",
-      "medio": "El País",
-      "url": "https://elpais.com/espana/elecciones-generales/2026-10-10/sanchez-se-centra-en-vivienda-y-ataca-al-pp-por-dudar-del-voto-por-correo-estos-son-los-de-cuantos-menos-voten-mejor.html",
-      "fecha": "2026-10-10T12:20+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Irene Montero arremete contra el PSOE y pide llenar el Congreso de \"Robin Hood\" que cojan el dinero de ricos para la \"gente trabajadora\"",
-      "medio": "20minutos",
-      "url": "https://www.20minutos.es/nacional/irene-montero-arremete-contra-psoe-pide-llenar-congreso-robin-hood-que-cojan-dinero-ricos-para-gente-trabajadora_7047439_0.html",
-      "fecha": "2026-10-10T12:03+00:00",
-      "partidos": [
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "Feijóo pregunta a Sánchez quién dio la orden de \"deshacerse\" de la jueza Biedma y promete una \"reconstrucción nacional total\"",
-      "medio": "20minutos",
-      "url": "https://www.20minutos.es/nacional/feijoo-pregunta-sanchez-quien-dio-orden-deshacerse-juez-biedma-promete-reconstruccion-nacional-total_7047435_0.html",
-      "fecha": "2026-10-10T11:55+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "El PSOE ficha a los alcaldes de Rianxo y A Pobra para liderar sus candidaturas en 2027",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/galicia/psoe-ficha-alcaldes-rianxo-pobra-liderar-candidaturas-20261010134025-nt.html",
-      "fecha": "2026-10-10T11:40+00:00",
-      "partidos": [
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "Sánchez se reivindica como \"perro sin amo\" y pide urnas llenas frente al \"miedo\" de PP y Vox al voto por correo del 29N",
-      "medio": "Europa Press",
-      "url": "https://www.europapress.es/andalucia/noticia-sanchez-reivindica-perro-amo-pide-urnas-llenas-frente-miedo-pp-vox-voto-correo-29n-20261010133133.html",
-      "fecha": "2026-10-10T11:31+00:00",
-      "partidos": [
-        "pp",
-        "vox"
-      ]
-    },
-    {
-      "titulo": "Sigue en directo el acto de Pedro Sánchez en Dos Hermanas",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/sigue-directo-acto-pedro-sanchez-dos-hermanas-20261010120912-nt.html",
-      "fecha": "2026-10-10T11:27+00:00",
-      "partidos": [
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "Feijóo promete \"un Gobierno que pedirá sacrificios\" y Ayuso tilda de \"terroristas\" a los acampados en Sol",
-      "medio": "elDiario.es",
-      "url": "https://www.eldiario.es/politica/feijoo-promete-gobierno-pedira-sacrificios-ayuso-tilda-terroristas-acampados-sol_1_13577261.html",
-      "fecha": "2026-10-10T11:19+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Antidio Fagúndez y José Fernández repetirán como cabeza de lista al Congreso y número uno al Senado por el PSOE",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/castilla-leon/antidio-fagundez-jose-fernandez-repetiran-cabeza-lista-20261010131655-nt.html",
-      "fecha": "2026-10-10T11:19+00:00",
-      "partidos": [
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "Feijóo asume que el 29-N será su última oportunidad: “¡No tenemos derecho a fallar. No vamos a fallar!”",
-      "medio": "El País",
-      "url": "https://elpais.com/espana/elecciones-generales/2026-10-10/feijoo-asume-que-el-29n-sera-su-ultima-oportunidad-no-tenemos-derecho-a-fallar-no-vamos-a-fallar.html",
-      "fecha": "2026-10-10T11:15+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Feijóo lanza la precampaña prometiendo \"responder a la mafia con democracia\" y Ayuso carga contra la acampada de Sol manejada por \"un grupo con antecedentes terroristas\"",
-      "medio": "El Mundo",
-      "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/10/10/6aca1a56e4d4d847628b457b.html",
-      "fecha": "2026-10-10T11:00+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Feijóo plantea un cambio “total” y “sereno” frente a Sánchez: “Lo vamos a echar con el voto de la gente”",
-      "medio": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/politica/20261010/11655919/feijoo-plantea-cambio-total-sereno-frente-sanchez-echar-voto-gente.html",
-      "fecha": "2026-10-10T10:41+00:00",
-      "partidos": [
-        "pp"
       ]
     }
   ],
