@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-15T13:40+00:00",
+  "actualizado": "2026-10-15T17:29+00:00",
   "temas": [
     {
       "id": "vivienda",
@@ -448,6 +448,117 @@
     }
   ],
   "noticias": [
+    {
+      "titulo": "Cuenta atrás para Podemos y el Frente Amplio: la unidad \"muy difícil\" en Madrid torpedea el resto del mapa pero Canarias anuncia la primera candidatura única",
+      "medio": "El Mundo",
+      "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/10/15/6ad099b9e4d4d8275d8b4589.html",
+      "fecha": "2026-10-15T17:12+00:00",
+      "partidos": [
+        "sumar",
+        "podemos"
+      ]
+    },
+    {
+      "titulo": "CCOO pide explicaciones a la cúpula de RTVE por avanzar RAC1 fragmentos de una entrevista en La 2 Cat a Puigdemont",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/cataluna/ccoo-pide-explicaciones-cupula-rtve-avanzar-rac1-20261015190541-nt.html",
+      "fecha": "2026-10-15T17:10+00:00",
+      "partidos": [
+        "junts"
+      ]
+    },
+    {
+      "titulo": "NC-BC, Podemos Canarias, IUC y Sumar Canarias acudirán en alianza al 29N bajo la marca 'Unidad del Pueblo Canario'",
+      "medio": "Europa Press",
+      "url": "https://www.europapress.es/islas-canarias/noticia-nc-bc-podemos-canarias-iuc-sumar-canarias-acudiran-alianza-29n-marca-unidad-pueblo-canario-20261015185207.html",
+      "fecha": "2026-10-15T16:52+00:00",
+      "partidos": [
+        "sumar",
+        "podemos"
+      ]
+    },
+    {
+      "titulo": "Abascal se reúne con Giorgia Meloni en Bruselas y reivindica el modelo italiano: \"España también puede elegirlo\"",
+      "medio": "20minutos",
+      "url": "https://www.20minutos.es/nacional/abascal-se-reune-con-giorgia-meloni-bruselas-reivindica-modelo-italiano-espana-tambien-puede-elegirlo_7049336_0.html",
+      "fecha": "2026-10-15T16:48+00:00",
+      "partidos": [
+        "vox"
+      ]
+    },
+    {
+      "titulo": "Malestar en el PSOE de Guadalajara ante la posibilidad de que Ferraz cambie su lista al Congreso",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/castilla-la-mancha/malestar-psoe-guadalajara-ante-posibilidad-ferraz-cambie-20261015125114-nt.html",
+      "fecha": "2026-10-15T16:44+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "Acuerdo histórico en la izquierda canaria: Podemos se une a la candidatura de Nueva Canarias, IU y Sumar en las generales",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/canariasahora/politica/acuerdo-historico-izquierda-canaria-suma-confluencia-llamara-unidad-pueblo-canario_1_13589265.html",
+      "fecha": "2026-10-15T16:41+00:00",
+      "partidos": [
+        "sumar",
+        "podemos"
+      ]
+    },
+    {
+      "titulo": "Guardias civiles ven «inaceptable» la sombra de las 'cloacas' del PSOE en su cúpula",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/guardias-civiles-consideran-inaceptable-sombra-cloacas-psoe-20261015184109-nt.html",
+      "fecha": "2026-10-15T16:41+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "Un juez abre diligencias por el gas pimienta exhibido por una diputada del PP en el Congreso",
+      "medio": "El Mundo",
+      "url": "https://www.elmundo.es/espana/2026/10/15/6ad0fbede85ece6f548b4577.html",
+      "fecha": "2026-10-15T16:27+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "Un juez abre diligencias por el caso del gas pimienta de la diputada del PP Ana Vázquez en el Congreso",
+      "medio": "20minutos",
+      "url": "https://www.20minutos.es/nacional/un-juez-abre-diligencias-por-caso-gas-pimienta-diputada-pp-ana-vazquez-congreso_7049245_0.html",
+      "fecha": "2026-10-15T14:46+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "La Junta Electoral abre expediente a Sánchez tras denunciar el PP un \"mitin\" en Moncloa",
+      "medio": "El Confidencial",
+      "url": "https://www.elconfidencial.com/espana/2026-10-15/junta-electoral-central-abre-expediente-a-sanchez-tras-denunciar-el-pp-un-mitin-en-moncloa_4445782/",
+      "fecha": "2026-10-15T14:34+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "La 'cloaca' del PSOE intentó persuadir a la líder de 'Los Rocho' con un perfil falso de Facebook para contratar \"palos\" contra Biedma",
+      "medio": "El Mundo",
+      "url": "https://www.elmundo.es/espana/2026/10/15/6ad0cd96fc6c837c488b45be.html",
+      "fecha": "2026-10-15T13:56+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "Un juez abre diligencias por el gas pimienta de una diputada del PP y pide parte de lesiones a los denunciantes",
+      "medio": "Europa Press",
+      "url": "https://www.europapress.es/nacional/noticia-juez-abre-diligencias-gas-pimienta-diputada-pp-pide-parte-lesiones-denunciantes-20261015151438.html",
+      "fecha": "2026-10-15T13:14+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
     {
       "titulo": "El PSOE se alinea con PP y Vox y votará a favor de la moción de censura contra Landaluce en Algeciras",
       "medio": "ABC",
@@ -937,6 +1048,15 @@
       "fecha": "2026-10-14T20:43+00:00",
       "partidos": [
         "psoe"
+      ]
+    },
+    {
+      "titulo": "Feijóo ultima las listas del PP con Cayetana Álvarez de Toledo y Albiol como arietes y caras nuevas en provincias clave",
+      "medio": "El Mundo",
+      "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/10/14/6acfb544fdddffa4068b45be.html",
+      "fecha": "2026-10-14T20:43+00:00",
+      "partidos": [
+        "pp"
       ]
     },
     {
@@ -3153,128 +3273,6 @@
       "fecha": "2026-10-12T09:45+00:00",
       "partidos": [
         "junts"
-      ]
-    },
-    {
-      "titulo": "Comuns acusa a Rufián de “dividir” a la izquierda y Frente Amplio acelera un acuerdo con Podemos",
-      "medio": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/politica/20261012/11656934/frente-amplio-recula-portazo-rufian-traslada-presion.html",
-      "fecha": "2026-10-12T09:28+00:00",
-      "partidos": [
-        "sumar",
-        "podemos"
-      ]
-    },
-    {
-      "titulo": "Barbero (Sumar) pide \"tranquilidad\" y aspira a anunciar \"cuanto antes\" una lista única que integre a Podemos",
-      "medio": "Europa Press",
-      "url": "https://www.europapress.es/nacional/noticia-barbero-sumar-pide-tranquilidad-aspira-anunciar-cuanto-antes-lista-unica-integre-podemos-20261012112852.html",
-      "fecha": "2026-10-12T09:28+00:00",
-      "partidos": [
-        "podemos"
-      ]
-    },
-    {
-      "titulo": "Los insultos a Sánchez y el plante de Abascal al Rey marcan el desfile del 12-O",
-      "medio": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/politica/20261012/11656931/insultos-abucheos-pedro-sanchez-llegada-desfile-militar.html",
-      "fecha": "2026-10-12T09:21+00:00",
-      "partidos": [
-        "vox"
-      ]
-    },
-    {
-      "titulo": "Pedro Sánchez reafirma su confianza en Bernabé, España y Torró y los sitúa como cabezas de lista por Valencia",
-      "medio": "elDiario.es",
-      "url": "https://www.eldiario.es/comunitat-valenciana/pedro-sanchez-reafirma-confianza-bernabe-espana-torro-situa-cabezas-lista-valencia_1_13579349.html",
-      "fecha": "2026-10-12T09:14+00:00",
-      "partidos": [
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "Insultos para Pedro Sánchez en la Fiesta Nacional que ha apurado la llegada para camuflarse entre los vítores a los Reyes",
-      "medio": "El Mundo",
-      "url": "https://www.elmundo.es/espana/2026/10/12/6acc994efc6c83b5608b4577.html",
-      "fecha": "2026-10-12T09:13+00:00",
-      "partidos": [
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "Gritos coreados de \"Pedro Sánchez, hijo de puta\" reciben al jefe del Gobierno en el desfile del 12-O",
-      "medio": "El Confidencial",
-      "url": "https://www.elconfidencial.com/espana/2026-10-12/pitada-sanchez_4443159/",
-      "fecha": "2026-10-12T09:10+00:00",
-      "partidos": [
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "El PP pide a Bruselas pronunciarse por las intimidaciones a la jueza Biedma por investigar al hermano de Pedro Sánchez",
-      "medio": "Europa Press",
-      "url": "https://www.europapress.es/nacional/noticia-pp-pide-bruselas-pronunciarse-intimidaciones-jueza-biedma-investigar-hermano-pedro-sanchez-20261012104005.html",
-      "fecha": "2026-10-12T08:40+00:00",
-      "partidos": [
-        "pp",
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "El PP promete \"regeneración\" en el Tribunal Constitucional si Feijóo llega a Moncloa",
-      "medio": "Europa Press",
-      "url": "https://www.europapress.es/nacional/noticia-pp-promete-regeneracion-tribunal-constitucional-si-feijoo-llega-moncloa-20261012103951.html",
-      "fecha": "2026-10-12T08:39+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Sevilla, la última provincia que se le resiste al PP y sigue fiel al PSOE",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/andalucia/sevilla-20261012070626-nts.html",
-      "fecha": "2026-10-12T08:22+00:00",
-      "partidos": [
-        "pp",
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "Pedro Sánchez reivindica una España plural el 12-O: “Llevamos nuestros derechos por bandera”",
-      "medio": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/politica/20261012/11656895/pedro-sanchez-reivindica-espana-plural-12-llevamos-derechos-bandera.html",
-      "fecha": "2026-10-12T07:33+00:00",
-      "partidos": [
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "Frente Amplio y Podemos encaran una semana decisiva en la que tendrán que decidir si concurren juntos a las elecciones",
-      "medio": "20minutos",
-      "url": "https://www.20minutos.es/nacional/frente-amplio-podemos-encaran-una-semana-decisiva-que-tendran-que-decidir-si-concurren-juntos-las-elecciones_7046022_0.html",
-      "fecha": "2026-10-12T05:22+00:00",
-      "partidos": [
-        "sumar",
-        "podemos"
-      ]
-    },
-    {
-      "titulo": "El PNV huye de los bloques en un escenario electoral que favorece a Bildu",
-      "medio": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/politica/20261012/11656605/pnv-huye-bloques-escenario-electoral-favorece-bildu.html",
-      "fecha": "2026-10-12T04:00+00:00",
-      "partidos": [
-        "bildu",
-        "pnv"
-      ]
-    },
-    {
-      "titulo": "Orriols trabaja para Abascal",
-      "medio": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/politica/20261012/11656592/orriols-trabaja-abascal.html",
-      "fecha": "2026-10-12T04:00+00:00",
-      "partidos": [
-        "vox"
       ]
     }
   ],
