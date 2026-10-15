@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-14T21:28+00:00",
+  "actualizado": "2026-10-15T05:17+00:00",
   "temas": [
     {
       "id": "vivienda",
@@ -449,10 +449,156 @@
   ],
   "noticias": [
     {
+      "titulo": "El PSOE y el PP encienden la batalla por el futuro de las pensiones",
+      "medio": "El País",
+      "url": "https://elpais.com/economia/2026-10-15/el-psoe-y-el-pp-encienden-la-batalla-por-el-futuro-de-las-pensiones.html",
+      "fecha": "2026-10-15T03:30+00:00",
+      "partidos": [
+        "pp",
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "Ferraz acapara las listas al Congreso por Valencia y deja sin margen al rival de Morant",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/comunidad-valenciana/psoe-listas-congreso-senado-valencia-20261015014015-nt.html",
+      "fecha": "2026-10-15T03:30+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "¿Cuántos votos hay a la izquierda del PSOE en la Comunidad Valenciana?",
+      "medio": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/local/valencia/20261015/11658722/votos-hay-izquierda-psoe-comunidad-valenciana.html",
+      "fecha": "2026-10-15T03:30+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "Encuestas elecciones en Galicia: resultados de PP, PSOE, Vox, Sumar y BNG y ganador según los sondeos",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/galicia/encuestas-elecciones-galicia-resultados-pp-psoe-vox-20261015050000-nt.html",
+      "fecha": "2026-10-15T03:00+00:00",
+      "partidos": [
+        "pp",
+        "psoe",
+        "vox",
+        "sumar",
+        "bng"
+      ]
+    },
+    {
+      "titulo": "El encaje de ministros y cargos de Sánchez abre una pugna interna en las listas del PSOE en Andalucía y Comunidad Valenciana",
+      "medio": "20minutos",
+      "url": "https://www.20minutos.es/nacional/encaje-ministros-cargos-sanchez-abre-una-pugna-interna-las-listas-psoe-andalucia-comunidad-valenciana_7048834_0.html",
+      "fecha": "2026-10-15T03:00+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "Compromís, Chunta, Mès... La izquierda soberanista que puede unir a Podemos y los partidos de Frente Amplio en sus territorios",
+      "medio": "20minutos",
+      "url": "https://www.20minutos.es/nacional/compromis-chunta-mes-izquierda-soberanista-que-puede-unir-podemos-los-partidos-frente-amplio-sus-territorios_7048812_0.html",
+      "fecha": "2026-10-15T03:00+00:00",
+      "partidos": [
+        "sumar",
+        "podemos"
+      ]
+    },
+    {
+      "titulo": "Nueve años que valen todo un reinado de \"unidad y permanencia\": Felipe VI contra el golpe de Puigdemont y contra la 'invasión' de Mohamed VI",
+      "medio": "El Mundo",
+      "url": "https://www.elmundo.es/espana/2026/10/15/6acfb348e4d4d80d1a8b458d.html",
+      "fecha": "2026-10-14T22:58+00:00",
+      "partidos": [
+        "junts"
+      ]
+    },
+    {
+      "titulo": "Colau ve \"desconcertante\" que el acuerdo de ERC y Podemos no incluya primarias: \"Hay alguna contradicción\"",
+      "medio": "Europa Press",
+      "url": "https://www.europapress.es/nacional/noticia-colau-ve-desconcertante-acuerdo-erc-podemos-no-incluya-primarias-hay-alguna-contradiccion-20261014230952.html",
+      "fecha": "2026-10-14T21:09+00:00",
+      "partidos": [
+        "erc",
+        "podemos"
+      ]
+    },
+    {
       "titulo": "Landaluce asume el fin de su mandato en Algeciras tras la moción de censura del PP y Vox: «Esto no tiene vuelta atrás»",
       "medio": "ABC",
       "url": "https://www.abc.es/espana/andalucia/cadiz/landaluce-asume-fin-mandato-algeciras-tras-mocion-20261014230730-nts.html",
       "fecha": "2026-10-14T21:07+00:00",
+      "partidos": [
+        "pp",
+        "vox"
+      ]
+    },
+    {
+      "titulo": "Los \"30 pisos\" de la pareja de la portavoz de Ferraz le explotan al PSOE en su campaña contra los \"rentistas\"",
+      "medio": "El Mundo",
+      "url": "https://www.elmundo.es/espana/2026/10/14/6acfd0c5e9cf4a98198b45c6.html",
+      "fecha": "2026-10-14T20:43+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "Castilla y León ya es la única comunidad sin Ley LGTBI por la pasividad del PP y el veto de Vox",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/castilla-y-leon/politica/castilla-leon-unica-comunidad-ley-lgtbi-pasividad-pp-veto-vox_1_13583762.html",
+      "fecha": "2026-10-14T20:33+00:00",
+      "partidos": [
+        "pp",
+        "vox"
+      ]
+    },
+    {
+      "titulo": "La ambigüedad de Colau sobre la marca del Frente Amplio y sobre su propio liderazgo inquieta en la alianza",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/politica/ambiguedad-colau-marca-frente-amplio-propio-liderazgo-inquieta-alianza_1_13586239.html",
+      "fecha": "2026-10-14T20:32+00:00",
+      "partidos": [
+        "sumar"
+      ]
+    },
+    {
+      "titulo": "Gabriel Rufián pedirá el voto para EH Bildu y BNG en sus territorios pese al acuerdo con Podemos",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/politica/gabriel-rufian-pedira-voto-eh-bildu-bng-territorios-pese-acuerdo_1_13585906.html",
+      "fecha": "2026-10-14T20:32+00:00",
+      "partidos": [
+        "bildu",
+        "podemos",
+        "bng"
+      ]
+    },
+    {
+      "titulo": "40 escaños más y mayoría absoluta: el informe interno del PSOE que avala una lista unida de la izquierda en el Senado",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/politica/40-escanos-mayoria-absoluta-informe-interno-psoe-avala-lista-unida-izquierda-senado_1_13584599.html",
+      "fecha": "2026-10-14T20:32+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "El PP patina con las pensiones en la precampaña del 29N",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/politica/pp-patina-pensiones-precampana-29n_1_13586089.html",
+      "fecha": "2026-10-14T20:32+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "Del sistema de pensiones \"quebrado\" de Vox al \"va a petar\" del PP: las alarmas que no avalan Bruselas ni la AIReF",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/economia/sistema-pensiones-quebrado-vox-petar-pp-alarmas-no-avalan-bruselas-airef_1_13584406.html",
+      "fecha": "2026-10-14T20:32+00:00",
       "partidos": [
         "pp",
         "vox"
@@ -483,6 +629,15 @@
       "fecha": "2026-10-14T19:30+00:00",
       "partidos": [
         "psoe"
+      ]
+    },
+    {
+      "titulo": "El escándalo por las denuncias de acoso sexual contra el alcalde de Algeciras amenaza el bastión del PP en Cádiz",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/andalucia/cadiz/escandalo-denuncias-acoso-sexual-alcalde-algeciras-amenaza-bastion-pp-cadiz_1_13585459.html",
+      "fecha": "2026-10-14T19:25+00:00",
+      "partidos": [
+        "pp"
       ]
     },
     {
@@ -551,6 +706,16 @@
       "fecha": "2026-10-14T18:17+00:00",
       "partidos": [
         "erc"
+      ]
+    },
+    {
+      "titulo": "Sánchez utiliza las pensiones para sembrar el pánico con los \"recortes\" de PP y Vox: \"Firmarán la carta de defunción del Estado de Bienestar\"",
+      "medio": "El Mundo",
+      "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/10/14/6acfbccce9cf4a48088b459d.html",
+      "fecha": "2026-10-14T17:33+00:00",
+      "partidos": [
+        "pp",
+        "vox"
       ]
     },
     {
@@ -656,6 +821,15 @@
       ]
     },
     {
+      "titulo": "Sánchez aúpa a Robles a número dos del PSOE en Madrid por delante de Marlaska tras la crisis de Ceuta",
+      "medio": "El Mundo",
+      "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/10/14/6acfa004e85ece67338b45a6.html",
+      "fecha": "2026-10-14T15:35+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
       "titulo": "Segunda denuncia de Junts ante la Junta Electoral por actos del gobierno Collboni",
       "medio": "La Vanguardia",
       "url": "https://www.lavanguardia.com/local/barcelona/20261014/11659015/segunda-denuncia-junts-junta-electoral-actos-gobierno-collboni.html",
@@ -715,6 +889,16 @@
       "medio": "La Vanguardia",
       "url": "https://www.lavanguardia.com/politica/20261014/11658965/pp-denuncia-incoherencia-portavoz-psoe-pisos-pareja-reta-debate-vivienda.html",
       "fecha": "2026-10-14T14:45+00:00",
+      "partidos": [
+        "pp",
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "El PP carga contra la \"hipocresía\" de la portavoz del PSOE por los \"30 pisos\" de su pareja: \"Es una buitre consorte\"",
+      "medio": "El Mundo",
+      "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/10/14/6acf7bd3e4d4d8d2338b45c3.html",
+      "fecha": "2026-10-14T13:24+00:00",
       "partidos": [
         "pp",
         "psoe"
@@ -3093,187 +3277,6 @@
       "partidos": [
         "pp",
         "vox"
-      ]
-    },
-    {
-      "titulo": "Más Madrid propone a Emilio Delgado como cabeza de lista del Frente Amplio por Madrid",
-      "medio": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/politica/20261011/11656543/mas-madrid-propone-emilio-delgado-cabeza-lista-frente-amplio-madrid.html",
-      "fecha": "2026-10-11T11:57+00:00",
-      "partidos": [
-        "sumar"
-      ]
-    },
-    {
-      "titulo": "El PP replica al PSOE que el “sacrificio” no tiene “nada que ver con los recortes”: “Si te esfuerzas, tienes recompensa”",
-      "medio": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/politica/20261011/11656532/pp-replica-psoe-sacrificio-ver-recortes-te-esfuerzas-tienes-recompensa.html",
-      "fecha": "2026-10-11T11:47+00:00",
-      "partidos": [
-        "pp",
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "Sánchez agita causas de izquierda para aglutinar voto: “La disyuntiva es Feijóo y Abascal o PSOE”",
-      "medio": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/politica/20261011/11656533/sanchez-agita-causas-izquierda-aglutinar-voto-disyuntiva-feijoo-abascal-psoe.html",
-      "fecha": "2026-10-11T11:40+00:00",
-      "partidos": [
-        "pp",
-        "psoe",
-        "vox"
-      ]
-    },
-    {
-      "titulo": "Sánchez pide al Supremo que frene el \"atropello\" de Feijóo y Abascal contra la ley de nietos",
-      "medio": "Europa Press",
-      "url": "https://www.europapress.es/nacional/noticia-sanchez-pide-supremo-frene-atropello-feijoo-abascal-contra-ley-nietos-20261011131447.html",
-      "fecha": "2026-10-11T11:14+00:00",
-      "partidos": [
-        "pp",
-        "vox"
-      ]
-    },
-    {
-      "titulo": "Illa encumbra a Jordi Hereu como candidato del PSC y declara la guerra a Junts: “¿Para qué sirves?”",
-      "medio": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/politica/20261011/11656509/illa-encumbra-jordi-hereu-candidato-psc-declara-guerra-junts-que-sirves.html",
-      "fecha": "2026-10-11T10:22+00:00",
-      "partidos": [
-        "junts"
-      ]
-    },
-    {
-      "titulo": "Gabriel Rufián encabezará la lista de ERC al Congreso en las elecciones generales",
-      "medio": "20minutos",
-      "url": "https://www.20minutos.es/nacional/gabriel-rufia-cabeza-lista-erc-congreso-elecciones-generales-noviembre-2026_7047601_0.html",
-      "fecha": "2026-10-11T10:19+00:00",
-      "partidos": [
-        "erc"
-      ]
-    },
-    {
-      "titulo": "Gabriel Rufián liderará la candidatura de ERC el 29-N y tiene cerca un acuerdo de colaboración con Podemos",
-      "medio": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/politica/20261011/11656507/gabriel-rufian-volvera-liderar-candidatura-erc-elecciones-29-n.html",
-      "fecha": "2026-10-11T10:07+00:00",
-      "partidos": [
-        "erc",
-        "podemos"
-      ]
-    },
-    {
-      "titulo": "ERC confirma a Rufián como cabeza de lista y cierra la puerta al Frente Amplio",
-      "medio": "elDiario.es",
-      "url": "https://www.eldiario.es/catalunya/erc-confirma-rufian-cabeza-lista-cierra-puerta-frente-amplio_1_13577275.html",
-      "fecha": "2026-10-11T10:04+00:00",
-      "partidos": [
-        "sumar",
-        "erc"
-      ]
-    },
-    {
-      "titulo": "Mertxe Aizpurua no repetirá como candidata de EH Bildu al Congreso por decisión propia",
-      "medio": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/politica/20261011/11656480/mertxe-aizpurua-repetira-candidata-eh-bildu-congreso-decision-propia.html",
-      "fecha": "2026-10-11T09:25+00:00",
-      "partidos": [
-        "bildu"
-      ]
-    },
-    {
-      "titulo": "Vox propone construir \"masivamente\" vivienda social y adjudicarla con \"prioridad nacional\"",
-      "medio": "20minutos",
-      "url": "https://www.20minutos.es/nacional/vox-propone-construir-masivamente-vivienda-social-adjudicarla-con-prioridad-nacional_7047575_0.html",
-      "fecha": "2026-10-11T08:55+00:00",
-      "partidos": [
-        "vox"
-      ]
-    },
-    {
-      "titulo": "'Génova' cree que ya no funciona el \"miedo\" a Vox que agita el PSOE y que moviliza más la \"animadversión\" hacia Sánchez",
-      "medio": "Europa Press",
-      "url": "https://www.europapress.es/nacional/noticia-genova-cree-ya-no-funciona-miedo-vox-agita-psoe-moviliza-mas-animadversion-sanchez-20261011103946.html",
-      "fecha": "2026-10-11T08:39+00:00",
-      "partidos": [
-        "pp",
-        "psoe",
-        "vox"
-      ]
-    },
-    {
-      "titulo": "Mertxe Aizpurua no repetirá como candidata de EH Bildu al Congreso el 29-N",
-      "medio": "El País",
-      "url": "https://elpais.com/espana/elecciones-generales/2026-10-11/mertxe-aizpurua-no-repetira-como-candidata-de-eh-bildu-al-congreso-el-29-n.html",
-      "fecha": "2026-10-11T08:35+00:00",
-      "partidos": [
-        "bildu"
-      ]
-    },
-    {
-      "titulo": "Mertxe Aizpurua no será candidata de EH Bildu al Congreso por decisión propia",
-      "medio": "20minutos",
-      "url": "https://www.20minutos.es/nacional/mertxe-aizpurua-no-sera-candidata-eh-bildu-congreso-por-decision-propia_7047565_0.html",
-      "fecha": "2026-10-11T08:15+00:00",
-      "partidos": [
-        "bildu"
-      ]
-    },
-    {
-      "titulo": "Sigue en directo el acto de Pedro Sánchez en Ponferrada",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/sigue-directo-acto-pedro-sanchez-ponferrada-20261011094659-nt.html",
-      "fecha": "2026-10-11T07:47+00:00",
-      "partidos": [
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "Así ha sido la presión cordobesa de PP y Vox al Gobierno en las Cortes en toda la legislatura: 12.219 preguntas",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/andalucia/cordoba/presion-cordobesa-pp-vox-gobierno-cortes-legislatura-20261011093452-nts.html",
-      "fecha": "2026-10-11T07:34+00:00",
-      "partidos": [
-        "pp",
-        "vox"
-      ]
-    },
-    {
-      "titulo": "Mertxe Aizpurua no irá en las listas de EH Bildu para las generales y no continuará en el Congreso",
-      "medio": "elDiario.es",
-      "url": "https://www.eldiario.es/euskadi/mertxe-aizpurua-no-ira-listas-eh-bildu-generales-no-continuara-congreso_1_13578124.html",
-      "fecha": "2026-10-11T07:21+00:00",
-      "partidos": [
-        "bildu"
-      ]
-    },
-    {
-      "titulo": "Sigue el incendio interno en el PNV: Aitor Esteban cuestiona abiertamente la salida de Elixabete Etxanobe de Bizkaia",
-      "medio": "elDiario.es",
-      "url": "https://www.eldiario.es/euskadi/sigue-incendio-interno-pnv-aitor-esteban-cuestiona-abiertamente-salida-elixabete-etxanobe-bizkaia_1_13578052.html",
-      "fecha": "2026-10-11T06:42+00:00",
-      "partidos": [
-        "pnv"
-      ]
-    },
-    {
-      "titulo": "Las tres vías de Sánchez para optimizar votos el 29N: épica de remontada, Vox al alza a costa del PP y explorar listas conjuntas al Senado",
-      "medio": "20minutos",
-      "url": "https://www.20minutos.es/nacional/las-tres-vias-sanchez-para-optimizar-votos-29n-epica-remontada-vox-alza-costa-pp-explorar-listas-conjuntas-senado_7046247_0.html",
-      "fecha": "2026-10-11T05:55+00:00",
-      "partidos": [
-        "pp",
-        "vox"
-      ]
-    },
-    {
-      "titulo": "Feijóo arranca su precampaña de las elecciones del 29-N con una demostración de fortaleza en Madrid",
-      "medio": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/politica/20261011/11656082/feijoo-arranca-precampana-elecciones-29-n-demostracion-fortaleza-madrid.html",
-      "fecha": "2026-10-11T04:00+00:00",
-      "partidos": [
-        "pp"
       ]
     }
   ],
