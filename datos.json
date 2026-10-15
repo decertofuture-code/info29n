@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-15T17:29+00:00",
+  "actualizado": "2026-10-15T21:30+00:00",
   "temas": [
     {
       "id": "vivienda",
@@ -448,6 +448,80 @@
     }
   ],
   "noticias": [
+    {
+      "titulo": "Una asociación fantasma cercana al PSOE se persona en el Supremo contra la suspensión del voto de los nietos",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/asociacion-fantasma-cercana-psoe-persona-supremo-suspension-20261015193605-nt.html",
+      "fecha": "2026-10-15T21:11+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "Puigdemont confirma que no será jefe de la oposición en el Parlament cuando regrese a Catalunya",
+      "medio": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/politica/20261015/11660068/puigdemont-confirma-sera-jefe-oposicion-parlament-regrese-catalunya.html",
+      "fecha": "2026-10-15T21:00+00:00",
+      "partidos": [
+        "junts"
+      ]
+    },
+    {
+      "titulo": "El PSOE-A relega al ex número dos de Cerdán en Jaén con el argumento de la paridad",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/andalucia/psoea-relega-numero-dos-cerdan-jaen-argumento-20261015224653-nts.html",
+      "fecha": "2026-10-15T20:48+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "Ningún miembro del Gobierno de Etxanobe está en la lista propuesta por el PNV de Bizkaia para las forales",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/euskadi/miembro-gobierno-etxanobe-lista-propuesta-pnv-bizkaia-forales_1_13589687.html",
+      "fecha": "2026-10-15T20:34+00:00",
+      "partidos": [
+        "pnv"
+      ]
+    },
+    {
+      "titulo": "Més y Frente Amplio cierran un acuerdo al Congreso en Balears sin Podemos",
+      "medio": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/politica/20261015/11660128/mes-frente-amplio-cierran-acuerdo-congreso-balears.html",
+      "fecha": "2026-10-15T20:32+00:00",
+      "partidos": [
+        "sumar",
+        "podemos"
+      ]
+    },
+    {
+      "titulo": "Izquierda Unida rechaza el acuerdo con Compromís que sigue negociando con Podemos",
+      "medio": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/local/valencia/20261015/11660123/izquierda-unida-rechaza-acuerdo-compromis-sigue-negociando.html",
+      "fecha": "2026-10-15T20:21+00:00",
+      "partidos": [
+        "podemos"
+      ]
+    },
+    {
+      "titulo": "Feijóo promete a Von der Leyen apoyar las devoluciones inmediatas de inmigrantes ilegales frente al bloqueo de Sánchez",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/feijoo-critica-politica-exterior-sanchez-haber-utilizada-20261015114250-nt.html",
+      "fecha": "2026-10-15T18:21+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "Montero dice que Podemos sigue \"buscando acuerdos en más territorios\" tras el pacto en Canarias con NC, Sumar y IU",
+      "medio": "Europa Press",
+      "url": "https://www.europapress.es/nacional/noticia-montero-dice-podemos-sigue-buscando-acuerdos-mas-territorios-pacto-canarias-nc-sumar-iu-20261015193710.html",
+      "fecha": "2026-10-15T17:37+00:00",
+      "partidos": [
+        "sumar",
+        "podemos"
+      ]
+    },
     {
       "titulo": "Cuenta atrás para Podemos y el Frente Amplio: la unidad \"muy difícil\" en Madrid torpedea el resto del mapa pero Canarias anuncia la primera candidatura única",
       "medio": "El Mundo",
@@ -3198,81 +3272,6 @@
       "fecha": "2026-10-12T12:16+00:00",
       "partidos": [
         "vox"
-      ]
-    },
-    {
-      "titulo": "PP y Vox llevan a las calles de Barcelona la protesta por la “invasión” de Ceuta",
-      "medio": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/politica/20261012/11657121/pp-vox-llevan-calles-barcelona-protesta-invasion-ceuta.html",
-      "fecha": "2026-10-12T12:11+00:00",
-      "partidos": [
-        "pp",
-        "vox"
-      ]
-    },
-    {
-      "titulo": "Los Comuns cargan contra Rufián tras pactar con Podemos: \"Venía a unir a la izquierda y está haciendo lo posible por dividirla\"",
-      "medio": "elDiario.es",
-      "url": "https://www.eldiario.es/politica/comuns-cargan-rufian-pactar-venia-unir-izquierda-haciendo-posible-dividirla_1_13579832.html",
-      "fecha": "2026-10-12T11:53+00:00",
-      "partidos": [
-        "podemos"
-      ]
-    },
-    {
-      "titulo": "Abascal arremete desde Ceuta contra el \"Gobierno de traidores\" y exige la \"militarización\" de la frontera",
-      "medio": "El Mundo",
-      "url": "https://www.elmundo.es/espana/2026/10/12/6accc854fc6c835e4f8b458e.html",
-      "fecha": "2026-10-12T11:48+00:00",
-      "partidos": [
-        "vox"
-      ]
-    },
-    {
-      "titulo": "Abascal planta a los reyes el 12 de octubre para irse a Ceuta con el ultra Bardella: \"No quiero compartir tribuna con traidores\"",
-      "medio": "elDiario.es",
-      "url": "https://www.eldiario.es/politica/abascal-planta-reyes-12-octubre-irse-ceuta-ultra-bardella-no-quiero-compartir-tribuna-traidores_1_13579298.html",
-      "fecha": "2026-10-12T11:08+00:00",
-      "partidos": [
-        "vox"
-      ]
-    },
-    {
-      "titulo": "El desfile del 12 de octubre deja insultos a Pedro Sánchez y un nuevo plantón de Abascal a los reyes",
-      "medio": "elDiario.es",
-      "url": "https://www.eldiario.es/politica/desfile-12-octubre-deja-insultos-pedro-sanchez-nuevo-planton-abascal-reyes_1_13579441.html",
-      "fecha": "2026-10-12T10:47+00:00",
-      "partidos": [
-        "psoe",
-        "vox"
-      ]
-    },
-    {
-      "titulo": "Rufián y Montero harán “equipo” en la campaña de las elecciones y ERC incorporará a Podemos en las listas",
-      "medio": "elDiario.es",
-      "url": "https://www.eldiario.es/politica/confirma-erc-les-incorporara-listas-rufian-hara-campana-montero_1_13579498.html",
-      "fecha": "2026-10-12T10:13+00:00",
-      "partidos": [
-        "erc",
-        "podemos"
-      ]
-    },
-    {
-      "titulo": "Los abucheos a Pedro Sánchez marcan el comienzo de un desfile de la Hispanidad de claro ambiente preelectoral",
-      "medio": "20minutos",
-      "url": "https://www.20minutos.es/nacional/los-abucheos-pedro-sanchez-marcan-comienzo-un-desfile-hispanidad-claro-ambiente-preelectoral_7047759_0.html",
-      "fecha": "2026-10-12T10:02+00:00",
-      "partidos": [
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "Junts exhibe ante Illa las medidas del Gobierno que ha frenado y bajadas de impuestos",
-      "medio": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/politica/20261012/11656936/junts-exhibe-illa-medidas-gobierno-frenado-bajadas-impuestos.html",
-      "fecha": "2026-10-12T09:45+00:00",
-      "partidos": [
-        "junts"
       ]
     }
   ],
