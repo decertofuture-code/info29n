@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-15T09:32+00:00",
+  "actualizado": "2026-10-15T13:40+00:00",
   "temas": [
     {
       "id": "vivienda",
@@ -449,6 +449,219 @@
   ],
   "noticias": [
     {
+      "titulo": "El PSOE se alinea con PP y Vox y votará a favor de la moción de censura contra Landaluce en Algeciras",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/andalucia/cadiz/psoe-alinea-pp-vox-votara-favor-mocion-20261015141610-nts.html",
+      "fecha": "2026-10-15T13:04+00:00",
+      "partidos": [
+        "pp",
+        "psoe",
+        "vox"
+      ]
+    },
+    {
+      "titulo": "Puigdemont solicita a Llarena que “sin más demora” aplique la amnistía",
+      "medio": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/politica/20261015/11659815/puigdemont-solicita-llarena-mas-demora-aplique-amnistia.html",
+      "fecha": "2026-10-15T13:01+00:00",
+      "partidos": [
+        "junts"
+      ]
+    },
+    {
+      "titulo": "IU rechaza negociar con Podemos fuera del Frente Amplio y exige un pacto global para las autonómicas",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/castilla-la-mancha/iu-rechaza-negociar-podemos-frente-amplio-exige-20261015145019-nt.html",
+      "fecha": "2026-10-15T12:50+00:00",
+      "partidos": [
+        "sumar",
+        "podemos"
+      ]
+    },
+    {
+      "titulo": "Feijóo se compromete a “actualizar las pensiones con el IPC” sin descartar reformarlas",
+      "medio": "El País",
+      "url": "https://elpais.com/espana/elecciones-generales/2026-10-15/feijoo-se-compromete-a-actualizar-las-pensiones-con-el-ipc-sin-descartar-reformarlas.html",
+      "fecha": "2026-10-15T12:49+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "Vox denuncia un copago escolar «encubierto» en las aulas y critica la «ceguera» de Page",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/castilla-la-mancha/vox-denuncia-copago-escolar-encubierto-aulas-critica-20261015144957-nt.html",
+      "fecha": "2026-10-15T12:49+00:00",
+      "partidos": [
+        "vox"
+      ]
+    },
+    {
+      "titulo": "Biedma denuncia a la Policía que el ex juez vinculado a las cloacas del PSOE la siguió con el coche hasta su domicilio tras declarar en la Audiencia Nacional",
+      "medio": "El Mundo",
+      "url": "https://www.elmundo.es/espana/2026/10/15/6ad0b816e9cf4a794c8b457a.html",
+      "fecha": "2026-10-15T12:42+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "Carlos Martínez, sobre la última decisión de Ferraz en las listas: «Aunque me enfade, me lo tendré que tragar»",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/castilla-leon/carlos-martinez-sobre-ultima-decision-ferraz-listas-20261015140731-nt.html",
+      "fecha": "2026-10-15T12:31+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "Frente Amplio corta el paso a los intentos de Podemos por “trocear” el espacio",
+      "medio": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/politica/20261015/11659797/frente-amplio-corta-paso-intentos-trocear-espacio.html",
+      "fecha": "2026-10-15T12:26+00:00",
+      "partidos": [
+        "sumar",
+        "podemos"
+      ]
+    },
+    {
+      "titulo": "Delgado ve \"viable\" que Podemos y Frente Amplio se enfrenten en Madrid y Cataluña y Belarra ofrece unidad a IU en otros territorios",
+      "medio": "20minutos",
+      "url": "https://www.20minutos.es/nacional/delgado-ve-viable-que-podemos-frente-amplio-se-enfrenten-madrid-cataluna-belarra-ofrece-unidad-iu-otros-territorios_7049149_0.html",
+      "fecha": "2026-10-15T12:13+00:00",
+      "partidos": [
+        "sumar",
+        "podemos"
+      ]
+    },
+    {
+      "titulo": "La portavoz del PSOE, Montse Mínguez, repetirá al frente de la lista electoral del PSC por Lleida",
+      "medio": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/politica/20261015/11659773/portavoz-psoe-montse-minguez-repetira-frente-lista-electoral-psc-lleida.html",
+      "fecha": "2026-10-15T12:02+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "EH Bildu también prescinde de Jon Iñarritu, el diputado 'abertzale' con traje y corbata señalado por su cercanía a Israel",
+      "medio": "El Mundo",
+      "url": "https://www.elmundo.es/pais-vasco/2026/10/15/6ad0a298fc6c83bf178b458c.html",
+      "fecha": "2026-10-15T12:01+00:00",
+      "partidos": [
+        "bildu"
+      ]
+    },
+    {
+      "titulo": "Colau aclara que solo renunciaría a ser candidata si así lo decide Frente Amplio y sirve para integrar a Podemos",
+      "medio": "Europa Press",
+      "url": "https://www.europapress.es/nacional/noticia-colau-aclara-solo-renunciaria-ser-candidata-si-asi-decide-frente-amplio-sirve-integrar-podemos-20261015135836.html",
+      "fecha": "2026-10-15T11:58+00:00",
+      "partidos": [
+        "sumar",
+        "podemos"
+      ]
+    },
+    {
+      "titulo": "Ernest Maragall carga contra Gabriel Rufián y alude a él como “ese conocido líder de Podemos”",
+      "medio": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/politica/20261015/11659770/ernest-maragall-carga-gabriel-rufian-alude-ese-conocido-lider.html",
+      "fecha": "2026-10-15T11:55+00:00",
+      "partidos": [
+        "podemos"
+      ]
+    },
+    {
+      "titulo": "EH Bildu renovará a fondo su grupo en el Congreso",
+      "medio": "El País",
+      "url": "https://elpais.com/espana/elecciones-generales/2026-10-15/eh-bildu-renovara-a-fondo-su-grupo-en-el-congreso.html",
+      "fecha": "2026-10-15T11:46+00:00",
+      "partidos": [
+        "bildu"
+      ]
+    },
+    {
+      "titulo": "Un juzgado admite a trámite una denuncia por el incidente con el bote de gas pimienta de una diputada del PP en el Congreso",
+      "medio": "El País",
+      "url": "https://elpais.com/espana/2026-10-15/un-juzgado-admite-a-tramite-una-denuncia-por-el-incidente-con-el-bote-de-gas-pimienta-del-pp-en-el-congreso.html",
+      "fecha": "2026-10-15T11:31+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "Feijóo dice que actualizará las pensiones con el IPC y Sánchez acusa a la derecha de mentir hasta las elecciones",
+      "medio": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/politica/20261015/11659723/feijoo-dice-actualizara-pensiones-ipc-sanchez-acusa-derecha-mentir-elecciones.html",
+      "fecha": "2026-10-15T11:20+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "Un juez abre diligencias por el incidente del gas pimienta de una diputada del PP",
+      "medio": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/politica/20261015/11659705/juez-abre-diligencias-incidente-gas-pimienta-diputada-pp.html",
+      "fecha": "2026-10-15T11:15+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "Feijóo afirma que Meloni impuso los controles Schengen porque desconfía de Sánchez: \"A mí no me ocurriría porque soy fiable\"",
+      "medio": "El Mundo",
+      "url": "https://www.elmundo.es/espana/2026/10/15/6ad0a79c21efa0ae0b8b4577.html",
+      "fecha": "2026-10-15T11:03+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "Feijóo cierra el debate de las pensiones: “Son innegociables. Se actualizarán conforme al IPC, sin duda”",
+      "medio": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/politica/20261015/11659631/feijoo-cierra-debate-pensiones-son-innegociables-actualizaran-conforme-ipc-duda.html",
+      "fecha": "2026-10-15T10:36+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "Feijóo recalca que la subida de las pensiones conforme al IPC es \"innegociable\" y busca zanjar el debate: \"Se acabó\"",
+      "medio": "Europa Press",
+      "url": "https://www.europapress.es/nacional/noticia-feijoo-recalca-subida-pensiones-conforme-ipc-innegociable-busca-zanjar-debate-acabo-20261015123042.html",
+      "fecha": "2026-10-15T10:30+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "Un juzgado investiga el incidente con el spray de pimienta de Ana Vázquez (PP) en el Congreso",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/politica/juzgado-investiga-incidente-spray-pimienta-ana-vazquez-pp-congreso_1_13587574.html",
+      "fecha": "2026-10-15T10:24+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "Feijóo promete una investigación sobre Ceuta y arranca a Bruselas la activación del mecanismo de retornos urgentes este año",
+      "medio": "20minutos",
+      "url": "https://www.20minutos.es/nacional/feijoo-promete-una-investigacion-sobre-ceuta-arranca-bruselas-activacion-mecanismo-retornos-urgentes-este-ano_7049081_0.html",
+      "fecha": "2026-10-15T10:08+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "Jon Iñarritu no repetirá como candidato de EH Bildu, tras 15 años en las Cortes",
+      "medio": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/local/paisvasco/20261015/11659544/jon-inarritu-repetira-candidato-eh-bildu-15-anos-cortes.html",
+      "fecha": "2026-10-15T09:18+00:00",
+      "partidos": [
+        "bildu"
+      ]
+    },
+    {
       "titulo": "Sánchez alerta contra los “recortes” del PP y Vox: “Van a mentir a los pensionistas hasta el 29-N”",
       "medio": "La Vanguardia",
       "url": "https://www.lavanguardia.com/politica/20261015/11659513/sanchez-alerta-recortes-pp-vox-mentir-pensionistas-29-n.html",
@@ -465,6 +678,17 @@
       "fecha": "2026-10-15T08:54+00:00",
       "partidos": [
         "psoe"
+      ]
+    },
+    {
+      "titulo": "Sánchez acusa desde Bruselas a PP y Vox de \"mentir a los pensionistas\" y asegura que la campaña está yendo \"como quiere\" el PSOE",
+      "medio": "20minutos",
+      "url": "https://www.20minutos.es/nacional/sanchez-defiende-que-gobierno-ha-sido-transparente-sobre-ceuta-ve-visita-los-reyes-una-muestra-normalidad_7048956_0.html",
+      "fecha": "2026-10-15T08:45+00:00",
+      "partidos": [
+        "pp",
+        "psoe",
+        "vox"
       ]
     },
     {
@@ -530,6 +754,15 @@
       "fecha": "2026-10-15T08:15+00:00",
       "partidos": [
         "bildu"
+      ]
+    },
+    {
+      "titulo": "Guía de la negociación más al límite y desquiciada de la izquierda: el Frente Amplio se queda sin tiempo",
+      "medio": "El Mundo",
+      "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/10/15/6acfb5ade4d4d8454b8b459e.html",
+      "fecha": "2026-10-15T08:02+00:00",
+      "partidos": [
+        "sumar"
       ]
     },
     {
@@ -664,6 +897,17 @@
       "fecha": "2026-10-14T22:58+00:00",
       "partidos": [
         "junts"
+      ]
+    },
+    {
+      "titulo": "Colau perdería más del 60% de sus votos en Cataluña, que irían a parar al PSOE y a la lista de ERC y Podemos",
+      "medio": "El Mundo",
+      "url": "https://www.elmundo.es/cataluna/2026/10/15/6acfb7abe85ece24628b45a1.html",
+      "fecha": "2026-10-14T22:58+00:00",
+      "partidos": [
+        "psoe",
+        "erc",
+        "podemos"
       ]
     },
     {
@@ -3029,250 +3273,6 @@
       "medio": "La Vanguardia",
       "url": "https://www.lavanguardia.com/politica/20261012/11656592/orriols-trabaja-abascal.html",
       "fecha": "2026-10-12T04:00+00:00",
-      "partidos": [
-        "vox"
-      ]
-    },
-    {
-      "titulo": "Feijóo toca a rebato y pide a los barones “movilización máxima”",
-      "medio": "El País",
-      "url": "https://elpais.com/espana/elecciones-generales/2026-10-12/feijoo-toca-a-rebato-y-pide-a-los-barones-movilizacion-maxima.html",
-      "fecha": "2026-10-12T03:30+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "La candidatura por Madrid frena el acuerdo del Frente Amplio",
-      "medio": "El País",
-      "url": "https://elpais.com/espana/elecciones-generales/2026-10-12/la-candidatura-por-madrid-frena-el-acuerdo-del-frente-amplio.html",
-      "fecha": "2026-10-12T03:30+00:00",
-      "partidos": [
-        "sumar"
-      ]
-    },
-    {
-      "titulo": "Junts sale a empatar el 29-N pese a los negros augurios de los sondeos y repite candidatos al Congreso",
-      "medio": "El Confidencial",
-      "url": "https://www.elconfidencial.com/espana/cataluna/2026-10-12/junts-empatar-sondeos-repiten-grueso-candidatos_4442142/",
-      "fecha": "2026-10-12T03:00+00:00",
-      "partidos": [
-        "junts"
-      ]
-    },
-    {
-      "titulo": "Toni Comín y Lluís Puig volverán a Cataluña antes que Carles Puigdemont por su cuenta y sin solemnidad",
-      "medio": "El Confidencial",
-      "url": "https://www.elconfidencial.com/espana/cataluna/2026-10-12/toni-comin-lluis-puig-volver-cataluna-puigdemont_4441616/",
-      "fecha": "2026-10-12T03:00+00:00",
-      "partidos": [
-        "junts"
-      ]
-    },
-    {
-      "titulo": "El lamento de los antidisturbios del 1-O con el regreso de Puigdemont: «Se van de rositas después de humillar a España»",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/lamento-antidisturbios-regreso-puigdemont-policias-jubilados-culpa-20261009014534-nt.html",
-      "fecha": "2026-10-11T23:57+00:00",
-      "partidos": [
-        "junts"
-      ]
-    },
-    {
-      "titulo": "Sánchez intenta evitar el hundimiento del PSOE por la corrupción pero no cuela entre jueces y fiscales",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/carmen-lucastorres-sanchez-intenta-evitar-implosion-psoe-corrupcion-cuela-20261012014955-nt.html",
-      "fecha": "2026-10-11T23:53+00:00",
-      "partidos": [
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "Seis de cada diez españoles creen que PP y Vox gobernarán en coalición tras las elecciones",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/seis-diez-espanoles-creen-pp-vox-gobernaran-20261012015019-nt.html",
-      "fecha": "2026-10-11T23:50+00:00",
-      "partidos": [
-        "pp",
-        "vox"
-      ]
-    },
-    {
-      "titulo": "Feijóo crece como futuro presidente para el 60% de los españoles y Abascal ya empata con Sánchez y Díaz",
-      "medio": "El Mundo",
-      "url": "https://www.elmundo.es/espana/encuestas/2026/10/12/6acba99dfc6c83803b8b457e.html",
-      "fecha": "2026-10-11T22:12+00:00",
-      "partidos": [
-        "pp",
-        "vox"
-      ]
-    },
-    {
-      "titulo": "La ley educativa que el PP guardó en el cajón hace seis años: un MIR y tres cursos de Bachillerato",
-      "medio": "El Mundo",
-      "url": "https://www.elmundo.es/espana/2026/10/12/6acbb839fdddffeb618b4581.html",
-      "fecha": "2026-10-11T22:12+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "La izquierda sigue KO tras el adelanto: PSOE y Sumar repiten en mínimos mientras Vox logra un récord a costa del PP",
-      "medio": "El Mundo",
-      "url": "https://www.elmundo.es/espana/encuestas/2026/10/11/6acba028e85ece77088b4580.html",
-      "fecha": "2026-10-11T20:40+00:00",
-      "partidos": [
-        "pp",
-        "psoe",
-        "vox",
-        "sumar"
-      ]
-    },
-    {
-      "titulo": "Abascal se compromete al inicio de la precampaña a \"recuperar el poder para el ciudadano\"",
-      "medio": "El Confidencial",
-      "url": "https://www.elconfidencial.com/espana/2026-10-11/abascal-vox-elecciones-generales-1tna-1tps_4443121/",
-      "fecha": "2026-10-11T19:44+00:00",
-      "partidos": [
-        "vox"
-      ]
-    },
-    {
-      "titulo": "Abascal da comienzo a la precampaña de la «última oportunidad» en Estepona: «Es momento de dejar de soportar injusticias»",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/abascal-comienzo-precampana-ultima-oportunidad-estepona-momento-20261011195837-nt.html",
-      "fecha": "2026-10-11T19:32+00:00",
-      "partidos": [
-        "vox"
-      ]
-    },
-    {
-      "titulo": "La permanente falta de médicos en Andoain enfrenta al Ayuntamiento de EH Bildu con el Gobierno vasco",
-      "medio": "elDiario.es",
-      "url": "https://www.eldiario.es/euskadi/permanente-falta-medicos-andoain-enfrenta-ayuntamiento-eh-bildu-gobierno-vasco_1_13573747.html",
-      "fecha": "2026-10-11T19:20+00:00",
-      "partidos": [
-        "bildu"
-      ]
-    },
-    {
-      "titulo": "Puigdemont asiste al recital de 50 aniversario de María del Mar Bonet en el Olympia",
-      "medio": "El Mundo",
-      "url": "https://www.elmundo.es/espana/2026/10/11/6acbe11421efa083378b456f.html",
-      "fecha": "2026-10-11T19:18+00:00",
-      "partidos": [
-        "junts"
-      ]
-    },
-    {
-      "titulo": "Feijóo, un hombre sin puntería",
-      "medio": "elDiario.es",
-      "url": "https://www.eldiario.es/andalucia/desdeelsur/feijoo-hombre-punteria_132_13578695.html",
-      "fecha": "2026-10-11T19:11+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "El giro de Rufián descoloca a la izquierda y complica el pacto entre Podemos y el Frente Amplio",
-      "medio": "elDiario.es",
-      "url": "https://www.eldiario.es/catalunya/giro-rufian-descoloca-izquierda-complica-pacto-frente-amplio_1_13579035.html",
-      "fecha": "2026-10-11T19:10+00:00",
-      "partidos": [
-        "sumar",
-        "podemos"
-      ]
-    },
-    {
-      "titulo": "La Fiscalía se enreda en una investigación contra el PSOE que conduce a la guerra sucia de las cloacas del PP",
-      "medio": "elDiario.es",
-      "url": "https://www.eldiario.es/politica/fiscalia-enreda-investigacion-psoe-conduce-guerra-sucia-cloacas-pp_129_13568309.html",
-      "fecha": "2026-10-11T19:10+00:00",
-      "partidos": [
-        "pp",
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "Ni agentes de la UCO ni móviles incautados: la revelación de secretos del PP no se investiga como al exfiscal general",
-      "medio": "elDiario.es",
-      "url": "https://www.eldiario.es/politica/agentes-uco-moviles-incautados-revelacion-secretos-pp-no-investiga-exfiscal-general_1_13574778.html",
-      "fecha": "2026-10-11T19:10+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Ayuso, el juguete roto del Neverland de Feijóo",
-      "medio": "elDiario.es",
-      "url": "https://www.eldiario.es/economia/ayuso-juguete-roto-neverland-feijoo_129_13575852.html",
-      "fecha": "2026-10-11T19:10+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "¿En qué consiste y qué puede incluir el acuerdo que negocian ERC y Podemos para el 29-N?",
-      "medio": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/politica/elecciones/20261011/11656664/que-consiste-que-incluir-acuerdo-negocian-erc-29-n.html",
-      "fecha": "2026-10-11T18:54+00:00",
-      "partidos": [
-        "erc",
-        "podemos"
-      ]
-    },
-    {
-      "titulo": "IU apoya a Ada Colau para que lidere el Frente Amplio y pide responsabilidad a los partidos",
-      "medio": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/politica/20261011/11656655/iu-apoya-ada-colau-lidere-frente-amplio-pide-responsabilidad-partidos.html",
-      "fecha": "2026-10-11T18:22+00:00",
-      "partidos": [
-        "sumar"
-      ]
-    },
-    {
-      "titulo": "Puigdemont, en París para asistir en el Olympia al 50 aniversario de María del Mar Bonet",
-      "medio": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/politica/20261011/11656650/puigdemont-paris-asistir-olympia-50-aniversario-maria-mar-bonet.html",
-      "fecha": "2026-10-11T18:17+00:00",
-      "partidos": [
-        "junts"
-      ]
-    },
-    {
-      "titulo": "Rufián firma la paz con Junqueras para liderar ERC y negocia una alianza con Podemos que puede reventar el Frente Amplio",
-      "medio": "El Mundo",
-      "url": "https://www.elmundo.es/cataluna/2026/10/11/6aca79c0e9cf4a25568b45b0.html",
-      "fecha": "2026-10-11T18:04+00:00",
-      "partidos": [
-        "sumar",
-        "erc",
-        "podemos"
-      ]
-    },
-    {
-      "titulo": "Abascal abre la precampaña del 29N pidiendo no hacer caso a las encuestas porque son el \"principal enemigo\" para las elecciones",
-      "medio": "20minutos",
-      "url": "https://www.20minutos.es/nacional/abascal-abre-precampana-29n-pidiendo-no-hacer-caso-las-encuestas-porque-son-principal-enemigo-para-las-elecciones_7047678_0.html",
-      "fecha": "2026-10-11T18:02+00:00",
-      "partidos": [
-        "vox"
-      ]
-    },
-    {
-      "titulo": "Abascal dice que con Vox las pensiones se pagarán y habrá vivienda \"como sea\" y sigue llamando al voto presencial",
-      "medio": "Europa Press",
-      "url": "https://www.europapress.es/nacional/noticia-abascal-dice-vox-pensiones-pagaran-habra-vivienda-sea-sigue-llamando-voto-presencial-20261011195906.html",
-      "fecha": "2026-10-11T17:59+00:00",
-      "partidos": [
-        "vox"
-      ]
-    },
-    {
-      "titulo": "Abascal llama a evitar el “exceso de confianza” en las encuestas y avisa que Sánchez usará la “mentira” y la “violencia”",
-      "medio": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/politica/20261011/11656642/abascal-llama-evitar-exceso-confianza-encuestas-avisa-sanchez-usara-mentira-violencia.html",
-      "fecha": "2026-10-11T17:50+00:00",
       "partidos": [
         "vox"
       ]
