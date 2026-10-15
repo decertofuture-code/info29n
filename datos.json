@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-15T05:17+00:00",
+  "actualizado": "2026-10-15T09:32+00:00",
   "temas": [
     {
       "id": "vivienda",
@@ -448,6 +448,155 @@
     }
   ],
   "noticias": [
+    {
+      "titulo": "Sánchez alerta contra los “recortes” del PP y Vox: “Van a mentir a los pensionistas hasta el 29-N”",
+      "medio": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/politica/20261015/11659513/sanchez-alerta-recortes-pp-vox-mentir-pensionistas-29-n.html",
+      "fecha": "2026-10-15T09:02+00:00",
+      "partidos": [
+        "pp",
+        "vox"
+      ]
+    },
+    {
+      "titulo": "El PSOE canario confirma sus listas al Senado y mantiene en el aire sus apuestas al Congreso",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/canarias/psoe-canario-confirma-listas-senado-mantiene-aire-20261015105449-nt.html",
+      "fecha": "2026-10-15T08:54+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "Luis Carlos Sahuquillo encabezará la candidatura del PSOE por Cuenca al Congreso",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/castilla-la-mancha/luis-carlos-sahuquillo-encabezara-candidatura-psoe-cuenca-20261015095829-nt.html",
+      "fecha": "2026-10-15T08:32+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "El PP de Toledo lamenta que la Junta incumpla su compromiso y retrase la apertura del Paseo Imperial",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/castilla-la-mancha/toledo/pp-toledo-lamenta-junta-incumpla-compromiso-retrase-20261015094909-nt.html",
+      "fecha": "2026-10-15T08:30+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "La confluencia de izquierdas en Canarias se llamará Nueva Canarias-Frente Amplio, de momento sin Podemos",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/canariasahora/politica/confluencia-izquierdas-canarias-llamara-nueva-canarias-frente-amplio-momento_1_13586962.html",
+      "fecha": "2026-10-15T08:29+00:00",
+      "partidos": [
+        "sumar",
+        "podemos"
+      ]
+    },
+    {
+      "titulo": "Puigdemont exige a Llarena que aplique la amnistía con la urgencia y preferencia que ordenó el Supremo",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/puigdemont-exige-llarena-aplique-amnistia-urgencia-preferencia-20261015095031-nt.html",
+      "fecha": "2026-10-15T08:20+00:00",
+      "partidos": [
+        "junts"
+      ]
+    },
+    {
+      "titulo": "IU rechaza negociar con Podemos fuera de Frente Amplio y no acepta los acuerdos \"troceados\" que plantean",
+      "medio": "Europa Press",
+      "url": "https://www.europapress.es/nacional/noticia-iu-rechaza-negociar-podemos-fuera-frente-amplio-deja-claro-no-acepta-acuerdos-troceados-29n-20261015102013.html",
+      "fecha": "2026-10-15T08:20+00:00",
+      "partidos": [
+        "sumar",
+        "podemos"
+      ]
+    },
+    {
+      "titulo": "Emilio Sáez será la cabeza de lista del PSOE por Albacete al Congreso de los Diputados",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/castilla-la-mancha/emilio-saez-cabeza-lista-psoe-albacete-congreso-20261015101605-nt.html",
+      "fecha": "2026-10-15T08:16+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "Jon Iñarritu, el diputado de EH Bildu que siempre condenó a ETA y el último de los 'pioneros' de 2011, no irá en las listas",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/euskadi/jon-inarritu-diputado-eh-bildu-condeno-eta-ultimo-pioneros-2011-no-ira-listas_1_13586948.html",
+      "fecha": "2026-10-15T08:15+00:00",
+      "partidos": [
+        "bildu"
+      ]
+    },
+    {
+      "titulo": "Colau lamenta que este miércoles ERC no accediera a negociar con Comuns por el Frente Amplio",
+      "medio": "Europa Press",
+      "url": "https://www.europapress.es/catalunya/noticia-colau-lamenta-miercoles-erc-no-accediera-negociar-comuns-frente-amplio-20261015100100.html",
+      "fecha": "2026-10-15T08:01+00:00",
+      "partidos": [
+        "sumar",
+        "erc"
+      ]
+    },
+    {
+      "titulo": "Ada Colau: “Ayer pedimos volver a negociar con ERC y no se quisieron ni sentar a hablar”",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/catalunya/ada-colau-ayer-pedimos-volver-negociar-erc-no-quisieron-sentar-hablar_1_13586837.html",
+      "fecha": "2026-10-15T07:37+00:00",
+      "partidos": [
+        "erc"
+      ]
+    },
+    {
+      "titulo": "Feijóo, arropado por Von der Leyen en la foto de familia del PP europeo en plena precampaña y con la crisis de Ceuta de fondo",
+      "medio": "20minutos",
+      "url": "https://www.20minutos.es/nacional/feijoo-arropado-por-von-der-leyen-plena-precampana-con-situacion-ceuta-fondo_7048988_0.html",
+      "fecha": "2026-10-15T07:29+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "Podemos y Frente Amplio avanzan en los pactos territoriales mientras se atasca el acuerdo estatal",
+      "medio": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/politica/20261015/11659414/podemos-frente-intenta-salvar-unidad-territorial-bloqueo-madrid-catalunya-elecciones-29n.html",
+      "fecha": "2026-10-15T07:27+00:00",
+      "partidos": [
+        "sumar"
+      ]
+    },
+    {
+      "titulo": "Feijóo convoca el domingo un gran acto en Barcelona rumbo a las elecciones generales del 29-N",
+      "medio": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/politica/20261015/11659219/feijoo-convoca-domingo-gran-acto-barcelona-rumbo-elecciones-generales-29-n.html",
+      "fecha": "2026-10-15T07:09+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "Podemos ofrece pactos solo a IU en diez comunidades pero Maíllo rechaza negociar \"saliéndose del Frente Amplio\"",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/politica/limita-acuerdos-iu-fuera-madrid-catalunya-negociacion-unidad-izquierda_1_13586819.html",
+      "fecha": "2026-10-15T06:58+00:00",
+      "partidos": [
+        "sumar"
+      ]
+    },
+    {
+      "titulo": "Podemos y los partidos del Frente Amplio ultiman acuerdos territoriales para el 29-N fuera de Madrid y Barcelona",
+      "medio": "El País",
+      "url": "https://elpais.com/espana/elecciones-generales/2026-10-15/podemos-y-los-partidos-del-frente-amplio-avanzan-en-los-acuerdos-territoriales-para-el-29-n.html",
+      "fecha": "2026-10-15T06:53+00:00",
+      "partidos": [
+        "sumar",
+        "podemos"
+      ]
+    },
     {
       "titulo": "El PSOE y el PP encienden la batalla por el futuro de las pensiones",
       "medio": "El País",
@@ -3125,157 +3274,6 @@
       "url": "https://www.lavanguardia.com/politica/20261011/11656642/abascal-llama-evitar-exceso-confianza-encuestas-avisa-sanchez-usara-mentira-violencia.html",
       "fecha": "2026-10-11T17:50+00:00",
       "partidos": [
-        "vox"
-      ]
-    },
-    {
-      "titulo": "La decisión de Rufián sacude a la izquierda: opción de pacto inédito ERC-Podemos en Cataluña y nuevo giro en Frente Amplio",
-      "medio": "20minutos",
-      "url": "https://www.20minutos.es/nacional/decision-rufian-sacude-izquierda-opcion-pacto-inedito-erc-podemos-cataluna-nuevo-giro-frente-amplio_7047674_0.html",
-      "fecha": "2026-10-11T17:18+00:00",
-      "partidos": [
-        "sumar",
-        "erc",
-        "podemos"
-      ]
-    },
-    {
-      "titulo": "Abascal pide calma ante las \"provocaciones\" desde Estepona, pero alerta contra el \"gobierno más sucio\": \"No os fieis de una sola encuesta\"",
-      "medio": "El Mundo",
-      "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/10/11/6acbac50e85ece731f8b457c.html",
-      "fecha": "2026-10-11T17:11+00:00",
-      "partidos": [
-        "vox"
-      ]
-    },
-    {
-      "titulo": "Besteiro confirma que no será candidato al Congreso y defiende al PSOE como «voto útil»",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/galicia/besteiro-confirma-candidato-congreso-defiende-psoe-voto-20261011170815-nt.html",
-      "fecha": "2026-10-11T16:34+00:00",
-      "partidos": [
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "Podemos y ERC, «muy cerca» de un pacto en Cataluña al margen del Frente Amplio",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/madrid-propone-emilio-delgado-delante-monica-garcia-20261011140034-nt.html",
-      "fecha": "2026-10-11T16:25+00:00",
-      "partidos": [
-        "sumar",
-        "erc"
-      ]
-    },
-    {
-      "titulo": "La decisión de Rufián sacude a la izquierda: opción de pacto inédito ERC-Podemos y nuevo giro en Frente Amplio",
-      "medio": "Europa Press",
-      "url": "https://www.europapress.es/nacional/noticia-decision-rufian-sacude-izquierda-opcion-pacto-inedito-erc-podemos-nuevo-giro-frente-amplio-20261011174549.html",
-      "fecha": "2026-10-11T15:45+00:00",
-      "partidos": [
-        "sumar",
-        "erc",
-        "podemos"
-      ]
-    },
-    {
-      "titulo": "Francesc-Marc Álvaro será el cabeza de lista de ERC al Senado por Barcelona el 29-N",
-      "medio": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/politica/20261011/11656609/francesc-marc-alvaro-sera-cabeza-lista-erc-senado-barcelona-29-n.html",
-      "fecha": "2026-10-11T15:42+00:00",
-      "partidos": [
-        "erc"
-      ]
-    },
-    {
-      "titulo": "Mertxe Aizpurua no repetirá en la candidatura de Bildu después de siete años siendo la portavoz 'abertzale' en el Congreso",
-      "medio": "El Mundo",
-      "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/10/11/6acba629fdddff20068b457e.html",
-      "fecha": "2026-10-11T15:10+00:00",
-      "partidos": [
-        "bildu"
-      ]
-    },
-    {
-      "titulo": "El PP de Cuenca respalda a Feijóo en el inicio de la precampaña electoral: «Es una etapa ilusionante»",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/castilla-la-mancha/pp-cuenca-respalda-feijoo-precampana-electoral-inicio-20261011165316-nt.html",
-      "fecha": "2026-10-11T14:55+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "ERC y Podem ultiman un acuerdo para concurrir juntos en Cataluña a las generales",
-      "medio": "20minutos",
-      "url": "https://www.20minutos.es/nacional/erc-podem-ultiman-un-acuerdo-para-concurrir-juntos-cataluna-las-generales_7047645_0.html",
-      "fecha": "2026-10-11T14:25+00:00",
-      "partidos": [
-        "erc"
-      ]
-    },
-    {
-      "titulo": "Illa proclama a Jordi Hereu candidato del PSC a las elecciones generales y declara la guerra a Junts",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/cataluna/lla-proclama-jordi-hereu-candidato-psc-elecciones-20261011120838-nt.html",
-      "fecha": "2026-10-11T13:10+00:00",
-      "partidos": [
-        "junts"
-      ]
-    },
-    {
-      "titulo": "Ester Muñoz plantea una «reconstrucción nacional» de la mano del PP frente al PSOE de «las cloacas y las joyas»",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/castilla-leon/ester-munoz-plantea-reconstruccion-nacional-mano-pp-20261011145542-nt.html",
-      "fecha": "2026-10-11T12:57+00:00",
-      "partidos": [
-        "pp",
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "Pedro Sánchez promete «cuatro años más de progreso y justicia social para el Bierzo y el conjunto de León»",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/castilla-leon/pedro-sanchez-promete-cuatro-anos-progreso-justicia-20261011144734-nt.html",
-      "fecha": "2026-10-11T12:48+00:00",
-      "partidos": [
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "Rufián encabezará la candidatura de ERC por Barcelona para las elecciones del 29N",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/cataluna/rufian-encabezara-candidatura-erc-elecciones-29n-20261011121241-nt.html",
-      "fecha": "2026-10-11T12:48+00:00",
-      "partidos": [
-        "erc"
-      ]
-    },
-    {
-      "titulo": "Más Madrid invita a Podemos a unirse a la lista por Madrid liderada por Emilio Delgado",
-      "medio": "20minutos",
-      "url": "https://www.20minutos.es/nacional/mas-madrid-invita-podemos-unirse-lista-por-madrid-liderada-por-emilio-delgado_7047630_0.html",
-      "fecha": "2026-10-11T12:23+00:00",
-      "partidos": [
-        "podemos"
-      ]
-    },
-    {
-      "titulo": "Cendón compara a Pedro Sánchez con Tom Cruise: «La leyenda continúa, porque vas a volver a ganar las elecciones»",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/castilla-leon/cendon-compara-pedro-sanchez-tom-cruise-leyenda-20261011140945-nt.html",
-      "fecha": "2026-10-11T12:11+00:00",
-      "partidos": [
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "Sánchez pide al Supremo que \"frene el intento de atropello de Feijóo y Abascal\" contra la ley de nietos: \"¿Es constitucional?\"",
-      "medio": "20minutos",
-      "url": "https://www.20minutos.es/nacional/sanchez-pide-supremo-frene-intento-atropello-feijoo-abascal-garantice-voto-nietos-exilio_7047620_0.html",
-      "fecha": "2026-10-11T12:06+00:00",
-      "partidos": [
-        "pp",
         "vox"
       ]
     }
