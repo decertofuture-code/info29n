@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-16T17:26+00:00",
+  "actualizado": "2026-10-16T21:26+00:00",
   "temas": [
     {
       "id": "vivienda",
@@ -448,6 +448,136 @@
     }
   ],
   "noticias": [
+    {
+      "titulo": "Podemos rechaza la oferta 'in extremis' del Frente Amplio para un pacto estatal e insiste en acordar en 11 comunidades",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/politica/rechaza-oferta-in-extremis-frente-amplio-pacto-estatal-e-insiste-acordar-11-comunidades_1_13593145.html",
+      "fecha": "2026-10-16T21:09+00:00",
+      "partidos": [
+        "sumar"
+      ]
+    },
+    {
+      "titulo": "Oferta 'in extremis' del Frente Amplio a Podemos: el número dos por Madrid y una portavocía en el Congreso para Irene Montero",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/frente-amplio-lanza-oferta-acuerdo-podemos-puestos-20261016220600-nt.html",
+      "fecha": "2026-10-16T21:09+00:00",
+      "partidos": [
+        "sumar",
+        "podemos"
+      ]
+    },
+    {
+      "titulo": "Podemos desoye la oferta de Frente Amplio y responde que su afán con Madrid y Cataluña no bloquee pactos en otras CCAA",
+      "medio": "Europa Press",
+      "url": "https://www.europapress.es/nacional/noticia-podemos-desoye-oferta-frente-amplio-responde-afan-madrid-cataluna-no-bloquee-pactos-otras-ccaa-20261016230839.html",
+      "fecha": "2026-10-16T21:08+00:00",
+      "partidos": [
+        "sumar"
+      ]
+    },
+    {
+      "titulo": "Vox denuncia que el «fraude electoral» por la ley de nietos podría cambiar hasta tres diputados en Andalucía",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/andalucia/vox-denuncia-fraude-electoral-ley-nietos-cambiar-20261016183626-nts.html",
+      "fecha": "2026-10-16T20:21+00:00",
+      "partidos": [
+        "vox"
+      ]
+    },
+    {
+      "titulo": "Convergents resolverá el pacto con Junts para las municipales tras no llegar a un acuerdo para el 29-N",
+      "medio": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/politica/20261016/11661082/convergents-resolvera-pacto-junts-municipales-llegar-acuerdo-29-n.html",
+      "fecha": "2026-10-16T20:04+00:00",
+      "partidos": [
+        "junts"
+      ]
+    },
+    {
+      "titulo": "Frente Amplio lanza una oferta de acuerdo 'in extremis' a Podemos con puestos de salida en Madrid y Barcelona",
+      "medio": "Europa Press",
+      "url": "https://www.europapress.es/nacional/noticia-frente-amplio-lanza-oferta-acuerdo-podemos-puestos-salida-prioritarios-madrid-barcelona-20261016215919.html",
+      "fecha": "2026-10-16T19:59+00:00",
+      "partidos": [
+        "sumar",
+        "podemos"
+      ]
+    },
+    {
+      "titulo": "El Frente Amplio ofrece por escrito a Podemos un puesto de salida en Madrid para Irene Montero",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/politica/frente-amplio-ofrece-escrito-puesto-salida-madrid-irene-montero_1_13592988.html",
+      "fecha": "2026-10-16T19:55+00:00",
+      "partidos": [
+        "sumar",
+        "podemos"
+      ]
+    },
+    {
+      "titulo": "Aznar acusa a los socios de Vox en Europa de apoyar al \"autócrata\" Putin: \"Abismal confusión\"",
+      "medio": "20minutos",
+      "url": "https://www.20minutos.es/nacional/aznar-acusa-los-socios-vox-europa-apoyar-autocrata-putin-abismal-confusion_7049887_0.html",
+      "fecha": "2026-10-16T19:20+00:00",
+      "partidos": [
+        "vox"
+      ]
+    },
+    {
+      "titulo": "Ferraz da luz verde sin cambios a las listas del PSdeG para Congreso y Senado",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/galicia/ferraz-luz-verde-cambios-listas-psdeg-congreso-20261016204926-nt.html",
+      "fecha": "2026-10-16T19:06+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "Ferraz se da un capricho en Guadalajara: manda al Congreso a los que iban al Senado y viceversa",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/castilla-la-mancha/ferraz-capricho-guadalajara-manda-congreso-iban-senado-20261016204514-nt.html",
+      "fecha": "2026-10-16T19:02+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "Las izquierdas se agrupan en 'Frente Amplio Por Andalucía' sin Podemos ni Adelante",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/andalucia/izquierdas-radicales-agrupan-frente-amplio-andalucia-podemos-20261016203321-nts.html",
+      "fecha": "2026-10-16T18:34+00:00",
+      "partidos": [
+        "sumar",
+        "podemos"
+      ]
+    },
+    {
+      "titulo": "El PP asegura que la salida de Montse Mínguez demuestra que \"tenían razón\": \"Dimite porque la han pillado\"",
+      "medio": "20minutos",
+      "url": "https://www.20minutos.es/nacional/pp-asegura-que-salida-montse-minguez-demuestra-que-tenian-razon-dimite-porque-han-pillado_7049867_0.html",
+      "fecha": "2026-10-16T18:04+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "Sánchez asegura que trató de impedir la dimisión de la portavoz del PSOE: “Estaba rota”",
+      "medio": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/politica/20261016/11661032/sanchez-asegura-trato-impedir-dimision-portavoz-psoe-rota.html",
+      "fecha": "2026-10-16T17:33+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "Illa cree que Catalunya será la que “inclinará la balanza” entre Sánchez y Feijóo el 29-N",
+      "medio": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/politica/elecciones/20261016/11661029/illa-cree-catalunya-sera-inclinara-balanza-sanchez-feijoo-29-n.html",
+      "fecha": "2026-10-16T17:30+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
     {
       "titulo": "Dimite Montse Mínguez, la portavoz del PSOE, tras la polémica de los \"30 pisos\" de su pareja",
       "medio": "El Mundo",
@@ -3131,136 +3261,6 @@
         "sumar",
         "erc",
         "podemos"
-      ]
-    },
-    {
-      "titulo": "Colau insiste en seguir trabajando para que Podemos se integre en el Frente Amplio: \"Todavía hay tiempo\"",
-      "medio": "elDiario.es",
-      "url": "https://www.eldiario.es/catalunya/colau-insiste-seguir-trabajando-integre-frente-amplio-todavia-hay-tiempo_1_13582780.html",
-      "fecha": "2026-10-13T15:40+00:00",
-      "partidos": [
-        "sumar",
-        "podemos"
-      ]
-    },
-    {
-      "titulo": "La Audiencia Nacional imputa al exjuez ligado a las cloacas del PSOE que contactó con el clan de 'Los Rochos' para atacar a Biedma",
-      "medio": "20minutos",
-      "url": "https://www.20minutos.es/nacional/audiencia-nacional-imputa-exjuez-ligado-las-cloacas-psoe-que-contacto-con-clan-los-rochos-para-atacar-biedma_7048297_0.html",
-      "fecha": "2026-10-13T15:39+00:00",
-      "partidos": [
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "Pedraz imputa al ex juez que hostigó a la juez Biedma por orden de las 'cloacas' del PSOE",
-      "medio": "El Mundo",
-      "url": "https://www.elmundo.es/espana/2026/10/13/6ace4f8ce85ece79358b45ad.html",
-      "fecha": "2026-10-13T15:36+00:00",
-      "partidos": [
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "Colau llama a ERC y Podemos a negociar para una candidatura única: \"Todavía hay tiempo\"",
-      "medio": "Europa Press",
-      "url": "https://www.europapress.es/catalunya/noticia-colau-llama-erc-podemos-negociar-candidatura-unica-izquierdas-todavia-hay-tiempo-20261013172813.html",
-      "fecha": "2026-10-13T15:28+00:00",
-      "partidos": [
-        "erc",
-        "podemos"
-      ]
-    },
-    {
-      "titulo": "Colau dice sí a liderar la izquierda alternativa, pero apurará el plazo para sumar a Podemos",
-      "medio": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/politica/20261013/11658052/colau-acepta-liderar-izquierda-frente-amplio-apurar-plazo-sumar-podemos.html",
-      "fecha": "2026-10-13T15:26+00:00",
-      "partidos": [
-        "podemos"
-      ]
-    },
-    {
-      "titulo": "El PP intensifica los ataques personales en redes en plena precampaña",
-      "medio": "elDiario.es",
-      "url": "https://www.eldiario.es/rastreador/pp-intensifica-ataques-personales-redes-plena-precampana_132_13582490.html",
-      "fecha": "2026-10-13T15:19+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "ERC denuncia que las obras del mercado Torner de Badalona llevan paradas desde julio",
-      "medio": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/local/barcelones-nord/20261013/11658029/erc-denuncia-obras-mercado-torner-badalona-llevan-paradas-julio.html",
-      "fecha": "2026-10-13T15:13+00:00",
-      "partidos": [
-        "erc"
-      ]
-    },
-    {
-      "titulo": "Una sala del Supremo conservadora y un ponente afín a Feijóo: los jueces que han tumbado el voto de miles de personas",
-      "medio": "elDiario.es",
-      "url": "https://www.eldiario.es/politica/sala-supremo-conservadora-ponente-afin-feijoo-jueces-han-tumbado-voto-miles-personas_1_13581316.html",
-      "fecha": "2026-10-13T15:12+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Ferraz traslada el Comité Federal del PSOE a Fuenlabrada, suprime el turno de intervenciones y añade un mitin de Sánchez",
-      "medio": "El Mundo",
-      "url": "https://www.elmundo.es/espana/2026/10/13/6ace3f92e4d4d88b1e8b459f.html",
-      "fecha": "2026-10-13T15:09+00:00",
-      "partidos": [
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "Vox elimina la línea de ayudas a personas LGTBI en Aragón y deja en el aire su financiación",
-      "medio": "elDiario.es",
-      "url": "https://www.eldiario.es/aragon/politica/vox-elimina-linea-ayudas-personas-lgtbi-aragon-deja-aire-financiacion_1_13582118.html",
-      "fecha": "2026-10-13T15:07+00:00",
-      "partidos": [
-        "vox"
-      ]
-    },
-    {
-      "titulo": "PP y Vox recortan un 33% las partidas para sindicatos en unos presupuestos de Castilla y León que aún no aterrizan la \"prioridad nacional\"",
-      "medio": "El Mundo",
-      "url": "https://www.elmundo.es/espana/2026/10/13/6ace3631e9cf4a766c8b4593.html",
-      "fecha": "2026-10-13T14:55+00:00",
-      "partidos": [
-        "pp",
-        "vox"
-      ]
-    },
-    {
-      "titulo": "El pulso entre Landaluce y el PP acaba con la salida de 12 concejales del gobierno local de Algeciras tras negarse el alcalde a dimitir",
-      "medio": "elDiario.es",
-      "url": "https://www.eldiario.es/andalucia/pulso-landaluce-pp-acaba-salida-12-concejales-gobierno-local-algeciras-negarse-alcalde-dimitir_1_13582550.html",
-      "fecha": "2026-10-13T14:36+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Beatriz Fanjul, la diputada del PP que llegó al Congreso en 2019 gracias al voto extranjero, no será candidata otra vez",
-      "medio": "elDiario.es",
-      "url": "https://www.eldiario.es/euskadi/beatriz-fanjul-diputada-pp-llego-congreso-gracias-voto-extranjero-no-sera-candidata-vez_1_13582395.html",
-      "fecha": "2026-10-13T13:39+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "El PP y Vox presentan los Presupuestos en Castilla y León sin incluir una dotación para la “prioridad nacional”",
-      "medio": "El País",
-      "url": "https://elpais.com/espana/2026-10-13/el-pp-y-vox-presentan-los-presupuestos-en-castilla-y-leon-sin-incluir-una-dotacion-para-la-prioridad-nacional.html",
-      "fecha": "2026-10-13T13:11+00:00",
-      "partidos": [
-        "pp",
-        "vox"
       ]
     }
   ],
