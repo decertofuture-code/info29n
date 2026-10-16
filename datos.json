@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-16T13:38+00:00",
+  "actualizado": "2026-10-16T17:26+00:00",
   "temas": [
     {
       "id": "vivienda",
@@ -449,12 +449,212 @@
   ],
   "noticias": [
     {
+      "titulo": "Dimite Montse Mínguez, la portavoz del PSOE, tras la polémica de los \"30 pisos\" de su pareja",
+      "medio": "El Mundo",
+      "url": "https://www.elmundo.es/espana/2026/10/16/6ad24c4ee4d4d83b2c8b4585.html",
+      "fecha": "2026-10-16T17:17+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "Colau se reúne con partidos de Frente Amplio en el Congreso para encarar el cierre de plazo de las coaliciones",
+      "medio": "Europa Press",
+      "url": "https://www.europapress.es/nacional/noticia-colau-reune-partidos-frente-amplio-congreso-encarar-cierre-plazo-coaliciones-20261016191202.html",
+      "fecha": "2026-10-16T17:12+00:00",
+      "partidos": [
+        "sumar"
+      ]
+    },
+    {
+      "titulo": "Confirman la condena al alcalde de Pontedeume (PSOE) por lesiones a una vecina",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/galicia/confirman-condena-alcalde-pontedeume-psoe-lesiones-vecina-20261016190443-nt.html",
+      "fecha": "2026-10-16T17:09+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "Sigue en directo la comparecencia de Sánchez tras la dimisión de la portavoz del PSOE",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/sigue-directo-comparecencia-sanchez-tras-dimision-portavoz-20261016183715-nt.html",
+      "fecha": "2026-10-16T17:08+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "Pedro Sánchez, sobre la renuncia de la portavoz del PSOE: \"Le dije que no dimitiera\"",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/politica/pedro-sanchez-cese-portavoz-psoe-le-dije-no-dimitiera_1_13592585.html",
+      "fecha": "2026-10-16T17:02+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "El PP critica que Bildu, \"socio de Sánchez\", lleve en sus listas a \"herederos orgullosos de ETA\"",
+      "medio": "Europa Press",
+      "url": "https://www.europapress.es/nacional/noticia-pp-critica-bildu-socio-sanchez-lleve-listas-herederos-orgullosos-eta-20261016185215.html",
+      "fecha": "2026-10-16T16:52+00:00",
+      "partidos": [
+        "pp",
+        "bildu"
+      ]
+    },
+    {
+      "titulo": "Dimite la portavoz del PSOE, Montse Mínguez, tras el escándalo de los pisos de su pareja",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/dimite-portavoz-psoe-montse-minguez-tras-polemica-20261016181448-nt.html",
+      "fecha": "2026-10-16T16:49+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "Compromís y Podemos suman 'in extremis' a IU a su pacto valenciano para el 29N",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/comunidad-valenciana/compromis-podemos-suman-extremis-iu-frente-valenciano-20261016170652-nt.html",
+      "fecha": "2026-10-16T16:35+00:00",
+      "partidos": [
+        "podemos"
+      ]
+    },
+    {
+      "titulo": "Ferraz impone su criterio y fulmina a Tudanca de las listas del Senado",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/castilla-leon/ferraz-impone-criterio-fulmina-tudanca-listas-senado-20261016181458-nt.html",
+      "fecha": "2026-10-16T16:26+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "Dimite Montse Mínguez, portavoz del PSOE, tras la polémica por los negocios inmobiliarios de su pareja",
+      "medio": "20minutos",
+      "url": "https://www.20minutos.es/nacional/dimite-montse-minguez-portavoz-psoe-polemica-negocios-inmobiliarios-pareja_7049840_0.html",
+      "fecha": "2026-10-16T16:20+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "Dimite la portavoz del PSOE, Montse Mínguez, tras conocerse los negocios inmobiliarios de su pareja",
+      "medio": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/politica/20261016/11660982/dimite-portavoz-psoe-montse-minguez-conocerse-negocios-inmobiliarios-pareja.html",
+      "fecha": "2026-10-16T16:17+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "Montse Mínguez dimite de portavoz del PSOE y no repetirá como diputada tras la polémica de los pisos de su pareja",
+      "medio": "Europa Press",
+      "url": "https://www.europapress.es/nacional/noticia-montse-minguez-anuncia-da-paso-atras-politica-polemica-pisos-pareja-20261016181647.html",
+      "fecha": "2026-10-16T16:16+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "Dimite la portavoz del PSOE, Montse Mínguez, tras las informaciones sobre los negocios inmobiliarios de su pareja",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/politica/dimite-portavoz-psoe-montse-minguez-informaciones-negocios-inmobiliarios-pareja_1_13592500.html",
+      "fecha": "2026-10-16T16:12+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "Frente Amplio Aragón concurrirá el 29-N con un cabeza de cartel de Chunta en Zaragoza y sin Podemos",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/aragon/frente-amplio-aragon-concurrira-29n-cabeza-cartel-20261016162319-nt.html",
+      "fecha": "2026-10-16T15:49+00:00",
+      "partidos": [
+        "sumar",
+        "podemos"
+      ]
+    },
+    {
+      "titulo": "Marlaska replica a Feijóo que desplegar la Armada en Ceuta es \"mirar al pasado\"",
+      "medio": "20minutos",
+      "url": "https://www.20minutos.es/nacional/marlaska-replica-feijoo-que-desplegar-armada-ceuta-es-mirar-pasado_7049816_0.html",
+      "fecha": "2026-10-16T15:36+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "Frente Amplio celebra el acuerdo de unidad en Valencia y pide extender un pacto similar al resto del país",
+      "medio": "20minutos",
+      "url": "https://www.20minutos.es/nacional/frente-amplio-celebra-acuerdo-unidad-valencia-pide-extender-un-pacto-similar-resto-pais_7049813_0.html",
+      "fecha": "2026-10-16T15:24+00:00",
+      "partidos": [
+        "sumar"
+      ]
+    },
+    {
+      "titulo": "Irene Montero gana las primarias abiertas de Podemos para ser candidata con 90% de apoyo",
+      "medio": "20minutos",
+      "url": "https://www.20minutos.es/nacional/irene-montero-gana-las-primarias-abiertas-podemos-para-ser-candidata-con-90-apoyo_7049781_0.html",
+      "fecha": "2026-10-16T14:34+00:00",
+      "partidos": [
+        "podemos"
+      ]
+    },
+    {
+      "titulo": "Los partidos valencianos a la izquierda del PSOE concurrirán unidos en la coalición Compromís-Front Valencià",
+      "medio": "Europa Press",
+      "url": "https://www.europapress.es/comunitat-valenciana/noticia-partidos-izquierda-psoe-concurriran-unidos-coalicion-compromis-front-valencia-20261016160231.html",
+      "fecha": "2026-10-16T14:02+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "Irene Montero se impone en las primarias de Podemos sin rival y con baja participación",
+      "medio": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/politica/20261016/11660855/montero-gana-holgura-primarias-apoyos-belarra-frente-amplio.html",
+      "fecha": "2026-10-16T14:00+00:00",
+      "partidos": [
+        "podemos"
+      ]
+    },
+    {
+      "titulo": "IU da marcha atrás para evitar la fractura de la izquierda valenciana: se integrará en la lista de Compromís con Podemos",
+      "medio": "El Mundo",
+      "url": "https://www.elmundo.es/comunidad-valenciana/2026/10/16/6ad1a0a3e85ecea8568b4577.html",
+      "fecha": "2026-10-16T13:55+00:00",
+      "partidos": [
+        "podemos"
+      ]
+    },
+    {
+      "titulo": "IU se suma 'in extremis' al pacto con Compromís y Podemos en la Comunidad Valenciana",
+      "medio": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/local/valencia/20261016/11660844/iu-rectifica-suma-pacto-compromis-comunidad-valenciana.html",
+      "fecha": "2026-10-16T13:45+00:00",
+      "partidos": [
+        "podemos"
+      ]
+    },
+    {
       "titulo": "PP pide que se aclare si la ministra Robles eliminó parte de un informe sobre Ceuta",
       "medio": "El Confidencial",
       "url": "https://www.elconfidencial.com/espana/2026-10-16/cuca-gamarra-informes-cni-ceuta-1tps_4446671/",
       "fecha": "2026-10-16T13:31+00:00",
       "partidos": [
         "pp"
+      ]
+    },
+    {
+      "titulo": "Vox solicita al Supremo que exija al Gobierno acreditar que cumple las medidas de la suspensión de la 'ley de nietos'",
+      "medio": "Europa Press",
+      "url": "https://www.europapress.es/nacional/noticia-vox-solicita-supremo-exija-gobierno-acreditar-cumple-medidas-suspension-ley-nietos-20261016152118.html",
+      "fecha": "2026-10-16T13:21+00:00",
+      "partidos": [
+        "vox"
       ]
     },
     {
@@ -959,6 +1159,15 @@
       "titulo": "La directora de la Guardia Civil sólo se interesó por las investigaciones de la UCO que afectaban al PSOE",
       "medio": "El Mundo",
       "url": "https://www.elmundo.es/espana/2026/10/16/6ad113d421efa0d8708b45c2.html",
+      "fecha": "2026-10-15T23:37+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "Tensión en el PSOE ante las posibles imposiciones de Ferraz en las listas con cuatro puntos calientes",
+      "medio": "El Mundo",
+      "url": "https://www.elmundo.es/elecciones/elecciones-castilla-y-leon/2026/10/16/6ad0a931fc6c83e50c8b45a4.html",
       "fecha": "2026-10-15T23:37+00:00",
       "partidos": [
         "psoe"
@@ -3052,224 +3261,6 @@
       "partidos": [
         "pp",
         "vox"
-      ]
-    },
-    {
-      "titulo": "Vox se querella contra el delegado del Gobierno en Madrid y los organizadores de la acampada en Sol",
-      "medio": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/politica/20261013/11657927/vox-querella-delegado-gobierno-madrid-organizadores-acampada-sol.html",
-      "fecha": "2026-10-13T13:07+00:00",
-      "partidos": [
-        "vox"
-      ]
-    },
-    {
-      "titulo": "Vox denuncia que Page «no ha cumplido ninguna de las medidas» del pacto regional por la caza",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/castilla-la-mancha/vox-denuncia-page-cumplido-ninguna-medidas-pacto-20261013144816-nt.html",
-      "fecha": "2026-10-13T12:48+00:00",
-      "partidos": [
-        "vox"
-      ]
-    },
-    {
-      "titulo": "El Gobierno alerta de la “gravedad” de restringir el voto y critica que el PP hable de “pucherazo”",
-      "medio": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/politica/20261013/11657912/gobierno-alerta-gravedad-restringir-voto-critica-pp-hable-pucherazo.html",
-      "fecha": "2026-10-13T12:44+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Landaluce desafía al PP y se aferra a la Alcaldía de Algeciras pese a las denuncias de acoso sexual: \"Seguiré intentando luchar\"",
-      "medio": "elDiario.es",
-      "url": "https://www.eldiario.es/andalucia/landaluce-desafia-pp-aferrarse-alcaldia-algeciras-seguire-intentando-luchar-dificil-han-puesto_1_13581952.html",
-      "fecha": "2026-10-13T12:31+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Una concejala del PSOE en Puertollano pacta con la Fiscalía una pena por publicar mensajes el día de las elecciones",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/castilla-la-mancha/concejala-psoe-puertollano-pacta-fiscalia-pena-publicar-20261013143002-nt.html",
-      "fecha": "2026-10-13T12:30+00:00",
-      "partidos": [
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "ERC define el pacto con Podemos como una absorción y Rufián insiste en que se sume el Frente Amplio bajo su liderazgo",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/cataluna/erc-define-pacto-podemos-absorcion-rufian-insiste-20261013142253-nt.html",
-      "fecha": "2026-10-13T12:26+00:00",
-      "partidos": [
-        "sumar",
-        "erc",
-        "podemos"
-      ]
-    },
-    {
-      "titulo": "PP y UPN recuperan su alianza en Navarra para disputar al PSOE la victoria el 29N y eliminar su vía de incorporación a Euskadi",
-      "medio": "El Mundo",
-      "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/10/13/6ace18a621efa0c63d8b45a5.html",
-      "fecha": "2026-10-13T12:25+00:00",
-      "partidos": [
-        "pp",
-        "psoe",
-        "upn"
-      ]
-    },
-    {
-      "titulo": "Rufián pide que ERC y Comuns \"se entiendan\" y su partido replica que se presentarán con sus siglas",
-      "medio": "elDiario.es",
-      "url": "https://www.eldiario.es/catalunya/rufian-pide-erc-comuns-entiendan-partido-replica-presentaran-siglas_1_13581810.html",
-      "fecha": "2026-10-13T12:09+00:00",
-      "partidos": [
-        "erc"
-      ]
-    },
-    {
-      "titulo": "Rufián pide sumar a Comuns y la dirección de ERC cierra el paso: “No diluiremos nuestras siglas”",
-      "medio": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/politica/20261013/11657885/rufian-pide-sumar-comuns-direccion-erc-cierra-paso-diluiremos-siglas.html",
-      "fecha": "2026-10-13T12:06+00:00",
-      "partidos": [
-        "erc"
-      ]
-    },
-    {
-      "titulo": "ERC niega una coalición con Podemos, que sí \"contribuirá\" con independientes a listas por Barcelona y Tarragona",
-      "medio": "Europa Press",
-      "url": "https://www.europapress.es/catalunya/noticia-erc-niega-coalicion-podemos-si-contribuira-independientes-listas-barcelona-tarragona-20261013135705.html",
-      "fecha": "2026-10-13T11:57+00:00",
-      "partidos": [
-        "erc",
-        "podemos"
-      ]
-    },
-    {
-      "titulo": "El PP de Lanzarote cesa al consejero de los Centros Turísticos después de que su hijo consiguiera plaza fija de freganchín",
-      "medio": "elDiario.es",
-      "url": "https://www.eldiario.es/canariasahora/politica/pp-lanzarote-aparta-consejero-centros-turisticos-despues-hijo-consiguiera-plaza-fija-freganchin_1_13581417.html",
-      "fecha": "2026-10-13T11:36+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "PP y UPN llegan a un principio de acuerdo para presentarse juntos a las elecciones",
-      "medio": "20minutos",
-      "url": "https://www.20minutos.es/nacional/pp-upn-llegan-un-principio-acuerdo-para-presentarse-juntos-las-elecciones_7048151_0.html",
-      "fecha": "2026-10-13T11:35+00:00",
-      "partidos": [
-        "pp",
-        "upn"
-      ]
-    },
-    {
-      "titulo": "El PP cambia de estrategia en redes y se lanza contra Sarah Santaolalla y Afra Blanco: “A esto se viene llorado”",
-      "medio": "El País",
-      "url": "https://elpais.com/espana/elecciones-generales/2026-10-13/el-pp-cambia-de-estrategia-en-redes-y-se-lanza-contra-sarah-santaolalla-y-afra-blanco-a-esto-se-viene-llorado.html",
-      "fecha": "2026-10-13T11:29+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "La instructora Beatriz Biedma pide imputar al exjuez ligado a las cloacas del PSOE que contactó con una 'narco' para atacarla",
-      "medio": "20minutos",
-      "url": "https://www.20minutos.es/nacional/instructora-caso-david-sanchez-pide-imputar-exjuez-ligado-las-cloacas-psoe-que-contacto-con-una-narco-para-atacarla_7048156_0.html",
-      "fecha": "2026-10-13T11:21+00:00",
-      "partidos": [
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "La juez Biedma pide a la Audiencia Nacional que impute al ex juez que la amenazó por orden de las 'cloacas' del PSOE",
-      "medio": "El Mundo",
-      "url": "https://www.elmundo.es/espana/2026/10/13/6ace1173e9cf4a3f058b45a6.html",
-      "fecha": "2026-10-13T11:20+00:00",
-      "partidos": [
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "UPN y PP llegan a un acuerdo para concurrir a las elecciones generales",
-      "medio": "elDiario.es",
-      "url": "https://www.eldiario.es/navarra/upn-pp-llegan-acuerdo-concurrir-elecciones-generales_1_13581039.html",
-      "fecha": "2026-10-13T10:59+00:00",
-      "partidos": [
-        "pp",
-        "upn"
-      ]
-    },
-    {
-      "titulo": "UPN y PP alcanzan un principio de acuerdo para concurrir juntos a las elecciones generales",
-      "medio": "Europa Press",
-      "url": "https://www.europapress.es/navarra/noticia-consejo-politico-upn-decide-tarde-si-concurre-coalicion-pp-generales-20261013125157.html",
-      "fecha": "2026-10-13T10:51+00:00",
-      "partidos": [
-        "pp",
-        "upn"
-      ]
-    },
-    {
-      "titulo": "Podemos sentencia que su proyecto es el tándem con Rufián y solo se abre a que Frente Amplio se integre dentro",
-      "medio": "Europa Press",
-      "url": "https://www.europapress.es/nacional/noticia-podemos-sentencia-proyecto-tandem-rufian-solo-abre-frente-amplio-integre-dentro-20261013124805.html",
-      "fecha": "2026-10-13T10:48+00:00",
-      "partidos": [
-        "sumar"
-      ]
-    },
-    {
-      "titulo": "El Gobierno de PP y Vox en Aragón ficha a un representante de Abogados Cristianos como asesor en Medio Ambiente",
-      "medio": "elDiario.es",
-      "url": "https://www.eldiario.es/aragon/politica/coalicion-pp-vox-aragon-ficha-representante-abogados-cristianos-asesor-juridico-medio-ambiente_1_13581436.html",
-      "fecha": "2026-10-13T10:38+00:00",
-      "partidos": [
-        "pp",
-        "vox"
-      ]
-    },
-    {
-      "titulo": "Ana Vázquez (PP) se libra de la sanción por llevar un spray de pimienta al Congreso por la convocatoria electoral",
-      "medio": "elDiario.es",
-      "url": "https://www.eldiario.es/politica/ana-vazquez-pp-libra-sancion-llevar-spray-pimienta-congreso-convocatoria-electoral_1_13581460.html",
-      "fecha": "2026-10-13T10:34+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "El PP y UPN alcanzan un principio de acuerdo para ir en coalición el 29-N",
-      "medio": "El País",
-      "url": "https://elpais.com/espana/elecciones-generales/2026-10-13/el-pp-y-upn-alcanzan-un-principio-de-acuerdo-para-ir-en-coalicion-el-29-n.html",
-      "fecha": "2026-10-13T10:26+00:00",
-      "partidos": [
-        "pp",
-        "upn"
-      ]
-    },
-    {
-      "titulo": "Feijóo acusa a Sánchez de mentir por la entrada de buques marroquíes en Ceuta y cree que debió desplegar el Ejército",
-      "medio": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/politica/20261013/11657744/feijoo-acusa-sanchez-mentir-entrada-buques-marroquies-ceuta-cree-debio-desplegar-ejercito.html",
-      "fecha": "2026-10-13T10:21+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Podemos da la vuelta a la oferta del Frente Amplio y lo invita a “sumarse” a su alianza con ERC",
-      "medio": "El País",
-      "url": "https://elpais.com/espana/elecciones-generales/2026-10-13/montero-confirma-conversaciones-con-el-frente-amplio-lo-importante-es-llegar-a-buen-puerto.html",
-      "fecha": "2026-10-13T10:16+00:00",
-      "partidos": [
-        "sumar",
-        "erc"
       ]
     }
   ],
