@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-16T05:17+00:00",
+  "actualizado": "2026-10-16T09:31+00:00",
   "temas": [
     {
       "id": "vivienda",
@@ -449,6 +449,180 @@
   ],
   "noticias": [
     {
+      "titulo": "Vox exige explicaciones a la Junta por una presunta agresión sexual en una residencia de Albacete en 2022",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/castilla-la-mancha/toledo/vox-exige-explicaciones-junta-presunta-agresion-sexual-20261016112422-nt.html",
+      "fecha": "2026-10-16T09:24+00:00",
+      "partidos": [
+        "vox"
+      ]
+    },
+    {
+      "titulo": "Caos en las últimas horas en los pactos de la izquierda: ruptura en la Comunidad Valenciana y se desatan las críticas en Podemos",
+      "medio": "El Mundo",
+      "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/10/16/6ad111f221efa0ea748b4598.html",
+      "fecha": "2026-10-16T09:21+00:00",
+      "partidos": [
+        "podemos"
+      ]
+    },
+    {
+      "titulo": "Velázquez: «Las ferias de La Vega están siendo un éxito y el PSOE hubiera deseado que fueran un fracaso»",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/castilla-la-mancha/toledo/velazquez-ferias-vega-exito-psoe-deseado-fracaso-20261016110748-nt.html",
+      "fecha": "2026-10-16T09:09+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "Así están los acuerdos territoriales a la izquierda del PSOE para las elecciones del 29-N",
+      "medio": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/politica/20261016/11660502/asi-acuerdos-territoriales-izquierda-psoe-elecciones-29-n.html",
+      "fecha": "2026-10-16T09:00+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "Puigdemont renunciará a liderar la oposición a Illa cuando vuelva a España",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/cataluna/puigdemont-renunciara-liderar-oposicion-illa-vuelva-espana-20261016094811-nt.html",
+      "fecha": "2026-10-16T08:54+00:00",
+      "partidos": [
+        "junts"
+      ]
+    },
+    {
+      "titulo": "Quién es Emilio Delgado, el aliado de Gabriel Rufián que liderará Frente Amplio en Madrid: su sueldo, su trayectoria y campeón de taekwondo",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/emilio-delgado-aliado-gabriel-rufian-encabezara-frente-20261015112902-nt.html",
+      "fecha": "2026-10-16T08:53+00:00",
+      "partidos": [
+        "sumar"
+      ]
+    },
+    {
+      "titulo": "La JEC recalca a PP y Vox que la transparencia del voto por correo está regulada en la ley y rechaza medidas extra",
+      "medio": "Europa Press",
+      "url": "https://www.europapress.es/nacional/noticia-jec-recalca-pp-vox-transparencia-voto-correo-regulada-ley-rechaza-medidas-extra-20261016104323.html",
+      "fecha": "2026-10-16T08:43+00:00",
+      "partidos": [
+        "pp",
+        "vox"
+      ]
+    },
+    {
+      "titulo": "Barbero admite que no hay negociación con Podemos pese a tenderles la mano y espera acuerdo con PSOE en el Senado",
+      "medio": "Europa Press",
+      "url": "https://www.europapress.es/nacional/noticia-barbero-admite-no-hay-negociacion-podemos-pese-tenderles-mano-espera-acuerdo-psoe-senado-20261016103325.html",
+      "fecha": "2026-10-16T08:33+00:00",
+      "partidos": [
+        "psoe",
+        "podemos"
+      ]
+    },
+    {
+      "titulo": "Rufián admite que el pacto de las izquierdas es casi imposible y lanza reproches a ERC: “Hemos fracasado”",
+      "medio": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/politica/elecciones/20261016/11660491/rufian-admite-pacto-izquierdas-imposible-lanza-reproches-erc-hemos-fracasado.html",
+      "fecha": "2026-10-16T08:31+00:00",
+      "partidos": [
+        "erc"
+      ]
+    },
+    {
+      "titulo": "Bolaños ve una tendencia \"al alza\" del PSOE en precampaña y elude responder si participará en actos con Zapatero",
+      "medio": "Europa Press",
+      "url": "https://www.europapress.es/nacional/noticia-bolanos-ve-tendencia-alza-psoe-precampana-elude-responder-si-participara-actos-zapatero-20261016102649.html",
+      "fecha": "2026-10-16T08:26+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "PSOE Canarias cierra sus candidaturas al 29N con Valbuena y Corujo al Congreso",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/canarias/psoe-canarias-cierra-candidaturas-29n-valbuena-corujo-20261016100909-nt.html",
+      "fecha": "2026-10-16T08:17+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "Un diputado del PSOE tiene un bufete que ejecuta hipotecas para fondos buitre y no lo declara \"por dejadez\"",
+      "medio": "El Confidencial",
+      "url": "https://www.elconfidencial.com/espana/2026-10-16/diputado-psoe-bufete-fondos-buitre-desahucios-murcia_4446201/",
+      "fecha": "2026-10-16T08:05+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "Frente Amplio ofrece a Irene Montero un puesto de salida en Madrid para las elecciones",
+      "medio": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/politica/20261016/11660458/frente-amplio-ofrece-irene-montero-puesto-salida-madrid-elecciones.html",
+      "fecha": "2026-10-16T07:54+00:00",
+      "partidos": [
+        "sumar"
+      ]
+    },
+    {
+      "titulo": "Feijóo pide desplegar la Armada en Ceuta ante las \"invasiones marroquíes\" y llamar a consultas al embajador español en Rabat",
+      "medio": "20minutos",
+      "url": "https://www.20minutos.es/nacional/feijoo-pide-desplegar-armada-ceuta-ante-las-invasiones-marroquies-llamar-consultas-embajador-marruecos_7049498_0.html",
+      "fecha": "2026-10-16T07:40+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "Delgado reitera la generosidad de Frente Amplio con Montero en Madrid: \"Se le ofrece el puesto 2 y 3 en la lista\"",
+      "medio": "Europa Press",
+      "url": "https://www.europapress.es/nacional/noticia-29n-delgado-reitera-generosidad-frente-amplio-montero-madrid-le-ofrece-puesto-lista-20261016093604.html",
+      "fecha": "2026-10-16T07:36+00:00",
+      "partidos": [
+        "sumar"
+      ]
+    },
+    {
+      "titulo": "DIRECTO | Pedro Sánchez participa en la cumbre del Consejo Europeo en Bruselas",
+      "medio": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/politica/20261016/11660419/directo-pedro-sanchez-participa-cumbre-consejo-europeo-bruselas.html",
+      "fecha": "2026-10-16T07:12+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "Frente Amplio celebra los últimos acuerdos alcanzados en Aragón y Baleares y mantiene \"la puerta abierta\" a Podemos",
+      "medio": "Europa Press",
+      "url": "https://www.europapress.es/nacional/noticia-frente-amplio-celebra-ultimos-acuerdos-alcanzados-aragon-baleares-mantiene-puerta-abierta-podemos-20261016090241.html",
+      "fecha": "2026-10-16T07:02+00:00",
+      "partidos": [
+        "sumar",
+        "podemos"
+      ]
+    },
+    {
+      "titulo": "Feijóo exige desplegar ya a la Armada en Ceuta ante “varias invasiones” marroquíes en aguas españolas",
+      "medio": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/politica/20261016/11660412/feijoo-exige-desplegar-armada-ceuta-invasiones-marroquies-aguas-espanolas.html",
+      "fecha": "2026-10-16T06:59+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "El pacto Compromís-Podemos: los morados se quedan el 1 por Alicante pero sus siglas no aparecen",
+      "medio": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/local/valencia/20261016/11660399/pacto-compromis-morados-quedan-1-alicante-siglas-aparecen.html",
+      "fecha": "2026-10-16T06:47+00:00",
+      "partidos": [
+        "podemos"
+      ]
+    },
+    {
       "titulo": "Cien días después, a PP y Vox les salen las cuentas en Andalucía",
       "medio": "ABC",
       "url": "https://www.abc.es/espana/andalucia/cien-dias-despues-pp-vox-salen-cuentas-20261016062547-nts.html",
@@ -566,6 +740,26 @@
       ]
     },
     {
+      "titulo": "CHA y el Frente Amplio acuerdan concurrir juntos a las generales en Aragón y seguirán negociando con Podemos",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/aragon/politica/cha-frente-amplio-acuerdan-concurrir-generales-aragon-seguiran-negociando_1_13589781.html",
+      "fecha": "2026-10-15T22:05+00:00",
+      "partidos": [
+        "sumar",
+        "podemos"
+      ]
+    },
+    {
+      "titulo": "Ayuso y Moñino sellan la paz entre el PP y Vox en Madrid antes del 29-N: \"Nos estamos jugando España\"; \"sabemos quién está enfrente\"",
+      "medio": "El Mundo",
+      "url": "https://www.elmundo.es/madrid/2026/10/16/6ad0de96e9cf4afd3d8b45a9.html",
+      "fecha": "2026-10-15T22:04+00:00",
+      "partidos": [
+        "pp",
+        "vox"
+      ]
+    },
+    {
       "titulo": "Atasco de las izquierdas en el Senado: el pacto de PSOE y Frente Amplio se enfría casi sin tiempo",
       "medio": "El Mundo",
       "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/10/16/6ad114c9e85eceb9518b4598.html",
@@ -573,6 +767,26 @@
       "partidos": [
         "psoe",
         "sumar"
+      ]
+    },
+    {
+      "titulo": "Chunta pacta con IU y Sumar la formación de una lista conjunta en Aragón sin Podemos",
+      "medio": "El Mundo",
+      "url": "https://www.elmundo.es/aragon/2026/10/15/6ad1486cfc6c83ed618b4592.html",
+      "fecha": "2026-10-15T21:54+00:00",
+      "partidos": [
+        "sumar",
+        "podemos"
+      ]
+    },
+    {
+      "titulo": "Compromís y Podemos ultiman un acuerdo a la espera de que Frente Amplio rectifique y se integre en la lista única valenciana",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/comunitat-valenciana/politica/compromis-ultiman-candidatura-conjunta-comunitat-valenciana-espera-si-esquerra-unida-rectifica_1_13589419.html",
+      "fecha": "2026-10-15T21:15+00:00",
+      "partidos": [
+        "sumar",
+        "podemos"
       ]
     },
     {
@@ -3059,223 +3273,6 @@
         "pp",
         "psoe",
         "vox"
-      ]
-    },
-    {
-      "titulo": "PSOE i PP es barallen en el fang",
-      "medio": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/encatala/20261013/11657003/psoe-i-pp-fang-digital-ctx.html",
-      "fecha": "2026-10-12T22:35+00:00",
-      "partidos": [
-        "pp",
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "PSOE y PP pelean en el barro",
-      "medio": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/opinion/20261013/11656996/psoe-pp-barro-digital.html",
-      "fecha": "2026-10-12T22:30+00:00",
-      "partidos": [
-        "pp",
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "El Frente Amplio proclama líder a Colau tras la provocación del pacto entre Rufián y Montero",
-      "medio": "El Mundo",
-      "url": "https://www.elmundo.es/cataluna/2026/10/13/6acd3c3be85ecee9318b4594.html",
-      "fecha": "2026-10-12T22:00+00:00",
-      "partidos": [
-        "sumar"
-      ]
-    },
-    {
-      "titulo": "Guerra en la cima del PNV entre el clan de Ortuzar y Aitor Esteban con la 'excusa' del control en Vizcaya",
-      "medio": "El Mundo",
-      "url": "https://www.elmundo.es/pais-vasco/2026/10/13/6accce7ae85eceb3788b4580.html",
-      "fecha": "2026-10-12T22:00+00:00",
-      "partidos": [
-        "pnv"
-      ]
-    },
-    {
-      "titulo": "Dónde está la España de Vox",
-      "medio": "El Mundo",
-      "url": "https://www.elmundo.es/espana/2026/10/13/6acd1967fc6c83ee738b457c.html",
-      "fecha": "2026-10-12T22:00+00:00",
-      "partidos": [
-        "vox"
-      ]
-    },
-    {
-      "titulo": "El PP pide al alcalde de Algeciras que dimita tras recibir dos denuncias por agresión sexual de afiliadas del partido",
-      "medio": "elDiario.es",
-      "url": "https://www.eldiario.es/andalucia/cadiz/pp-pide-alcalde-algeciras-dimita-recibir-denuncias-agresion-sexual-afiliadas-partido_1_13580516.html",
-      "fecha": "2026-10-12T21:52+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Maíllo dice que \"siempre\" ha tenido claro que Rufián \"nunca iba a dar el paso\" e insta a Podemos a decidir",
-      "medio": "Europa Press",
-      "url": "https://www.europapress.es/nacional/noticia-maillo-dice-siempre-tenido-claro-rufian-nunca-iba-dar-paso-insta-podemos-decidir-20261012232718.html",
-      "fecha": "2026-10-12T21:27+00:00",
-      "partidos": [
-        "podemos"
-      ]
-    },
-    {
-      "titulo": "La mayoría de votantes de izquierdas apoyan que Frente Amplio y Podemos vayan juntos a las elecciones",
-      "medio": "elDiario.es",
-      "url": "https://www.eldiario.es/politica/mayoria-votantes-izquierdas-apoyan-frente-amplio-vayan-elecciones_1_13579824.html",
-      "fecha": "2026-10-12T20:35+00:00",
-      "partidos": [
-        "sumar",
-        "podemos"
-      ]
-    },
-    {
-      "titulo": "Ignacio González se sienta en el banquillo por el amaño del campo de golf que el PP construyó en el centro de Madrid",
-      "medio": "elDiario.es",
-      "url": "https://www.eldiario.es/politica/ignacio-gonzalez-sienta-banquillo-amano-campo-golf-pp-construyo-centro-madrid_1_13575747.html",
-      "fecha": "2026-10-12T20:35+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "El Pacto 'estrella' del PP para transformar Balears se desinfla entre el hermetismo y más de 230.000 euros públicos en gastos",
-      "medio": "elDiario.es",
-      "url": "https://www.eldiario.es/illes-balears/economia/pacto-estrella-pp-transformar-balears-desinfla-hermetismo-230-000-euros-publicos-gastos_1_13531583.html",
-      "fecha": "2026-10-12T20:35+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "El PP de Cádiz exige al alcalde de Algeciras que dimita al conocer otra denuncia por abuso sexual",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/andalucia/cadiz/genova-exige-alcalde-algeciras-dimita-conocer-denuncia-20261012213812-nts.html",
-      "fecha": "2026-10-12T20:32+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "El PP de Cádiz exige la dimisión del alcalde de Algeciras tras conocer una nueva denuncia de agresión sexual",
-      "medio": "El País",
-      "url": "https://elpais.com/espana/2026-10-12/el-pp-de-cadiz-exige-la-dimision-del-alcalde-de-algeciras-tras-conocer-una-nueva-denuncia-de-agresion-sexual.html",
-      "fecha": "2026-10-12T20:26+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "El PP pide la dimisión del alcalde de Algeciras tras la denuncia por abusos sexuales de una segunda militante",
-      "medio": "El Mundo",
-      "url": "https://www.elmundo.es/andalucia/2026/10/12/6acd3c42fc6c83097b8b4591.html",
-      "fecha": "2026-10-12T20:19+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Frente Amplio propone a Colau como candidata al 29-N y llama a Podemos a incorporarse pese a su pacto con ERC",
-      "medio": "El Confidencial",
-      "url": "https://www.elconfidencial.com/espana/2026-10-12/ada-colau-candidata-frente-amplio-elecciones-1tps_4443526/",
-      "fecha": "2026-10-12T20:17+00:00",
-      "partidos": [
-        "sumar",
-        "erc",
-        "podemos"
-      ]
-    },
-    {
-      "titulo": "Frente Amplio elige a Colau como candidata y alfombra su vuelta a la política",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/frente-amplio-coloca-candidata-presidencia-colau-vuelve-20261012200501-nt.html",
-      "fecha": "2026-10-12T20:05+00:00",
-      "partidos": [
-        "sumar"
-      ]
-    },
-    {
-      "titulo": "Una segunda militante del PP denuncia al alcalde de Algeciras por abusar de ella sexualmente en su despacho",
-      "medio": "El Mundo",
-      "url": "https://www.elmundo.es/andalucia/2026/10/12/6aca82d3e85ece8e168b456d.html",
-      "fecha": "2026-10-12T19:23+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "El Frente Amplio propone a Ada Colau como candidata a la presidencia y deja abierta la integración de Podemos",
-      "medio": "El País",
-      "url": "https://elpais.com/espana/elecciones-generales/2026-10-12/el-frente-amplio-propone-a-ada-colau-como-candidata-a-la-presidencia-y-deja-abierta-la-integracion-de-podemos.html",
-      "fecha": "2026-10-12T18:15+00:00",
-      "partidos": [
-        "sumar",
-        "podemos"
-      ]
-    },
-    {
-      "titulo": "Frente Amplio confirma a Ada Colau como candidata el 29N y llama a Podemos a sumarse tras su acuerdo con Rufián",
-      "medio": "20minutos",
-      "url": "https://www.20minutos.es/nacional/frente-amplio-propone-ada-colau-como-cabeza-lista-las-elecciones-29n_7047873_0.html",
-      "fecha": "2026-10-12T18:10+00:00",
-      "partidos": [
-        "sumar",
-        "podemos"
-      ]
-    },
-    {
-      "titulo": "Santiago Abascal celebra en Ceuta junto a Bardella el 12 de Octubre",
-      "medio": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/politica/20261012/11657266/santiago-abascal-celebra-ceuta-bardella-12-octubre.html",
-      "fecha": "2026-10-12T18:07+00:00",
-      "partidos": [
-        "vox"
-      ]
-    },
-    {
-      "titulo": "Frente Amplio propone a Colau como candidata al 29N y llama a Podemos a incorporarse pese a su pacto con ERC",
-      "medio": "Europa Press",
-      "url": "https://www.europapress.es/nacional/noticia-partidos-frente-amplio-proponen-ada-colau-candidata-29n-20261012200309.html",
-      "fecha": "2026-10-12T18:03+00:00",
-      "partidos": [
-        "sumar",
-        "erc",
-        "podemos"
-      ]
-    },
-    {
-      "titulo": "El Frente Amplio responde al órdago de Podemos y Rufián: confirma a Colau como candidata y llama a Montero a sumarse",
-      "medio": "elDiario.es",
-      "url": "https://www.eldiario.es/politica/frente-amplio-responde-ordago-rufian-confirma-colau-candidata-llama-montero-sumarse_1_13580395.html",
-      "fecha": "2026-10-12T17:56+00:00",
-      "partidos": [
-        "sumar",
-        "podemos"
-      ]
-    },
-    {
-      "titulo": "Primera crisis entre Illa y ERC por la gestión de TV3 a causa de un reportaje sobre vacunas",
-      "medio": "El Confidencial",
-      "url": "https://www.elconfidencial.com/espana/2026-10-12/primera-crisis-illa-erc-gestion-tv3-vacunas_4443365/",
-      "fecha": "2026-10-12T17:45+00:00",
-      "partidos": [
-        "erc"
-      ]
-    },
-    {
-      "titulo": "El 29-N acapara los corrillos en el Palacio Real: duelo de optimismo entre Sánchez y Feijóo",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/29n-acapara-corrillos-palacio-real-duelo-optimismo-20261012163120-nt.html",
-      "fecha": "2026-10-12T16:44+00:00",
-      "partidos": [
-        "pp"
       ]
     }
   ],
