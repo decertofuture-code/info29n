@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-15T21:30+00:00",
+  "actualizado": "2026-10-16T05:17+00:00",
   "temas": [
     {
       "id": "vivienda",
@@ -449,6 +449,133 @@
   ],
   "noticias": [
     {
+      "titulo": "Cien días después, a PP y Vox les salen las cuentas en Andalucía",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/andalucia/cien-dias-despues-pp-vox-salen-cuentas-20261016062547-nts.html",
+      "fecha": "2026-10-16T04:25+00:00",
+      "partidos": [
+        "pp",
+        "vox"
+      ]
+    },
+    {
+      "titulo": "El PP de Ayuso apuesta por Cayetana Álvarez de Toledo como ‘número dos’ por Madrid en las generales",
+      "medio": "El País",
+      "url": "https://elpais.com/espana/2026-10-16/el-pp-de-ayuso-apuesta-por-cayetana-alvarez-de-toledo-como-numero-dos-por-madrid-en-las-generales.html",
+      "fecha": "2026-10-16T03:30+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "El resultado de las elecciones del 29N en España si solo votasen los pensionistas: porcentajes de PP, PSOE, Vox y el resto de partidos",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/resultado-elecciones-29n-espana-solo-votasen-pensionistas-20261016060000-nt.html",
+      "fecha": "2026-10-16T03:20+00:00",
+      "partidos": [
+        "pp",
+        "psoe",
+        "vox"
+      ]
+    },
+    {
+      "titulo": "Encuestas elecciones generales del 29N País Vasco: resultados de PSOE, PP, Bildu y PNV y ganador según los sondeos",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/pais-vasco/encuestas-elecciones-generales-29n-pais-vasco-resultados-20261016051500-nt.html",
+      "fecha": "2026-10-16T03:15+00:00",
+      "partidos": [
+        "pp",
+        "psoe",
+        "bildu",
+        "pnv"
+      ]
+    },
+    {
+      "titulo": "Vox y PP retoman los recortes a los sindicatos en Castilla y León con la meta de llegar hasta el 50%",
+      "medio": "El Confidencial",
+      "url": "https://www.elconfidencial.com/espana/castilla-y-leon/2026-10-16/vox-y-pp-retoman-los-recortes-a-los-sindicatos-en-castilla-y-leon-con-la-meta-de-llegar-hasta-el-50_4445785/",
+      "fecha": "2026-10-16T03:00+00:00",
+      "partidos": [
+        "pp",
+        "vox"
+      ]
+    },
+    {
+      "titulo": "Un asesor del PP en el Senado gana un pleito contra Catalá por la moratoria de pisos turísticos en Valencia",
+      "medio": "El Confidencial",
+      "url": "https://www.elconfidencial.com/espana/comunidad-valenciana/2026-10-16/asesor-pp-senado-moratoria-turisticos-catala-valencia_4445837/",
+      "fecha": "2026-10-16T03:00+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "El pacto de vivienda que pudo ser y no fue: Page ofreció a Sánchez y Feijóo una tercera vía en 2024",
+      "medio": "El Confidencial",
+      "url": "https://www.elconfidencial.com/espana/2026-10-16/pacto-vivienda-page-sanchez-feijoo-tercera-via_4445677/",
+      "fecha": "2026-10-16T03:00+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "Frente Amplio y Podemos se encaminan a la batalla en Madrid y Cataluña el 29-N, pero a una posible unidad en el resto de España",
+      "medio": "20minutos",
+      "url": "https://www.20minutos.es/nacional/frente-amplio-podemos-se-encaminan-batalla-madrid-cataluna-29-n-pero-una-posible-unidad-resto-espana_7049302_0.html",
+      "fecha": "2026-10-16T03:00+00:00",
+      "partidos": [
+        "sumar",
+        "podemos"
+      ]
+    },
+    {
+      "titulo": "El PSOE y la izquierda apuran pactos provinciales para disputar al PP la mayoría absoluta del Senado",
+      "medio": "20minutos",
+      "url": "https://www.20minutos.es/nacional/psoe-partidos-su-izquierda-apuran-un-pacto-varias-provincias-para-intentar-disputar-pp-mayoria-absoluta-senado_7049334_0.html",
+      "fecha": "2026-10-16T03:00+00:00",
+      "partidos": [
+        "pp",
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "Feijóo lanzará este lunes un manifiesto por la «reconstrucción nacional»",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/feijoo-lanzara-manifiesto-reconstruccion-nacional-lunes-lineas-20261016013633-nt.html",
+      "fecha": "2026-10-15T23:43+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "La directora de la Guardia Civil sólo se interesó por las investigaciones de la UCO que afectaban al PSOE",
+      "medio": "El Mundo",
+      "url": "https://www.elmundo.es/espana/2026/10/16/6ad113d421efa0d8708b45c2.html",
+      "fecha": "2026-10-15T23:37+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "Feijóo garantiza que revalorizará las pensiones y Sánchez le acusa de mentir",
+      "medio": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/politica/20261016/11660046/feijoo-garantiza-revalorizara-pensiones-sanchez-le-acusa-mentir.html",
+      "fecha": "2026-10-15T22:05+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "Atasco de las izquierdas en el Senado: el pacto de PSOE y Frente Amplio se enfría casi sin tiempo",
+      "medio": "El Mundo",
+      "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/10/16/6ad114c9e85eceb9518b4598.html",
+      "fecha": "2026-10-15T22:00+00:00",
+      "partidos": [
+        "psoe",
+        "sumar"
+      ]
+    },
+    {
       "titulo": "Una asociación fantasma cercana al PSOE se persona en el Supremo contra la suspensión del voto de los nietos",
       "medio": "ABC",
       "url": "https://www.abc.es/espana/asociacion-fantasma-cercana-psoe-persona-supremo-suspension-20261015193605-nt.html",
@@ -501,6 +628,34 @@
       "fecha": "2026-10-15T20:21+00:00",
       "partidos": [
         "podemos"
+      ]
+    },
+    {
+      "titulo": "Podemos y el Frente Amplio mantienen su pulso en las 24 horas decisivas para la unidad",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/politica/frente-amplio-mantienen-pulso-24-horas-decisivas-unidad_1_13589325.html",
+      "fecha": "2026-10-15T20:03+00:00",
+      "partidos": [
+        "sumar"
+      ]
+    },
+    {
+      "titulo": "Qué dice hoy la media de las encuestas: PP y Vox aventajan al bloque progresista en 15 puntos mientras la izquierda sigue negociando",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/politica/dice-hoy-media-encuestas-pp-vox-aventajan-bloque-progresista-15-puntos-izquierda-sigue-negociando_1_13585216.html",
+      "fecha": "2026-10-15T20:03+00:00",
+      "partidos": [
+        "pp",
+        "vox"
+      ]
+    },
+    {
+      "titulo": "Feijóo tiene un problema con las campañas",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/opinion/zona-critica/feijoo-problema-campanas_129_13588361.html",
+      "fecha": "2026-10-15T20:03+00:00",
+      "partidos": [
+        "pp"
       ]
     },
     {
@@ -3121,157 +3276,6 @@
       "fecha": "2026-10-12T16:44+00:00",
       "partidos": [
         "pp"
-      ]
-    },
-    {
-      "titulo": "Beatriz Jiménez renuncia a encabezar la lista del PP al Congreso por Cuenca el 29N",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/castilla-la-mancha/beatriz-jimenez-renuncia-encabezar-lista-pp-congreso-20261012183231-nt.html",
-      "fecha": "2026-10-12T16:35+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Juzgan a una concejal de Puertollano por presunta propaganda electoral a favor del PSOE el 23J",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/castilla-la-mancha/juzgan-concejal-puertollano-presunta-propaganda-electoral-favor-20261012182027-nt.html",
-      "fecha": "2026-10-12T16:20+00:00",
-      "partidos": [
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "Comuns acusa a Rufián de azuzar la división en las izquierdas por su acuerdo con Podemos",
-      "medio": "El País",
-      "url": "https://elpais.com/espana/elecciones-generales/2026-10-12/podemos-y-erc-oficializan-el-acuerdo-por-el-que-rufian-y-montero-haran-campana-juntos.html",
-      "fecha": "2026-10-12T15:11+00:00",
-      "partidos": [
-        "podemos"
-      ]
-    },
-    {
-      "titulo": "ERC y Podemos acuerdan su alianza electoral del 29-N para \"frenar a la extrema derecha\"",
-      "medio": "El Mundo",
-      "url": "https://www.elmundo.es/cataluna/2026/10/12/6accb0cae4d4d88f608b4577.html",
-      "fecha": "2026-10-12T15:11+00:00",
-      "partidos": [
-        "erc",
-        "podemos"
-      ]
-    },
-    {
-      "titulo": "Vox celebra que el Supremo le dé la razón con la 'ley de nietos' y que las elecciones se celebren \"sin fraude\"",
-      "medio": "Europa Press",
-      "url": "https://www.europapress.es/nacional/noticia-vox-celebra-supremo-le-razon-ley-nietos-elecciones-celebren-fraude-20261012170722.html",
-      "fecha": "2026-10-12T15:07+00:00",
-      "partidos": [
-        "vox"
-      ]
-    },
-    {
-      "titulo": "Sánchez ve una \"movilización progresista\" como en 2019 y Feijóo augura el apoyo de más de ocho millones de votantes el 29-N",
-      "medio": "20minutos",
-      "url": "https://www.20minutos.es/nacional/sanchez-ve-una-movilizacion-progresista-como-2019-feijoo-augura-apoyo-menos-8-millones-votantes-29-n_7047818_0.html",
-      "fecha": "2026-10-12T14:29+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Feijóo reivindica que el PP es voto del cambio y asegura que con Vox \"no habrá cordón sanitario pero tampoco umbilical\"",
-      "medio": "Europa Press",
-      "url": "https://www.europapress.es/nacional/noticia-feijoo-reivindica-pp-voto-cambio-asegura-vox-no-habra-cordon-sanitario-tampoco-umbilical-20261012162715.html",
-      "fecha": "2026-10-12T14:27+00:00",
-      "partidos": [
-        "pp",
-        "vox"
-      ]
-    },
-    {
-      "titulo": "Abascal carga contra Sánchez durante su visita a Ceuta en el día de la Hispanidad: \"Este es un Gobierno que odia a España\"",
-      "medio": "20minutos",
-      "url": "https://www.20minutos.es/nacional/abascal-carga-contra-sanchez-durante-su-visita-ceuta-dia-hispanidad-este-es-un-gobierno-que-odia-espana_7047812_0.html",
-      "fecha": "2026-10-12T14:04+00:00",
-      "partidos": [
-        "vox"
-      ]
-    },
-    {
-      "titulo": "Bernabé encabezará la lista del PSOE por Valencia, delante de España y Torró",
-      "medio": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/local/valencia/20261012/11657149/bernabe-encabezara-lista-psoe-valencia-delante-espana-torro.html",
-      "fecha": "2026-10-12T13:33+00:00",
-      "partidos": [
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "Sánchez confía en gobernar tras las elecciones por la movilización progresista y la \"brutal\" fuga de votos del PP a Vox",
-      "medio": "elDiario.es",
-      "url": "https://www.eldiario.es/politica/sanchez-confia-gobernar-elecciones-movilizacion-progresista-brutal-fuga-votos-pp-vox_1_13579991.html",
-      "fecha": "2026-10-12T13:18+00:00",
-      "partidos": [
-        "pp",
-        "vox"
-      ]
-    },
-    {
-      "titulo": "Podemos y ERC oficializan su alianza para el 29-N y harán campaña juntos",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/podemos-erc-oficializan-alianza-29n-haran-campana-20261012122428-nt.html",
-      "fecha": "2026-10-12T13:14+00:00",
-      "partidos": [
-        "erc",
-        "podemos"
-      ]
-    },
-    {
-      "titulo": "Abascal se ausenta del desfile del 12-O porque Ceuta «sigue invadida»",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/abascal-ausenta-desfile-12o-ceuta-sigue-invadida-20261012142626-nt.html",
-      "fecha": "2026-10-12T13:12+00:00",
-      "partidos": [
-        "vox"
-      ]
-    },
-    {
-      "titulo": "Así han sido los abucheos a Pedro Sánchez en su llegada al desfile de la Fiesta Nacional 2026",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/abucheos-pedro-sanchez-llegada-desfile-fiesta-nacional-20261012113227-nt.html",
-      "fecha": "2026-10-12T13:11+00:00",
-      "partidos": [
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "Vox pide el rechazo rotundo del Parlamento al «blanqueamiento» de EH Bildu por Adelante Andalucía",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/andalucia/vox-pide-rechazo-rotundo-parlamento-blanqueamiento-bildu-20261012142315-nts.html",
-      "fecha": "2026-10-12T12:23+00:00",
-      "partidos": [
-        "vox",
-        "bildu"
-      ]
-    },
-    {
-      "titulo": "Comuns acusan a Rufián de dividir la izquierda tras el pacto ERC-Podemos e irán a las elecciones con Frente Amplio",
-      "medio": "Europa Press",
-      "url": "https://www.europapress.es/nacional/noticia-comuns-acusan-rufian-dividir-izquierda-pacto-erc-podemos-iran-elecciones-frente-amplio-20261012141859.html",
-      "fecha": "2026-10-12T12:18+00:00",
-      "partidos": [
-        "sumar",
-        "erc",
-        "podemos"
-      ]
-    },
-    {
-      "titulo": "Abascal justifica su ausencia del desfile del 12-O por que Ceuta “sigue invadida”",
-      "medio": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/politica/20261012/11657123/abascal-justifica-ausencia-desfile-12-ceuta-sigue-invadida.html",
-      "fecha": "2026-10-12T12:16+00:00",
-      "partidos": [
-        "vox"
       ]
     }
   ],
