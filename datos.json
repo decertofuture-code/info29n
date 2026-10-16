@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-16T09:31+00:00",
+  "actualizado": "2026-10-16T13:38+00:00",
   "temas": [
     {
       "id": "vivienda",
@@ -449,11 +449,235 @@
   ],
   "noticias": [
     {
+      "titulo": "PP pide que se aclare si la ministra Robles eliminó parte de un informe sobre Ceuta",
+      "medio": "El Confidencial",
+      "url": "https://www.elconfidencial.com/espana/2026-10-16/cuca-gamarra-informes-cni-ceuta-1tps_4446671/",
+      "fecha": "2026-10-16T13:31+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "Diputación Permanente: por qué cambia con ella la mayoría para Pedro Sánchez, qué funciones tiene y quién la conforma",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/diputacion-permanente-cambia-mayoria-pedro-sanchez-funciones-20261007112838-nt.html",
+      "fecha": "2026-10-16T13:18+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "Feijóo: \"Mi campaña y mi política se va a dirigir a los currantes; a los jetas, no\"",
+      "medio": "El Confidencial",
+      "url": "https://www.elconfidencial.com/espana/2026-10-16/feijoo-propone-impuestos-cero-mundo-rural-1tps_4446645/",
+      "fecha": "2026-10-16T13:14+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "Feijóo: «Un Gobierno que desahucia a 75 familias de guardias civiles en Toledo no puede dar lecciones»",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/castilla-la-mancha/toledo/feijoo-gobierno-desahucia-familias-guardias-civiles-toledo-20261016150454-nt.html",
+      "fecha": "2026-10-16T13:08+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "El Ayuntamiento de Burgos aprueba, con apoyo de PP y Vox, una moción de rechazo a la 'ley de nietos'",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/castilla-leon/ayuntamiento-burgos-aprueba-apoyo-pp-vox-mocion-20261016150244-nt.html",
+      "fecha": "2026-10-16T13:02+00:00",
+      "partidos": [
+        "pp",
+        "vox"
+      ]
+    },
+    {
+      "titulo": "Junts se alinea con el discurso más duro de PP y Vox en uno de los últimos debates del Congreso",
+      "medio": "El País",
+      "url": "https://elpais.com/espana/elecciones-generales/2026-10-16/junts-se-alinea-con-el-discurso-mas-duro-de-pp-y-vox-en-uno-de-los-ultimos-debates-del-congreso.html",
+      "fecha": "2026-10-16T12:58+00:00",
+      "partidos": [
+        "pp",
+        "vox",
+        "junts"
+      ]
+    },
+    {
+      "titulo": "Feijóo promete «aligerar la carga» de las familias y dar un impulso fiscal al medio rural",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/castilla-la-mancha/feijoo-promete-aligerar-carga-familias-dar-impulso-20261016142738-nt.html",
+      "fecha": "2026-10-16T12:58+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "Podemos niega que Frente Amplio ofrezca a Irene Montero el número dos de la lista de Madrid: \"No es cierto\"",
+      "medio": "Europa Press",
+      "url": "https://www.europapress.es/nacional/noticia-podemos-niega-frente-amplio-ofrezca-irene-montero-numero-dos-lista-madrid-no-cierto-20261016145805.html",
+      "fecha": "2026-10-16T12:58+00:00",
+      "partidos": [
+        "sumar",
+        "podemos"
+      ]
+    },
+    {
+      "titulo": "Alberto Núñez Feijóo busca el voto de las mujeres frente a un Gobierno que \"paga prostitutas\"",
+      "medio": "El Mundo",
+      "url": "https://www.elmundo.es/espana/2026/10/16/6ad21c5821efa0b35f8b4575.html",
+      "fecha": "2026-10-16T12:50+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "Bildu incluye en puestos de salida en sus listas para el 29-N a tres etarras",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/pais-vasco/matute-sustituye-aizpurua-cabeza-cartel-bildu-29n-20261016122912-nt.html",
+      "fecha": "2026-10-16T12:49+00:00",
+      "partidos": [
+        "bildu"
+      ]
+    },
+    {
+      "titulo": "El PSOE reta a Núñez a exigir a Feijóo que el agua de Castilla-La Mancha «no se toca»",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/castilla-la-mancha/toledo/talavera/psoe-reta-nunez-exigir-feijoo-agua-castillala-20261016144032-nt.html",
+      "fecha": "2026-10-16T12:40+00:00",
+      "partidos": [
+        "pp",
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "Otegi coloca a Oskar Matute al frente de EH Bildu en el Congreso y a dos condenados por su relación con ETA en el Senado",
+      "medio": "El Mundo",
+      "url": "https://www.elmundo.es/pais-vasco/2026/10/16/6ad20721fdddffe8448b4594.html",
+      "fecha": "2026-10-16T12:16+00:00",
+      "partidos": [
+        "bildu"
+      ]
+    },
+    {
+      "titulo": "Feijóo reclama una respuesta “serena y firme” a Marruecos por la entrada de sus buques en aguas españolas: “España no tiene amo”",
+      "medio": "El País",
+      "url": "https://elpais.com/espana/elecciones-generales/2026-10-16/feijoo-reclama-una-respuesta-serena-y-firme-a-marruecos-por-la-entrada-de-sus-buques-en-aguas-espanolas-espana-no-tiene-amo.html",
+      "fecha": "2026-10-16T11:59+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "Ada Colau: \"Rufián complicó la situación cuando hizo un acuerdo con Podemos, pero está a tiempo de rectificarlo\"",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/aragon/politica/ada-colau-rufian-complico-situacion-hizo-acuerdo-tiempo-rectificarlo_1_13591357.html",
+      "fecha": "2026-10-16T11:52+00:00",
+      "partidos": [
+        "podemos"
+      ]
+    },
+    {
+      "titulo": "Feijóo promete una bajada de impuestos y la reducción de la burocracia para el mundo rural",
+      "medio": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/politica/20261016/11660735/feijoo-promete-bajada-impuestos-reduccion-burocracia-mundo-rural.html",
+      "fecha": "2026-10-16T11:52+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "Compromís ratifica su pacto con Podemos con un amplio apoyo a la espera de convencer a EU",
+      "medio": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/local/valencia/20261016/11660730/compromis-ratifica-pacto-amplio-apoyo-espera-convencer-eu.html",
+      "fecha": "2026-10-16T11:45+00:00",
+      "partidos": [
+        "podemos"
+      ]
+    },
+    {
+      "titulo": "EH Bildu recupera para el 29-N a varios condenados por integrar el brazo político de ETA",
+      "medio": "El Confidencial",
+      "url": "https://www.elconfidencial.com/espana/2026-10-16/eh-bildu-candidaturas-elecciones-navarra-1tps_4446422/",
+      "fecha": "2026-10-16T11:16+00:00",
+      "partidos": [
+        "bildu"
+      ]
+    },
+    {
+      "titulo": "Podemos lanza consulta exprés a sus bases para que refrenden el acuerdo con ERC y el tándem de Rufián y Montero",
+      "medio": "Europa Press",
+      "url": "https://www.europapress.es/nacional/noticia-podemos-lanza-consulta-expres-bases-refrenden-acuerdo-erc-tandem-rufian-montero-20261016124118.html",
+      "fecha": "2026-10-16T10:41+00:00",
+      "partidos": [
+        "erc",
+        "podemos"
+      ]
+    },
+    {
+      "titulo": "Sumar admite que le cuesta entender la actitud de Podemos y les pide que se sienten a negociar para la unidad el 29N",
+      "medio": "Europa Press",
+      "url": "https://www.europapress.es/nacional/noticia-sumar-admite-le-cuesta-entender-actitud-podemos-les-pide-sienten-negociar-unidad-29n-20261016122100.html",
+      "fecha": "2026-10-16T10:21+00:00",
+      "partidos": [
+        "sumar",
+        "podemos"
+      ]
+    },
+    {
+      "titulo": "EH Bildu elige a Oihana Etxebarrieta para liderar junto a Oskar Matute su grupo en el Congreso",
+      "medio": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/local/paisvasco/20261016/11660595/eh-bildu-elige-oihana-etxebarrieta-liderar-oskar-matute-grupo-congreso.html",
+      "fecha": "2026-10-16T09:58+00:00",
+      "partidos": [
+        "bildu"
+      ]
+    },
+    {
+      "titulo": "El PP acusa al Gobierno de \"hipócrita y cínico\" por utilizar las pensiones para tapar la polémica de vivienda de Montse Mínguez",
+      "medio": "20minutos",
+      "url": "https://www.20minutos.es/nacional/pp-acusa-gobierno-hipocrita-cinico-por-utilizar-las-pensiones-para-tapar-polemica-vivienda-montse-minguez_7049577_0.html",
+      "fecha": "2026-10-16T09:56+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "El PSOE defiende la \"intachable\" la trayectoria de su portavoz tras la polémica de los \"30 pisos\": \"Siempre ha votado a favor de que los grandes tenedores no tengan beneficios\"",
+      "medio": "El Mundo",
+      "url": "https://www.elmundo.es/espana/2026/10/16/6ad1eb00e4d4d897598b45a9.html",
+      "fecha": "2026-10-16T09:40+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "Compromís y Frente Amplio-EUPV negocian in extremis para salvar el acuerdo unitario de la izquierda valenciana",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/comunitat-valenciana/politica/compromis-frente-amplio-eupv-negocian-in-extremis-salvar-acuerdo-unitario-izquierda-valenciana_1_13590307.html",
+      "fecha": "2026-10-16T09:40+00:00",
+      "partidos": [
+        "sumar"
+      ]
+    },
+    {
       "titulo": "Vox exige explicaciones a la Junta por una presunta agresión sexual en una residencia de Albacete en 2022",
       "medio": "ABC",
       "url": "https://www.abc.es/espana/castilla-la-mancha/toledo/vox-exige-explicaciones-junta-presunta-agresion-sexual-20261016112422-nt.html",
       "fecha": "2026-10-16T09:24+00:00",
       "partidos": [
+        "vox"
+      ]
+    },
+    {
+      "titulo": "La Junta Electoral recalca a PP y Vox que la transparencia del voto por correo está regulada en la ley y rechaza medidas extra",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/politica/junta-electoral-recalca-pp-vox-transparencia-voto-correo-regulada-ley-rechaza-medidas-extra_1_13590350.html",
+      "fecha": "2026-10-16T09:23+00:00",
+      "partidos": [
+        "pp",
         "vox"
       ]
     },
@@ -619,6 +843,16 @@
       "url": "https://www.lavanguardia.com/local/valencia/20261016/11660399/pacto-compromis-morados-quedan-1-alicante-siglas-aparecen.html",
       "fecha": "2026-10-16T06:47+00:00",
       "partidos": [
+        "podemos"
+      ]
+    },
+    {
+      "titulo": "Elecciones generales, última hora de los pactos electorales en directo | Podemos desmiente a Frente Amplio y niega que hayan ofrecido a Irene Montero el número dos de la lista en Madrid",
+      "medio": "20minutos",
+      "url": "https://www.20minutos.es/nacional/podemos-frente-amplio-elecciones-29-n-directo-izquierda-negociaciones-coaliciones_7049439_6.html",
+      "fecha": "2026-10-16T05:36+00:00",
+      "partidos": [
+        "sumar",
         "podemos"
       ]
     },
@@ -3036,243 +3270,6 @@
       "partidos": [
         "sumar",
         "erc"
-      ]
-    },
-    {
-      "titulo": "Irene Montero descarta integrar Podemos en Frente Amplio, pero se abre a intentar \"todas las formas de colaboración\"",
-      "medio": "20minutos",
-      "url": "https://www.20minutos.es/nacional/irene-montero-descarta-integrar-podemos-frente-amplio-pero-mantiene-abiertas-las-vias-colaboracion_7048050_0.html",
-      "fecha": "2026-10-13T09:58+00:00",
-      "partidos": [
-        "sumar",
-        "podemos"
-      ]
-    },
-    {
-      "titulo": "Feijóo promete \"garantizar la viabilidad\" del sistema de pensiones y revalorizarlas conforme al IPC",
-      "medio": "20minutos",
-      "url": "https://www.20minutos.es/nacional/feijoo-promete-garantizar-viabilidad-sistema-pensiones-revalorizarlas-conforme-ipc_7048047_0.html",
-      "fecha": "2026-10-13T09:50+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Bardella arropa a Abascal hacia el 29-N cargando contra la política migratoria de Sánchez por sus \"consecuencias dramáticas para el equilibrio\" de Europa",
-      "medio": "El Mundo",
-      "url": "https://www.elmundo.es/espana/2026/10/13/6acdcf07fc6c837c458b4579.html",
-      "fecha": "2026-10-13T09:29+00:00",
-      "partidos": [
-        "vox"
-      ]
-    },
-    {
-      "titulo": "Feijóo asegura que Sánchez debió desplegar el Ejército en Ceuta y le acusa de \"mentir\" sobre los buques marroquíes que entraron en aguas españolas",
-      "medio": "El Mundo",
-      "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/10/13/6acdd627e9cf4a3f058b4586.html",
-      "fecha": "2026-10-13T09:24+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Feijóo, tras el fallo del Supremo sobre la 'ley de nietos': \"No hay limpieza democrática si no hay limpieza del censo\"",
-      "medio": "Europa Press",
-      "url": "https://www.europapress.es/nacional/noticia-feijoo-fallo-supremo-ley-nietos-no-hay-limpieza-democratica-si-no-hay-limpieza-censo-20261013112247.html",
-      "fecha": "2026-10-13T09:22+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "El Parlamento asturiano guarda un minuto de silencio por Maricarmen con la ausencia de PP, Vox y Foro",
-      "medio": "elDiario.es",
-      "url": "https://www.eldiario.es/asturias/parlamento-asturiano-guarda-minuto-silencio-maricarmen-ausencia-pp-vox-foro_1_13581038.html",
-      "fecha": "2026-10-13T09:04+00:00",
-      "partidos": [
-        "pp",
-        "vox"
-      ]
-    },
-    {
-      "titulo": "Feijóo promueve un plan de emergencia en Europa para blindar fronteras y permitir expulsiones inmediatas",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/feijoo-promueve-plan-emergencia-europa-blindar-fronteras-20261013105523-nt.html",
-      "fecha": "2026-10-13T09:00+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Mínguez (PSOE) critica que se utilice Ceuta para \"agarrar unos votos\" y como \"plató electoral\"",
-      "medio": "Europa Press",
-      "url": "https://www.europapress.es/nacional/noticia-minguez-psoe-critica-utilice-ceuta-agarrar-votos-plato-electoral-20261013105250.html",
-      "fecha": "2026-10-13T08:52+00:00",
-      "partidos": [
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "El PSOE de Toledo acusa a Velázquez de paralizar el nuevo cuartel de la Guardia Civil: «Tiene que pedir perdón»",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/castilla-la-mancha/toledo/psoe-toledo-acusa-velazquez-paralizar-nuevo-cuartel-20261013104443-nt.html",
-      "fecha": "2026-10-13T08:44+00:00",
-      "partidos": [
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "Montero reivindica su pacto con ERC pero evita aclarar el encaje de Podemos en el Frente Amplio",
-      "medio": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/politica/20261013/11657624/montero-reivindica-pacto-erc-evita-aclarar-encaje-frente-amplio.html",
-      "fecha": "2026-10-13T08:43+00:00",
-      "partidos": [
-        "sumar",
-        "erc",
-        "podemos"
-      ]
-    },
-    {
-      "titulo": "Boye afirma que Puigdemont «no va a regresar en medio de la campaña, que es lo que querría el PSOE»",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/cataluna/boye-puigdemont-regresar-medio-campana-electoral-querria-20261013102625-nt.html",
-      "fecha": "2026-10-13T08:28+00:00",
-      "partidos": [
-        "psoe",
-        "junts"
-      ]
-    },
-    {
-      "titulo": "Abascal hace precampaña con Bardella y reivindica una “alianza en lo esencial” con una Francia de Le Pen",
-      "medio": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/politica/20261013/11657590/abascal-precampana-bardella-reivindica-alianza-esencial-francia-le-pen.html",
-      "fecha": "2026-10-13T08:24+00:00",
-      "partidos": [
-        "vox"
-      ]
-    },
-    {
-      "titulo": "Feijóo dice que Sánchez debió desplegar el Ejército con los buques marroquíes en aguas de Ceuta y le acusa de \"mentir\"",
-      "medio": "El Confidencial",
-      "url": "https://www.elconfidencial.com/espana/2026-10-13/feijoo-ejercito-frontera-buques-ceuta-1tps_4443667/",
-      "fecha": "2026-10-13T08:22+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Podemos descarta integrarse en Frente Amplio y defiende el acuerdo con ERC abierto a otros partidos",
-      "medio": "Europa Press",
-      "url": "https://www.europapress.es/nacional/noticia-montero-defiende-alianza-erc-evita-pronunciarse-puerta-abierta-unirse-frente-amplio-20261013100131.html",
-      "fecha": "2026-10-13T08:01+00:00",
-      "partidos": [
-        "sumar",
-        "erc",
-        "podemos"
-      ]
-    },
-    {
-      "titulo": "El PSOE apela al voto útil en circunscripciones pequeñas para no \"vayan a la basura\" votos del espacio de la izquierda",
-      "medio": "Europa Press",
-      "url": "https://www.europapress.es/nacional/noticia-psoe-apela-voto-util-circunscripciones-pequenas-no-vayan-basura-votos-espacio-izquierda-20261013095756.html",
-      "fecha": "2026-10-13T07:57+00:00",
-      "partidos": [
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "El PP muestra un vídeo de Sarah Santaolalla haciendo botellón tras insinuar que Ayuso iba borracha",
-      "medio": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/politica/20261013/11657556/pp-madrid-irrita-sarah-santaolalla-mostrar-video-bailando-haciendo-botellon-menor.html",
-      "fecha": "2026-10-13T07:41+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Sumar confía en que Podemos se incorpore a Frente Amplio y dice que la \"actitud\" de Rufián no debe impedir acuerdos",
-      "medio": "Europa Press",
-      "url": "https://www.europapress.es/nacional/noticia-sumar-confia-podemos-incorpore-frente-amplio-dice-actitud-rufian-no-debe-impedir-acuerdos-20261013084254.html",
-      "fecha": "2026-10-13T06:42+00:00",
-      "partidos": [
-        "sumar",
-        "podemos"
-      ]
-    },
-    {
-      "titulo": "El PP de Cádiz exige la dimisión del alcalde de Algeciras tras denuncias de agresión sexual",
-      "medio": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/politica/20261013/11657504/pp-cadiz-exige-dimision-alcalde-algeciras-denuncias-agresion-sexual.html",
-      "fecha": "2026-10-13T06:18+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Pisarello (Comuns) reprocha a Rufián que el pacto entre ERC y Podemos no es lo que \"venía proponiendo\"",
-      "medio": "Europa Press",
-      "url": "https://www.europapress.es/nacional/noticia-pisarello-comuns-reprocha-rufian-pacto-erc-podemos-no-venia-proponiendo-20261013080852.html",
-      "fecha": "2026-10-13T06:08+00:00",
-      "partidos": [
-        "erc",
-        "podemos"
-      ]
-    },
-    {
-      "titulo": "Visita de los Reyes a Ceuta, en directo | Feijóo critica a Sánchez por no haber ido con los monarcas: \"Yo sí los habría acompañado\"",
-      "medio": "20minutos",
-      "url": "https://www.20minutos.es/nacional/directo-visita-rey-felipe-vi-letizia-ceuta-melilla-crisis-inmigrantes-marruecos_7047926_6.html",
-      "fecha": "2026-10-13T05:47+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Sánchez y Feijóo ven la victoria a mano y creen que sus fieles están activados",
-      "medio": "El País",
-      "url": "https://elpais.com/espana/elecciones-generales/2026-10-13/sanchez-y-feijoo-ven-la-victoria-a-mano-y-creen-que-sus-fieles-estan-activados.html",
-      "fecha": "2026-10-13T03:30+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "El voto exterior favorece a la izquierda: el PSOE gana fuera mientras pierde en casa",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/voto-exterior-favorece-izquierda-psoe-gana-pierde-20261013015532-nt.html",
-      "fecha": "2026-10-13T00:26+00:00",
-      "partidos": [
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "Feijóo, ante la ausencia de Abascal en la Fiesta Nacional: «Con Vox, ni cordón sanitario ni cordón umbilical»",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/feijoo-ante-ausencia-abascal-vox-cordon-sanitario-20261013014249-nt.html",
-      "fecha": "2026-10-12T23:42+00:00",
-      "partidos": [
-        "pp",
-        "vox"
-      ]
-    },
-    {
-      "titulo": "Feijóo, a la embajadora de Marruecos: «He cumplido con mi deber»",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/feijoo-embajadora-marruecos-cumplido-deber-20261013014233-nt.html",
-      "fecha": "2026-10-12T23:42+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Vox sacude el mapa electoral: cerca al PSOE en Andalucía, lo supera en Murcia y da el sorpasso al PP en Cataluña",
-      "medio": "El Mundo",
-      "url": "https://www.elmundo.es/espana/encuestas/2026/10/13/6acd12e2e4d4d82d4c8b4592.html",
-      "fecha": "2026-10-12T23:37+00:00",
-      "partidos": [
-        "pp",
-        "psoe",
-        "vox"
       ]
     }
   ],
