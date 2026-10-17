@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-17T17:22+00:00",
+  "actualizado": "2026-10-17T21:23+00:00",
   "temas": [
     {
       "id": "vivienda",
@@ -448,6 +448,25 @@
     }
   ],
   "noticias": [
+    {
+      "titulo": "Bellido, «satisfecho» con el acuerdo con Ferraz tras los cambios en las listas de Guadalajara",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/castilla-la-mancha/bellido-satisfecho-acuerdo-ferraz-tras-cambios-listas-20261017210626-nt.html",
+      "fecha": "2026-10-17T20:23+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "Vox estudiará opciones para no hurtar senadores al PP en favor de la izquierda",
+      "medio": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/politica/20261017/11661547/vox-estudiara-opciones-hurtar-senadores-pp-favor-izquierda.html",
+      "fecha": "2026-10-17T17:14+00:00",
+      "partidos": [
+        "pp",
+        "vox"
+      ]
+    },
     {
       "titulo": "El beso de Sánchez y Begoña Gómez acaba en un cruce de mensajes entre PSOE y PP: del \"tú eliges\" de Bolaños a un montaje con Ábalos",
       "medio": "20minutos",
@@ -3248,25 +3267,6 @@
       "medio": "El País",
       "url": "https://elpais.com/economia/2026-10-14/la-portavoz-del-pp-ester-munoz-asegura-que-el-sistema-de-pensiones-va-a-colapsar-y-pide-cambiarlo.html",
       "fecha": "2026-10-14T11:38+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "El PSOE aumenta la distancia sobre el PP hasta los 11,8 puntos tras la convocatoria electoral, según el CIS",
-      "medio": "El País",
-      "url": "https://elpais.com/espana/elecciones-generales/2026-10-14/el-psoe-aumenta-la-distancia-sobre-el-pp-hasta-los-118-puntos-tras-la-convocatoria-electoral-segun-el-cis.html",
-      "fecha": "2026-10-14T11:27+00:00",
-      "partidos": [
-        "pp",
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "El PP pide \"bajar impuestos a los fondos buitre\" y facilitar los desahucios en la futura ley de vivienda de Page",
-      "medio": "elDiario.es",
-      "url": "https://www.eldiario.es/castilla-la-mancha/politica/pp-retrata-pide-bajar-impuestos-fondos-buitre-acelerar-desahucios-futura-ley-suelo-vivienda-page_1_13584200.html",
-      "fecha": "2026-10-14T11:25+00:00",
       "partidos": [
         "pp"
       ]
