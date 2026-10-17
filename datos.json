@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-17T05:14+00:00",
+  "actualizado": "2026-10-17T09:24+00:00",
   "temas": [
     {
       "id": "vivienda",
@@ -449,6 +449,157 @@
   ],
   "noticias": [
     {
+      "titulo": "Vox pedirá en el Parlamento que el Gobierno garantice la «prioridad nacional» en la vivienda",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/andalucia/vox-pedira-parlamento-gobierno-garantice-prioridad-nacional-20261017111113-nts.html",
+      "fecha": "2026-10-17T09:11+00:00",
+      "partidos": [
+        "vox"
+      ]
+    },
+    {
+      "titulo": "Sánchez interviene después del Comité Federal del PSOE",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/sanchez-interviene-despues-comite-federal-psoe-20261017110054-nt.html",
+      "fecha": "2026-10-17T09:02+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "La Ejecutiva del PSOE nombra a Rebeca Torró nueva portavoz tras la dimisión de Montse Mínguez",
+      "medio": "20minutos",
+      "url": "https://www.20minutos.es/nacional/ejecutiva-psoe-nombra-rebeca-torro-nueva-portavoz-tras-dimision-montse-minguez_7049939_0.html",
+      "fecha": "2026-10-17T08:58+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "El ministro de Cultura, Ernest Urtasun, será el número 2 de Frente Amplio en Barcelona",
+      "medio": "20minutos",
+      "url": "https://www.20minutos.es/nacional/ministro-cultura-ernest-urtasun-sera-numero-2-frente-amplio-barcelona_7049931_0.html",
+      "fecha": "2026-10-17T08:23+00:00",
+      "partidos": [
+        "sumar"
+      ]
+    },
+    {
+      "titulo": "Sánchez refuerza a Torró y la designa portavoz del PSOE tras la dimisión de Mínguez",
+      "medio": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/politica/20261017/11661357/sanchez-refuerza-torro-designa-portavoz-psoe-dimision-minguez.html",
+      "fecha": "2026-10-17T08:17+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "El PSOE designa a Rebeca Torró portavoz tras la dimisión de Montse Mínguez por la polémica de los \"30 pisos\" y Page se ausenta de un Comité Federal \"sin posibilidad de intervención\"",
+      "medio": "El Mundo",
+      "url": "https://www.elmundo.es/espana/2026/10/17/6ad32408fdddffb0328b4578.html",
+      "fecha": "2026-10-17T07:54+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "El ministro Urtasun será el número dos de la candidatura de Frente Amplio en Barcelona",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/cataluna/ministro-urtasun-numero-dos-candidatura-frente-amplio-20261017094839-nt.html",
+      "fecha": "2026-10-17T07:48+00:00",
+      "partidos": [
+        "sumar"
+      ]
+    },
+    {
+      "titulo": "La alcaldesa de Palencia acusa a la dirección del PSOE de «pasarse la voz de la militancia por el forro» por las listas",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/castilla-leon/alcaldesa-palencia-acusa-direccion-psoe-pasarse-voz-20261017092549-nt.html",
+      "fecha": "2026-10-17T07:25+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "Elecciones generales, última hora de los actos electorales en directo | Sánchez cierra un comité del PSOE marcado por la dimisión de Mínguez mientras Frente Amplio y Podemos consuman su fractura con dos actos",
+      "medio": "20minutos",
+      "url": "https://www.20minutos.es/nacional/elecciones-generales-ultima-hora-los-actos-electorales-directo-sanchez-convierte-mitin-comite-psoe-mientras-frente-amplio-podemos-consuman-su-fractura-con-dos-actos-por-separado_7049917_6.html",
+      "fecha": "2026-10-17T07:20+00:00",
+      "partidos": [
+        "psoe",
+        "sumar",
+        "podemos"
+      ]
+    },
+    {
+      "titulo": "Frente Amplio presenta a Ada Colau de candidata sin lograr un acuerdo general con Podemos",
+      "medio": "20minutos",
+      "url": "https://www.20minutos.es/nacional/frente-amplio-presenta-ada-colau-candidata-sin-lograr-acuerdo-podemos_7049914_0.html",
+      "fecha": "2026-10-17T06:53+00:00",
+      "partidos": [
+        "sumar",
+        "podemos"
+      ]
+    },
+    {
+      "titulo": "Así queda el mapa de coaliciones de izquierda tras la fractura entre Frente Amplio y Podemos",
+      "medio": "20minutos",
+      "url": "https://www.20minutos.es/nacional/asi-queda-mapa-coaliciones-izquierda-tras-fractura-frente-amplio-podemos_7049913_0.html",
+      "fecha": "2026-10-17T06:47+00:00",
+      "partidos": [
+        "sumar",
+        "podemos"
+      ]
+    },
+    {
+      "titulo": "Ernest Urtasun hará tándem con Ada Colau y será el candidato del Frente Amplio en Catalunya",
+      "medio": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/politica/20261017/11660947/ernest-urtasun-hara-tandem-ada-colau-sera-candidato-frente-amplio-catalunya.html",
+      "fecha": "2026-10-17T06:00+00:00",
+      "partidos": [
+        "sumar"
+      ]
+    },
+    {
+      "titulo": "La marcha de Montse Mínguez sacude al PSOE: de la polémica por los negocios inmobiliarios de su pareja a su dimisión",
+      "medio": "20minutos",
+      "url": "https://www.20minutos.es/nacional/marcha-montse-minguez-sacude-psoe-polemica-por-los-negocios-inmobiliarios-su-pareja-su-dimision_7049853_0.html",
+      "fecha": "2026-10-17T05:46+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "Sánchez convierte en un mitin el comité federal para ratificar las listas del PSOE al 29N tras la dimisión de Montse Mínguez",
+      "medio": "20minutos",
+      "url": "https://www.20minutos.es/nacional/sanchez-convierte-mitin-comite-federal-ratificar-listas-psoe-29n-arengar-partido_7049760_0.html",
+      "fecha": "2026-10-17T05:43+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "El resultado de las elecciones del 29N en España si solo votasen los estudiantes: porcentajes de PP, PSOE, Vox y el resto de partidos",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/resultado-elecciones-29n-espana-solo-votasen-estudiantes-20261017222450-nt.html",
+      "fecha": "2026-10-17T05:37+00:00",
+      "partidos": [
+        "pp",
+        "psoe",
+        "vox"
+      ]
+    },
+    {
+      "titulo": "Izquierda Unida y Sumar rechazan a Podemos y se presentarán como Frente Amplio en Andalucía",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/andalucia/izquierda-unida-sumar-rechazan-podemos-presentaran-frente-20261016191947-nts.html",
+      "fecha": "2026-10-17T05:30+00:00",
+      "partidos": [
+        "sumar",
+        "podemos"
+      ]
+    },
+    {
       "titulo": "Tres años de PP y Vox en Balears: rebajas de impuestos a ricos, derogación de la ley de memoria y fracaso contra el catalán",
       "medio": "elDiario.es",
       "url": "https://www.eldiario.es/illes-balears/politica/tres-anos-pp-vox-balears-rebajas-impuestos-ricos-derogacion-ley-memoria-fracaso-catalan_1_13592176.html",
@@ -494,6 +645,15 @@
       "fecha": "2026-10-16T23:26+00:00",
       "partidos": [
         "pp",
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "Así han quedado los acuerdos territoriales a la izquierda del PSOE para las elecciones del 29-N",
+      "medio": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/politica/20261017/11661135/asi-acuerdos-territoriales-izquierda-psoe-elecciones-29-n.html",
+      "fecha": "2026-10-16T22:55+00:00",
+      "partidos": [
         "psoe"
       ]
     },
@@ -3109,166 +3269,6 @@
       "partidos": [
         "pp",
         "vox"
-      ]
-    },
-    {
-      "titulo": "El PSOE se aferra a la España periférica para reducir la ventaja de PP y Vox",
-      "medio": "El País",
-      "url": "https://elpais.com/espana/elecciones-generales/2026-10-14/el-psoe-se-aferra-a-la-espana-periferica-para-reducir-la-ventaja-de-pp-y-vox.html",
-      "fecha": "2026-10-14T03:30+00:00",
-      "partidos": [
-        "pp",
-        "psoe",
-        "vox"
-      ]
-    },
-    {
-      "titulo": "El PSPV aclara sus listas, Compromís encalla en la negociación y PP y Vox miran a Madrid",
-      "medio": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/local/valencia/20261014/11657871/pspv-aclara-listas-compromis-encalla-negociacion-pp-vox-miran-madrid.html",
-      "fecha": "2026-10-14T03:30+00:00",
-      "partidos": [
-        "pp",
-        "vox"
-      ]
-    },
-    {
-      "titulo": "El primer presupuesto de PP y Vox en CyL: rebaja del IRPF, 36 nuevas bonificaciones y un 50% más para vivienda",
-      "medio": "El Confidencial",
-      "url": "https://www.elconfidencial.com/espana/castilla-y-leon/2026-10-14/presupuesto-pp-vox-rebaja-irpf-bonificaciones_4444073/",
-      "fecha": "2026-10-14T03:00+00:00",
-      "partidos": [
-        "pp",
-        "vox"
-      ]
-    },
-    {
-      "titulo": "Un concejal del PP de Valencia participó en la Junta que amplió las plazas de la oposición a la que aspiran sus hijos",
-      "medio": "El Confidencial",
-      "url": "https://www.elconfidencial.com/espana/comunidad-valenciana/2026-10-14/concejal-pp-valencia-plazas-oposicion-letrados-hijos_4443888/",
-      "fecha": "2026-10-14T03:00+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "La negativa de Podemos a integrarse en Frente Amplio condiciona la posible unión a acuerdos en circunscripciones concretas",
-      "medio": "20minutos",
-      "url": "https://www.20minutos.es/nacional/negativa-podemos-integrarse-frente-amplio-condiciona-posible-union-acuerdos-circunscripciones-concretas_7048279_0.html",
-      "fecha": "2026-10-14T03:00+00:00",
-      "partidos": [
-        "sumar",
-        "podemos"
-      ]
-    },
-    {
-      "titulo": "El PSOE se lanza a la estrategia del voto útil ante la falta de acuerdos a su izquierda",
-      "medio": "20minutos",
-      "url": "https://www.20minutos.es/nacional/psoe-se-lanza-estrategia-voto-util-ante-falta-acuerdos-su-izquierda_7048321_0.html",
-      "fecha": "2026-10-14T03:00+00:00",
-      "partidos": [
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "ERC se venga de Colau por robarle la Alcaldía de Barcelona y ganarle en las generales: Podemos podría aportarle 125.000 votos",
-      "medio": "El Mundo",
-      "url": "https://www.elmundo.es/cataluna/2026/10/14/6ace6ac4e9cf4a766c8b45b1.html",
-      "fecha": "2026-10-13T23:51+00:00",
-      "partidos": [
-        "erc"
-      ]
-    },
-    {
-      "titulo": "El entorno del PSOE anima a nietos nacionalizados a recurrir la decisión del Supremo: «Os ayudaremos con lo que sea»",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/entorno-psoe-anima-nietos-nacionalizados-recurrir-decision-20261014012325-nt.html",
-      "fecha": "2026-10-13T23:23+00:00",
-      "partidos": [
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "Tudanca se impone entre las agrupaciones del PSOE de Burgos para ser el cabeza de lista al Senado",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/castilla-leon/tudanca-impone-agrupaciones-psoe-burgos-cabeza-lista-20261013001314-nt.html",
-      "fecha": "2026-10-13T22:13+00:00",
-      "partidos": [
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "¿Tres izquierdas en Valencia? Compromís lleva al límite la negociación con Podemos e Izquierda Unida",
-      "medio": "El Mundo",
-      "url": "https://www.elmundo.es/comunidad-valenciana/2026/10/14/6ace70c3e85ece01258b459e.html",
-      "fecha": "2026-10-13T22:04+00:00",
-      "partidos": [
-        "podemos"
-      ]
-    },
-    {
-      "titulo": "Pardo de Vera, ex secretaria de Estado de Transportes: \"Cargos del Gobierno me propusieron colocar a gente afín al PSOE en la cúpula de Adif\"",
-      "medio": "El Mundo",
-      "url": "https://www.elmundo.es/espana/2026/10/13/6ace6df121efa06c418b458a.html",
-      "fecha": "2026-10-13T21:02+00:00",
-      "partidos": [
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "La negociación entre Podemos y el Frente Amplio encalla y apunta a una resolución el viernes en el último minuto",
-      "medio": "elDiario.es",
-      "url": "https://www.eldiario.es/politica/negociacion-frente-amplio-encalla-apunta-resolucion-viernes-ultimo-minuto_1_13583015.html",
-      "fecha": "2026-10-13T20:57+00:00",
-      "partidos": [
-        "sumar",
-        "podemos"
-      ]
-    },
-    {
-      "titulo": "El PP valenciano y Vox validan ‘prioridad nacional’ en vivienda por arraigo de 10 años pese a que la UE solo permite cinco",
-      "medio": "elDiario.es",
-      "url": "https://www.eldiario.es/comunitat-valenciana/politica/pp-valenciano-vox-validan-prioridad-nacional-vivienda-arraigo-10-anos-pese-ue-permite-cinco_1_13581613.html",
-      "fecha": "2026-10-13T20:57+00:00",
-      "partidos": [
-        "pp",
-        "vox"
-      ]
-    },
-    {
-      "titulo": "Landaluce, el alcalde “referente” del PP acusado de acoso sexual: “Llevo 42 años militando y me exigen que me vaya”",
-      "medio": "elDiario.es",
-      "url": "https://www.eldiario.es/andalucia/cadiz/landaluce-alcalde-referente-pp-acusado-acoso-sexual-llevo-42-anos-militando-exigen_1_13583067.html",
-      "fecha": "2026-10-13T20:57+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "PP y la devastación de la democracia",
-      "medio": "elDiario.es",
-      "url": "https://www.eldiario.es/opinion/zona-critica/pp-devastacion-democracia_129_13582445.html",
-      "fecha": "2026-10-13T20:57+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "El patriota Abascal",
-      "medio": "elDiario.es",
-      "url": "https://www.eldiario.es/opinion/zona-critica/patriota-abascal_129_13582412.html",
-      "fecha": "2026-10-13T20:57+00:00",
-      "partidos": [
-        "vox"
-      ]
-    },
-    {
-      "titulo": "La operación inmobiliaria bajo sospecha con la que un concejal del PP quiso salvar a su hermana de los acreedores",
-      "medio": "elDiario.es",
-      "url": "https://www.eldiario.es/illes-balears/politica/operacion-inmobiliaria-sospecha-concejal-pp-quiso-salvar-hermana-acreedores_1_13581758.html",
-      "fecha": "2026-10-13T20:57+00:00",
-      "partidos": [
-        "pp"
       ]
     }
   ],
