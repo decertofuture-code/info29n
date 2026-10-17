@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-16T21:26+00:00",
+  "actualizado": "2026-10-17T05:14+00:00",
   "temas": [
     {
       "id": "vivienda",
@@ -449,6 +449,154 @@
   ],
   "noticias": [
     {
+      "titulo": "Tres años de PP y Vox en Balears: rebajas de impuestos a ricos, derogación de la ley de memoria y fracaso contra el catalán",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/illes-balears/politica/tres-anos-pp-vox-balears-rebajas-impuestos-ricos-derogacion-ley-memoria-fracaso-catalan_1_13592176.html",
+      "fecha": "2026-10-17T04:02+00:00",
+      "partidos": [
+        "pp",
+        "vox"
+      ]
+    },
+    {
+      "titulo": "Encuestas elecciones generales del 29N en Canarias: resultados de PSOE, PP, VOX y Coalición Canaria y ganador según los sondeos",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/canarias/encuestas-elecciones-generales-29n-canarias-resultados-psoe-20261017051500-nt.html",
+      "fecha": "2026-10-17T03:15+00:00",
+      "partidos": [
+        "pp",
+        "psoe",
+        "cc"
+      ]
+    },
+    {
+      "titulo": "Feijóo se prepara para ver \"las calles arder\" si el PP llega a Moncloa y pone ya distancia con los sindicatos",
+      "medio": "El Confidencial",
+      "url": "https://www.elconfidencial.com/espana/2026-10-17/huelga-general-feijoo-pp-moncloa-distancia-sindicatos_4446011/",
+      "fecha": "2026-10-17T03:00+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "Adiós a la quimera de la unidad: Podemos y los herederos de Sumar irán separados salvo en Valencia y Canarias",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/pacto-pacto-izquierdas-enfoque-abierto-20261017000246-nt.html",
+      "fecha": "2026-10-16T23:44+00:00",
+      "partidos": [
+        "sumar"
+      ]
+    },
+    {
+      "titulo": "PSOE y la izquierda pactan una lista conjunta en el Senado para arrebatar su control al PP",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/psoe-izquierda-pactan-lista-conjunta-senado-29n-20261017002611-nt.html",
+      "fecha": "2026-10-16T23:26+00:00",
+      "partidos": [
+        "pp",
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "Recortes, desregulación y prioridad nacional: las medidas de Vox en las comunidades anticipan sus planes si llega al Gobierno",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/politica/recortes-desregulacion-prioridad-nacional-medidas-vox-comunidades-anticipan-planes-si-llega-gobierno_1_13552492.html",
+      "fecha": "2026-10-16T22:28+00:00",
+      "partidos": [
+        "vox"
+      ]
+    },
+    {
+      "titulo": "¿Qué haría el PP con la Seguridad Social?",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/opinion/tribuna-abierta/haria-pp-seguridad-social_129_13591553.html",
+      "fecha": "2026-10-16T22:28+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "El PSOE y Frente Amplio presentan listas conjuntas al Senado el 29-N para disputar la mayoría al PP",
+      "medio": "20minutos",
+      "url": "https://www.20minutos.es/nacional/psoe-frente-amplio-presentan-listas-conjuntas-senado-29-n-todas-las-provincias-salvo-cataluna-canarias_7049910_0.html",
+      "fecha": "2026-10-16T22:21+00:00",
+      "partidos": [
+        "pp",
+        "psoe",
+        "sumar"
+      ]
+    },
+    {
+      "titulo": "El PSOE y el Frente Amplio pactan una candidatura única para el Senado",
+      "medio": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/politica/20261017/11661132/psoe-frente-amplio-pactan-acuerdo-listas-conjuntas-senado.html",
+      "fecha": "2026-10-16T22:13+00:00",
+      "partidos": [
+        "psoe",
+        "sumar"
+      ]
+    },
+    {
+      "titulo": "Frente Amplio y Podemos consuman su choque al naufragar el intento de lograr un pacto global de unidad",
+      "medio": "Europa Press",
+      "url": "https://www.europapress.es/nacional/noticia-frente-amplio-podemos-consuman-fractura-no-llegar-acuerdo-global-coaliciones-29n-20261017000800.html",
+      "fecha": "2026-10-16T22:08+00:00",
+      "partidos": [
+        "sumar",
+        "podemos"
+      ]
+    },
+    {
+      "titulo": "La izquierda fracasa en su búsqueda de la unidad: Frente Amplio y Podemos solo irán juntos en Canarias y Comunidad Valenciana",
+      "medio": "20minutos",
+      "url": "https://www.20minutos.es/nacional/izquierda-fracasa-su-busqueda-unidad-frente-amplio-podemos-solo-iran-juntos-canarias-comunidad-valenciana_7049889_0.html",
+      "fecha": "2026-10-16T22:02+00:00",
+      "partidos": [
+        "sumar",
+        "podemos"
+      ]
+    },
+    {
+      "titulo": "Frente Amplio y Podemos fracasan en las negociaciones y solo irán juntos en Canarias y la Comunitat Valenciana",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/politica/frente-amplio-fracasan-negociaciones-iran-canarias-comunitat-valenciana_1_13592471.html",
+      "fecha": "2026-10-16T21:58+00:00",
+      "partidos": [
+        "sumar",
+        "podemos"
+      ]
+    },
+    {
+      "titulo": "Histórico acuerdo de la izquierda para el Senado: PSOE y Frente Amplio pactan una lista única para desafiar la mayoría del PP",
+      "medio": "El Mundo",
+      "url": "https://www.elmundo.es/espana/2026/10/16/6ad23f39e85eced3738b45a2.html",
+      "fecha": "2026-10-16T21:55+00:00",
+      "partidos": [
+        "pp",
+        "psoe",
+        "sumar"
+      ]
+    },
+    {
+      "titulo": "El PSOE y Frente Amplio llegan a un acuerdo para presentar listas conjuntas al Senado",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/politica/psoe-frente-amplio-llegan-acuerdo-presentar-listas-conjuntas-senado_1_13583230.html",
+      "fecha": "2026-10-16T21:51+00:00",
+      "partidos": [
+        "psoe",
+        "sumar"
+      ]
+    },
+    {
+      "titulo": "Dirigentes del PSOE agradecen y muestran su admiración a Montse Mínguez tras su dimisión: \"Gracias por tanto\"",
+      "medio": "20minutos",
+      "url": "https://www.20minutos.es/nacional/dirigentes-psoe-agradecen-muestran-admiracion-montse-minguez-dimision-gracias-tanto_7049909_0.html",
+      "fecha": "2026-10-16T21:48+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
       "titulo": "Podemos rechaza la oferta 'in extremis' del Frente Amplio para un pacto estatal e insiste en acordar en 11 comunidades",
       "medio": "elDiario.es",
       "url": "https://www.eldiario.es/politica/rechaza-oferta-in-extremis-frente-amplio-pacto-estatal-e-insiste-acordar-11-comunidades_1_13593145.html",
@@ -542,6 +690,16 @@
       ]
     },
     {
+      "titulo": "Hay un riesgo para las pensiones: un gobierno PP-Vox",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/opinion/zona-critica/hay-riesgo-pensiones-gobierno-pp-vox_129_13592312.html",
+      "fecha": "2026-10-16T18:47+00:00",
+      "partidos": [
+        "pp",
+        "vox"
+      ]
+    },
+    {
       "titulo": "Las izquierdas se agrupan en 'Frente Amplio Por Andalucía' sin Podemos ni Adelante",
       "medio": "ABC",
       "url": "https://www.abc.es/espana/andalucia/izquierdas-radicales-agrupan-frente-amplio-andalucia-podemos-20261016203321-nts.html",
@@ -558,6 +716,16 @@
       "fecha": "2026-10-16T18:04+00:00",
       "partidos": [
         "pp"
+      ]
+    },
+    {
+      "titulo": "Las apuestas de los 3 grandes en campaña: 32 veces \"España\" de Abascal, dos \"Maricarmen\" de Sánchez y Feijóo hace tridente de \"orden, seguridad y prosperidad\"",
+      "medio": "El Mundo",
+      "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/10/16/6ad24174e4d4d8f95a8b45a2.html",
+      "fecha": "2026-10-16T17:36+00:00",
+      "partidos": [
+        "pp",
+        "vox"
       ]
     },
     {
@@ -3101,166 +3269,6 @@
       "fecha": "2026-10-13T20:57+00:00",
       "partidos": [
         "pp"
-      ]
-    },
-    {
-      "titulo": "Sin Estatuto y sin avances: PP y Vox vuelven a dejar en el aire los derechos de las mujeres rurales en Aragón",
-      "medio": "elDiario.es",
-      "url": "https://www.eldiario.es/aragon/politica/estatuto-avances-pp-vox-vuelven-aire-derechos-mujeres-rurales-aragon_1_13582312.html",
-      "fecha": "2026-10-13T20:57+00:00",
-      "partidos": [
-        "pp",
-        "vox"
-      ]
-    },
-    {
-      "titulo": "Núñez llama a convertir el «enfado» con Sánchez en votos para llevar a Feijóo a Moncloa",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/castilla-la-mancha/nunez-llama-convertir-enfado-sanchez-votos-llevar-20261013213633-nt.html",
-      "fecha": "2026-10-13T19:36+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "12 de los 15 concejales del PP de Algeciras abandonan el gobierno de Landaluce y barajan presentar una moción de censura junto a Vox",
-      "medio": "El Mundo",
-      "url": "https://www.elmundo.es/andalucia/2026/10/13/6ace42e921efa0b74f8b4593.html",
-      "fecha": "2026-10-13T19:16+00:00",
-      "partidos": [
-        "pp",
-        "vox"
-      ]
-    },
-    {
-      "titulo": "Feijóo critica a Sánchez por haber dejado al rey \"solo\" en una visita histórica a Ceuta",
-      "medio": "El Confidencial",
-      "url": "https://www.elconfidencial.com/espana/2026-10-13/feijoo-sanchez-reyes-ceuta-1tps_4444296/",
-      "fecha": "2026-10-13T19:11+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Frente Amplio acuerda que Emilio Delgado sea cabeza de lista por Madrid",
-      "medio": "20minutos",
-      "url": "https://www.20minutos.es/nacional/frente-amplio-acuerda-que-emilio-delgado-sea-cabeza-lista-por-madrid_7048383_0.html",
-      "fecha": "2026-10-13T18:43+00:00",
-      "partidos": [
-        "sumar"
-      ]
-    },
-    {
-      "titulo": "El Frente Amplio acuerda que Emilio Delgado (Más Madrid) lidere la lista por Madrid",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/frente-amplio-acuerda-emilio-delgado-madrid-lidere-20261013203944-nt.html",
-      "fecha": "2026-10-13T18:39+00:00",
-      "partidos": [
-        "sumar"
-      ]
-    },
-    {
-      "titulo": "Feijóo eleva el tono: «Señor Sánchez: ¿dónde está el oro de Maduro? ¿Cuántas cajas fuertes hay como la de Zapatero?»",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/aragon/feijoo-eleva-tono-senor-sanchez-oro-maduro-20261013194551-nt.html",
-      "fecha": "2026-10-13T18:32+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Los partidos del Frente Amplio pactan que Emilio Delgado encabece Madrid y eso aboca a Ada Colau a ir por Barcelona",
-      "medio": "El Mundo",
-      "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/10/13/6ace73e9e9cf4a207c8b45a1.html",
-      "fecha": "2026-10-13T18:31+00:00",
-      "partidos": [
-        "sumar"
-      ]
-    },
-    {
-      "titulo": "El PSOE acusa a Núñez de estar «poco preparado para la política» y le pide que estudie más",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/castilla-la-mancha/toledo/psoe-acusa-nunez-estar-poco-preparado-politica-20261013201807-nt.html",
-      "fecha": "2026-10-13T18:18+00:00",
-      "partidos": [
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "El PP de Córdoba empieza a perfilar sus listas para el 29-N con la aspiración del tercer escaño",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/andalucia/cordoba/pp-cordoba-empieza-perfilar-listas-29n-aspiracion-20261013201259-nts.html",
-      "fecha": "2026-10-13T18:12+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Feijóo ensalza la figura de Felipe VI y asegura que él \"no le habría dejado solo en Ceuta\" si fuera presidente del Gobierno",
-      "medio": "El Mundo",
-      "url": "https://www.elmundo.es/espana/2026/10/13/6ace668321efa0e8618b458e.html",
-      "fecha": "2026-10-13T18:02+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "El Frente Amplio confirma a Emilio Delgado como número uno en la candidatura por Madrid",
-      "medio": "elDiario.es",
-      "url": "https://www.eldiario.es/politica/frente-amplio-confirma-emilio-delgado-numero-1-madrid_1_13583221.html",
-      "fecha": "2026-10-13T17:55+00:00",
-      "partidos": [
-        "sumar"
-      ]
-    },
-    {
-      "titulo": "El PSOE acepta retirar los cuadros de presidentes franquistas del Congreso, tras años de peticiones",
-      "medio": "El Mundo",
-      "url": "https://www.elmundo.es/espana/2026/10/13/6ace698efc6c8393708b459f.html",
-      "fecha": "2026-10-13T17:28+00:00",
-      "partidos": [
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "PP y Vox alumbran un presupuesto de 16.472 millones con «vocación» de completar la legislatura",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/castilla-leon/presupuestos-castilla-leon-elevan-1311-alcanzan-cifra-20261013125715-nt.html",
-      "fecha": "2026-10-13T16:51+00:00",
-      "partidos": [
-        "pp",
-        "vox"
-      ]
-    },
-    {
-      "titulo": "\"¡Pedro Sánchez, a la mierda!\": una concejala del PP de Torre Pacheco increpa a los manifestantes de Sol",
-      "medio": "elDiario.es",
-      "url": "https://www.eldiario.es/murcia/politica/pedro-sanchez-mierda-concejala-pp-torre-pacheco-increpa-manifestantes-sol_1_13582912.html",
-      "fecha": "2026-10-13T16:38+00:00",
-      "partidos": [
-        "pp",
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "PP y Vox dan carpetazo al debate sobre la saturación turística en Balears pese a las protestas y el récord de visitantes",
-      "medio": "elDiario.es",
-      "url": "https://www.eldiario.es/illes-balears/politica/pp-vox-bloquean-debate-saturacion-turistica-balears-pese-protestas-record-visitantes_1_13582800.html",
-      "fecha": "2026-10-13T16:09+00:00",
-      "partidos": [
-        "pp",
-        "vox"
-      ]
-    },
-    {
-      "titulo": "Colau ve \"un honor\" que Frente Amplio la proponga como líder, pero insiste en la unidad con Podemos y tiende la mano a ERC",
-      "medio": "20minutos",
-      "url": "https://www.20minutos.es/nacional/colau-ve-un-honor-que-frente-amplio-proponga-como-lider-pero-insiste-unidad-con-podemos-tiende-mano-erc_7048310_0.html",
-      "fecha": "2026-10-13T16:05+00:00",
-      "partidos": [
-        "sumar",
-        "erc",
-        "podemos"
       ]
     }
   ],
