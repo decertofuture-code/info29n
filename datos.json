@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-17T13:28+00:00",
+  "actualizado": "2026-10-17T17:22+00:00",
   "temas": [
     {
       "id": "vivienda",
@@ -448,6 +448,72 @@
     }
   ],
   "noticias": [
+    {
+      "titulo": "El beso de Sánchez y Begoña Gómez acaba en un cruce de mensajes entre PSOE y PP: del \"tú eliges\" de Bolaños a un montaje con Ábalos",
+      "medio": "20minutos",
+      "url": "https://www.20minutos.es/nacional/beso-sanchez-begona-gomez-acaba-un-cruce-mensajes-entre-psoe-pp-tu-eliges-bolanos-un-montaje-con-abalos_7050042_0.html",
+      "fecha": "2026-10-17T17:02+00:00",
+      "partidos": [
+        "pp",
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "PP y Vox se disputan en Cataluña el voto de Aliança en las generales",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/pp-vox-disputan-cataluna-voto-alianca-catalana-20261018165803-nt.html",
+      "fecha": "2026-10-17T16:13+00:00",
+      "partidos": [
+        "pp",
+        "vox"
+      ]
+    },
+    {
+      "titulo": "El PP valenciano inicia la precampaña del 29N con la vivienda como eje y críticas a Sánchez",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/comunidad-valenciana/pp-valenciano-inicia-precampana-29n-vivienda-eje-20261017175435-nt.html",
+      "fecha": "2026-10-17T16:02+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "De la Rosa: «La mano derecha de Page saca pecho de haber sostenido al PSOE de Koldo y Ábalos»",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/castilla-la-mancha/rosa-mano-derecha-page-saca-pecho-haber-20261017171344-nt.html",
+      "fecha": "2026-10-17T15:13+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "Albiol refuerza al PP en Barcelona para taponar el ascenso de Vox",
+      "medio": "El Mundo",
+      "url": "https://www.elmundo.es/espana/2026/10/17/6ad38816e85ecef0198b45b1.html",
+      "fecha": "2026-10-17T14:40+00:00",
+      "partidos": [
+        "pp",
+        "vox"
+      ]
+    },
+    {
+      "titulo": "Vox pide una movilización masiva y advierte de que \"lo peor de Sánchez está por llegar\"",
+      "medio": "20minutos",
+      "url": "https://www.20minutos.es/nacional/vox-pide-una-movilizacion-masiva-advierte-que-peor-sanchez-esta-por-llegar_7050001_0.html",
+      "fecha": "2026-10-17T14:04+00:00",
+      "partidos": [
+        "vox"
+      ]
+    },
+    {
+      "titulo": "El PP confirma que Albiol encabezará la lista del PP en Barcelona en las elecciones del 29-N",
+      "medio": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/politica/20261017/11661468/pp-confirma-albiol-encabezara-lista-pp-barcelona-elecciones-29-n.html",
+      "fecha": "2026-10-17T13:59+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
     {
       "titulo": "Feijóo se compromete a garantizar el voto \"accesible y secreto\" de las personas con discapacidad visual en todas las elecciones",
       "medio": "20minutos",
@@ -952,6 +1018,15 @@
       "partidos": [
         "sumar",
         "podemos"
+      ]
+    },
+    {
+      "titulo": "138 resoluciones judiciales prueban que un diputado del PSOE hizo fortuna al servicio de los \"rentistas\"",
+      "medio": "El Mundo",
+      "url": "https://www.elmundo.es/murcia/2026/10/16/6ad1d299e4d4d897598b459e.html",
+      "fecha": "2026-10-16T22:58+00:00",
+      "partidos": [
+        "psoe"
       ]
     },
     {
@@ -3194,85 +3269,6 @@
       "fecha": "2026-10-14T11:25+00:00",
       "partidos": [
         "pp"
-      ]
-    },
-    {
-      "titulo": "Feijóo exige a Sánchez que dé explicaciones en el Congreso sobre la intrusión de buques de guerra marroquíes en aguas de Ceuta",
-      "medio": "20minutos",
-      "url": "https://www.20minutos.es/nacional/feijoo-exige-sanchez-que-explicaciones-congreso-sobre-intrusion-buques-guerra-marroquies-aguas-ceuta_7048639_0.html",
-      "fecha": "2026-10-14T11:08+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Feijóo lleva a Europa y a la Audiencia Nacional la entrada de buques marroquíes en aguas españolas",
-      "medio": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/politica/20261014/11658754/feijoo-lleva-europa-audiencia-nacional-entrada-buques-marroquies-aguas-espanolas.html",
-      "fecha": "2026-10-14T10:49+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Frente Amplio lanza su logo y perfiles en redes pese a la propuesta de Colau, que se abría a cambiar la marca y atraer a Podemos",
-      "medio": "20minutos",
-      "url": "https://www.20minutos.es/nacional/frente-amplio-lanza-su-logo-perfiles-redes-pese-propuesta-colau-que-se-abria-cambiar-marca-atraer-podemos_7048574_0.html",
-      "fecha": "2026-10-14T10:47+00:00",
-      "partidos": [
-        "sumar",
-        "podemos"
-      ]
-    },
-    {
-      "titulo": "El PP no se opondrá un debate a cinco en Atresmedia que incluya a los candidatos de Frente Amplio y de Podemos",
-      "medio": "Europa Press",
-      "url": "https://www.europapress.es/nacional/noticia-pp-no-opondra-debate-cinco-atresmedia-incluya-candidatos-frente-amplio-podemos-20261014124719.html",
-      "fecha": "2026-10-14T10:47+00:00",
-      "partidos": [
-        "pp",
-        "sumar",
-        "podemos"
-      ]
-    },
-    {
-      "titulo": "El PSOE sube tres puntos en el CIS tras el desahucio de Maricarmen y duplica su ventaja sobre el PP, que marca mínimos",
-      "medio": "Europa Press",
-      "url": "https://www.europapress.es/nacional/noticia-psoe-sube-35-puntos-cis-desahucio-maricarmen-mantiene-53-puntos-pp-tambien-crece-20261014124243.html",
-      "fecha": "2026-10-14T10:42+00:00",
-      "partidos": [
-        "pp",
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "El CIS sitúa al PSOE a 12 puntos de ventaja del PP en unas elecciones, en plena crisis de la vivienda",
-      "medio": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/politica/20261014/11658735/cis-situa-psoe-12-puntos-ventaja-pp-plena-crisis-vivienda.html",
-      "fecha": "2026-10-14T10:37+00:00",
-      "partidos": [
-        "pp",
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "El CIS de Tezanos dispara al PSOE y Vox tras los decretos de vivienda y el adelanto electoral mientras sitúa al PP en mínimos",
-      "medio": "20minutos",
-      "url": "https://www.20minutos.es/nacional/cis-tezanos-dispara-psoe-vox-tras-los-decretos-vivienda-adelanto-electoral-mientras-situa-pp-minimos_7048629_0.html",
-      "fecha": "2026-10-14T10:37+00:00",
-      "partidos": [
-        "pp",
-        "psoe",
-        "vox"
-      ]
-    },
-    {
-      "titulo": "Sánchez encaja a sus ministros en las listas del PSOE, salvo los que van a comicios autonómicos",
-      "medio": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/politica/20261014/11658732/sanchez-encaja-ministros-listas-psoe-salvo-comicios-autonomicos.html",
-      "fecha": "2026-10-14T10:29+00:00",
-      "partidos": [
-        "psoe"
       ]
     }
   ],
