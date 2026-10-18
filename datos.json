@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-17T21:23+00:00",
+  "actualizado": "2026-10-18T05:15+00:00",
   "temas": [
     {
       "id": "vivienda",
@@ -449,12 +449,97 @@
   ],
   "noticias": [
     {
+      "titulo": "Puigdemont deja vía libre para buscar jefe de la oposición en el Parlament",
+      "medio": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/politica/20261018/11661598/puigdemont-deja-libre-buscar-jefe-oposicion-parlament.html",
+      "fecha": "2026-10-18T04:00+00:00",
+      "partidos": [
+        "junts"
+      ]
+    },
+    {
+      "titulo": "Aitor Esteban: “Nadie ha demostrado más con hechos que no queremos a Vox”",
+      "medio": "El País",
+      "url": "https://elpais.com/espana/elecciones-generales/2026-10-18/aitor-esteban-nadie-ha-demostrado-mas-con-hechos-que-no-queremos-a-vox.html",
+      "fecha": "2026-10-18T03:30+00:00",
+      "partidos": [
+        "vox"
+      ]
+    },
+    {
+      "titulo": "Encuestas elecciones generales del 29N en Cataluña: resultados de PSC, ERC, PP y Vox y ganador según el CEO",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/cataluna/encuestas-elecciones-generales-29n-cataluna-resultados-psc-20261018215550-nt.html",
+      "fecha": "2026-10-18T03:30+00:00",
+      "partidos": [
+        "pp",
+        "vox",
+        "erc"
+      ]
+    },
+    {
+      "titulo": "\"Pacto de no agresión\" de Feijóo y Abascal con la mirada en el Senado",
+      "medio": "El Mundo",
+      "url": "https://www.elmundo.es/espana/2026/10/18/6ad3a436fdddfffb408b459c.html",
+      "fecha": "2026-10-17T23:25+00:00",
+      "partidos": [
+        "pp",
+        "vox"
+      ]
+    },
+    {
+      "titulo": "La desunión de la izquierda anima al equipo de Sánchez: \"El voto útil vendrá al PSOE de forma natural\"",
+      "medio": "El Mundo",
+      "url": "https://www.elmundo.es/espana/2026/10/18/6ad39ef7e4d4d80d4b8b456d.html",
+      "fecha": "2026-10-17T22:07+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
       "titulo": "Bellido, «satisfecho» con el acuerdo con Ferraz tras los cambios en las listas de Guadalajara",
       "medio": "ABC",
       "url": "https://www.abc.es/espana/castilla-la-mancha/bellido-satisfecho-acuerdo-ferraz-tras-cambios-listas-20261017210626-nt.html",
       "fecha": "2026-10-17T20:23+00:00",
       "partidos": [
         "psoe"
+      ]
+    },
+    {
+      "titulo": "El Frente Amplio y Podemos intentan zanjar el debate de las siglas y llaman a “frenar al fascismo”",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/politica/frente-amplio-zanjar-debate-siglas-llaman-frenar-fascismo_1_13594075.html",
+      "fecha": "2026-10-17T20:11+00:00",
+      "partidos": [
+        "sumar",
+        "podemos"
+      ]
+    },
+    {
+      "titulo": "ERC y Comuns, historia de dos vecinos que no se pueden ni ver",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/catalunya/erc-comuns-historia-vecinos-no-ver_129_13587165.html",
+      "fecha": "2026-10-17T20:11+00:00",
+      "partidos": [
+        "erc"
+      ]
+    },
+    {
+      "titulo": "Sánchez pone al PSOE a bailar al ritmo de Begoña Gómez para voltear la campaña",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/politica/sanchez-pone-psoe-bailar-ritmo-begona-gomez-voltear-campana_1_13594220.html",
+      "fecha": "2026-10-17T20:11+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "El PP arranca con tropiezos la precampaña hacia las elecciones del 29N",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/politica/pp-arranca-tropiezos-precampana-elecciones-29n_1_13592479.html",
+      "fecha": "2026-10-17T20:11+00:00",
+      "partidos": [
+        "pp"
       ]
     },
     {
@@ -510,6 +595,16 @@
       "medio": "El Mundo",
       "url": "https://www.elmundo.es/espana/2026/10/17/6ad38816e85ecef0198b45b1.html",
       "fecha": "2026-10-17T14:40+00:00",
+      "partidos": [
+        "pp",
+        "vox"
+      ]
+    },
+    {
+      "titulo": "El PP elige a Albiol para competir contra Vox en Barcelona",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/catalunya/pp-elige-albiol-competir-vox-barcelona_1_13594147.html",
+      "fecha": "2026-10-17T14:37+00:00",
       "partidos": [
         "pp",
         "vox"
@@ -3177,98 +3272,6 @@
       "fecha": "2026-10-14T12:40+00:00",
       "partidos": [
         "psoe"
-      ]
-    },
-    {
-      "titulo": "Abascal cree que habrá «violencia» contra Vox en la campaña y pide el voto a los «verdaderos españoles expatriados»",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/abascal-cree-violencia-vox-campana-pide-voto-20261014140318-nt.html",
-      "fecha": "2026-10-14T12:33+00:00",
-      "partidos": [
-        "vox"
-      ]
-    },
-    {
-      "titulo": "Abascal reúne a su cúpula mirando a las elecciones: insta a sus cuadros a salir con \"ambición de convencer a la mayoría\"",
-      "medio": "El Mundo",
-      "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/10/14/6acf6713e85ece0f4a8b457b.html",
-      "fecha": "2026-10-14T12:31+00:00",
-      "partidos": [
-        "vox"
-      ]
-    },
-    {
-      "titulo": "Los vocales progresistas del CGPJ se niegan a firmar un comunicado de apoyo a la juez Biedma, objetivo de las cloacas del PSOE",
-      "medio": "El Mundo",
-      "url": "https://www.elmundo.es/espana/2026/10/14/6acf4b17e9cf4ad8248b459d.html",
-      "fecha": "2026-10-14T12:31+00:00",
-      "partidos": [
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "Hacemos Córdoba empieza el tetris de su lista: el edil Iván Fernández gana las primarias de Podemos",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/andalucia/cordoba/hacemos-cordoba-empieza-tetris-lista-edil-ivan-20261014125212-nts.html",
-      "fecha": "2026-10-14T12:26+00:00",
-      "partidos": [
-        "podemos"
-      ]
-    },
-    {
-      "titulo": "Feijóo exige que Sánchez comparezca en el Congreso por los buques marroquíes en Ceuta y lo lleva a la Audiencia Nacional",
-      "medio": "Europa Press",
-      "url": "https://www.europapress.es/nacional/noticia-feijoo-exige-sanchez-comparezca-congreso-buques-marroquies-ceuta-lleva-audiencia-nacional-20261014141652.html",
-      "fecha": "2026-10-14T12:16+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "El Gobierno alerta: PP y Vox ponen “en riesgo” la democracia al instigar la suspensión “masiva” de votos",
-      "medio": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/politica/20261014/11658872/gobierno-alerta-pp-vox-ponen-riesgo-democracia-instigar-suspension-masiva-votos.html",
-      "fecha": "2026-10-14T12:12+00:00",
-      "partidos": [
-        "pp",
-        "vox"
-      ]
-    },
-    {
-      "titulo": "El Gobierno de PP y Vox recorta cuatro millones de euros para cooperación al desarrollo en Castilla y León",
-      "medio": "elDiario.es",
-      "url": "https://www.eldiario.es/castilla-y-leon/sociedad/vox-recorta-cuatro-millones-euros-cooperacion-desarrollo-castilla-leon_1_13584885.html",
-      "fecha": "2026-10-14T12:09+00:00",
-      "partidos": [
-        "pp",
-        "vox"
-      ]
-    },
-    {
-      "titulo": "El ministro Luis Planas renuncia a encabezar la lista del PSOE por Córdoba para las elecciones del 29-N",
-      "medio": "El Mundo",
-      "url": "https://www.elmundo.es/andalucia/2026/10/14/6acf4a47e4d4d8c4648b4580.html",
-      "fecha": "2026-10-14T11:47+00:00",
-      "partidos": [
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "Feijóo exige a Sánchez que dé explicaciones en el Congreso sobre la entrada de buques marroquíes en aguas españolas",
-      "medio": "El País",
-      "url": "https://elpais.com/espana/2026-10-14/feijoo-exige-a-sanchez-que-de-explicaciones-en-el-congreso-sobre-la-entrada-de-buques-marroquies-en-aguas-espanolas.html",
-      "fecha": "2026-10-14T11:45+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "La portavoz del PP Ester Muñoz asegura que “el sistema de pensiones va a colapsar” y pide cambiarlo",
-      "medio": "El País",
-      "url": "https://elpais.com/economia/2026-10-14/la-portavoz-del-pp-ester-munoz-asegura-que-el-sistema-de-pensiones-va-a-colapsar-y-pide-cambiarlo.html",
-      "fecha": "2026-10-14T11:38+00:00",
-      "partidos": [
-        "pp"
       ]
     }
   ],
