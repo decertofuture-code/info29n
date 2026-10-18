@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-18T09:24+00:00",
+  "actualizado": "2026-10-18T13:28+00:00",
   "temas": [
     {
       "id": "vivienda",
@@ -449,10 +449,122 @@
   ],
   "noticias": [
     {
+      "titulo": "El PP denuncia una \"maniobra deliberada\" de Exteriores para impedir \"por la vía de los hechos\" la suspensión de la 'ley de nietos'",
+      "medio": "El Mundo",
+      "url": "https://www.elmundo.es/espana/2026/10/18/6ad4c213fc6c83c1078b4575.html",
+      "fecha": "2026-10-18T12:57+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "El PSOE acusa a Feijóo de «traicionar» a Castilla-La Mancha con su Pacto Nacional del Agua",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/castilla-la-mancha/toledo/psoe-acusa-feijoo-traicionar-castillala-mancha-pacto-20261018133229-nt.html",
+      "fecha": "2026-10-18T12:18+00:00",
+      "partidos": [
+        "pp",
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "Feijóo pide \"impulsar\" el cambio desde Cataluña, feudo clave para el PP este 29N, y encarga a Albiol una ley antiokupación",
+      "medio": "20minutos",
+      "url": "https://www.20minutos.es/nacional/feijoo-pide-impulsar-cambio-desde-cataluna-feudo-clave-pp-29n-encarga-albiol-ley-antiokupacion_7050153_0.html",
+      "fecha": "2026-10-18T12:07+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "La exdiputada de Asturias Lucía Montejo abandona Podemos con críticas a la dirección: \"Calificarlo de circo es quedarse corto\"",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/asturias/exdiputada-asturias-lucia-montejo-abandona-criticas-direccion-calificarlo-circo-quedarse-corto_1_13595275.html",
+      "fecha": "2026-10-18T12:03+00:00",
+      "partidos": [
+        "podemos"
+      ]
+    },
+    {
+      "titulo": "Feijóo lanza a Albiol a por el voto conservador catalán: \"Que tenga cuidado el clan de Sánchez, que viene el PP\"",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/catalunya/feijoo-lanza-albiol-voto-conservador-catalan-tenga-cuidado-clan-sanchez-viene-pp_1_13595066.html",
+      "fecha": "2026-10-18T11:35+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "El PP acusa a Bellido de respaldar las listas del PSOE para mantener a Sánchez en el poder",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/castilla-la-mancha/pp-acusa-bellido-respaldar-listas-psoe-mantener-20261018121307-nt.html",
+      "fecha": "2026-10-18T11:31+00:00",
+      "partidos": [
+        "pp",
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "Feijóo encarga a Albiol una ley antiokupación y pone el foco en Cataluña para «impulsar» el cambio de Gobierno",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/cataluna/feijoo-encarga-albiol-ley-antiokupacion-pone-foco-20261018125206-nt.html",
+      "fecha": "2026-10-18T11:28+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "Trias receta a Junts ser “hábil” y hablar con PSOE y PP si beneficia a Catalunya",
+      "medio": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/politica/20261018/11661987/trias-receta-junts-habil-hablar-psoe-pp-beneficia-catalunya.html",
+      "fecha": "2026-10-18T10:56+00:00",
+      "partidos": [
+        "pp",
+        "psoe",
+        "junts"
+      ]
+    },
+    {
+      "titulo": "Feijóo promete una nueva ley antiocupaciones de la mano de Albiol tras las elecciones del 29-N",
+      "medio": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/politica/20261018/11661983/feijoo-promete-nueva-ley-antiocupaciones-mano-albiol-elecciones-29-n.html",
+      "fecha": "2026-10-18T10:55+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "Albert Rivera, sobre las elecciones del 29-N: \"No creo que sorprenda a nadie si digo que no voy a votar a Pedro Sánchez\"",
+      "medio": "El Confidencial",
+      "url": "https://www.elconfidencial.com/espana/2026-10-18/albert-rivera-elecciones-sorprenda-nadie-votar-pedro-sanchez_4447426/",
+      "fecha": "2026-10-18T10:39+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "Almeida se descarta como ministro de Feijóo y asegura que optará a la reelección como alcalde",
+      "medio": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/local/madrid/20261018/11661949/almeida-descarta-ministro-feijoo-asegura-optara-reeleccion-alcalde.html",
+      "fecha": "2026-10-18T09:21+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
       "titulo": "Feijóo y García Albiol participan en un acto del PP en Barcelona",
       "medio": "ABC",
       "url": "https://www.abc.es/espana/feijoo-garcia-albiol-participan-acto-pp-barcelona-20261018101223-nt.html",
       "fecha": "2026-10-18T09:08+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "La clave digital del 29N: Sánchez y Feijóo pugnan por rentabilizar las redes sociales",
+      "medio": "Europa Press",
+      "url": "https://www.europapress.es/nacional/noticia-clave-digital-29n-sanchez-feijoo-pugnan-rentabilizar-redes-sociales-20261018105448.html",
+      "fecha": "2026-10-18T08:54+00:00",
       "partidos": [
         "pp"
       ]
@@ -3159,117 +3271,6 @@
       "fecha": "2026-10-14T17:16+00:00",
       "partidos": [
         "junts"
-      ]
-    },
-    {
-      "titulo": "Sánchez carga contra Feijóo por las pensiones: “Si PP y Vox llegan al Gobierno firman la carta de defunción del Estado del bienestar”",
-      "medio": "El País",
-      "url": "https://elpais.com/espana/elecciones-generales/2026-10-14/sanchez-carga-contra-el-pp-por-las-pensiones-si-pp-y-vox-llegan-al-gobierno-firman-la-carta-de-defuncion-del-estado-del-bienestar.html",
-      "fecha": "2026-10-14T17:06+00:00",
-      "partidos": [
-        "pp",
-        "vox"
-      ]
-    },
-    {
-      "titulo": "El PP responde a Padilla: «O está acusando al Gobierno de Page de beneficiar a los fondos buitre o miente»",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/castilla-la-mancha/pp-acorrala-page-fondos-buitre-mantiene-2022-20261014180243-nt.html",
-      "fecha": "2026-10-14T17:04+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "El PP trata de zanjar el debate sobre las pensiones: promete pagarlas, subirlas \"y nada más\"",
-      "medio": "El Confidencial",
-      "url": "https://www.elconfidencial.com/espana/2026-10-14/el-pp-trata-de-zanjar-el-debate-sobre-el-sistema-de-pensiones-promete-subirlas_4444904/",
-      "fecha": "2026-10-14T17:04+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Sánchez sitúa Margarita Robles como número dos del PSOE en Madrid en unas listas plagadas de ministros",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/margarita-robles-numero-dos-psoe-listas-madrid-20261014174436-nt.html",
-      "fecha": "2026-10-14T17:02+00:00",
-      "partidos": [
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "Margarita Robles será la número dos de la lista del PSOE por Madrid tras Pedro Sánchez y por delante de Bolaños",
-      "medio": "El Confidencial",
-      "url": "https://www.elconfidencial.com/espana/2026-10-14/psoe-madrid-margarita-robles-elecciones-1tps_4445010/",
-      "fecha": "2026-10-14T16:50+00:00",
-      "partidos": [
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "Un cálculo alternativo de los resultados del CIS augura un empate técnico entre PP y PSOE con 119 y 116 diputados",
-      "medio": "elDiario.es",
-      "url": "https://www.eldiario.es/politica/calculo-alternativo-resultados-cis-augura-empate-tecnico-pp-psoe_1_13585700.html",
-      "fecha": "2026-10-14T16:40+00:00",
-      "partidos": [
-        "pp",
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "El diputado Alberto Mayoral, número uno de la lista del PSOE por Córdoba y la líder provincial, al Senado",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/andalucia/cordoba/diputado-alberto-mayoral-numero-lista-psoe-cordoba-20261014182244-nts.html",
-      "fecha": "2026-10-14T16:22+00:00",
-      "partidos": [
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "De Puigdemont a los delegados de la Generalitat: los 35 amnistiados por el Tribunal de Cuentas",
-      "medio": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/politica/20261014/11658877/puigdemont-delegados-generalitat-35-amnistiados-tribunal-cuentas.html",
-      "fecha": "2026-10-14T16:03+00:00",
-      "partidos": [
-        "junts"
-      ]
-    },
-    {
-      "titulo": "Sánchez aúpa a Robles a número dos del PSOE en Madrid por delante de Marlaska tras la crisis de Ceuta",
-      "medio": "El Mundo",
-      "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/10/14/6acfa004e85ece67338b45a6.html",
-      "fecha": "2026-10-14T15:35+00:00",
-      "partidos": [
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "Segunda denuncia de Junts ante la Junta Electoral por actos del gobierno Collboni",
-      "medio": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/local/barcelona/20261014/11659015/segunda-denuncia-junts-junta-electoral-actos-gobierno-collboni.html",
-      "fecha": "2026-10-14T15:34+00:00",
-      "partidos": [
-        "junts"
-      ]
-    },
-    {
-      "titulo": "Margarita Robles será la número dos de Sánchez en la lista del PSOE",
-      "medio": "20minutos",
-      "url": "https://www.20minutos.es/nacional/margarita-robles-sera-numero-dos-sanchez-lista-psoe_7048818_0.html",
-      "fecha": "2026-10-14T15:34+00:00",
-      "partidos": [
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "PP y Vox firman la moción de censura contra el alcalde de Algeciras, acusado de acoso sexual",
-      "medio": "elDiario.es",
-      "url": "https://www.eldiario.es/andalucia/cadiz/pp-vox-firman-mocion-censura-alcalde-algeciras-acusado-acoso-sexual_1_13585783.html",
-      "fecha": "2026-10-14T15:30+00:00",
-      "partidos": [
-        "pp",
-        "vox"
       ]
     }
   ],
