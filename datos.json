@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-18T05:15+00:00",
+  "actualizado": "2026-10-18T09:24+00:00",
   "temas": [
     {
       "id": "vivienda",
@@ -449,6 +449,42 @@
   ],
   "noticias": [
     {
+      "titulo": "Feijóo y García Albiol participan en un acto del PP en Barcelona",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/feijoo-garcia-albiol-participan-acto-pp-barcelona-20261018101223-nt.html",
+      "fecha": "2026-10-18T09:08+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "Abascal: \"Estoy muy preocupado por las elecciones. Sánchez usará a sus milicias, no van a ser limpias\"",
+      "medio": "Europa Press",
+      "url": "https://www.europapress.es/nacional/noticia-abascal-estoy-muy-preocupado-elecciones-sanchez-usara-milicias-no-van-ser-limpias-20261018102049.html",
+      "fecha": "2026-10-18T08:20+00:00",
+      "partidos": [
+        "vox"
+      ]
+    },
+    {
+      "titulo": "El PSOE diseña una campaña de fechas clave para explotar banderas de la izquierda, pero tropieza con sus contradicciones en vivienda",
+      "medio": "20minutos",
+      "url": "https://www.20minutos.es/nacional/psoe-disena-una-campana-fechas-clave-para-explotar-banderas-izquierda-pero-tropieza-con-sus-contradicciones-vivienda_7049827_0.html",
+      "fecha": "2026-10-18T05:52+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "Feijóo redobla su apuesta por Cataluña para hacerse con los escaños que le faltaron en 2023: \"Hay capacidad de crecer\"",
+      "medio": "20minutos",
+      "url": "https://www.20minutos.es/nacional/feijoo-redobla-su-apuesta-por-cataluna-para-hacerse-con-los-escanos-que-le-faltaron-2023-hay-capacidad-crecer_7049345_0.html",
+      "fecha": "2026-10-18T05:51+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
       "titulo": "Puigdemont deja vía libre para buscar jefe de la oposición en el Parlament",
       "medio": "La Vanguardia",
       "url": "https://www.lavanguardia.com/politica/20261018/11661598/puigdemont-deja-libre-buscar-jefe-oposicion-parlament.html",
@@ -475,6 +511,24 @@
         "pp",
         "vox",
         "erc"
+      ]
+    },
+    {
+      "titulo": "Feijóo, contra los fantasmas de 2023",
+      "medio": "El País",
+      "url": "https://elpais.com/espana/2026-10-18/feijoo-contra-los-fantasmas-de-2023.html",
+      "fecha": "2026-10-18T03:30+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "El todopoderoso alcalde que llevó al PP a una crisis anunciada en Algeciras",
+      "medio": "El País",
+      "url": "https://elpais.com/espana/2026-10-18/el-todopoderoso-alcalde-que-llevo-al-pp-a-una-crisis-anunciada-en-algeciras.html",
+      "fecha": "2026-10-18T03:30+00:00",
+      "partidos": [
+        "pp"
       ]
     },
     {
@@ -3216,62 +3270,6 @@
       "partidos": [
         "pp",
         "vox"
-      ]
-    },
-    {
-      "titulo": "Margarita Robles será la ‘número dos’ de Pedro Sánchez en las listas del PSOE",
-      "medio": "El País",
-      "url": "https://elpais.com/espana/elecciones-generales/2026-10-14/margarita-robles-sera-la-numero-dos-de-pedro-sanchez-en-las-listas-del-psoe.html",
-      "fecha": "2026-10-14T15:12+00:00",
-      "partidos": [
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "Margarita Robles será la número dos de Sánchez en las listas del PSOE por Madrid",
-      "medio": "elDiario.es",
-      "url": "https://www.eldiario.es/politica/margarita-robles-sera-numero-sanchez-listas-psoe-madrid_1_13582904.html",
-      "fecha": "2026-10-14T15:08+00:00",
-      "partidos": [
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "Vox justifica eliminar las ayudas para financiar proyectos LGTBI en Aragón asegurando que no tienen \"ninguna discapacidad\"",
-      "medio": "elDiario.es",
-      "url": "https://www.eldiario.es/aragon/politica/vox-justifica-eliminacion-ayudas-financiar-proyectos-sociales-dirigidos-personas-lgtbi-aragon_1_13585659.html",
-      "fecha": "2026-10-14T14:53+00:00",
-      "partidos": [
-        "vox"
-      ]
-    },
-    {
-      "titulo": "El PP denuncia la “incoherencia” de la portavoz del PSOE por los pisos de su pareja y la reta a un debate de vivienda",
-      "medio": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/politica/20261014/11658965/pp-denuncia-incoherencia-portavoz-psoe-pisos-pareja-reta-debate-vivienda.html",
-      "fecha": "2026-10-14T14:45+00:00",
-      "partidos": [
-        "pp",
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "El PP carga contra la \"hipocresía\" de la portavoz del PSOE por los \"30 pisos\" de su pareja: \"Es una buitre consorte\"",
-      "medio": "El Mundo",
-      "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/10/14/6acf7bd3e4d4d8d2338b45c3.html",
-      "fecha": "2026-10-14T13:24+00:00",
-      "partidos": [
-        "pp",
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "El PSOE acusa a Núñez de no tener una alternativa para gobernar Castilla-La Mancha",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/castilla-la-mancha/toledo/psoe-acusa-nunez-tener-alternativa-gobernar-castillala-20261014144005-nt.html",
-      "fecha": "2026-10-14T12:40+00:00",
-      "partidos": [
-        "psoe"
       ]
     }
   ],
