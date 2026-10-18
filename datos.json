@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-18T13:28+00:00",
+  "actualizado": "2026-10-18T17:23+00:00",
   "temas": [
     {
       "id": "vivienda",
@@ -449,6 +449,62 @@
   ],
   "noticias": [
     {
+      "titulo": "Frente Amplio y Sumar, diferencias y similitudes a la hora de gestar una gran coalición de izquierdas",
+      "medio": "20minutos",
+      "url": "https://www.20minutos.es/nacional/frente-amplio-sumar-diferencias-similitudes-hora-gestar-una-gran-coalicion-izquierdas_7050216_0.html",
+      "fecha": "2026-10-18T16:55+00:00",
+      "partidos": [
+        "sumar"
+      ]
+    },
+    {
+      "titulo": "Vox también pide al TC que inadmita el recurso del Defensor del Pueblo contra la suspensión de votos CERA del Supremo",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/vox-pide-tc-inadmita-recurso-defensor-pueblo-20261018162344-nt.html",
+      "fecha": "2026-10-18T16:32+00:00",
+      "partidos": [
+        "vox"
+      ]
+    },
+    {
+      "titulo": "Los estatutos del PP impiden que Albiol sea diputado y alcalde de Badalona a la vez",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/catalunya/estatutos-pp-impiden-albiol-sea-diputado-alcalde-badalona-vez_1_13594985.html",
+      "fecha": "2026-10-18T15:59+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "El número dos del PP andaluz tilda, en Córdoba, de «confluencia desesperada» la alianza de PSOE y Frente Amplio para el Senado",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/andalucia/cordoba/numero-dos-pp-andaluz-tilda-cordoba-confluencia-20261018171735-nts.html",
+      "fecha": "2026-10-18T15:25+00:00",
+      "partidos": [
+        "pp",
+        "psoe",
+        "sumar"
+      ]
+    },
+    {
+      "titulo": "Vox pide al Constitucional que inadmita el recurso del Defensor del Pueblo por la ley de nietos",
+      "medio": "20minutos",
+      "url": "https://www.20minutos.es/nacional/vox-pide-constitucional-que-inadmita-recurso-defensor-pueblo-por-ley-nietos_7050192_0.html",
+      "fecha": "2026-10-18T14:44+00:00",
+      "partidos": [
+        "vox"
+      ]
+    },
+    {
+      "titulo": "Cuerpo asegura que la subida de las pensiones está \"asegurada\" por una ley que el PP rechazó",
+      "medio": "20minutos",
+      "url": "https://www.20minutos.es/nacional/cuerpo-asegura-que-subida-las-pensiones-esta-asegurada-por-una-ley-que-pp-rechazo_7050174_0.html",
+      "fecha": "2026-10-18T13:44+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
       "titulo": "El PP denuncia una \"maniobra deliberada\" de Exteriores para impedir \"por la vía de los hechos\" la suspensión de la 'ley de nietos'",
       "medio": "El Mundo",
       "url": "https://www.elmundo.es/espana/2026/10/18/6ad4c213fc6c83c1078b4575.html",
@@ -540,6 +596,15 @@
       "fecha": "2026-10-18T10:39+00:00",
       "partidos": [
         "psoe"
+      ]
+    },
+    {
+      "titulo": "Frente Amplio y Sumar, dos formas diferentes de desplegar una coalición de izquierdas con elecciones anticipadas",
+      "medio": "Europa Press",
+      "url": "https://www.europapress.es/nacional/noticia-frente-amplio-sumar-dos-formas-diferentes-desplegar-coalicion-izquierdas-elecciones-anticipadas-20261018120533.html",
+      "fecha": "2026-10-18T10:05+00:00",
+      "partidos": [
+        "sumar"
       ]
     },
     {
@@ -650,6 +715,15 @@
       "fecha": "2026-10-17T23:25+00:00",
       "partidos": [
         "pp",
+        "vox"
+      ]
+    },
+    {
+      "titulo": "El Gobierno exprime el debate sobre las pensiones tras la caída de Mínguez: a por 9 millones de votos donde se resiente Vox",
+      "medio": "El Mundo",
+      "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/10/18/6ad3b836fdddff74548b45bf.html",
+      "fecha": "2026-10-17T23:24+00:00",
+      "partidos": [
         "vox"
       ]
     },
@@ -3196,81 +3270,6 @@
       "partidos": [
         "pp",
         "podemos"
-      ]
-    },
-    {
-      "titulo": "La ministra Isabel Rodríguez repetirá como cabeza de lista del PSOE al Congreso por Ciudad Real",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/castilla-la-mancha/ministra-isabel-rodriguez-repetira-cabeza-lista-psoe-20261014203807-nt.html",
-      "fecha": "2026-10-14T18:55+00:00",
-      "partidos": [
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "El PSOE de Granada apuesta por la alcaldesa de Albuñol, María José Sánchez, para liderar su lista al Congreso",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/andalucia/granada/psoe-granada-apuesta-alcaldesa-albunol-maria-jose-20261014203614-nts.html",
-      "fecha": "2026-10-14T18:36+00:00",
-      "partidos": [
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "Sánchez cree que si PP y Vox llegan al Gobierno de España \"firman la carta de defunción del Estado del Bienestar\"",
-      "medio": "Europa Press",
-      "url": "https://www.europapress.es/aragon/noticia-sanchez-cree-si-pp-vox-llegan-gobierno-espana-firman-carta-defuncion-estado-bienestar-20261014203519.html",
-      "fecha": "2026-10-14T18:35+00:00",
-      "partidos": [
-        "pp",
-        "vox"
-      ]
-    },
-    {
-      "titulo": "Mireia Ingla, Jordi Albert y Laura Pelay serán los números 2, 3 y 4 de la lista de ERC al Congreso",
-      "medio": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/politica/20261014/11659113/mireia-ingla-jordi-albert-laura-pelay-seran-numeros-2-3-4-lista-erc-congreso.html",
-      "fecha": "2026-10-14T18:17+00:00",
-      "partidos": [
-        "erc"
-      ]
-    },
-    {
-      "titulo": "Sánchez utiliza las pensiones para sembrar el pánico con los \"recortes\" de PP y Vox: \"Firmarán la carta de defunción del Estado de Bienestar\"",
-      "medio": "El Mundo",
-      "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/10/14/6acfbccce9cf4a48088b459d.html",
-      "fecha": "2026-10-14T17:33+00:00",
-      "partidos": [
-        "pp",
-        "vox"
-      ]
-    },
-    {
-      "titulo": "Milagros Tolón e Isabel Rodríguez encabezarán las listas del PSOE al Congreso por Toledo y Ciudad Real el 29N",
-      "medio": "elDiario.es",
-      "url": "https://www.eldiario.es/castilla-la-mancha/politica/milagros-tolon-e-isabel-rodriguez-encabezaran-listas-psoe-congreso-toledo-ciudad-real-29n_1_13585871.html",
-      "fecha": "2026-10-14T17:30+00:00",
-      "partidos": [
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "El PP critica las \"mentiras\" del PSOE contra Feijóo por las pensiones y promete subirlas conforme IPC si gobiernan",
-      "medio": "Europa Press",
-      "url": "https://www.europapress.es/nacional/noticia-pp-critica-mentiras-psoe-contra-feijoo-pensiones-promete-subirlas-conforme-ipc-si-gobiernan-20261014192806.html",
-      "fecha": "2026-10-14T17:28+00:00",
-      "partidos": [
-        "pp",
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "Puigdemont insta al Supremo a amnistiarle \"sin más demora\" porque contribuye a la \"normalización\" de Cataluña",
-      "medio": "Europa Press",
-      "url": "https://www.europapress.es/nacional/noticia-puigdemont-insta-supremo-amnistiarle-mas-demora-porque-contribuye-normalizacion-cataluna-20261014191624.html",
-      "fecha": "2026-10-14T17:16+00:00",
-      "partidos": [
-        "junts"
       ]
     }
   ],
