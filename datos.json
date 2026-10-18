@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-18T17:23+00:00",
+  "actualizado": "2026-10-18T21:23+00:00",
   "temas": [
     {
       "id": "vivienda",
@@ -448,6 +448,15 @@
     }
   ],
   "noticias": [
+    {
+      "titulo": "Delcy lamentó perder \"incidencia\" sobre \"PS\" tras la caída de Ábalos como ministro y secretario de Organización del PSOE",
+      "medio": "El Mundo",
+      "url": "https://www.elmundo.es/espana/2026/10/18/6ad4ea58e9cf4a28178b458f.html",
+      "fecha": "2026-10-18T20:42+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
     {
       "titulo": "Frente Amplio y Sumar, diferencias y similitudes a la hora de gestar una gran coalición de izquierdas",
       "medio": "20minutos",
@@ -3260,16 +3269,6 @@
         "pp",
         "psoe",
         "vox"
-      ]
-    },
-    {
-      "titulo": "Un testigo clave de la guerra sucia del Gobierno del PP contra Podemos renuncia a declarar en el último momento",
-      "medio": "elDiario.es",
-      "url": "https://www.eldiario.es/politica/testigo-clave-guerra-sucia-gobierno-pp-renuncia-declarar-ultimo-momento_1_13580344.html",
-      "fecha": "2026-10-14T19:00+00:00",
-      "partidos": [
-        "pp",
-        "podemos"
       ]
     }
   ],
