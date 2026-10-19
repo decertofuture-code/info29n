@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-19T05:21+00:00",
+  "actualizado": "2026-10-19T09:34+00:00",
   "temas": [
     {
       "id": "vivienda",
@@ -448,6 +448,202 @@
     }
   ],
   "noticias": [
+    {
+      "titulo": "Llarena aplica la amnistía a Puigdemont sin necesidad de que el TC vea su amparo: ya puede volver a España",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/llarena-aplica-amnistia-puigdemont-necesidad-tc-vea-20261019102132-nt.html",
+      "fecha": "2026-10-19T09:21+00:00",
+      "partidos": [
+        "junts"
+      ]
+    },
+    {
+      "titulo": "El PP acusa a Sánchez de \"pagar\" a Otegi con la liberación de presos de ETA a cambio de su investidura",
+      "medio": "El Confidencial",
+      "url": "https://www.elconfidencial.com/espana/2026-10-19/el-pp-acusa-a-sanchez-de_4447839/",
+      "fecha": "2026-10-19T09:18+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "El PP dice que el beso de Sánchez con Begoña Gómez copia la campaña de Cristina Kirchner: \"Es más falso que Judas\"",
+      "medio": "Europa Press",
+      "url": "https://www.europapress.es/nacional/noticia-pp-dice-beso-sanchez-begona-gomez-copia-campana-cristina-kirchner-mas-falso-judas-20261019110855.html",
+      "fecha": "2026-10-19T09:08+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "Sorpresa en las listas de Vox para el 29-N: Montse Lluis, negociadora en los pactos con el PP, será la número dos por Madrid",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/sorpresa-listas-vox-29n-montse-lluis-negociadora-20261019110614-nt.html",
+      "fecha": "2026-10-19T09:06+00:00",
+      "partidos": [
+        "pp",
+        "vox"
+      ]
+    },
+    {
+      "titulo": "La diputada de Vox Lourdes Méndez Monasterio anuncia que deja la política",
+      "medio": "Europa Press",
+      "url": "https://www.europapress.es/nacional/noticia-diputada-vox-lourdes-mendez-monasterio-anuncia-deja-politica-20261019110050.html",
+      "fecha": "2026-10-19T09:00+00:00",
+      "partidos": [
+        "vox"
+      ]
+    },
+    {
+      "titulo": "El PP volvería a depender de Vox para gobernar en Andalucía y el PSOE de María Jesús Montero se hundiría aún más",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/andalucia/pp-volveria-depender-vox-gobernar-andalucia-psoe-20261019081359-nts.html",
+      "fecha": "2026-10-19T08:58+00:00",
+      "partidos": [
+        "pp",
+        "psoe",
+        "vox"
+      ]
+    },
+    {
+      "titulo": "El PP encomienda al joven Jon Echeverría, de 22 años, el difícil reto de recuperar el escaño en Guipúzcoa",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/pais-vasco/pp-encomienda-joven-jon-echeverria-dificil-reto-20261019093720-nt.html",
+      "fecha": "2026-10-19T08:53+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "Díaz acusa a Feijóo de \"enfrentar de manera radical\" a los españoles con su ley antiocupación",
+      "medio": "Europa Press",
+      "url": "https://www.europapress.es/nacional/noticia-diaz-acusa-feijoo-enfrentar-manera-radical-espanoles-ley-antiocupacion-20261019105337.html",
+      "fecha": "2026-10-19T08:53+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "Dos de cada tres andaluces suspenden la gestión de Pedro Sánchez a las puertas de las elecciones del 29 de noviembre",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/andalucia/dos-tres-andaluces-suspenden-gestion-pedro-sanchez-20261019104529-nts.html",
+      "fecha": "2026-10-19T08:45+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "El Supremo considera aplicable la amnistía a Puigdemont y confirma el fin de la orden de detención",
+      "medio": "Europa Press",
+      "url": "https://www.europapress.es/nacional/noticia-supremo-considera-aplicable-amnistia-puigdemont-confirma-fin-orden-detencion-20261019104108.html",
+      "fecha": "2026-10-19T08:41+00:00",
+      "partidos": [
+        "junts"
+      ]
+    },
+    {
+      "titulo": "Iglesias denuncia que el objetivo de Frente Amplio fue \"matar\" a Podemos \"por delante de cualquier consideración\"",
+      "medio": "Europa Press",
+      "url": "https://www.europapress.es/nacional/noticia-iglesias-denuncia-objetivo-frente-amplio-fue-matar-podemos-delante-cualquier-consideracion-20261019103902.html",
+      "fecha": "2026-10-19T08:39+00:00",
+      "partidos": [
+        "sumar",
+        "podemos"
+      ]
+    },
+    {
+      "titulo": "Llarena ratifica la retirada de la orden de detención de Puigdemont pero critica la falta de \"mesura\" del TC: \"Los adjetivos no convierten en indiscutible lo que ha fracturado al Tribunal\"",
+      "medio": "El Mundo",
+      "url": "https://www.elmundo.es/espana/2026/10/19/6ad5d223e85ece27348b4599.html",
+      "fecha": "2026-10-19T08:37+00:00",
+      "partidos": [
+        "junts"
+      ]
+    },
+    {
+      "titulo": "Llarena confirma su decisión de retirar provisionalmente la orden de detención de Puigdemont",
+      "medio": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/politica/20261019/11662448/llarena-confirma-decision-retirar-provisionalmente-orden-detencion-puigdemont.html",
+      "fecha": "2026-10-19T08:35+00:00",
+      "partidos": [
+        "junts"
+      ]
+    },
+    {
+      "titulo": "El juez Llarena critica la decisión del TC sobre la amnistía pero rechaza reactivar la orden de detención de Puigdemont",
+      "medio": "20minutos",
+      "url": "https://www.20minutos.es/nacional/llarena-critica-decision-tc-sobre-amnistia-pero-rechaza-reactivar-orden-detencion-puigdemont_7050347_0.html",
+      "fecha": "2026-10-19T08:35+00:00",
+      "partidos": [
+        "junts"
+      ]
+    },
+    {
+      "titulo": "Vox rentabiliza su pacto con Moreno y Adelante crece a costa del PSOE en Andalucía, según el ‘CIS andaluz’",
+      "medio": "El País",
+      "url": "https://elpais.com/espana/andalucia/2026-10-19/vox-rentabiliza-su-pacto-con-moreno-y-adelante-crece-a-costa-del-psoe-en-andalucia.html",
+      "fecha": "2026-10-19T08:33+00:00",
+      "partidos": [
+        "psoe",
+        "vox"
+      ]
+    },
+    {
+      "titulo": "Llarena confirma su decisión de levantar la orden de detención de Puigdemont con críticas al Constitucional",
+      "medio": "El País",
+      "url": "https://elpais.com/espana/2026-10-19/llarena-confirma-su-decision-de-levantar-la-orden-de-detencion-de-puigdemont-con-criticas-al-constitucional.html",
+      "fecha": "2026-10-19T08:30+00:00",
+      "partidos": [
+        "junts"
+      ]
+    },
+    {
+      "titulo": "El juez Llarena critica al Constitucional pero confirma que Puigdemont puede volver a España sin ser detenido",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/catalunya/juez-llarena-critica-constitucional-confirma-puigdemont-volver-espana-detenido_1_13596182.html",
+      "fecha": "2026-10-19T08:20+00:00",
+      "partidos": [
+        "junts"
+      ]
+    },
+    {
+      "titulo": "Pedro Sánchez suspende un acto en Toledo después de que Ferraz haya tumbado a candidatos del PSOE de Page",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/castilla-la-mancha/politica/pedro-sanchez-suspende-acto-toledo-ferraz-haya-tumbado-candidatos-psoe-page_1_13596147.html",
+      "fecha": "2026-10-19T08:12+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "Críticos de ERC rechazan el pacto con Podemos y que Rufián encabece la lista",
+      "medio": "Europa Press",
+      "url": "https://www.europapress.es/catalunya/noticia-criticos-erc-rechazan-pacto-podemos-rufian-encabece-lista-20261019095857.html",
+      "fecha": "2026-10-19T07:58+00:00",
+      "partidos": [
+        "erc",
+        "podemos"
+      ]
+    },
+    {
+      "titulo": "Atacan con pintadas la nueva sede de Podemos en Huelva",
+      "medio": "El Confidencial",
+      "url": "https://www.elconfidencial.com/espana/2026-10-19/vandalismo-sede-podemos-huelva-1tna-1tps_4447796/",
+      "fecha": "2026-10-19T07:47+00:00",
+      "partidos": [
+        "podemos"
+      ]
+    },
+    {
+      "titulo": "El 'CIS andaluz' consolida la hegemonía del PP y prevé un repunte de Adelante Andalucía y Vox a mes y medio del 29-N",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/andalucia/cis-andaluz-consolida-hegemonia-pp-preve-repunte-adelante-andalucia-vox-mes-medio-29-n_1_13595907.html",
+      "fecha": "2026-10-19T06:25+00:00",
+      "partidos": [
+        "pp",
+        "vox"
+      ]
+    },
     {
       "titulo": "Encuestas elecciones generales 29N: resultados de PSOE, PP, VOX y Frente Amplio y ganador según los sondeos del CIS y GAD3",
       "medio": "ABC",
@@ -3065,207 +3261,6 @@
       "fecha": "2026-10-15T08:16+00:00",
       "partidos": [
         "psoe"
-      ]
-    },
-    {
-      "titulo": "Jon Iñarritu, el diputado de EH Bildu que siempre condenó a ETA y el último de los 'pioneros' de 2011, no irá en las listas",
-      "medio": "elDiario.es",
-      "url": "https://www.eldiario.es/euskadi/jon-inarritu-diputado-eh-bildu-condeno-eta-ultimo-pioneros-2011-no-ira-listas_1_13586948.html",
-      "fecha": "2026-10-15T08:15+00:00",
-      "partidos": [
-        "bildu"
-      ]
-    },
-    {
-      "titulo": "Guía de la negociación más al límite y desquiciada de la izquierda: el Frente Amplio se queda sin tiempo",
-      "medio": "El Mundo",
-      "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/10/15/6acfb5ade4d4d8454b8b459e.html",
-      "fecha": "2026-10-15T08:02+00:00",
-      "partidos": [
-        "sumar"
-      ]
-    },
-    {
-      "titulo": "Colau lamenta que este miércoles ERC no accediera a negociar con Comuns por el Frente Amplio",
-      "medio": "Europa Press",
-      "url": "https://www.europapress.es/catalunya/noticia-colau-lamenta-miercoles-erc-no-accediera-negociar-comuns-frente-amplio-20261015100100.html",
-      "fecha": "2026-10-15T08:01+00:00",
-      "partidos": [
-        "sumar",
-        "erc"
-      ]
-    },
-    {
-      "titulo": "Ada Colau: “Ayer pedimos volver a negociar con ERC y no se quisieron ni sentar a hablar”",
-      "medio": "elDiario.es",
-      "url": "https://www.eldiario.es/catalunya/ada-colau-ayer-pedimos-volver-negociar-erc-no-quisieron-sentar-hablar_1_13586837.html",
-      "fecha": "2026-10-15T07:37+00:00",
-      "partidos": [
-        "erc"
-      ]
-    },
-    {
-      "titulo": "Feijóo, arropado por Von der Leyen en la foto de familia del PP europeo en plena precampaña y con la crisis de Ceuta de fondo",
-      "medio": "20minutos",
-      "url": "https://www.20minutos.es/nacional/feijoo-arropado-por-von-der-leyen-plena-precampana-con-situacion-ceuta-fondo_7048988_0.html",
-      "fecha": "2026-10-15T07:29+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Podemos y Frente Amplio avanzan en los pactos territoriales mientras se atasca el acuerdo estatal",
-      "medio": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/politica/20261015/11659414/podemos-frente-intenta-salvar-unidad-territorial-bloqueo-madrid-catalunya-elecciones-29n.html",
-      "fecha": "2026-10-15T07:27+00:00",
-      "partidos": [
-        "sumar"
-      ]
-    },
-    {
-      "titulo": "Feijóo convoca el domingo un gran acto en Barcelona rumbo a las elecciones generales del 29-N",
-      "medio": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/politica/20261015/11659219/feijoo-convoca-domingo-gran-acto-barcelona-rumbo-elecciones-generales-29-n.html",
-      "fecha": "2026-10-15T07:09+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Podemos ofrece pactos solo a IU en diez comunidades pero Maíllo rechaza negociar \"saliéndose del Frente Amplio\"",
-      "medio": "elDiario.es",
-      "url": "https://www.eldiario.es/politica/limita-acuerdos-iu-fuera-madrid-catalunya-negociacion-unidad-izquierda_1_13586819.html",
-      "fecha": "2026-10-15T06:58+00:00",
-      "partidos": [
-        "sumar"
-      ]
-    },
-    {
-      "titulo": "Podemos y los partidos del Frente Amplio ultiman acuerdos territoriales para el 29-N fuera de Madrid y Barcelona",
-      "medio": "El País",
-      "url": "https://elpais.com/espana/elecciones-generales/2026-10-15/podemos-y-los-partidos-del-frente-amplio-avanzan-en-los-acuerdos-territoriales-para-el-29-n.html",
-      "fecha": "2026-10-15T06:53+00:00",
-      "partidos": [
-        "sumar",
-        "podemos"
-      ]
-    },
-    {
-      "titulo": "El PSOE y el PP encienden la batalla por el futuro de las pensiones",
-      "medio": "El País",
-      "url": "https://elpais.com/economia/2026-10-15/el-psoe-y-el-pp-encienden-la-batalla-por-el-futuro-de-las-pensiones.html",
-      "fecha": "2026-10-15T03:30+00:00",
-      "partidos": [
-        "pp",
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "Ferraz acapara las listas al Congreso por Valencia y deja sin margen al rival de Morant",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/comunidad-valenciana/psoe-listas-congreso-senado-valencia-20261015014015-nt.html",
-      "fecha": "2026-10-15T03:30+00:00",
-      "partidos": [
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "¿Cuántos votos hay a la izquierda del PSOE en la Comunidad Valenciana?",
-      "medio": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/local/valencia/20261015/11658722/votos-hay-izquierda-psoe-comunidad-valenciana.html",
-      "fecha": "2026-10-15T03:30+00:00",
-      "partidos": [
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "Encuestas elecciones en Galicia: resultados de PP, PSOE, Vox, Sumar y BNG y ganador según los sondeos",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/galicia/encuestas-elecciones-galicia-resultados-pp-psoe-vox-20261015050000-nt.html",
-      "fecha": "2026-10-15T03:00+00:00",
-      "partidos": [
-        "pp",
-        "psoe",
-        "vox",
-        "sumar",
-        "bng"
-      ]
-    },
-    {
-      "titulo": "El encaje de ministros y cargos de Sánchez abre una pugna interna en las listas del PSOE en Andalucía y Comunidad Valenciana",
-      "medio": "20minutos",
-      "url": "https://www.20minutos.es/nacional/encaje-ministros-cargos-sanchez-abre-una-pugna-interna-las-listas-psoe-andalucia-comunidad-valenciana_7048834_0.html",
-      "fecha": "2026-10-15T03:00+00:00",
-      "partidos": [
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "Compromís, Chunta, Mès... La izquierda soberanista que puede unir a Podemos y los partidos de Frente Amplio en sus territorios",
-      "medio": "20minutos",
-      "url": "https://www.20minutos.es/nacional/compromis-chunta-mes-izquierda-soberanista-que-puede-unir-podemos-los-partidos-frente-amplio-sus-territorios_7048812_0.html",
-      "fecha": "2026-10-15T03:00+00:00",
-      "partidos": [
-        "sumar",
-        "podemos"
-      ]
-    },
-    {
-      "titulo": "Nueve años que valen todo un reinado de \"unidad y permanencia\": Felipe VI contra el golpe de Puigdemont y contra la 'invasión' de Mohamed VI",
-      "medio": "El Mundo",
-      "url": "https://www.elmundo.es/espana/2026/10/15/6acfb348e4d4d80d1a8b458d.html",
-      "fecha": "2026-10-14T22:58+00:00",
-      "partidos": [
-        "junts"
-      ]
-    },
-    {
-      "titulo": "Colau perdería más del 60% de sus votos en Cataluña, que irían a parar al PSOE y a la lista de ERC y Podemos",
-      "medio": "El Mundo",
-      "url": "https://www.elmundo.es/cataluna/2026/10/15/6acfb7abe85ece24628b45a1.html",
-      "fecha": "2026-10-14T22:58+00:00",
-      "partidos": [
-        "psoe",
-        "erc",
-        "podemos"
-      ]
-    },
-    {
-      "titulo": "Colau ve \"desconcertante\" que el acuerdo de ERC y Podemos no incluya primarias: \"Hay alguna contradicción\"",
-      "medio": "Europa Press",
-      "url": "https://www.europapress.es/nacional/noticia-colau-ve-desconcertante-acuerdo-erc-podemos-no-incluya-primarias-hay-alguna-contradiccion-20261014230952.html",
-      "fecha": "2026-10-14T21:09+00:00",
-      "partidos": [
-        "erc",
-        "podemos"
-      ]
-    },
-    {
-      "titulo": "Landaluce asume el fin de su mandato en Algeciras tras la moción de censura del PP y Vox: «Esto no tiene vuelta atrás»",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/andalucia/cadiz/landaluce-asume-fin-mandato-algeciras-tras-mocion-20261014230730-nts.html",
-      "fecha": "2026-10-14T21:07+00:00",
-      "partidos": [
-        "pp",
-        "vox"
-      ]
-    },
-    {
-      "titulo": "Los \"30 pisos\" de la pareja de la portavoz de Ferraz le explotan al PSOE en su campaña contra los \"rentistas\"",
-      "medio": "El Mundo",
-      "url": "https://www.elmundo.es/espana/2026/10/14/6acfd0c5e9cf4a98198b45c6.html",
-      "fecha": "2026-10-14T20:43+00:00",
-      "partidos": [
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "Feijóo ultima las listas del PP con Cayetana Álvarez de Toledo y Albiol como arietes y caras nuevas en provincias clave",
-      "medio": "El Mundo",
-      "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/10/14/6acfb544fdddffa4068b45be.html",
-      "fecha": "2026-10-14T20:43+00:00",
-      "partidos": [
-        "pp"
       ]
     }
   ],
