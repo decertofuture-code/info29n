@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-19T09:34+00:00",
+  "actualizado": "2026-10-19T13:45+00:00",
   "temas": [
     {
       "id": "vivienda",
@@ -449,6 +449,305 @@
   ],
   "noticias": [
     {
+      "titulo": "Rueda se pone de perfil tras afirmar Feijóo que hay un agujero en las pensiones: \"No tengo todos los datos\"",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/galicia/rueda-pone-perfil-afirmar-feijoo-hay-agujero-pensiones-no-datos_1_13597605.html",
+      "fecha": "2026-10-19T13:37+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "Alcaldes del PP denuncian el abandono de Page a las infraestructuras: «Cero kilómetros de autovías»",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/castilla-la-mancha/alcaldes-pp-denuncian-abandono-page-infraestructuras-cero-20261019142947-nt.html",
+      "fecha": "2026-10-19T13:29+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "Sánchez elige Burgos para su nueva parada en Castilla y León: la tierra de Tudanca, apeado por Ferraz de las listas",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/castilla-leon/sanchez-elige-burgos-nueva-parada-castilla-leon-20261019152853-nt.html",
+      "fecha": "2026-10-19T13:28+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "Feijóo suscribe «un contrato con España» de 12 puntos y promete que la palabra de un presidente «volverá a tener valor»",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/feijoo-suscribe-contrato-espana-puntos-promete-palabra-20261019125303-nt.html",
+      "fecha": "2026-10-19T13:14+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "Vox denuncia que las alarmas de la Junta no avisaron de las inundaciones en Urda",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/castilla-la-mancha/toledo/vox-denuncia-alarmas-junta-avisaron-inundaciones-urda-20261019150028-nt.html",
+      "fecha": "2026-10-19T13:00+00:00",
+      "partidos": [
+        "vox"
+      ]
+    },
+    {
+      "titulo": "El PSOE acusa a Núñez de «traicionar» a Castilla-La Mancha y vincula la retirada del Estatuto al agua",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/castilla-la-mancha/psoe-acusa-nunez-traicionar-castillala-mancha-vincula-20261019144947-nt.html",
+      "fecha": "2026-10-19T12:51+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "Irene, Irene, Irene: Montero lanza su campaña más personalista y oculta la marca Podemos",
+      "medio": "El Mundo",
+      "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/10/19/6ad605bdfdddff505a8b45b6.html",
+      "fecha": "2026-10-19T12:45+00:00",
+      "partidos": [
+        "podemos"
+      ]
+    },
+    {
+      "titulo": "Podemos abandona su marca para el 29N y apuesta por \"Irene\" con la vivienda, la paz y el coste de la vida en el centro de su programa",
+      "medio": "20minutos",
+      "url": "https://www.20minutos.es/nacional/podemos-abandona-su-marca-para-29n-apuesta-por-irene-con-vivienda-paz-coste-vida-centro-su-programa_7050528_0.html",
+      "fecha": "2026-10-19T12:37+00:00",
+      "partidos": [
+        "podemos"
+      ]
+    },
+    {
+      "titulo": "Abascal reitera su oferta de acuerdo al PP para “proteger al Senado” del pacto de izquierdas",
+      "medio": "El País",
+      "url": "https://elpais.com/espana/elecciones-generales/2026-10-19/abascal-reitera-su-oferta-de-acuerdo-al-pp-para-proteger-al-senado-del-pacto-de-izquierdas.html",
+      "fecha": "2026-10-19T12:36+00:00",
+      "partidos": [
+        "pp",
+        "vox"
+      ]
+    },
+    {
+      "titulo": "De ordenar la inmigración a garantizar las pensiones: los 12 compromisos de Alberto Núñez Feijóo para el 29N",
+      "medio": "20minutos",
+      "url": "https://www.20minutos.es/nacional/ordenar-inmigracion-garantizar-pensiones-12-compromisos-alberto-nunez-feijoo-29n_7050511_0.html",
+      "fecha": "2026-10-19T12:25+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "Abascal aboga por pactos con el PP en el Senado para “protegerlo de Sánchez y la extrema izquierda”",
+      "medio": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/politica/20261019/11662673/abascal-aboga-pactos-pp-senado-protegerlo-sanchez-extrema-izquierda.html",
+      "fecha": "2026-10-19T12:23+00:00",
+      "partidos": [
+        "pp",
+        "vox"
+      ]
+    },
+    {
+      "titulo": "Feijóo firma su “contrato” con España: “En estas elecciones no basta con un programa, hace falta un compromiso personal”",
+      "medio": "El País",
+      "url": "https://elpais.com/espana/elecciones-generales/2026-10-19/feijoo-firma-su-contrato-con-espana-en-estas-elecciones-no-basta-con-un-programa-hace-falta-un-compromiso-personal.html",
+      "fecha": "2026-10-19T12:10+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "Abascal pide \"sacrificios\" frente a la unión de la izquierda en el Senado sin concretar qué hará Vox",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/politica/abascal-pide-sacrificios-frente-union-izquierda-senado-concretar-hara-vox_1_13596254.html",
+      "fecha": "2026-10-19T12:03+00:00",
+      "partidos": [
+        "vox"
+      ]
+    },
+    {
+      "titulo": "Abascal abre la puerta a negociar con el PP no presentarse al Senado en algunas provincias para frenar a la izquierda",
+      "medio": "20minutos",
+      "url": "https://www.20minutos.es/nacional/abascal-abre-puerta-negociar-con-pp-no-presentarse-senado-algunas-provincias-para-frenar-izquierda_7050517_0.html",
+      "fecha": "2026-10-19T11:57+00:00",
+      "partidos": [
+        "pp",
+        "vox"
+      ]
+    },
+    {
+      "titulo": "Abascal tiende la mano a un \"entendimiento que proteja el Senado\" del acuerdo sellado por la izquierda: \"Exige sacrificios a los partidos de la oposición\"",
+      "medio": "El Mundo",
+      "url": "https://www.elmundo.es/elecciones/2026/10/19/6ad5e9bffc6c838f678b4570.html",
+      "fecha": "2026-10-19T11:41+00:00",
+      "partidos": [
+        "vox"
+      ]
+    },
+    {
+      "titulo": "Abascal tiende la mano al PP para negociar \"algún entendimiento\" para el Senado",
+      "medio": "Europa Press",
+      "url": "https://www.europapress.es/nacional/noticia-abascal-tiende-mano-pp-negociar-algun-entendimiento-senado-20261019133611.html",
+      "fecha": "2026-10-19T11:36+00:00",
+      "partidos": [
+        "pp",
+        "vox"
+      ]
+    },
+    {
+      "titulo": "El catalanismo político carga contra la receta de Feijóo sobre la lengua catalana en las aulas",
+      "medio": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/politica/20261019/11662650/erc-reprocha-junts-equidistancia-medio-pp-ataca-lengua-catalana.html",
+      "fecha": "2026-10-19T11:29+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "Feijóo firma su \"contrato con España\" con 12 compromisos para que el país \"vuelva a funcionar\" con la clase media como \"motor\"",
+      "medio": "20minutos",
+      "url": "https://www.20minutos.es/nacional/feijoo-firma-su-contrato-con-espana-con-12-compromisos-para-que-pais-vuelva-funcionar-con-clase-media-como-motor_7050461_0.html",
+      "fecha": "2026-10-19T11:15+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "Feijóo firma su \"contrato con España\" si gobierna tras las elecciones sin revelar una sola medida nueva",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/politica/feijoo-firma-contrato-espana-si-gobierna-elecciones-29-noviembre-revelar-sola-medida-nueva_1_13596902.html",
+      "fecha": "2026-10-19T11:12+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "Feijóo sella once compromisos en su “Contrato con España” para la “reconstrucción”",
+      "medio": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/politica/20261019/11662613/feijoo-sella-once-compromisos-contrato-espana-reconstruccion.html",
+      "fecha": "2026-10-19T11:03+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "Feijóo firma su 'Contrato con España' y da su palabra de que cumplirá las 12 promesas que recoge: \"No voy a fallar\"",
+      "medio": "Europa Press",
+      "url": "https://www.europapress.es/nacional/noticia-feijoo-da-palabra-cumplir-docena-promesas-vivienda-pensiones-inmigracion-no-voy-fallar-20261019125258.html",
+      "fecha": "2026-10-19T10:52+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "Vox difunde una imagen falsa de dos ancianos semidesnudos en las protestas de Francia que partió de una cuenta en Israel",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/rastreador/vox-difunde-imagen-falsa-ancianos-semidesnudos-protestas-francia-partio-cuenta-israel_132_13596760.html",
+      "fecha": "2026-10-19T10:40+00:00",
+      "partidos": [
+        "vox"
+      ]
+    },
+    {
+      "titulo": "Podemos insiste en culpar a Frente Amplio de la división y le afea pactar con el PSOE en el Senado: \"Hace falta una izquierda autónoma\"",
+      "medio": "20minutos",
+      "url": "https://www.20minutos.es/nacional/podemos-insiste-culpar-frente-amplio-division-le-afea-pactar-con-psoe-senado-hace-falta-una-izquierda-autonoma_7050424_0.html",
+      "fecha": "2026-10-19T10:40+00:00",
+      "partidos": [
+        "psoe",
+        "sumar",
+        "podemos"
+      ]
+    },
+    {
+      "titulo": "La provincia 'fiel' al socialismo: el PSOE ha sido el partido más votado en todas las elecciones generales desde 1977",
+      "medio": "20minutos",
+      "url": "https://www.20minutos.es/nacional/provincia-fiel-socialismo-psoe-partido-mas-votado-todas-elecciones-generales-1977_7050341_0.html",
+      "fecha": "2026-10-19T10:38+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "Qué es el \"Contrato con España\" de Feijóo: las medidas que propone el PP para el 29-N",
+      "medio": "El Confidencial",
+      "url": "https://www.elconfidencial.com/espana/2026-10-19/que-es-contrato-con-espana-feijoo-medidas-propone-pp-29-n_4447854/",
+      "fecha": "2026-10-19T10:37+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "Podemos se enreda en sus contradicciones tras dar el portazo definitivo al Frente Amplio",
+      "medio": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/politica/20261019/11662585/enreda-contradicciones-dar-portazo-definitivo-frente-amplio.html",
+      "fecha": "2026-10-19T10:33+00:00",
+      "partidos": [
+        "sumar"
+      ]
+    },
+    {
+      "titulo": "El PP andaluz volvería a depender de un Vox al alza para gobernar y el PSOE se hunde por debajo de su suelo electoral, según el CIS andaluz",
+      "medio": "El Mundo",
+      "url": "https://www.elmundo.es/andalucia/2026/10/19/6ad5e519e4d4d8451b8b4583.html",
+      "fecha": "2026-10-19T10:16+00:00",
+      "partidos": [
+        "pp",
+        "psoe",
+        "vox"
+      ]
+    },
+    {
+      "titulo": "Podemos se presentará en todo el país tras el choque con Frente Amplio y no irá de independientes en Aragón y Baleares",
+      "medio": "Europa Press",
+      "url": "https://www.europapress.es/nacional/noticia-podemos-presentara-todo-pais-chocar-frente-amplio-rechaza-ir-independientes-aragon-baleares-20261019120912.html",
+      "fecha": "2026-10-19T10:09+00:00",
+      "partidos": [
+        "sumar"
+      ]
+    },
+    {
+      "titulo": "Abascal asciende a la negociadora de los pactos con el PP y al portavoz en Ceuta como 2 y 3 por Madrid",
+      "medio": "El Confidencial",
+      "url": "https://www.elconfidencial.com/espana/2026-10-19/abascal-asciende-a-la-negociadora-de-los-pactos-con-el-pp-y-al-portavoz-en-ceuta-como-2-y-3-por-madrid-para-el-29n_4447946/",
+      "fecha": "2026-10-19T10:05+00:00",
+      "partidos": [
+        "pp",
+        "vox"
+      ]
+    },
+    {
+      "titulo": "La número dos de Abascal en la lista de Vox al Congreso será Montse Lluis, la negociadora de los pactos con el PP",
+      "medio": "20minutos",
+      "url": "https://www.20minutos.es/nacional/numero-dos-abascal-lista-vox-congreso-sera-montse-lluis-negociadora-los-pactos-con-pp_7050425_0.html",
+      "fecha": "2026-10-19T10:02+00:00",
+      "partidos": [
+        "pp",
+        "vox"
+      ]
+    },
+    {
+      "titulo": "Concejalas del PSOE afirman que Andrea Levy ha llamado \"loca\" a una de ellas en una comisión municipal y la abandonan",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/madrid/somos/concejalas-psoe-afirman-andrea-levy-llamado-loca-comision-municipal-abandonan_1_13596321.html",
+      "fecha": "2026-10-19T09:50+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "La número dos de Abascal por Madrid será Montserrat Lluis, negociadora de los pactos autonómicos con el PP",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/politica/numero-vox-madrid-sera-montserrat-lluis-negociadora-pactos-autonomicos-pp_1_13596475.html",
+      "fecha": "2026-10-19T09:38+00:00",
+      "partidos": [
+        "pp",
+        "vox"
+      ]
+    },
+    {
       "titulo": "Llarena aplica la amnistía a Puigdemont sin necesidad de que el TC vea su amparo: ya puede volver a España",
       "medio": "ABC",
       "url": "https://www.abc.es/espana/llarena-aplica-amnistia-puigdemont-necesidad-tc-vea-20261019102132-nt.html",
@@ -464,6 +763,16 @@
       "fecha": "2026-10-19T09:18+00:00",
       "partidos": [
         "pp"
+      ]
+    },
+    {
+      "titulo": "Abascal lleva en las listas a Montse Lluis, negociadora con el PP, y Redondo, líder de Vox en Ceuta",
+      "medio": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/politica/20261019/11662477/abascal-lleva-listas-montse-lluis-negociadora-pp-redondo-lider-vox-ceuta.html",
+      "fecha": "2026-10-19T09:13+00:00",
+      "partidos": [
+        "pp",
+        "vox"
       ]
     },
     {
@@ -2951,314 +3260,6 @@
       "medio": "El Mundo",
       "url": "https://www.elmundo.es/espana/2026/10/15/6ad0cd96fc6c837c488b45be.html",
       "fecha": "2026-10-15T13:56+00:00",
-      "partidos": [
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "Un juez abre diligencias por el gas pimienta de una diputada del PP y pide parte de lesiones a los denunciantes",
-      "medio": "Europa Press",
-      "url": "https://www.europapress.es/nacional/noticia-juez-abre-diligencias-gas-pimienta-diputada-pp-pide-parte-lesiones-denunciantes-20261015151438.html",
-      "fecha": "2026-10-15T13:14+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "El PSOE se alinea con PP y Vox y votará a favor de la moción de censura contra Landaluce en Algeciras",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/andalucia/cadiz/psoe-alinea-pp-vox-votara-favor-mocion-20261015141610-nts.html",
-      "fecha": "2026-10-15T13:04+00:00",
-      "partidos": [
-        "pp",
-        "psoe",
-        "vox"
-      ]
-    },
-    {
-      "titulo": "Puigdemont solicita a Llarena que “sin más demora” aplique la amnistía",
-      "medio": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/politica/20261015/11659815/puigdemont-solicita-llarena-mas-demora-aplique-amnistia.html",
-      "fecha": "2026-10-15T13:01+00:00",
-      "partidos": [
-        "junts"
-      ]
-    },
-    {
-      "titulo": "IU rechaza negociar con Podemos fuera del Frente Amplio y exige un pacto global para las autonómicas",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/castilla-la-mancha/iu-rechaza-negociar-podemos-frente-amplio-exige-20261015145019-nt.html",
-      "fecha": "2026-10-15T12:50+00:00",
-      "partidos": [
-        "sumar",
-        "podemos"
-      ]
-    },
-    {
-      "titulo": "Feijóo se compromete a “actualizar las pensiones con el IPC” sin descartar reformarlas",
-      "medio": "El País",
-      "url": "https://elpais.com/espana/elecciones-generales/2026-10-15/feijoo-se-compromete-a-actualizar-las-pensiones-con-el-ipc-sin-descartar-reformarlas.html",
-      "fecha": "2026-10-15T12:49+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Vox denuncia un copago escolar «encubierto» en las aulas y critica la «ceguera» de Page",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/castilla-la-mancha/vox-denuncia-copago-escolar-encubierto-aulas-critica-20261015144957-nt.html",
-      "fecha": "2026-10-15T12:49+00:00",
-      "partidos": [
-        "vox"
-      ]
-    },
-    {
-      "titulo": "Biedma denuncia a la Policía que el ex juez vinculado a las cloacas del PSOE la siguió con el coche hasta su domicilio tras declarar en la Audiencia Nacional",
-      "medio": "El Mundo",
-      "url": "https://www.elmundo.es/espana/2026/10/15/6ad0b816e9cf4a794c8b457a.html",
-      "fecha": "2026-10-15T12:42+00:00",
-      "partidos": [
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "Carlos Martínez, sobre la última decisión de Ferraz en las listas: «Aunque me enfade, me lo tendré que tragar»",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/castilla-leon/carlos-martinez-sobre-ultima-decision-ferraz-listas-20261015140731-nt.html",
-      "fecha": "2026-10-15T12:31+00:00",
-      "partidos": [
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "Frente Amplio corta el paso a los intentos de Podemos por “trocear” el espacio",
-      "medio": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/politica/20261015/11659797/frente-amplio-corta-paso-intentos-trocear-espacio.html",
-      "fecha": "2026-10-15T12:26+00:00",
-      "partidos": [
-        "sumar",
-        "podemos"
-      ]
-    },
-    {
-      "titulo": "Delgado ve \"viable\" que Podemos y Frente Amplio se enfrenten en Madrid y Cataluña y Belarra ofrece unidad a IU en otros territorios",
-      "medio": "20minutos",
-      "url": "https://www.20minutos.es/nacional/delgado-ve-viable-que-podemos-frente-amplio-se-enfrenten-madrid-cataluna-belarra-ofrece-unidad-iu-otros-territorios_7049149_0.html",
-      "fecha": "2026-10-15T12:13+00:00",
-      "partidos": [
-        "sumar",
-        "podemos"
-      ]
-    },
-    {
-      "titulo": "La portavoz del PSOE, Montse Mínguez, repetirá al frente de la lista electoral del PSC por Lleida",
-      "medio": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/politica/20261015/11659773/portavoz-psoe-montse-minguez-repetira-frente-lista-electoral-psc-lleida.html",
-      "fecha": "2026-10-15T12:02+00:00",
-      "partidos": [
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "EH Bildu también prescinde de Jon Iñarritu, el diputado 'abertzale' con traje y corbata señalado por su cercanía a Israel",
-      "medio": "El Mundo",
-      "url": "https://www.elmundo.es/pais-vasco/2026/10/15/6ad0a298fc6c83bf178b458c.html",
-      "fecha": "2026-10-15T12:01+00:00",
-      "partidos": [
-        "bildu"
-      ]
-    },
-    {
-      "titulo": "Colau aclara que solo renunciaría a ser candidata si así lo decide Frente Amplio y sirve para integrar a Podemos",
-      "medio": "Europa Press",
-      "url": "https://www.europapress.es/nacional/noticia-colau-aclara-solo-renunciaria-ser-candidata-si-asi-decide-frente-amplio-sirve-integrar-podemos-20261015135836.html",
-      "fecha": "2026-10-15T11:58+00:00",
-      "partidos": [
-        "sumar",
-        "podemos"
-      ]
-    },
-    {
-      "titulo": "Ernest Maragall carga contra Gabriel Rufián y alude a él como “ese conocido líder de Podemos”",
-      "medio": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/politica/20261015/11659770/ernest-maragall-carga-gabriel-rufian-alude-ese-conocido-lider.html",
-      "fecha": "2026-10-15T11:55+00:00",
-      "partidos": [
-        "podemos"
-      ]
-    },
-    {
-      "titulo": "EH Bildu renovará a fondo su grupo en el Congreso",
-      "medio": "El País",
-      "url": "https://elpais.com/espana/elecciones-generales/2026-10-15/eh-bildu-renovara-a-fondo-su-grupo-en-el-congreso.html",
-      "fecha": "2026-10-15T11:46+00:00",
-      "partidos": [
-        "bildu"
-      ]
-    },
-    {
-      "titulo": "Un juzgado admite a trámite una denuncia por el incidente con el bote de gas pimienta de una diputada del PP en el Congreso",
-      "medio": "El País",
-      "url": "https://elpais.com/espana/2026-10-15/un-juzgado-admite-a-tramite-una-denuncia-por-el-incidente-con-el-bote-de-gas-pimienta-del-pp-en-el-congreso.html",
-      "fecha": "2026-10-15T11:31+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Feijóo dice que actualizará las pensiones con el IPC y Sánchez acusa a la derecha de mentir hasta las elecciones",
-      "medio": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/politica/20261015/11659723/feijoo-dice-actualizara-pensiones-ipc-sanchez-acusa-derecha-mentir-elecciones.html",
-      "fecha": "2026-10-15T11:20+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Un juez abre diligencias por el incidente del gas pimienta de una diputada del PP",
-      "medio": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/politica/20261015/11659705/juez-abre-diligencias-incidente-gas-pimienta-diputada-pp.html",
-      "fecha": "2026-10-15T11:15+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Feijóo afirma que Meloni impuso los controles Schengen porque desconfía de Sánchez: \"A mí no me ocurriría porque soy fiable\"",
-      "medio": "El Mundo",
-      "url": "https://www.elmundo.es/espana/2026/10/15/6ad0a79c21efa0ae0b8b4577.html",
-      "fecha": "2026-10-15T11:03+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Feijóo cierra el debate de las pensiones: “Son innegociables. Se actualizarán conforme al IPC, sin duda”",
-      "medio": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/politica/20261015/11659631/feijoo-cierra-debate-pensiones-son-innegociables-actualizaran-conforme-ipc-duda.html",
-      "fecha": "2026-10-15T10:36+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Feijóo recalca que la subida de las pensiones conforme al IPC es \"innegociable\" y busca zanjar el debate: \"Se acabó\"",
-      "medio": "Europa Press",
-      "url": "https://www.europapress.es/nacional/noticia-feijoo-recalca-subida-pensiones-conforme-ipc-innegociable-busca-zanjar-debate-acabo-20261015123042.html",
-      "fecha": "2026-10-15T10:30+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Un juzgado investiga el incidente con el spray de pimienta de Ana Vázquez (PP) en el Congreso",
-      "medio": "elDiario.es",
-      "url": "https://www.eldiario.es/politica/juzgado-investiga-incidente-spray-pimienta-ana-vazquez-pp-congreso_1_13587574.html",
-      "fecha": "2026-10-15T10:24+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Feijóo promete una investigación sobre Ceuta y arranca a Bruselas la activación del mecanismo de retornos urgentes este año",
-      "medio": "20minutos",
-      "url": "https://www.20minutos.es/nacional/feijoo-promete-una-investigacion-sobre-ceuta-arranca-bruselas-activacion-mecanismo-retornos-urgentes-este-ano_7049081_0.html",
-      "fecha": "2026-10-15T10:08+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Jon Iñarritu no repetirá como candidato de EH Bildu, tras 15 años en las Cortes",
-      "medio": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/local/paisvasco/20261015/11659544/jon-inarritu-repetira-candidato-eh-bildu-15-anos-cortes.html",
-      "fecha": "2026-10-15T09:18+00:00",
-      "partidos": [
-        "bildu"
-      ]
-    },
-    {
-      "titulo": "Sánchez alerta contra los “recortes” del PP y Vox: “Van a mentir a los pensionistas hasta el 29-N”",
-      "medio": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/politica/20261015/11659513/sanchez-alerta-recortes-pp-vox-mentir-pensionistas-29-n.html",
-      "fecha": "2026-10-15T09:02+00:00",
-      "partidos": [
-        "pp",
-        "vox"
-      ]
-    },
-    {
-      "titulo": "El PSOE canario confirma sus listas al Senado y mantiene en el aire sus apuestas al Congreso",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/canarias/psoe-canario-confirma-listas-senado-mantiene-aire-20261015105449-nt.html",
-      "fecha": "2026-10-15T08:54+00:00",
-      "partidos": [
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "Sánchez acusa desde Bruselas a PP y Vox de \"mentir a los pensionistas\" y asegura que la campaña está yendo \"como quiere\" el PSOE",
-      "medio": "20minutos",
-      "url": "https://www.20minutos.es/nacional/sanchez-defiende-que-gobierno-ha-sido-transparente-sobre-ceuta-ve-visita-los-reyes-una-muestra-normalidad_7048956_0.html",
-      "fecha": "2026-10-15T08:45+00:00",
-      "partidos": [
-        "pp",
-        "psoe",
-        "vox"
-      ]
-    },
-    {
-      "titulo": "Luis Carlos Sahuquillo encabezará la candidatura del PSOE por Cuenca al Congreso",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/castilla-la-mancha/luis-carlos-sahuquillo-encabezara-candidatura-psoe-cuenca-20261015095829-nt.html",
-      "fecha": "2026-10-15T08:32+00:00",
-      "partidos": [
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "El PP de Toledo lamenta que la Junta incumpla su compromiso y retrase la apertura del Paseo Imperial",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/castilla-la-mancha/toledo/pp-toledo-lamenta-junta-incumpla-compromiso-retrase-20261015094909-nt.html",
-      "fecha": "2026-10-15T08:30+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "La confluencia de izquierdas en Canarias se llamará Nueva Canarias-Frente Amplio, de momento sin Podemos",
-      "medio": "elDiario.es",
-      "url": "https://www.eldiario.es/canariasahora/politica/confluencia-izquierdas-canarias-llamara-nueva-canarias-frente-amplio-momento_1_13586962.html",
-      "fecha": "2026-10-15T08:29+00:00",
-      "partidos": [
-        "sumar",
-        "podemos"
-      ]
-    },
-    {
-      "titulo": "Puigdemont exige a Llarena que aplique la amnistía con la urgencia y preferencia que ordenó el Supremo",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/puigdemont-exige-llarena-aplique-amnistia-urgencia-preferencia-20261015095031-nt.html",
-      "fecha": "2026-10-15T08:20+00:00",
-      "partidos": [
-        "junts"
-      ]
-    },
-    {
-      "titulo": "IU rechaza negociar con Podemos fuera de Frente Amplio y no acepta los acuerdos \"troceados\" que plantean",
-      "medio": "Europa Press",
-      "url": "https://www.europapress.es/nacional/noticia-iu-rechaza-negociar-podemos-fuera-frente-amplio-deja-claro-no-acepta-acuerdos-troceados-29n-20261015102013.html",
-      "fecha": "2026-10-15T08:20+00:00",
-      "partidos": [
-        "sumar",
-        "podemos"
-      ]
-    },
-    {
-      "titulo": "Emilio Sáez será la cabeza de lista del PSOE por Albacete al Congreso de los Diputados",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/castilla-la-mancha/emilio-saez-cabeza-lista-psoe-albacete-congreso-20261015101605-nt.html",
-      "fecha": "2026-10-15T08:16+00:00",
       "partidos": [
         "psoe"
       ]
