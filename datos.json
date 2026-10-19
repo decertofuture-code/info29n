@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-18T21:23+00:00",
+  "actualizado": "2026-10-19T05:21+00:00",
   "temas": [
     {
       "id": "vivienda",
@@ -449,12 +449,124 @@
   ],
   "noticias": [
     {
+      "titulo": "Encuestas elecciones generales 29N: resultados de PSOE, PP, VOX y Frente Amplio y ganador según los sondeos del CIS y GAD3",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/encuestas-elecciones-generales-29n-resultados-psoe-pp-20261019053000-nt.html",
+      "fecha": "2026-10-19T04:57+00:00",
+      "partidos": [
+        "pp",
+        "psoe",
+        "sumar"
+      ]
+    },
+    {
+      "titulo": "Del dominio socialista al avance del PP: así ha cambiado el voto en las elecciones generales en Córdoba desde la Transición",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/andalucia/cordoba/dominio-socialista-avance-pp-cambiado-voto-elecciones-20261019061941-nts.html",
+      "fecha": "2026-10-19T04:19+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "¿Puede el PSOE ser la fuerza más votada en la Comunidad Valenciana en las generales?",
+      "medio": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/local/valencia/20261019/11659032/pspv-fuerza-mas-votada-comunidad-valenciana-generales.html",
+      "fecha": "2026-10-19T03:30+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "La gran paradoja del 29-N: la ausencia de Orriols en las elecciones 'españolas' dispara a Vox en Cataluña",
+      "medio": "El Confidencial",
+      "url": "https://www.elconfidencial.com/espana/cataluna/2026-10-19/la-gran-paradoja-del-29-n-la-ausencia-de-orriols-en-las-elecciones-espanolas-dispara-a-vox-en-cataluna_4446857/",
+      "fecha": "2026-10-19T03:00+00:00",
+      "partidos": [
+        "vox"
+      ]
+    },
+    {
+      "titulo": "El PSOE enfría la vuelta de Zapatero a los mítines: crecen las voces que creen que su presencia puede restar más que sumar",
+      "medio": "20minutos",
+      "url": "https://www.20minutos.es/nacional/psoe-enfria-vuelta-zapatero-los-mitines-crecen-las-voces-que-creen-que-su-presencia-puede-restar-mas-que-sumar_7049878_0.html",
+      "fecha": "2026-10-19T03:00+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "Génova desarrolla un sistema paralelo de recuento de votos para las mesas electorales",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/genova-desarrolla-sistema-paralelo-recuento-votos-mesas-20261019014048-nt.html",
+      "fecha": "2026-10-19T00:11+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "Feijóo marca Catalunya como un territorio clave para llegar a la Moncloa tras las elecciones del 29-N",
+      "medio": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/politica/20261019/11662138/feijoo-marca-catalunya-territorio-clave-llegar-moncloa-elecciones-29-n.html",
+      "fecha": "2026-10-18T22:05+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "Vox se encamina a empatar al PSOE en la mitad de la geografía: 'sorpasso' en Almería y Murcia y posible estreno en Galicia",
+      "medio": "El Mundo",
+      "url": "https://www.elmundo.es/espana/encuestas/2026/10/19/6ad4f320fc6c8374648b4583.html",
+      "fecha": "2026-10-18T22:03+00:00",
+      "partidos": [
+        "psoe",
+        "vox"
+      ]
+    },
+    {
+      "titulo": "Punto Ciego | Albert Rivera: \"La equidistancia entre Vox y Bildu no es posible, hay que concentrar el voto\"",
+      "medio": "El Confidencial",
+      "url": "https://www.elconfidencial.com/espana/2026-10-19/punto-ciego-rivera-bildu-vox-cbtr_4446847/",
+      "fecha": "2026-10-18T22:00+00:00",
+      "partidos": [
+        "vox",
+        "bildu"
+      ]
+    },
+    {
+      "titulo": "El PP recurre al tirón televisivo del veinteañero Jon Echeverría para el escaño por Gipuzkoa que no logra desde 2011",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/euskadi/pp-recurre-tiron-televisivo-veinteanero-jon-echeverria-escano-gipuzkoa-no-logra-2011_1_13595760.html",
+      "fecha": "2026-10-18T20:43+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
       "titulo": "Delcy lamentó perder \"incidencia\" sobre \"PS\" tras la caída de Ábalos como ministro y secretario de Organización del PSOE",
       "medio": "El Mundo",
       "url": "https://www.elmundo.es/espana/2026/10/18/6ad4ea58e9cf4a28178b458f.html",
       "fecha": "2026-10-18T20:42+00:00",
       "partidos": [
         "psoe"
+      ]
+    },
+    {
+      "titulo": "La empresaria que dijo haber llevado 90.000 euros a Ferraz se libra de ser procesada por blanqueo en otra causa",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/politica/empresaria-dijo-haber-llevado-90-000-euros-ferraz-libra-procesada-blanqueo-causa_1_13568204.html",
+      "fecha": "2026-10-18T19:47+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "El Gobierno de Moreno retira las primeras ayudas a ONG que atienden a inmigrantes sin hogar tras firmar la \"prioridad nacional\" con Vox",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/andalucia/gobierno-moreno-retira-primeras-ayudas-ong-atienden-inmigrantes-hogar-firmar-prioridad-nacional-vox_1_13556930.html",
+      "fecha": "2026-10-18T19:47+00:00",
+      "partidos": [
+        "vox"
       ]
     },
     {
@@ -3154,121 +3266,6 @@
       "fecha": "2026-10-14T20:43+00:00",
       "partidos": [
         "pp"
-      ]
-    },
-    {
-      "titulo": "Castilla y León ya es la única comunidad sin Ley LGTBI por la pasividad del PP y el veto de Vox",
-      "medio": "elDiario.es",
-      "url": "https://www.eldiario.es/castilla-y-leon/politica/castilla-leon-unica-comunidad-ley-lgtbi-pasividad-pp-veto-vox_1_13583762.html",
-      "fecha": "2026-10-14T20:33+00:00",
-      "partidos": [
-        "pp",
-        "vox"
-      ]
-    },
-    {
-      "titulo": "La ambigüedad de Colau sobre la marca del Frente Amplio y sobre su propio liderazgo inquieta en la alianza",
-      "medio": "elDiario.es",
-      "url": "https://www.eldiario.es/politica/ambiguedad-colau-marca-frente-amplio-propio-liderazgo-inquieta-alianza_1_13586239.html",
-      "fecha": "2026-10-14T20:32+00:00",
-      "partidos": [
-        "sumar"
-      ]
-    },
-    {
-      "titulo": "Gabriel Rufián pedirá el voto para EH Bildu y BNG en sus territorios pese al acuerdo con Podemos",
-      "medio": "elDiario.es",
-      "url": "https://www.eldiario.es/politica/gabriel-rufian-pedira-voto-eh-bildu-bng-territorios-pese-acuerdo_1_13585906.html",
-      "fecha": "2026-10-14T20:32+00:00",
-      "partidos": [
-        "bildu",
-        "podemos",
-        "bng"
-      ]
-    },
-    {
-      "titulo": "40 escaños más y mayoría absoluta: el informe interno del PSOE que avala una lista unida de la izquierda en el Senado",
-      "medio": "elDiario.es",
-      "url": "https://www.eldiario.es/politica/40-escanos-mayoria-absoluta-informe-interno-psoe-avala-lista-unida-izquierda-senado_1_13584599.html",
-      "fecha": "2026-10-14T20:32+00:00",
-      "partidos": [
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "El PP patina con las pensiones en la precampaña del 29N",
-      "medio": "elDiario.es",
-      "url": "https://www.eldiario.es/politica/pp-patina-pensiones-precampana-29n_1_13586089.html",
-      "fecha": "2026-10-14T20:32+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Del sistema de pensiones \"quebrado\" de Vox al \"va a petar\" del PP: las alarmas que no avalan Bruselas ni la AIReF",
-      "medio": "elDiario.es",
-      "url": "https://www.eldiario.es/economia/sistema-pensiones-quebrado-vox-petar-pp-alarmas-no-avalan-bruselas-airef_1_13584406.html",
-      "fecha": "2026-10-14T20:32+00:00",
-      "partidos": [
-        "pp",
-        "vox"
-      ]
-    },
-    {
-      "titulo": "Anabel Mateos releva a Antonio Hernando, su pareja, como cabeza de lista del PSOE de Almería al Congreso",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/andalucia/almeria/anabel-mateos-releva-antonio-hernando-pareja-cabeza-20261014213919-nts.html",
-      "fecha": "2026-10-14T19:42+00:00",
-      "partidos": [
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "Abascal se reúne con Le Pen, Orbán y Babiš en Bruselas y recibe sus apoyos para el 29N",
-      "medio": "El Confidencial",
-      "url": "https://www.elconfidencial.com/espana/2026-10-14/abascal-le-pen-patriotas-europa-elecciones-1tps_4445168/",
-      "fecha": "2026-10-14T19:38+00:00",
-      "partidos": [
-        "vox"
-      ]
-    },
-    {
-      "titulo": "El PSCL pendiente del 'sí' de Ferraz a unas listas que en Burgos recuperan a Tudanca para el Senado",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/castilla-leon/pscl-pendiente-ferraz-listas-burgos-recuperan-tudanca-20261014213010-nt.html",
-      "fecha": "2026-10-14T19:30+00:00",
-      "partidos": [
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "El escándalo por las denuncias de acoso sexual contra el alcalde de Algeciras amenaza el bastión del PP en Cádiz",
-      "medio": "elDiario.es",
-      "url": "https://www.eldiario.es/andalucia/cadiz/escandalo-denuncias-acoso-sexual-alcalde-algeciras-amenaza-bastion-pp-cadiz_1_13585459.html",
-      "fecha": "2026-10-14T19:25+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "El PSOE andaluz rechaza el cese de su consejero tras asesorar a Begoña Gómez: «Es una caza de brujas del PP»",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/andalucia/psoe-andaluz-rebela-cese-consejero-tras-asesorar-20261014201606-nts.html",
-      "fecha": "2026-10-14T19:17+00:00",
-      "partidos": [
-        "pp",
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "PP y Vox pactan la moción de censura contra Landaluce en Algeciras y ponen en aprietos al PSOE",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/andalucia/cadiz/pp-vox-firman-peticion-mocion-censura-algeciras-20261014204148-nts.html",
-      "fecha": "2026-10-14T19:04+00:00",
-      "partidos": [
-        "pp",
-        "psoe",
-        "vox"
       ]
     }
   ],
