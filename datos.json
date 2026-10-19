@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-19T17:28+00:00",
+  "actualizado": "2026-10-19T21:28+00:00",
   "temas": [
     {
       "id": "vivienda",
@@ -449,6 +449,137 @@
   ],
   "noticias": [
     {
+      "titulo": "La web electoral de Irene Montero: ni rastro de Podemos y solo con su cara y su nombre",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/web-electoral-irene-montero-rastro-podemos-solo-20261019220211-nt.html",
+      "fecha": "2026-10-19T20:02+00:00",
+      "partidos": [
+        "podemos"
+      ]
+    },
+    {
+      "titulo": "Ester Muñoz: «Los recortes masivos han llegado con Sánchez y se acabarán con Feijóo»",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/castilla-la-mancha/ester-munoz-recortes-masivos-llegado-sanchez-acabaran-20261019214852-nt.html",
+      "fecha": "2026-10-19T19:50+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "Sánchez apela al voto útil de la izquierda al PSOE como garante del Estado del Bienestar frente al modelo “que deja a la intemperie” de PP y Vox",
+      "medio": "El País",
+      "url": "https://elpais.com/espana/elecciones-generales/2026-10-19/sanchez-apela-al-voto-util-de-la-izquierda-al-psoe-como-garante-del-estado-del-bienestar-frente-al-modelo-que-deja-a-la-intemperie-de-pp-y-vox.html",
+      "fecha": "2026-10-19T19:02+00:00",
+      "partidos": [
+        "pp",
+        "psoe",
+        "vox"
+      ]
+    },
+    {
+      "titulo": "El PP afea al PSOE de Toledo su legado en vivienda: venta de suelo público y ni un piso en 16 años",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/castilla-la-mancha/toledo/pp-afea-psoe-toledo-legado-vivienda-venta-20261019205048-nt.html",
+      "fecha": "2026-10-19T18:50+00:00",
+      "partidos": [
+        "pp",
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "Ester Muñoz encabezará la lista del PP de León al Congreso y Alicia García la de Ávila al Senado",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/castilla-leon/ester-munoz-encabezara-nuevo-lista-pp-leon-20261019193657-nt.html",
+      "fecha": "2026-10-19T18:43+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "El PP de Algeciras explica a sus «inquietos» militantes las razones de la moción de censura contra Landaluce",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/andalucia/cadiz/pp-algeciras-explica-inquietos-militantes-razones-mocion-20261019201658-nts.html",
+      "fecha": "2026-10-19T18:36+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "Sánchez alerta ante nueva la visita de Milei: “PP y Vox planean gobernar con el de la motosierra”",
+      "medio": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/politica/20261019/11663052/sanchez-alerta-nueva-visita-milei-pp-vox-planean-gobernar-motosierra.html",
+      "fecha": "2026-10-19T18:35+00:00",
+      "partidos": [
+        "pp",
+        "vox"
+      ]
+    },
+    {
+      "titulo": "Renuncia toda la lista del PSOE de Palencia al Congreso al cambiar Ferraz al número uno",
+      "medio": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/politica/20261019/11663048/renuncia-toda-lista-psoe-palencia-congreso-cambiar-ferraz-numero.html",
+      "fecha": "2026-10-19T18:32+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "El PSOE se queda en Palencia sin lista al Congreso tras la renuncia de sus candidatos por la imposición de Ferraz",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/castilla-leon/psoe-queda-candidatos-congreso-palencia-tras-imponer-20261019193046-nt.html",
+      "fecha": "2026-10-19T18:31+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "Sánchez apela a la concentración del voto en el PSOE ante la fragmentación de la izquierda: \"Todo al rojo\"",
+      "medio": "Europa Press",
+      "url": "https://www.europapress.es/nacional/noticia-sanchez-apela-concentracion-voto-izquierda-psoe-todo-rojo-20261019202934.html",
+      "fecha": "2026-10-19T18:29+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "Los candidatos del PSOE en Palencia renuncian en bloque después de que Ferraz impusiera otra número uno en contra del criterio de las bases",
+      "medio": "El Mundo",
+      "url": "https://www.elmundo.es/espana/2026/10/19/6ad65f9be9cf4af96f8b459c.html",
+      "fecha": "2026-10-19T18:21+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "Vox ofrece al PP un pacto en el Senado frente a la alianza de izquierdas",
+      "medio": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/politica/20261019/11663040/vox-ofrece-pp-pacto-senado-frente-alianza-izquierdas.html",
+      "fecha": "2026-10-19T18:09+00:00",
+      "partidos": [
+        "pp",
+        "vox"
+      ]
+    },
+    {
+      "titulo": "Crisis del PSOE de Palencia con Ferraz: renuncia toda la lista al Congreso tras la sustitución del 'número 1'",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/castilla-y-leon/politica/crisis-psoe-palencia-ferraz-renuncia-lista-congreso-sustitucion-numero-1_1_13598435.html",
+      "fecha": "2026-10-19T18:04+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "Renuncian los candidatos 2 y 3 del PSOE al Congreso por Palencia tras imponer Ferraz a Seijo como cabeza de lista",
+      "medio": "Europa Press",
+      "url": "https://www.europapress.es/castilla-y-leon/noticia-luis-angel-marin-alicia-garcia-renuncian-ocupar-puestos-lista-psoe-congreso-palencia-20261019192520.html",
+      "fecha": "2026-10-19T17:25+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
       "titulo": "El PP confirma a Carmen Fúnez como cabeza de lista al Congreso por Ciudad Real",
       "medio": "ABC",
       "url": "https://www.abc.es/espana/castilla-la-mancha/toledo/pp-confirma-carmen-funez-cabeza-lista-congreso-20261019190923-nt.html",
@@ -528,6 +659,15 @@
       "partidos": [
         "pp",
         "vox"
+      ]
+    },
+    {
+      "titulo": "Podemos borra su logo y lo fía todo a la marca Irene Montero para el 29N",
+      "medio": "El País",
+      "url": "https://elpais.com/espana/2026-10-19/podemos-borra-su-logo-y-lo-fia-todo-a-la-marca-irene-montero-para-el-29n.html",
+      "fecha": "2026-10-19T14:08+00:00",
+      "partidos": [
+        "podemos"
       ]
     },
     {
@@ -3119,148 +3259,6 @@
       "fecha": "2026-10-15T23:37+00:00",
       "partidos": [
         "psoe"
-      ]
-    },
-    {
-      "titulo": "Tensión en el PSOE ante las posibles imposiciones de Ferraz en las listas con cuatro puntos calientes",
-      "medio": "El Mundo",
-      "url": "https://www.elmundo.es/elecciones/elecciones-castilla-y-leon/2026/10/16/6ad0a931fc6c83e50c8b45a4.html",
-      "fecha": "2026-10-15T23:37+00:00",
-      "partidos": [
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "Feijóo garantiza que revalorizará las pensiones y Sánchez le acusa de mentir",
-      "medio": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/politica/20261016/11660046/feijoo-garantiza-revalorizara-pensiones-sanchez-le-acusa-mentir.html",
-      "fecha": "2026-10-15T22:05+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "CHA y el Frente Amplio acuerdan concurrir juntos a las generales en Aragón y seguirán negociando con Podemos",
-      "medio": "elDiario.es",
-      "url": "https://www.eldiario.es/aragon/politica/cha-frente-amplio-acuerdan-concurrir-generales-aragon-seguiran-negociando_1_13589781.html",
-      "fecha": "2026-10-15T22:05+00:00",
-      "partidos": [
-        "sumar",
-        "podemos"
-      ]
-    },
-    {
-      "titulo": "Ayuso y Moñino sellan la paz entre el PP y Vox en Madrid antes del 29-N: \"Nos estamos jugando España\"; \"sabemos quién está enfrente\"",
-      "medio": "El Mundo",
-      "url": "https://www.elmundo.es/madrid/2026/10/16/6ad0de96e9cf4afd3d8b45a9.html",
-      "fecha": "2026-10-15T22:04+00:00",
-      "partidos": [
-        "pp",
-        "vox"
-      ]
-    },
-    {
-      "titulo": "Atasco de las izquierdas en el Senado: el pacto de PSOE y Frente Amplio se enfría casi sin tiempo",
-      "medio": "El Mundo",
-      "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/10/16/6ad114c9e85eceb9518b4598.html",
-      "fecha": "2026-10-15T22:00+00:00",
-      "partidos": [
-        "psoe",
-        "sumar"
-      ]
-    },
-    {
-      "titulo": "Chunta pacta con IU y Sumar la formación de una lista conjunta en Aragón sin Podemos",
-      "medio": "El Mundo",
-      "url": "https://www.elmundo.es/aragon/2026/10/15/6ad1486cfc6c83ed618b4592.html",
-      "fecha": "2026-10-15T21:54+00:00",
-      "partidos": [
-        "sumar",
-        "podemos"
-      ]
-    },
-    {
-      "titulo": "Compromís y Podemos ultiman un acuerdo a la espera de que Frente Amplio rectifique y se integre en la lista única valenciana",
-      "medio": "elDiario.es",
-      "url": "https://www.eldiario.es/comunitat-valenciana/politica/compromis-ultiman-candidatura-conjunta-comunitat-valenciana-espera-si-esquerra-unida-rectifica_1_13589419.html",
-      "fecha": "2026-10-15T21:15+00:00",
-      "partidos": [
-        "sumar",
-        "podemos"
-      ]
-    },
-    {
-      "titulo": "Una asociación fantasma cercana al PSOE se persona en el Supremo contra la suspensión del voto de los nietos",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/asociacion-fantasma-cercana-psoe-persona-supremo-suspension-20261015193605-nt.html",
-      "fecha": "2026-10-15T21:11+00:00",
-      "partidos": [
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "Puigdemont confirma que no será jefe de la oposición en el Parlament cuando regrese a Catalunya",
-      "medio": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/politica/20261015/11660068/puigdemont-confirma-sera-jefe-oposicion-parlament-regrese-catalunya.html",
-      "fecha": "2026-10-15T21:00+00:00",
-      "partidos": [
-        "junts"
-      ]
-    },
-    {
-      "titulo": "El PSOE-A relega al ex número dos de Cerdán en Jaén con el argumento de la paridad",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/andalucia/psoea-relega-numero-dos-cerdan-jaen-argumento-20261015224653-nts.html",
-      "fecha": "2026-10-15T20:48+00:00",
-      "partidos": [
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "Ningún miembro del Gobierno de Etxanobe está en la lista propuesta por el PNV de Bizkaia para las forales",
-      "medio": "elDiario.es",
-      "url": "https://www.eldiario.es/euskadi/miembro-gobierno-etxanobe-lista-propuesta-pnv-bizkaia-forales_1_13589687.html",
-      "fecha": "2026-10-15T20:34+00:00",
-      "partidos": [
-        "pnv"
-      ]
-    },
-    {
-      "titulo": "Més y Frente Amplio cierran un acuerdo al Congreso en Balears sin Podemos",
-      "medio": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/politica/20261015/11660128/mes-frente-amplio-cierran-acuerdo-congreso-balears.html",
-      "fecha": "2026-10-15T20:32+00:00",
-      "partidos": [
-        "sumar",
-        "podemos"
-      ]
-    },
-    {
-      "titulo": "Izquierda Unida rechaza el acuerdo con Compromís que sigue negociando con Podemos",
-      "medio": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/local/valencia/20261015/11660123/izquierda-unida-rechaza-acuerdo-compromis-sigue-negociando.html",
-      "fecha": "2026-10-15T20:21+00:00",
-      "partidos": [
-        "podemos"
-      ]
-    },
-    {
-      "titulo": "Podemos y el Frente Amplio mantienen su pulso en las 24 horas decisivas para la unidad",
-      "medio": "elDiario.es",
-      "url": "https://www.eldiario.es/politica/frente-amplio-mantienen-pulso-24-horas-decisivas-unidad_1_13589325.html",
-      "fecha": "2026-10-15T20:03+00:00",
-      "partidos": [
-        "sumar"
-      ]
-    },
-    {
-      "titulo": "Qué dice hoy la media de las encuestas: PP y Vox aventajan al bloque progresista en 15 puntos mientras la izquierda sigue negociando",
-      "medio": "elDiario.es",
-      "url": "https://www.eldiario.es/politica/dice-hoy-media-encuestas-pp-vox-aventajan-bloque-progresista-15-puntos-izquierda-sigue-negociando_1_13585216.html",
-      "fecha": "2026-10-15T20:03+00:00",
-      "partidos": [
-        "pp",
-        "vox"
       ]
     }
   ],
