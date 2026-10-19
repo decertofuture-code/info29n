@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-19T13:45+00:00",
+  "actualizado": "2026-10-19T17:28+00:00",
   "temas": [
     {
       "id": "vivienda",
@@ -449,12 +449,103 @@
   ],
   "noticias": [
     {
+      "titulo": "El PP confirma a Carmen Fúnez como cabeza de lista al Congreso por Ciudad Real",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/castilla-la-mancha/toledo/pp-confirma-carmen-funez-cabeza-lista-congreso-20261019190923-nt.html",
+      "fecha": "2026-10-19T17:09+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "Sigue en directo el acto del PSOE en Valladolid en el que interviene Pedro Sánchez",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/sigue-directo-acto-psoe-valladolid-interviene-pedro-20261019183734-nt.html",
+      "fecha": "2026-10-19T16:37+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "Quién es Jon Echeverría, el 'influencer' de 22 años que encabeza al PP en Guipúzcoa en las elecciones generales",
+      "medio": "20minutos",
+      "url": "https://www.20minutos.es/nacional/quien-jon-echeverria-influencer-22-anos-encabeza-pp-guipuzcoa-elecciones-generales_7050645_0.html",
+      "fecha": "2026-10-19T16:26+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "El PP confirma que Muñoz, Gamarra, Bendodo, Bravo y Fúnez repiten como 'número uno' al Congreso por sus provincias",
+      "medio": "Europa Press",
+      "url": "https://www.europapress.es/nacional/noticia-pp-confirma-munoz-gamarra-bendodo-bravo-funez-repiten-numero-congreso-provincias-20261019182246.html",
+      "fecha": "2026-10-19T16:22+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "La oposición afea a Moreno que retire ayudas a ONG para personas sin hogar tras pactar con Vox: \"Es solo el principio\"",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/andalucia/oposicion-afea-moreno-retire-ayudas-ong-personas-hogar-pactar-vox-principio_1_13596937.html",
+      "fecha": "2026-10-19T15:57+00:00",
+      "partidos": [
+        "vox"
+      ]
+    },
+    {
+      "titulo": "Mapa de los pactos a la izquierda del PSOE para el 29N: estas son las opciones para votar en cada comunidad",
+      "medio": "20minutos",
+      "url": "https://www.20minutos.es/nacional/mapa-pactos-izquierda-psoe-opciones-votar-29n-cada-comunidad_7050605_0.html",
+      "fecha": "2026-10-19T15:38+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "Irene Montero borra las siglas y el morado de Podemos de su campaña",
+      "medio": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/politica/20261019/11662956/irene-montero-borra-siglas-podemos-color-morado-campana.html",
+      "fecha": "2026-10-19T15:33+00:00",
+      "partidos": [
+        "podemos"
+      ]
+    },
+    {
+      "titulo": "El Gobierno ve \"papel mojado\" el contrato de Feijóo porque el PP \"sube impuestos\" y vota contra subir las pensiones",
+      "medio": "Europa Press",
+      "url": "https://www.europapress.es/nacional/noticia-gobierno-ve-papel-mojado-contrato-feijoo-porque-pp-sube-impuestos-vota-contra-subir-pensiones-20261019172535.html",
+      "fecha": "2026-10-19T15:25+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "Quién es Montse Lluis, la número dos de Vox en Madrid que negoció los pactos con el PP en las comunidades",
+      "medio": "20minutos",
+      "url": "https://www.20minutos.es/nacional/quien-es-montse-lluis-numero-dos-abascal-madrid-negocio-pactos-pp-comunidades_7050502_0.html",
+      "fecha": "2026-10-19T14:23+00:00",
+      "partidos": [
+        "pp",
+        "vox"
+      ]
+    },
+    {
       "titulo": "Rueda se pone de perfil tras afirmar Feijóo que hay un agujero en las pensiones: \"No tengo todos los datos\"",
       "medio": "elDiario.es",
       "url": "https://www.eldiario.es/galicia/rueda-pone-perfil-afirmar-feijoo-hay-agujero-pensiones-no-datos_1_13597605.html",
       "fecha": "2026-10-19T13:37+00:00",
       "partidos": [
         "pp"
+      ]
+    },
+    {
+      "titulo": "Vox publica un 'simulador de sueldo' para explicar el efecto que tendrían sus medidas: así funciona su calculadora",
+      "medio": "20minutos",
+      "url": "https://www.20minutos.es/nacional/vox-publica-un-simulador-sueldo-para-explicar-efecto-que-tendrian-sus-medidas-asi-funciona-su-calculadora_7050566_0.html",
+      "fecha": "2026-10-19T13:33+00:00",
+      "partidos": [
+        "vox"
       ]
     },
     {
@@ -473,6 +564,15 @@
       "fecha": "2026-10-19T13:28+00:00",
       "partidos": [
         "psoe"
+      ]
+    },
+    {
+      "titulo": "Luz verde al pelotazo con pisos de lujo junto a La Romareda: el Gobierno del PP mejora las condiciones al promotor",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/aragon/politica/luz-verde-pelotazo-pisos-lujo-romareda-gobierno-pp-mejora-condiciones-promotor_1_13597562.html",
+      "fecha": "2026-10-19T13:28+00:00",
+      "partidos": [
+        "pp"
       ]
     },
     {
@@ -642,6 +742,16 @@
       ]
     },
     {
+      "titulo": "La izquierda irá rota a las urnas en 47 circunscripciones: Podemos desafía al Frente Amplio y presentará candidaturas",
+      "medio": "El Mundo",
+      "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/10/19/6ad5f3e1fdddff9f5d8b45aa.html",
+      "fecha": "2026-10-19T10:44+00:00",
+      "partidos": [
+        "sumar",
+        "podemos"
+      ]
+    },
+    {
       "titulo": "Vox difunde una imagen falsa de dos ancianos semidesnudos en las protestas de Francia que partió de una cuenta en Israel",
       "medio": "elDiario.es",
       "url": "https://www.eldiario.es/rastreador/vox-difunde-imagen-falsa-ancianos-semidesnudos-protestas-francia-partio-cuenta-israel_132_13596760.html",
@@ -748,10 +858,29 @@
       ]
     },
     {
+      "titulo": "Abascal aúpa al número dos por Madrid a Montse Lluis, negociadora de los pactos con el PP en las comunidades, y lleva a su portavoz en Ceuta como tres",
+      "medio": "El Mundo",
+      "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/10/19/6ad5d572e85ecee8408b458b.html",
+      "fecha": "2026-10-19T09:29+00:00",
+      "partidos": [
+        "pp",
+        "vox"
+      ]
+    },
+    {
       "titulo": "Llarena aplica la amnistía a Puigdemont sin necesidad de que el TC vea su amparo: ya puede volver a España",
       "medio": "ABC",
       "url": "https://www.abc.es/espana/llarena-aplica-amnistia-puigdemont-necesidad-tc-vea-20261019102132-nt.html",
       "fecha": "2026-10-19T09:21+00:00",
+      "partidos": [
+        "junts"
+      ]
+    },
+    {
+      "titulo": "El juez acerca la amnistía para Puigdemont entre críticas al Constitucional por falta de \"mesura\" en su sentencia",
+      "medio": "Europa Press",
+      "url": "https://www.europapress.es/nacional/noticia-juez-acerca-amnistia-puigdemont-criticas-constitucional-falta-mesura-sentencia-20261019111922.html",
+      "fecha": "2026-10-19T09:19+00:00",
       "partidos": [
         "junts"
       ]
@@ -3132,136 +3261,6 @@
       "partidos": [
         "pp",
         "vox"
-      ]
-    },
-    {
-      "titulo": "Feijóo tiene un problema con las campañas",
-      "medio": "elDiario.es",
-      "url": "https://www.eldiario.es/opinion/zona-critica/feijoo-problema-campanas_129_13588361.html",
-      "fecha": "2026-10-15T20:03+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Feijóo promete a Von der Leyen apoyar las devoluciones inmediatas de inmigrantes ilegales frente al bloqueo de Sánchez",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/feijoo-critica-politica-exterior-sanchez-haber-utilizada-20261015114250-nt.html",
-      "fecha": "2026-10-15T18:21+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Montero dice que Podemos sigue \"buscando acuerdos en más territorios\" tras el pacto en Canarias con NC, Sumar y IU",
-      "medio": "Europa Press",
-      "url": "https://www.europapress.es/nacional/noticia-montero-dice-podemos-sigue-buscando-acuerdos-mas-territorios-pacto-canarias-nc-sumar-iu-20261015193710.html",
-      "fecha": "2026-10-15T17:37+00:00",
-      "partidos": [
-        "sumar",
-        "podemos"
-      ]
-    },
-    {
-      "titulo": "Cuenta atrás para Podemos y el Frente Amplio: la unidad \"muy difícil\" en Madrid torpedea el resto del mapa pero Canarias anuncia la primera candidatura única",
-      "medio": "El Mundo",
-      "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/10/15/6ad099b9e4d4d8275d8b4589.html",
-      "fecha": "2026-10-15T17:12+00:00",
-      "partidos": [
-        "sumar",
-        "podemos"
-      ]
-    },
-    {
-      "titulo": "CCOO pide explicaciones a la cúpula de RTVE por avanzar RAC1 fragmentos de una entrevista en La 2 Cat a Puigdemont",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/cataluna/ccoo-pide-explicaciones-cupula-rtve-avanzar-rac1-20261015190541-nt.html",
-      "fecha": "2026-10-15T17:10+00:00",
-      "partidos": [
-        "junts"
-      ]
-    },
-    {
-      "titulo": "NC-BC, Podemos Canarias, IUC y Sumar Canarias acudirán en alianza al 29N bajo la marca 'Unidad del Pueblo Canario'",
-      "medio": "Europa Press",
-      "url": "https://www.europapress.es/islas-canarias/noticia-nc-bc-podemos-canarias-iuc-sumar-canarias-acudiran-alianza-29n-marca-unidad-pueblo-canario-20261015185207.html",
-      "fecha": "2026-10-15T16:52+00:00",
-      "partidos": [
-        "sumar",
-        "podemos"
-      ]
-    },
-    {
-      "titulo": "Abascal se reúne con Giorgia Meloni en Bruselas y reivindica el modelo italiano: \"España también puede elegirlo\"",
-      "medio": "20minutos",
-      "url": "https://www.20minutos.es/nacional/abascal-se-reune-con-giorgia-meloni-bruselas-reivindica-modelo-italiano-espana-tambien-puede-elegirlo_7049336_0.html",
-      "fecha": "2026-10-15T16:48+00:00",
-      "partidos": [
-        "vox"
-      ]
-    },
-    {
-      "titulo": "Malestar en el PSOE de Guadalajara ante la posibilidad de que Ferraz cambie su lista al Congreso",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/castilla-la-mancha/malestar-psoe-guadalajara-ante-posibilidad-ferraz-cambie-20261015125114-nt.html",
-      "fecha": "2026-10-15T16:44+00:00",
-      "partidos": [
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "Acuerdo histórico en la izquierda canaria: Podemos se une a la candidatura de Nueva Canarias, IU y Sumar en las generales",
-      "medio": "elDiario.es",
-      "url": "https://www.eldiario.es/canariasahora/politica/acuerdo-historico-izquierda-canaria-suma-confluencia-llamara-unidad-pueblo-canario_1_13589265.html",
-      "fecha": "2026-10-15T16:41+00:00",
-      "partidos": [
-        "sumar",
-        "podemos"
-      ]
-    },
-    {
-      "titulo": "Guardias civiles ven «inaceptable» la sombra de las 'cloacas' del PSOE en su cúpula",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/guardias-civiles-consideran-inaceptable-sombra-cloacas-psoe-20261015184109-nt.html",
-      "fecha": "2026-10-15T16:41+00:00",
-      "partidos": [
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "Un juez abre diligencias por el gas pimienta exhibido por una diputada del PP en el Congreso",
-      "medio": "El Mundo",
-      "url": "https://www.elmundo.es/espana/2026/10/15/6ad0fbede85ece6f548b4577.html",
-      "fecha": "2026-10-15T16:27+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Un juez abre diligencias por el caso del gas pimienta de la diputada del PP Ana Vázquez en el Congreso",
-      "medio": "20minutos",
-      "url": "https://www.20minutos.es/nacional/un-juez-abre-diligencias-por-caso-gas-pimienta-diputada-pp-ana-vazquez-congreso_7049245_0.html",
-      "fecha": "2026-10-15T14:46+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "La Junta Electoral abre expediente a Sánchez tras denunciar el PP un \"mitin\" en Moncloa",
-      "medio": "El Confidencial",
-      "url": "https://www.elconfidencial.com/espana/2026-10-15/junta-electoral-central-abre-expediente-a-sanchez-tras-denunciar-el-pp-un-mitin-en-moncloa_4445782/",
-      "fecha": "2026-10-15T14:34+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "La 'cloaca' del PSOE intentó persuadir a la líder de 'Los Rocho' con un perfil falso de Facebook para contratar \"palos\" contra Biedma",
-      "medio": "El Mundo",
-      "url": "https://www.elmundo.es/espana/2026/10/15/6ad0cd96fc6c837c488b45be.html",
-      "fecha": "2026-10-15T13:56+00:00",
-      "partidos": [
-        "psoe"
       ]
     }
   ],
