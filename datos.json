@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-19T21:28+00:00",
+  "actualizado": "2026-10-20T05:17+00:00",
   "temas": [
     {
       "id": "vivienda",
@@ -449,6 +449,140 @@
   ],
   "noticias": [
     {
+      "titulo": "El resultado de las elecciones del 29N en España si solo votasen los parados: porcentajes de PP, PSOE, Vox y el resto de partidos",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/resultado-elecciones-29n-espana-solo-votasen-parados-20261020054500-nt.html",
+      "fecha": "2026-10-20T03:45+00:00",
+      "partidos": [
+        "pp",
+        "psoe",
+        "vox"
+      ]
+    },
+    {
+      "titulo": "“ETA está en el poder” y “no mata porque no le hace falta”: el PP y Vox aún hablan en presente de la banda que dejó las armas en 2011",
+      "medio": "El País",
+      "url": "https://elpais.com/espana/2026-10-20/eta-esta-en-el-poder-y-no-mata-porque-no-le-hace-falta-el-pp-y-vox-aun-hablan-en-presente-de-la-banda-que-dejo-las-armas-en-2011.html",
+      "fecha": "2026-10-20T03:30+00:00",
+      "partidos": [
+        "pp",
+        "vox"
+      ]
+    },
+    {
+      "titulo": "Mónica García renuncia a la lista del Frente Amplio: “Siempre he antepuesto el bien común al personal”",
+      "medio": "El País",
+      "url": "https://elpais.com/espana/elecciones-generales/2026-10-20/monica-garcia-renuncia-a-la-lista-del-frente-amplio-siempre-he-antepuesto-el-bien-comun-al-personal.html",
+      "fecha": "2026-10-20T03:30+00:00",
+      "partidos": [
+        "sumar"
+      ]
+    },
+    {
+      "titulo": "La alianza al Senado da un amplio margen a la izquierda valenciana para ganar al PP",
+      "medio": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/local/valencia/20261020/11662914/alianza-senado-da-amplio-margen-izquierda-valenciana-ganar-pp.html",
+      "fecha": "2026-10-20T03:30+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "Seis delegados del Gobierno, incluidas Pilar Bernabé y Adriana Lastra, cesan este martes para ir en las listas del PSOE",
+      "medio": "20minutos",
+      "url": "https://www.20minutos.es/nacional/seis-delegados-gobierno-incluidas-pilar-bernabe-adriana-lastra-cesan-este-martes-para-ir-las-listas-psoe_7050631_0.html",
+      "fecha": "2026-10-20T03:00+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "El PP mantiene la incógnita sobre un posible acuerdo en el Senado tras la oferta de Vox",
+      "medio": "20minutos",
+      "url": "https://www.20minutos.es/nacional/pp-mantiene-incognita-sobre-un-posible-acuerdo-senado-tras-oferta-vox-no-presentarse-algunas-provincias_7050657_0.html",
+      "fecha": "2026-10-20T03:00+00:00",
+      "partidos": [
+        "pp",
+        "vox"
+      ]
+    },
+    {
+      "titulo": "El PP propone a Vox que no se presente en todas las circunscripciones y le garantiza senadores autonómicos",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/negociacion-quirurgica-pp-vox-evitar-izquierda-haga-20261020012626-nt.html",
+      "fecha": "2026-10-19T23:56+00:00",
+      "partidos": [
+        "pp",
+        "vox"
+      ]
+    },
+    {
+      "titulo": "Los privilegios que tendrá Puigdemont al volver a España: 70.385 de sueldo, chófer, escolta y un despacho con tres asesores",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/11730867-sueldo-chofer-escolta-despacho-tres-asesores-20261027012912-nt.html",
+      "fecha": "2026-10-19T23:29+00:00",
+      "partidos": [
+        "junts"
+      ]
+    },
+    {
+      "titulo": "Montse Lluis, el nexo de Vox con el PP que acompañará a Abascal en el Congreso",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/montse-lluis-nexo-vox-pp-acompanara-abascal-20261020012541-nt.html",
+      "fecha": "2026-10-19T23:26+00:00",
+      "partidos": [
+        "pp",
+        "vox"
+      ]
+    },
+    {
+      "titulo": "El pacto con Vox no pasa factura a Juanma Moreno pero los andaluces sí penalizan a Pedro Sánchez",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/andalucia/andalucia-pasa-factura-juanma-moreno-alianza-vox-20261020012558-nts.html",
+      "fecha": "2026-10-19T23:25+00:00",
+      "partidos": [
+        "psoe",
+        "vox"
+      ]
+    },
+    {
+      "titulo": "Abascal sale a buscar votos en Burgos, León, Segovia y La Coruña, donde no logró representación en 2023",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/abascal-sale-buscar-votos-burgos-leon-coruna-20261019012534-nt.html",
+      "fecha": "2026-10-19T23:25+00:00",
+      "partidos": [
+        "vox"
+      ]
+    },
+    {
+      "titulo": "Podemos explora la dulcificación de Irene Montero: de regañar a la sonrisa",
+      "medio": "El Mundo",
+      "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/10/20/6ad656d7fc6c8351798b4580.html",
+      "fecha": "2026-10-19T22:00+00:00",
+      "partidos": [
+        "podemos"
+      ]
+    },
+    {
+      "titulo": "Un concejal del PP de València, cerebro jurídico de la alcaldesa, gana un pleito a un organismo del Gobierno de Díaz Ayuso",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/comunitat-valenciana/concejal-pp-valencia-cerebro-juridico-alcaldesa-gana-pleito-organismo-gobierno-diaz-ayuso_1_13598015.html",
+      "fecha": "2026-10-19T21:01+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "PP y Vox se quedan a 6 escaños del control total del Senado tras el frente de izquierdas",
+      "medio": "El Mundo",
+      "url": "https://www.elmundo.es/espana/encuestas/2026/10/19/6ad65700fc6c837b168b4590.html",
+      "fecha": "2026-10-19T20:55+00:00",
+      "partidos": [
+        "pp",
+        "vox"
+      ]
+    },
+    {
       "titulo": "La web electoral de Irene Montero: ni rastro de Podemos y solo con su cara y su nombre",
       "medio": "ABC",
       "url": "https://www.abc.es/espana/web-electoral-irene-montero-rastro-podemos-solo-20261019220211-nt.html",
@@ -458,10 +592,47 @@
       ]
     },
     {
+      "titulo": "Vox sondea un “acuerdo” con el PP contra la unión de las izquierdas en el Senado",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/politica/vox-sondea-acuerdo-pp-union-izquierdas-senado_1_13598276.html",
+      "fecha": "2026-10-19T19:54+00:00",
+      "partidos": [
+        "pp",
+        "vox"
+      ]
+    },
+    {
+      "titulo": "El PP se prepara para un gobierno en minoría en Algeciras tras la dimisión de Landaluce por las acusaciones de acoso sexual",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/andalucia/cadiz/pp-prepara-gobierno-minoria-algeciras-dimision-landaluce-acusaciones-acoso-sexual_1_13597666.html",
+      "fecha": "2026-10-19T19:54+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "Un nuevo volantazo del PP amenaza con bloquear la exhumación de Monumento, la mayor fosa franquista de Sevilla",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/sevilla/nuevo-volantazo-pp-amenaza-bloquear-exhumacion-monumento-mayor-fosa-franquista-sevilla_1_13597010.html",
+      "fecha": "2026-10-19T19:54+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
       "titulo": "Ester Muñoz: «Los recortes masivos han llegado con Sánchez y se acabarán con Feijóo»",
       "medio": "ABC",
       "url": "https://www.abc.es/espana/castilla-la-mancha/ester-munoz-recortes-masivos-llegado-sanchez-acabaran-20261019214852-nt.html",
       "fecha": "2026-10-19T19:50+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "El PP tapa un año después y con una tabla una inscripción franquista en Álava y el Gobierno lo tacha de \"vergüenza\"",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/euskadi/pp-tapa-ano-despues-tabla-inscripcion-franquista-alava-gobierno-tacha-verguenza_1_13596073.html",
+      "fecha": "2026-10-19T19:46+00:00",
       "partidos": [
         "pp"
       ]
@@ -543,6 +714,17 @@
       ]
     },
     {
+      "titulo": "El Frente Amplio en Castilla-La Mancha, sin Podemos: \"El objetivo es arrebatar el último escaño a Vox y no es inalcanzable\"",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/castilla-la-mancha/politica/frente-amplio-castilla-mancha-objetivo-arrebatar-ultimo-escano-vox-no-inalcanzable_1_13598012.html",
+      "fecha": "2026-10-19T18:27+00:00",
+      "partidos": [
+        "vox",
+        "sumar",
+        "podemos"
+      ]
+    },
+    {
       "titulo": "Los candidatos del PSOE en Palencia renuncian en bloque después de que Ferraz impusiera otra número uno en contra del criterio de las bases",
       "medio": "El Mundo",
       "url": "https://www.elmundo.es/espana/2026/10/19/6ad65f9be9cf4af96f8b459c.html",
@@ -559,6 +741,15 @@
       "partidos": [
         "pp",
         "vox"
+      ]
+    },
+    {
+      "titulo": "Sánchez insiste en \"poner pie en pared a las de los aticazos y a los fondos buitres\" tras la dimisión de la portavoz del PSOE por sus \"30 pisos\"",
+      "medio": "El Mundo",
+      "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/10/19/6ad5f28ee9cf4aae258b45b0.html",
+      "fecha": "2026-10-19T18:06+00:00",
+      "partidos": [
+        "psoe"
       ]
     },
     {
@@ -815,6 +1006,15 @@
       "partidos": [
         "pp",
         "vox"
+      ]
+    },
+    {
+      "titulo": "Feijóo empeña su \"palabra\" en la reconstrucción nacional: \"Vamos a recuperar el orgullo de lo que somos\"",
+      "medio": "El Mundo",
+      "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/10/19/6ad5fee2fc6c83b5598b45c1.html",
+      "fecha": "2026-10-19T11:50+00:00",
+      "partidos": [
+        "pp"
       ]
     },
     {
@@ -3057,206 +3257,6 @@
       "medio": "Europa Press",
       "url": "https://www.europapress.es/nacional/noticia-bolanos-ve-tendencia-alza-psoe-precampana-elude-responder-si-participara-actos-zapatero-20261016102649.html",
       "fecha": "2026-10-16T08:26+00:00",
-      "partidos": [
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "PSOE Canarias cierra sus candidaturas al 29N con Valbuena y Corujo al Congreso",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/canarias/psoe-canarias-cierra-candidaturas-29n-valbuena-corujo-20261016100909-nt.html",
-      "fecha": "2026-10-16T08:17+00:00",
-      "partidos": [
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "Un diputado del PSOE tiene un bufete que ejecuta hipotecas para fondos buitre y no lo declara \"por dejadez\"",
-      "medio": "El Confidencial",
-      "url": "https://www.elconfidencial.com/espana/2026-10-16/diputado-psoe-bufete-fondos-buitre-desahucios-murcia_4446201/",
-      "fecha": "2026-10-16T08:05+00:00",
-      "partidos": [
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "Frente Amplio ofrece a Irene Montero un puesto de salida en Madrid para las elecciones",
-      "medio": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/politica/20261016/11660458/frente-amplio-ofrece-irene-montero-puesto-salida-madrid-elecciones.html",
-      "fecha": "2026-10-16T07:54+00:00",
-      "partidos": [
-        "sumar"
-      ]
-    },
-    {
-      "titulo": "Feijóo pide desplegar la Armada en Ceuta ante las \"invasiones marroquíes\" y llamar a consultas al embajador español en Rabat",
-      "medio": "20minutos",
-      "url": "https://www.20minutos.es/nacional/feijoo-pide-desplegar-armada-ceuta-ante-las-invasiones-marroquies-llamar-consultas-embajador-marruecos_7049498_0.html",
-      "fecha": "2026-10-16T07:40+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Delgado reitera la generosidad de Frente Amplio con Montero en Madrid: \"Se le ofrece el puesto 2 y 3 en la lista\"",
-      "medio": "Europa Press",
-      "url": "https://www.europapress.es/nacional/noticia-29n-delgado-reitera-generosidad-frente-amplio-montero-madrid-le-ofrece-puesto-lista-20261016093604.html",
-      "fecha": "2026-10-16T07:36+00:00",
-      "partidos": [
-        "sumar"
-      ]
-    },
-    {
-      "titulo": "DIRECTO | Pedro Sánchez participa en la cumbre del Consejo Europeo en Bruselas",
-      "medio": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/politica/20261016/11660419/directo-pedro-sanchez-participa-cumbre-consejo-europeo-bruselas.html",
-      "fecha": "2026-10-16T07:12+00:00",
-      "partidos": [
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "Frente Amplio celebra los últimos acuerdos alcanzados en Aragón y Baleares y mantiene \"la puerta abierta\" a Podemos",
-      "medio": "Europa Press",
-      "url": "https://www.europapress.es/nacional/noticia-frente-amplio-celebra-ultimos-acuerdos-alcanzados-aragon-baleares-mantiene-puerta-abierta-podemos-20261016090241.html",
-      "fecha": "2026-10-16T07:02+00:00",
-      "partidos": [
-        "sumar",
-        "podemos"
-      ]
-    },
-    {
-      "titulo": "Feijóo exige desplegar ya a la Armada en Ceuta ante “varias invasiones” marroquíes en aguas españolas",
-      "medio": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/politica/20261016/11660412/feijoo-exige-desplegar-armada-ceuta-invasiones-marroquies-aguas-espanolas.html",
-      "fecha": "2026-10-16T06:59+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "El pacto Compromís-Podemos: los morados se quedan el 1 por Alicante pero sus siglas no aparecen",
-      "medio": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/local/valencia/20261016/11660399/pacto-compromis-morados-quedan-1-alicante-siglas-aparecen.html",
-      "fecha": "2026-10-16T06:47+00:00",
-      "partidos": [
-        "podemos"
-      ]
-    },
-    {
-      "titulo": "Elecciones generales, última hora de los pactos electorales en directo | Podemos desmiente a Frente Amplio y niega que hayan ofrecido a Irene Montero el número dos de la lista en Madrid",
-      "medio": "20minutos",
-      "url": "https://www.20minutos.es/nacional/podemos-frente-amplio-elecciones-29-n-directo-izquierda-negociaciones-coaliciones_7049439_6.html",
-      "fecha": "2026-10-16T05:36+00:00",
-      "partidos": [
-        "sumar",
-        "podemos"
-      ]
-    },
-    {
-      "titulo": "Cien días después, a PP y Vox les salen las cuentas en Andalucía",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/andalucia/cien-dias-despues-pp-vox-salen-cuentas-20261016062547-nts.html",
-      "fecha": "2026-10-16T04:25+00:00",
-      "partidos": [
-        "pp",
-        "vox"
-      ]
-    },
-    {
-      "titulo": "El PP de Ayuso apuesta por Cayetana Álvarez de Toledo como ‘número dos’ por Madrid en las generales",
-      "medio": "El País",
-      "url": "https://elpais.com/espana/2026-10-16/el-pp-de-ayuso-apuesta-por-cayetana-alvarez-de-toledo-como-numero-dos-por-madrid-en-las-generales.html",
-      "fecha": "2026-10-16T03:30+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "El resultado de las elecciones del 29N en España si solo votasen los pensionistas: porcentajes de PP, PSOE, Vox y el resto de partidos",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/resultado-elecciones-29n-espana-solo-votasen-pensionistas-20261016060000-nt.html",
-      "fecha": "2026-10-16T03:20+00:00",
-      "partidos": [
-        "pp",
-        "psoe",
-        "vox"
-      ]
-    },
-    {
-      "titulo": "Encuestas elecciones generales del 29N País Vasco: resultados de PSOE, PP, Bildu y PNV y ganador según los sondeos",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/pais-vasco/encuestas-elecciones-generales-29n-pais-vasco-resultados-20261016051500-nt.html",
-      "fecha": "2026-10-16T03:15+00:00",
-      "partidos": [
-        "pp",
-        "psoe",
-        "bildu",
-        "pnv"
-      ]
-    },
-    {
-      "titulo": "Vox y PP retoman los recortes a los sindicatos en Castilla y León con la meta de llegar hasta el 50%",
-      "medio": "El Confidencial",
-      "url": "https://www.elconfidencial.com/espana/castilla-y-leon/2026-10-16/vox-y-pp-retoman-los-recortes-a-los-sindicatos-en-castilla-y-leon-con-la-meta-de-llegar-hasta-el-50_4445785/",
-      "fecha": "2026-10-16T03:00+00:00",
-      "partidos": [
-        "pp",
-        "vox"
-      ]
-    },
-    {
-      "titulo": "Un asesor del PP en el Senado gana un pleito contra Catalá por la moratoria de pisos turísticos en Valencia",
-      "medio": "El Confidencial",
-      "url": "https://www.elconfidencial.com/espana/comunidad-valenciana/2026-10-16/asesor-pp-senado-moratoria-turisticos-catala-valencia_4445837/",
-      "fecha": "2026-10-16T03:00+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "El pacto de vivienda que pudo ser y no fue: Page ofreció a Sánchez y Feijóo una tercera vía en 2024",
-      "medio": "El Confidencial",
-      "url": "https://www.elconfidencial.com/espana/2026-10-16/pacto-vivienda-page-sanchez-feijoo-tercera-via_4445677/",
-      "fecha": "2026-10-16T03:00+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Frente Amplio y Podemos se encaminan a la batalla en Madrid y Cataluña el 29-N, pero a una posible unidad en el resto de España",
-      "medio": "20minutos",
-      "url": "https://www.20minutos.es/nacional/frente-amplio-podemos-se-encaminan-batalla-madrid-cataluna-29-n-pero-una-posible-unidad-resto-espana_7049302_0.html",
-      "fecha": "2026-10-16T03:00+00:00",
-      "partidos": [
-        "sumar",
-        "podemos"
-      ]
-    },
-    {
-      "titulo": "El PSOE y la izquierda apuran pactos provinciales para disputar al PP la mayoría absoluta del Senado",
-      "medio": "20minutos",
-      "url": "https://www.20minutos.es/nacional/psoe-partidos-su-izquierda-apuran-un-pacto-varias-provincias-para-intentar-disputar-pp-mayoria-absoluta-senado_7049334_0.html",
-      "fecha": "2026-10-16T03:00+00:00",
-      "partidos": [
-        "pp",
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "Feijóo lanzará este lunes un manifiesto por la «reconstrucción nacional»",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/feijoo-lanzara-manifiesto-reconstruccion-nacional-lunes-lineas-20261016013633-nt.html",
-      "fecha": "2026-10-15T23:43+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "La directora de la Guardia Civil sólo se interesó por las investigaciones de la UCO que afectaban al PSOE",
-      "medio": "El Mundo",
-      "url": "https://www.elmundo.es/espana/2026/10/16/6ad113d421efa0d8708b45c2.html",
-      "fecha": "2026-10-15T23:37+00:00",
       "partidos": [
         "psoe"
       ]
