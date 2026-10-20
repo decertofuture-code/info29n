@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-20T05:17+00:00",
+  "actualizado": "2026-10-20T09:31+00:00",
   "temas": [
     {
       "id": "vivienda",
@@ -449,6 +449,128 @@
   ],
   "noticias": [
     {
+      "titulo": "Ferraz cierra filas con Martínez Seijo tras la dimisión en bloque de la lista del PSOE de Palencia",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/castilla-y-leon/politica/ferraz-defiende-cambios-lista-psoe-palencia-dimision-integrantes_1_13599362.html",
+      "fecha": "2026-10-20T09:16+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "El rato musical «inolvidable» de Pedro Sánchez y Óscar Puente con los Celtas Cortos",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/castilla-leon/rato-musical-inolvidable-pedro-sanchez-oscar-puente-20261020104841-nt.html",
+      "fecha": "2026-10-20T08:48+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "Quién es Cristian Toro, la sorpresa de Abascal en la lista de Vox al Congreso: de su pasado en televisión a oro olímpico",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/cristian-toro-sorpresa-abascal-listas-vox-29n-20261019132518-nt.html",
+      "fecha": "2026-10-20T08:46+00:00",
+      "partidos": [
+        "vox"
+      ]
+    },
+    {
+      "titulo": "Feijóo espera que el TC inadmita el recurso de la 'ley de nietos': «No se atreverá a ese disparate»",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/feijoo-espera-tc-inadmita-recurso-ley-nietos-20261020095144-nt.html",
+      "fecha": "2026-10-20T08:38+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "Feijóo plantea ceder senadores autonómicos a Vox para que no se presente en algunas circunscripciones",
+      "medio": "El País",
+      "url": "https://elpais.com/espana/elecciones-generales/2026-10-20/feijoo-confirma-negociaciones-con-vox-para-las-listas-del-senado-si-estan-a-la-altura-el-pp-tambien.html",
+      "fecha": "2026-10-20T08:28+00:00",
+      "partidos": [
+        "pp",
+        "vox"
+      ]
+    },
+    {
+      "titulo": "PP y Vox buscan una fórmula para \"no facilitar al sanchismo\" el control del Senado pero mantienen discreción",
+      "medio": "20minutos",
+      "url": "https://www.20minutos.es/nacional/pp-vox-buscan-una-formula-para-no-facilitar-sanchismo-control-senado-pero-mantienen-discrecion_7050850_0.html",
+      "fecha": "2026-10-20T07:51+00:00",
+      "partidos": [
+        "pp",
+        "vox"
+      ]
+    },
+    {
+      "titulo": "Feijóo busca un acuerdo con Vox en el Senado: “Sería un error facilitarle el control al sanchismo”",
+      "medio": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/politica/20261020/11663390/feijoo-busca-acuerdo-vox-senado-seria-error-facilitarle-control-sanchismo.html",
+      "fecha": "2026-10-20T07:47+00:00",
+      "partidos": [
+        "pp",
+        "vox"
+      ]
+    },
+    {
+      "titulo": "Feijóo admite que busca una \"fórmula\" con Vox en el Senado porque sería \"un error facilitar al sanchismo\" su control",
+      "medio": "Europa Press",
+      "url": "https://www.europapress.es/nacional/noticia-feijoo-admite-busca-formula-vox-senado-porque-seria-error-facilitar-sanchismo-control-20261020093316.html",
+      "fecha": "2026-10-20T07:33+00:00",
+      "partidos": [
+        "pp",
+        "vox"
+      ]
+    },
+    {
+      "titulo": "Feijóo confirma negociaciones con Vox para buscar una mayoría en el Senado que les permita controlar el Constitucional",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/politica/feijoo-confirma-negociaciones-vox-buscar-mayoria-senado-les-permita-controlar-constitucional_1_13598996.html",
+      "fecha": "2026-10-20T07:30+00:00",
+      "partidos": [
+        "pp",
+        "vox"
+      ]
+    },
+    {
+      "titulo": "Feijóo lanza su contrato político: menos impuestos y una Administración “limpia”",
+      "medio": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/politica/20261020/11663355/feijoo-lanza-contrato-politico-impuestos-administracion-limpia.html",
+      "fecha": "2026-10-20T06:53+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "Milei se verá con Ayuso e Ignacio Garriga en Madrid pero no con Abascal en la antesala de las elecciones",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/politica/milei-vera-ayuso-e-ignacio-garriga-madrid-no-abascal-antesala-elecciones_1_13598553.html",
+      "fecha": "2026-10-20T06:14+00:00",
+      "partidos": [
+        "vox"
+      ]
+    },
+    {
+      "titulo": "Mónica García renuncia a ir en las listas del Frente Amplio para centrarse en las autonómicas y Tesh Sidi será la número dos",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/politica/monica-garcia-renuncia-listas-frente-amplio-centrarse-elecciones-autonomicas_1_13598869.html",
+      "fecha": "2026-10-20T05:55+00:00",
+      "partidos": [
+        "sumar"
+      ]
+    },
+    {
+      "titulo": "Mónica García renuncia a incorporarse a la lista de Frente Amplio para centrarse en las elecciones autonómicas",
+      "medio": "20minutos",
+      "url": "https://www.20minutos.es/nacional/monica-garcia-renuncia-incorporarse-lista-frente-amplio-para-centrarse-las-elecciones-autonomicas_7050793_0.html",
+      "fecha": "2026-10-20T05:41+00:00",
+      "partidos": [
+        "sumar"
+      ]
+    },
+    {
       "titulo": "El resultado de las elecciones del 29N en España si solo votasen los parados: porcentajes de PP, PSOE, Vox y el resto de partidos",
       "medio": "ABC",
       "url": "https://www.abc.es/espana/resultado-elecciones-29n-espana-solo-votasen-parados-20261020054500-nt.html",
@@ -511,6 +633,16 @@
       "medio": "ABC",
       "url": "https://www.abc.es/espana/negociacion-quirurgica-pp-vox-evitar-izquierda-haga-20261020012626-nt.html",
       "fecha": "2026-10-19T23:56+00:00",
+      "partidos": [
+        "pp",
+        "vox"
+      ]
+    },
+    {
+      "titulo": "Vox se abre a facilitar la mayoría en el Senado si el PP le cede senadores",
+      "medio": "El Mundo",
+      "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/10/20/6ad664d7e85ecee20e8b459b.html",
+      "fecha": "2026-10-19T23:50+00:00",
       "partidos": [
         "pp",
         "vox"
@@ -3130,135 +3262,6 @@
       "fecha": "2026-10-16T09:58+00:00",
       "partidos": [
         "bildu"
-      ]
-    },
-    {
-      "titulo": "El PP acusa al Gobierno de \"hipócrita y cínico\" por utilizar las pensiones para tapar la polémica de vivienda de Montse Mínguez",
-      "medio": "20minutos",
-      "url": "https://www.20minutos.es/nacional/pp-acusa-gobierno-hipocrita-cinico-por-utilizar-las-pensiones-para-tapar-polemica-vivienda-montse-minguez_7049577_0.html",
-      "fecha": "2026-10-16T09:56+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "El PSOE defiende la \"intachable\" la trayectoria de su portavoz tras la polémica de los \"30 pisos\": \"Siempre ha votado a favor de que los grandes tenedores no tengan beneficios\"",
-      "medio": "El Mundo",
-      "url": "https://www.elmundo.es/espana/2026/10/16/6ad1eb00e4d4d897598b45a9.html",
-      "fecha": "2026-10-16T09:40+00:00",
-      "partidos": [
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "Compromís y Frente Amplio-EUPV negocian in extremis para salvar el acuerdo unitario de la izquierda valenciana",
-      "medio": "elDiario.es",
-      "url": "https://www.eldiario.es/comunitat-valenciana/politica/compromis-frente-amplio-eupv-negocian-in-extremis-salvar-acuerdo-unitario-izquierda-valenciana_1_13590307.html",
-      "fecha": "2026-10-16T09:40+00:00",
-      "partidos": [
-        "sumar"
-      ]
-    },
-    {
-      "titulo": "Vox exige explicaciones a la Junta por una presunta agresión sexual en una residencia de Albacete en 2022",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/castilla-la-mancha/toledo/vox-exige-explicaciones-junta-presunta-agresion-sexual-20261016112422-nt.html",
-      "fecha": "2026-10-16T09:24+00:00",
-      "partidos": [
-        "vox"
-      ]
-    },
-    {
-      "titulo": "La Junta Electoral recalca a PP y Vox que la transparencia del voto por correo está regulada en la ley y rechaza medidas extra",
-      "medio": "elDiario.es",
-      "url": "https://www.eldiario.es/politica/junta-electoral-recalca-pp-vox-transparencia-voto-correo-regulada-ley-rechaza-medidas-extra_1_13590350.html",
-      "fecha": "2026-10-16T09:23+00:00",
-      "partidos": [
-        "pp",
-        "vox"
-      ]
-    },
-    {
-      "titulo": "Caos en las últimas horas en los pactos de la izquierda: ruptura en la Comunidad Valenciana y se desatan las críticas en Podemos",
-      "medio": "El Mundo",
-      "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/10/16/6ad111f221efa0ea748b4598.html",
-      "fecha": "2026-10-16T09:21+00:00",
-      "partidos": [
-        "podemos"
-      ]
-    },
-    {
-      "titulo": "Velázquez: «Las ferias de La Vega están siendo un éxito y el PSOE hubiera deseado que fueran un fracaso»",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/castilla-la-mancha/toledo/velazquez-ferias-vega-exito-psoe-deseado-fracaso-20261016110748-nt.html",
-      "fecha": "2026-10-16T09:09+00:00",
-      "partidos": [
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "Así están los acuerdos territoriales a la izquierda del PSOE para las elecciones del 29-N",
-      "medio": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/politica/20261016/11660502/asi-acuerdos-territoriales-izquierda-psoe-elecciones-29-n.html",
-      "fecha": "2026-10-16T09:00+00:00",
-      "partidos": [
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "Puigdemont renunciará a liderar la oposición a Illa cuando vuelva a España",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/cataluna/puigdemont-renunciara-liderar-oposicion-illa-vuelva-espana-20261016094811-nt.html",
-      "fecha": "2026-10-16T08:54+00:00",
-      "partidos": [
-        "junts"
-      ]
-    },
-    {
-      "titulo": "Quién es Emilio Delgado, el aliado de Gabriel Rufián que liderará Frente Amplio en Madrid: su sueldo, su trayectoria y campeón de taekwondo",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/emilio-delgado-aliado-gabriel-rufian-encabezara-frente-20261015112902-nt.html",
-      "fecha": "2026-10-16T08:53+00:00",
-      "partidos": [
-        "sumar"
-      ]
-    },
-    {
-      "titulo": "La JEC recalca a PP y Vox que la transparencia del voto por correo está regulada en la ley y rechaza medidas extra",
-      "medio": "Europa Press",
-      "url": "https://www.europapress.es/nacional/noticia-jec-recalca-pp-vox-transparencia-voto-correo-regulada-ley-rechaza-medidas-extra-20261016104323.html",
-      "fecha": "2026-10-16T08:43+00:00",
-      "partidos": [
-        "pp",
-        "vox"
-      ]
-    },
-    {
-      "titulo": "Barbero admite que no hay negociación con Podemos pese a tenderles la mano y espera acuerdo con PSOE en el Senado",
-      "medio": "Europa Press",
-      "url": "https://www.europapress.es/nacional/noticia-barbero-admite-no-hay-negociacion-podemos-pese-tenderles-mano-espera-acuerdo-psoe-senado-20261016103325.html",
-      "fecha": "2026-10-16T08:33+00:00",
-      "partidos": [
-        "psoe",
-        "podemos"
-      ]
-    },
-    {
-      "titulo": "Rufián admite que el pacto de las izquierdas es casi imposible y lanza reproches a ERC: “Hemos fracasado”",
-      "medio": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/politica/elecciones/20261016/11660491/rufian-admite-pacto-izquierdas-imposible-lanza-reproches-erc-hemos-fracasado.html",
-      "fecha": "2026-10-16T08:31+00:00",
-      "partidos": [
-        "erc"
-      ]
-    },
-    {
-      "titulo": "Bolaños ve una tendencia \"al alza\" del PSOE en precampaña y elude responder si participará en actos con Zapatero",
-      "medio": "Europa Press",
-      "url": "https://www.europapress.es/nacional/noticia-bolanos-ve-tendencia-alza-psoe-precampana-elude-responder-si-participara-actos-zapatero-20261016102649.html",
-      "fecha": "2026-10-16T08:26+00:00",
-      "partidos": [
-        "psoe"
       ]
     }
   ],
