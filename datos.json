@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-20T09:31+00:00",
+  "actualizado": "2026-10-20T13:39+00:00",
   "temas": [
     {
       "id": "vivienda",
@@ -449,6 +449,237 @@
   ],
   "noticias": [
     {
+      "titulo": "El PP acusa al Gobierno de incumplir «deliberadamente» el mandato judicial con la 'ley de nietos' y mueve ficha",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/pp-acusa-gobierno-incumplir-deliberadamente-mandato-judicial-20261020144809-nt.html",
+      "fecha": "2026-10-20T13:18+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "Luisa Fernanda Rudi deja la primera línea: «Cuanto más crecen los extremos, más perjudica al PP»",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/aragon/luisa-fernanda-rudi-deja-primera-linea-crecen-20261020145156-nt.html",
+      "fecha": "2026-10-20T13:01+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "Podemos y Frente Amplio se juran «deportividad» y «guante blanco» en campaña mientras siguen los reproches",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/podemos-frente-amplio-juran-deportividad-guante-blanco-20261020142923-nt.html",
+      "fecha": "2026-10-20T13:00+00:00",
+      "partidos": [
+        "sumar",
+        "podemos"
+      ]
+    },
+    {
+      "titulo": "El PP amenaza a Exteriores con acciones penales si \"obstaculiza\" la retirada del censo de los nacionalizados por la 'ley de nietos'",
+      "medio": "20minutos",
+      "url": "https://www.20minutos.es/nacional/pp-amenaza-exteriores-con-acciones-penales-si-obstaculiza-retirada-censo-los-nacionalizados-por-ley-nietos_7051075_0.html",
+      "fecha": "2026-10-20T12:57+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "El juez apremia al PSOE para que informe en dos días de los abogados a los que contrató entre 2021 y 2025",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/juez-apremia-psoe-informe-dos-dias-abogados-20261020142253-nt.html",
+      "fecha": "2026-10-20T12:53+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "El PP amenaza a Exteriores con acciones penales si no retira del censo a nacionalizados por la 'ley de nietos'",
+      "medio": "Europa Press",
+      "url": "https://www.europapress.es/nacional/noticia-pp-exige-exteriores-cumplir-ordenado-ts-ley-nietos-avisa-si-no-ira-justicia-20261020143200.html",
+      "fecha": "2026-10-20T12:32+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "Quién es Jon Echeverría: el 'influencer' de 22 años que el PP presenta como cabeza de lista por Gipuzkoa el 29-N",
+      "medio": "El Confidencial",
+      "url": "https://www.elconfidencial.com/espana/2026-10-20/quien-es-jon-echeverria-influencer-pp-cabeza-lista-gipuzkoa-29-n_4449031/",
+      "fecha": "2026-10-20T12:29+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "El juez da un ultimátum de 48 horas al PSOE para que le entregue todos los pagos a abogados en el 'caso de las cloacas'",
+      "medio": "El Mundo",
+      "url": "https://www.elmundo.es/espana/2026/10/20/6ad758eafdddffeb678b4599.html",
+      "fecha": "2026-10-20T12:26+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "El juez del 'caso Leire' da 48 horas al PSOE para que aporte documentación sobre abogados tras no recibir contestación",
+      "medio": "Europa Press",
+      "url": "https://www.europapress.es/nacional/noticia-juez-caso-leire-da-48-horas-psoe-aporte-documentacion-abogados-no-recibir-contestacion-20261020142632.html",
+      "fecha": "2026-10-20T12:26+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "El Gobierno considera que el posible acuerdo con Vox en el Senado constata que \"el PP ya es ultraderecha\"",
+      "medio": "Europa Press",
+      "url": "https://www.europapress.es/nacional/noticia-gobierno-considera-posible-acuerdo-vox-senado-constata-pp-ya-ultraderecha-20261020142519.html",
+      "fecha": "2026-10-20T12:25+00:00",
+      "partidos": [
+        "pp",
+        "vox"
+      ]
+    },
+    {
+      "titulo": "Quién es María Luz Martínez Seijo, la candidata de Ferraz que ha provocado la dimisión en bloque en el PSOE de Palencia",
+      "medio": "20minutos",
+      "url": "https://www.20minutos.es/nacional/quien-maria-luz-martinez-seijo-candidata-ferraz-provocado-dimision-bloque-psoe-palencia_7051031_0.html",
+      "fecha": "2026-10-20T12:24+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "Sémper justifica la negociación entre PP y Vox para el Senado: \"Hay que hacer cosas para garantizar el cambio en España\"",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/galicia/semper-justifica-negociacion-pp-vox-senado-hay-cosas-garantizar-cambio-espana_1_13600370.html",
+      "fecha": "2026-10-20T12:21+00:00",
+      "partidos": [
+        "pp",
+        "vox"
+      ]
+    },
+    {
+      "titulo": "'Caso Cloacas': Pedraz reclama al PSOE datos de todos los abogados que ha contratado e imputa a Nervis Villalobos por lograr la nacionalidad con documentos falsos",
+      "medio": "El Mundo",
+      "url": "https://www.elmundo.es/espana/2026/10/06/6ac4f2a9fc6c8325798b457c.html",
+      "fecha": "2026-10-20T12:14+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "Martínez comprende el cabreo del PSOE de Palencia con Ferraz, pero recuerda que las listas no se eligen en primarias",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/castilla-y-leon/politica/carlos-martinez-comprende-cabreo-psoe-palencia-ferraz-recuerda-listas-no-eligen-primarias_1_13600149.html",
+      "fecha": "2026-10-20T12:08+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "El PSOE presenta mociones en ayuntamientos para respaldar medidas del Gobierno en vivienda y denunciar \"bloqueo\" del PP",
+      "medio": "Europa Press",
+      "url": "https://www.europapress.es/nacional/noticia-psoe-presenta-mociones-ayuntamientos-respaldar-medidas-gobierno-vivienda-denunciar-bloqueo-pp-20261020140540.html",
+      "fecha": "2026-10-20T12:05+00:00",
+      "partidos": [
+        "pp",
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "Podemos esconde su marca para no pinchar la idea de candidatura conjunta Irene Montero-Rufián: \"Llegan más lejos que las siglas\"",
+      "medio": "El Mundo",
+      "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/10/20/6ad75555fc6c83f6628b45a6.html",
+      "fecha": "2026-10-20T11:53+00:00",
+      "partidos": [
+        "podemos"
+      ]
+    },
+    {
+      "titulo": "PP y Vox crean en Extremadura el Instituto Nacional del Mestizaje",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/extremadura/cultura/pp-vox-crean-extremadura-instituto-nacional-mestizaje_1_13600026.html",
+      "fecha": "2026-10-20T11:38+00:00",
+      "partidos": [
+        "pp",
+        "vox"
+      ]
+    },
+    {
+      "titulo": "Las dos fórmulas que baraja el PP para frustrar el pacto del PSOE y sus socios para hacerse con el control del Senado",
+      "medio": "20minutos",
+      "url": "https://www.20minutos.es/nacional/las-dos-formulas-que-baraja-pp-para-frustrar-pacto-psoe-sus-socios-para-hacerse-con-control-senado_7050949_0.html",
+      "fecha": "2026-10-20T11:23+00:00",
+      "partidos": [
+        "pp",
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "La presidenta balear del PP blinda su ofensiva fiscal y endurece su discurso migratorio: \"Aquí no cabe todo el mundo\"",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/illes-balears/politica/presidenta-balear-pp-blinda-ofensiva-fiscal-endurece-discurso-migratorio-no-mundo_1_13599400.html",
+      "fecha": "2026-10-20T11:05+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "Jon Echeverría, el joven de 22 años con el que el PP busca un revulsivo en Gipuzkoa para las elecciones del 29-N",
+      "medio": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/politica/20261020/11663585/jon-echeverria-joven-22-anos-pp-busca-revulsivo-gipuzkoa-elecciones-29-n.html",
+      "fecha": "2026-10-20T10:51+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "El PSOE denuncia a Telemadrid ante la Junta Electoral porque un presentador acusó al Gobierno de \"fabricar votantes\"",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/madrid/somos/psoe-denuncia-telemadrid-junta-electoral-presentador-acuso-gobierno-fabricar-votantes_1_13599737.html",
+      "fecha": "2026-10-20T10:49+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "El PP catalán lleva al Consell de Garanties Estatutàries la ley de memoria democrática por “inconstitucional”",
+      "medio": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/politica/20261020/11663578/pp-catalan-lleva-consell-garanties-estatutaries-ley-memoria-democratica-inconstitucional.html",
+      "fecha": "2026-10-20T10:45+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "Salvador Illa pidió a Montse Mínguez que siguiera como portavoz del PSOE y candidata en las elecciones generales del 29-N: \"Ha sido una cacería y la política tiene límites\"",
+      "medio": "El Mundo",
+      "url": "https://www.elmundo.es/cataluna/2026/10/20/6ad7327bfdddff12038b45cc.html",
+      "fecha": "2026-10-20T10:17+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "Mas compara a Rufián con Vinícius por “vivir de la provocación y la bronca” y enerva a ERC",
+      "medio": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/politica/20261020/11663509/compara-rufian-vinicius-vivir-provocacion-bronca-enerva-erc.html",
+      "fecha": "2026-10-20T10:01+00:00",
+      "partidos": [
+        "erc"
+      ]
+    },
+    {
+      "titulo": "Vox mete mano a las ayudas al cine en Castilla y León y vetará películas que \"impliquen adoctrinamiento ideológico\"",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/castilla-y-leon/cultura/vox-mete-mano-ayudas-cine-castilla-leon-vetara-peliculas-impliquen-adoctrinamiento-ideologico-apoyo-opciones-politicas-concretas_1_13599122.html",
+      "fecha": "2026-10-20T09:22+00:00",
+      "partidos": [
+        "vox"
+      ]
+    },
+    {
       "titulo": "Ferraz cierra filas con Martínez Seijo tras la dimisión en bloque de la lista del PSOE de Palencia",
       "medio": "elDiario.es",
       "url": "https://www.eldiario.es/castilla-y-leon/politica/ferraz-defiende-cambios-lista-psoe-palencia-dimision-integrantes_1_13599362.html",
@@ -492,6 +723,34 @@
       "partidos": [
         "pp",
         "vox"
+      ]
+    },
+    {
+      "titulo": "Mónica García renuncia a las listas del Frente Amplio y retoma su papel de candidata contra Ayuso en Madrid",
+      "medio": "El Mundo",
+      "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/10/20/6ad719defdddff597d8b458e.html",
+      "fecha": "2026-10-20T08:14+00:00",
+      "partidos": [
+        "sumar"
+      ]
+    },
+    {
+      "titulo": "Feijóo confirma conversaciones con Vox para las elecciones al Senado: \"Sería un error facilitar al 'sanchismo' el control\"",
+      "medio": "El Mundo",
+      "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/10/20/6ad710e4e9cf4aed3d8b459a.html",
+      "fecha": "2026-10-20T08:06+00:00",
+      "partidos": [
+        "pp",
+        "vox"
+      ]
+    },
+    {
+      "titulo": "\"Almeida te debe pasta\": el PSOE también lanza una campaña para recurrir la tasa de basuras de Madrid",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/madrid/somos/almeida-debe-pasta-psoe-lanza-campana-recurrir-tasa-basuras-madrid_1_13599033.html",
+      "fecha": "2026-10-20T07:59+00:00",
+      "partidos": [
+        "psoe"
       ]
     },
     {
@@ -712,6 +971,18 @@
       "partidos": [
         "pp",
         "vox"
+      ]
+    },
+    {
+      "titulo": "El Frente Amplio y el PSOE ocultaron su pacto del Senado hasta el último minuto para evitar una entente de PP y Vox: \"Si no, no habría servido de nada\"",
+      "medio": "El Mundo",
+      "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/10/19/6ad66504e85ecec4478b459e.html",
+      "fecha": "2026-10-19T20:53+00:00",
+      "partidos": [
+        "pp",
+        "psoe",
+        "vox",
+        "sumar"
       ]
     },
     {
@@ -2993,275 +3264,6 @@
       "fecha": "2026-10-16T16:12+00:00",
       "partidos": [
         "psoe"
-      ]
-    },
-    {
-      "titulo": "Frente Amplio Aragón concurrirá el 29-N con un cabeza de cartel de Chunta en Zaragoza y sin Podemos",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/aragon/frente-amplio-aragon-concurrira-29n-cabeza-cartel-20261016162319-nt.html",
-      "fecha": "2026-10-16T15:49+00:00",
-      "partidos": [
-        "sumar",
-        "podemos"
-      ]
-    },
-    {
-      "titulo": "Marlaska replica a Feijóo que desplegar la Armada en Ceuta es \"mirar al pasado\"",
-      "medio": "20minutos",
-      "url": "https://www.20minutos.es/nacional/marlaska-replica-feijoo-que-desplegar-armada-ceuta-es-mirar-pasado_7049816_0.html",
-      "fecha": "2026-10-16T15:36+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Frente Amplio celebra el acuerdo de unidad en Valencia y pide extender un pacto similar al resto del país",
-      "medio": "20minutos",
-      "url": "https://www.20minutos.es/nacional/frente-amplio-celebra-acuerdo-unidad-valencia-pide-extender-un-pacto-similar-resto-pais_7049813_0.html",
-      "fecha": "2026-10-16T15:24+00:00",
-      "partidos": [
-        "sumar"
-      ]
-    },
-    {
-      "titulo": "Irene Montero gana las primarias abiertas de Podemos para ser candidata con 90% de apoyo",
-      "medio": "20minutos",
-      "url": "https://www.20minutos.es/nacional/irene-montero-gana-las-primarias-abiertas-podemos-para-ser-candidata-con-90-apoyo_7049781_0.html",
-      "fecha": "2026-10-16T14:34+00:00",
-      "partidos": [
-        "podemos"
-      ]
-    },
-    {
-      "titulo": "Los partidos valencianos a la izquierda del PSOE concurrirán unidos en la coalición Compromís-Front Valencià",
-      "medio": "Europa Press",
-      "url": "https://www.europapress.es/comunitat-valenciana/noticia-partidos-izquierda-psoe-concurriran-unidos-coalicion-compromis-front-valencia-20261016160231.html",
-      "fecha": "2026-10-16T14:02+00:00",
-      "partidos": [
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "Irene Montero se impone en las primarias de Podemos sin rival y con baja participación",
-      "medio": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/politica/20261016/11660855/montero-gana-holgura-primarias-apoyos-belarra-frente-amplio.html",
-      "fecha": "2026-10-16T14:00+00:00",
-      "partidos": [
-        "podemos"
-      ]
-    },
-    {
-      "titulo": "IU da marcha atrás para evitar la fractura de la izquierda valenciana: se integrará en la lista de Compromís con Podemos",
-      "medio": "El Mundo",
-      "url": "https://www.elmundo.es/comunidad-valenciana/2026/10/16/6ad1a0a3e85ecea8568b4577.html",
-      "fecha": "2026-10-16T13:55+00:00",
-      "partidos": [
-        "podemos"
-      ]
-    },
-    {
-      "titulo": "IU se suma 'in extremis' al pacto con Compromís y Podemos en la Comunidad Valenciana",
-      "medio": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/local/valencia/20261016/11660844/iu-rectifica-suma-pacto-compromis-comunidad-valenciana.html",
-      "fecha": "2026-10-16T13:45+00:00",
-      "partidos": [
-        "podemos"
-      ]
-    },
-    {
-      "titulo": "PP pide que se aclare si la ministra Robles eliminó parte de un informe sobre Ceuta",
-      "medio": "El Confidencial",
-      "url": "https://www.elconfidencial.com/espana/2026-10-16/cuca-gamarra-informes-cni-ceuta-1tps_4446671/",
-      "fecha": "2026-10-16T13:31+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Vox solicita al Supremo que exija al Gobierno acreditar que cumple las medidas de la suspensión de la 'ley de nietos'",
-      "medio": "Europa Press",
-      "url": "https://www.europapress.es/nacional/noticia-vox-solicita-supremo-exija-gobierno-acreditar-cumple-medidas-suspension-ley-nietos-20261016152118.html",
-      "fecha": "2026-10-16T13:21+00:00",
-      "partidos": [
-        "vox"
-      ]
-    },
-    {
-      "titulo": "Diputación Permanente: por qué cambia con ella la mayoría para Pedro Sánchez, qué funciones tiene y quién la conforma",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/diputacion-permanente-cambia-mayoria-pedro-sanchez-funciones-20261007112838-nt.html",
-      "fecha": "2026-10-16T13:18+00:00",
-      "partidos": [
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "Feijóo: \"Mi campaña y mi política se va a dirigir a los currantes; a los jetas, no\"",
-      "medio": "El Confidencial",
-      "url": "https://www.elconfidencial.com/espana/2026-10-16/feijoo-propone-impuestos-cero-mundo-rural-1tps_4446645/",
-      "fecha": "2026-10-16T13:14+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Feijóo: «Un Gobierno que desahucia a 75 familias de guardias civiles en Toledo no puede dar lecciones»",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/castilla-la-mancha/toledo/feijoo-gobierno-desahucia-familias-guardias-civiles-toledo-20261016150454-nt.html",
-      "fecha": "2026-10-16T13:08+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "El Ayuntamiento de Burgos aprueba, con apoyo de PP y Vox, una moción de rechazo a la 'ley de nietos'",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/castilla-leon/ayuntamiento-burgos-aprueba-apoyo-pp-vox-mocion-20261016150244-nt.html",
-      "fecha": "2026-10-16T13:02+00:00",
-      "partidos": [
-        "pp",
-        "vox"
-      ]
-    },
-    {
-      "titulo": "Junts se alinea con el discurso más duro de PP y Vox en uno de los últimos debates del Congreso",
-      "medio": "El País",
-      "url": "https://elpais.com/espana/elecciones-generales/2026-10-16/junts-se-alinea-con-el-discurso-mas-duro-de-pp-y-vox-en-uno-de-los-ultimos-debates-del-congreso.html",
-      "fecha": "2026-10-16T12:58+00:00",
-      "partidos": [
-        "pp",
-        "vox",
-        "junts"
-      ]
-    },
-    {
-      "titulo": "Feijóo promete «aligerar la carga» de las familias y dar un impulso fiscal al medio rural",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/castilla-la-mancha/feijoo-promete-aligerar-carga-familias-dar-impulso-20261016142738-nt.html",
-      "fecha": "2026-10-16T12:58+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Podemos niega que Frente Amplio ofrezca a Irene Montero el número dos de la lista de Madrid: \"No es cierto\"",
-      "medio": "Europa Press",
-      "url": "https://www.europapress.es/nacional/noticia-podemos-niega-frente-amplio-ofrezca-irene-montero-numero-dos-lista-madrid-no-cierto-20261016145805.html",
-      "fecha": "2026-10-16T12:58+00:00",
-      "partidos": [
-        "sumar",
-        "podemos"
-      ]
-    },
-    {
-      "titulo": "Alberto Núñez Feijóo busca el voto de las mujeres frente a un Gobierno que \"paga prostitutas\"",
-      "medio": "El Mundo",
-      "url": "https://www.elmundo.es/espana/2026/10/16/6ad21c5821efa0b35f8b4575.html",
-      "fecha": "2026-10-16T12:50+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Bildu incluye en puestos de salida en sus listas para el 29-N a tres etarras",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/pais-vasco/matute-sustituye-aizpurua-cabeza-cartel-bildu-29n-20261016122912-nt.html",
-      "fecha": "2026-10-16T12:49+00:00",
-      "partidos": [
-        "bildu"
-      ]
-    },
-    {
-      "titulo": "El PSOE reta a Núñez a exigir a Feijóo que el agua de Castilla-La Mancha «no se toca»",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/castilla-la-mancha/toledo/talavera/psoe-reta-nunez-exigir-feijoo-agua-castillala-20261016144032-nt.html",
-      "fecha": "2026-10-16T12:40+00:00",
-      "partidos": [
-        "pp",
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "Otegi coloca a Oskar Matute al frente de EH Bildu en el Congreso y a dos condenados por su relación con ETA en el Senado",
-      "medio": "El Mundo",
-      "url": "https://www.elmundo.es/pais-vasco/2026/10/16/6ad20721fdddffe8448b4594.html",
-      "fecha": "2026-10-16T12:16+00:00",
-      "partidos": [
-        "bildu"
-      ]
-    },
-    {
-      "titulo": "Feijóo reclama una respuesta “serena y firme” a Marruecos por la entrada de sus buques en aguas españolas: “España no tiene amo”",
-      "medio": "El País",
-      "url": "https://elpais.com/espana/elecciones-generales/2026-10-16/feijoo-reclama-una-respuesta-serena-y-firme-a-marruecos-por-la-entrada-de-sus-buques-en-aguas-espanolas-espana-no-tiene-amo.html",
-      "fecha": "2026-10-16T11:59+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Ada Colau: \"Rufián complicó la situación cuando hizo un acuerdo con Podemos, pero está a tiempo de rectificarlo\"",
-      "medio": "elDiario.es",
-      "url": "https://www.eldiario.es/aragon/politica/ada-colau-rufian-complico-situacion-hizo-acuerdo-tiempo-rectificarlo_1_13591357.html",
-      "fecha": "2026-10-16T11:52+00:00",
-      "partidos": [
-        "podemos"
-      ]
-    },
-    {
-      "titulo": "Feijóo promete una bajada de impuestos y la reducción de la burocracia para el mundo rural",
-      "medio": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/politica/20261016/11660735/feijoo-promete-bajada-impuestos-reduccion-burocracia-mundo-rural.html",
-      "fecha": "2026-10-16T11:52+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Compromís ratifica su pacto con Podemos con un amplio apoyo a la espera de convencer a EU",
-      "medio": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/local/valencia/20261016/11660730/compromis-ratifica-pacto-amplio-apoyo-espera-convencer-eu.html",
-      "fecha": "2026-10-16T11:45+00:00",
-      "partidos": [
-        "podemos"
-      ]
-    },
-    {
-      "titulo": "EH Bildu recupera para el 29-N a varios condenados por integrar el brazo político de ETA",
-      "medio": "El Confidencial",
-      "url": "https://www.elconfidencial.com/espana/2026-10-16/eh-bildu-candidaturas-elecciones-navarra-1tps_4446422/",
-      "fecha": "2026-10-16T11:16+00:00",
-      "partidos": [
-        "bildu"
-      ]
-    },
-    {
-      "titulo": "Podemos lanza consulta exprés a sus bases para que refrenden el acuerdo con ERC y el tándem de Rufián y Montero",
-      "medio": "Europa Press",
-      "url": "https://www.europapress.es/nacional/noticia-podemos-lanza-consulta-expres-bases-refrenden-acuerdo-erc-tandem-rufian-montero-20261016124118.html",
-      "fecha": "2026-10-16T10:41+00:00",
-      "partidos": [
-        "erc",
-        "podemos"
-      ]
-    },
-    {
-      "titulo": "Sumar admite que le cuesta entender la actitud de Podemos y les pide que se sienten a negociar para la unidad el 29N",
-      "medio": "Europa Press",
-      "url": "https://www.europapress.es/nacional/noticia-sumar-admite-le-cuesta-entender-actitud-podemos-les-pide-sienten-negociar-unidad-29n-20261016122100.html",
-      "fecha": "2026-10-16T10:21+00:00",
-      "partidos": [
-        "sumar",
-        "podemos"
-      ]
-    },
-    {
-      "titulo": "EH Bildu elige a Oihana Etxebarrieta para liderar junto a Oskar Matute su grupo en el Congreso",
-      "medio": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/local/paisvasco/20261016/11660595/eh-bildu-elige-oihana-etxebarrieta-liderar-oskar-matute-grupo-congreso.html",
-      "fecha": "2026-10-16T09:58+00:00",
-      "partidos": [
-        "bildu"
       ]
     }
   ],
