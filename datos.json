@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-20T17:42+00:00",
+  "actualizado": "2026-10-20T21:29+00:00",
   "temas": [
     {
       "id": "vivienda",
@@ -448,6 +448,51 @@
     }
   ],
   "noticias": [
+    {
+      "titulo": "Milei aterriza en España y prevé verse con Ayuso y dirigentes de Vox",
+      "medio": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/politica/20261020/11663986/milei-aterriza-espana-preve-verse-ayuso-dirigentes-vox.html",
+      "fecha": "2026-10-20T19:15+00:00",
+      "partidos": [
+        "vox"
+      ]
+    },
+    {
+      "titulo": "Abascal llama desde Ponferrada a la movilización: «No os creáis ninguna encuesta»",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/castilla-leon/abascal-llama-ponferrada-movilizacion-creais-ninguna-encuesta-20261020211135-nt.html",
+      "fecha": "2026-10-20T19:11+00:00",
+      "partidos": [
+        "vox"
+      ]
+    },
+    {
+      "titulo": "Abascal acusa a Sánchez de pretender «sustituir» el 29-N a «un pueblo al que odia dando el voto a personas que nunca han vivido en España»",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/castilla-leon/abascal-acusa-sanchez-pretender-sustituir-29n-pueblo-20261020204446-nt.html",
+      "fecha": "2026-10-20T18:59+00:00",
+      "partidos": [
+        "vox"
+      ]
+    },
+    {
+      "titulo": "Francisco Navarro encabezará la lista del PP al Congreso por Albacete",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/castilla-la-mancha/francisco-navarro-encabezara-lista-pp-congreso-albacete-20261020203413-nt.html",
+      "fecha": "2026-10-20T18:48+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "El Frente Amplio pacifica la lista de Madrid y encaja a sus socios: IU tendrá el número tres tras la renuncia de Mónica García",
+      "medio": "El Mundo",
+      "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/10/20/6ad7a489e9cf4a91208b457e.html",
+      "fecha": "2026-10-20T17:30+00:00",
+      "partidos": [
+        "sumar"
+      ]
+    },
     {
       "titulo": "Abascal recupera la gesta de Talavera de 1809 para iniciar «la gran batalla» del 29-N",
       "medio": "ABC",
@@ -3219,52 +3264,6 @@
       "fecha": "2026-10-16T17:17+00:00",
       "partidos": [
         "psoe"
-      ]
-    },
-    {
-      "titulo": "Colau se reúne con partidos de Frente Amplio en el Congreso para encarar el cierre de plazo de las coaliciones",
-      "medio": "Europa Press",
-      "url": "https://www.europapress.es/nacional/noticia-colau-reune-partidos-frente-amplio-congreso-encarar-cierre-plazo-coaliciones-20261016191202.html",
-      "fecha": "2026-10-16T17:12+00:00",
-      "partidos": [
-        "sumar"
-      ]
-    },
-    {
-      "titulo": "Confirman la condena al alcalde de Pontedeume (PSOE) por lesiones a una vecina",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/galicia/confirman-condena-alcalde-pontedeume-psoe-lesiones-vecina-20261016190443-nt.html",
-      "fecha": "2026-10-16T17:09+00:00",
-      "partidos": [
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "Sigue en directo la comparecencia de Sánchez tras la dimisión de la portavoz del PSOE",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/sigue-directo-comparecencia-sanchez-tras-dimision-portavoz-20261016183715-nt.html",
-      "fecha": "2026-10-16T17:08+00:00",
-      "partidos": [
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "Pedro Sánchez, sobre la renuncia de la portavoz del PSOE: \"Le dije que no dimitiera\"",
-      "medio": "elDiario.es",
-      "url": "https://www.eldiario.es/politica/pedro-sanchez-cese-portavoz-psoe-le-dije-no-dimitiera_1_13592585.html",
-      "fecha": "2026-10-16T17:02+00:00",
-      "partidos": [
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "El PP critica que Bildu, \"socio de Sánchez\", lleve en sus listas a \"herederos orgullosos de ETA\"",
-      "medio": "Europa Press",
-      "url": "https://www.europapress.es/nacional/noticia-pp-critica-bildu-socio-sanchez-lleve-listas-herederos-orgullosos-eta-20261016185215.html",
-      "fecha": "2026-10-16T16:52+00:00",
-      "partidos": [
-        "pp",
-        "bildu"
       ]
     }
   ],
