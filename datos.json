@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-20T13:39+00:00",
+  "actualizado": "2026-10-20T17:42+00:00",
   "temas": [
     {
       "id": "vivienda",
@@ -448,6 +448,70 @@
     }
   ],
   "noticias": [
+    {
+      "titulo": "Abascal recupera la gesta de Talavera de 1809 para iniciar «la gran batalla» del 29-N",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/abascal-recupera-gesta-talavera-1809-iniciar-gran-20261020185117-nt.html",
+      "fecha": "2026-10-20T17:21+00:00",
+      "partidos": [
+        "vox"
+      ]
+    },
+    {
+      "titulo": "Sigue en directo la intervención de Abascal en el acto de Vox en Ponferrada",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/sigue-directo-intervencion-abascal-acto-vox-ponferrada-20261020191549-nt.html",
+      "fecha": "2026-10-20T17:15+00:00",
+      "partidos": [
+        "vox"
+      ]
+    },
+    {
+      "titulo": "Dimiten dos subdelegados del Gobierno para ir en las listas del PSOE al Congreso",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/galicia/dimiten-dos-subdelegados-gobierno-listas-psoe-congreso-20261020182820-nt.html",
+      "fecha": "2026-10-20T16:28+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "El BNG se abraza a la CIG y confirma el carácter político de la huelga del 11-N",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/galicia/bng-abraza-cig-confirma-caracter-politico-huelga-20261020182656-nt.html",
+      "fecha": "2026-10-20T16:26+00:00",
+      "partidos": [
+        "bng"
+      ]
+    },
+    {
+      "titulo": "El PSOE acusa a Velázquez de «jeta» y le exige que se preocupe más por los problemas de Toledo",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/castilla-la-mancha/toledo/psoe-acusa-velazquez-jeta-exige-preocupe-problemas-20261020175000-nt.html",
+      "fecha": "2026-10-20T16:12+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "La imagen de dos ancianos en ropa interior atracados por manifestantes en París que ha compartido Abascal está hecha con IA",
+      "medio": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/politica/20261020/11663884/imagen-dos-ancianos-ropa-interior-atracados-manifestantes-paris-compartido-abascal-esta-hecha-ia.html",
+      "fecha": "2026-10-20T16:00+00:00",
+      "partidos": [
+        "vox"
+      ]
+    },
+    {
+      "titulo": "PP y Vox mutilan la Ley de la Cámara de Cuentas andaluza para retener el control del órgano que fiscaliza los fondos públicos",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/andalucia/pp-vox-mutilan-ley-camara-cuentas-andaluza-retener-control-organo-fiscaliza-fondos-publicos_1_13599402.html",
+      "fecha": "2026-10-20T15:51+00:00",
+      "partidos": [
+        "pp",
+        "vox"
+      ]
+    },
     {
       "titulo": "El PP acusa al Gobierno de incumplir «deliberadamente» el mandato judicial con la 'ley de nietos' y mueve ficha",
       "medio": "ABC",
@@ -3201,69 +3265,6 @@
       "partidos": [
         "pp",
         "bildu"
-      ]
-    },
-    {
-      "titulo": "Dimite la portavoz del PSOE, Montse Mínguez, tras el escándalo de los pisos de su pareja",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/dimite-portavoz-psoe-montse-minguez-tras-polemica-20261016181448-nt.html",
-      "fecha": "2026-10-16T16:49+00:00",
-      "partidos": [
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "Compromís y Podemos suman 'in extremis' a IU a su pacto valenciano para el 29N",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/comunidad-valenciana/compromis-podemos-suman-extremis-iu-frente-valenciano-20261016170652-nt.html",
-      "fecha": "2026-10-16T16:35+00:00",
-      "partidos": [
-        "podemos"
-      ]
-    },
-    {
-      "titulo": "Ferraz impone su criterio y fulmina a Tudanca de las listas del Senado",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/castilla-leon/ferraz-impone-criterio-fulmina-tudanca-listas-senado-20261016181458-nt.html",
-      "fecha": "2026-10-16T16:26+00:00",
-      "partidos": [
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "Dimite Montse Mínguez, portavoz del PSOE, tras la polémica por los negocios inmobiliarios de su pareja",
-      "medio": "20minutos",
-      "url": "https://www.20minutos.es/nacional/dimite-montse-minguez-portavoz-psoe-polemica-negocios-inmobiliarios-pareja_7049840_0.html",
-      "fecha": "2026-10-16T16:20+00:00",
-      "partidos": [
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "Dimite la portavoz del PSOE, Montse Mínguez, tras conocerse los negocios inmobiliarios de su pareja",
-      "medio": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/politica/20261016/11660982/dimite-portavoz-psoe-montse-minguez-conocerse-negocios-inmobiliarios-pareja.html",
-      "fecha": "2026-10-16T16:17+00:00",
-      "partidos": [
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "Montse Mínguez dimite de portavoz del PSOE y no repetirá como diputada tras la polémica de los pisos de su pareja",
-      "medio": "Europa Press",
-      "url": "https://www.europapress.es/nacional/noticia-montse-minguez-anuncia-da-paso-atras-politica-polemica-pisos-pareja-20261016181647.html",
-      "fecha": "2026-10-16T16:16+00:00",
-      "partidos": [
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "Dimite la portavoz del PSOE, Montse Mínguez, tras las informaciones sobre los negocios inmobiliarios de su pareja",
-      "medio": "elDiario.es",
-      "url": "https://www.eldiario.es/politica/dimite-portavoz-psoe-montse-minguez-informaciones-negocios-inmobiliarios-pareja_1_13592500.html",
-      "fecha": "2026-10-16T16:12+00:00",
-      "partidos": [
-        "psoe"
       ]
     }
   ],
