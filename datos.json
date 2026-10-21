@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-21T13:39+00:00",
+  "actualizado": "2026-10-21T17:29+00:00",
   "temas": [
     {
       "id": "vivienda",
@@ -449,6 +449,200 @@
   ],
   "noticias": [
     {
+      "titulo": "Abascal y Milei se reúnen virtualmente para conjurarse contra Sánchez ante el 29-N",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/abascal-milei-reunen-virtualmente-conjurarse-sanchez-ante-20261021185150-nt.html",
+      "fecha": "2026-10-21T17:22+00:00",
+      "partidos": [
+        "vox"
+      ]
+    },
+    {
+      "titulo": "La unión de PSOE y Frente Amplio para el Senado toma forma: el alcalde de Zuheros renuncia al número dos de la lista socialista",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/andalucia/cordoba/union-psoe-frente-amplio-senado-toma-forma-20261021191459-nts.html",
+      "fecha": "2026-10-21T17:21+00:00",
+      "partidos": [
+        "psoe",
+        "sumar"
+      ]
+    },
+    {
+      "titulo": "La Policía impide el boicot de radicales a un acto de Abascal en La Coruña",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/galicia/policia-impide-boicot-radicales-acto-abascal-coruna-20261021173848-nt.html",
+      "fecha": "2026-10-21T17:19+00:00",
+      "partidos": [
+        "vox"
+      ]
+    },
+    {
+      "titulo": "La consejera de Educación encabezará la lista del PP al Congreso por Valladolid y el alcalde la del Senado",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/castilla-leon/consejera-educacion-encabezara-lista-pp-congreso-valladolid-20261021114013-nt.html",
+      "fecha": "2026-10-21T17:17+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "Sánchez reacciona a lo que ha dicho Feijóo de la pizza y la okupación recuperando este mensaje que publicó en 2010",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/rastreador/sanchez-reacciona-dicho-feijoo-pizza-okupacion-recuperando-mensaje-publico-2010_132_13604447.html",
+      "fecha": "2026-10-21T17:11+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "El PP acusa a Exteriores en su burofax de \"desobediencia efectiva\" de lo ordenado por el Supremo con la 'ley de nietos'",
+      "medio": "Europa Press",
+      "url": "https://www.europapress.es/nacional/noticia-pp-acusa-exteriores-burofax-desobediencia-efectiva-ordenado-supremo-ley-nietos-20261021191049.html",
+      "fecha": "2026-10-21T17:10+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "Sigue en directo la intervención de Abascal en el acto de Vox en Avilés",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/sigue-directo-intervencion-abascal-acto-vox-aviles-20261021190414-nt.html",
+      "fecha": "2026-10-21T17:04+00:00",
+      "partidos": [
+        "vox"
+      ]
+    },
+    {
+      "titulo": "Ferraz elige para acompañar a Seijoo en la lista del PSOE de Palencia a un 'rival' de Miriam Andrés",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/castilla-leon/agustin-martinez-rut-perez-completan-lista-psoe-20261021163051-nt.html",
+      "fecha": "2026-10-21T16:55+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "CHA y el Frente Amplio renuncian a presentarse al Congreso por Teruel para “evitar la dispersión del voto”",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/aragon/politica/cha-frente-amplio-renuncian-presentarse-congreso-teruel-evitar-dispersion-voto_1_13604566.html",
+      "fecha": "2026-10-21T16:54+00:00",
+      "partidos": [
+        "sumar"
+      ]
+    },
+    {
+      "titulo": "Vox sorprende en Baleares al situar a Maribel Cerezo como cabeza de lista al Congreso",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/baleares/vox-sorprende-baleares-situar-maribel-cerezo-cabeza-20261021185428-nt.html",
+      "fecha": "2026-10-21T16:54+00:00",
+      "partidos": [
+        "vox"
+      ]
+    },
+    {
+      "titulo": "Javier Milei se reúne con Ayuso y bromea por videollamada con Abascal",
+      "medio": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/politica/20261021/11664837/milei-reune-ayuso-hae-videollamada-tono-jocoso-abascal.html",
+      "fecha": "2026-10-21T16:54+00:00",
+      "partidos": [
+        "vox"
+      ]
+    },
+    {
+      "titulo": "Santalices y la conselleira Fabiola García se suman a las listas del PP del 29-N",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/galicia/santalices-conselleira-fabiola-garcia-suman-listas-dle-20261021170948-nt.html",
+      "fecha": "2026-10-21T16:53+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "Fúnez no descarta un pacto del PP con Vox para evitar que «el sanchismo» controle el Senado",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/castilla-la-mancha/funez-descarta-pacto-pp-vox-evitar-sanchismo-20261021184353-nt.html",
+      "fecha": "2026-10-21T16:43+00:00",
+      "partidos": [
+        "pp",
+        "vox"
+      ]
+    },
+    {
+      "titulo": "Sigue en directo la intervención de Pedro Sánchez en el acto del PSOE en Burgos",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/sigue-directo-intervencion-pedro-sanchez-acto-psoe-20261021184109-nt.html",
+      "fecha": "2026-10-21T16:41+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "El PP remite una carta a Montero proponiendo un debate sobre vivienda y una \"secretaria\" de Ferraz rechaza su recepción",
+      "medio": "El Mundo",
+      "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/10/21/6ad8deb3fc6c83c3228b4584.html",
+      "fecha": "2026-10-21T16:38+00:00",
+      "partidos": [
+        "pp",
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "Vox sitúa de cabeza de lista por Valencia a un político que es diputado y senador de forma ininterrumpida desde 1982",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/comunitat-valenciana/politica/vox-situa-cabeza-cartel-valencia-politico-diputado-senador-forma-ininterrumpida-1982_1_13604359.html",
+      "fecha": "2026-10-21T16:16+00:00",
+      "partidos": [
+        "vox"
+      ]
+    },
+    {
+      "titulo": "El PP propone al PSOE un cara a cara sobre vivienda durante la campaña",
+      "medio": "20minutos",
+      "url": "https://www.20minutos.es/nacional/pp-propone-psoe-un-cara-cara-sobre-vivienda-durante-campana_7051697_0.html",
+      "fecha": "2026-10-21T16:09+00:00",
+      "partidos": [
+        "pp",
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "Figaredo liderará la candidatura de Vox al Congreso por Asturias en las elecciones generales",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/asturias/figaredo-liderara-candidatura-vox-congreso-asturias-elecciones-generales_1_13604069.html",
+      "fecha": "2026-10-21T15:55+00:00",
+      "partidos": [
+        "vox"
+      ]
+    },
+    {
+      "titulo": "PP y Vox planean gravar más a las renovables en Castilla y León: “Un nuevo impuesto al sol”",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/economia/pp-vox-planean-gravar-renovables-castilla-leon-nuevo-impuesto-sol_1_13604345.html",
+      "fecha": "2026-10-21T15:53+00:00",
+      "partidos": [
+        "pp",
+        "vox"
+      ]
+    },
+    {
+      "titulo": "Exteriores rechaza los \"ataques e injurias\" de Milei a Pedro Sánchez, le acusa de injerencias y tilda de \"indigno\" su comportamiento",
+      "medio": "El Mundo",
+      "url": "https://www.elmundo.es/espana/2026/10/21/6ad8d17e21efa0ff4a8b459f.html",
+      "fecha": "2026-10-21T15:09+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "Gil Lázaro desplaza como número uno de Vox por Valencia a Carlos Flores Juberías",
+      "medio": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/local/valencia/20261021/11664692/gil-lazaro-desplaza-numero-vox-valencia-carlos-flores-juberias.html",
+      "fecha": "2026-10-21T14:18+00:00",
+      "partidos": [
+        "vox"
+      ]
+    },
+    {
       "titulo": "Disturbios y cargas policiales en A Coruña contra los manifestantes que protestaban ante un acto de Santiago Abascal",
       "medio": "El Mundo",
       "url": "https://www.elmundo.es/espana/2026/10/21/6ad894f4e4d4d85a288b4578.html",
@@ -473,6 +667,16 @@
       "fecha": "2026-10-21T13:20+00:00",
       "partidos": [
         "psoe"
+      ]
+    },
+    {
+      "titulo": "El Gobierno de PP y Vox en Castilla y León dice que un comité de funcionarios evaluará “la trascendencia ideológica” de las películas y carga contra la Seminci",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/castilla-y-leon/cultura/comite-expertos-evaluara-trascendencia-ideologica-peliculas-pidan-ayudas-castilla-leon_1_13603624.html",
+      "fecha": "2026-10-21T13:10+00:00",
+      "partidos": [
+        "pp",
+        "vox"
       ]
     },
     {
@@ -688,6 +892,15 @@
       "fecha": "2026-10-21T09:07+00:00",
       "partidos": [
         "psoe"
+      ]
+    },
+    {
+      "titulo": "Las listas del PP para las generales obligan a Alfonso Rueda a otra remodelación en la Xunta al incluir a una conselleira",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/galicia/pp-anuncia-cabezas-cartel-galicia-ana-vazquez-ourense-exconselleiro-sanidade-pontevedra_1_13602313.html",
+      "fecha": "2026-10-21T09:07+00:00",
+      "partidos": [
+        "pp"
       ]
     },
     {
@@ -3033,225 +3246,6 @@
       "fecha": "2026-10-17T13:59+00:00",
       "partidos": [
         "pp"
-      ]
-    },
-    {
-      "titulo": "Feijóo se compromete a garantizar el voto \"accesible y secreto\" de las personas con discapacidad visual en todas las elecciones",
-      "medio": "20minutos",
-      "url": "https://www.20minutos.es/nacional/feijoo-se-compromete-garantizar-voto-accesible-secreto-las-personas-con-discapacidad-visual-todas-las-elecciones_7049995_0.html",
-      "fecha": "2026-10-17T13:12+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "El PNV confirma a Maribel Vaquero, Idoia Sagastizabal y Gorka Urtaran como cabezas de lista al Congreso",
-      "medio": "elDiario.es",
-      "url": "https://www.eldiario.es/euskadi/pnv-confirma-maribel-vaquero-idoia-sagastizabal-gorka-urtaran-cabezas-lista-congreso_1_13594008.html",
-      "fecha": "2026-10-17T13:05+00:00",
-      "partidos": [
-        "pnv"
-      ]
-    },
-    {
-      "titulo": "El PP de Núñez asegura que Page no va al Comité Federal porque «ya lo tiene todo pactado» con Sánchez",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/castilla-la-mancha/pp-nunez-asegura-page-comite-federal-pactado-20261017150300-nt.html",
-      "fecha": "2026-10-17T13:03+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Abascal afirma que responderá \"con altura de miras\" al pacto del PSOE y Frente Amplio para el Senado",
-      "medio": "elDiario.es",
-      "url": "https://www.eldiario.es/politica/abascal-afirma-respondera-altura-miras-pacto-psoe-frente-amplio-senado_1_13594003.html",
-      "fecha": "2026-10-17T12:58+00:00",
-      "partidos": [
-        "psoe",
-        "vox",
-        "sumar"
-      ]
-    },
-    {
-      "titulo": "Frente Amplio pasa página sobre el pacto fallido con Podemos: “Se acabó el tiempo de unir a los partidos, hay que unir a la gente”",
-      "medio": "El País",
-      "url": "https://elpais.com/espana/elecciones-generales/2026-10-17/frente-amplio-pasa-pagina-sobre-el-fallido-pacto-con-podemos-se-acabo-el-tiempo-de-unir-a-los-partidos-hay-que-unir-a-la-gente.html",
-      "fecha": "2026-10-17T12:56+00:00",
-      "partidos": [
-        "sumar",
-        "podemos"
-      ]
-    },
-    {
-      "titulo": "Abascal asegura que actuará \"con altura de miras\" tras el acuerdo de la izquierda para concurrir en coalición al Senado",
-      "medio": "El Mundo",
-      "url": "https://www.elmundo.es/espana/2026/10/17/6ad34ce5fdddff917d8b45b8.html",
-      "fecha": "2026-10-17T12:51+00:00",
-      "partidos": [
-        "vox"
-      ]
-    },
-    {
-      "titulo": "El Frente Amplio pasa página de Podemos: \"'No more dramas', se acabó el unir a los partidos, empieza el tiempo de unir a la gente\"",
-      "medio": "El Mundo",
-      "url": "https://www.elmundo.es/espana/2026/10/17/6ad3671afc6c83882f8b45b5.html",
-      "fecha": "2026-10-17T12:44+00:00",
-      "partidos": [
-        "sumar",
-        "podemos"
-      ]
-    },
-    {
-      "titulo": "Colau y Podemos se reprochan mutuamente el fracaso de la unidad de la izquierda",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/colau-podemos-reprochan-mutuamente-fracaso-unidad-izquierda-20261017144303-nt.html",
-      "fecha": "2026-10-17T12:43+00:00",
-      "partidos": [
-        "podemos"
-      ]
-    },
-    {
-      "titulo": "Nogueras reivindica la \"centralidad\" de Junts y llama a frenar \"los dos bloques españoles\"",
-      "medio": "El Confidencial",
-      "url": "https://www.elconfidencial.com/espana/2026-10-17/junts-nogueras-elecciones-cataluna-1tps_4447159/",
-      "fecha": "2026-10-17T12:43+00:00",
-      "partidos": [
-        "junts"
-      ]
-    },
-    {
-      "titulo": "Feijóo acusa a Sánchez de diluir las siglas del PSOE en una \"coalición de desesperados\" con una veintena de partidos",
-      "medio": "El Confidencial",
-      "url": "https://www.elconfidencial.com/espana/2026-10-17/feijoo-sanchez-psoe-elecciones-desesperados-coalicion_4447093/",
-      "fecha": "2026-10-17T12:28+00:00",
-      "partidos": [
-        "pp",
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "Gutiérrez: «Los diputados del PSOE han dado el 'do de pecho' por Castilla-La Mancha»",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/castilla-la-mancha/gutierrez-diputados-psoe-dado-pecho-castillala-mancha-20261017141942-nt.html",
-      "fecha": "2026-10-17T12:19+00:00",
-      "partidos": [
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "Juanma Moreno pide el voto a los socialistas decepcionados: «A Sánchez ya no le apoyan ni los suyos en Europa»",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/andalucia/juanma-moreno-pide-voto-socialistas-decepcionados-sanchez-20261017134404-nts.html",
-      "fecha": "2026-10-17T12:06+00:00",
-      "partidos": [
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "Frente Amplio inicia su camino al 29N y trata de olvidar el conflicto con Podemos: \"Empezó el tiempo de unir a la gente\"",
-      "medio": "20minutos",
-      "url": "https://www.20minutos.es/nacional/frente-amplio-inicia-su-camino-29n-trata-olvidar-conflicto-con-podemos-empezo-tiempo-unir-gente_7049990_0.html",
-      "fecha": "2026-10-17T12:06+00:00",
-      "partidos": [
-        "sumar",
-        "podemos"
-      ]
-    },
-    {
-      "titulo": "Nogueras reivindica la estrategia de Junts: «Saber negociar, pero también dar un puñetazo sobre la mesa cuando toca»",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/cataluna/nogueras-reivindica-estrategia-junts-saber-negociar-dar-20261017135804-nt.html",
-      "fecha": "2026-10-17T11:58+00:00",
-      "partidos": [
-        "junts"
-      ]
-    },
-    {
-      "titulo": "El Frente Amplio pide \"unidad\" frente al \"fascismo\" y pasa página de la crisis con Podemos: \"Si alguien no se quiere sentar a una mesa no se le puede obligar\"",
-      "medio": "elDiario.es",
-      "url": "https://www.eldiario.es/politica/frente-amplio-pide-unidad-frente-fascismo-pasa-pagina-crisis-si-alguien-no-quiere-sentar-mesa-no-le-obligar_1_13593637.html",
-      "fecha": "2026-10-17T11:53+00:00",
-      "partidos": [
-        "sumar",
-        "podemos"
-      ]
-    },
-    {
-      "titulo": "Frente Amplio arranca la precampaña con Ada Colau, pero sin Podemos",
-      "medio": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/politica/20261017/11661430/frente-amplio-arranca-precampana-ada-colau.html",
-      "fecha": "2026-10-17T11:49+00:00",
-      "partidos": [
-        "sumar",
-        "podemos"
-      ]
-    },
-    {
-      "titulo": "El PNV apuesta por Vaquero y Sagastizabal para el 29-N, acompañadas de los exalcaldes de San Sebastián y Vitoria",
-      "medio": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/local/paisvasco/20261017/11661431/pnv-apuesta-vaquero-sagastizabal-29-n-acompanadas-exalcaldes-san-sebastian-vitoria.html",
-      "fecha": "2026-10-17T11:43+00:00",
-      "partidos": [
-        "pnv"
-      ]
-    },
-    {
-      "titulo": "Irene Montero pide \"disculpas por el espectáculo\" pero cree \"valioso\" el acuerdo con ERC",
-      "medio": "El Confidencial",
-      "url": "https://www.elconfidencial.com/espana/2026-10-17/podemos-erc-acuerdo-electoral-1tps_4447138/",
-      "fecha": "2026-10-17T11:43+00:00",
-      "partidos": [
-        "erc"
-      ]
-    },
-    {
-      "titulo": "Habla el socialista palentino expulsado de la lista al Congreso por Ferraz: «La persona que va a encabezar la candidatura no se lo merece»",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/castilla-leon/habla-socialista-palentino-expulsado-lista-congreso-ferraz-20261017133807-nt.html",
-      "fecha": "2026-10-17T11:42+00:00",
-      "partidos": [
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "Junts reivindica ante las elecciones que lo más revolucionario hoy es estar en medio y ocupar la centralidad",
-      "medio": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/politica/20261017/11661416/junts-reivindica-elecciones-mas-revolucionario-hoy-medio-ocupar-centralidad.html",
-      "fecha": "2026-10-17T11:35+00:00",
-      "partidos": [
-        "junts"
-      ]
-    },
-    {
-      "titulo": "Montero y Belarra acusan a Frente Amplio de preferir pactar con el PSOE en el Senado antes que con Podemos en las Comunidades",
-      "medio": "20minutos",
-      "url": "https://www.20minutos.es/nacional/montero-belarra-acusan-frente-amplio-preferir-pactar-con-psoe-senado-antes-que-con-podemos-las-comunidades_7049985_0.html",
-      "fecha": "2026-10-17T11:35+00:00",
-      "partidos": [
-        "psoe",
-        "sumar",
-        "podemos"
-      ]
-    },
-    {
-      "titulo": "Ferraz desplaza al candidato al Senado por Badajoz e impone como cabeza de lista al delegado del Gobierno en Extremadura, amigo personal de Pedro Sánchez",
-      "medio": "El Mundo",
-      "url": "https://www.elmundo.es/espana/extremadura/2026/10/17/6ad3515cfdddff0e7f8b45a6.html",
-      "fecha": "2026-10-17T10:48+00:00",
-      "partidos": [
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "Montero lanza su candidatura y acusa a Frente Amplio de preferir pactar con PSOE en Senado que con Podemos en CCAA",
-      "medio": "Europa Press",
-      "url": "https://www.europapress.es/nacional/noticia-montero-lanza-candidatura-acusa-frente-amplio-preferir-pactar-psoe-senado-podemos-ccaa-20261017123614.html",
-      "fecha": "2026-10-17T10:36+00:00",
-      "partidos": [
-        "psoe",
-        "sumar",
-        "podemos"
       ]
     }
   ],
