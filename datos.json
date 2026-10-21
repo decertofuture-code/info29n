@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-21T05:19+00:00",
+  "actualizado": "2026-10-21T09:31+00:00",
   "temas": [
     {
       "id": "vivienda",
@@ -449,6 +449,174 @@
   ],
   "noticias": [
     {
+      "titulo": "Frente Amplio aclara que no hay negociaciones con el PSOE para las listas al Congreso",
+      "medio": "Europa Press",
+      "url": "https://www.europapress.es/nacional/noticia-frente-amplio-aclara-no-hay-negociaciones-psoe-listas-congreso-20261021111844.html",
+      "fecha": "2026-10-21T09:18+00:00",
+      "partidos": [
+        "psoe",
+        "sumar"
+      ]
+    },
+    {
+      "titulo": "Milei llama en Madrid “impresentable dictador” a Sánchez y pide “sacar a patadas a los socialistas”",
+      "medio": "El País",
+      "url": "https://elpais.com/espana/2026-10-21/milei-participa-en-un-desayuno-informativo-en-madrid-durante-su-visita-a-espana.html",
+      "fecha": "2026-10-21T09:15+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "Alberto Núñez-Feijóo: «Revertir el fracaso de este Gobierno con la vivienda será nuestro éxito»",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/andalucia/alberto-nunezfeijoo-principal-problema-social-espana-vivienda-20261021105727-nts.html",
+      "fecha": "2026-10-21T09:13+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "Sánchez y el PSOE calientan la visita de Milei a Madrid: lonas, motosierras y «zurdos orgullosos»",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/sanchez-psoe-calientan-visita-milei-madrid-pancartas-20261021090456-nt.html",
+      "fecha": "2026-10-21T09:07+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "Milei llama «dictador» a Sánchez e insta a los españoles a «sacar a patadas a los socialistas»",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/javier-milei-llama-impresentable-dictador-pedro-sanchez-20261021103446-nt.html",
+      "fecha": "2026-10-21T09:03+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "Milei vuelve al choque con el Gobierno del \"impresentable dictador, delincuente, ladrón\" Pedro Sánchez: \"Hay que sacar a los socialistas a patadas\"",
+      "medio": "El Mundo",
+      "url": "https://www.elmundo.es/espana/2026/10/21/6ad87b4621efa0ed378b4574.html",
+      "fecha": "2026-10-21T09:00+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "Vox no descarta \"ninguna fórmula\" para el pacto con el PP para el Senado y no tiene prisa para cerrarlo",
+      "medio": "Europa Press",
+      "url": "https://www.europapress.es/nacional/noticia-vox-no-descarta-ninguna-formula-pacto-pp-senado-no-tiene-prisa-cerrarlo-20261021105811.html",
+      "fecha": "2026-10-21T08:58+00:00",
+      "partidos": [
+        "pp",
+        "vox"
+      ]
+    },
+    {
+      "titulo": "Qué proponen PP, PSOE, Vox y Sumar sobre las pensiones para el 29-N: subidas, edad de jubilación y financiación",
+      "medio": "El Confidencial",
+      "url": "https://www.elconfidencial.com/espana/2026-10-21/sistema-pensiones-propuestas-partidos-elecciones_4449597/",
+      "fecha": "2026-10-21T08:44+00:00",
+      "partidos": [
+        "pp",
+        "psoe",
+        "vox",
+        "sumar"
+      ]
+    },
+    {
+      "titulo": "Javier Milei llama a “sacar a los socialistas a patadas” y al “impresentable dictador Pedro Sánchez”",
+      "medio": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/politica/20261021/11664370/javier-milei-llama-sacar-socialistas-patadas-impresentable-dictador-pedro-sanchez.html",
+      "fecha": "2026-10-21T08:39+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "Illa recuerda a Junts y a ERC que la amnistía ha sido posible también gracias al PSC",
+      "medio": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/politica/20261021/11664365/illa-recuerda-junts-erc-amnistia-sido-posible-gracias-psc.html",
+      "fecha": "2026-10-21T08:32+00:00",
+      "partidos": [
+        "erc",
+        "junts"
+      ]
+    },
+    {
+      "titulo": "Milei llama \"impresentable dictador\" a Pedro Sánchez en su primer acto en España",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/politica/milei-llama-impresentable-dictador-pedro-sanchez-primer-acto-espana_1_13602219.html",
+      "fecha": "2026-10-21T08:27+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "El PSOE hace campaña con la visita de Milei a España: \"Los zurdos te dan la bienvenida\"",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/politica/psoe-campana-visita-milei-espana-zurdos-dan-bienvenida_1_13602102.html",
+      "fecha": "2026-10-21T08:17+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "Albiol pide a Junts sus aportaciones a la ley antiocupación: “Seguro que tiene buenas ideas”",
+      "medio": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/politica/20261021/11664329/albiol-pide-junts-aportaciones-ley-antiocupacion-seguro-buenas-ideas.html",
+      "fecha": "2026-10-21T07:51+00:00",
+      "partidos": [
+        "junts"
+      ]
+    },
+    {
+      "titulo": "Albares acusa al PP de \"acosar\" a Exteriores por la 'ley de nietos' y asegura que cumple el auto del Supremo \"con toda la diligencia\"",
+      "medio": "20minutos",
+      "url": "https://www.20minutos.es/nacional/albares-exige-pp-que-deje-acosar-exteriores-por-ley-nietos-asegura-que-cumple-auto-supremo-con-diligencia_7051374_0.html",
+      "fecha": "2026-10-21T07:39+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "Sánchez da la bienvenida a Milei con una lona en Ferraz y un vídeo: “Orgullosos de ser zurdos”",
+      "medio": "El País",
+      "url": "https://elpais.com/espana/elecciones-generales/2026-10-21/sanchez-da-la-bienvenida-a-milei-con-una-lona-en-ferraz-y-un-video-orgullosos-de-ser-zurdos.html",
+      "fecha": "2026-10-21T07:34+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "Sánchez y PSOE dan la \"bienvenida\" a la visita de Milei con una lona en Ferraz reivindicando su orgullo por ser \"zurdos\"",
+      "medio": "Europa Press",
+      "url": "https://www.europapress.es/nacional/noticia-sanchez-psoe-dan-bienvenida-visita-milei-lona-ferraz-reivindicando-orgullo-ser-zurdos-20261021085458.html",
+      "fecha": "2026-10-21T06:54+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "El PSOE recibe a Milei con una pancarta en Ferraz: \"Zurdos y orgullosos\"",
+      "medio": "El Confidencial",
+      "url": "https://www.elconfidencial.com/espana/2026-10-21/psoe-recibe-milei-pancarta-ferraz-zurdos-y-orgullosos_4449536/",
+      "fecha": "2026-10-21T06:52+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "El PSOE recibe a Milei con una irónica lona en Ferraz: \"Los zurdos y las zurdas te dan la bienvenida a España\"",
+      "medio": "20minutos",
+      "url": "https://www.20minutos.es/nacional/psoe-da-bienvenida-milei-con-una-lona-ferraz-los-zurdos-las-zurdas-te-dan-bienvenida-espana_7051346_0.html",
+      "fecha": "2026-10-21T06:41+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
       "titulo": "Encuestas elecciones generales 29N: resultados de PSOE, PP, VOX y Frente Amplio y ganador según los sondeos",
       "medio": "ABC",
       "url": "https://www.abc.es/espana/encuestas-elecciones-generales-29n-resultados-psoe-pp-20261021051500-nt.html",
@@ -522,6 +690,15 @@
       "fecha": "2026-10-21T00:30+00:00",
       "partidos": [
         "psoe"
+      ]
+    },
+    {
+      "titulo": "Milei en España con Ayuso y sin Abascal por primera vez en siete visitas",
+      "medio": "El Mundo",
+      "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/10/21/6ad7bf37e4d4d8275a8b4594.html",
+      "fecha": "2026-10-20T23:27+00:00",
+      "partidos": [
+        "vox"
       ]
     },
     {
@@ -3080,191 +3257,6 @@
       "partidos": [
         "sumar",
         "podemos"
-      ]
-    },
-    {
-      "titulo": "Tres años de PP y Vox en Balears: rebajas de impuestos a ricos, derogación de la ley de memoria y fracaso contra el catalán",
-      "medio": "elDiario.es",
-      "url": "https://www.eldiario.es/illes-balears/politica/tres-anos-pp-vox-balears-rebajas-impuestos-ricos-derogacion-ley-memoria-fracaso-catalan_1_13592176.html",
-      "fecha": "2026-10-17T04:02+00:00",
-      "partidos": [
-        "pp",
-        "vox"
-      ]
-    },
-    {
-      "titulo": "El PSOE se conjura en su comité federal para pelear por otra remontada electoral",
-      "medio": "El País",
-      "url": "https://elpais.com/espana/elecciones-generales/2026-10-17/el-psoe-se-conjura-en-su-comite-federal-para-pelear-por-otra-remontada-electoral.html",
-      "fecha": "2026-10-17T03:30+00:00",
-      "partidos": [
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "Encuestas elecciones generales del 29N en Canarias: resultados de PSOE, PP, VOX y Coalición Canaria y ganador según los sondeos",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/canarias/encuestas-elecciones-generales-29n-canarias-resultados-psoe-20261017051500-nt.html",
-      "fecha": "2026-10-17T03:15+00:00",
-      "partidos": [
-        "pp",
-        "psoe",
-        "cc"
-      ]
-    },
-    {
-      "titulo": "Feijóo se prepara para ver \"las calles arder\" si el PP llega a Moncloa y pone ya distancia con los sindicatos",
-      "medio": "El Confidencial",
-      "url": "https://www.elconfidencial.com/espana/2026-10-17/huelga-general-feijoo-pp-moncloa-distancia-sindicatos_4446011/",
-      "fecha": "2026-10-17T03:00+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Adiós a la quimera de la unidad: Podemos y los herederos de Sumar irán separados salvo en Valencia y Canarias",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/pacto-pacto-izquierdas-enfoque-abierto-20261017000246-nt.html",
-      "fecha": "2026-10-16T23:44+00:00",
-      "partidos": [
-        "sumar"
-      ]
-    },
-    {
-      "titulo": "PSOE y la izquierda pactan una lista conjunta en el Senado para arrebatar su control al PP",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/psoe-izquierda-pactan-lista-conjunta-senado-29n-20261017002611-nt.html",
-      "fecha": "2026-10-16T23:26+00:00",
-      "partidos": [
-        "pp",
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "Fracasa la unidad en la izquierda en casi toda España: Frente Amplio y Podemos sólo pactan en cinco de las 52 circunscripciones",
-      "medio": "El Mundo",
-      "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/10/16/6ad2421721efa0481e8b4591.html",
-      "fecha": "2026-10-16T22:59+00:00",
-      "partidos": [
-        "sumar",
-        "podemos"
-      ]
-    },
-    {
-      "titulo": "138 resoluciones judiciales prueban que un diputado del PSOE hizo fortuna al servicio de los \"rentistas\"",
-      "medio": "El Mundo",
-      "url": "https://www.elmundo.es/murcia/2026/10/16/6ad1d299e4d4d897598b459e.html",
-      "fecha": "2026-10-16T22:58+00:00",
-      "partidos": [
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "Así han quedado los acuerdos territoriales a la izquierda del PSOE para las elecciones del 29-N",
-      "medio": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/politica/20261017/11661135/asi-acuerdos-territoriales-izquierda-psoe-elecciones-29-n.html",
-      "fecha": "2026-10-16T22:55+00:00",
-      "partidos": [
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "Recortes, desregulación y prioridad nacional: las medidas de Vox en las comunidades anticipan sus planes si llega al Gobierno",
-      "medio": "elDiario.es",
-      "url": "https://www.eldiario.es/politica/recortes-desregulacion-prioridad-nacional-medidas-vox-comunidades-anticipan-planes-si-llega-gobierno_1_13552492.html",
-      "fecha": "2026-10-16T22:28+00:00",
-      "partidos": [
-        "vox"
-      ]
-    },
-    {
-      "titulo": "¿Qué haría el PP con la Seguridad Social?",
-      "medio": "elDiario.es",
-      "url": "https://www.eldiario.es/opinion/tribuna-abierta/haria-pp-seguridad-social_129_13591553.html",
-      "fecha": "2026-10-16T22:28+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "El PSOE y Frente Amplio presentan listas conjuntas al Senado el 29-N para disputar la mayoría al PP",
-      "medio": "20minutos",
-      "url": "https://www.20minutos.es/nacional/psoe-frente-amplio-presentan-listas-conjuntas-senado-29-n-todas-las-provincias-salvo-cataluna-canarias_7049910_0.html",
-      "fecha": "2026-10-16T22:21+00:00",
-      "partidos": [
-        "pp",
-        "psoe",
-        "sumar"
-      ]
-    },
-    {
-      "titulo": "El PSOE y el Frente Amplio pactan una candidatura única para el Senado",
-      "medio": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/politica/20261017/11661132/psoe-frente-amplio-pactan-acuerdo-listas-conjuntas-senado.html",
-      "fecha": "2026-10-16T22:13+00:00",
-      "partidos": [
-        "psoe",
-        "sumar"
-      ]
-    },
-    {
-      "titulo": "Frente Amplio y Podemos consuman su choque al naufragar el intento de lograr un pacto global de unidad",
-      "medio": "Europa Press",
-      "url": "https://www.europapress.es/nacional/noticia-frente-amplio-podemos-consuman-fractura-no-llegar-acuerdo-global-coaliciones-29n-20261017000800.html",
-      "fecha": "2026-10-16T22:08+00:00",
-      "partidos": [
-        "sumar",
-        "podemos"
-      ]
-    },
-    {
-      "titulo": "La izquierda fracasa en su búsqueda de la unidad: Frente Amplio y Podemos solo irán juntos en Canarias y Comunidad Valenciana",
-      "medio": "20minutos",
-      "url": "https://www.20minutos.es/nacional/izquierda-fracasa-su-busqueda-unidad-frente-amplio-podemos-solo-iran-juntos-canarias-comunidad-valenciana_7049889_0.html",
-      "fecha": "2026-10-16T22:02+00:00",
-      "partidos": [
-        "sumar",
-        "podemos"
-      ]
-    },
-    {
-      "titulo": "Frente Amplio y Podemos fracasan en las negociaciones y solo irán juntos en Canarias y la Comunitat Valenciana",
-      "medio": "elDiario.es",
-      "url": "https://www.eldiario.es/politica/frente-amplio-fracasan-negociaciones-iran-canarias-comunitat-valenciana_1_13592471.html",
-      "fecha": "2026-10-16T21:58+00:00",
-      "partidos": [
-        "sumar",
-        "podemos"
-      ]
-    },
-    {
-      "titulo": "Histórico acuerdo de la izquierda para el Senado: PSOE y Frente Amplio pactan una lista única para desafiar la mayoría del PP",
-      "medio": "El Mundo",
-      "url": "https://www.elmundo.es/espana/2026/10/16/6ad23f39e85eced3738b45a2.html",
-      "fecha": "2026-10-16T21:55+00:00",
-      "partidos": [
-        "pp",
-        "psoe",
-        "sumar"
-      ]
-    },
-    {
-      "titulo": "El PSOE y Frente Amplio llegan a un acuerdo para presentar listas conjuntas al Senado",
-      "medio": "elDiario.es",
-      "url": "https://www.eldiario.es/politica/psoe-frente-amplio-llegan-acuerdo-presentar-listas-conjuntas-senado_1_13583230.html",
-      "fecha": "2026-10-16T21:51+00:00",
-      "partidos": [
-        "psoe",
-        "sumar"
-      ]
-    },
-    {
-      "titulo": "Dirigentes del PSOE agradecen y muestran su admiración a Montse Mínguez tras su dimisión: \"Gracias por tanto\"",
-      "medio": "20minutos",
-      "url": "https://www.20minutos.es/nacional/dirigentes-psoe-agradecen-muestran-admiracion-montse-minguez-dimision-gracias-tanto_7049909_0.html",
-      "fecha": "2026-10-16T21:48+00:00",
-      "partidos": [
-        "psoe"
       ]
     }
   ],
