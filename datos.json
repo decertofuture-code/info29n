@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-21T17:29+00:00",
+  "actualizado": "2026-10-21T21:30+00:00",
   "temas": [
     {
       "id": "vivienda",
@@ -448,6 +448,149 @@
     }
   ],
   "noticias": [
+    {
+      "titulo": "Pedro Sánchez será entrevistado este jueves en 'La Revuelta' por David Broncano",
+      "medio": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/politica/20261021/11664933/pedro-sanchez-sera-entrevistado-jueves-david-broncano-revuelta.html",
+      "fecha": "2026-10-21T20:37+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "Las protestas contra la actuación policial tras el acto de Abascal en A Coruña terminan con nuevos altercados",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/galicia/protestas-actuacion-policial-acto-abascal-coruna-terminan-nuevos-altercados_1_13604996.html",
+      "fecha": "2026-10-21T20:35+00:00",
+      "partidos": [
+        "vox"
+      ]
+    },
+    {
+      "titulo": "El PP se enreda con las listas electorales de Castilla y León",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/castilla-leon/pp-enreda-castilla-leon-listas-electorales-20261021213037-nt.html",
+      "fecha": "2026-10-21T19:34+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "Sánchez azuza el miedo a la motosierra de Milei: “Si Feijóo y Abascal gobiernan, van a hacer en España lo mismo que en Argentina”",
+      "medio": "El País",
+      "url": "https://elpais.com/espana/elecciones-generales/2026-10-21/sanchez-azuza-el-miedo-a-la-motosierra-de-milei-si-feijoo-y-abascal-gobiernan-van-a-hacer-en-espana-lo-mismo-que-en-argentina.html",
+      "fecha": "2026-10-21T19:01+00:00",
+      "partidos": [
+        "pp",
+        "vox"
+      ]
+    },
+    {
+      "titulo": "Feijóo miente: por qué un okupa no puede quedarse en tu casa presentando un ticket de pizza",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/economia/feijoo-miente-okupa-no-quedarse-casa-presentando-ticket-pizza_1_13604720.html",
+      "fecha": "2026-10-21T19:01+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "Sánchez exprime la visita de Milei para alertar contra PP y Vox: \"No proponen alternancia, es una involución\"",
+      "medio": "20minutos",
+      "url": "https://www.20minutos.es/nacional/sanchez-exprime-visita-milei-para-alertar-contra-pp-vox-no-proponen-alternancia-es-una-involucion_7051777_0.html",
+      "fecha": "2026-10-21T18:56+00:00",
+      "partidos": [
+        "pp",
+        "vox"
+      ]
+    },
+    {
+      "titulo": "La videollamada entre Milei y Abascal tras los insultos del argentino a Sánchez: \"No hay nada más divertido que patear culos zurdos\"",
+      "medio": "20minutos",
+      "url": "https://www.20minutos.es/nacional/videollamada-entre-milei-abascal-tras-los-insultos-argentino-sanchez-no-hay-nada-mas-divertido-que-patear-culos-zurdos_7051767_0.html",
+      "fecha": "2026-10-21T18:52+00:00",
+      "partidos": [
+        "vox"
+      ]
+    },
+    {
+      "titulo": "Lluís Puig ya pasea por las calles de Terrassa arropado por la plana mayor de Junts",
+      "medio": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/politica/20261021/11664885/lluis-puig-pasea-calles-terrassa-arropado-plana-mayor-junts.html",
+      "fecha": "2026-10-21T18:24+00:00",
+      "partidos": [
+        "junts"
+      ]
+    },
+    {
+      "titulo": "Pedro Sánchez presume de orgullo de \"zurdo\" y responde a Milei: \"Él, Feijóo y Abascal son lo mismo: motosierra\"",
+      "medio": "El Confidencial",
+      "url": "https://www.elconfidencial.com/espana/2026-10-21/sanchez-orgullo-zurdo-milei-feijoo-abascal-son-lo-mismo-motosierra_4450235/",
+      "fecha": "2026-10-21T18:16+00:00",
+      "partidos": [
+        "pp",
+        "psoe",
+        "vox"
+      ]
+    },
+    {
+      "titulo": "Sánchez advierte de que si Feijóo y Abascal ganan las elecciones harán lo mismo que Milei en Argentina",
+      "medio": "Europa Press",
+      "url": "https://www.europapress.es/nacional/noticia-sanchez-advierte-si-gobiernan-feijoo-abascal-haran-mismo-milei-argentina-20261021201653.html",
+      "fecha": "2026-10-21T18:16+00:00",
+      "partidos": [
+        "pp",
+        "vox"
+      ]
+    },
+    {
+      "titulo": "PSOE y Adelante amenazan al Parlamento andaluz con ir al Constitucional si avala la reforma que da a PP y Vox el control de la Cámara de Cuentas",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/andalucia/psoe-adelante-amenazan-parlamento-andaluz-constitucional-si-avala-reforma-da-pp-vox-control-camara-cuentas_1_13602387.html",
+      "fecha": "2026-10-21T18:03+00:00",
+      "partidos": [
+        "pp",
+        "psoe",
+        "vox"
+      ]
+    },
+    {
+      "titulo": "Vox presenta sus candidatos por las tres provincias y Chunta desiste de Teruel",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/aragon/vox-presenta-candidatos-tres-provincias-chunta-desiste-20261021192701-nt.html",
+      "fecha": "2026-10-21T17:53+00:00",
+      "partidos": [
+        "vox"
+      ]
+    },
+    {
+      "titulo": "Illa acusa a PP y Vox de crear un “enfrentamiento intergeneracional” con las pensiones",
+      "medio": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/politica/20261021/11664868/illa-acusa-pp-vox-crear-enfrentamiento-intergeneracional-pensiones.html",
+      "fecha": "2026-10-21T17:45+00:00",
+      "partidos": [
+        "pp",
+        "vox"
+      ]
+    },
+    {
+      "titulo": "CHA y Frente Amplio renuncian a concurrir al Congreso por Teruel para evitar la dispersión del voto progresista el 29-N",
+      "medio": "El Confidencial",
+      "url": "https://www.elconfidencial.com/espana/2026-10-21/chunta-frente-amplio-congreso-teruel-voto_4450226/",
+      "fecha": "2026-10-21T17:44+00:00",
+      "partidos": [
+        "sumar"
+      ]
+    },
+    {
+      "titulo": "Ferraz ignora la crisis con el PSOE de Palencia y completa las listas al Congreso tras la renuncia de los candidatos de la militancia",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/castilla-y-leon/politica/ferraz-ignora-crisis-psoe-palencia-completa-listas-congreso-renuncia-candidatos-militancia_1_13604496.html",
+      "fecha": "2026-10-21T17:33+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
     {
       "titulo": "Abascal y Milei se reúnen virtualmente para conjurarse contra Sánchez ante el 29-N",
       "medio": "ABC",
@@ -3105,147 +3248,6 @@
       "fecha": "2026-10-17T23:24+00:00",
       "partidos": [
         "vox"
-      ]
-    },
-    {
-      "titulo": "La desunión de la izquierda anima al equipo de Sánchez: \"El voto útil vendrá al PSOE de forma natural\"",
-      "medio": "El Mundo",
-      "url": "https://www.elmundo.es/espana/2026/10/18/6ad39ef7e4d4d80d4b8b456d.html",
-      "fecha": "2026-10-17T22:07+00:00",
-      "partidos": [
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "Bellido, «satisfecho» con el acuerdo con Ferraz tras los cambios en las listas de Guadalajara",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/castilla-la-mancha/bellido-satisfecho-acuerdo-ferraz-tras-cambios-listas-20261017210626-nt.html",
-      "fecha": "2026-10-17T20:23+00:00",
-      "partidos": [
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "El Frente Amplio y Podemos intentan zanjar el debate de las siglas y llaman a “frenar al fascismo”",
-      "medio": "elDiario.es",
-      "url": "https://www.eldiario.es/politica/frente-amplio-zanjar-debate-siglas-llaman-frenar-fascismo_1_13594075.html",
-      "fecha": "2026-10-17T20:11+00:00",
-      "partidos": [
-        "sumar",
-        "podemos"
-      ]
-    },
-    {
-      "titulo": "ERC y Comuns, historia de dos vecinos que no se pueden ni ver",
-      "medio": "elDiario.es",
-      "url": "https://www.eldiario.es/catalunya/erc-comuns-historia-vecinos-no-ver_129_13587165.html",
-      "fecha": "2026-10-17T20:11+00:00",
-      "partidos": [
-        "erc"
-      ]
-    },
-    {
-      "titulo": "Sánchez pone al PSOE a bailar al ritmo de Begoña Gómez para voltear la campaña",
-      "medio": "elDiario.es",
-      "url": "https://www.eldiario.es/politica/sanchez-pone-psoe-bailar-ritmo-begona-gomez-voltear-campana_1_13594220.html",
-      "fecha": "2026-10-17T20:11+00:00",
-      "partidos": [
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "El PP arranca con tropiezos la precampaña hacia las elecciones del 29N",
-      "medio": "elDiario.es",
-      "url": "https://www.eldiario.es/politica/pp-arranca-tropiezos-precampana-elecciones-29n_1_13592479.html",
-      "fecha": "2026-10-17T20:11+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Vox estudiará opciones para no hurtar senadores al PP en favor de la izquierda",
-      "medio": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/politica/20261017/11661547/vox-estudiara-opciones-hurtar-senadores-pp-favor-izquierda.html",
-      "fecha": "2026-10-17T17:14+00:00",
-      "partidos": [
-        "pp",
-        "vox"
-      ]
-    },
-    {
-      "titulo": "El beso de Sánchez y Begoña Gómez acaba en un cruce de mensajes entre PSOE y PP: del \"tú eliges\" de Bolaños a un montaje con Ábalos",
-      "medio": "20minutos",
-      "url": "https://www.20minutos.es/nacional/beso-sanchez-begona-gomez-acaba-un-cruce-mensajes-entre-psoe-pp-tu-eliges-bolanos-un-montaje-con-abalos_7050042_0.html",
-      "fecha": "2026-10-17T17:02+00:00",
-      "partidos": [
-        "pp",
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "PP y Vox se disputan en Cataluña el voto de Aliança en las generales",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/pp-vox-disputan-cataluna-voto-alianca-catalana-20261018165803-nt.html",
-      "fecha": "2026-10-17T16:13+00:00",
-      "partidos": [
-        "pp",
-        "vox"
-      ]
-    },
-    {
-      "titulo": "El PP valenciano inicia la precampaña del 29N con la vivienda como eje y críticas a Sánchez",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/comunidad-valenciana/pp-valenciano-inicia-precampana-29n-vivienda-eje-20261017175435-nt.html",
-      "fecha": "2026-10-17T16:02+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "De la Rosa: «La mano derecha de Page saca pecho de haber sostenido al PSOE de Koldo y Ábalos»",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/castilla-la-mancha/rosa-mano-derecha-page-saca-pecho-haber-20261017171344-nt.html",
-      "fecha": "2026-10-17T15:13+00:00",
-      "partidos": [
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "Albiol refuerza al PP en Barcelona para taponar el ascenso de Vox",
-      "medio": "El Mundo",
-      "url": "https://www.elmundo.es/espana/2026/10/17/6ad38816e85ecef0198b45b1.html",
-      "fecha": "2026-10-17T14:40+00:00",
-      "partidos": [
-        "pp",
-        "vox"
-      ]
-    },
-    {
-      "titulo": "El PP elige a Albiol para competir contra Vox en Barcelona",
-      "medio": "elDiario.es",
-      "url": "https://www.eldiario.es/catalunya/pp-elige-albiol-competir-vox-barcelona_1_13594147.html",
-      "fecha": "2026-10-17T14:37+00:00",
-      "partidos": [
-        "pp",
-        "vox"
-      ]
-    },
-    {
-      "titulo": "Vox pide una movilización masiva y advierte de que \"lo peor de Sánchez está por llegar\"",
-      "medio": "20minutos",
-      "url": "https://www.20minutos.es/nacional/vox-pide-una-movilizacion-masiva-advierte-que-peor-sanchez-esta-por-llegar_7050001_0.html",
-      "fecha": "2026-10-17T14:04+00:00",
-      "partidos": [
-        "vox"
-      ]
-    },
-    {
-      "titulo": "El PP confirma que Albiol encabezará la lista del PP en Barcelona en las elecciones del 29-N",
-      "medio": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/politica/20261017/11661468/pp-confirma-albiol-encabezara-lista-pp-barcelona-elecciones-29-n.html",
-      "fecha": "2026-10-17T13:59+00:00",
-      "partidos": [
-        "pp"
       ]
     }
   ],
