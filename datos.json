@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-22T17:29+00:00",
+  "actualizado": "2026-10-22T21:29+00:00",
   "temas": [
     {
       "id": "vivienda",
@@ -449,6 +449,98 @@
   ],
   "noticias": [
     {
+      "titulo": "Benjamín Prieto será el número dos del PP de Cuenca al Congreso",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/castilla-la-mancha/benjamin-prieto-numero-dos-pp-cuenca-congreso-20261022222108-nt.html",
+      "fecha": "2026-10-22T20:24+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "El PP apura para desvelar unas listas que dejan sorpresa en Zamora",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/castilla-leon/pp-apura-desvelar-listas-dejan-sorpresa-zamora-20261022210009-nt.html",
+      "fecha": "2026-10-22T19:46+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "La consellera Albalat lidera la lista del PP por Castellón y fuerza cambios en el Gobierno de Llorca",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/comunidad-valenciana/consellera-albalat-lidera-lista-pp-castellon-obliga-20261022201623-nt.html",
+      "fecha": "2026-10-22T18:57+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "Pedro Sánchez a Broncano en 'La Revuelta': Los casos de corrupción de Koldo y Ábalos han sido un error",
+      "medio": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/politica/20261022/11665757/entrevista-presidente-gobierno-pedro-sanchez-la-revuelta-david-broncano-ultima-hora-hoy-en-directo.html",
+      "fecha": "2026-10-22T18:47+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "El patrimonio inmobiliario de Pedro Sánchez: dos viviendas, dos plazas de aparcamiento y 12.845 euros anuales por alquilar inmuebles",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/patrimonio-inmobiliario-pedro-sanchez-dos-viviendas-dos-20261022193058-nt.html",
+      "fecha": "2026-10-22T18:42+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "El PP de Moreno apoya el plan de Vox de \"deportar\" inmigrantes para solucionar el “colapso” de la vivienda en España",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/andalucia/pp-moreno-vota-plan-vox-deportar-inmigrantes-solucionar-colapso-vivienda-espana_1_13607776.html",
+      "fecha": "2026-10-22T18:11+00:00",
+      "partidos": [
+        "pp",
+        "vox"
+      ]
+    },
+    {
+      "titulo": "De las facturas del PSOE a la 'oposición' interna a Feijóo",
+      "medio": "El Mundo",
+      "url": "https://www.elmundo.es/espana/2026/10/22/6ada4fd6e4d4d8e0338b456e.html",
+      "fecha": "2026-10-22T18:08+00:00",
+      "partidos": [
+        "pp",
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "Pedro Sánchez en 'La Revuelta', en directo | La promesa de Sánchez a Broncano si gana las elecciones: \"Cuatro años más de 'La Revuelta' si el programa quiere\"",
+      "medio": "20minutos",
+      "url": "https://www.20minutos.es/nacional/pedro-sanchez-revuelta-directo-presidente-gobierno-acude-por-primera-vez-programa-david-broncano_7052299_6.html",
+      "fecha": "2026-10-22T18:00+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "Vox atribuye las protestas contra sus actos a violencia organizada desde la Moncloa",
+      "medio": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/politica/20261022/11665811/vox-atribuye-protestas-actos-violencia-organizada-moncloa.html",
+      "fecha": "2026-10-22T17:55+00:00",
+      "partidos": [
+        "vox"
+      ]
+    },
+    {
+      "titulo": "Las entidades memorialistas rompen con el Govern balear del PP por \"ignorar\" a las víctimas del franquismo",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/illes-balears/sociedad/entidades-memorialistas-rompen-govern-balear-pp-ignorar-victimas-franquismo_1_13607878.html",
+      "fecha": "2026-10-22T17:45+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
       "titulo": "Abascal ordena vetar la investigación por la crisis de los cribados en Andalucía un año después de pedir la dimisión de Moreno",
       "medio": "elDiario.es",
       "url": "https://www.eldiario.es/andalucia/abascal-ordena-vetar-investigacion-crisis-cribados-andalucia-ano-despues-pedir-dimision-moreno_1_13605622.html",
@@ -599,6 +691,15 @@
       ]
     },
     {
+      "titulo": "El PP desata la polémica en la Asamblea de Extremadura por insultar a las “feministas de izquierdas”: “Están calladas como puertas”",
+      "medio": "El País",
+      "url": "https://elpais.com/espana/2026-10-22/el-pp-desata-la-polemica-en-la-asamblea-de-extremadura-por-insultar-a-las-feministas-de-izquierdas-estan-calladas-como-puertas.html",
+      "fecha": "2026-10-22T15:08+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
       "titulo": "Anticorrupción se opone a devolver el móvil al exjefe de gabinete de Sánchez en el PSOE",
       "medio": "20minutos",
       "url": "https://www.20minutos.es/nacional/anticorrupcion-se-opone-devolver-movil-exjefe-gabinete-sanchez-psoe_7052197_0.html",
@@ -644,12 +745,30 @@
       ]
     },
     {
+      "titulo": "El regreso de Lluís Puig al Parlament escenifica la normalidad institucional a la espera de Puigdemont",
+      "medio": "20minutos",
+      "url": "https://www.20minutos.es/cataluna/regreso-lluis-puig-parlament-escenifica-normalidad-institucional-espera-puigdemont_7051712_0.html",
+      "fecha": "2026-10-22T13:49+00:00",
+      "partidos": [
+        "junts"
+      ]
+    },
+    {
       "titulo": "Un diputado del PP acusa a las “feministas de izquierda” de estar “calladas como puertas” por Ceuta y el “catálogo de prostitutas de Ábalos”",
       "medio": "elDiario.es",
       "url": "https://www.eldiario.es/extremadura/politica/diputado-pp-acusa-feministas-izquierda-calladas-puertas-compara-catalogo-prostitutas-abalos_1_13606931.html",
       "fecha": "2026-10-22T13:27+00:00",
       "partidos": [
         "pp"
+      ]
+    },
+    {
+      "titulo": "El cabeza de lista de Vox por Tarragona debe sentarse en el banquillo en julio por un delito de odio",
+      "medio": "El País",
+      "url": "https://elpais.com/espana/2026-10-22/el-cabeza-de-lista-de-vox-por-tarragona-debe-sentarse-en-el-banquillo-en-julio-por-un-delito-de-odio.html",
+      "fecha": "2026-10-22T13:27+00:00",
+      "partidos": [
+        "vox"
       ]
     },
     {
@@ -981,6 +1100,15 @@
       "fecha": "2026-10-22T07:46+00:00",
       "partidos": [
         "psoe"
+      ]
+    },
+    {
+      "titulo": "Feijóo confirma el ascenso de Cayetana Álvarez de Toledo como número dos y mantiene a Sémper como tres: \"En el PP caben todas las sensibilidades\"",
+      "medio": "El Mundo",
+      "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/10/22/6ad9b4a3e9cf4ab91c8b4595.html",
+      "fecha": "2026-10-22T07:42+00:00",
+      "partidos": [
+        "pp"
       ]
     },
     {
@@ -3112,135 +3240,6 @@
       "url": "https://www.20minutos.es/nacional/vox-publica-un-simulador-sueldo-para-explicar-efecto-que-tendrian-sus-medidas-asi-funciona-su-calculadora_7050566_0.html",
       "fecha": "2026-10-19T13:33+00:00",
       "partidos": [
-        "vox"
-      ]
-    },
-    {
-      "titulo": "Alcaldes del PP denuncian el abandono de Page a las infraestructuras: «Cero kilómetros de autovías»",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/castilla-la-mancha/alcaldes-pp-denuncian-abandono-page-infraestructuras-cero-20261019142947-nt.html",
-      "fecha": "2026-10-19T13:29+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Sánchez elige Burgos para su nueva parada en Castilla y León: la tierra de Tudanca, apeado por Ferraz de las listas",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/castilla-leon/sanchez-elige-burgos-nueva-parada-castilla-leon-20261019152853-nt.html",
-      "fecha": "2026-10-19T13:28+00:00",
-      "partidos": [
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "Luz verde al pelotazo con pisos de lujo junto a La Romareda: el Gobierno del PP mejora las condiciones al promotor",
-      "medio": "elDiario.es",
-      "url": "https://www.eldiario.es/aragon/politica/luz-verde-pelotazo-pisos-lujo-romareda-gobierno-pp-mejora-condiciones-promotor_1_13597562.html",
-      "fecha": "2026-10-19T13:28+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Feijóo suscribe «un contrato con España» de 12 puntos y promete que la palabra de un presidente «volverá a tener valor»",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/feijoo-suscribe-contrato-espana-puntos-promete-palabra-20261019125303-nt.html",
-      "fecha": "2026-10-19T13:14+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Vox denuncia que las alarmas de la Junta no avisaron de las inundaciones en Urda",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/castilla-la-mancha/toledo/vox-denuncia-alarmas-junta-avisaron-inundaciones-urda-20261019150028-nt.html",
-      "fecha": "2026-10-19T13:00+00:00",
-      "partidos": [
-        "vox"
-      ]
-    },
-    {
-      "titulo": "El PSOE acusa a Núñez de «traicionar» a Castilla-La Mancha y vincula la retirada del Estatuto al agua",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/castilla-la-mancha/psoe-acusa-nunez-traicionar-castillala-mancha-vincula-20261019144947-nt.html",
-      "fecha": "2026-10-19T12:51+00:00",
-      "partidos": [
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "Irene, Irene, Irene: Montero lanza su campaña más personalista y oculta la marca Podemos",
-      "medio": "El Mundo",
-      "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/10/19/6ad605bdfdddff505a8b45b6.html",
-      "fecha": "2026-10-19T12:45+00:00",
-      "partidos": [
-        "podemos"
-      ]
-    },
-    {
-      "titulo": "Podemos abandona su marca para el 29N y apuesta por \"Irene\" con la vivienda, la paz y el coste de la vida en el centro de su programa",
-      "medio": "20minutos",
-      "url": "https://www.20minutos.es/nacional/podemos-abandona-su-marca-para-29n-apuesta-por-irene-con-vivienda-paz-coste-vida-centro-su-programa_7050528_0.html",
-      "fecha": "2026-10-19T12:37+00:00",
-      "partidos": [
-        "podemos"
-      ]
-    },
-    {
-      "titulo": "Abascal reitera su oferta de acuerdo al PP para “proteger al Senado” del pacto de izquierdas",
-      "medio": "El País",
-      "url": "https://elpais.com/espana/elecciones-generales/2026-10-19/abascal-reitera-su-oferta-de-acuerdo-al-pp-para-proteger-al-senado-del-pacto-de-izquierdas.html",
-      "fecha": "2026-10-19T12:36+00:00",
-      "partidos": [
-        "pp",
-        "vox"
-      ]
-    },
-    {
-      "titulo": "De ordenar la inmigración a garantizar las pensiones: los 12 compromisos de Alberto Núñez Feijóo para el 29N",
-      "medio": "20minutos",
-      "url": "https://www.20minutos.es/nacional/ordenar-inmigracion-garantizar-pensiones-12-compromisos-alberto-nunez-feijoo-29n_7050511_0.html",
-      "fecha": "2026-10-19T12:25+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Abascal aboga por pactos con el PP en el Senado para “protegerlo de Sánchez y la extrema izquierda”",
-      "medio": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/politica/20261019/11662673/abascal-aboga-pactos-pp-senado-protegerlo-sanchez-extrema-izquierda.html",
-      "fecha": "2026-10-19T12:23+00:00",
-      "partidos": [
-        "pp",
-        "vox"
-      ]
-    },
-    {
-      "titulo": "Feijóo firma su “contrato” con España: “En estas elecciones no basta con un programa, hace falta un compromiso personal”",
-      "medio": "El País",
-      "url": "https://elpais.com/espana/elecciones-generales/2026-10-19/feijoo-firma-su-contrato-con-espana-en-estas-elecciones-no-basta-con-un-programa-hace-falta-un-compromiso-personal.html",
-      "fecha": "2026-10-19T12:10+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Abascal pide \"sacrificios\" frente a la unión de la izquierda en el Senado sin concretar qué hará Vox",
-      "medio": "elDiario.es",
-      "url": "https://www.eldiario.es/politica/abascal-pide-sacrificios-frente-union-izquierda-senado-concretar-hara-vox_1_13596254.html",
-      "fecha": "2026-10-19T12:03+00:00",
-      "partidos": [
-        "vox"
-      ]
-    },
-    {
-      "titulo": "Abascal abre la puerta a negociar con el PP no presentarse al Senado en algunas provincias para frenar a la izquierda",
-      "medio": "20minutos",
-      "url": "https://www.20minutos.es/nacional/abascal-abre-puerta-negociar-con-pp-no-presentarse-senado-algunas-provincias-para-frenar-izquierda_7050517_0.html",
-      "fecha": "2026-10-19T11:57+00:00",
-      "partidos": [
-        "pp",
         "vox"
       ]
     }
