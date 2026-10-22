@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-22T09:32+00:00",
+  "actualizado": "2026-10-22T13:42+00:00",
   "temas": [
     {
       "id": "vivienda",
@@ -449,6 +449,217 @@
   ],
   "noticias": [
     {
+      "titulo": "Un diputado del PP acusa a las “feministas de izquierda” de estar “calladas como puertas” por Ceuta y el “catálogo de prostitutas de Ábalos”",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/extremadura/politica/diputado-pp-acusa-feministas-izquierda-calladas-puertas-compara-catalogo-prostitutas-abalos_1_13606931.html",
+      "fecha": "2026-10-22T13:27+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "El PP señala al delegado del Gobierno: de campaña en Santiago durante los altercados de La Coruña",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/galicia/pp-senala-delegado-gobierno-campana-santiago-altercados-20261022132204-nt.html",
+      "fecha": "2026-10-22T13:23+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "El PSOE estudia demandar al PP por un vídeo hecho con IA en el que suplantan la identidad de Begoña Gómez, Zapatero o Montse Mínguez",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/politica/psoe-estudia-demandar-pp-video-hecho-ia-suplantan-identidad-begona-gomez-zapatero-montse-minguez_1_13606707.html",
+      "fecha": "2026-10-22T13:18+00:00",
+      "partidos": [
+        "pp",
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "El PSOE se niega a informar al juez del caso cloacas de los abogados que contrató amparándose en el secreto profesional",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/psoe-niega-informar-juez-cloacas-abogados-contrato-20261022144054-nt.html",
+      "fecha": "2026-10-22T13:12+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "Azcón llama «traidor» a Pueyo por no concurrir en Teruel para legar el escaño al PSOE",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/aragon/azcon-llama-traidor-pueyo-concurrir-teruel-legar-20261022144055-nt.html",
+      "fecha": "2026-10-22T12:40+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "Un juzgado de Madrid rechaza una querella de Vox contra Sofía Puente por la ley de nietos",
+      "medio": "20minutos",
+      "url": "https://www.20minutos.es/nacional/un-juzgado-madrid-rechaza-una-querella-vox-contra-sofia-puente-por-ley-nietos_7052125_0.html",
+      "fecha": "2026-10-22T12:23+00:00",
+      "partidos": [
+        "vox"
+      ]
+    },
+    {
+      "titulo": "El Consell d'Informatius de À Punt denuncia que la cadena externaliza programas para hacer \"campañas diarias a favor del PP\"",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/comunitat-valenciana/consell-d-informatius-punt-denuncia-cadena-externaliza-programas-campanas-diarias-favor-pp_1_13606523.html",
+      "fecha": "2026-10-22T12:19+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "Colectivos antifascistas denuncian la brutalidad policial contra la protesta ante un acto de Vox en A Coruña",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/galicia/colectivos-antifascistas-denuncian-brutalidad-policial-protesta-acto-vox-coruna_1_13606508.html",
+      "fecha": "2026-10-22T12:13+00:00",
+      "partidos": [
+        "vox"
+      ]
+    },
+    {
+      "titulo": "El PP dice, tras llamar Milei \"dictador\" a Sánchez, que el Gobierno no puede dar lecciones porque le llamó \"drogadicto\"",
+      "medio": "Europa Press",
+      "url": "https://www.europapress.es/nacional/noticia-pp-dice-llamar-milei-dictador-sanchez-gobierno-no-puede-dar-lecciones-porque-le-llamo-drogadicto-20261022141357.html",
+      "fecha": "2026-10-22T12:13+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "El PP respalda la censura ideológica de Vox al cine en Castilla y León y lo justifica en nombre de la “libertad”",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/castilla-y-leon/politica/pp-respalda-censura-ideologica-vox-cine-castilla-leon-justifica-nombre-libertad-calidad-artistica_1_13606432.html",
+      "fecha": "2026-10-22T12:11+00:00",
+      "partidos": [
+        "pp",
+        "vox"
+      ]
+    },
+    {
+      "titulo": "\"Violencia diseñada y orquestada desde La Moncloa\": Abascal culpa al Gobierno de las protestas y el delegado atribuye los disturbios a un grupo \"mínimo\"",
+      "medio": "El Mundo",
+      "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/10/22/6ad9eaa9e4d4d841358b45ae.html",
+      "fecha": "2026-10-22T12:10+00:00",
+      "partidos": [
+        "vox"
+      ]
+    },
+    {
+      "titulo": "El PP hace equilibrios tras la controvertida visita de Milei",
+      "medio": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/politica/20261022/11665479/pp-equilibrios-controvertida-visita-milei.html",
+      "fecha": "2026-10-22T11:51+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "Toni Comín (Junts) recoge su acta de eurodiputado en Madrid tras prometer la Constitución por imperativo legal",
+      "medio": "Europa Press",
+      "url": "https://www.europapress.es/nacional/noticia-toni-comin-junts-recoge-acta-eurodiputado-madrid-prometer-constitucion-imperativo-legal-20261022134708.html",
+      "fecha": "2026-10-22T11:47+00:00",
+      "partidos": [
+        "junts"
+      ]
+    },
+    {
+      "titulo": "Frente Amplio aprovecha el tirón de Bustinduy y lo nombra portavoz de campaña",
+      "medio": "El País",
+      "url": "https://elpais.com/espana/elecciones-generales/2026-10-22/frente-amplio-aprovecha-el-tiron-de-bustinduy-y-lo-nombra-portavoz-de-campana.html",
+      "fecha": "2026-10-22T11:11+00:00",
+      "partidos": [
+        "sumar"
+      ]
+    },
+    {
+      "titulo": "Álvarez de Toledo y Sémper serán los números dos y tres de Feijóo en la lista por Madrid",
+      "medio": "El País",
+      "url": "https://elpais.com/espana/2026-10-22/alvarez-de-toledo-y-semper-seran-los-numeros-dos-y-tres-de-feijoo-en-la-lista-por-madrid.html",
+      "fecha": "2026-10-22T10:45+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "El PP da un paso más en su campaña y suplanta la identidad de Begoña Gómez, Zapatero y Ábalos: “¿Irse de putas? Sí, soy zurdo”",
+      "medio": "El País",
+      "url": "https://elpais.com/espana/elecciones-generales/2026-10-22/el-pp-da-un-paso-mas-en-su-campana-y-suplanta-la-identidad-de-begona-gomez-zapatero-y-abalos-irse-de-putas-si-soy-zurdo.html",
+      "fecha": "2026-10-22T10:43+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "Vox llevó en sus listas de 2019 al marido de la exconcejala del PP de Ibiza detenido por blanqueo",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/illes-balears/politica/vox-llevo-listas-detenido-blanqueo-operacion-narcotrafico_1_13605568.html",
+      "fecha": "2026-10-22T10:35+00:00",
+      "partidos": [
+        "pp",
+        "vox"
+      ]
+    },
+    {
+      "titulo": "El PP acepta el debate de vivienda en la Cadena SER pero pide al PSOE confirmar si Sánchez estará en los otros tres",
+      "medio": "Europa Press",
+      "url": "https://www.europapress.es/nacional/noticia-pp-acepta-debate-vivienda-cadena-ser-pide-psoe-confirmar-si-sanchez-estara-otros-tres-20261022123505.html",
+      "fecha": "2026-10-22T10:35+00:00",
+      "partidos": [
+        "pp",
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "Toni Comín (Junts) vuelve a España tras nueve años en Bélgica para recoger su acta de eurodiputado",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/catalunya/toni-comin-junts-vuelve-espana-nueve-anos-belgica-recoger-acta-eurodiputado_1_13603245.html",
+      "fecha": "2026-10-22T10:33+00:00",
+      "partidos": [
+        "junts"
+      ]
+    },
+    {
+      "titulo": "Pablo Bustinduy será el portavoz de campaña de Frente Amplio para el 29-N",
+      "medio": "20minutos",
+      "url": "https://www.20minutos.es/nacional/pablo-bustinduy-sera-portavoz-campana-frente-amplio-para-29-n_7051984_0.html",
+      "fecha": "2026-10-22T09:58+00:00",
+      "partidos": [
+        "sumar"
+      ]
+    },
+    {
+      "titulo": "Dimite el coordinador de Podemos en Aragón por “desacuerdos” con la dirección nacional",
+      "medio": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/politica/20261022/11665340/dimite-coordinador-aragon-desacuerdos-direccion-nacional.html",
+      "fecha": "2026-10-22T09:57+00:00",
+      "partidos": [
+        "podemos"
+      ]
+    },
+    {
+      "titulo": "Colau y Urtasun completan su lista de Frente Amplio por Barcelona en la que no repiten Aina Vidal ni Gerardo Pisarello",
+      "medio": "Europa Press",
+      "url": "https://www.europapress.es/catalunya/noticia-colau-urtasun-completan-lista-barcelona-29n-miralles-berrio-martin-mena-20261022115152.html",
+      "fecha": "2026-10-22T09:51+00:00",
+      "partidos": [
+        "sumar"
+      ]
+    },
+    {
+      "titulo": "Puente condena los actos violentos contra Abascal en Galicia y recuerda que \"la mejor forma de parar al fascismo es votando el 29N\"",
+      "medio": "20minutos",
+      "url": "https://www.20minutos.es/nacional/puente-condena-los-actos-violentos-contra-abascal-galicia-recuerda-que-mejor-forma-parar-fascismo-es-votando-29n_7051942_0.html",
+      "fecha": "2026-10-22T09:44+00:00",
+      "partidos": [
+        "vox"
+      ]
+    },
+    {
       "titulo": "El PSOE esgrime el secreto profesional para no entregar a Pedraz los contratos con abogados bajo sospecha en el 'caso Cloacas'",
       "medio": "El Mundo",
       "url": "https://www.elmundo.es/espana/2026/10/22/6ad9cf0bfdddff94708b4597.html",
@@ -477,12 +688,30 @@
       ]
     },
     {
+      "titulo": "Sémper y Cayetana; unidos por Feijóo seis años después de una agria polémica que a punto estuvo de amotinar al PP vasco",
+      "medio": "El Mundo",
+      "url": "https://www.elmundo.es/pais-vasco/2026/10/22/6ad9c4ee21efa09a1d8b45a8.html",
+      "fecha": "2026-10-22T08:49+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
       "titulo": "Vox Canarias presenta sus listas al Congreso por primera vez en Santa Cruz de Tenerife y repitiendo con Rodríguez Almeida",
       "medio": "ABC",
       "url": "https://www.abc.es/espana/canarias/vox-canarias-presenta-listas-congreso-primera-vez-20261022104302-nt.html",
       "fecha": "2026-10-22T08:43+00:00",
       "partidos": [
         "vox"
+      ]
+    },
+    {
+      "titulo": "Ayuso pide respeto a Milei, que ha salido de urnas, y censura \"lecciones\" de un PSOE que es \"partido del amor de pago\"",
+      "medio": "Europa Press",
+      "url": "https://www.europapress.es/madrid/noticia-ayuso-pide-respeto-milei-salido-urnas-censura-lecciones-psoe-partido-amor-pago-20261022103324.html",
+      "fecha": "2026-10-22T08:33+00:00",
+      "partidos": [
+        "psoe"
       ]
     },
     {
@@ -702,6 +931,15 @@
       ]
     },
     {
+      "titulo": "234 votos en Teruel: la suma que abre la retirada del Frente Amplio en provincias y puede dar la vuelta a las elecciones",
+      "medio": "El Mundo",
+      "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/10/22/6ad90702e85ece8d098b45a0.html",
+      "fecha": "2026-10-21T23:43+00:00",
+      "partidos": [
+        "sumar"
+      ]
+    },
+    {
       "titulo": "Comín, tránsfuga y escudero de Puigdemont, regresa a España para asegurarse el acta de eurodiputado y seguir en política",
       "medio": "El Mundo",
       "url": "https://www.elmundo.es/cataluna/2026/10/22/6ad8ff74e9cf4a04478b4599.html",
@@ -723,6 +961,15 @@
       "titulo": "Dos instituciones dañadas por dos ex ministros del PSOE en el intento de salvar la 'ley de nietos'",
       "medio": "El Mundo",
       "url": "https://www.elmundo.es/espana/2026/10/21/6ad8fea2e85ece4a468b457a.html",
+      "fecha": "2026-10-21T20:51+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "Noche en vela de los socialistas ante la Junta Electoral para colocar bien la papeleta del PSOE en las mesas del 29-N",
+      "medio": "El Mundo",
+      "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/10/21/6ad8ffafe4d4d85a288b4598.html",
       "fecha": "2026-10-21T20:51+00:00",
       "partidos": [
         "psoe"
@@ -2995,259 +3242,6 @@
       "medio": "El Confidencial",
       "url": "https://www.elconfidencial.com/espana/2026-10-19/el-pp-acusa-a-sanchez-de_4447839/",
       "fecha": "2026-10-19T09:18+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Abascal lleva en las listas a Montse Lluis, negociadora con el PP, y Redondo, líder de Vox en Ceuta",
-      "medio": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/politica/20261019/11662477/abascal-lleva-listas-montse-lluis-negociadora-pp-redondo-lider-vox-ceuta.html",
-      "fecha": "2026-10-19T09:13+00:00",
-      "partidos": [
-        "pp",
-        "vox"
-      ]
-    },
-    {
-      "titulo": "El PP dice que el beso de Sánchez con Begoña Gómez copia la campaña de Cristina Kirchner: \"Es más falso que Judas\"",
-      "medio": "Europa Press",
-      "url": "https://www.europapress.es/nacional/noticia-pp-dice-beso-sanchez-begona-gomez-copia-campana-cristina-kirchner-mas-falso-judas-20261019110855.html",
-      "fecha": "2026-10-19T09:08+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Sorpresa en las listas de Vox para el 29-N: Montse Lluis, negociadora en los pactos con el PP, será la número dos por Madrid",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/sorpresa-listas-vox-29n-montse-lluis-negociadora-20261019110614-nt.html",
-      "fecha": "2026-10-19T09:06+00:00",
-      "partidos": [
-        "pp",
-        "vox"
-      ]
-    },
-    {
-      "titulo": "La diputada de Vox Lourdes Méndez Monasterio anuncia que deja la política",
-      "medio": "Europa Press",
-      "url": "https://www.europapress.es/nacional/noticia-diputada-vox-lourdes-mendez-monasterio-anuncia-deja-politica-20261019110050.html",
-      "fecha": "2026-10-19T09:00+00:00",
-      "partidos": [
-        "vox"
-      ]
-    },
-    {
-      "titulo": "El PP volvería a depender de Vox para gobernar en Andalucía y el PSOE de María Jesús Montero se hundiría aún más",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/andalucia/pp-volveria-depender-vox-gobernar-andalucia-psoe-20261019081359-nts.html",
-      "fecha": "2026-10-19T08:58+00:00",
-      "partidos": [
-        "pp",
-        "psoe",
-        "vox"
-      ]
-    },
-    {
-      "titulo": "El PP encomienda al joven Jon Echeverría, de 22 años, el difícil reto de recuperar el escaño en Guipúzcoa",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/pais-vasco/pp-encomienda-joven-jon-echeverria-dificil-reto-20261019093720-nt.html",
-      "fecha": "2026-10-19T08:53+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Díaz acusa a Feijóo de \"enfrentar de manera radical\" a los españoles con su ley antiocupación",
-      "medio": "Europa Press",
-      "url": "https://www.europapress.es/nacional/noticia-diaz-acusa-feijoo-enfrentar-manera-radical-espanoles-ley-antiocupacion-20261019105337.html",
-      "fecha": "2026-10-19T08:53+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Dos de cada tres andaluces suspenden la gestión de Pedro Sánchez a las puertas de las elecciones del 29 de noviembre",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/andalucia/dos-tres-andaluces-suspenden-gestion-pedro-sanchez-20261019104529-nts.html",
-      "fecha": "2026-10-19T08:45+00:00",
-      "partidos": [
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "El Supremo considera aplicable la amnistía a Puigdemont y confirma el fin de la orden de detención",
-      "medio": "Europa Press",
-      "url": "https://www.europapress.es/nacional/noticia-supremo-considera-aplicable-amnistia-puigdemont-confirma-fin-orden-detencion-20261019104108.html",
-      "fecha": "2026-10-19T08:41+00:00",
-      "partidos": [
-        "junts"
-      ]
-    },
-    {
-      "titulo": "Iglesias denuncia que el objetivo de Frente Amplio fue \"matar\" a Podemos \"por delante de cualquier consideración\"",
-      "medio": "Europa Press",
-      "url": "https://www.europapress.es/nacional/noticia-iglesias-denuncia-objetivo-frente-amplio-fue-matar-podemos-delante-cualquier-consideracion-20261019103902.html",
-      "fecha": "2026-10-19T08:39+00:00",
-      "partidos": [
-        "sumar",
-        "podemos"
-      ]
-    },
-    {
-      "titulo": "Llarena ratifica la retirada de la orden de detención de Puigdemont pero critica la falta de \"mesura\" del TC: \"Los adjetivos no convierten en indiscutible lo que ha fracturado al Tribunal\"",
-      "medio": "El Mundo",
-      "url": "https://www.elmundo.es/espana/2026/10/19/6ad5d223e85ece27348b4599.html",
-      "fecha": "2026-10-19T08:37+00:00",
-      "partidos": [
-        "junts"
-      ]
-    },
-    {
-      "titulo": "Llarena confirma su decisión de retirar provisionalmente la orden de detención de Puigdemont",
-      "medio": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/politica/20261019/11662448/llarena-confirma-decision-retirar-provisionalmente-orden-detencion-puigdemont.html",
-      "fecha": "2026-10-19T08:35+00:00",
-      "partidos": [
-        "junts"
-      ]
-    },
-    {
-      "titulo": "El juez Llarena critica la decisión del TC sobre la amnistía pero rechaza reactivar la orden de detención de Puigdemont",
-      "medio": "20minutos",
-      "url": "https://www.20minutos.es/nacional/llarena-critica-decision-tc-sobre-amnistia-pero-rechaza-reactivar-orden-detencion-puigdemont_7050347_0.html",
-      "fecha": "2026-10-19T08:35+00:00",
-      "partidos": [
-        "junts"
-      ]
-    },
-    {
-      "titulo": "Vox rentabiliza su pacto con Moreno y Adelante crece a costa del PSOE en Andalucía, según el ‘CIS andaluz’",
-      "medio": "El País",
-      "url": "https://elpais.com/espana/andalucia/2026-10-19/vox-rentabiliza-su-pacto-con-moreno-y-adelante-crece-a-costa-del-psoe-en-andalucia.html",
-      "fecha": "2026-10-19T08:33+00:00",
-      "partidos": [
-        "psoe",
-        "vox"
-      ]
-    },
-    {
-      "titulo": "Llarena confirma su decisión de levantar la orden de detención de Puigdemont con críticas al Constitucional",
-      "medio": "El País",
-      "url": "https://elpais.com/espana/2026-10-19/llarena-confirma-su-decision-de-levantar-la-orden-de-detencion-de-puigdemont-con-criticas-al-constitucional.html",
-      "fecha": "2026-10-19T08:30+00:00",
-      "partidos": [
-        "junts"
-      ]
-    },
-    {
-      "titulo": "El juez Llarena critica al Constitucional pero confirma que Puigdemont puede volver a España sin ser detenido",
-      "medio": "elDiario.es",
-      "url": "https://www.eldiario.es/catalunya/juez-llarena-critica-constitucional-confirma-puigdemont-volver-espana-detenido_1_13596182.html",
-      "fecha": "2026-10-19T08:20+00:00",
-      "partidos": [
-        "junts"
-      ]
-    },
-    {
-      "titulo": "Pedro Sánchez suspende un acto en Toledo después de que Ferraz haya tumbado a candidatos del PSOE de Page",
-      "medio": "elDiario.es",
-      "url": "https://www.eldiario.es/castilla-la-mancha/politica/pedro-sanchez-suspende-acto-toledo-ferraz-haya-tumbado-candidatos-psoe-page_1_13596147.html",
-      "fecha": "2026-10-19T08:12+00:00",
-      "partidos": [
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "Críticos de ERC rechazan el pacto con Podemos y que Rufián encabece la lista",
-      "medio": "Europa Press",
-      "url": "https://www.europapress.es/catalunya/noticia-criticos-erc-rechazan-pacto-podemos-rufian-encabece-lista-20261019095857.html",
-      "fecha": "2026-10-19T07:58+00:00",
-      "partidos": [
-        "erc",
-        "podemos"
-      ]
-    },
-    {
-      "titulo": "Atacan con pintadas la nueva sede de Podemos en Huelva",
-      "medio": "El Confidencial",
-      "url": "https://www.elconfidencial.com/espana/2026-10-19/vandalismo-sede-podemos-huelva-1tna-1tps_4447796/",
-      "fecha": "2026-10-19T07:47+00:00",
-      "partidos": [
-        "podemos"
-      ]
-    },
-    {
-      "titulo": "El 'CIS andaluz' consolida la hegemonía del PP y prevé un repunte de Adelante Andalucía y Vox a mes y medio del 29-N",
-      "medio": "elDiario.es",
-      "url": "https://www.eldiario.es/andalucia/cis-andaluz-consolida-hegemonia-pp-preve-repunte-adelante-andalucia-vox-mes-medio-29-n_1_13595907.html",
-      "fecha": "2026-10-19T06:25+00:00",
-      "partidos": [
-        "pp",
-        "vox"
-      ]
-    },
-    {
-      "titulo": "Encuestas elecciones generales 29N: resultados de PSOE, PP, VOX y Frente Amplio y ganador según los sondeos del CIS y GAD3",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/encuestas-elecciones-generales-29n-resultados-psoe-pp-20261019053000-nt.html",
-      "fecha": "2026-10-19T04:57+00:00",
-      "partidos": [
-        "pp",
-        "psoe",
-        "sumar"
-      ]
-    },
-    {
-      "titulo": "Del dominio socialista al avance del PP: así ha cambiado el voto en las elecciones generales en Córdoba desde la Transición",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/andalucia/cordoba/dominio-socialista-avance-pp-cambiado-voto-elecciones-20261019061941-nts.html",
-      "fecha": "2026-10-19T04:19+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "¿Puede el PSOE ser la fuerza más votada en la Comunidad Valenciana en las generales?",
-      "medio": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/local/valencia/20261019/11659032/pspv-fuerza-mas-votada-comunidad-valenciana-generales.html",
-      "fecha": "2026-10-19T03:30+00:00",
-      "partidos": [
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "La gran paradoja del 29-N: la ausencia de Orriols en las elecciones 'españolas' dispara a Vox en Cataluña",
-      "medio": "El Confidencial",
-      "url": "https://www.elconfidencial.com/espana/cataluna/2026-10-19/la-gran-paradoja-del-29-n-la-ausencia-de-orriols-en-las-elecciones-espanolas-dispara-a-vox-en-cataluna_4446857/",
-      "fecha": "2026-10-19T03:00+00:00",
-      "partidos": [
-        "vox"
-      ]
-    },
-    {
-      "titulo": "El PSOE enfría la vuelta de Zapatero a los mítines: crecen las voces que creen que su presencia puede restar más que sumar",
-      "medio": "20minutos",
-      "url": "https://www.20minutos.es/nacional/psoe-enfria-vuelta-zapatero-los-mitines-crecen-las-voces-que-creen-que-su-presencia-puede-restar-mas-que-sumar_7049878_0.html",
-      "fecha": "2026-10-19T03:00+00:00",
-      "partidos": [
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "Génova desarrolla un sistema paralelo de recuento de votos para las mesas electorales",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/genova-desarrolla-sistema-paralelo-recuento-votos-mesas-20261019014048-nt.html",
-      "fecha": "2026-10-19T00:11+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Feijóo marca Catalunya como un territorio clave para llegar a la Moncloa tras las elecciones del 29-N",
-      "medio": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/politica/20261019/11662138/feijoo-marca-catalunya-territorio-clave-llegar-moncloa-elecciones-29-n.html",
-      "fecha": "2026-10-18T22:05+00:00",
       "partidos": [
         "pp"
       ]
