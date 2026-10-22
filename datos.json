@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-22T05:20+00:00",
+  "actualizado": "2026-10-22T09:32+00:00",
   "temas": [
     {
       "id": "vivienda",
@@ -449,6 +449,192 @@
   ],
   "noticias": [
     {
+      "titulo": "El PSOE esgrime el secreto profesional para no entregar a Pedraz los contratos con abogados bajo sospecha en el 'caso Cloacas'",
+      "medio": "El Mundo",
+      "url": "https://www.elmundo.es/espana/2026/10/22/6ad9cf0bfdddff94708b4597.html",
+      "fecha": "2026-10-22T09:19+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "Chunta defiende su poder de decisión sobre Frente Amplio en Aragón y descarta que IU pueda presentarse por Teruel sin ellos",
+      "medio": "El Mundo",
+      "url": "https://www.elmundo.es/aragon/2026/10/22/6ad9c38ce9cf4af1548b45b0.html",
+      "fecha": "2026-10-22T09:09+00:00",
+      "partidos": [
+        "sumar"
+      ]
+    },
+    {
+      "titulo": "PP y Vox por encima de la mayoría absoluta en casi todos los sondeos: cuántos escaños suman según cada encuesta",
+      "medio": "El Confidencial",
+      "url": "https://www.elconfidencial.com/espana/2026-10-22/sondeos-elecciones-generales-pp-vox-mayoria-absoluta_4450531/",
+      "fecha": "2026-10-22T09:03+00:00",
+      "partidos": [
+        "pp",
+        "vox"
+      ]
+    },
+    {
+      "titulo": "Vox Canarias presenta sus listas al Congreso por primera vez en Santa Cruz de Tenerife y repitiendo con Rodríguez Almeida",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/canarias/vox-canarias-presenta-listas-congreso-primera-vez-20261022104302-nt.html",
+      "fecha": "2026-10-22T08:43+00:00",
+      "partidos": [
+        "vox"
+      ]
+    },
+    {
+      "titulo": "Feijóo apuesta por el 'efecto Cayetana' para ser su número dos por Madrid",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/feijoo-elige-alvarez-toledo-numero-dos-lista-20261022090434-nt.html",
+      "fecha": "2026-10-22T08:24+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "El PSOE justifica en la \"paridad\" los cambios en la lista de Palencia y en otras provincias",
+      "medio": "Europa Press",
+      "url": "https://www.europapress.es/nacional/noticia-psoe-justifica-paridad-cambios-lista-palencia-otras-provincias-20261022102446.html",
+      "fecha": "2026-10-22T08:24+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "El sindicato de guionistas ALMA carga contra el veto de Vox al cine español: \"No tiene otro nombre que censura\"",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/cultura/cine/sindicato-guionistas-alma-carga-veto-vox-cine-espanol-no-nombre-censura_1_13605324.html",
+      "fecha": "2026-10-22T08:01+00:00",
+      "partidos": [
+        "vox"
+      ]
+    },
+    {
+      "titulo": "Vox nombra candidato al Congreso por Tarragona a un neonazi acusado de un ataque racista a un centro de menores",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/catalunya/vox-elige-cabeza-lista-tarragona-neonazi-acusado-ataque-racista-centro-menores_1_13605312.html",
+      "fecha": "2026-10-22T07:52+00:00",
+      "partidos": [
+        "vox"
+      ]
+    },
+    {
+      "titulo": "PSOE alega ante Pedraz que ha consultado con el Colegio de Abogados si puede entregar los contratos por confidencialidad",
+      "medio": "Europa Press",
+      "url": "https://www.europapress.es/nacional/noticia-psoe-alega-pedraz-consultado-colegio-abogados-si-puede-entregar-contratos-confidencialidad-20261022094658.html",
+      "fecha": "2026-10-22T07:46+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "El PP usa con IA la imagen y la voz de socialistas o exsocialistas admitiendo delitos",
+      "medio": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/politica/20261022/11665207/pp-ia-imagen-voz-socialistas-contraatacar-campana-zurdos.html",
+      "fecha": "2026-10-22T07:37+00:00",
+      "partidos": [
+        "pp",
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "El PSOE reclama al PP que deje que sean los medios los organizadores de debate y acepta uno de vivienda en la SER",
+      "medio": "Europa Press",
+      "url": "https://www.europapress.es/nacional/noticia-psoe-reclama-pp-deje-sean-medios-organizadores-debate-acepta-vivienda-ser-20261022093537.html",
+      "fecha": "2026-10-22T07:35+00:00",
+      "partidos": [
+        "pp",
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "Feijóo elige a Cayetana Álvarez de Toledo y Borja Sémper como número dos y tres en su lista por Madrid",
+      "medio": "El Confidencial",
+      "url": "https://www.elconfidencial.com/espana/2026-10-22/feijoo-elige-a-cayetana-alvarez-de-toledo-y-borja-semper-como-numero-2-y-3-en-su-lista-por-madrid_4450415/",
+      "fecha": "2026-10-22T07:34+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "El PSOE afirma que si PP y Vox gobernaran en España 'La bola negra' \"estaría censurada\": \"Esto es así\"",
+      "medio": "El Mundo",
+      "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/10/22/6ad9b39cfc6c835e6f8b456f.html",
+      "fecha": "2026-10-22T07:21+00:00",
+      "partidos": [
+        "pp",
+        "psoe",
+        "vox"
+      ]
+    },
+    {
+      "titulo": "La nueva portavoz socialista, Rebeca Torró, sobre la dimisión de Mínguez: \"No sé por qué sólo se exige coherencia y ética al PSOE\"",
+      "medio": "20minutos",
+      "url": "https://www.20minutos.es/nacional/nueva-portavoz-socialista-rebeca-torro-sobre-dimision-minguez-no-se-por-que-solo-se-exige-coherencia-etica-psoe_7051855_0.html",
+      "fecha": "2026-10-22T07:06+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "Feijóo confirma que Cayetana Álvarez de Toledo será su número 2 por Madrid y Borja Sémper, el número 3",
+      "medio": "20minutos",
+      "url": "https://www.20minutos.es/nacional/feijoo-confirma-que-cayetana-alvarez-toledo-sera-su-numero-2-por-madrid-borja-semper-numero-3_7051877_0.html",
+      "fecha": "2026-10-22T07:01+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "Feijóo elige a Cayetana Álvarez de Toledo como 'número dos' por Madrid y a Borja Sémper como 'número tres'",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/politica/feijoo-elige-cayetana-alvarez-toledo-numero-madrid-borja-semper-numero-tres_1_13605274.html",
+      "fecha": "2026-10-22T06:58+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "Feijóo elige a Álvarez de Toledo como número dos en la lista de Madrid al Congreso y Sémper repite como tres",
+      "medio": "Europa Press",
+      "url": "https://www.europapress.es/nacional/noticia-29n-feijoo-elige-alvarez-toledo-numero-dos-lista-madrid-congreso-semper-tres-20261022085707.html",
+      "fecha": "2026-10-22T06:57+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "Álvarez de Toledo y Sémper acompañarán a Feijóo en la lista por Madrid para las elecciones del 29-N",
+      "medio": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/politica/20261022/11665185/alvarez-toledo-semper-acompanaran-feijoo-lista-madrid-elecciones-29-n.html",
+      "fecha": "2026-10-22T06:55+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "Feijóo muestra su apoyo a coruñeses y FCSE por la violencia contra el mitin de Abascal: \"Galicia no es así\"",
+      "medio": "Europa Press",
+      "url": "https://www.europapress.es/nacional/noticia-feijoo-muestra-apoyo-coruneses-fcse-violencia-contra-mitin-abascal-galicia-no-asi-20261022083847.html",
+      "fecha": "2026-10-22T06:38+00:00",
+      "partidos": [
+        "pp",
+        "vox"
+      ]
+    },
+    {
+      "titulo": "Tres detenidos por desórdenes públicos tras el mitin de Abascal en Avilés",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/asturias/tres-detenidos-desordenes-publicos-mitin-abascal-aviles_1_13605234.html",
+      "fecha": "2026-10-22T06:35+00:00",
+      "partidos": [
+        "vox"
+      ]
+    },
+    {
       "titulo": "El PP confía en que el impacto de la visita de Milei se diluya el 29-N: “Si llega a venir la última semana sería distinto”",
       "medio": "El País",
       "url": "https://elpais.com/espana/2026-10-22/el-pp-confia-en-que-el-impacto-de-la-visita-de-milei-se-diluya-el-29-n-si-llega-a-venir-la-ultima-semana-seria-distinto.html",
@@ -504,6 +690,24 @@
       "fecha": "2026-10-22T03:00+00:00",
       "partidos": [
         "pp"
+      ]
+    },
+    {
+      "titulo": "La falta de voluntarios entre la militancia del PSOE obliga a Ferraz a rellenar la lista electoral en Palencia",
+      "medio": "El Mundo",
+      "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/10/22/6ad90e82e85ece21158b45d2.html",
+      "fecha": "2026-10-21T23:43+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "Comín, tránsfuga y escudero de Puigdemont, regresa a España para asegurarse el acta de eurodiputado y seguir en política",
+      "medio": "El Mundo",
+      "url": "https://www.elmundo.es/cataluna/2026/10/22/6ad8ff74e9cf4a04478b4599.html",
+      "fecha": "2026-10-21T23:42+00:00",
+      "partidos": [
+        "junts"
       ]
     },
     {
@@ -3046,212 +3250,6 @@
       "fecha": "2026-10-18T22:05+00:00",
       "partidos": [
         "pp"
-      ]
-    },
-    {
-      "titulo": "Vox se encamina a empatar al PSOE en la mitad de la geografía: 'sorpasso' en Almería y Murcia y posible estreno en Galicia",
-      "medio": "El Mundo",
-      "url": "https://www.elmundo.es/espana/encuestas/2026/10/19/6ad4f320fc6c8374648b4583.html",
-      "fecha": "2026-10-18T22:03+00:00",
-      "partidos": [
-        "psoe",
-        "vox"
-      ]
-    },
-    {
-      "titulo": "Punto Ciego | Albert Rivera: \"La equidistancia entre Vox y Bildu no es posible, hay que concentrar el voto\"",
-      "medio": "El Confidencial",
-      "url": "https://www.elconfidencial.com/espana/2026-10-19/punto-ciego-rivera-bildu-vox-cbtr_4446847/",
-      "fecha": "2026-10-18T22:00+00:00",
-      "partidos": [
-        "vox",
-        "bildu"
-      ]
-    },
-    {
-      "titulo": "El PP recurre al tirón televisivo del veinteañero Jon Echeverría para el escaño por Gipuzkoa que no logra desde 2011",
-      "medio": "elDiario.es",
-      "url": "https://www.eldiario.es/euskadi/pp-recurre-tiron-televisivo-veinteanero-jon-echeverria-escano-gipuzkoa-no-logra-2011_1_13595760.html",
-      "fecha": "2026-10-18T20:43+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Delcy lamentó perder \"incidencia\" sobre \"PS\" tras la caída de Ábalos como ministro y secretario de Organización del PSOE",
-      "medio": "El Mundo",
-      "url": "https://www.elmundo.es/espana/2026/10/18/6ad4ea58e9cf4a28178b458f.html",
-      "fecha": "2026-10-18T20:42+00:00",
-      "partidos": [
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "La empresaria que dijo haber llevado 90.000 euros a Ferraz se libra de ser procesada por blanqueo en otra causa",
-      "medio": "elDiario.es",
-      "url": "https://www.eldiario.es/politica/empresaria-dijo-haber-llevado-90-000-euros-ferraz-libra-procesada-blanqueo-causa_1_13568204.html",
-      "fecha": "2026-10-18T19:47+00:00",
-      "partidos": [
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "El Gobierno de Moreno retira las primeras ayudas a ONG que atienden a inmigrantes sin hogar tras firmar la \"prioridad nacional\" con Vox",
-      "medio": "elDiario.es",
-      "url": "https://www.eldiario.es/andalucia/gobierno-moreno-retira-primeras-ayudas-ong-atienden-inmigrantes-hogar-firmar-prioridad-nacional-vox_1_13556930.html",
-      "fecha": "2026-10-18T19:47+00:00",
-      "partidos": [
-        "vox"
-      ]
-    },
-    {
-      "titulo": "Frente Amplio y Sumar, diferencias y similitudes a la hora de gestar una gran coalición de izquierdas",
-      "medio": "20minutos",
-      "url": "https://www.20minutos.es/nacional/frente-amplio-sumar-diferencias-similitudes-hora-gestar-una-gran-coalicion-izquierdas_7050216_0.html",
-      "fecha": "2026-10-18T16:55+00:00",
-      "partidos": [
-        "sumar"
-      ]
-    },
-    {
-      "titulo": "Vox también pide al TC que inadmita el recurso del Defensor del Pueblo contra la suspensión de votos CERA del Supremo",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/vox-pide-tc-inadmita-recurso-defensor-pueblo-20261018162344-nt.html",
-      "fecha": "2026-10-18T16:32+00:00",
-      "partidos": [
-        "vox"
-      ]
-    },
-    {
-      "titulo": "Los estatutos del PP impiden que Albiol sea diputado y alcalde de Badalona a la vez",
-      "medio": "elDiario.es",
-      "url": "https://www.eldiario.es/catalunya/estatutos-pp-impiden-albiol-sea-diputado-alcalde-badalona-vez_1_13594985.html",
-      "fecha": "2026-10-18T15:59+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "El número dos del PP andaluz tilda, en Córdoba, de «confluencia desesperada» la alianza de PSOE y Frente Amplio para el Senado",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/andalucia/cordoba/numero-dos-pp-andaluz-tilda-cordoba-confluencia-20261018171735-nts.html",
-      "fecha": "2026-10-18T15:25+00:00",
-      "partidos": [
-        "pp",
-        "psoe",
-        "sumar"
-      ]
-    },
-    {
-      "titulo": "Vox pide al Constitucional que inadmita el recurso del Defensor del Pueblo por la ley de nietos",
-      "medio": "20minutos",
-      "url": "https://www.20minutos.es/nacional/vox-pide-constitucional-que-inadmita-recurso-defensor-pueblo-por-ley-nietos_7050192_0.html",
-      "fecha": "2026-10-18T14:44+00:00",
-      "partidos": [
-        "vox"
-      ]
-    },
-    {
-      "titulo": "Cuerpo asegura que la subida de las pensiones está \"asegurada\" por una ley que el PP rechazó",
-      "medio": "20minutos",
-      "url": "https://www.20minutos.es/nacional/cuerpo-asegura-que-subida-las-pensiones-esta-asegurada-por-una-ley-que-pp-rechazo_7050174_0.html",
-      "fecha": "2026-10-18T13:44+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "El PP denuncia una \"maniobra deliberada\" de Exteriores para impedir \"por la vía de los hechos\" la suspensión de la 'ley de nietos'",
-      "medio": "El Mundo",
-      "url": "https://www.elmundo.es/espana/2026/10/18/6ad4c213fc6c83c1078b4575.html",
-      "fecha": "2026-10-18T12:57+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "El PSOE acusa a Feijóo de «traicionar» a Castilla-La Mancha con su Pacto Nacional del Agua",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/castilla-la-mancha/toledo/psoe-acusa-feijoo-traicionar-castillala-mancha-pacto-20261018133229-nt.html",
-      "fecha": "2026-10-18T12:18+00:00",
-      "partidos": [
-        "pp",
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "Feijóo pide \"impulsar\" el cambio desde Cataluña, feudo clave para el PP este 29N, y encarga a Albiol una ley antiokupación",
-      "medio": "20minutos",
-      "url": "https://www.20minutos.es/nacional/feijoo-pide-impulsar-cambio-desde-cataluna-feudo-clave-pp-29n-encarga-albiol-ley-antiokupacion_7050153_0.html",
-      "fecha": "2026-10-18T12:07+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "La exdiputada de Asturias Lucía Montejo abandona Podemos con críticas a la dirección: \"Calificarlo de circo es quedarse corto\"",
-      "medio": "elDiario.es",
-      "url": "https://www.eldiario.es/asturias/exdiputada-asturias-lucia-montejo-abandona-criticas-direccion-calificarlo-circo-quedarse-corto_1_13595275.html",
-      "fecha": "2026-10-18T12:03+00:00",
-      "partidos": [
-        "podemos"
-      ]
-    },
-    {
-      "titulo": "Feijóo lanza a Albiol a por el voto conservador catalán: \"Que tenga cuidado el clan de Sánchez, que viene el PP\"",
-      "medio": "elDiario.es",
-      "url": "https://www.eldiario.es/catalunya/feijoo-lanza-albiol-voto-conservador-catalan-tenga-cuidado-clan-sanchez-viene-pp_1_13595066.html",
-      "fecha": "2026-10-18T11:35+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "El PP acusa a Bellido de respaldar las listas del PSOE para mantener a Sánchez en el poder",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/castilla-la-mancha/pp-acusa-bellido-respaldar-listas-psoe-mantener-20261018121307-nt.html",
-      "fecha": "2026-10-18T11:31+00:00",
-      "partidos": [
-        "pp",
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "Feijóo encarga a Albiol una ley antiokupación y pone el foco en Cataluña para «impulsar» el cambio de Gobierno",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/cataluna/feijoo-encarga-albiol-ley-antiokupacion-pone-foco-20261018125206-nt.html",
-      "fecha": "2026-10-18T11:28+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Trias receta a Junts ser “hábil” y hablar con PSOE y PP si beneficia a Catalunya",
-      "medio": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/politica/20261018/11661987/trias-receta-junts-habil-hablar-psoe-pp-beneficia-catalunya.html",
-      "fecha": "2026-10-18T10:56+00:00",
-      "partidos": [
-        "pp",
-        "psoe",
-        "junts"
-      ]
-    },
-    {
-      "titulo": "Feijóo promete una nueva ley antiocupaciones de la mano de Albiol tras las elecciones del 29-N",
-      "medio": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/politica/20261018/11661983/feijoo-promete-nueva-ley-antiocupaciones-mano-albiol-elecciones-29-n.html",
-      "fecha": "2026-10-18T10:55+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Albert Rivera, sobre las elecciones del 29-N: \"No creo que sorprenda a nadie si digo que no voy a votar a Pedro Sánchez\"",
-      "medio": "El Confidencial",
-      "url": "https://www.elconfidencial.com/espana/2026-10-18/albert-rivera-elecciones-sorprenda-nadie-votar-pedro-sanchez_4447426/",
-      "fecha": "2026-10-18T10:39+00:00",
-      "partidos": [
-        "psoe"
       ]
     }
   ],
