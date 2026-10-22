@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-22T13:42+00:00",
+  "actualizado": "2026-10-22T17:29+00:00",
   "temas": [
     {
       "id": "vivienda",
@@ -449,6 +449,201 @@
   ],
   "noticias": [
     {
+      "titulo": "Abascal ordena vetar la investigación por la crisis de los cribados en Andalucía un año después de pedir la dimisión de Moreno",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/andalucia/abascal-ordena-vetar-investigacion-crisis-cribados-andalucia-ano-despues-pedir-dimision-moreno_1_13605622.html",
+      "fecha": "2026-10-22T17:05+00:00",
+      "partidos": [
+        "vox"
+      ]
+    },
+    {
+      "titulo": "Sigue en directo la intervención de Abascal en el acto de Vox en Segovia",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/sigue-directo-intervencion-abascal-acto-vox-segovia-20261022185931-nt.html",
+      "fecha": "2026-10-22T16:59+00:00",
+      "partidos": [
+        "vox"
+      ]
+    },
+    {
+      "titulo": "Choque entre PSOE y PP por un vídeo generado con IA en el que dirigentes socialistas admiten delitos de corrupción",
+      "medio": "20minutos",
+      "url": "https://www.20minutos.es/nacional/choque-entre-psoe-pp-por-un-video-generado-con-ia-que-dirigentes-socialistas-admiten-delitos-corrupcion_7052277_0.html",
+      "fecha": "2026-10-22T16:54+00:00",
+      "partidos": [
+        "pp",
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "Sánchez y Feijóo tendrán un 'cara a cara' el 16 de noviembre y se enzarzan por el debate a cuatro",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/debate-cara-cara-sanchez-feijoo-noviembre-20261022172329-nt.html",
+      "fecha": "2026-10-22T16:53+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "Sánchez acepta un \"cara a cara\" con Feijóo y el PP rechaza que el debate a cuatro sea en RTVE",
+      "medio": "El Confidencial",
+      "url": "https://www.elconfidencial.com/espana/2026-10-22/psoe-acepta-debates-electorales-en-tve-1tps_4450985/",
+      "fecha": "2026-10-22T16:40+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "Vox renueva más del 50% de sus cabezas de lista al Congreso",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/vox-renueva-cabezas-lista-congreso-desecha-criticos-20261022135541-nt.html",
+      "fecha": "2026-10-22T16:38+00:00",
+      "partidos": [
+        "vox"
+      ]
+    },
+    {
+      "titulo": "El PSOE se escuda en las elecciones y el secreto profesional para pedir más plazo para entregar al juez los datos sobre sus abogados",
+      "medio": "20minutos",
+      "url": "https://www.20minutos.es/nacional/psoe-espera-que-se-pronuncie-consejo-abogacia-antes-aportar-sus-contratos-con-letrados-juez-caso-las-cloacas_7052262_0.html",
+      "fecha": "2026-10-22T16:35+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "PSOE, PP y Vox coinciden en incorporar la bandera de España a la Policía Local pero discrepan en el cómo",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/castilla-la-mancha/psoe-pp-vox-coinciden-incorporar-bandera-espana-20261022183220-nt.html",
+      "fecha": "2026-10-22T16:34+00:00",
+      "partidos": [
+        "pp",
+        "psoe",
+        "vox"
+      ]
+    },
+    {
+      "titulo": "El Parlamento denuncia el «ninguneo» y los incumplimientos de Pedro Sánchez con Andalucía",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/andalucia/xxbb-20261022172227-nts.html",
+      "fecha": "2026-10-22T16:34+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "El PP denuncia que Page deja «desatendidos» a los alumnos con necesidades especiales",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/castilla-la-mancha/pp-denuncia-page-deja-desatendidos-alumnos-necesidades-20261022175915-nt.html",
+      "fecha": "2026-10-22T15:59+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "Montesinos en Alicante y Albalat, en Castellón: las listas del PP obligan a cambiar el Consell",
+      "medio": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/local/valencia/20261022/11665718/montesinos-alicante-albalat-castellon-listas-pp-obligan-cambiar-consell.html",
+      "fecha": "2026-10-22T15:58+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "El PP reclama ayudas por los daños agrícolas en Casas de Haro (Cuenca) y la Junta los da por indemnizados",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/castilla-la-mancha/pp-reclama-ayudas-danos-agricolas-casas-haro-20261022175704-nt.html",
+      "fecha": "2026-10-22T15:57+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "Sánchez acepta el cara a cara con Feijóo y pide que el debate a cuatro sea en TVE pero el PP rechaza el ente público",
+      "medio": "Europa Press",
+      "url": "https://www.europapress.es/nacional/noticia-sanchez-acepta-cara-cara-feijoo-quiere-debate-cuatro-26-noviembre-sea-tve-20261022175207.html",
+      "fecha": "2026-10-22T15:52+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "El PP rechaza un debate a cuatro en RTVE que el PSOE pone como condición para un cara a cara en Mediaset",
+      "medio": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/politica/20261022/11665724/psoe-acepta-cara-cara-sanchez-feijoo-16-noviembre-medios-privados.html",
+      "fecha": "2026-10-22T15:47+00:00",
+      "partidos": [
+        "pp",
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "PSOE y PP chocan por el 'debate a cuatro': Sánchez quiere RTVE y Feijóo, Atresmedia",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/politica/sanchez-acepta-cara-cara-electoral-feijoo-16-noviembre_1_13607508.html",
+      "fecha": "2026-10-22T15:46+00:00",
+      "partidos": [
+        "pp",
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "El PP rechaza que el debate a cuatro sea en RTVE como pide el PSOE, pero habrá 'cara a cara' en una privada el 16 de noviembre",
+      "medio": "20minutos",
+      "url": "https://www.20minutos.es/nacional/sanchez-acepta-un-cara-cara-con-feijoo-16-noviembre-mientras-que-debate-cuatro-sera-diez-dias-despues-rtve_7052236_0.html",
+      "fecha": "2026-10-22T15:41+00:00",
+      "partidos": [
+        "pp",
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "Anticorrupción se opone a devolver el móvil al exjefe de gabinete de Sánchez en el PSOE",
+      "medio": "20minutos",
+      "url": "https://www.20minutos.es/nacional/anticorrupcion-se-opone-devolver-movil-exjefe-gabinete-sanchez-psoe_7052197_0.html",
+      "fecha": "2026-10-22T15:00+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "El micrófono abierto de Moreno pilla al vicepresidente andaluz de Vox insultando a Montero: \"Sinvergüenza\"",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/andalucia/microfono-abierto-moreno-pilla-vicepresidente-andaluz-vox-insultando-montero-sinverguenza_1_13607183.html",
+      "fecha": "2026-10-22T14:42+00:00",
+      "partidos": [
+        "vox"
+      ]
+    },
+    {
+      "titulo": "La JEC rechaza abrir otro expediente a Pedro Sánchez, pero le recuerda su deber de neutralidad",
+      "medio": "Europa Press",
+      "url": "https://www.europapress.es/nacional/noticia-jec-descarta-expedientar-nuevo-sanchez-declaraciones-bruselas-le-ruega-neutralidad-20261022164035.html",
+      "fecha": "2026-10-22T14:40+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "El PSOE pide tiempo a Pedraz para entregarle los contratos con sus abogados porque puede afectar al secreto profesional",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/politica/psoe-pide-tiempo-pedraz-entregarle-contratos-abogados-afectar-secreto-profesional_1_13607095.html",
+      "fecha": "2026-10-22T14:25+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "Tres detenidos por desórdenes públicos tras el mitin de Abascal en Avilés (Asturias)",
+      "medio": "El Confidencial",
+      "url": "https://www.elconfidencial.com/espana/2026-10-22/tres-detenidos-desordenes-publicos-mitin-abascal-aviles_4450848/",
+      "fecha": "2026-10-22T13:54+00:00",
+      "partidos": [
+        "vox"
+      ]
+    },
+    {
       "titulo": "Un diputado del PP acusa a las “feministas de izquierda” de estar “calladas como puertas” por Ceuta y el “catálogo de prostitutas de Ábalos”",
       "medio": "elDiario.es",
       "url": "https://www.eldiario.es/extremadura/politica/diputado-pp-acusa-feministas-izquierda-calladas-puertas-compara-catalogo-prostitutas-abalos_1_13606931.html",
@@ -464,6 +659,15 @@
       "fecha": "2026-10-22T13:23+00:00",
       "partidos": [
         "pp"
+      ]
+    },
+    {
+      "titulo": "Quién es Tesh Sidi, la número dos de Frente Amplio: de un campo de refugiados al Congreso de los Diputados",
+      "medio": "20minutos",
+      "url": "https://www.20minutos.es/nacional/tesh-sidi-numero-dos-frente-amplio-nacio-campo-refugiados-gana-euros-mes-comparte-piso_7052157_0.html",
+      "fecha": "2026-10-22T13:20+00:00",
+      "partidos": [
+        "sumar"
       ]
     },
     {
@@ -492,6 +696,17 @@
       "fecha": "2026-10-22T12:40+00:00",
       "partidos": [
         "psoe"
+      ]
+    },
+    {
+      "titulo": "Coalición Canaria, que respaldó la investidura fallida de Feijóo, anuncia que no apoyará un gobierno del PP con Vox",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/canariasahora/politica/valido-respaldo-investidura-feijoo-dice-ahora-cc-no-apoyara-gobierno-pp-si-vox_1_13606731.html",
+      "fecha": "2026-10-22T12:33+00:00",
+      "partidos": [
+        "pp",
+        "vox",
+        "cc"
       ]
     },
     {
@@ -537,6 +752,15 @@
       "fecha": "2026-10-22T12:11+00:00",
       "partidos": [
         "pp",
+        "vox"
+      ]
+    },
+    {
+      "titulo": "El delegado del Gobierno en Galicia atribuye los disturbios contra Vox a un grupo \"mínimo\" de violentos y confirma tres detenidos y 13 policías heridos",
+      "medio": "El Mundo",
+      "url": "https://www.elmundo.es/galicia/2026/10/22/6ad9e6f9fc6c839c748b45b0.html",
+      "fecha": "2026-10-22T12:11+00:00",
+      "partidos": [
         "vox"
       ]
     },
@@ -3018,232 +3242,6 @@
       "partidos": [
         "pp",
         "vox"
-      ]
-    },
-    {
-      "titulo": "Feijóo empeña su \"palabra\" en la reconstrucción nacional: \"Vamos a recuperar el orgullo de lo que somos\"",
-      "medio": "El Mundo",
-      "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/10/19/6ad5fee2fc6c83b5598b45c1.html",
-      "fecha": "2026-10-19T11:50+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Abascal tiende la mano a un \"entendimiento que proteja el Senado\" del acuerdo sellado por la izquierda: \"Exige sacrificios a los partidos de la oposición\"",
-      "medio": "El Mundo",
-      "url": "https://www.elmundo.es/elecciones/2026/10/19/6ad5e9bffc6c838f678b4570.html",
-      "fecha": "2026-10-19T11:41+00:00",
-      "partidos": [
-        "vox"
-      ]
-    },
-    {
-      "titulo": "Abascal tiende la mano al PP para negociar \"algún entendimiento\" para el Senado",
-      "medio": "Europa Press",
-      "url": "https://www.europapress.es/nacional/noticia-abascal-tiende-mano-pp-negociar-algun-entendimiento-senado-20261019133611.html",
-      "fecha": "2026-10-19T11:36+00:00",
-      "partidos": [
-        "pp",
-        "vox"
-      ]
-    },
-    {
-      "titulo": "El catalanismo político carga contra la receta de Feijóo sobre la lengua catalana en las aulas",
-      "medio": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/politica/20261019/11662650/erc-reprocha-junts-equidistancia-medio-pp-ataca-lengua-catalana.html",
-      "fecha": "2026-10-19T11:29+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Feijóo firma su \"contrato con España\" con 12 compromisos para que el país \"vuelva a funcionar\" con la clase media como \"motor\"",
-      "medio": "20minutos",
-      "url": "https://www.20minutos.es/nacional/feijoo-firma-su-contrato-con-espana-con-12-compromisos-para-que-pais-vuelva-funcionar-con-clase-media-como-motor_7050461_0.html",
-      "fecha": "2026-10-19T11:15+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Feijóo firma su \"contrato con España\" si gobierna tras las elecciones sin revelar una sola medida nueva",
-      "medio": "elDiario.es",
-      "url": "https://www.eldiario.es/politica/feijoo-firma-contrato-espana-si-gobierna-elecciones-29-noviembre-revelar-sola-medida-nueva_1_13596902.html",
-      "fecha": "2026-10-19T11:12+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Feijóo sella once compromisos en su “Contrato con España” para la “reconstrucción”",
-      "medio": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/politica/20261019/11662613/feijoo-sella-once-compromisos-contrato-espana-reconstruccion.html",
-      "fecha": "2026-10-19T11:03+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Feijóo firma su 'Contrato con España' y da su palabra de que cumplirá las 12 promesas que recoge: \"No voy a fallar\"",
-      "medio": "Europa Press",
-      "url": "https://www.europapress.es/nacional/noticia-feijoo-da-palabra-cumplir-docena-promesas-vivienda-pensiones-inmigracion-no-voy-fallar-20261019125258.html",
-      "fecha": "2026-10-19T10:52+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "La izquierda irá rota a las urnas en 47 circunscripciones: Podemos desafía al Frente Amplio y presentará candidaturas",
-      "medio": "El Mundo",
-      "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/10/19/6ad5f3e1fdddff9f5d8b45aa.html",
-      "fecha": "2026-10-19T10:44+00:00",
-      "partidos": [
-        "sumar",
-        "podemos"
-      ]
-    },
-    {
-      "titulo": "Vox difunde una imagen falsa de dos ancianos semidesnudos en las protestas de Francia que partió de una cuenta en Israel",
-      "medio": "elDiario.es",
-      "url": "https://www.eldiario.es/rastreador/vox-difunde-imagen-falsa-ancianos-semidesnudos-protestas-francia-partio-cuenta-israel_132_13596760.html",
-      "fecha": "2026-10-19T10:40+00:00",
-      "partidos": [
-        "vox"
-      ]
-    },
-    {
-      "titulo": "Podemos insiste en culpar a Frente Amplio de la división y le afea pactar con el PSOE en el Senado: \"Hace falta una izquierda autónoma\"",
-      "medio": "20minutos",
-      "url": "https://www.20minutos.es/nacional/podemos-insiste-culpar-frente-amplio-division-le-afea-pactar-con-psoe-senado-hace-falta-una-izquierda-autonoma_7050424_0.html",
-      "fecha": "2026-10-19T10:40+00:00",
-      "partidos": [
-        "psoe",
-        "sumar",
-        "podemos"
-      ]
-    },
-    {
-      "titulo": "La provincia 'fiel' al socialismo: el PSOE ha sido el partido más votado en todas las elecciones generales desde 1977",
-      "medio": "20minutos",
-      "url": "https://www.20minutos.es/nacional/provincia-fiel-socialismo-psoe-partido-mas-votado-todas-elecciones-generales-1977_7050341_0.html",
-      "fecha": "2026-10-19T10:38+00:00",
-      "partidos": [
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "Qué es el \"Contrato con España\" de Feijóo: las medidas que propone el PP para el 29-N",
-      "medio": "El Confidencial",
-      "url": "https://www.elconfidencial.com/espana/2026-10-19/que-es-contrato-con-espana-feijoo-medidas-propone-pp-29-n_4447854/",
-      "fecha": "2026-10-19T10:37+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Podemos se enreda en sus contradicciones tras dar el portazo definitivo al Frente Amplio",
-      "medio": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/politica/20261019/11662585/enreda-contradicciones-dar-portazo-definitivo-frente-amplio.html",
-      "fecha": "2026-10-19T10:33+00:00",
-      "partidos": [
-        "sumar"
-      ]
-    },
-    {
-      "titulo": "El PP andaluz volvería a depender de un Vox al alza para gobernar y el PSOE se hunde por debajo de su suelo electoral, según el CIS andaluz",
-      "medio": "El Mundo",
-      "url": "https://www.elmundo.es/andalucia/2026/10/19/6ad5e519e4d4d8451b8b4583.html",
-      "fecha": "2026-10-19T10:16+00:00",
-      "partidos": [
-        "pp",
-        "psoe",
-        "vox"
-      ]
-    },
-    {
-      "titulo": "Podemos se presentará en todo el país tras el choque con Frente Amplio y no irá de independientes en Aragón y Baleares",
-      "medio": "Europa Press",
-      "url": "https://www.europapress.es/nacional/noticia-podemos-presentara-todo-pais-chocar-frente-amplio-rechaza-ir-independientes-aragon-baleares-20261019120912.html",
-      "fecha": "2026-10-19T10:09+00:00",
-      "partidos": [
-        "sumar"
-      ]
-    },
-    {
-      "titulo": "Abascal asciende a la negociadora de los pactos con el PP y al portavoz en Ceuta como 2 y 3 por Madrid",
-      "medio": "El Confidencial",
-      "url": "https://www.elconfidencial.com/espana/2026-10-19/abascal-asciende-a-la-negociadora-de-los-pactos-con-el-pp-y-al-portavoz-en-ceuta-como-2-y-3-por-madrid-para-el-29n_4447946/",
-      "fecha": "2026-10-19T10:05+00:00",
-      "partidos": [
-        "pp",
-        "vox"
-      ]
-    },
-    {
-      "titulo": "La número dos de Abascal en la lista de Vox al Congreso será Montse Lluis, la negociadora de los pactos con el PP",
-      "medio": "20minutos",
-      "url": "https://www.20minutos.es/nacional/numero-dos-abascal-lista-vox-congreso-sera-montse-lluis-negociadora-los-pactos-con-pp_7050425_0.html",
-      "fecha": "2026-10-19T10:02+00:00",
-      "partidos": [
-        "pp",
-        "vox"
-      ]
-    },
-    {
-      "titulo": "Concejalas del PSOE afirman que Andrea Levy ha llamado \"loca\" a una de ellas en una comisión municipal y la abandonan",
-      "medio": "elDiario.es",
-      "url": "https://www.eldiario.es/madrid/somos/concejalas-psoe-afirman-andrea-levy-llamado-loca-comision-municipal-abandonan_1_13596321.html",
-      "fecha": "2026-10-19T09:50+00:00",
-      "partidos": [
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "La número dos de Abascal por Madrid será Montserrat Lluis, negociadora de los pactos autonómicos con el PP",
-      "medio": "elDiario.es",
-      "url": "https://www.eldiario.es/politica/numero-vox-madrid-sera-montserrat-lluis-negociadora-pactos-autonomicos-pp_1_13596475.html",
-      "fecha": "2026-10-19T09:38+00:00",
-      "partidos": [
-        "pp",
-        "vox"
-      ]
-    },
-    {
-      "titulo": "Abascal aúpa al número dos por Madrid a Montse Lluis, negociadora de los pactos con el PP en las comunidades, y lleva a su portavoz en Ceuta como tres",
-      "medio": "El Mundo",
-      "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/10/19/6ad5d572e85ecee8408b458b.html",
-      "fecha": "2026-10-19T09:29+00:00",
-      "partidos": [
-        "pp",
-        "vox"
-      ]
-    },
-    {
-      "titulo": "Llarena aplica la amnistía a Puigdemont sin necesidad de que el TC vea su amparo: ya puede volver a España",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/llarena-aplica-amnistia-puigdemont-necesidad-tc-vea-20261019102132-nt.html",
-      "fecha": "2026-10-19T09:21+00:00",
-      "partidos": [
-        "junts"
-      ]
-    },
-    {
-      "titulo": "El juez acerca la amnistía para Puigdemont entre críticas al Constitucional por falta de \"mesura\" en su sentencia",
-      "medio": "Europa Press",
-      "url": "https://www.europapress.es/nacional/noticia-juez-acerca-amnistia-puigdemont-criticas-constitucional-falta-mesura-sentencia-20261019111922.html",
-      "fecha": "2026-10-19T09:19+00:00",
-      "partidos": [
-        "junts"
-      ]
-    },
-    {
-      "titulo": "El PP acusa a Sánchez de \"pagar\" a Otegi con la liberación de presos de ETA a cambio de su investidura",
-      "medio": "El Confidencial",
-      "url": "https://www.elconfidencial.com/espana/2026-10-19/el-pp-acusa-a-sanchez-de_4447839/",
-      "fecha": "2026-10-19T09:18+00:00",
-      "partidos": [
-        "pp"
       ]
     }
   ],
