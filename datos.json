@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-23T17:29+00:00",
+  "actualizado": "2026-10-23T21:28+00:00",
   "temas": [
     {
       "id": "vivienda",
@@ -448,6 +448,111 @@
     }
   ],
   "noticias": [
+    {
+      "titulo": "La Policía carga contra manifestantes radicales tras el mitin de Abascal en Mahón",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/baleares/policia-carga-manifestantes-antifascistas-tras-mitin-abascal-20261023211951-nt.html",
+      "fecha": "2026-10-23T20:19+00:00",
+      "partidos": [
+        "vox"
+      ]
+    },
+    {
+      "titulo": "Juanma Moreno: «El PP debe aspirar a gobernar España en solitario»",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/andalucia/juanma-moreno-pp-debe-aspirar-gobernar-espana-20261023204314-nts.html",
+      "fecha": "2026-10-23T19:45+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "Una concentración antifascista en Maó impide la salida de los asistentes al mitin de Abascal",
+      "medio": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/politica/20261023/11666777/concentracion-antifascista-mao-impide-salida-asistentes-mitin-abascal.html",
+      "fecha": "2026-10-23T19:10+00:00",
+      "partidos": [
+        "vox"
+      ]
+    },
+    {
+      "titulo": "Pedro Sánchez acepta la entrevista del 'youtuber' Jordi Wild tras el 'sí' de Núñez Feijóo, Santiago Abascal y Ada Colau",
+      "medio": "20minutos",
+      "url": "https://www.20minutos.es/nacional/pedro-sanchez-acepta-entrevista-youtuber-jordi-wild-tras-si-nunez-feijoo-santiago-abascal-ada-colau_7052857_0.html",
+      "fecha": "2026-10-23T18:58+00:00",
+      "partidos": [
+        "pp",
+        "psoe",
+        "vox"
+      ]
+    },
+    {
+      "titulo": "Pedro Sánchez acepta la entrevista del 'youtuber' Jordi Wild tras el sí de Feijóo, Abascal y Colau",
+      "medio": "Europa Press",
+      "url": "https://www.europapress.es/nacional/noticia-pedro-sanchez-acepta-entrevista-youtuber-jordi-wild-si-feijoo-abascal-colau-20261023205019.html",
+      "fecha": "2026-10-23T18:50+00:00",
+      "partidos": [
+        "pp",
+        "psoe",
+        "vox"
+      ]
+    },
+    {
+      "titulo": "Sánchez acepta la propuesta del youtuber Jordi Wild para acudir a su programa tras el sí de Feijóo, Abascal y Colau",
+      "medio": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/politica/20261023/11666759/sanchez-acepta-propuesta-youtuber-jordi-wild-acudir-programa-entrevistas.html",
+      "fecha": "2026-10-23T18:44+00:00",
+      "partidos": [
+        "pp",
+        "vox"
+      ]
+    },
+    {
+      "titulo": "Pedro Sánchez acepta la entrevista con Jordi Wild",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/politica/pedro-sanchez-acepta-entrevista-jordi-wild_1_13611264.html",
+      "fecha": "2026-10-23T18:34+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "Abascal censura el \"papel lamentable\" de Sánchez en 'La Revuelta\": \"Chistecitos como si no hubiera mentido\"",
+      "medio": "20minutos",
+      "url": "https://www.20minutos.es/nacional/abascal-censura-papel-lamentable-sanchez-revuelta-chistecitos-como-si-no-hubiera-mentido_7052850_0.html",
+      "fecha": "2026-10-23T18:31+00:00",
+      "partidos": [
+        "vox"
+      ]
+    },
+    {
+      "titulo": "Feijóo convierte la reconstrucción de Valencia en bandera para dejar atrás a Sánchez",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/comunidad-valenciana/feijoo-convierte-reconstruccion-valencia-bandera-dejar-atras-20261023195331-nt.html",
+      "fecha": "2026-10-23T18:13+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "El Frente Amplio tendrá el 30% de los puestos en las listas conjuntas con el PSOE para el Senado",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/politica/frente-amplio-tendra-30-puestos-listas-conjuntas-psoe-senado_1_13611215.html",
+      "fecha": "2026-10-23T18:12+00:00",
+      "partidos": [
+        "psoe",
+        "sumar"
+      ]
+    },
+    {
+      "titulo": "Feijóo pide \"estar a la altura\" para \"pasar página\" de Sánchez el 29N: \"España necesita un servidor y no un impostor\"",
+      "medio": "Europa Press",
+      "url": "https://www.europapress.es/comunitat-valenciana/noticia-feijoo-pide-estar-altura-pasar-pagina-sanchez-29n-espana-necesita-servidor-no-impostor-20261023195713.html",
+      "fecha": "2026-10-23T17:57+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
     {
       "titulo": "Renovación parcial y dimisiones obligadas en las listas del PP de Castilla y León para el 29N",
       "medio": "ABC",
@@ -3130,110 +3235,6 @@
       "fecha": "2026-10-20T12:26+00:00",
       "partidos": [
         "psoe"
-      ]
-    },
-    {
-      "titulo": "El juez del 'caso Leire' da 48 horas al PSOE para que aporte documentación sobre abogados tras no recibir contestación",
-      "medio": "Europa Press",
-      "url": "https://www.europapress.es/nacional/noticia-juez-caso-leire-da-48-horas-psoe-aporte-documentacion-abogados-no-recibir-contestacion-20261020142632.html",
-      "fecha": "2026-10-20T12:26+00:00",
-      "partidos": [
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "El Gobierno considera que el posible acuerdo con Vox en el Senado constata que \"el PP ya es ultraderecha\"",
-      "medio": "Europa Press",
-      "url": "https://www.europapress.es/nacional/noticia-gobierno-considera-posible-acuerdo-vox-senado-constata-pp-ya-ultraderecha-20261020142519.html",
-      "fecha": "2026-10-20T12:25+00:00",
-      "partidos": [
-        "pp",
-        "vox"
-      ]
-    },
-    {
-      "titulo": "Quién es María Luz Martínez Seijo, la candidata de Ferraz que ha provocado la dimisión en bloque en el PSOE de Palencia",
-      "medio": "20minutos",
-      "url": "https://www.20minutos.es/nacional/quien-maria-luz-martinez-seijo-candidata-ferraz-provocado-dimision-bloque-psoe-palencia_7051031_0.html",
-      "fecha": "2026-10-20T12:24+00:00",
-      "partidos": [
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "Sémper justifica la negociación entre PP y Vox para el Senado: \"Hay que hacer cosas para garantizar el cambio en España\"",
-      "medio": "elDiario.es",
-      "url": "https://www.eldiario.es/galicia/semper-justifica-negociacion-pp-vox-senado-hay-cosas-garantizar-cambio-espana_1_13600370.html",
-      "fecha": "2026-10-20T12:21+00:00",
-      "partidos": [
-        "pp",
-        "vox"
-      ]
-    },
-    {
-      "titulo": "'Caso Cloacas': Pedraz reclama al PSOE datos de todos los abogados que ha contratado e imputa a Nervis Villalobos por lograr la nacionalidad con documentos falsos",
-      "medio": "El Mundo",
-      "url": "https://www.elmundo.es/espana/2026/10/06/6ac4f2a9fc6c8325798b457c.html",
-      "fecha": "2026-10-20T12:14+00:00",
-      "partidos": [
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "Martínez comprende el cabreo del PSOE de Palencia con Ferraz, pero recuerda que las listas no se eligen en primarias",
-      "medio": "elDiario.es",
-      "url": "https://www.eldiario.es/castilla-y-leon/politica/carlos-martinez-comprende-cabreo-psoe-palencia-ferraz-recuerda-listas-no-eligen-primarias_1_13600149.html",
-      "fecha": "2026-10-20T12:08+00:00",
-      "partidos": [
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "El PSOE presenta mociones en ayuntamientos para respaldar medidas del Gobierno en vivienda y denunciar \"bloqueo\" del PP",
-      "medio": "Europa Press",
-      "url": "https://www.europapress.es/nacional/noticia-psoe-presenta-mociones-ayuntamientos-respaldar-medidas-gobierno-vivienda-denunciar-bloqueo-pp-20261020140540.html",
-      "fecha": "2026-10-20T12:05+00:00",
-      "partidos": [
-        "pp",
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "Podemos esconde su marca para no pinchar la idea de candidatura conjunta Irene Montero-Rufián: \"Llegan más lejos que las siglas\"",
-      "medio": "El Mundo",
-      "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/10/20/6ad75555fc6c83f6628b45a6.html",
-      "fecha": "2026-10-20T11:53+00:00",
-      "partidos": [
-        "podemos"
-      ]
-    },
-    {
-      "titulo": "PP y Vox crean en Extremadura el Instituto Nacional del Mestizaje",
-      "medio": "elDiario.es",
-      "url": "https://www.eldiario.es/extremadura/cultura/pp-vox-crean-extremadura-instituto-nacional-mestizaje_1_13600026.html",
-      "fecha": "2026-10-20T11:38+00:00",
-      "partidos": [
-        "pp",
-        "vox"
-      ]
-    },
-    {
-      "titulo": "Las dos fórmulas que baraja el PP para frustrar el pacto del PSOE y sus socios para hacerse con el control del Senado",
-      "medio": "20minutos",
-      "url": "https://www.20minutos.es/nacional/las-dos-formulas-que-baraja-pp-para-frustrar-pacto-psoe-sus-socios-para-hacerse-con-control-senado_7050949_0.html",
-      "fecha": "2026-10-20T11:23+00:00",
-      "partidos": [
-        "pp",
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "La presidenta balear del PP blinda su ofensiva fiscal y endurece su discurso migratorio: \"Aquí no cabe todo el mundo\"",
-      "medio": "elDiario.es",
-      "url": "https://www.eldiario.es/illes-balears/politica/presidenta-balear-pp-blinda-ofensiva-fiscal-endurece-discurso-migratorio-no-mundo_1_13599400.html",
-      "fecha": "2026-10-20T11:05+00:00",
-      "partidos": [
-        "pp"
       ]
     }
   ],
