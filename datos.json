@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-23T05:18+00:00",
+  "actualizado": "2026-10-23T09:31+00:00",
   "temas": [
     {
       "id": "vivienda",
@@ -448,6 +448,136 @@
     }
   ],
   "noticias": [
+    {
+      "titulo": "Leire se querella contra el PP por el vídeo con IA que le atribuye «haber contratado a matones» para «quitar» a una juez",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/leire-querella-pp-video-ia-atribuye-haber-20261023111638-nt.html",
+      "fecha": "2026-10-23T09:16+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "Feijóo meterá Igualdad “dentro de otros ministerios” y abrirá el debate del aborto en menores",
+      "medio": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/politica/20261023/11666277/feijoo-metera-igualdad-otros-ministerios-abrira-debate-aborto-menores.html",
+      "fecha": "2026-10-23T09:05+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "Feijóo mantiene viva la posibilidad de pactos con Vox en el Senado y anuncia que no mantendrá un ministerio solo para Igualdad",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/feijoo-mantiene-viva-posibilidad-pactos-vox-senado-20261023092445-nt.html",
+      "fecha": "2026-10-23T08:55+00:00",
+      "partidos": [
+        "pp",
+        "vox"
+      ]
+    },
+    {
+      "titulo": "Urtasun respalda la postura de IU y defiende que Frente Amplio tenga listas en todas las provincias",
+      "medio": "Europa Press",
+      "url": "https://www.europapress.es/catalunya/noticia-urtasun-defiende-pacto-frente-amplio-psoe-senado-evitar-mayoria-pp-vox-20261023105010.html",
+      "fecha": "2026-10-23T08:50+00:00",
+      "partidos": [
+        "sumar"
+      ]
+    },
+    {
+      "titulo": "Feijóo, sobre si se compromete a que gobierne la lista más votada: \"Mi primer objetivo es que se vaya Sánchez\"",
+      "medio": "Europa Press",
+      "url": "https://www.europapress.es/nacional/noticia-feijoo-si-compromete-gobierne-lista-mas-votada-primer-objetivo-vaya-sanchez-20261023104948.html",
+      "fecha": "2026-10-23T08:49+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "Urtasun llevará a los tribunales el veto de ayudas al cine que promueve Vox en Castilla y León: \"No voy a tolerar casos de censura\"",
+      "medio": "20minutos",
+      "url": "https://www.20minutos.es/nacional/urtasun-llevara-los-tribunales-veto-ayudas-cine-que-promueve-vox-castilla-leon-no-voy-tolerar-casos-censura_7052465_0.html",
+      "fecha": "2026-10-23T08:45+00:00",
+      "partidos": [
+        "vox"
+      ]
+    },
+    {
+      "titulo": "Pensiones, aborto y los pactos con Vox, los 10 titulares de la entrevista a Feijóo en la SER",
+      "medio": "El País",
+      "url": "https://elpais.com/espana/elecciones-generales/2026-10-23/pensiones-aborto-y-los-pactos-con-vox-los-10-titulares-de-la-entrevista-a-feijoo-en-la-ser.html",
+      "fecha": "2026-10-23T08:36+00:00",
+      "partidos": [
+        "pp",
+        "vox"
+      ]
+    },
+    {
+      "titulo": "Óscar López lamenta que Felipe González no dé su voto al PSOE pero no cree que les afecte electoralmente",
+      "medio": "Europa Press",
+      "url": "https://www.europapress.es/nacional/noticia-oscar-lopez-lamenta-felipe-gonzalez-no-voto-psoe-no-cree-les-afecte-electoralmente-20261023102934.html",
+      "fecha": "2026-10-23T08:29+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "Feijóo reabre el debate sobre el aborto, eliminará el Ministerio de Igualdad y estudiará \"la viabilidad\" de las pensiones",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/politica/feijoo-reabre-debate-aborto-eliminara-ministerio-igualdad-estudiara-viabilidad-pensiones_1_13608554.html",
+      "fecha": "2026-10-23T08:09+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "Leire Díez se querella contra el PP por el vídeo de IA en el que la acusa de \"contratar matones\" para eliminar a la jueza Biedma",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/politica/leire-diez-querella-pp-video-ia-acusa-contratar-matones-eliminar-jueza-biedma_1_13608569.html",
+      "fecha": "2026-10-23T08:06+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "Nuevo vídeo del PP en el que trata de entregar una pizza con “extra de chorizo” en Ferraz",
+      "medio": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/politica/20261023/11666215/nuevo-video-pp-trata-entregar-pizza-extra-chorizo-ferraz.html",
+      "fecha": "2026-10-23T07:52+00:00",
+      "partidos": [
+        "pp",
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "Feijóo se muestra dispuesto a \"corresponder\" a Vox si el partido de Abascal se retira de provincias donde no podrán tener senador",
+      "medio": "20minutos",
+      "url": "https://www.20minutos.es/nacional/feijoo-se-muestra-dispuesto-corresponder-vox-si-partido-abascal-se-retira-provincias-donde-no-podran-tener-senador_7052442_0.html",
+      "fecha": "2026-10-23T07:30+00:00",
+      "partidos": [
+        "pp",
+        "vox"
+      ]
+    },
+    {
+      "titulo": "Feijóo reivindica que Milei ha rebajado la pobreza en Argentina pero no comparte su “lenguaje”",
+      "medio": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/politica/20261023/11666170/feijoo-dispuesto-corresponder-vox-renuncia-presentar-determinadas-provincias-senado.html",
+      "fecha": "2026-10-23T07:05+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "El Gobierno aprueba subvenciones por 350.000 euros para fundaciones de los partidos: PP, el más beneficiado con 119.605",
+      "medio": "Europa Press",
+      "url": "https://www.europapress.es/nacional/noticia-gobierno-aprueba-subvenciones-350000-euros-fundaciones-partidos-pp-mas-beneficiado-119605-20261023081920.html",
+      "fecha": "2026-10-23T06:19+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
     {
       "titulo": "El resultado de las elecciones del 29N en España si solo votasen las amas de casa: porcentajes de PP, PSOE, Vox y el resto de partidos",
       "medio": "ABC",
@@ -3112,137 +3242,6 @@
         "psoe",
         "vox",
         "sumar"
-      ]
-    },
-    {
-      "titulo": "La web electoral de Irene Montero: ni rastro de Podemos y solo con su cara y su nombre",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/web-electoral-irene-montero-rastro-podemos-solo-20261019220211-nt.html",
-      "fecha": "2026-10-19T20:02+00:00",
-      "partidos": [
-        "podemos"
-      ]
-    },
-    {
-      "titulo": "Vox sondea un “acuerdo” con el PP contra la unión de las izquierdas en el Senado",
-      "medio": "elDiario.es",
-      "url": "https://www.eldiario.es/politica/vox-sondea-acuerdo-pp-union-izquierdas-senado_1_13598276.html",
-      "fecha": "2026-10-19T19:54+00:00",
-      "partidos": [
-        "pp",
-        "vox"
-      ]
-    },
-    {
-      "titulo": "El PP se prepara para un gobierno en minoría en Algeciras tras la dimisión de Landaluce por las acusaciones de acoso sexual",
-      "medio": "elDiario.es",
-      "url": "https://www.eldiario.es/andalucia/cadiz/pp-prepara-gobierno-minoria-algeciras-dimision-landaluce-acusaciones-acoso-sexual_1_13597666.html",
-      "fecha": "2026-10-19T19:54+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Un nuevo volantazo del PP amenaza con bloquear la exhumación de Monumento, la mayor fosa franquista de Sevilla",
-      "medio": "elDiario.es",
-      "url": "https://www.eldiario.es/sevilla/nuevo-volantazo-pp-amenaza-bloquear-exhumacion-monumento-mayor-fosa-franquista-sevilla_1_13597010.html",
-      "fecha": "2026-10-19T19:54+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Ester Muñoz: «Los recortes masivos han llegado con Sánchez y se acabarán con Feijóo»",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/castilla-la-mancha/ester-munoz-recortes-masivos-llegado-sanchez-acabaran-20261019214852-nt.html",
-      "fecha": "2026-10-19T19:50+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "El PP tapa un año después y con una tabla una inscripción franquista en Álava y el Gobierno lo tacha de \"vergüenza\"",
-      "medio": "elDiario.es",
-      "url": "https://www.eldiario.es/euskadi/pp-tapa-ano-despues-tabla-inscripcion-franquista-alava-gobierno-tacha-verguenza_1_13596073.html",
-      "fecha": "2026-10-19T19:46+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Sánchez apela al voto útil de la izquierda al PSOE como garante del Estado del Bienestar frente al modelo “que deja a la intemperie” de PP y Vox",
-      "medio": "El País",
-      "url": "https://elpais.com/espana/elecciones-generales/2026-10-19/sanchez-apela-al-voto-util-de-la-izquierda-al-psoe-como-garante-del-estado-del-bienestar-frente-al-modelo-que-deja-a-la-intemperie-de-pp-y-vox.html",
-      "fecha": "2026-10-19T19:02+00:00",
-      "partidos": [
-        "pp",
-        "psoe",
-        "vox"
-      ]
-    },
-    {
-      "titulo": "El PP afea al PSOE de Toledo su legado en vivienda: venta de suelo público y ni un piso en 16 años",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/castilla-la-mancha/toledo/pp-afea-psoe-toledo-legado-vivienda-venta-20261019205048-nt.html",
-      "fecha": "2026-10-19T18:50+00:00",
-      "partidos": [
-        "pp",
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "Ester Muñoz encabezará la lista del PP de León al Congreso y Alicia García la de Ávila al Senado",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/castilla-leon/ester-munoz-encabezara-nuevo-lista-pp-leon-20261019193657-nt.html",
-      "fecha": "2026-10-19T18:43+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "El PP de Algeciras explica a sus «inquietos» militantes las razones de la moción de censura contra Landaluce",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/andalucia/cadiz/pp-algeciras-explica-inquietos-militantes-razones-mocion-20261019201658-nts.html",
-      "fecha": "2026-10-19T18:36+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Sánchez alerta ante nueva la visita de Milei: “PP y Vox planean gobernar con el de la motosierra”",
-      "medio": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/politica/20261019/11663052/sanchez-alerta-nueva-visita-milei-pp-vox-planean-gobernar-motosierra.html",
-      "fecha": "2026-10-19T18:35+00:00",
-      "partidos": [
-        "pp",
-        "vox"
-      ]
-    },
-    {
-      "titulo": "Renuncia toda la lista del PSOE de Palencia al Congreso al cambiar Ferraz al número uno",
-      "medio": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/politica/20261019/11663048/renuncia-toda-lista-psoe-palencia-congreso-cambiar-ferraz-numero.html",
-      "fecha": "2026-10-19T18:32+00:00",
-      "partidos": [
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "El PSOE se queda en Palencia sin lista al Congreso tras la renuncia de sus candidatos por la imposición de Ferraz",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/castilla-leon/psoe-queda-candidatos-congreso-palencia-tras-imponer-20261019193046-nt.html",
-      "fecha": "2026-10-19T18:31+00:00",
-      "partidos": [
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "Sánchez apela a la concentración del voto en el PSOE ante la fragmentación de la izquierda: \"Todo al rojo\"",
-      "medio": "Europa Press",
-      "url": "https://www.europapress.es/nacional/noticia-sanchez-apela-concentracion-voto-izquierda-psoe-todo-rojo-20261019202934.html",
-      "fecha": "2026-10-19T18:29+00:00",
-      "partidos": [
-        "psoe"
       ]
     }
   ],
