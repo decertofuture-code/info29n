@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-23T13:38+00:00",
+  "actualizado": "2026-10-23T17:29+00:00",
   "temas": [
     {
       "id": "vivienda",
@@ -448,6 +448,70 @@
     }
   ],
   "noticias": [
+    {
+      "titulo": "Renovación parcial y dimisiones obligadas en las listas del PP de Castilla y León para el 29N",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/castilla-leon/renovacion-parcial-dimisiones-obligadas-listas-pp-castilla-20261023183504-nt.html",
+      "fecha": "2026-10-23T16:38+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "El BNG evita la condena explícita de la violencia de los radicales en La Coruña y señala a la Policía",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/galicia/bng-evita-condena-explicita-violencia-coruna-senala-20261023181918-nt.html",
+      "fecha": "2026-10-23T16:24+00:00",
+      "partidos": [
+        "bng"
+      ]
+    },
+    {
+      "titulo": "Génova da una vuelta a las listas del PPdeG para las elecciones del 29-N",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/galicia/genova-vuelta-listas-ppdeg-elecciones-29n-20261023175405-nt.html",
+      "fecha": "2026-10-23T16:11+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "Las listas del PP obligan a Rueda, Mañueco, Buruaga, Llorca y López Miras a remodelar sus Gobiernos regionales",
+      "medio": "20minutos",
+      "url": "https://www.20minutos.es/nacional/las-listas-pp-obligan-rueda-manueco-buruaga-llorca-lopez-miras-remodelar-sus-gobiernos-regionales_7052770_0.html",
+      "fecha": "2026-10-23T15:32+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "Podemos minimiza la dimisión del coordinador en Aragón y pide el voto en Teruel ante la renuncia del Frente Amplio",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/aragon/politica/minimiza-dimision-coordinador-aragon-pide-voto-teruel-renuncia-frente-amplio_1_13610662.html",
+      "fecha": "2026-10-23T15:19+00:00",
+      "partidos": [
+        "sumar"
+      ]
+    },
+    {
+      "titulo": "Vox exige al PP tener grupo propio en el Senado y protagonismo en Cataluña",
+      "medio": "El País",
+      "url": "https://elpais.com/espana/2026-10-23/vox-exige-al-pp-tener-grupo-propio-en-el-senado-y-protagonismo-en-cataluna.html",
+      "fecha": "2026-10-23T13:18+00:00",
+      "partidos": [
+        "pp",
+        "vox"
+      ]
+    },
+    {
+      "titulo": "La alcaldesa Catalá encabezará la lista del PP por Valencia y se medirá a Bernabé en una previa de la batalla municipal",
+      "medio": "El Mundo",
+      "url": "https://www.elmundo.es/comunidad-valenciana/2026/10/23/6adb5949e85eceb6048b458b.html",
+      "fecha": "2026-10-23T13:13+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
     {
       "titulo": "El juez Pedraz acusa al PSOE de retrasar \"artificialmente\" la entrega de documentación del 'caso Cloacas' y reclama al partido que cumpla \"sin más demora\"",
       "medio": "El Mundo",
@@ -3170,69 +3234,6 @@
       "fecha": "2026-10-20T11:05+00:00",
       "partidos": [
         "pp"
-      ]
-    },
-    {
-      "titulo": "Jon Echeverría, el joven de 22 años con el que el PP busca un revulsivo en Gipuzkoa para las elecciones del 29-N",
-      "medio": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/politica/20261020/11663585/jon-echeverria-joven-22-anos-pp-busca-revulsivo-gipuzkoa-elecciones-29-n.html",
-      "fecha": "2026-10-20T10:51+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "El PSOE denuncia a Telemadrid ante la Junta Electoral porque un presentador acusó al Gobierno de \"fabricar votantes\"",
-      "medio": "elDiario.es",
-      "url": "https://www.eldiario.es/madrid/somos/psoe-denuncia-telemadrid-junta-electoral-presentador-acuso-gobierno-fabricar-votantes_1_13599737.html",
-      "fecha": "2026-10-20T10:49+00:00",
-      "partidos": [
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "El PP catalán lleva al Consell de Garanties Estatutàries la ley de memoria democrática por “inconstitucional”",
-      "medio": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/politica/20261020/11663578/pp-catalan-lleva-consell-garanties-estatutaries-ley-memoria-democratica-inconstitucional.html",
-      "fecha": "2026-10-20T10:45+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Salvador Illa pidió a Montse Mínguez que siguiera como portavoz del PSOE y candidata en las elecciones generales del 29-N: \"Ha sido una cacería y la política tiene límites\"",
-      "medio": "El Mundo",
-      "url": "https://www.elmundo.es/cataluna/2026/10/20/6ad7327bfdddff12038b45cc.html",
-      "fecha": "2026-10-20T10:17+00:00",
-      "partidos": [
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "Mas compara a Rufián con Vinícius por “vivir de la provocación y la bronca” y enerva a ERC",
-      "medio": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/politica/20261020/11663509/compara-rufian-vinicius-vivir-provocacion-bronca-enerva-erc.html",
-      "fecha": "2026-10-20T10:01+00:00",
-      "partidos": [
-        "erc"
-      ]
-    },
-    {
-      "titulo": "Vox mete mano a las ayudas al cine en Castilla y León y vetará películas que \"impliquen adoctrinamiento ideológico\"",
-      "medio": "elDiario.es",
-      "url": "https://www.eldiario.es/castilla-y-leon/cultura/vox-mete-mano-ayudas-cine-castilla-leon-vetara-peliculas-impliquen-adoctrinamiento-ideologico-apoyo-opciones-politicas-concretas_1_13599122.html",
-      "fecha": "2026-10-20T09:22+00:00",
-      "partidos": [
-        "vox"
-      ]
-    },
-    {
-      "titulo": "Ferraz cierra filas con Martínez Seijo tras la dimisión en bloque de la lista del PSOE de Palencia",
-      "medio": "elDiario.es",
-      "url": "https://www.eldiario.es/castilla-y-leon/politica/ferraz-defiende-cambios-lista-psoe-palencia-dimision-integrantes_1_13599362.html",
-      "fecha": "2026-10-20T09:16+00:00",
-      "partidos": [
-        "psoe"
       ]
     }
   ],
