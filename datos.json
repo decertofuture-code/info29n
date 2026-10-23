@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-22T21:29+00:00",
+  "actualizado": "2026-10-23T05:18+00:00",
   "temas": [
     {
       "id": "vivienda",
@@ -449,10 +449,160 @@
   ],
   "noticias": [
     {
+      "titulo": "El resultado de las elecciones del 29N en España si solo votasen las amas de casa: porcentajes de PP, PSOE, Vox y el resto de partidos",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/resultado-elecciones-29n-espana-solo-votasen-amas-20261023051500-nt.html",
+      "fecha": "2026-10-23T05:01+00:00",
+      "partidos": [
+        "pp",
+        "psoe",
+        "vox"
+      ]
+    },
+    {
+      "titulo": "Génova cierra una «renovación silenciosa» más profunda de lo esperado para el 29N",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/genova-cierra-renovacion-silenciosa-profunda-esperado-29n-20261023025045-nt.html",
+      "fecha": "2026-10-23T04:16+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "Feijóo incorpora a su lista del 29N una mezcla de perfil moderado y combativo para seducir al centro y contener a Vox",
+      "medio": "20minutos",
+      "url": "https://www.20minutos.es/nacional/feijoo-recluta-perfiles-combativos-moderados-para-seducir-centro-contener-vox_7052276_0.html",
+      "fecha": "2026-10-23T04:16+00:00",
+      "partidos": [
+        "pp",
+        "vox"
+      ]
+    },
+    {
+      "titulo": "Sánchez y Feijóo reabren la pugna por los debates de la campaña del 29-N en televisión",
+      "medio": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/politica/20261023/11665840/sanchez-feijoo-reabren-pugna-debates-campana-29-n-television.html",
+      "fecha": "2026-10-23T04:00+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "Feijóo se refuerza en el Congreso: portavoces de la línea dura, veteranos y experiencia de gestión con miras al Gobierno",
+      "medio": "El País",
+      "url": "https://elpais.com/espana/elecciones-generales/2026-10-23/feijoo-se-refuerza-en-el-congreso-portavoces-de-la-linea-dura-veteranos-y-experiencia-de-gestion-con-miras-al-gobierno.html",
+      "fecha": "2026-10-23T03:30+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "El vídeo del PP contra el PSOE agita el debate sobre los límites de la IA en la batalla política",
+      "medio": "El País",
+      "url": "https://elpais.com/espana/2026-10-23/el-video-del-pp-contra-el-psoe-agita-el-debate-sobre-los-limites-de-la-ia-en-la-batalla-politica.html",
+      "fecha": "2026-10-23T03:30+00:00",
+      "partidos": [
+        "pp",
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "El estupor de los dos historiadores usados por el PP y Vox para proteger una cruz franquista: “¿Cómo voy a decir yo algo así?”",
+      "medio": "El País",
+      "url": "https://elpais.com/espana/2026-10-23/el-estupor-de-los-dos-historiadores-usados-por-el-pp-y-vox-para-proteger-una-cruz-franquista-como-voy-a-decir-yo-algo-asi.html",
+      "fecha": "2026-10-23T03:30+00:00",
+      "partidos": [
+        "pp",
+        "vox"
+      ]
+    },
+    {
+      "titulo": "Iván Espinosa de los Monteros, exdiputado de Vox, sobre Ceuta: \"El Gobierno parece estar más decidido a defender a Marruecos\"",
+      "medio": "El Confidencial",
+      "url": "https://www.elconfidencial.com/espana/2026-10-23/espinosa-ceuta-marruecos-frontera-monarquia-1mult_4447802/",
+      "fecha": "2026-10-23T03:00+00:00",
+      "partidos": [
+        "vox"
+      ]
+    },
+    {
+      "titulo": "Diputados y altos cargos del PSOE se convierten en falsos periodistas en redes",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/psoe-pasar-altos-cargos-periodistas-neutrales-pseudomedios-20261023025033-nt.html",
+      "fecha": "2026-10-23T00:51+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "Frente Amplio cierra la puerta a retirar listas al Congreso como en Teruel",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/frente-amplio-cierra-puerta-retirar-listas-teruel-20261023025027-nt.html",
+      "fecha": "2026-10-23T00:50+00:00",
+      "partidos": [
+        "sumar"
+      ]
+    },
+    {
+      "titulo": "Pedro Sánchez en 'La Revuelta': tu programa de confianza",
+      "medio": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/politica/20261022/11665910/programa-confianza.html",
+      "fecha": "2026-10-22T21:53+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "La UCO detecta la desaparición de facturas en la contabilidad del PSOE al rastrear la financiación ilegal",
+      "medio": "El Mundo",
+      "url": "https://www.elmundo.es/espana/2026/10/22/6ada535cfdddff545b8b45a9.html",
+      "fecha": "2026-10-22T21:31+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "Sánchez, en 'La Revuelta': \"La alternancia es sana, pero con Vox es involución\"",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/politica/sanchez-revuelta-alternancia-sana-vox-involucion_1_13608247.html",
+      "fecha": "2026-10-22T21:24+00:00",
+      "partidos": [
+        "vox"
+      ]
+    },
+    {
       "titulo": "Benjamín Prieto será el número dos del PP de Cuenca al Congreso",
       "medio": "ABC",
       "url": "https://www.abc.es/espana/castilla-la-mancha/benjamin-prieto-numero-dos-pp-cuenca-congreso-20261022222108-nt.html",
       "fecha": "2026-10-22T20:24+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "La huida hacia adelante de Aldama: de atacar a la \"puta oposición\" del PP a pedir el voto para la derecha",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/politica/huida-adelante-aldama-atacar-puta-oposicion-pp-pedir-voto-derecha_1_13604711.html",
+      "fecha": "2026-10-22T20:11+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "El PP y Vox rechazaron en las Corts crear un Fondo de Resiliencia para catástrofes una semana antes de la dana Adam",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/comunitat-valenciana/pp-vox-rechazaron-corts-crear-fondo-resiliencia-catastrofes-semana-dana-adam_1_13606397.html",
+      "fecha": "2026-10-22T20:11+00:00",
+      "partidos": [
+        "pp",
+        "vox"
+      ]
+    },
+    {
+      "titulo": "El PP de Cantabria se enreda con la Ley de Paridad: 24 horas para ocultar un error político del Gobierno Buruaga",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/cantabria/pp-cantabria-enreda-ley-paridad-24-horas-ocultar-error-politico-gobierno-buruaga_1_13607987.html",
+      "fecha": "2026-10-22T20:10+00:00",
       "partidos": [
         "pp"
       ]
@@ -464,6 +614,15 @@
       "fecha": "2026-10-22T19:46+00:00",
       "partidos": [
         "pp"
+      ]
+    },
+    {
+      "titulo": "División en Comuns por la exclusión de Aina Vidal de las listas del 29-N del Frente Amplio",
+      "medio": "El Mundo",
+      "url": "https://www.elmundo.es/cataluna/2026/10/22/6ad9fd71fdddff70698b4596.html",
+      "fecha": "2026-10-22T19:21+00:00",
+      "partidos": [
+        "sumar"
       ]
     },
     {
@@ -647,6 +806,15 @@
       "medio": "ABC",
       "url": "https://www.abc.es/espana/castilla-la-mancha/pp-reclama-ayudas-danos-agricolas-casas-haro-20261022175704-nt.html",
       "fecha": "2026-10-22T15:57+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "Sánchez acepta un 'cara a cara' con Feijóo el 16 de noviembre y un debate a cuatro el 26, pero exige que sea en RTVE y el PP lo rechaza",
+      "medio": "El Mundo",
+      "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/10/22/6ada2ea4e4d4d887418b45b8.html",
+      "fecha": "2026-10-22T15:54+00:00",
       "partidos": [
         "pp"
       ]
@@ -3075,172 +3243,6 @@
       "fecha": "2026-10-19T18:29+00:00",
       "partidos": [
         "psoe"
-      ]
-    },
-    {
-      "titulo": "El Frente Amplio en Castilla-La Mancha, sin Podemos: \"El objetivo es arrebatar el último escaño a Vox y no es inalcanzable\"",
-      "medio": "elDiario.es",
-      "url": "https://www.eldiario.es/castilla-la-mancha/politica/frente-amplio-castilla-mancha-objetivo-arrebatar-ultimo-escano-vox-no-inalcanzable_1_13598012.html",
-      "fecha": "2026-10-19T18:27+00:00",
-      "partidos": [
-        "vox",
-        "sumar",
-        "podemos"
-      ]
-    },
-    {
-      "titulo": "Los candidatos del PSOE en Palencia renuncian en bloque después de que Ferraz impusiera otra número uno en contra del criterio de las bases",
-      "medio": "El Mundo",
-      "url": "https://www.elmundo.es/espana/2026/10/19/6ad65f9be9cf4af96f8b459c.html",
-      "fecha": "2026-10-19T18:21+00:00",
-      "partidos": [
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "Vox ofrece al PP un pacto en el Senado frente a la alianza de izquierdas",
-      "medio": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/politica/20261019/11663040/vox-ofrece-pp-pacto-senado-frente-alianza-izquierdas.html",
-      "fecha": "2026-10-19T18:09+00:00",
-      "partidos": [
-        "pp",
-        "vox"
-      ]
-    },
-    {
-      "titulo": "Sánchez insiste en \"poner pie en pared a las de los aticazos y a los fondos buitres\" tras la dimisión de la portavoz del PSOE por sus \"30 pisos\"",
-      "medio": "El Mundo",
-      "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/10/19/6ad5f28ee9cf4aae258b45b0.html",
-      "fecha": "2026-10-19T18:06+00:00",
-      "partidos": [
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "Crisis del PSOE de Palencia con Ferraz: renuncia toda la lista al Congreso tras la sustitución del 'número 1'",
-      "medio": "elDiario.es",
-      "url": "https://www.eldiario.es/castilla-y-leon/politica/crisis-psoe-palencia-ferraz-renuncia-lista-congreso-sustitucion-numero-1_1_13598435.html",
-      "fecha": "2026-10-19T18:04+00:00",
-      "partidos": [
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "Renuncian los candidatos 2 y 3 del PSOE al Congreso por Palencia tras imponer Ferraz a Seijo como cabeza de lista",
-      "medio": "Europa Press",
-      "url": "https://www.europapress.es/castilla-y-leon/noticia-luis-angel-marin-alicia-garcia-renuncian-ocupar-puestos-lista-psoe-congreso-palencia-20261019192520.html",
-      "fecha": "2026-10-19T17:25+00:00",
-      "partidos": [
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "El PP confirma a Carmen Fúnez como cabeza de lista al Congreso por Ciudad Real",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/castilla-la-mancha/toledo/pp-confirma-carmen-funez-cabeza-lista-congreso-20261019190923-nt.html",
-      "fecha": "2026-10-19T17:09+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Sigue en directo el acto del PSOE en Valladolid en el que interviene Pedro Sánchez",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/sigue-directo-acto-psoe-valladolid-interviene-pedro-20261019183734-nt.html",
-      "fecha": "2026-10-19T16:37+00:00",
-      "partidos": [
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "Quién es Jon Echeverría, el 'influencer' de 22 años que encabeza al PP en Guipúzcoa en las elecciones generales",
-      "medio": "20minutos",
-      "url": "https://www.20minutos.es/nacional/quien-jon-echeverria-influencer-22-anos-encabeza-pp-guipuzcoa-elecciones-generales_7050645_0.html",
-      "fecha": "2026-10-19T16:26+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "El PP confirma que Muñoz, Gamarra, Bendodo, Bravo y Fúnez repiten como 'número uno' al Congreso por sus provincias",
-      "medio": "Europa Press",
-      "url": "https://www.europapress.es/nacional/noticia-pp-confirma-munoz-gamarra-bendodo-bravo-funez-repiten-numero-congreso-provincias-20261019182246.html",
-      "fecha": "2026-10-19T16:22+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "La oposición afea a Moreno que retire ayudas a ONG para personas sin hogar tras pactar con Vox: \"Es solo el principio\"",
-      "medio": "elDiario.es",
-      "url": "https://www.eldiario.es/andalucia/oposicion-afea-moreno-retire-ayudas-ong-personas-hogar-pactar-vox-principio_1_13596937.html",
-      "fecha": "2026-10-19T15:57+00:00",
-      "partidos": [
-        "vox"
-      ]
-    },
-    {
-      "titulo": "Mapa de los pactos a la izquierda del PSOE para el 29N: estas son las opciones para votar en cada comunidad",
-      "medio": "20minutos",
-      "url": "https://www.20minutos.es/nacional/mapa-pactos-izquierda-psoe-opciones-votar-29n-cada-comunidad_7050605_0.html",
-      "fecha": "2026-10-19T15:38+00:00",
-      "partidos": [
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "Irene Montero borra las siglas y el morado de Podemos de su campaña",
-      "medio": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/politica/20261019/11662956/irene-montero-borra-siglas-podemos-color-morado-campana.html",
-      "fecha": "2026-10-19T15:33+00:00",
-      "partidos": [
-        "podemos"
-      ]
-    },
-    {
-      "titulo": "El Gobierno ve \"papel mojado\" el contrato de Feijóo porque el PP \"sube impuestos\" y vota contra subir las pensiones",
-      "medio": "Europa Press",
-      "url": "https://www.europapress.es/nacional/noticia-gobierno-ve-papel-mojado-contrato-feijoo-porque-pp-sube-impuestos-vota-contra-subir-pensiones-20261019172535.html",
-      "fecha": "2026-10-19T15:25+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Quién es Montse Lluis, la número dos de Vox en Madrid que negoció los pactos con el PP en las comunidades",
-      "medio": "20minutos",
-      "url": "https://www.20minutos.es/nacional/quien-es-montse-lluis-numero-dos-abascal-madrid-negocio-pactos-pp-comunidades_7050502_0.html",
-      "fecha": "2026-10-19T14:23+00:00",
-      "partidos": [
-        "pp",
-        "vox"
-      ]
-    },
-    {
-      "titulo": "Podemos borra su logo y lo fía todo a la marca Irene Montero para el 29N",
-      "medio": "El País",
-      "url": "https://elpais.com/espana/2026-10-19/podemos-borra-su-logo-y-lo-fia-todo-a-la-marca-irene-montero-para-el-29n.html",
-      "fecha": "2026-10-19T14:08+00:00",
-      "partidos": [
-        "podemos"
-      ]
-    },
-    {
-      "titulo": "Rueda se pone de perfil tras afirmar Feijóo que hay un agujero en las pensiones: \"No tengo todos los datos\"",
-      "medio": "elDiario.es",
-      "url": "https://www.eldiario.es/galicia/rueda-pone-perfil-afirmar-feijoo-hay-agujero-pensiones-no-datos_1_13597605.html",
-      "fecha": "2026-10-19T13:37+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Vox publica un 'simulador de sueldo' para explicar el efecto que tendrían sus medidas: así funciona su calculadora",
-      "medio": "20minutos",
-      "url": "https://www.20minutos.es/nacional/vox-publica-un-simulador-sueldo-para-explicar-efecto-que-tendrian-sus-medidas-asi-funciona-su-calculadora_7050566_0.html",
-      "fecha": "2026-10-19T13:33+00:00",
-      "partidos": [
-        "vox"
       ]
     }
   ],
