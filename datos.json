@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-24T17:24+00:00",
+  "actualizado": "2026-10-24T21:24+00:00",
   "temas": [
     {
       "id": "vivienda",
@@ -449,6 +449,70 @@
   ],
   "noticias": [
     {
+      "titulo": "Denuncian a Tesh Sidi, número dos del Frente Amplio en Madrid, por acoso laboral",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/denuncian-tesh-sidi-numero-dos-frente-amplio-20261024195734-nt.html",
+      "fecha": "2026-10-24T18:27+00:00",
+      "partidos": [
+        "sumar"
+      ]
+    },
+    {
+      "titulo": "El alcalde de Puertollano renuncia a ir de número 4 en la lista del PP al Congreso por Ciudad Real",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/castilla-la-mancha/alcalde-puertollano-renuncia-numero-lista-pp-congreso-20261024195245-nt.html",
+      "fecha": "2026-10-24T18:27+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "El PSOE vincula la renuncia de Ruiz a la lista del Congreso con su investigación por presunto acoso laboral",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/castilla-la-mancha/psoe-vincula-renuncia-ruiz-lista-congreso-investigacion-20261024202616-nt.html",
+      "fecha": "2026-10-24T18:26+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "Jordi Wild da detalles sobre cómo serán sus entrevistas tras el sí de Pedro Sánchez: 90 minutos, dos verificadores, \"temas jodidos\"...",
+      "medio": "20minutos",
+      "url": "https://www.20minutos.es/nacional/jordi-wild-da-detalles-sobre-como-seran-entrevistas-si-pedro-sanchez-minutos-verificadores-temas-jodidos_7053016_0.html",
+      "fecha": "2026-10-24T18:25+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "Feijóo elige a Alma Ezcurra como cuatro del PP por Madrid al Congreso y a Inmaculada Sanz como dos en el Senado",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/feijoo-alma-ezcurra-cuatro-pp-madrid-congreso-20261024200318-nt.html",
+      "fecha": "2026-10-24T18:08+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "El alcalde de Puertollano renuncia a estar en la lista del PP al Congreso y el PSOE recuerda su imputación por acoso laboral",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/castilla-la-mancha/politica/alcalde-puertollano-renuncia-lista-pp-congreso-imputado-acoso-laboral-dice-psoe_1_13612822.html",
+      "fecha": "2026-10-24T18:03+00:00",
+      "partidos": [
+        "pp",
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "El PP describe a Page como «el peor de los populistas y el mayor ejemplo de hipocresía política»",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/castilla-la-mancha/pp-describe-page-peor-populistas-mayor-ejemplo-20261024195111-nt.html",
+      "fecha": "2026-10-24T17:51+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
       "titulo": "Santiago Abascal interviene en un acto de Vox en Ibiza",
       "medio": "ABC",
       "url": "https://www.abc.es/espana/santiago-abascal-interviene-acto-vox-ibiza-20261024190645-nt.html",
@@ -602,6 +666,15 @@
       "fecha": "2026-10-24T12:22+00:00",
       "partidos": [
         "psoe"
+      ]
+    },
+    {
+      "titulo": "Ex trabajadores de Más Madrid denuncian a Tesh Sidi, portavoz en el Congreso y número dos del Frente Amplio, por \"acoso laboral\"",
+      "medio": "El Mundo",
+      "url": "https://www.elmundo.es/madrid/2026/10/24/6adc934afc6c8351788b456e.html",
+      "fecha": "2026-10-24T12:17+00:00",
+      "partidos": [
+        "sumar"
       ]
     },
     {
@@ -3164,83 +3237,6 @@
       "medio": "ABC",
       "url": "https://www.abc.es/espana/javier-milei-llama-impresentable-dictador-pedro-sanchez-20261021103446-nt.html",
       "fecha": "2026-10-21T09:03+00:00",
-      "partidos": [
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "Milei vuelve al choque con el Gobierno del \"impresentable dictador, delincuente, ladrón\" Pedro Sánchez: \"Hay que sacar a los socialistas a patadas\"",
-      "medio": "El Mundo",
-      "url": "https://www.elmundo.es/espana/2026/10/21/6ad87b4621efa0ed378b4574.html",
-      "fecha": "2026-10-21T09:00+00:00",
-      "partidos": [
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "Vox no descarta \"ninguna fórmula\" para el pacto con el PP para el Senado y no tiene prisa para cerrarlo",
-      "medio": "Europa Press",
-      "url": "https://www.europapress.es/nacional/noticia-vox-no-descarta-ninguna-formula-pacto-pp-senado-no-tiene-prisa-cerrarlo-20261021105811.html",
-      "fecha": "2026-10-21T08:58+00:00",
-      "partidos": [
-        "pp",
-        "vox"
-      ]
-    },
-    {
-      "titulo": "Milei llama \"dictador\" a Sánchez y dice que Abascal y Ayuso tienen ideas para sacar a España de la \"decadencia\"",
-      "medio": "Europa Press",
-      "url": "https://www.europapress.es/nacional/noticia-milei-llama-dictador-sanchez-dice-fomento-invasion-ceuta-porque-cada-inmigrante-voto-20261021104649.html",
-      "fecha": "2026-10-21T08:46+00:00",
-      "partidos": [
-        "vox"
-      ]
-    },
-    {
-      "titulo": "Qué proponen PP, PSOE, Vox y Sumar sobre las pensiones para el 29-N: subidas, edad de jubilación y financiación",
-      "medio": "El Confidencial",
-      "url": "https://www.elconfidencial.com/espana/2026-10-21/sistema-pensiones-propuestas-partidos-elecciones_4449597/",
-      "fecha": "2026-10-21T08:44+00:00",
-      "partidos": [
-        "pp",
-        "psoe",
-        "vox",
-        "sumar"
-      ]
-    },
-    {
-      "titulo": "Javier Milei llama a “sacar a los socialistas a patadas” y al “impresentable dictador Pedro Sánchez”",
-      "medio": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/politica/20261021/11664370/javier-milei-llama-sacar-socialistas-patadas-impresentable-dictador-pedro-sanchez.html",
-      "fecha": "2026-10-21T08:39+00:00",
-      "partidos": [
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "Illa recuerda a Junts y a ERC que la amnistía ha sido posible también gracias al PSC",
-      "medio": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/politica/20261021/11664365/illa-recuerda-junts-erc-amnistia-sido-posible-gracias-psc.html",
-      "fecha": "2026-10-21T08:32+00:00",
-      "partidos": [
-        "erc",
-        "junts"
-      ]
-    },
-    {
-      "titulo": "Milei llama \"impresentable dictador\" a Pedro Sánchez en su primer acto en España",
-      "medio": "elDiario.es",
-      "url": "https://www.eldiario.es/politica/milei-llama-impresentable-dictador-pedro-sanchez-primer-acto-espana_1_13602219.html",
-      "fecha": "2026-10-21T08:27+00:00",
-      "partidos": [
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "El PSOE hace campaña con la visita de Milei a España: \"Los zurdos te dan la bienvenida\"",
-      "medio": "elDiario.es",
-      "url": "https://www.eldiario.es/politica/psoe-campana-visita-milei-espana-zurdos-dan-bienvenida_1_13602102.html",
-      "fecha": "2026-10-21T08:17+00:00",
       "partidos": [
         "psoe"
       ]
