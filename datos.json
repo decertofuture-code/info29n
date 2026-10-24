@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-23T21:28+00:00",
+  "actualizado": "2026-10-24T05:16+00:00",
   "temas": [
     {
       "id": "vivienda",
@@ -449,6 +449,63 @@
   ],
   "noticias": [
     {
+      "titulo": "Feijóo se fija el objetivo de subir el salario medio y no únicamente el sueldo mínimo",
+      "medio": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/politica/20261024/11666722/feijoo-fija-objetivo-subir-salario-medio-unicamente-sueldo-minimo.html",
+      "fecha": "2026-10-24T04:00+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "Puigdemont no olvida: desplante a la Generalitat de Illa en el concierto de María del Mar Bonet en París",
+      "medio": "El Confidencial",
+      "url": "https://www.elconfidencial.com/espana/cataluna/2026-10-24/troleo-puigdemont-generalitat-maria-del-mar-bonet_4451525/",
+      "fecha": "2026-10-24T03:00+00:00",
+      "partidos": [
+        "junts"
+      ]
+    },
+    {
+      "titulo": "El PSOE intenta montar una campaña contra Feijóo cuestionando su feminismo",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/psoe-monta-campana-feijoo-cuestionando-feminismo-20261024020639-nt.html",
+      "fecha": "2026-10-24T00:34+00:00",
+      "partidos": [
+        "pp",
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "Feijóo apuesta por perfiles duros para competir con Vox",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/politica/feijoo-apuesta-perfiles-duros-competir-vox_1_13610039.html",
+      "fecha": "2026-10-23T20:40+00:00",
+      "partidos": [
+        "pp",
+        "vox"
+      ]
+    },
+    {
+      "titulo": "La mejor baza para el PSOE es dejar que hable Feijóo",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/opinion/zona-critica/mejor-baza-psoe-hable-feijoo_129_13610520.html",
+      "fecha": "2026-10-23T20:40+00:00",
+      "partidos": [
+        "pp",
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "Los autores de la obra sobre Lorca cancelada por Vox en Valladolid: \"Hablar de lo que pasó choca con lo que llaman neutralidad ideológica\"",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/castilla-y-leon/cultura/autores-obra-lorca-cancelada-vox-valladolid-hablar-paso-choca-llaman-neutralidad-ideologica_128_13608845.html",
+      "fecha": "2026-10-23T20:40+00:00",
+      "partidos": [
+        "vox"
+      ]
+    },
+    {
       "titulo": "La Policía carga contra manifestantes radicales tras el mitin de Abascal en Mahón",
       "medio": "ABC",
       "url": "https://www.abc.es/espana/baleares/policia-carga-manifestantes-antifascistas-tras-mitin-abascal-20261023211951-nt.html",
@@ -505,6 +562,15 @@
       "partidos": [
         "pp",
         "vox"
+      ]
+    },
+    {
+      "titulo": "Feijóo apela al voto de los trabajadores con una bajada del IRPF en 2027 y el blindaje de la exención del salario mínimo",
+      "medio": "El Mundo",
+      "url": "https://www.elmundo.es/comunidad-valenciana/2026/10/23/6adb9bc1fdddff9e7d8b4587.html",
+      "fecha": "2026-10-23T18:36+00:00",
+      "partidos": [
+        "pp"
       ]
     },
     {
@@ -3171,70 +3237,6 @@
       "fecha": "2026-10-20T13:10+00:00",
       "partidos": [
         "pp"
-      ]
-    },
-    {
-      "titulo": "Luisa Fernanda Rudi deja la primera línea: «Cuanto más crecen los extremos, más perjudica al PP»",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/aragon/luisa-fernanda-rudi-deja-primera-linea-crecen-20261020145156-nt.html",
-      "fecha": "2026-10-20T13:01+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Podemos y Frente Amplio se juran «deportividad» y «guante blanco» en campaña mientras siguen los reproches",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/podemos-frente-amplio-juran-deportividad-guante-blanco-20261020142923-nt.html",
-      "fecha": "2026-10-20T13:00+00:00",
-      "partidos": [
-        "sumar",
-        "podemos"
-      ]
-    },
-    {
-      "titulo": "El PP amenaza a Exteriores con acciones penales si \"obstaculiza\" la retirada del censo de los nacionalizados por la 'ley de nietos'",
-      "medio": "20minutos",
-      "url": "https://www.20minutos.es/nacional/pp-amenaza-exteriores-con-acciones-penales-si-obstaculiza-retirada-censo-los-nacionalizados-por-ley-nietos_7051075_0.html",
-      "fecha": "2026-10-20T12:57+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "El juez apremia al PSOE para que informe en dos días de los abogados a los que contrató entre 2021 y 2025",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/juez-apremia-psoe-informe-dos-dias-abogados-20261020142253-nt.html",
-      "fecha": "2026-10-20T12:53+00:00",
-      "partidos": [
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "El PP amenaza a Exteriores con acciones penales si no retira del censo a nacionalizados por la 'ley de nietos'",
-      "medio": "Europa Press",
-      "url": "https://www.europapress.es/nacional/noticia-pp-exige-exteriores-cumplir-ordenado-ts-ley-nietos-avisa-si-no-ira-justicia-20261020143200.html",
-      "fecha": "2026-10-20T12:32+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Quién es Jon Echeverría: el 'influencer' de 22 años que el PP presenta como cabeza de lista por Gipuzkoa el 29-N",
-      "medio": "El Confidencial",
-      "url": "https://www.elconfidencial.com/espana/2026-10-20/quien-es-jon-echeverria-influencer-pp-cabeza-lista-gipuzkoa-29-n_4449031/",
-      "fecha": "2026-10-20T12:29+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "El juez da un ultimátum de 48 horas al PSOE para que le entregue todos los pagos a abogados en el 'caso de las cloacas'",
-      "medio": "El Mundo",
-      "url": "https://www.elmundo.es/espana/2026/10/20/6ad758eafdddffeb678b4599.html",
-      "fecha": "2026-10-20T12:26+00:00",
-      "partidos": [
-        "psoe"
       ]
     }
   ],
