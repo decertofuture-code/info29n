@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-24T05:16+00:00",
+  "actualizado": "2026-10-24T09:26+00:00",
   "temas": [
     {
       "id": "vivienda",
@@ -448,6 +448,54 @@
     }
   ],
   "noticias": [
+    {
+      "titulo": "Listas completas del PP de Córdoba al Congreso y el Senado en las elecciones del 29-N: Fuentes encabeza la Cámara Alta",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/andalucia/cordoba/listas-completas-pp-cordoba-congreso-senado-elecciones-20261024104650-nts.html",
+      "fecha": "2026-10-24T09:09+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "Antonio Repullo, secretario general del PP-A : «Andalucía es la España que viene»",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/andalucia/antonio-repullo-secretario-general-ppa-andalucia-espana-20261024070757-nts.html",
+      "fecha": "2026-10-24T08:39+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "Encuestas elecciones generales del 29N País Vasco: resultados de PSOE, PP, Bildu y PNV y ganador según los sondeos",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/pais-vasco/encuestas-elecciones-generales-29n-pais-vasco-resultados-20261024053000-nt.html",
+      "fecha": "2026-10-24T07:58+00:00",
+      "partidos": [
+        "pp",
+        "psoe",
+        "bildu",
+        "pnv"
+      ]
+    },
+    {
+      "titulo": "El PP sitúa a Catalá como cabeza de lista por Valencia",
+      "medio": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/politica/20261024/11666874/pp-situa-catala-cabeza-lista-valencia.html",
+      "fecha": "2026-10-24T06:26+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "Milei llama de nuevo \"ladrón corrupto\" a Pedro Sánchez durante un discurso en Argentina",
+      "medio": "El Mundo",
+      "url": "https://www.elmundo.es/espana/2026/10/24/6adc4677e9cf4a96448b45b0.html",
+      "fecha": "2026-10-24T05:47+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
     {
       "titulo": "Feijóo se fija el objetivo de subir el salario medio y no únicamente el sueldo mínimo",
       "medio": "La Vanguardia",
@@ -3191,52 +3239,6 @@
       "fecha": "2026-10-20T16:26+00:00",
       "partidos": [
         "bng"
-      ]
-    },
-    {
-      "titulo": "El PSOE acusa a Velázquez de «jeta» y le exige que se preocupe más por los problemas de Toledo",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/castilla-la-mancha/toledo/psoe-acusa-velazquez-jeta-exige-preocupe-problemas-20261020175000-nt.html",
-      "fecha": "2026-10-20T16:12+00:00",
-      "partidos": [
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "La imagen de dos ancianos en ropa interior atracados por manifestantes en París que ha compartido Abascal está hecha con IA",
-      "medio": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/politica/20261020/11663884/imagen-dos-ancianos-ropa-interior-atracados-manifestantes-paris-compartido-abascal-esta-hecha-ia.html",
-      "fecha": "2026-10-20T16:00+00:00",
-      "partidos": [
-        "vox"
-      ]
-    },
-    {
-      "titulo": "PP y Vox mutilan la Ley de la Cámara de Cuentas andaluza para retener el control del órgano que fiscaliza los fondos públicos",
-      "medio": "elDiario.es",
-      "url": "https://www.eldiario.es/andalucia/pp-vox-mutilan-ley-camara-cuentas-andaluza-retener-control-organo-fiscaliza-fondos-publicos_1_13599402.html",
-      "fecha": "2026-10-20T15:51+00:00",
-      "partidos": [
-        "pp",
-        "vox"
-      ]
-    },
-    {
-      "titulo": "El PP acusa al Gobierno de incumplir «deliberadamente» el mandato judicial con la 'ley de nietos' y mueve ficha",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/pp-acusa-gobierno-incumplir-deliberadamente-mandato-judicial-20261020144809-nt.html",
-      "fecha": "2026-10-20T13:18+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "El PP amenaza por burofax a Albares con llevarlo a los tribunales si Exteriores no cumple los requisitos del TS para el voto suspendido por la ley de nietos",
-      "medio": "El Mundo",
-      "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/10/20/6ad74e8dfc6c83f51d8b4599.html",
-      "fecha": "2026-10-20T13:10+00:00",
-      "partidos": [
-        "pp"
       ]
     }
   ],
