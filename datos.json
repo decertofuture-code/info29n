@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-24T09:26+00:00",
+  "actualizado": "2026-10-24T13:29+00:00",
   "temas": [
     {
       "id": "vivienda",
@@ -449,6 +449,211 @@
   ],
   "noticias": [
     {
+      "titulo": "Núñez reivindica la figura de Feijóo para recuperar el crecimiento y la decencia en España",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/castilla-la-mancha/nunez-reivindica-figura-feijoo-recuperar-crecimiento-decencia-20261024150905-nt.html",
+      "fecha": "2026-10-24T13:23+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "Feijóo promete una amplia rebaja fiscal «a quién más lo merece»: jóvenes, familias y autónomos",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/galicia/feijoo-promete-amplia-rebaja-fiscal-merece-jovenes-20261024133011-nt.html",
+      "fecha": "2026-10-24T13:04+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "Pedro Sánchez, en Granada: «Reformaremos y blindaremos el derecho al aborto en la Constitución Española»",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/andalucia/granada/pedro-sanchez-granada-elecciones-van-elegir-amor-20261024132537-nts.html",
+      "fecha": "2026-10-24T12:37+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "Sánchez pide el voto contra los \"recortes interminables\" de PP y Vox y promete blindar el derecho al aborto en la Constitución",
+      "medio": "20minutos",
+      "url": "https://www.20minutos.es/nacional/pedro-sanchez-pide-voto-contra-recortes-interminables-pp-vox-promete-blindar-derecho-aborto-constitucion_7052955_0.html",
+      "fecha": "2026-10-24T12:36+00:00",
+      "partidos": [
+        "pp",
+        "vox"
+      ]
+    },
+    {
+      "titulo": "Rufián se reivindica ante las críticas del independentismo por su alianza con Podemos: «Me han dado por todos lados»",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/cataluna/rufian-reivindica-ante-criticas-independentismo-alianza-podemos-20261024140644-nt.html",
+      "fecha": "2026-10-24T12:35+00:00",
+      "partidos": [
+        "podemos"
+      ]
+    },
+    {
+      "titulo": "Velázquez insta a «abrir puertas en el muro que ha levantado Pedro Sánchez entre los españoles»",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/castilla-la-mancha/toledo/velazquez-insta-abrir-puertas-muro-levantado-pedro-20261024140723-nt.html",
+      "fecha": "2026-10-24T12:35+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "Abascal pide una \"gran mayoría\" para ser presidente del Gobierno: \"No es imposible ganar unas elecciones\"",
+      "medio": "20minutos",
+      "url": "https://www.20minutos.es/nacional/abascal-pide-una-gran-mayoria-para-ser-presidente-gobierno-no-es-imposible-ganar-unas-elecciones_7052942_0.html",
+      "fecha": "2026-10-24T12:23+00:00",
+      "partidos": [
+        "vox"
+      ]
+    },
+    {
+      "titulo": "Pedro Sánchez cita a Federico García Lorca en Granada: \"Un cantar de mañana que estremezca a los remansos quietos del porvenir\"",
+      "medio": "El Confidencial",
+      "url": "https://www.elconfidencial.com/espana/andalucia/2026-10-24/pedro-sanchez-cita-federico-garcia-lorca-mitin-granada_4452232/",
+      "fecha": "2026-10-24T12:22+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "Feijóo advierte al PSOE de que no va a “indultar a los corruptos”: “Me encargaré de que paguen por todo”",
+      "medio": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/politica/20261024/11667203/feijoo-advierte-psoe-indultar-corruptos-me-encargare-paguen.html",
+      "fecha": "2026-10-24T12:11+00:00",
+      "partidos": [
+        "pp",
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "Abascal, en Palma: «No me presento para ser vicepresidente, sino para ganar las elecciones»",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/baleares/abascal-palma-presento-vicepresidente-ganar-elecciones-20261024135525-nt.html",
+      "fecha": "2026-10-24T12:09+00:00",
+      "partidos": [
+        "vox"
+      ]
+    },
+    {
+      "titulo": "De Rusowsky a La Plazuela: Pedro Sánchez vuelve a bailar en el acto de precampaña en Granada",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/andalucia/granada/rusowsky-plazuela-pedro-sanchez-vuelve-bailar-acto-20261024135844-nts.html",
+      "fecha": "2026-10-24T12:08+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "El PSOE presenta a sus candidatos por Canarias: \"Los canarios son los que se juegan más sus derechos este 29N\"",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/canariasahora/politica/psoe-candidatos-canarios-29n-seguiremos-aumentando-preservando-derechos_1_13612119.html",
+      "fecha": "2026-10-24T12:00+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "Rufián y Montero estrenan su tándem con reproches a un PSOE al que quieren “someter” y al Frente Amplio",
+      "medio": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/politica/elecciones/20261024/11667190/rufian-montero-estrenan-tandem-reproches-psoe-quieren-someter-frente-amplio.html",
+      "fecha": "2026-10-24T12:00+00:00",
+      "partidos": [
+        "psoe",
+        "sumar"
+      ]
+    },
+    {
+      "titulo": "Sánchez alinea a Feijóo y Abascal con Trump, Milei y Le Pen en “el club de los tijeretazos”",
+      "medio": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/politica/20261024/11667195/sanchez-alinea-feijoo-abascal-trump-milei-le-pen-club-tijeretazos.html",
+      "fecha": "2026-10-24T11:54+00:00",
+      "partidos": [
+        "pp",
+        "vox"
+      ]
+    },
+    {
+      "titulo": "Feijóo se hace fuerte en casa y carga contra la \"vergüenza\" de Zapatero: \"Me encargaré de que paguen por todo\"",
+      "medio": "El Confidencial",
+      "url": "https://www.elconfidencial.com/espana/2026-10-24/feijoo-verguenza-zapatero-paguen-por-todo_4452242/",
+      "fecha": "2026-10-24T11:48+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "Feijóo acusa a Sánchez de adelantar las elecciones por los casos de corrupción: \"Me encargaré de que paguen por todo\"",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/politica/feijoo-acusa-sanchez-adelantar-elecciones-casos-corrupcion-encargare-paguen_1_13612078.html",
+      "fecha": "2026-10-24T11:44+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "Junts critica la alianza de Rufián y Montero y se reivindica como el \"único partido que defiende los intereses de Cataluña\"",
+      "medio": "20minutos",
+      "url": "https://www.20minutos.es/nacional/junts-critica-alianza-rufian-montero-se-reivindica-como-unico-partido-que-defiende-los-intereses-cataluna_7052947_0.html",
+      "fecha": "2026-10-24T11:34+00:00",
+      "partidos": [
+        "junts"
+      ]
+    },
+    {
+      "titulo": "¿Cuáles son los partidos políticos que integran Frente Amplio?",
+      "medio": "20minutos",
+      "url": "https://www.20minutos.es/nacional/cuales-son-partidos-politicos-integran-frente-amplio_7052921_0.html",
+      "fecha": "2026-10-24T11:32+00:00",
+      "partidos": [
+        "sumar"
+      ]
+    },
+    {
+      "titulo": "Sánchez reivindica \"la España de Lorca\" frente a \"las tijeras\" de Feijóo y \"la motosierra\" de Abascal",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/politica/sanchez-reivindica-espana-lorca-frente-tijeras-feijoo-motosierra-abascal_1_13611964.html",
+      "fecha": "2026-10-24T11:22+00:00",
+      "partidos": [
+        "pp",
+        "vox"
+      ]
+    },
+    {
+      "titulo": "Rufián y Montero abren la campaña conjunta de ERC y Podemos: \"Feijóo quiere un país de mujeres esclavizadas\"",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/catalunya/rufian-montero-abren-campana-conjunta-erc-feijoo-quiere-pais-mujeres-esclavizadas_1_13611024.html",
+      "fecha": "2026-10-24T11:10+00:00",
+      "partidos": [
+        "pp",
+        "erc",
+        "podemos"
+      ]
+    },
+    {
+      "titulo": "Frente Amplio propone fijar la jubilación a los 65 años y garantizar pensiones iguales o superiores al salario mínimo",
+      "medio": "20minutos",
+      "url": "https://www.20minutos.es/nacional/frente-amplio-propone-fijar-jubilacion-los-65-anos-garantizar-pensiones-iguales-superiores-salario-minimo_7052938_0.html",
+      "fecha": "2026-10-24T11:03+00:00",
+      "partidos": [
+        "sumar"
+      ]
+    },
+    {
+      "titulo": "El PP censura que a Sánchez le abrieran el Reina Sofía para su vídeo antibelicista y que se \"apropie\" del Guernica",
+      "medio": "20minutos",
+      "url": "https://www.20minutos.es/nacional/pp-censura-que-sanchez-le-abrieran-reina-sofia-para-su-video-antibelicista-que-se-apropie-guernica_7052934_0.html",
+      "fecha": "2026-10-24T10:44+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
       "titulo": "Listas completas del PP de Córdoba al Congreso y el Senado en las elecciones del 29-N: Fuentes encabeza la Cámara Alta",
       "medio": "ABC",
       "url": "https://www.abc.es/espana/andalucia/cordoba/listas-completas-pp-cordoba-congreso-senado-elecciones-20261024104650-nts.html",
@@ -522,6 +727,26 @@
       "partidos": [
         "pp",
         "psoe"
+      ]
+    },
+    {
+      "titulo": "El PSOE espera miles de 'votos útiles' desde el Frente Amplio por el \"efecto arrastre\" del Senado al Congreso: \"El primer milagro es que la gente ve posible la victoria de verdad\"",
+      "medio": "El Mundo",
+      "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/10/24/6adb86fbe9cf4abc388b45a2.html",
+      "fecha": "2026-10-23T23:10+00:00",
+      "partidos": [
+        "psoe",
+        "sumar"
+      ]
+    },
+    {
+      "titulo": "El PSOE relega al Frente Amplio a las segundas posiciones en su histórica alianza para el Senado",
+      "medio": "El Mundo",
+      "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/10/24/6adbb04ae85ece223e8b45a7.html",
+      "fecha": "2026-10-23T23:10+00:00",
+      "partidos": [
+        "psoe",
+        "sumar"
       ]
     },
     {
@@ -3018,227 +3243,6 @@
       "fecha": "2026-10-21T04:12+00:00",
       "partidos": [
         "psoe"
-      ]
-    },
-    {
-      "titulo": "PP y Vox negocian para fraguar un acuerdo en las listas del Senado",
-      "medio": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/politica/20261021/11663984/pp-vox-negocian-fraguar-acuerdo-listas-senado.html",
-      "fecha": "2026-10-21T04:00+00:00",
-      "partidos": [
-        "pp",
-        "vox"
-      ]
-    },
-    {
-      "titulo": "¿La derecha ganará el Senado? Las encuestas dicen que es clave la retirada de Vox",
-      "medio": "El País",
-      "url": "https://elpais.com/espana/elecciones-generales/2026-10-21/la-derecha-ganara-el-senado-las-encuestas-dicen-que-es-clave-la-retirada-de-vox.html",
-      "fecha": "2026-10-21T03:30+00:00",
-      "partidos": [
-        "vox"
-      ]
-    },
-    {
-      "titulo": "El PP duda si volver en campaña a la icónica Plaza de Toros de Valencia por el clima y el esfuerzo interno",
-      "medio": "El Confidencial",
-      "url": "https://www.elconfidencial.com/espana/comunidad-valenciana/2026-10-21/pp-duda-plaza-de-toros-valencia-clima-esfuerzo-feijoo_4449047/",
-      "fecha": "2026-10-21T03:00+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Frente Amplio y Podemos, ante el reto de evitar el 'fuego amigo' durante la campaña del 29-N",
-      "medio": "20minutos",
-      "url": "https://www.20minutos.es/nacional/frente-amplio-podemos-ante-reto-evitar-fuego-amigo-durante-campana-29-n-este-conflicto-es-muy-cansino_7051153_0.html",
-      "fecha": "2026-10-21T03:00+00:00",
-      "partidos": [
-        "sumar",
-        "podemos"
-      ]
-    },
-    {
-      "titulo": "El foro vinculado a las 'cloacas' del PSOE vigiló a otra juez con cámaras y drones",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/foro-vinculado-cloacas-psoe-vigilo-juez-camaras-20261021012209-nt.html",
-      "fecha": "2026-10-21T00:30+00:00",
-      "partidos": [
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "Milei en España con Ayuso y sin Abascal por primera vez en siete visitas",
-      "medio": "El Mundo",
-      "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/10/21/6ad7bf37e4d4d8275a8b4594.html",
-      "fecha": "2026-10-20T23:27+00:00",
-      "partidos": [
-        "vox"
-      ]
-    },
-    {
-      "titulo": "Los Mossos negocian con Puigdemont su retorno",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/cataluna/mossos-negocian-puigdemont-retorno-20261021012513-nt.html",
-      "fecha": "2026-10-20T23:25+00:00",
-      "partidos": [
-        "junts"
-      ]
-    },
-    {
-      "titulo": "El PP hace visible su alianza con Vox para gobernar en España",
-      "medio": "elDiario.es",
-      "url": "https://www.eldiario.es/politica/pp-visible-alianza-vox-gobernar-espana_1_13601319.html",
-      "fecha": "2026-10-20T19:36+00:00",
-      "partidos": [
-        "pp",
-        "vox"
-      ]
-    },
-    {
-      "titulo": "El PP vuelve a enredarse con el catalán: de rectificar el pacto por la lengua de Albiol a cuestionar la inmersión",
-      "medio": "elDiario.es",
-      "url": "https://www.eldiario.es/catalunya/pp-vuelve-enredarse-catalan-rectificar-pacto-lengua-albiol-cuestionar-inmersion_1_13599663.html",
-      "fecha": "2026-10-20T19:36+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "🎙 PODCAST | ¿Y la unión de las derechas? Las matemáticas de Feijóo para el 29N",
-      "medio": "elDiario.es",
-      "url": "https://www.eldiario.es/un-tema-al-dia/podcast_132_13600976.html",
-      "fecha": "2026-10-20T19:36+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Abascal el Bueno defiende ahora el fortín del Senado",
-      "medio": "elDiario.es",
-      "url": "https://www.eldiario.es/opinion/zona-critica/abascal-bueno-defiende-ahora-fortin-senado_129_13600067.html",
-      "fecha": "2026-10-20T19:36+00:00",
-      "partidos": [
-        "vox"
-      ]
-    },
-    {
-      "titulo": "Ferraz solventa las listas electorales sin apenas contestación interna y con el único choque orgánico de Palencia",
-      "medio": "elDiario.es",
-      "url": "https://www.eldiario.es/politica/ferraz-solventa-listas-electorales-apenas-contestacion-interna-unico-choque-organico-palencia_1_13601123.html",
-      "fecha": "2026-10-20T19:36+00:00",
-      "partidos": [
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "Para Frente Amplio, el de PP y Vox",
-      "medio": "elDiario.es",
-      "url": "https://www.eldiario.es/opinion/zona-critica/frente-amplio-pp-vox_129_13600972.html",
-      "fecha": "2026-10-20T19:36+00:00",
-      "partidos": [
-        "pp",
-        "vox",
-        "sumar"
-      ]
-    },
-    {
-      "titulo": "Abren juicio oral a la antigua cúpula de El Correo Gallego por alzamiento de bienes mientras cobraba de la Xunta de Feijóo",
-      "medio": "elDiario.es",
-      "url": "https://www.eldiario.es/galicia/abren-juicio-oral-antigua-cupula-correo-gallego-alzamiento-bienes-cobraba-xunta-feijoo_1_13596823.html",
-      "fecha": "2026-10-20T19:36+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Milei aterriza en España y prevé verse con Ayuso y dirigentes de Vox",
-      "medio": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/politica/20261020/11663986/milei-aterriza-espana-preve-verse-ayuso-dirigentes-vox.html",
-      "fecha": "2026-10-20T19:15+00:00",
-      "partidos": [
-        "vox"
-      ]
-    },
-    {
-      "titulo": "Abascal llama desde Ponferrada a la movilización: «No os creáis ninguna encuesta»",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/castilla-leon/abascal-llama-ponferrada-movilizacion-creais-ninguna-encuesta-20261020211135-nt.html",
-      "fecha": "2026-10-20T19:11+00:00",
-      "partidos": [
-        "vox"
-      ]
-    },
-    {
-      "titulo": "Abascal acusa a Sánchez de pretender «sustituir» el 29-N a «un pueblo al que odia dando el voto a personas que nunca han vivido en España»",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/castilla-leon/abascal-acusa-sanchez-pretender-sustituir-29n-pueblo-20261020204446-nt.html",
-      "fecha": "2026-10-20T18:59+00:00",
-      "partidos": [
-        "vox"
-      ]
-    },
-    {
-      "titulo": "Francisco Navarro encabezará la lista del PP al Congreso por Albacete",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/castilla-la-mancha/francisco-navarro-encabezara-lista-pp-congreso-albacete-20261020203413-nt.html",
-      "fecha": "2026-10-20T18:48+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "El PSOE retoma la vivienda tras el shock del 'caso Mínguez' y promete medidas e inversión",
-      "medio": "El Mundo",
-      "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/10/20/6ad7a5e921efa0e9778b458e.html",
-      "fecha": "2026-10-20T18:20+00:00",
-      "partidos": [
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "El Frente Amplio pacifica la lista de Madrid y encaja a sus socios: IU tendrá el número tres tras la renuncia de Mónica García",
-      "medio": "El Mundo",
-      "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/10/20/6ad7a489e9cf4a91208b457e.html",
-      "fecha": "2026-10-20T17:30+00:00",
-      "partidos": [
-        "sumar"
-      ]
-    },
-    {
-      "titulo": "Abascal recupera la gesta de Talavera de 1809 para iniciar «la gran batalla» del 29-N",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/abascal-recupera-gesta-talavera-1809-iniciar-gran-20261020185117-nt.html",
-      "fecha": "2026-10-20T17:21+00:00",
-      "partidos": [
-        "vox"
-      ]
-    },
-    {
-      "titulo": "Sigue en directo la intervención de Abascal en el acto de Vox en Ponferrada",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/sigue-directo-intervencion-abascal-acto-vox-ponferrada-20261020191549-nt.html",
-      "fecha": "2026-10-20T17:15+00:00",
-      "partidos": [
-        "vox"
-      ]
-    },
-    {
-      "titulo": "Dimiten dos subdelegados del Gobierno para ir en las listas del PSOE al Congreso",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/galicia/dimiten-dos-subdelegados-gobierno-listas-psoe-congreso-20261020182820-nt.html",
-      "fecha": "2026-10-20T16:28+00:00",
-      "partidos": [
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "El BNG se abraza a la CIG y confirma el carácter político de la huelga del 11-N",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/galicia/bng-abraza-cig-confirma-caracter-politico-huelga-20261020182656-nt.html",
-      "fecha": "2026-10-20T16:26+00:00",
-      "partidos": [
-        "bng"
       ]
     }
   ],
