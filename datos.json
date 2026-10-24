@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-24T13:29+00:00",
+  "actualizado": "2026-10-24T17:24+00:00",
   "temas": [
     {
       "id": "vivienda",
@@ -449,10 +449,84 @@
   ],
   "noticias": [
     {
+      "titulo": "Santiago Abascal interviene en un acto de Vox en Ibiza",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/santiago-abascal-interviene-acto-vox-ibiza-20261024190645-nt.html",
+      "fecha": "2026-10-24T17:08+00:00",
+      "partidos": [
+        "vox"
+      ]
+    },
+    {
+      "titulo": "Feijóo elige a Alma Ezcurra como cuatro por Madrid al Congreso y la vicealcadesa madrileña será la dos al Senado",
+      "medio": "Europa Press",
+      "url": "https://www.europapress.es/nacional/noticia-feijoo-elige-alma-ezcurra-cuatro-madrid-congreso-vicealcadesa-madrilena-sera-dos-senado-20261024182607.html",
+      "fecha": "2026-10-24T16:26+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "El PP llama a la «reconquista y reconstrucción» de España desde Valladolid: «Estas elecciones serán un renacer»",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/castilla-leon/pp-llama-reconquista-reconstruccion-espana-valladolid-elecciones-20261024174649-nt.html",
+      "fecha": "2026-10-24T16:05+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "Sílvia Orriols no ve contradicción en votar a Aliança en Catalunya y Vox en las generales",
+      "medio": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/politica/20261024/11667229/silvia-orriols-ve-contradiccion-votar-alianca-catalunya-vox-generales.html",
+      "fecha": "2026-10-24T14:51+00:00",
+      "partidos": [
+        "vox"
+      ]
+    },
+    {
+      "titulo": "Nogueras afirma que Junts es el “único partido de obediencia catalana” el 29-N por la alianza ERC-Podemos",
+      "medio": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/politica/elecciones/20261024/11667231/nogueras-afirma-junts-unico-partido-obediencia-catalana-29-n-alianza-erc.html",
+      "fecha": "2026-10-24T14:43+00:00",
+      "partidos": [
+        "erc",
+        "junts",
+        "podemos"
+      ]
+    },
+    {
+      "titulo": "Rufián e Montero llaman a \"someter al PSOE\" y presumen de alianza usurpando el nombre a los de Colau: \"El Frente somos nosotros\"",
+      "medio": "20minutos",
+      "url": "https://www.20minutos.es/nacional/rufian-montero-llaman-someter-psoe-presumen-alianza-usurpando-nombre-los-colau-frente-somos-nosotros_7052967_0.html",
+      "fecha": "2026-10-24T13:56+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "Las cargas policiales para disolver la manifestación contra Abascal en Maó se salda con una hospitalizada",
+      "medio": "El Confidencial",
+      "url": "https://www.elconfidencial.com/espana/2026-10-24/cargas-policiales-protesta-vox-mujer-herida-1tna-1tps_4452290/",
+      "fecha": "2026-10-24T13:34+00:00",
+      "partidos": [
+        "vox"
+      ]
+    },
+    {
       "titulo": "Núñez reivindica la figura de Feijóo para recuperar el crecimiento y la decencia en España",
       "medio": "ABC",
       "url": "https://www.abc.es/espana/castilla-la-mancha/nunez-reivindica-figura-feijoo-recuperar-crecimiento-decencia-20261024150905-nt.html",
       "fecha": "2026-10-24T13:23+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "Feijóo promete una rebaja fiscal a jóvenes, familias y autónomos mientras critica a quien \"agita la calle\": \"¿Queremos lo de Francia?\"",
+      "medio": "20minutos",
+      "url": "https://www.20minutos.es/nacional/feijoo-promete-rebaja-fiscal-jovenes-familias-autonomos-critica-quien-agita-calle-queremos-francia_7052963_0.html",
+      "fecha": "2026-10-24T13:16+00:00",
       "partidos": [
         "pp"
       ]
@@ -464,6 +538,15 @@
       "fecha": "2026-10-24T13:04+00:00",
       "partidos": [
         "pp"
+      ]
+    },
+    {
+      "titulo": "Abascal en Mallorca: \"No me presento para ser vicepresidente, me presento para ser presidente\"",
+      "medio": "El Mundo",
+      "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/10/24/6adca78fe85eceb6048b45b2.html",
+      "fecha": "2026-10-24T12:51+00:00",
+      "partidos": [
+        "vox"
       ]
     },
     {
@@ -3158,89 +3241,6 @@
       "medio": "elDiario.es",
       "url": "https://www.eldiario.es/politica/psoe-campana-visita-milei-espana-zurdos-dan-bienvenida_1_13602102.html",
       "fecha": "2026-10-21T08:17+00:00",
-      "partidos": [
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "Albiol pide a Junts sus aportaciones a la ley antiocupación: “Seguro que tiene buenas ideas”",
-      "medio": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/politica/20261021/11664329/albiol-pide-junts-aportaciones-ley-antiocupacion-seguro-buenas-ideas.html",
-      "fecha": "2026-10-21T07:51+00:00",
-      "partidos": [
-        "junts"
-      ]
-    },
-    {
-      "titulo": "Albares acusa al PP de \"acosar\" a Exteriores por la 'ley de nietos' y asegura que cumple el auto del Supremo \"con toda la diligencia\"",
-      "medio": "20minutos",
-      "url": "https://www.20minutos.es/nacional/albares-exige-pp-que-deje-acosar-exteriores-por-ley-nietos-asegura-que-cumple-auto-supremo-con-diligencia_7051374_0.html",
-      "fecha": "2026-10-21T07:39+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Sánchez da la bienvenida a Milei con una lona en Ferraz y un vídeo: “Orgullosos de ser zurdos”",
-      "medio": "El País",
-      "url": "https://elpais.com/espana/elecciones-generales/2026-10-21/sanchez-da-la-bienvenida-a-milei-con-una-lona-en-ferraz-y-un-video-orgullosos-de-ser-zurdos.html",
-      "fecha": "2026-10-21T07:34+00:00",
-      "partidos": [
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "Sánchez y PSOE dan la \"bienvenida\" a la visita de Milei con una lona en Ferraz reivindicando su orgullo por ser \"zurdos\"",
-      "medio": "Europa Press",
-      "url": "https://www.europapress.es/nacional/noticia-sanchez-psoe-dan-bienvenida-visita-milei-lona-ferraz-reivindicando-orgullo-ser-zurdos-20261021085458.html",
-      "fecha": "2026-10-21T06:54+00:00",
-      "partidos": [
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "El PSOE recibe a Milei con una pancarta en Ferraz: \"Zurdos y orgullosos\"",
-      "medio": "El Confidencial",
-      "url": "https://www.elconfidencial.com/espana/2026-10-21/psoe-recibe-milei-pancarta-ferraz-zurdos-y-orgullosos_4449536/",
-      "fecha": "2026-10-21T06:52+00:00",
-      "partidos": [
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "El PSOE recibe a Milei con una irónica lona en Ferraz: \"Los zurdos y las zurdas te dan la bienvenida a España\"",
-      "medio": "20minutos",
-      "url": "https://www.20minutos.es/nacional/psoe-da-bienvenida-milei-con-una-lona-ferraz-los-zurdos-las-zurdas-te-dan-bienvenida-espana_7051346_0.html",
-      "fecha": "2026-10-21T06:41+00:00",
-      "partidos": [
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "Encuestas elecciones generales 29N: resultados de PSOE, PP, VOX y Frente Amplio y ganador según los sondeos",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/encuestas-elecciones-generales-29n-resultados-psoe-pp-20261021051500-nt.html",
-      "fecha": "2026-10-21T05:01+00:00",
-      "partidos": [
-        "pp",
-        "psoe",
-        "sumar"
-      ]
-    },
-    {
-      "titulo": "Albiol, a la conquista de dos escaños claves para el PP en Cataluña que acerquen a Feijóo a la Moncloa",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/cataluna/albiol-conquista-dos-escanos-catalanes-pp-acerquen-20261020012501-nt.html",
-      "fecha": "2026-10-21T04:19+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "El PSOE aparta de sus listas electorales a los cuatro diputados con más viviendas",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/psoe-desahucia-listas-29n-grandes-tenedores-vivienda-20261020012454-nt.html",
-      "fecha": "2026-10-21T04:12+00:00",
       "partidos": [
         "psoe"
       ]
