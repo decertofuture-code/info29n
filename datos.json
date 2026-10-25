@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-25T13:30+00:00",
+  "actualizado": "2026-10-25T17:24+00:00",
   "temas": [
     {
       "id": "vivienda",
@@ -449,6 +449,115 @@
   ],
   "noticias": [
     {
+      "titulo": "Mañueco: «En cada rincón de Castilla y León alguien del PP va a defender a Feijóo y el programa de partido»",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/castilla-leon/manueco-rincon-castilla-leon-alguien-pp-defender-20261025154759-nt.html",
+      "fecha": "2026-10-25T17:15+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "Dimite el delegado del Gobierno en Madrid tras quedar fuera de las listas del PSOE para el 29-N",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/madrid/dimite-delegado-gobierno-madrid-tras-quedar-listas-20261025180625-nt.html",
+      "fecha": "2026-10-25T17:15+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "El delegado del Gobierno en Madrid dimite tras la acampada de Sol y no ser incluido en las listas electorales del PSOE: \"Nos han puesto palos en las ruedas\"",
+      "medio": "El Mundo",
+      "url": "https://www.elmundo.es/espana/2026/10/25/6ade316ce4d4d8a4698b458d.html",
+      "fecha": "2026-10-25T17:10+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "Dimite el delegado del Gobierno en Madrid, Francisco Martín, tras quedar fuera de las listas del PSOE para el 29-N",
+      "medio": "20minutos",
+      "url": "https://www.20minutos.es/nacional/dimite-delegado-gobierno-madrid-francisco-martin_7053165_0.html",
+      "fecha": "2026-10-25T16:52+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "Dimite el delegado del Gobierno en Madrid tras quedarse fuera de las listas del PSOE para las elecciones",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/madrid/dimite-delegado-gobierno-madrid-quedarse-fuera-listas-psoe-elecciones_1_13613892.html",
+      "fecha": "2026-10-25T16:48+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "El delegado del Gobierno en Madrid dimite tras quedarse fuera de las listas del PSOE para el 29-N",
+      "medio": "El País",
+      "url": "https://elpais.com/espana/madrid/2026-10-25/el-delegado-del-gobierno-en-madrid-dimite-tras-quedarse-fuera-de-las-listas-del-psoe-del-29-n.html",
+      "fecha": "2026-10-25T16:30+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "El PSOE denuncia la «debilidad» de Núñez para mantener los equilibrios de poder en el PP",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/castilla-la-mancha/psoe-denuncia-debilidad-nunez-mantener-equilibrios-poder-20261025171134-nt.html",
+      "fecha": "2026-10-25T16:12+00:00",
+      "partidos": [
+        "pp",
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "Toda la izquierda valenciana, incluido el PSOE, se suma a l'Aplec del Puig: “Hay esperanza”",
+      "medio": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/local/valencia/20261025/11667701/toda-izquierda-valenciana-incluido-psoe-suma-l-aplec-puig-hay-esperanza.html",
+      "fecha": "2026-10-25T15:50+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "El PP tira de gestión en sus listas a costa de excepciones en su estatuto",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/andalucia/pp-tira-gestion-listas-costa-excepciones-estatuto-20261025151408-nts.html",
+      "fecha": "2026-10-25T15:36+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "La Generalitat consuma el cese de la consellera Albalat para encabezar la lista del PP por Castellón el 29N",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/comunidad-valenciana/generalitat-consuma-cese-consellera-albalat-encabezar-lista-20261025162343-nt.html",
+      "fecha": "2026-10-25T15:23+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "Colau arremete contra el PSOE: les acusa de no reducir la desigualdad y pide llenar las calles frente a políticos con \"piquito de oro\"",
+      "medio": "20minutos",
+      "url": "https://www.20minutos.es/nacional/colau-arremete-contra-psoe-les-acusa-no-reducir-desigualdad-pide-llenar-las-calles-frente-politicos-con-piquito-oro_7053123_0.html",
+      "fecha": "2026-10-25T13:53+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "Frente Amplio carga contra los políticos de izquierda con \"piquito de oro\" y que \"no ponen el cuerpo\" para defender los derechos",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/politica/frene-amplio-carga-politicos-izquierda-piquito-oro-no-ponen-cuerpo-defender-derechos_1_13613685.html",
+      "fecha": "2026-10-25T13:29+00:00",
+      "partidos": [
+        "sumar"
+      ]
+    },
+    {
       "titulo": "Feijóo culpa a Sánchez y \"los discípulos del muro\" de los disturbios en Barcelona: \"Como han perdido la calle quieren incendiarla\"",
       "medio": "20minutos",
       "url": "https://www.20minutos.es/nacional/feijoo-culpa-sanchez-los-discipulos-muro-los-disturbios-barcelona-como-han-perdido-calle-quieren-incendiarla_7053113_0.html",
@@ -462,6 +571,15 @@
       "medio": "ABC",
       "url": "https://www.abc.es/espana/castilla-leon/feijoo-relaciona-sanchez-disturbios-barcelona-resistiendo-abandonar-20261025140032-nt.html",
       "fecha": "2026-10-25T13:00+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "Feijóo acusa a Sánchez de \"querer ver crecer el fuego\" tras los disturbios en Barcelona: \"Los discípulos del muro no quieren paz en las calles\"",
+      "medio": "El Mundo",
+      "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/10/25/6addd6ede9cf4ad77b8b4571.html",
+      "fecha": "2026-10-25T12:54+00:00",
       "partidos": [
         "pp"
       ]
@@ -736,6 +854,15 @@
       "fecha": "2026-10-24T20:25+00:00",
       "partidos": [
         "pp"
+      ]
+    },
+    {
+      "titulo": "\"Estar dispuesta a un proceso de repatriación, deportaciones y remigración\": la condición de Abascal para una \"alternativa\"",
+      "medio": "El Mundo",
+      "url": "https://www.elmundo.es/elecciones/2026/10/24/6adcff54e9cf4a2e028b45ae.html",
+      "fecha": "2026-10-24T19:09+00:00",
+      "partidos": [
+        "vox"
       ]
     },
     {
@@ -3114,134 +3241,6 @@
       "medio": "elDiario.es",
       "url": "https://www.eldiario.es/castilla-y-leon/politica/ferraz-ignora-crisis-psoe-palencia-completa-listas-congreso-renuncia-candidatos-militancia_1_13604496.html",
       "fecha": "2026-10-21T17:33+00:00",
-      "partidos": [
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "Abascal y Milei se reúnen virtualmente para conjurarse contra Sánchez ante el 29-N",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/abascal-milei-reunen-virtualmente-conjurarse-sanchez-ante-20261021185150-nt.html",
-      "fecha": "2026-10-21T17:22+00:00",
-      "partidos": [
-        "vox"
-      ]
-    },
-    {
-      "titulo": "La unión de PSOE y Frente Amplio para el Senado toma forma: el alcalde de Zuheros renuncia al número dos de la lista socialista",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/andalucia/cordoba/union-psoe-frente-amplio-senado-toma-forma-20261021191459-nts.html",
-      "fecha": "2026-10-21T17:21+00:00",
-      "partidos": [
-        "psoe",
-        "sumar"
-      ]
-    },
-    {
-      "titulo": "La Policía impide el boicot de radicales a un acto de Abascal en La Coruña",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/galicia/policia-impide-boicot-radicales-acto-abascal-coruna-20261021173848-nt.html",
-      "fecha": "2026-10-21T17:19+00:00",
-      "partidos": [
-        "vox"
-      ]
-    },
-    {
-      "titulo": "La consejera de Educación encabezará la lista del PP al Congreso por Valladolid y el alcalde la del Senado",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/castilla-leon/consejera-educacion-encabezara-lista-pp-congreso-valladolid-20261021114013-nt.html",
-      "fecha": "2026-10-21T17:17+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Sánchez reacciona a lo que ha dicho Feijóo de la pizza y la okupación recuperando este mensaje que publicó en 2010",
-      "medio": "elDiario.es",
-      "url": "https://www.eldiario.es/rastreador/sanchez-reacciona-dicho-feijoo-pizza-okupacion-recuperando-mensaje-publico-2010_132_13604447.html",
-      "fecha": "2026-10-21T17:11+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "El PP acusa a Exteriores en su burofax de \"desobediencia efectiva\" de lo ordenado por el Supremo con la 'ley de nietos'",
-      "medio": "Europa Press",
-      "url": "https://www.europapress.es/nacional/noticia-pp-acusa-exteriores-burofax-desobediencia-efectiva-ordenado-supremo-ley-nietos-20261021191049.html",
-      "fecha": "2026-10-21T17:10+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Sigue en directo la intervención de Abascal en el acto de Vox en Avilés",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/sigue-directo-intervencion-abascal-acto-vox-aviles-20261021190414-nt.html",
-      "fecha": "2026-10-21T17:04+00:00",
-      "partidos": [
-        "vox"
-      ]
-    },
-    {
-      "titulo": "Ferraz elige para acompañar a Seijoo en la lista del PSOE de Palencia a un 'rival' de Miriam Andrés",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/castilla-leon/agustin-martinez-rut-perez-completan-lista-psoe-20261021163051-nt.html",
-      "fecha": "2026-10-21T16:55+00:00",
-      "partidos": [
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "CHA y el Frente Amplio renuncian a presentarse al Congreso por Teruel para “evitar la dispersión del voto”",
-      "medio": "elDiario.es",
-      "url": "https://www.eldiario.es/aragon/politica/cha-frente-amplio-renuncian-presentarse-congreso-teruel-evitar-dispersion-voto_1_13604566.html",
-      "fecha": "2026-10-21T16:54+00:00",
-      "partidos": [
-        "sumar"
-      ]
-    },
-    {
-      "titulo": "Vox sorprende en Baleares al situar a Maribel Cerezo como cabeza de lista al Congreso",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/baleares/vox-sorprende-baleares-situar-maribel-cerezo-cabeza-20261021185428-nt.html",
-      "fecha": "2026-10-21T16:54+00:00",
-      "partidos": [
-        "vox"
-      ]
-    },
-    {
-      "titulo": "Javier Milei se reúne con Ayuso y bromea por videollamada con Abascal",
-      "medio": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/politica/20261021/11664837/milei-reune-ayuso-hae-videollamada-tono-jocoso-abascal.html",
-      "fecha": "2026-10-21T16:54+00:00",
-      "partidos": [
-        "vox"
-      ]
-    },
-    {
-      "titulo": "Santalices y la conselleira Fabiola García se suman a las listas del PP del 29-N",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/galicia/santalices-conselleira-fabiola-garcia-suman-listas-dle-20261021170948-nt.html",
-      "fecha": "2026-10-21T16:53+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Fúnez no descarta un pacto del PP con Vox para evitar que «el sanchismo» controle el Senado",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/castilla-la-mancha/funez-descarta-pacto-pp-vox-evitar-sanchismo-20261021184353-nt.html",
-      "fecha": "2026-10-21T16:43+00:00",
-      "partidos": [
-        "pp",
-        "vox"
-      ]
-    },
-    {
-      "titulo": "Sigue en directo la intervención de Pedro Sánchez en el acto del PSOE en Burgos",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/sigue-directo-intervencion-pedro-sanchez-acto-psoe-20261021184109-nt.html",
-      "fecha": "2026-10-21T16:41+00:00",
       "partidos": [
         "psoe"
       ]
