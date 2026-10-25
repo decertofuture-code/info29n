@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-25T17:24+00:00",
+  "actualizado": "2026-10-25T21:23+00:00",
   "temas": [
     {
       "id": "vivienda",
@@ -449,6 +449,79 @@
   ],
   "noticias": [
     {
+      "titulo": "Susana Camarero encabeza la lista del PP al Senado por Valencia para el 29N",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/comunidad-valenciana/susana-camarero-encabeza-lista-pp-senado-valencia-20261025214450-nt.html",
+      "fecha": "2026-10-25T21:08+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "El PP designa a Camarero como número 1 al Senado por Valencia y obliga a Pérez Llorca a remodelar el Consell",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/comunitat-valenciana/pp-designa-camarero-numero-1-senado-valencia-tendra-gobierno-valenciano_1_13614101.html",
+      "fecha": "2026-10-25T19:50+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "Las protestas en Barcelona tensan la precampaña: el PSC dice que irá hasta el final y Feijóo responsabiliza al Gobierno",
+      "medio": "20minutos",
+      "url": "https://www.20minutos.es/nacional/las-protestas-barcelona-tensan-precampana-psc-dice-que-ira-hasta-final-feijoo-responsabiliza-gobierno_7053161_0.html",
+      "fecha": "2026-10-25T19:15+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "Frente Amplio afronta este lunes el cierre de listas al 29N con varias plazas electorales aún sin candidatos designados",
+      "medio": "Europa Press",
+      "url": "https://www.europapress.es/nacional/noticia-frente-amplio-afronta-lunes-cierre-listas-29n-varias-plazas-electorales-aun-candidatos-designados-20261025201442.html",
+      "fecha": "2026-10-25T19:14+00:00",
+      "partidos": [
+        "sumar"
+      ]
+    },
+    {
+      "titulo": "Vox pide altura de miras al PP y confía en que tenga \"un gesto\" para cerrar listas",
+      "medio": "20minutos",
+      "url": "https://www.20minutos.es/nacional/vox-pide-altura-miras-pp-confia-que-tenga-un-gesto-para-cerrar-listas_7053192_0.html",
+      "fecha": "2026-10-25T19:03+00:00",
+      "partidos": [
+        "pp",
+        "vox"
+      ]
+    },
+    {
+      "titulo": "El PP premia a alcaldes de la dana con puestos de salida en las listas del 29N",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/comunidad-valenciana/pp-premia-alcaldes-dana-puestos-salida-listas-20261025194044-nt.html",
+      "fecha": "2026-10-25T18:56+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "Feijóo celebra el regreso de María Corina Machado a Venezuela y pide \"elecciones libres\" para que \"el pueblo\" decida",
+      "medio": "20minutos",
+      "url": "https://www.20minutos.es/nacional/feijoo-celebra-regreso-maria-corina-machado-venezuela-pide-elecciones-libres-para-que-pueblo-decida_7053182_0.html",
+      "fecha": "2026-10-25T18:14+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "El PP incluye a sus alcaldes de la dana de Utiel y Algemessí en sus listas al Congreso, dos de los municipios más afectados",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/comunitat-valenciana/pp-incluye-alcaldes-dana-utiel-algemessi-listas-congreso-municipios-afectados_1_13613936.html",
+      "fecha": "2026-10-25T17:58+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
       "titulo": "Mañueco: «En cada rincón de Castilla y León alguien del PP va a defender a Feijóo y el programa de partido»",
       "medio": "ABC",
       "url": "https://www.abc.es/espana/castilla-leon/manueco-rincon-castilla-leon-alguien-pp-defender-20261025154759-nt.html",
@@ -471,6 +544,24 @@
       "medio": "El Mundo",
       "url": "https://www.elmundo.es/espana/2026/10/25/6ade316ce4d4d8a4698b458d.html",
       "fecha": "2026-10-25T17:10+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "Dos alcaldes de la dana, en los puestos 2 y 6 de la lista del PP al Congreso por Valencia",
+      "medio": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/local/valencia/20261025/11667726/dos-alcaldes-dana-puestos-2-6-lista-pp-congreso-valencia.html",
+      "fecha": "2026-10-25T17:08+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "Francisco Martín dimite como delegado del Gobierno tras quedar fuera de las listas del PSOE y en plena acampada en Sol",
+      "medio": "Europa Press",
+      "url": "https://www.europapress.es/madrid/noticia-francisco-martin-dimite-delegado-gobierno-madrid-20261025175742.html",
+      "fecha": "2026-10-25T16:57+00:00",
       "partidos": [
         "psoe"
       ]
@@ -816,6 +907,16 @@
       "fecha": "2026-10-24T22:04+00:00",
       "partidos": [
         "pp"
+      ]
+    },
+    {
+      "titulo": "Cayetana Álvarez de Toledo: \"Sánchez quiere división, que suba Vox para que pierda el PP\"",
+      "medio": "El Mundo",
+      "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/10/24/6adcd6d0e9cf4a2e028b45a4.html",
+      "fecha": "2026-10-24T20:52+00:00",
+      "partidos": [
+        "pp",
+        "vox"
       ]
     },
     {
@@ -3137,112 +3238,6 @@
       "partidos": [
         "pp",
         "vox"
-      ]
-    },
-    {
-      "titulo": "Feijóo miente: por qué un okupa no puede quedarse en tu casa presentando un ticket de pizza",
-      "medio": "elDiario.es",
-      "url": "https://www.eldiario.es/economia/feijoo-miente-okupa-no-quedarse-casa-presentando-ticket-pizza_1_13604720.html",
-      "fecha": "2026-10-21T19:01+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Sánchez exprime la visita de Milei para alertar contra PP y Vox: \"No proponen alternancia, es una involución\"",
-      "medio": "20minutos",
-      "url": "https://www.20minutos.es/nacional/sanchez-exprime-visita-milei-para-alertar-contra-pp-vox-no-proponen-alternancia-es-una-involucion_7051777_0.html",
-      "fecha": "2026-10-21T18:56+00:00",
-      "partidos": [
-        "pp",
-        "vox"
-      ]
-    },
-    {
-      "titulo": "La videollamada entre Milei y Abascal tras los insultos del argentino a Sánchez: \"No hay nada más divertido que patear culos zurdos\"",
-      "medio": "20minutos",
-      "url": "https://www.20minutos.es/nacional/videollamada-entre-milei-abascal-tras-los-insultos-argentino-sanchez-no-hay-nada-mas-divertido-que-patear-culos-zurdos_7051767_0.html",
-      "fecha": "2026-10-21T18:52+00:00",
-      "partidos": [
-        "vox"
-      ]
-    },
-    {
-      "titulo": "Lluís Puig ya pasea por las calles de Terrassa arropado por la plana mayor de Junts",
-      "medio": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/politica/20261021/11664885/lluis-puig-pasea-calles-terrassa-arropado-plana-mayor-junts.html",
-      "fecha": "2026-10-21T18:24+00:00",
-      "partidos": [
-        "junts"
-      ]
-    },
-    {
-      "titulo": "Pedro Sánchez presume de orgullo de \"zurdo\" y responde a Milei: \"Él, Feijóo y Abascal son lo mismo: motosierra\"",
-      "medio": "El Confidencial",
-      "url": "https://www.elconfidencial.com/espana/2026-10-21/sanchez-orgullo-zurdo-milei-feijoo-abascal-son-lo-mismo-motosierra_4450235/",
-      "fecha": "2026-10-21T18:16+00:00",
-      "partidos": [
-        "pp",
-        "psoe",
-        "vox"
-      ]
-    },
-    {
-      "titulo": "Sánchez advierte de que si Feijóo y Abascal ganan las elecciones harán lo mismo que Milei en Argentina",
-      "medio": "Europa Press",
-      "url": "https://www.europapress.es/nacional/noticia-sanchez-advierte-si-gobiernan-feijoo-abascal-haran-mismo-milei-argentina-20261021201653.html",
-      "fecha": "2026-10-21T18:16+00:00",
-      "partidos": [
-        "pp",
-        "vox"
-      ]
-    },
-    {
-      "titulo": "PSOE y Adelante amenazan al Parlamento andaluz con ir al Constitucional si avala la reforma que da a PP y Vox el control de la Cámara de Cuentas",
-      "medio": "elDiario.es",
-      "url": "https://www.eldiario.es/andalucia/psoe-adelante-amenazan-parlamento-andaluz-constitucional-si-avala-reforma-da-pp-vox-control-camara-cuentas_1_13602387.html",
-      "fecha": "2026-10-21T18:03+00:00",
-      "partidos": [
-        "pp",
-        "psoe",
-        "vox"
-      ]
-    },
-    {
-      "titulo": "Vox presenta sus candidatos por las tres provincias y Chunta desiste de Teruel",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/aragon/vox-presenta-candidatos-tres-provincias-chunta-desiste-20261021192701-nt.html",
-      "fecha": "2026-10-21T17:53+00:00",
-      "partidos": [
-        "vox"
-      ]
-    },
-    {
-      "titulo": "Illa acusa a PP y Vox de crear un “enfrentamiento intergeneracional” con las pensiones",
-      "medio": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/politica/20261021/11664868/illa-acusa-pp-vox-crear-enfrentamiento-intergeneracional-pensiones.html",
-      "fecha": "2026-10-21T17:45+00:00",
-      "partidos": [
-        "pp",
-        "vox"
-      ]
-    },
-    {
-      "titulo": "CHA y Frente Amplio renuncian a concurrir al Congreso por Teruel para evitar la dispersión del voto progresista el 29-N",
-      "medio": "El Confidencial",
-      "url": "https://www.elconfidencial.com/espana/2026-10-21/chunta-frente-amplio-congreso-teruel-voto_4450226/",
-      "fecha": "2026-10-21T17:44+00:00",
-      "partidos": [
-        "sumar"
-      ]
-    },
-    {
-      "titulo": "Ferraz ignora la crisis con el PSOE de Palencia y completa las listas al Congreso tras la renuncia de los candidatos de la militancia",
-      "medio": "elDiario.es",
-      "url": "https://www.eldiario.es/castilla-y-leon/politica/ferraz-ignora-crisis-psoe-palencia-completa-listas-congreso-renuncia-candidatos-militancia_1_13604496.html",
-      "fecha": "2026-10-21T17:33+00:00",
-      "partidos": [
-        "psoe"
       ]
     }
   ],
