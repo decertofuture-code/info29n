@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-25T05:17+00:00",
+  "actualizado": "2026-10-25T09:26+00:00",
   "temas": [
     {
       "id": "vivienda",
@@ -448,6 +448,35 @@
     }
   ],
   "noticias": [
+    {
+      "titulo": "Sin fichajes estrella en las listas del 29-N, PP y PSOE lo fían todo a la marca del partido",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/andalucia/fichajes-estrella-listas-29n-pp-psoe-apuestan-20261025071527-nts.html",
+      "fecha": "2026-10-25T08:48+00:00",
+      "partidos": [
+        "pp",
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "Ofrecer imágenes falsas en una campaña con la IA es un recurso legítimo para el PP",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/blog/politica-para-supervivientes/ofrecer-imagenes-falsas-campana-ia-recurso-legitimo-pp_132_13611045.html",
+      "fecha": "2026-10-25T07:07+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "PP y Vox apuran los plazos para lograr un acuerdo en el Senado que les permita atar una mayoría suficiente contra la izquierda",
+      "medio": "20minutos",
+      "url": "https://www.20minutos.es/nacional/pp-vox-apuran-los-plazos-para-lograr-un-acuerdo-senado-que-les-permita-atar-una-mayoria-suficiente-contra-izquierda_7052499_0.html",
+      "fecha": "2026-10-25T07:00+00:00",
+      "partidos": [
+        "pp",
+        "vox"
+      ]
+    },
     {
       "titulo": "Santiago Abascal: “La expulsión de inmigrantes tiene que hacerse caso a caso”",
       "medio": "La Vanguardia",
@@ -3219,34 +3248,6 @@
       "partidos": [
         "psoe",
         "sumar"
-      ]
-    },
-    {
-      "titulo": "El PP de la Región de Murcia apuesta por la consejera de Turismo, Cultura y Deportes, Carmen Conesa, como número tres en su lista para el Congreso",
-      "medio": "El Mundo",
-      "url": "https://www.elmundo.es/murcia/2026/10/21/6ad88205e9cf4a65388b4575.html",
-      "fecha": "2026-10-21T12:49+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "El PP redobla sus críticas a Vox por rechazar la ZBE: «Solo en Toledo hemos dado la nota»",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/castilla-la-mancha/toledo/pp-redobla-criticas-vox-rechazar-zbe-solo-20261021142833-nt.html",
-      "fecha": "2026-10-21T12:28+00:00",
-      "partidos": [
-        "pp",
-        "vox"
-      ]
-    },
-    {
-      "titulo": "Urtasun recurrirá ante los tribunales el veto de Vox al cine español: \"Es una forma de censura intolerable\"",
-      "medio": "elDiario.es",
-      "url": "https://www.eldiario.es/cultura/cine/urtasun-recurrira-tribunales-veto-vox-cine-forma-censura-intolerable_1_13603277.html",
-      "fecha": "2026-10-21T11:59+00:00",
-      "partidos": [
-        "vox"
       ]
     }
   ],
