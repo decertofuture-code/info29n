@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-24T21:24+00:00",
+  "actualizado": "2026-10-25T05:17+00:00",
   "temas": [
     {
       "id": "vivienda",
@@ -449,6 +449,148 @@
   ],
   "noticias": [
     {
+      "titulo": "Santiago Abascal: “La expulsión de inmigrantes tiene que hacerse caso a caso”",
+      "medio": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/politica/20261025/11667297/santiago-abascal-expulsion-inmigrantes-hacerse-caso-caso.html",
+      "fecha": "2026-10-25T05:00+00:00",
+      "partidos": [
+        "vox"
+      ]
+    },
+    {
+      "titulo": "Abascal en ‘La Revuelta’",
+      "medio": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/politica/20261025/11667272/abascal-revuelta.html",
+      "fecha": "2026-10-25T05:00+00:00",
+      "partidos": [
+        "vox"
+      ]
+    },
+    {
+      "titulo": "Pedro Sánchez: “Un Gobierno del PP con Vox no es alternancia, es retroceder 50 años”",
+      "medio": "El País",
+      "url": "https://elpais.com/espana/elecciones-generales/2026-10-25/pedro-sanchez-un-gobierno-del-pp-con-vox-no-es-alternancia-es-retroceder-50-anos.html",
+      "fecha": "2026-10-25T04:30+00:00",
+      "partidos": [
+        "pp",
+        "psoe",
+        "vox"
+      ]
+    },
+    {
+      "titulo": "Sánchez y Feijóo, por carriles paralelos",
+      "medio": "El País",
+      "url": "https://elpais.com/espana/elecciones-generales/2026-10-25/sanchez-y-feijoo-por-carriles-paralelos.html",
+      "fecha": "2026-10-25T04:30+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "El 29-N desata la “hiperactividad” en el avispero de grupos en torno al PP y Vox",
+      "medio": "El País",
+      "url": "https://elpais.com/espana/elecciones-generales/2026-10-25/el-29-n-desata-la-hiperactividad-en-el-avispero-de-grupos-en-torno-al-pp-y-vox.html",
+      "fecha": "2026-10-25T04:30+00:00",
+      "partidos": [
+        "pp",
+        "vox"
+      ]
+    },
+    {
+      "titulo": "Encuestas elecciones generales 29N en Aragón: resultados de PSOE, PP y Vox y ganador según los sondeos",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/aragon/encuestas-elecciones-generales-29n-aragon-resultados-psoe-20261022053000-nt.html",
+      "fecha": "2026-10-25T04:30+00:00",
+      "partidos": [
+        "pp",
+        "psoe",
+        "vox"
+      ]
+    },
+    {
+      "titulo": "Ceuta, ‘ley de nietos’ y vivienda: la entrevista con Pedro Sánchez en 10 titulares",
+      "medio": "El País",
+      "url": "https://elpais.com/espana/elecciones-generales/2026-10-25/ceuta-ley-de-nietos-y-vivienda-la-entrevista-con-pedro-sanchez-en-10-titulares.html",
+      "fecha": "2026-10-25T04:06+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "Puigdemont diluye el ‘exilio catalán’, que se queda sin foto conjunta del retorno",
+      "medio": "El Confidencial",
+      "url": "https://www.elconfidencial.com/espana/cataluna/2026-10-25/plan-puigdemont-diluye-exilio-catalan-sin-foto_4450967/",
+      "fecha": "2026-10-25T04:00+00:00",
+      "partidos": [
+        "junts"
+      ]
+    },
+    {
+      "titulo": "La izquierda quiere copiar la estrategia del PP en el Senado y que le estalle a Feijóo",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/izquierda-quiere-copiar-estrategia-pp-senado-estalle-20261025024153-nt.html",
+      "fecha": "2026-10-25T01:42+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "El equipo de Sánchez ya le ve \"ganador\" pero sectores del PSOE fuera de Madrid rebajan la euforia: \"En la calle no se aprecia entusiasmo\"",
+      "medio": "El Mundo",
+      "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/10/25/6adcd6f0e9cf4a3f028b4579.html",
+      "fecha": "2026-10-24T22:04+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "Un gamberro en Génova, 13",
+      "medio": "El Mundo",
+      "url": "https://www.elmundo.es/elecciones/2026/10/25/6adcd73fe9cf4a01208b4594.html",
+      "fecha": "2026-10-24T22:04+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "De cerrar la Agencia del Cambio Climático a urbanizar en zonas inundables: las políticas negacionistas del PP y Vox pese a la dana",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/comunitat-valenciana/cerrar-agencia-cambio-climatico-urbanizar-zonas-inundables-politicas-negacionistas-pp-vox-pese-dana_1_13611968.html",
+      "fecha": "2026-10-24T20:25+00:00",
+      "partidos": [
+        "pp",
+        "vox"
+      ]
+    },
+    {
+      "titulo": "Feijóo viene avisando",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/opinion/feijoo-viene-avisando_131_13612893.html",
+      "fecha": "2026-10-24T20:25+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "Por supuesto que Bildu es mejor que Vox",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/opinion/zona-critica/supuesto-bildu-mejor-vox_129_13612564.html",
+      "fecha": "2026-10-24T20:25+00:00",
+      "partidos": [
+        "vox",
+        "bildu"
+      ]
+    },
+    {
+      "titulo": "Cómo hemos llegado a Feijóo",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/opinion/zona-critica/hemos-llegado-feijoo_129_13612680.html",
+      "fecha": "2026-10-24T20:25+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
       "titulo": "Denuncian a Tesh Sidi, número dos del Frente Amplio en Madrid, por acoso laboral",
       "medio": "ABC",
       "url": "https://www.abc.es/espana/denuncian-tesh-sidi-numero-dos-frente-amplio-20261024195734-nt.html",
@@ -593,6 +735,16 @@
       "fecha": "2026-10-24T13:16+00:00",
       "partidos": [
         "pp"
+      ]
+    },
+    {
+      "titulo": "Feijóo llama a \"derribar el muro de Sánchez\" el 29-N y advierte al PSOE de que no va a \"indultar a los corruptos\": \"Me encargaré de que paguen por todo\"",
+      "medio": "El Mundo",
+      "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/10/24/6adc870f21efa0263a8b4570.html",
+      "fecha": "2026-10-24T13:11+00:00",
+      "partidos": [
+        "pp",
+        "psoe"
       ]
     },
     {
@@ -744,12 +896,33 @@
       ]
     },
     {
+      "titulo": "Pedro Sánchez se enfunda la camiseta del amor y agita el miedo a las \"tijeras\" del PP y a la \"motosierra\" de Vox",
+      "medio": "El Mundo",
+      "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/10/24/6adc76dae9cf4aec178b4574.html",
+      "fecha": "2026-10-24T11:48+00:00",
+      "partidos": [
+        "pp",
+        "psoe",
+        "vox"
+      ]
+    },
+    {
       "titulo": "Feijóo acusa a Sánchez de adelantar las elecciones por los casos de corrupción: \"Me encargaré de que paguen por todo\"",
       "medio": "elDiario.es",
       "url": "https://www.eldiario.es/politica/feijoo-acusa-sanchez-adelantar-elecciones-casos-corrupcion-encargare-paguen_1_13612078.html",
       "fecha": "2026-10-24T11:44+00:00",
       "partidos": [
         "pp"
+      ]
+    },
+    {
+      "titulo": "Montero y Rufián presumen de alianza entre ERC y Podemos y recrudecen sus ataques contra todos: \"El frente somos nosotros\"",
+      "medio": "El Mundo",
+      "url": "https://www.elmundo.es/cataluna/2026/10/24/6adc985b21efa088288b45b4.html",
+      "fecha": "2026-10-24T11:38+00:00",
+      "partidos": [
+        "erc",
+        "podemos"
       ]
     },
     {
@@ -1046,6 +1219,15 @@
       "fecha": "2026-10-23T17:57+00:00",
       "partidos": [
         "pp"
+      ]
+    },
+    {
+      "titulo": "Ada Colau: \"No habrá un Gobierno progresista solo con un buen resultado del PSOE\"",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/catalunya/ada-colau-no-habra-gobierno-progresista-buen-resultado-psoe_1_13610906.html",
+      "fecha": "2026-10-23T17:36+00:00",
+      "partidos": [
+        "psoe"
       ]
     },
     {
@@ -1629,6 +1811,17 @@
       "url": "https://www.eldiario.es/politica/sanchez-revuelta-alternancia-sana-vox-involucion_1_13608247.html",
       "fecha": "2026-10-22T21:24+00:00",
       "partidos": [
+        "vox"
+      ]
+    },
+    {
+      "titulo": "Sánchez saca al PSOE del pesimismo con los errores de Feijóo y el miedo a Vox",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/politica/sanchez-saca-psoe-pesimismo-errores-feijoo-miedo-vox_1_13607713.html",
+      "fecha": "2026-10-22T21:24+00:00",
+      "partidos": [
+        "pp",
+        "psoe",
         "vox"
       ]
     },
@@ -3054,191 +3247,6 @@
       "fecha": "2026-10-21T11:59+00:00",
       "partidos": [
         "vox"
-      ]
-    },
-    {
-      "titulo": "Cargas policiales en A Coruña tras la protesta de grupos antifascistas contra la visita de Abascal",
-      "medio": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/politica/20261021/11664581/cargas-policiales-coruna-protesta-grupos-antifascistas-visita-abascal.html",
-      "fecha": "2026-10-21T11:46+00:00",
-      "partidos": [
-        "vox"
-      ]
-    },
-    {
-      "titulo": "Milei saca el programa de la motosierra en el Casino (ante Jaime de Marichalar, Ramón Tamames y figuras del PP y Vox)",
-      "medio": "El País",
-      "url": "https://elpais.com/espana/elecciones-generales/2026-10-21/milei-saca-el-programa-de-la-motosierra-en-el-casino-ante-jaime-de-marichalar-ramon-tamames-y-figuras-del-pp-y-vox.html",
-      "fecha": "2026-10-21T11:33+00:00",
-      "partidos": [
-        "pp",
-        "vox"
-      ]
-    },
-    {
-      "titulo": "Abascal hablará con Milei durante esta jornada, pero justifica no verle porque su \"prioridad\" es la precampaña",
-      "medio": "Europa Press",
-      "url": "https://www.europapress.es/nacional/noticia-abascal-hablara-milei-jornada-justifica-no-verle-porque-prioridad-precampana-20261021131540.html",
-      "fecha": "2026-10-21T11:15+00:00",
-      "partidos": [
-        "vox"
-      ]
-    },
-    {
-      "titulo": "Batalla campal en A Coruña tras el acto de Vox en la Plaza de María Pita",
-      "medio": "elDiario.es",
-      "url": "https://www.eldiario.es/galicia/abascal-abre-puerta-reforma-constitucion-si-suma-mayoria-suficiente-pp-senado_1_13602890.html",
-      "fecha": "2026-10-21T10:53+00:00",
-      "partidos": [
-        "vox"
-      ]
-    },
-    {
-      "titulo": "Feijóo propone el silencio administrativo positivo en 90 días para conceder licencias de construcción",
-      "medio": "El País",
-      "url": "https://elpais.com/espana/2026-10-21/feijoo-propone-el-silencio-administrativo-positivo-en-90-dias-para-conceder-licencias-de-construccion.html",
-      "fecha": "2026-10-21T10:25+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Golpe de mano del PP y Vox en Andalucía para asegurarse el control de la Cámara de Cuentas, el órgano que fiscaliza los fondos públicos",
-      "medio": "El Mundo",
-      "url": "https://www.elmundo.es/andalucia/2026/10/21/6ad8735ee85ece1b618b4594.html",
-      "fecha": "2026-10-21T10:11+00:00",
-      "partidos": [
-        "pp",
-        "vox"
-      ]
-    },
-    {
-      "titulo": "Feijóo promete construir un millón de viviendas y rebajas fiscales para inquilinos y propietarios",
-      "medio": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/politica/20261021/11664437/feijoo-promete-construir-millon-viviendas-rebajas-fiscales-inquilinos-propietarios.html",
-      "fecha": "2026-10-21T09:59+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Feijóo elaborará un plan nacional de vivienda con todas las administraciones y concederá deducciones fiscales para renovar alquileres",
-      "medio": "20minutos",
-      "url": "https://www.20minutos.es/nacional/feijoo-elaborara-un-plan-nacional-vivienda-con-todas-las-administraciones-concedera-deducciones-fiscales-para-renovar-alquileres_7051446_0.html",
-      "fecha": "2026-10-21T09:53+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "El PP asegura que un posible pacto con Vox en el Senado debe conllevar \"generosidad por ambas partes\"",
-      "medio": "Europa Press",
-      "url": "https://www.europapress.es/castilla-lamancha/noticia-funez-no-descarta-pacto-pp-vox-senado-llama-impedir-sanchismo-controle-camara-20261021115018.html",
-      "fecha": "2026-10-21T09:50+00:00",
-      "partidos": [
-        "pp",
-        "vox"
-      ]
-    },
-    {
-      "titulo": "Feijóo reconoce que su plan de vivienda no dará resultados en el corto plazo: \"Vamos a pasar algunos años difíciles\"",
-      "medio": "elDiario.es",
-      "url": "https://www.eldiario.es/politica/feijoo-reconoce-plan-vivienda-no-dara-resultados-corto-plazo-pasar-anos-dificiles_1_13602497.html",
-      "fecha": "2026-10-21T09:46+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Milei irrumpe en la campaña del 29-N llamando \"impresentable y siniestro dictador\" a Pedro Sánchez",
-      "medio": "El Confidencial",
-      "url": "https://www.elconfidencial.com/espana/2026-10-21/milei-insulta-pedro-sanchez-1tps_4449604/",
-      "fecha": "2026-10-21T09:45+00:00",
-      "partidos": [
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "Feijóo promete una Ley Antiokupas y Ley del Suelo en sus primeros 100 días y deducciones fiscales para alquileres",
-      "medio": "Europa Press",
-      "url": "https://www.europapress.es/nacional/noticia-feijoo-promete-ley-antiokupas-ley-suelo-primeros-100-dias-deducciones-fiscales-alquileres-20261021114500.html",
-      "fecha": "2026-10-21T09:45+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Frente Amplio aclara que no hay negociaciones con el PSOE para las listas al Congreso",
-      "medio": "Europa Press",
-      "url": "https://www.europapress.es/nacional/noticia-frente-amplio-aclara-no-hay-negociaciones-psoe-listas-congreso-20261021111844.html",
-      "fecha": "2026-10-21T09:18+00:00",
-      "partidos": [
-        "psoe",
-        "sumar"
-      ]
-    },
-    {
-      "titulo": "La dirección del PP descarta reunirse con Milei por problemas de agenda, pero quita hierro a su encuentro por la tarde con Ayuso",
-      "medio": "20minutos",
-      "url": "https://www.20minutos.es/nacional/direccion-pp-descarta-reunirse-con-milei-por-problemas-agenda-pero-respalda-su-encuentro-con-ayuso-este-miercoles_7051436_0.html",
-      "fecha": "2026-10-21T09:17+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Milei llama en Madrid “impresentable dictador” a Sánchez y pide “sacar a patadas a los socialistas”",
-      "medio": "El País",
-      "url": "https://elpais.com/espana/2026-10-21/milei-participa-en-un-desayuno-informativo-en-madrid-durante-su-visita-a-espana.html",
-      "fecha": "2026-10-21T09:15+00:00",
-      "partidos": [
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "Alberto Núñez-Feijóo: «Revertir el fracaso de este Gobierno con la vivienda será nuestro éxito»",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/andalucia/alberto-nunezfeijoo-principal-problema-social-espana-vivienda-20261021105727-nts.html",
-      "fecha": "2026-10-21T09:13+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "PP y Vox dan perfil bajo a la visita de Milei a España pero Ayuso se reunirá con él",
-      "medio": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/politica/20261021/11664394/pp-vox-dan-perfil-visita-milei-espana-plena-precampana-electoral.html",
-      "fecha": "2026-10-21T09:09+00:00",
-      "partidos": [
-        "pp",
-        "vox"
-      ]
-    },
-    {
-      "titulo": "Sánchez y el PSOE calientan la visita de Milei a Madrid: lonas, motosierras y «zurdos orgullosos»",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/sanchez-psoe-calientan-visita-milei-madrid-pancartas-20261021090456-nt.html",
-      "fecha": "2026-10-21T09:07+00:00",
-      "partidos": [
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "Las listas del PP para las generales obligan a Alfonso Rueda a otra remodelación en la Xunta al incluir a una conselleira",
-      "medio": "elDiario.es",
-      "url": "https://www.eldiario.es/galicia/pp-anuncia-cabezas-cartel-galicia-ana-vazquez-ourense-exconselleiro-sanidade-pontevedra_1_13602313.html",
-      "fecha": "2026-10-21T09:07+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Milei llama «dictador» a Sánchez e insta a los españoles a «sacar a patadas a los socialistas»",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/javier-milei-llama-impresentable-dictador-pedro-sanchez-20261021103446-nt.html",
-      "fecha": "2026-10-21T09:03+00:00",
-      "partidos": [
-        "psoe"
       ]
     }
   ],
