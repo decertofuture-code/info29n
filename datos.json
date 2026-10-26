@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-26T17:35+00:00",
+  "actualizado": "2026-10-26T21:31+00:00",
   "temas": [
     {
       "id": "vivienda",
@@ -449,6 +449,148 @@
   ],
   "noticias": [
     {
+      "titulo": "El núcleo duro de Feijóo, Jaime de los Santos, Alberto Nadal y alcaldesas: la lista del PP por Madrid",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/nucleo-duro-feijoo-jaime-santos-alberto-nadal-20261026214002-nt.html",
+      "fecha": "2026-10-26T21:12+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "Abascal pide una «movilización masiva» el 29N para responder a la violencia contra Vox",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/castilla-la-mancha/abascal-pide-movilizacion-masiva-29n-responder-violencia-20261026204341-nt.html",
+      "fecha": "2026-10-26T20:55+00:00",
+      "partidos": [
+        "vox"
+      ]
+    },
+    {
+      "titulo": "Vox afea a la vicepresidenta de Castilla y León del PP que obvie la ‘prioridad nacional’ en el acceso a la vivienda",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/castilla-y-leon/politica/vox-afea-vicepresidenta-castilla-leon-pp-obvie-prioridad-nacional-prioridades_1_13617008.html",
+      "fecha": "2026-10-26T20:15+00:00",
+      "partidos": [
+        "pp",
+        "vox"
+      ]
+    },
+    {
+      "titulo": "Mariscal acusa al PSOE de «mentir» y «estropear todo lo que funciona bien»",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/castilla-la-mancha/toledo/talavera/mariscal-acusa-psoe-mentir-estropear-funciona-bien-20261026202311-nt.html",
+      "fecha": "2026-10-26T20:08+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "Así quedan las listas del PP por Madrid: Feijóo recluta a su 'gurú' de Exteriores y pesca en el PP de Ayuso",
+      "medio": "El Confidencial",
+      "url": "https://www.elconfidencial.com/espana/2026-10-26/asi-queda-la-lista-del-pp-por-madrid-feijoo-recluta-a-su-guru-de-exteriores-y-pesca-en-el-pp-de-ayuso_4453550/",
+      "fecha": "2026-10-26T20:06+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "Feijóo se rodea de miembros de su equipo y varias alcaldesas en la lista de Madrid al Congreso para generales",
+      "medio": "Europa Press",
+      "url": "https://www.europapress.es/nacional/noticia-feijoo-rodea-miembros-equipo-varios-alcaldes-lista-madrid-congreso-generales-20261026205138.html",
+      "fecha": "2026-10-26T19:51+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "Abascal ve la renuncia de Vox a presentar candidaturas en el Senado como un \"gesto patriótico\": \"Todo por España\"",
+      "medio": "Europa Press",
+      "url": "https://www.europapress.es/nacional/noticia-abascal-ve-renuncia-vox-presentar-candidaturas-senado-gesto-patriotico-todo-espana-20261026203730.html",
+      "fecha": "2026-10-26T19:37+00:00",
+      "partidos": [
+        "vox"
+      ]
+    },
+    {
+      "titulo": "Jaime de los Santos, Alberto Nadal y el núcleo duro de Génova acompañan a Feijóo en la lista del PP por Madrid",
+      "medio": "El País",
+      "url": "https://elpais.com/espana/elecciones-generales/2026-10-26/jaime-de-los-santos-alberto-nadal-y-el-nucleo-duro-de-genova-acompanan-a-feijoo-en-la-lista-del-pp-por-madrid.html",
+      "fecha": "2026-10-26T19:32+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "Sánchez promete reformar la Constitución para blindar las pensiones y carga contra PP y Vox por pactar en el Senado: \"Son lo mismo\"",
+      "medio": "20minutos",
+      "url": "https://www.20minutos.es/nacional/sanchez-promete-reformar-constitucion-para-blindar-las-pensiones-carga-contra-pp-vox-por-pactar-senado-son-mismo_7053700_0.html",
+      "fecha": "2026-10-26T19:28+00:00",
+      "partidos": [
+        "pp",
+        "vox"
+      ]
+    },
+    {
+      "titulo": "Vox presenta en Talavera de la Reina a sus candidatos a las elecciones generales del 29N",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/vox-presenta-talavera-reina-candidatos-elecciones-generales-20261026190136-nt.html",
+      "fecha": "2026-10-26T19:25+00:00",
+      "partidos": [
+        "vox"
+      ]
+    },
+    {
+      "titulo": "Colau pide a Sánchez, Feijóo y Abascal un uso responsable de la IA en la campaña: \"No necesitamos humillar para convencer\"",
+      "medio": "20minutos",
+      "url": "https://www.20minutos.es/nacional/colau-pide-sanchez-feijoo-abascal-un-uso-responsable-ia-campana-no-necesitamos-humillar-para-convencer_7053687_0.html",
+      "fecha": "2026-10-26T19:02+00:00",
+      "partidos": [
+        "pp",
+        "vox"
+      ]
+    },
+    {
+      "titulo": "Colau pide por carta a Feijóo, Sánchez y Abascal que se comprometan a no usar la IA de manera \"vejatoria\" en campaña",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/politica/colau-pide-carta-feijoo-sanchez-abascal-comprometan-no-ia-manera-vejatoria-campana_1_13616697.html",
+      "fecha": "2026-10-26T18:03+00:00",
+      "partidos": [
+        "pp",
+        "vox"
+      ]
+    },
+    {
+      "titulo": "PP y Vox esperan lograr hasta 140 senadores gracias al pacto para concurrir al Senado",
+      "medio": "Europa Press",
+      "url": "https://www.europapress.es/nacional/noticia-pp-vox-esperan-lograr-140-senadores-gracias-pacto-concurrir-senado-20261026185958.html",
+      "fecha": "2026-10-26T17:59+00:00",
+      "partidos": [
+        "pp",
+        "vox"
+      ]
+    },
+    {
+      "titulo": "Colau pide por carta a Feijóo, Abascal y Sánchez que se comprometan a no usar la IA contra adversarios políticos",
+      "medio": "Europa Press",
+      "url": "https://www.europapress.es/nacional/noticia-colau-pide-carta-feijoo-abascal-sanchez-comprometan-no-usar-ia-contra-adversarios-politicos-20261026185355.html",
+      "fecha": "2026-10-26T17:53+00:00",
+      "partidos": [
+        "pp",
+        "vox"
+      ]
+    },
+    {
+      "titulo": "Colau pide a Sánchez, Feijóo y Abascal un pacto para desterrar la IA vejatoria de la campaña",
+      "medio": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/politica/20261026/11668700/colau-pide-sanchez-feijoo-abascal-compromiso-desterrar-ia-vejatoria-campana-elecciones-29n.html",
+      "fecha": "2026-10-26T17:52+00:00",
+      "partidos": [
+        "pp",
+        "vox"
+      ]
+    },
+    {
       "titulo": "Pedro Sánchez interviene en un acto de precampaña en Gijón",
       "medio": "ABC",
       "url": "https://www.abc.es/espana/pedro-sanchez-interviene-acto-precampana-gijon-20261026182743-nt.html",
@@ -503,6 +645,15 @@
       "fecha": "2026-10-26T16:36+00:00",
       "partidos": [
         "sumar"
+      ]
+    },
+    {
+      "titulo": "Ayuso remodela su Gobierno tras el fichaje de Novillo en la candidatura de Feijóo",
+      "medio": "El Confidencial",
+      "url": "https://www.elconfidencial.com/espana/2026-10-26/ayuso-feijoo-pp-novillo-cambios-gobierno-madrid_4453342/",
+      "fecha": "2026-10-26T16:06+00:00",
+      "partidos": [
+        "pp"
       ]
     },
     {
@@ -3099,154 +3250,6 @@
       "fecha": "2026-10-22T14:25+00:00",
       "partidos": [
         "psoe"
-      ]
-    },
-    {
-      "titulo": "Tres detenidos por desórdenes públicos tras el mitin de Abascal en Avilés (Asturias)",
-      "medio": "El Confidencial",
-      "url": "https://www.elconfidencial.com/espana/2026-10-22/tres-detenidos-desordenes-publicos-mitin-abascal-aviles_4450848/",
-      "fecha": "2026-10-22T13:54+00:00",
-      "partidos": [
-        "vox"
-      ]
-    },
-    {
-      "titulo": "El regreso de Lluís Puig al Parlament escenifica la normalidad institucional a la espera de Puigdemont",
-      "medio": "20minutos",
-      "url": "https://www.20minutos.es/cataluna/regreso-lluis-puig-parlament-escenifica-normalidad-institucional-espera-puigdemont_7051712_0.html",
-      "fecha": "2026-10-22T13:49+00:00",
-      "partidos": [
-        "junts"
-      ]
-    },
-    {
-      "titulo": "Un diputado del PP acusa a las “feministas de izquierda” de estar “calladas como puertas” por Ceuta y el “catálogo de prostitutas de Ábalos”",
-      "medio": "elDiario.es",
-      "url": "https://www.eldiario.es/extremadura/politica/diputado-pp-acusa-feministas-izquierda-calladas-puertas-compara-catalogo-prostitutas-abalos_1_13606931.html",
-      "fecha": "2026-10-22T13:27+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "El cabeza de lista de Vox por Tarragona debe sentarse en el banquillo en julio por un delito de odio",
-      "medio": "El País",
-      "url": "https://elpais.com/espana/2026-10-22/el-cabeza-de-lista-de-vox-por-tarragona-debe-sentarse-en-el-banquillo-en-julio-por-un-delito-de-odio.html",
-      "fecha": "2026-10-22T13:27+00:00",
-      "partidos": [
-        "vox"
-      ]
-    },
-    {
-      "titulo": "El PP señala al delegado del Gobierno: de campaña en Santiago durante los altercados de La Coruña",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/galicia/pp-senala-delegado-gobierno-campana-santiago-altercados-20261022132204-nt.html",
-      "fecha": "2026-10-22T13:23+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Quién es Tesh Sidi, la número dos de Frente Amplio: de un campo de refugiados al Congreso de los Diputados",
-      "medio": "20minutos",
-      "url": "https://www.20minutos.es/nacional/tesh-sidi-numero-dos-frente-amplio-nacio-campo-refugiados-gana-euros-mes-comparte-piso_7052157_0.html",
-      "fecha": "2026-10-22T13:20+00:00",
-      "partidos": [
-        "sumar"
-      ]
-    },
-    {
-      "titulo": "El PSOE estudia demandar al PP por un vídeo hecho con IA en el que suplantan la identidad de Begoña Gómez, Zapatero o Montse Mínguez",
-      "medio": "elDiario.es",
-      "url": "https://www.eldiario.es/politica/psoe-estudia-demandar-pp-video-hecho-ia-suplantan-identidad-begona-gomez-zapatero-montse-minguez_1_13606707.html",
-      "fecha": "2026-10-22T13:18+00:00",
-      "partidos": [
-        "pp",
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "El PSOE se niega a informar al juez del caso cloacas de los abogados que contrató amparándose en el secreto profesional",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/psoe-niega-informar-juez-cloacas-abogados-contrato-20261022144054-nt.html",
-      "fecha": "2026-10-22T13:12+00:00",
-      "partidos": [
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "Azcón llama «traidor» a Pueyo por no concurrir en Teruel para legar el escaño al PSOE",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/aragon/azcon-llama-traidor-pueyo-concurrir-teruel-legar-20261022144055-nt.html",
-      "fecha": "2026-10-22T12:40+00:00",
-      "partidos": [
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "Coalición Canaria, que respaldó la investidura fallida de Feijóo, anuncia que no apoyará un gobierno del PP con Vox",
-      "medio": "elDiario.es",
-      "url": "https://www.eldiario.es/canariasahora/politica/valido-respaldo-investidura-feijoo-dice-ahora-cc-no-apoyara-gobierno-pp-si-vox_1_13606731.html",
-      "fecha": "2026-10-22T12:33+00:00",
-      "partidos": [
-        "pp",
-        "vox",
-        "cc"
-      ]
-    },
-    {
-      "titulo": "Un juzgado de Madrid rechaza una querella de Vox contra Sofía Puente por la ley de nietos",
-      "medio": "20minutos",
-      "url": "https://www.20minutos.es/nacional/un-juzgado-madrid-rechaza-una-querella-vox-contra-sofia-puente-por-ley-nietos_7052125_0.html",
-      "fecha": "2026-10-22T12:23+00:00",
-      "partidos": [
-        "vox"
-      ]
-    },
-    {
-      "titulo": "El Consell d'Informatius de À Punt denuncia que la cadena externaliza programas para hacer \"campañas diarias a favor del PP\"",
-      "medio": "elDiario.es",
-      "url": "https://www.eldiario.es/comunitat-valenciana/consell-d-informatius-punt-denuncia-cadena-externaliza-programas-campanas-diarias-favor-pp_1_13606523.html",
-      "fecha": "2026-10-22T12:19+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Colectivos antifascistas denuncian la brutalidad policial contra la protesta ante un acto de Vox en A Coruña",
-      "medio": "elDiario.es",
-      "url": "https://www.eldiario.es/galicia/colectivos-antifascistas-denuncian-brutalidad-policial-protesta-acto-vox-coruna_1_13606508.html",
-      "fecha": "2026-10-22T12:13+00:00",
-      "partidos": [
-        "vox"
-      ]
-    },
-    {
-      "titulo": "El PP dice, tras llamar Milei \"dictador\" a Sánchez, que el Gobierno no puede dar lecciones porque le llamó \"drogadicto\"",
-      "medio": "Europa Press",
-      "url": "https://www.europapress.es/nacional/noticia-pp-dice-llamar-milei-dictador-sanchez-gobierno-no-puede-dar-lecciones-porque-le-llamo-drogadicto-20261022141357.html",
-      "fecha": "2026-10-22T12:13+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "El PP respalda la censura ideológica de Vox al cine en Castilla y León y lo justifica en nombre de la “libertad”",
-      "medio": "elDiario.es",
-      "url": "https://www.eldiario.es/castilla-y-leon/politica/pp-respalda-censura-ideologica-vox-cine-castilla-leon-justifica-nombre-libertad-calidad-artistica_1_13606432.html",
-      "fecha": "2026-10-22T12:11+00:00",
-      "partidos": [
-        "pp",
-        "vox"
-      ]
-    },
-    {
-      "titulo": "El delegado del Gobierno en Galicia atribuye los disturbios contra Vox a un grupo \"mínimo\" de violentos y confirma tres detenidos y 13 policías heridos",
-      "medio": "El Mundo",
-      "url": "https://www.elmundo.es/galicia/2026/10/22/6ad9e6f9fc6c839c748b45b0.html",
-      "fecha": "2026-10-22T12:11+00:00",
-      "partidos": [
-        "vox"
       ]
     }
   ],
