@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-26T15:10+00:00",
+  "actualizado": "2026-10-26T17:35+00:00",
   "temas": [
     {
       "id": "vivienda",
@@ -449,6 +449,90 @@
   ],
   "noticias": [
     {
+      "titulo": "Pedro Sánchez interviene en un acto de precampaña en Gijón",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/pedro-sanchez-interviene-acto-precampana-gijon-20261026182743-nt.html",
+      "fecha": "2026-10-26T17:28+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "Quién es Jordi Wild, el 'youtuber' que va a entrevistar en su pódcast a Sánchez, Feijóo, Abascal y Colau de cara a las elecciones del 29-N",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/jordi-wild-claves-trayectoria-youtuber-entrevistar-podcast-20261026113311-nt.html",
+      "fecha": "2026-10-26T17:14+00:00",
+      "partidos": [
+        "pp",
+        "vox"
+      ]
+    },
+    {
+      "titulo": "Pontón presenta a sus cabezas de lista y apela al «voto útil» para el BNG",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/galicia/ponton-presenta-cabezas-lista-apela-voto-util-20261026175823-nt.html",
+      "fecha": "2026-10-26T16:58+00:00",
+      "partidos": [
+        "bng"
+      ]
+    },
+    {
+      "titulo": "El Senado tiene casi 60 escaños asignados al margen de las elecciones: 23 para el PP, 19 para el PSOE y 5 para Vox",
+      "medio": "Europa Press",
+      "url": "https://www.europapress.es/nacional/noticia-senado-tiene-casi-60-escanos-asignados-margen-elecciones-23-pp-19-psoe-vox-20261026175641.html",
+      "fecha": "2026-10-26T16:56+00:00",
+      "partidos": [
+        "pp",
+        "psoe",
+        "vox"
+      ]
+    },
+    {
+      "titulo": "El PSOE denuncia que el nuevo aparcamiento del Polígono es «inseguro», sin asfaltar ni iluminar",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/castilla-la-mancha/toledo/psoe-denuncia-nuevo-aparcamiento-poligono-inseguro-asfaltar-20261026174041-nt.html",
+      "fecha": "2026-10-26T16:40+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "Frente Amplio confirma que el 29N se presentará en todas las circunscripciones provinciales... menos en Teruel",
+      "medio": "20minutos",
+      "url": "https://www.20minutos.es/nacional/frente-amplio-confirma-que-29n-se-presentara-todas-las-circunscripciones-provinciales-menos-teruel_7053564_0.html",
+      "fecha": "2026-10-26T16:36+00:00",
+      "partidos": [
+        "sumar"
+      ]
+    },
+    {
+      "titulo": "Frente Amplio confirma que tendrá candidatos en todas las circunscripciones al Congreso salvo Teruel",
+      "medio": "Europa Press",
+      "url": "https://www.europapress.es/nacional/noticia-frente-amplio-confirma-tendra-candidatos-todas-circunscripciones-congreso-teruel-20261026165125.html",
+      "fecha": "2026-10-26T15:51+00:00",
+      "partidos": [
+        "sumar"
+      ]
+    },
+    {
+      "titulo": "La dimisión del delegado del Gobierno enfada a la dirección del PSOE: “No le beneficia ni a él ni a la organización”",
+      "medio": "El País",
+      "url": "https://elpais.com/espana/elecciones-generales/2026-10-26/la-dimision-del-delegado-del-gobierno-enfada-a-la-direccion-del-psoe-no-le-beneficia-ni-a-el-ni-a-la-organizacion.html",
+      "fecha": "2026-10-26T15:38+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "El PP acusa a Marlaska de \"desaparecer\" tras disturbios en Barcelona y avanza que Feijóo irá a apoyar a los comerciantes",
+      "medio": "Europa Press",
+      "url": "https://www.europapress.es/nacional/noticia-pp-acusa-marlaska-desaparecer-disturbios-barcelona-avanza-feijoo-ira-apoyar-comerciantes-20261026162650.html",
+      "fecha": "2026-10-26T15:26+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
       "titulo": "El alcalde de Puertollano niega que Génova le «haya echado de las listas» por el presunto caso de acoso laboral",
       "medio": "ABC",
       "url": "https://www.abc.es/espana/castilla-la-mancha/alcalde-puertollano-afirma-decision-personal-compromiso-ciudad-20261026151838-nt.html",
@@ -494,6 +578,16 @@
       ]
     },
     {
+      "titulo": "La derecha pacta sus candidaturas en el Senado: el PP se retira en Gipuzkoa, Girona y Tarragona y Vox en otras seis provincias",
+      "medio": "El País",
+      "url": "https://elpais.com/espana/elecciones-generales/2026-10-26/la-derecha-pacta-sus-candidaturas-en-el-senado-pp-se-retira-en-gipuzkoa-girona-y-tarragona-y-vox-en-otras-seis-provincias.html",
+      "fecha": "2026-10-26T14:20+00:00",
+      "partidos": [
+        "pp",
+        "vox"
+      ]
+    },
+    {
       "titulo": "PP y Vox alcanzan un acuerdo en el Senado para hacer frente a la izquierda",
       "medio": "ABC",
       "url": "https://www.abc.es/espana/miguel-tellado-comparece-ante-medios-dar-informacion-20261026132738-nt.html",
@@ -510,6 +604,15 @@
       "fecha": "2026-10-26T14:15+00:00",
       "partidos": [
         "podemos"
+      ]
+    },
+    {
+      "titulo": "El Frente Amplio presentará listas en toda España salvo en Teruel con la apuesta de ser \"la papeleta del derecho a la vivienda\"",
+      "medio": "El Mundo",
+      "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/10/26/6adf4344fc6c838c038b45ad.html",
+      "fecha": "2026-10-26T14:08+00:00",
+      "partidos": [
+        "sumar"
       ]
     },
     {
@@ -3144,107 +3247,6 @@
       "fecha": "2026-10-22T12:11+00:00",
       "partidos": [
         "vox"
-      ]
-    },
-    {
-      "titulo": "\"Violencia diseñada y orquestada desde La Moncloa\": Abascal culpa al Gobierno de las protestas y el delegado atribuye los disturbios a un grupo \"mínimo\"",
-      "medio": "El Mundo",
-      "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/10/22/6ad9eaa9e4d4d841358b45ae.html",
-      "fecha": "2026-10-22T12:10+00:00",
-      "partidos": [
-        "vox"
-      ]
-    },
-    {
-      "titulo": "El PP hace equilibrios tras la controvertida visita de Milei",
-      "medio": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/politica/20261022/11665479/pp-equilibrios-controvertida-visita-milei.html",
-      "fecha": "2026-10-22T11:51+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Toni Comín (Junts) recoge su acta de eurodiputado en Madrid tras prometer la Constitución por imperativo legal",
-      "medio": "Europa Press",
-      "url": "https://www.europapress.es/nacional/noticia-toni-comin-junts-recoge-acta-eurodiputado-madrid-prometer-constitucion-imperativo-legal-20261022134708.html",
-      "fecha": "2026-10-22T11:47+00:00",
-      "partidos": [
-        "junts"
-      ]
-    },
-    {
-      "titulo": "Frente Amplio aprovecha el tirón de Bustinduy y lo nombra portavoz de campaña",
-      "medio": "El País",
-      "url": "https://elpais.com/espana/elecciones-generales/2026-10-22/frente-amplio-aprovecha-el-tiron-de-bustinduy-y-lo-nombra-portavoz-de-campana.html",
-      "fecha": "2026-10-22T11:11+00:00",
-      "partidos": [
-        "sumar"
-      ]
-    },
-    {
-      "titulo": "Álvarez de Toledo y Sémper serán los números dos y tres de Feijóo en la lista por Madrid",
-      "medio": "El País",
-      "url": "https://elpais.com/espana/2026-10-22/alvarez-de-toledo-y-semper-seran-los-numeros-dos-y-tres-de-feijoo-en-la-lista-por-madrid.html",
-      "fecha": "2026-10-22T10:45+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "El PP da un paso más en su campaña y suplanta la identidad de Begoña Gómez, Zapatero y Ábalos: “¿Irse de putas? Sí, soy zurdo”",
-      "medio": "El País",
-      "url": "https://elpais.com/espana/elecciones-generales/2026-10-22/el-pp-da-un-paso-mas-en-su-campana-y-suplanta-la-identidad-de-begona-gomez-zapatero-y-abalos-irse-de-putas-si-soy-zurdo.html",
-      "fecha": "2026-10-22T10:43+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Vox llevó en sus listas de 2019 al marido de la exconcejala del PP de Ibiza detenido por blanqueo",
-      "medio": "elDiario.es",
-      "url": "https://www.eldiario.es/illes-balears/politica/vox-llevo-listas-detenido-blanqueo-operacion-narcotrafico_1_13605568.html",
-      "fecha": "2026-10-22T10:35+00:00",
-      "partidos": [
-        "pp",
-        "vox"
-      ]
-    },
-    {
-      "titulo": "El PP acepta el debate de vivienda en la Cadena SER pero pide al PSOE confirmar si Sánchez estará en los otros tres",
-      "medio": "Europa Press",
-      "url": "https://www.europapress.es/nacional/noticia-pp-acepta-debate-vivienda-cadena-ser-pide-psoe-confirmar-si-sanchez-estara-otros-tres-20261022123505.html",
-      "fecha": "2026-10-22T10:35+00:00",
-      "partidos": [
-        "pp",
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "Toni Comín (Junts) vuelve a España tras nueve años en Bélgica para recoger su acta de eurodiputado",
-      "medio": "elDiario.es",
-      "url": "https://www.eldiario.es/catalunya/toni-comin-junts-vuelve-espana-nueve-anos-belgica-recoger-acta-eurodiputado_1_13603245.html",
-      "fecha": "2026-10-22T10:33+00:00",
-      "partidos": [
-        "junts"
-      ]
-    },
-    {
-      "titulo": "Pablo Bustinduy será el portavoz de campaña de Frente Amplio para el 29-N",
-      "medio": "20minutos",
-      "url": "https://www.20minutos.es/nacional/pablo-bustinduy-sera-portavoz-campana-frente-amplio-para-29-n_7051984_0.html",
-      "fecha": "2026-10-22T09:58+00:00",
-      "partidos": [
-        "sumar"
-      ]
-    },
-    {
-      "titulo": "Dimite el coordinador de Podemos en Aragón por “desacuerdos” con la dirección nacional",
-      "medio": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/politica/20261022/11665340/dimite-coordinador-aragon-desacuerdos-direccion-nacional.html",
-      "fecha": "2026-10-22T09:57+00:00",
-      "partidos": [
-        "podemos"
       ]
     }
   ],
