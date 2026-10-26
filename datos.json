@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-26T05:22+00:00",
+  "actualizado": "2026-10-26T09:39+00:00",
   "temas": [
     {
       "id": "vivienda",
@@ -449,6 +449,44 @@
   ],
   "noticias": [
     {
+      "titulo": "Vox y el PP continúan negociando la candidatura para el Senado: \"El día es largo\"",
+      "medio": "20minutos",
+      "url": "https://www.20minutos.es/nacional/vox-pp-continuan-negociando-candidatura-para-senado-dia-es-largo_7053313_0.html",
+      "fecha": "2026-10-26T09:16+00:00",
+      "partidos": [
+        "pp",
+        "vox"
+      ]
+    },
+    {
+      "titulo": "Podemos se suma a la coalición Ara Més-Front Ampli y no se presentará en solitario al Congreso por Balears",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/illes-balears/politica/suma-coalicion-ara-mes-front-ampli-no-presentara-solitario-congreso-balears_1_13614467.html",
+      "fecha": "2026-10-26T08:31+00:00",
+      "partidos": [
+        "podemos"
+      ]
+    },
+    {
+      "titulo": "'Salvados' entrevistará a Pedro Sánchez el próximo domingo: “Vuelve 10 años después”",
+      "medio": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/politica/20261026/11668042/salvados-entrevistara-pedro-sanchez-proximo-domingo-vuelve-10-anos.html",
+      "fecha": "2026-10-26T08:14+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "Frente Amplio y Podemos celebran la victoria de Lula y llaman a vencer también a la ultraderecha en España",
+      "medio": "Europa Press",
+      "url": "https://www.europapress.es/nacional/noticia-frente-amplio-podemos-celebran-victoria-lula-contra-poder-tecnologico-financiero-20261026080135.html",
+      "fecha": "2026-10-26T07:01+00:00",
+      "partidos": [
+        "sumar",
+        "podemos"
+      ]
+    },
+    {
       "titulo": "Catalunya desempata: Sánchez o Abascal",
       "medio": "La Vanguardia",
       "url": "https://www.lavanguardia.com/politica/20261026/11667771/catalunya-desempata-sanchez-abascal.html",
@@ -542,6 +580,16 @@
       "fecha": "2026-10-26T00:09+00:00",
       "partidos": [
         "pp"
+      ]
+    },
+    {
+      "titulo": "Abascal celebra el regreso de María Corina Machado a Venezuela y carga contra el PSOE y Zapatero",
+      "medio": "Europa Press",
+      "url": "https://www.europapress.es/nacional/noticia-abascal-celebra-regreso-maria-corina-machado-venezuela-carga-contra-psoe-zapatero-20261026010030.html",
+      "fecha": "2026-10-26T00:00+00:00",
+      "partidos": [
+        "psoe",
+        "vox"
       ]
     },
     {
@@ -3193,55 +3241,6 @@
       "url": "https://www.eldiario.es/asturias/tres-detenidos-desordenes-publicos-mitin-abascal-aviles_1_13605234.html",
       "fecha": "2026-10-22T06:35+00:00",
       "partidos": [
-        "vox"
-      ]
-    },
-    {
-      "titulo": "El PP confía en que el impacto de la visita de Milei se diluya el 29-N: “Si llega a venir la última semana sería distinto”",
-      "medio": "El País",
-      "url": "https://elpais.com/espana/2026-10-22/el-pp-confia-en-que-el-impacto-de-la-visita-de-milei-se-diluya-el-29-n-si-llega-a-venir-la-ultima-semana-seria-distinto.html",
-      "fecha": "2026-10-22T03:30+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "El avance de Vox en las coaliciones con el PP: de la “nacionalidad española” en la ley de vivienda de Aragón a la censura en Castilla y León",
-      "medio": "El País",
-      "url": "https://elpais.com/espana/elecciones-generales/2026-10-22/el-avance-de-vox-en-los-gobiernos-del-pp-de-la-nacionalidad-espanola-en-la-ley-de-vivienda-de-aragon-a-la-censura-en-castilla-y-leon.html",
-      "fecha": "2026-10-22T03:30+00:00",
-      "partidos": [
-        "pp",
-        "vox"
-      ]
-    },
-    {
-      "titulo": "Frente Amplio sitúa en los puestos de salida por Madrid a los principales partidos de la coalición",
-      "medio": "El País",
-      "url": "https://elpais.com/espana/elecciones-generales/2026-10-22/frente-amplio-situa-en-los-puestos-de-salida-por-madrid-a-los-principales-partidos-de-la-coalicion.html",
-      "fecha": "2026-10-22T03:30+00:00",
-      "partidos": [
-        "sumar"
-      ]
-    },
-    {
-      "titulo": "La prisa del PSOE por registrar las listas choca con la lentitud de Compromís y los nervios del PP",
-      "medio": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/local/valencia/20261022/11664571/prisa-psoe-registrar-listas-choca-lentitud-nervios-compromis-pp.html",
-      "fecha": "2026-10-22T03:30+00:00",
-      "partidos": [
-        "pp",
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "El resultado de las elecciones del 29N en España si solo votasen los agricultores y ganaderos: porcentajes de PP, PSOE, Vox y el resto de partidos",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/resultado-elecciones-29n-espana-solo-votasen-agricultores-20261022051500-nt.html",
-      "fecha": "2026-10-22T03:15+00:00",
-      "partidos": [
-        "pp",
-        "psoe",
         "vox"
       ]
     }
