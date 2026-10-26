@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-25T21:23+00:00",
+  "actualizado": "2026-10-26T05:22+00:00",
   "temas": [
     {
       "id": "vivienda",
@@ -449,10 +449,163 @@
   ],
   "noticias": [
     {
+      "titulo": "Catalunya desempata: Sánchez o Abascal",
+      "medio": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/politica/20261026/11667771/catalunya-desempata-sanchez-abascal.html",
+      "fecha": "2026-10-26T05:00+00:00",
+      "partidos": [
+        "vox"
+      ]
+    },
+    {
+      "titulo": "PP y Vox apuran “sobre la bocina” la negociación de la fórmula para hacerse con el control del Senado",
+      "medio": "El País",
+      "url": "https://elpais.com/espana/elecciones-generales/2026-10-26/pp-y-vox-apuran-sobre-la-bocina-la-negociacion-de-la-formula-para-hacerse-con-el-control-del-senado.html",
+      "fecha": "2026-10-26T04:30+00:00",
+      "partidos": [
+        "pp",
+        "vox"
+      ]
+    },
+    {
+      "titulo": "“Para nosotros es histórico”: cómo Jordi Wild logró el sí de Sánchez, Feijóo, Abascal y Colau para ir a su casa",
+      "medio": "El País",
+      "url": "https://elpais.com/espana/elecciones-generales/2026-10-26/para-nosotros-es-historico-como-jordi-wild-logro-el-si-de-sanchez-feijoo-abascal-y-colau-para-ir-a-su-casa.html",
+      "fecha": "2026-10-26T04:30+00:00",
+      "partidos": [
+        "pp",
+        "vox"
+      ]
+    },
+    {
+      "titulo": "Encuestas elecciones generales 29N: resultados de PSOE, PP, VOX y Frente Amplio y ganador según los sondeos",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/encuestas-elecciones-generales-29n-resultados-psoe-pp-20261026051500-nt.html",
+      "fecha": "2026-10-26T04:15+00:00",
+      "partidos": [
+        "pp",
+        "psoe",
+        "sumar"
+      ]
+    },
+    {
+      "titulo": "Colau, Delgado y Bustinduy: Frente Amplio moldea una campaña con un \"liderazgo coral\" que muestre su variedad de perfiles",
+      "medio": "20minutos",
+      "url": "https://www.20minutos.es/nacional/colau-delgado-bustinduy-frente-amplio-moldea-una-campana-con-un-liderazgo-coral-que-muestre-su-variedad-perfiles_7052201_0.html",
+      "fecha": "2026-10-26T04:00+00:00",
+      "partidos": [
+        "sumar"
+      ]
+    },
+    {
+      "titulo": "Sergio Sayas (PP Navarra): «Bienvenido sea ser bisagra de Vox y UPN si es para echar a Chivite»",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/navarra/sergio-sayas-bienvenido-bisagra-vox-upn-echar-20261024015508-nt.html",
+      "fecha": "2026-10-26T01:53+00:00",
+      "partidos": [
+        "pp",
+        "vox",
+        "upn"
+      ]
+    },
+    {
+      "titulo": "El PSOE intenta sacar a un millón de votantes de la abstención para ser primera fuerza el 29N",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/psoe-busca-sacar-millon-votantes-abstencion-primera-20261025015454-nt.html",
+      "fecha": "2026-10-26T01:52+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "El PSOE de Uruguay ofrecía ayuda gratis para recurrir el veto del TS a la 'ley de nietos'",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/psoe-uruguay-ofrecia-asistencia-juridica-gratuita-recurrir-20261022015527-nt.html",
+      "fecha": "2026-10-26T00:55+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "El PSOE esconde sus siglas en las listas al Senado por Ceuta",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/psoe-esconde-siglas-listas-senado-ceuta-20261025015503-nt.html",
+      "fecha": "2026-10-26T00:55+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "Sánchez recorta distancia a Feijóo pero la suma de la derecha sigue muy cerca de los 200 escaños",
+      "medio": "El Mundo",
+      "url": "https://www.elmundo.es/espana/encuestas/2026/10/26/6addf8c4fdddfff23d8b4581.html",
+      "fecha": "2026-10-26T00:09+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "Feijóo señala a la izquierda y acude esta semana a Barcelona tras los disturbios",
+      "medio": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/politica/20261026/11667789/feijoo-senala-izquierda-acude-semana-barcelona-disturbios.html",
+      "fecha": "2026-10-25T23:05+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "Miriam Andrés, la discreta alcaldesa de Palencia que se ha plantado ante Ferraz y que podría ser clave en la sucesión de Sánchez: \"No genera rechazo en muchas federaciones clave\"",
+      "medio": "El Mundo",
+      "url": "https://www.elmundo.es/espana/2026/10/26/6ada20f6e9cf4a427e8b4577.html",
+      "fecha": "2026-10-25T23:02+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
       "titulo": "Susana Camarero encabeza la lista del PP al Senado por Valencia para el 29N",
       "medio": "ABC",
       "url": "https://www.abc.es/espana/comunidad-valenciana/susana-camarero-encabeza-lista-pp-senado-valencia-20261025214450-nt.html",
       "fecha": "2026-10-25T21:08+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "El bloque de izquierdas recorta distancias, pero PP y Vox mantienen la mayoría absoluta",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/politica/bloque-izquierdas-recorta-distancias-pp-vox-mantienen-mayoria-absoluta_1_13611052.html",
+      "fecha": "2026-10-25T20:21+00:00",
+      "partidos": [
+        "pp",
+        "vox"
+      ]
+    },
+    {
+      "titulo": "Cuenta atrás para registrar listas para las elecciones: PP-Vox negocian en el Senado y la izquierda llega con el reparto zanjado",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/politica/cuenta-registrar-listas-elecciones-pp-vox-negocian-senado-izquierda-llega-reparto-zanjado_1_13609486.html",
+      "fecha": "2026-10-25T20:21+00:00",
+      "partidos": [
+        "pp",
+        "vox"
+      ]
+    },
+    {
+      "titulo": "PP y Vox sellan su asalto a la Agencia Valenciana Antifraude y reducen su colaboración con Anticorrupción",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/comunitat-valenciana/pp-vox-sellan-asalto-agencia-valenciana-antifraude-reducen-colaboracion-anticorrupcion_1_13609688.html",
+      "fecha": "2026-10-25T20:21+00:00",
+      "partidos": [
+        "pp",
+        "vox"
+      ]
+    },
+    {
+      "titulo": "El agujero de Feijóo",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/andalucia/desdeelsur/agujero-feijoo_132_13613850.html",
+      "fecha": "2026-10-25T20:19+00:00",
       "partidos": [
         "pp"
       ]
@@ -492,6 +645,15 @@
       "partidos": [
         "pp",
         "vox"
+      ]
+    },
+    {
+      "titulo": "El alcalde de Utiel escoltará a Catalá como 'número dos' al Congreso tras proponerlo Llorca a Feijóo y Camarero irá al Senado",
+      "medio": "El Mundo",
+      "url": "https://www.elmundo.es/comunidad-valenciana/2026/10/25/6ade444ae4d4d8ce018b4575.html",
+      "fecha": "2026-10-25T18:57+00:00",
+      "partidos": [
+        "pp"
       ]
     },
     {
@@ -3080,163 +3242,6 @@
       "partidos": [
         "pp",
         "psoe",
-        "vox"
-      ]
-    },
-    {
-      "titulo": "La charla \"motivacional\" de Feijóo a su equipo en Génova: \"No falléis. Si me ayudáis, lo haré mejor\"",
-      "medio": "El Confidencial",
-      "url": "https://www.elconfidencial.com/espana/2026-10-22/charla-motivacional-feijoo-equipo_4449984/",
-      "fecha": "2026-10-22T03:00+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "La falta de voluntarios entre la militancia del PSOE obliga a Ferraz a rellenar la lista electoral en Palencia",
-      "medio": "El Mundo",
-      "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/10/22/6ad90e82e85ece21158b45d2.html",
-      "fecha": "2026-10-21T23:43+00:00",
-      "partidos": [
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "234 votos en Teruel: la suma que abre la retirada del Frente Amplio en provincias y puede dar la vuelta a las elecciones",
-      "medio": "El Mundo",
-      "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/10/22/6ad90702e85ece8d098b45a0.html",
-      "fecha": "2026-10-21T23:43+00:00",
-      "partidos": [
-        "sumar"
-      ]
-    },
-    {
-      "titulo": "Comín, tránsfuga y escudero de Puigdemont, regresa a España para asegurarse el acta de eurodiputado y seguir en política",
-      "medio": "El Mundo",
-      "url": "https://www.elmundo.es/cataluna/2026/10/22/6ad8ff74e9cf4a04478b4599.html",
-      "fecha": "2026-10-21T23:42+00:00",
-      "partidos": [
-        "junts"
-      ]
-    },
-    {
-      "titulo": "Feijóo se compromete a aprobar una ley anti okupas en los primeros cien días de Gobierno",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/feijoo-compromete-aprobar-ley-anti-okupas-primeros-20261022013754-nt.html",
-      "fecha": "2026-10-21T23:38+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Dos instituciones dañadas por dos ex ministros del PSOE en el intento de salvar la 'ley de nietos'",
-      "medio": "El Mundo",
-      "url": "https://www.elmundo.es/espana/2026/10/21/6ad8fea2e85ece4a468b457a.html",
-      "fecha": "2026-10-21T20:51+00:00",
-      "partidos": [
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "Noche en vela de los socialistas ante la Junta Electoral para colocar bien la papeleta del PSOE en las mesas del 29-N",
-      "medio": "El Mundo",
-      "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/10/21/6ad8ffafe4d4d85a288b4598.html",
-      "fecha": "2026-10-21T20:51+00:00",
-      "partidos": [
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "Tres detenidos por desórdenes públicos en las protestas contra el mitin de Santiago Abascal en Avilés",
-      "medio": "El Mundo",
-      "url": "https://www.elmundo.es/espana/2026/10/21/6ad92318e9cf4ad24a8b4597.html",
-      "fecha": "2026-10-21T20:44+00:00",
-      "partidos": [
-        "vox"
-      ]
-    },
-    {
-      "titulo": "Pedro Sánchez será entrevistado este jueves en 'La Revuelta' por David Broncano",
-      "medio": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/politica/20261021/11664933/pedro-sanchez-sera-entrevistado-jueves-david-broncano-revuelta.html",
-      "fecha": "2026-10-21T20:37+00:00",
-      "partidos": [
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "Las protestas contra la actuación policial tras el acto de Abascal en A Coruña terminan con nuevos altercados",
-      "medio": "elDiario.es",
-      "url": "https://www.eldiario.es/galicia/protestas-actuacion-policial-acto-abascal-coruna-terminan-nuevos-altercados_1_13604996.html",
-      "fecha": "2026-10-21T20:35+00:00",
-      "partidos": [
-        "vox"
-      ]
-    },
-    {
-      "titulo": "La irrupción en campaña de Milei pone en apuros a PP y Vox y regala otra baza electoral a Sánchez",
-      "medio": "elDiario.es",
-      "url": "https://www.eldiario.es/politica/irrupcion-campana-milei-pone-apuros-pp-vox-regala-baza-electoral-sanchez_1_13604480.html",
-      "fecha": "2026-10-21T19:53+00:00",
-      "partidos": [
-        "pp",
-        "vox"
-      ]
-    },
-    {
-      "titulo": "La media de encuestas tras la división de la izquierda alternativa: dónde sacarían escaños Frente Amplio y Podemos",
-      "medio": "elDiario.es",
-      "url": "https://www.eldiario.es/politica/media-encuestas-division-izquierda-alternativa-sacarian-escanos-frente-amplio_1_13602916.html",
-      "fecha": "2026-10-21T19:53+00:00",
-      "partidos": [
-        "sumar",
-        "podemos"
-      ]
-    },
-    {
-      "titulo": "Jaque al Constitucional: el PP busca en las urnas lo que no puede hacer en el Senado para controlar el Tribunal",
-      "medio": "elDiario.es",
-      "url": "https://www.eldiario.es/politica/jaque-constitucional-pp-busca-urnas-no-senado-controlar-tribunal_129_13602054.html",
-      "fecha": "2026-10-21T19:53+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Con la nueva norma de Vox no se haría ‘La bola negra’, ¿pero tampoco ‘Torrente’?",
-      "medio": "elDiario.es",
-      "url": "https://www.eldiario.es/cultura/cine/nueva-norma-vox-no-haria-bola-negra-torrente_129_13604190.html",
-      "fecha": "2026-10-21T19:53+00:00",
-      "partidos": [
-        "vox"
-      ]
-    },
-    {
-      "titulo": "Feijóo y Abascal, un nuevo romance al calor de la motosierra",
-      "medio": "elDiario.es",
-      "url": "https://www.eldiario.es/opinion/zona-critica/feijoo-abascal-nuevo-romance-calor-motosierra_129_13602805.html",
-      "fecha": "2026-10-21T19:53+00:00",
-      "partidos": [
-        "pp",
-        "vox"
-      ]
-    },
-    {
-      "titulo": "El PP se enreda con las listas electorales de Castilla y León",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/castilla-leon/pp-enreda-castilla-leon-listas-electorales-20261021213037-nt.html",
-      "fecha": "2026-10-21T19:34+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Sánchez azuza el miedo a la motosierra de Milei: “Si Feijóo y Abascal gobiernan, van a hacer en España lo mismo que en Argentina”",
-      "medio": "El País",
-      "url": "https://elpais.com/espana/elecciones-generales/2026-10-21/sanchez-azuza-el-miedo-a-la-motosierra-de-milei-si-feijoo-y-abascal-gobiernan-van-a-hacer-en-espana-lo-mismo-que-en-argentina.html",
-      "fecha": "2026-10-21T19:01+00:00",
-      "partidos": [
-        "pp",
         "vox"
       ]
     }
