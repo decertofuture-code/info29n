@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-27T13:48+00:00",
+  "actualizado": "2026-10-27T17:42+00:00",
   "temas": [
     {
       "id": "vivienda",
@@ -449,10 +449,140 @@
   ],
   "noticias": [
     {
+      "titulo": "Pedraz blinda la causa de las cloacas de Ferraz con la continuidad de Balas al frente del caso para evitar \"alteraciones\"",
+      "medio": "El Mundo",
+      "url": "https://www.elmundo.es/espana/2026/10/27/6ae0da0021efa03e308b457b.html",
+      "fecha": "2026-10-27T17:36+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "Solo 10 diputados de Sumar repiten en las listas de Frente Amplio; Urtasun, único ministro",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/solo-diputados-sumar-repiten-listas-frente-amplio-20261027181716-nt.html",
+      "fecha": "2026-10-27T17:17+00:00",
+      "partidos": [
+        "sumar"
+      ]
+    },
+    {
+      "titulo": "Vox expulsa a sus dos ediles díscolos en Valencia y complica a Catalá el final del mandato",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/comunidad-valenciana/vox-expulsa-dos-ediles-discolos-valencia-20261027170555-nt.html",
+      "fecha": "2026-10-27T17:16+00:00",
+      "partidos": [
+        "vox"
+      ]
+    },
+    {
+      "titulo": "Precampaña elecciones generales en España, en directo: última hora de Pedro Sánchez (PSOE), Feijóo (PP), Abascal (Vox), Ada Colau (Frente Amplio) y resto de candidatos hoy",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/precampana-elecciones-generales-espana-directo-ultima-hora-20261027115927-di.html",
+      "fecha": "2026-10-27T17:16+00:00",
+      "partidos": [
+        "pp",
+        "psoe",
+        "vox",
+        "sumar"
+      ]
+    },
+    {
+      "titulo": "Un concejal de Vox en Tenerife, a otro de Podemos durante un pleno: \"Me tienes hasta los cojones, eres un hijo de puta\"",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/canariasahora/politica/concejal-vox-tenerife-podemos-durante-pleno-tienes-cojones-hijo-puta_1_13618736.html",
+      "fecha": "2026-10-27T17:14+00:00",
+      "partidos": [
+        "vox",
+        "podemos"
+      ]
+    },
+    {
+      "titulo": "Azcón aplaude el «inteligente» pacto para el Senado: «No aceptamos que el PSOE desnivele el tablero»",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/aragon/azcon-apoya-inteligente-pacto-senado-aceptamos-psoe-20261027172946-nt.html",
+      "fecha": "2026-10-27T17:07+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "Repullo, a María Jesús Montero tras los 18 ex altos cargos imputados: «No puede desentenderse de la corrupción del PSOE»",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/andalucia/repullo-maria-jesus-montero-tras-altos-cargos-20261027180319-nts.html",
+      "fecha": "2026-10-27T17:03+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "La Audiencia Nacional rechaza la querella de Leire Díez contra el PP por incluirla en un vídeo hecho con IA: \"Es un tema personal\"",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/politica/audiencia-nacional-inadmite-querella-leire-diez-pp-incluirle-video-hecho-ia-tema-personal_1_13619533.html",
+      "fecha": "2026-10-27T16:50+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "Vox expulsa a sus dos ediles díscolos del Ayuntamiento de València a un mes del 29-N",
+      "medio": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/local/valencia/20261027/11669521/vox-expulsa-dos-ediles-discolos-ayuntamiento-valencia-mes-29-n.html",
+      "fecha": "2026-10-27T16:20+00:00",
+      "partidos": [
+        "vox"
+      ]
+    },
+    {
+      "titulo": "Muere la diputada de Coalición Canaria Cristina Calero",
+      "medio": "El Mundo",
+      "url": "https://www.elmundo.es/espana/2026/10/27/6ae0c9ade85ece90648b45a8.html",
+      "fecha": "2026-10-27T16:02+00:00",
+      "partidos": [
+        "cc"
+      ]
+    },
+    {
+      "titulo": "Vox expulsa a Badenas y Herrero, sus dos concejales investigados, y deja en el aire la mayoría de Catalá en el Ayuntamiento de Valencia",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/comunitat-valenciana/politica/vox-expulsa-badenas-herrero-concejales-investigados-valencia_1_13619406.html",
+      "fecha": "2026-10-27T15:54+00:00",
+      "partidos": [
+        "vox"
+      ]
+    },
+    {
+      "titulo": "Moncloa se revuelve contra el PP e intenta vincularle con el clima de violencia en Barcelona y Bilbao",
+      "medio": "El Confidencial",
+      "url": "https://www.elconfidencial.com/espana/2026-10-27/pedro-sanchez-mayoria-absoluta-elecciones_4453921/",
+      "fecha": "2026-10-27T13:59+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "Feijóo, de bailar 'El Tiburón' en un acto de 2023 a declarar tres años después: \"Yo no bailo en los mítines\"",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/rastreador/feijoo-bailar-tiburon-acto-2023-declarar-tres-anos-despues-no-bailo-mitines_132_13618778.html",
+      "fecha": "2026-10-27T13:48+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
       "titulo": "Feijóo presenta a sus candidatos en Madrid marcando las diferencias con Sánchez: \"No robo, no miento y no me largo de vacaciones\"",
       "medio": "20minutos",
       "url": "https://www.20minutos.es/nacional/feijoo-presenta-sus-candidatos-madrid-marcando-las-diferencias-con-sanchez-no-robo-no-miento-no-me-largo-vacaciones_7054015_0.html",
       "fecha": "2026-10-27T13:45+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "Feijóo lanza con Ayuso la lista electoral de Madrid: \"Vamos a gobernar. Calentad, que salís\"",
+      "medio": "El Mundo",
+      "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/10/27/6ae0a2f7e4d4d80d248b457d.html",
+      "fecha": "2026-10-27T13:36+00:00",
       "partidos": [
         "pp"
       ]
@@ -541,6 +671,15 @@
       "fecha": "2026-10-27T12:45+00:00",
       "partidos": [
         "sumar"
+      ]
+    },
+    {
+      "titulo": "Abascal acusa a Sánchez de \"traer la violencia y la intimidación a la campaña contra Vox\": \"Son sus milicias en La Coruña, Cataluña y la playa del Trampolín\"",
+      "medio": "El Mundo",
+      "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/10/27/6ae08bb0e4d4d8d4588b4580.html",
+      "fecha": "2026-10-27T12:44+00:00",
+      "partidos": [
+        "vox"
       ]
     },
     {
@@ -633,6 +772,16 @@
       "medio": "elDiario.es",
       "url": "https://www.eldiario.es/madrid/somos/pp-vox-rechazan-recordar-maricarmen-placa-madrid-concejal-llama-jeta-fallecida_1_13618056.html",
       "fecha": "2026-10-27T11:32+00:00",
+      "partidos": [
+        "pp",
+        "vox"
+      ]
+    },
+    {
+      "titulo": "Los \"independientes\" de Vox que irán en la papeleta del PP: seis perfiles vinculados al partido de Abascal y organizaciones satélite",
+      "medio": "El Mundo",
+      "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/10/27/6ae07c9321efa071288b456e.html",
+      "fecha": "2026-10-27T11:24+00:00",
       "partidos": [
         "pp",
         "vox"
@@ -3113,155 +3262,6 @@
       "fecha": "2026-10-23T12:08+00:00",
       "partidos": [
         "psoe"
-      ]
-    },
-    {
-      "titulo": "El juez reprende al PSOE por no enviarle los datos de sus abogados y le da un ultimátum de 15 días",
-      "medio": "El Confidencial",
-      "url": "https://www.elconfidencial.com/espana/2026-10-23/pedraz-reprende-al-psoe-por-no-mandar-la-documentacion-corresponde-al-juez-dirigir-la-investigacion_4451685/",
-      "fecha": "2026-10-23T12:08+00:00",
-      "partidos": [
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "La estrategia de Vox en redes copia la IA del PP y agita el odio a la inmigración: “¡Todos fuera!”",
-      "medio": "El País",
-      "url": "https://elpais.com/espana/elecciones-generales/2026-10-23/la-estrategia-de-vox-en-redes-copia-la-ia-del-pp-y-agita-el-odio-a-la-inmigracion-todos-fuera.html",
-      "fecha": "2026-10-23T11:32+00:00",
-      "partidos": [
-        "pp",
-        "vox"
-      ]
-    },
-    {
-      "titulo": "El Gobierno alerta del “riesgo de involución” por las reformas del aborto y la eutanasia de Feijóo",
-      "medio": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/politica/20261023/11666438/gobierno-alerta-riesgo-involucion-reformas-aborto-eutanasia-feijoo.html",
-      "fecha": "2026-10-23T11:22+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Leire Díez se querella contra el PP por el vídeo con IA en el que dice haber \"contratado matones para quitar de en medio a una jueza\"",
-      "medio": "20minutos",
-      "url": "https://www.20minutos.es/nacional/leire-diez-se-querella-contra-pp-por-video-con-ia-que-dice-haber-contratado-matones-para-quitar-medio-una-jueza_7052589_0.html",
-      "fecha": "2026-10-23T10:45+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Feijóo quiere gas pimienta pero no quiere feminismo",
-      "medio": "elDiario.es",
-      "url": "https://www.eldiario.es/sociedad/feijoo-quiere-gas-pimienta-no-quiere-feminismo_129_13608948.html",
-      "fecha": "2026-10-23T10:35+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Leire Díez se querella contra el PP por el vídeo generado con IA para atacar al PSOE",
-      "medio": "El País",
-      "url": "https://elpais.com/espana/2026-10-23/leire-diez-se-querella-contra-el-pp-por-el-video-generado-con-ia-para-atacar-al-psoe.html",
-      "fecha": "2026-10-23T10:19+00:00",
-      "partidos": [
-        "pp",
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "La patronal renovable critica el nuevo impuesto del PP y Vox en Castilla y León: “Va contra la sociedad en su conjunto”",
-      "medio": "elDiario.es",
-      "url": "https://www.eldiario.es/economia/patronal-renovable-critica-nuevo-impuesto-pp-vox-castilla-leon-sociedad-conjunto_1_13609210.html",
-      "fecha": "2026-10-23T10:14+00:00",
-      "partidos": [
-        "pp",
-        "vox"
-      ]
-    },
-    {
-      "titulo": "La ministra Sira Rego tacha de \"pollaviejismo\" el discurso de Feijóo sobre feminismo tras decir que se ha \"criado en una casa con más mujeres que hombres\"",
-      "medio": "El Mundo",
-      "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/10/23/6adb2ddcfdddff2f678b456d.html",
-      "fecha": "2026-10-23T10:07+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Leire Díez se querella contra el PP por el vídeo con IA que le atribuye \"haber contratado a matones\" para \"quitar\" a una juez",
-      "medio": "El Mundo",
-      "url": "https://www.elmundo.es/espana/2026/10/23/6adb2ad0e85ece8f228b4580.html",
-      "fecha": "2026-10-23T10:03+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "El Gobierno acusa a Feijóo de cuestionar derechos de las mujeres tras anunciar que reabrirá el debate sobre el aborto",
-      "medio": "Europa Press",
-      "url": "https://www.europapress.es/nacional/noticia-gobierno-acusa-feijoo-cuestionar-derechos-mujeres-anunciar-reabrira-debate-aborto-20261023113102.html",
-      "fecha": "2026-10-23T09:31+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "El PNV afronta un proceso interno que amenaza con reabrir heridas",
-      "medio": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/local/paisvasco/20261023/11666312/pnv-afronta-proceso-interno-amenaza-reabrir-heridas.html",
-      "fecha": "2026-10-23T09:26+00:00",
-      "partidos": [
-        "pnv"
-      ]
-    },
-    {
-      "titulo": "Leire se querella contra el PP por el vídeo con IA que le atribuye «haber contratado a matones» para «quitar» a una juez",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/leire-querella-pp-video-ia-atribuye-haber-20261023111638-nt.html",
-      "fecha": "2026-10-23T09:16+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Leire se querella contra el PP por el vídeo con IA que le atribuye \"contratar a matones\" para \"quitar\" a una juez",
-      "medio": "Europa Press",
-      "url": "https://www.europapress.es/nacional/noticia-leire-querella-contra-pp-video-ia-le-atribuye-haber-contratado-matones-quitar-juez-20261023110617.html",
-      "fecha": "2026-10-23T09:06+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Feijóo meterá Igualdad “dentro de otros ministerios” y abrirá el debate del aborto en menores",
-      "medio": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/politica/20261023/11666277/feijoo-metera-igualdad-otros-ministerios-abrira-debate-aborto-menores.html",
-      "fecha": "2026-10-23T09:05+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Feijóo, dispuesto a “completar” la mayoría con Vox: “Mi primer objetivo es que Sánchez se vaya”",
-      "medio": "El País",
-      "url": "https://elpais.com/espana/elecciones-generales/2026-10-23/feijoo-intentara-gobernar-aunque-no-sea-la-lista-mas-votada-mi-primer-objetivo-es-que-sanchez-se-vaya.html",
-      "fecha": "2026-10-23T09:05+00:00",
-      "partidos": [
-        "pp",
-        "vox"
-      ]
-    },
-    {
-      "titulo": "Feijóo mantiene viva la posibilidad de pactos con Vox en el Senado y anuncia que no mantendrá un ministerio solo para Igualdad",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/feijoo-mantiene-viva-posibilidad-pactos-vox-senado-20261023092445-nt.html",
-      "fecha": "2026-10-23T08:55+00:00",
-      "partidos": [
-        "pp",
-        "vox"
       ]
     }
   ],
