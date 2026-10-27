@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-27T05:21+00:00",
+  "actualizado": "2026-10-27T09:36+00:00",
   "temas": [
     {
       "id": "vivienda",
@@ -449,6 +449,93 @@
   ],
   "noticias": [
     {
+      "titulo": "Miriam González sugiere que Sánchez es una línea roja para pactar con el PSOE: \"Ya tenía que haber dimitido\"",
+      "medio": "Europa Press",
+      "url": "https://www.europapress.es/nacional/noticia-miriam-gonzalez-sugiere-sanchez-linea-roja-pactar-psoe-ya-tenia-haber-dimitido-20261027102614.html",
+      "fecha": "2026-10-27T09:26+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "Feijóo promete recuperar el agravente de la «cara tapada» para los disturbios que retiraron PSOE y Podemos",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/feijoo-promete-recuperar-agravente-cara-tapada-disturbios-20261027094732-nt.html",
+      "fecha": "2026-10-27T09:24+00:00",
+      "partidos": [
+        "pp",
+        "psoe",
+        "podemos"
+      ]
+    },
+    {
+      "titulo": "La mitad de votantes de PP y Vox, a favor de aumentar impuestos a quien tenga más de una vivienda en propiedad",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/catalunya/mitad-votantes-pp-vox-favor-aumentar-impuestos-tenga-vivienda-propiedad_1_13616571.html",
+      "fecha": "2026-10-27T09:22+00:00",
+      "partidos": [
+        "pp",
+        "vox"
+      ]
+    },
+    {
+      "titulo": "Feijóo justifica su pacto \"táctico\" con Vox tras la \"coalición de desesperados\" de Sánchez: \"Ha cambiado el tablero\"",
+      "medio": "Europa Press",
+      "url": "https://www.europapress.es/nacional/noticia-feijoo-justifica-pacto-tactico-vox-coalicion-desesperados-sanchez-cambiado-tablero-20261027094743.html",
+      "fecha": "2026-10-27T08:47+00:00",
+      "partidos": [
+        "pp",
+        "vox"
+      ]
+    },
+    {
+      "titulo": "Renovación en las listas de Frente Amplio al Congreso: repiten solo diez diputados y Urtasun es el único ministro",
+      "medio": "Europa Press",
+      "url": "https://www.europapress.es/nacional/noticia-renovacion-listas-frente-amplio-congreso-repiten-solo-diez-diputados-urtasun-unico-ministro-20261027094152.html",
+      "fecha": "2026-10-27T08:41+00:00",
+      "partidos": [
+        "sumar"
+      ]
+    },
+    {
+      "titulo": "Vox avanza: la prioridad nacional y reducir la administración del Estado estará presente en la negociación con PP",
+      "medio": "Europa Press",
+      "url": "https://www.europapress.es/nacional/noticia-vox-avanza-prioridad-nacional-reducir-administracion-estado-estara-presente-negociacion-pp-20261027085524.html",
+      "fecha": "2026-10-27T07:55+00:00",
+      "partidos": [
+        "pp",
+        "vox"
+      ]
+    },
+    {
+      "titulo": "Quiénes son los candidatos de Vox al Senado integrados en las listas del PP",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/politica/son-candidatos-vox-senado-integrados-listas-pp_1_13617335.html",
+      "fecha": "2026-10-27T06:42+00:00",
+      "partidos": [
+        "pp",
+        "vox"
+      ]
+    },
+    {
+      "titulo": "Feijóo condena el nuevo intento de \"intimidación\" de la \"izquierda violenta\" en Bilbao y garantiza orden si gobierna",
+      "medio": "Europa Press",
+      "url": "https://www.europapress.es/nacional/noticia-feijoo-condena-nuevo-intento-intimidacion-izquierda-violenta-bilbao-garantiza-orden-si-gobierna-20261027073329.html",
+      "fecha": "2026-10-27T06:33+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "Cercanías, AVE y carreteras: las obras que Pedro Sánchez le deja a deber a Andalucía",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/andalucia/cercanias-ave-carreteras-obras-pedro-sanchez-deja-20261027072325-nts.html",
+      "fecha": "2026-10-27T06:23+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
       "titulo": "PP y Vox sellan un pacto en el Senado en busca de conservar la mayoría absoluta",
       "medio": "La Vanguardia",
       "url": "https://www.lavanguardia.com/politica/20261027/11668757/pp-vox-sellan-pacto-senado-busca-conservar-mayoria-absoluta.html",
@@ -561,6 +648,15 @@
       "fecha": "2026-10-27T00:28+00:00",
       "partidos": [
         "psoe"
+      ]
+    },
+    {
+      "titulo": "Feijóo apunta a un 'súperdepartamento' que unifique Emergencias con Novillo, el bombero que gestionó el peor incendio de Madrid, Filomena y la dana de 2023",
+      "medio": "El Mundo",
+      "url": "https://www.elmundo.es/madrid/2026/10/27/6adf78b521efa0fd028b458f.html",
+      "fecha": "2026-10-26T23:04+00:00",
+      "partidos": [
+        "pp"
       ]
     },
     {
@@ -3162,99 +3258,6 @@
       "fecha": "2026-10-22T18:57+00:00",
       "partidos": [
         "pp"
-      ]
-    },
-    {
-      "titulo": "Pedro Sánchez a Broncano en 'La Revuelta': Los casos de corrupción de Koldo y Ábalos han sido un error",
-      "medio": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/politica/20261022/11665757/entrevista-presidente-gobierno-pedro-sanchez-la-revuelta-david-broncano-ultima-hora-hoy-en-directo.html",
-      "fecha": "2026-10-22T18:47+00:00",
-      "partidos": [
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "El patrimonio inmobiliario de Pedro Sánchez: dos viviendas, dos plazas de aparcamiento y 12.845 euros anuales por alquilar inmuebles",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/patrimonio-inmobiliario-pedro-sanchez-dos-viviendas-dos-20261022193058-nt.html",
-      "fecha": "2026-10-22T18:42+00:00",
-      "partidos": [
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "El PP de Moreno apoya el plan de Vox de \"deportar\" inmigrantes para solucionar el “colapso” de la vivienda en España",
-      "medio": "elDiario.es",
-      "url": "https://www.eldiario.es/andalucia/pp-moreno-vota-plan-vox-deportar-inmigrantes-solucionar-colapso-vivienda-espana_1_13607776.html",
-      "fecha": "2026-10-22T18:11+00:00",
-      "partidos": [
-        "pp",
-        "vox"
-      ]
-    },
-    {
-      "titulo": "De las facturas del PSOE a la 'oposición' interna a Feijóo",
-      "medio": "El Mundo",
-      "url": "https://www.elmundo.es/espana/2026/10/22/6ada4fd6e4d4d8e0338b456e.html",
-      "fecha": "2026-10-22T18:08+00:00",
-      "partidos": [
-        "pp",
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "Pedro Sánchez en 'La Revuelta', en directo | La promesa de Sánchez a Broncano si gana las elecciones: \"Cuatro años más de 'La Revuelta' si el programa quiere\"",
-      "medio": "20minutos",
-      "url": "https://www.20minutos.es/nacional/pedro-sanchez-revuelta-directo-presidente-gobierno-acude-por-primera-vez-programa-david-broncano_7052299_6.html",
-      "fecha": "2026-10-22T18:00+00:00",
-      "partidos": [
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "Vox atribuye las protestas contra sus actos a violencia organizada desde la Moncloa",
-      "medio": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/politica/20261022/11665811/vox-atribuye-protestas-actos-violencia-organizada-moncloa.html",
-      "fecha": "2026-10-22T17:55+00:00",
-      "partidos": [
-        "vox"
-      ]
-    },
-    {
-      "titulo": "Las entidades memorialistas rompen con el Govern balear del PP por \"ignorar\" a las víctimas del franquismo",
-      "medio": "elDiario.es",
-      "url": "https://www.eldiario.es/illes-balears/sociedad/entidades-memorialistas-rompen-govern-balear-pp-ignorar-victimas-franquismo_1_13607878.html",
-      "fecha": "2026-10-22T17:45+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Abascal ordena vetar la investigación por la crisis de los cribados en Andalucía un año después de pedir la dimisión de Moreno",
-      "medio": "elDiario.es",
-      "url": "https://www.eldiario.es/andalucia/abascal-ordena-vetar-investigacion-crisis-cribados-andalucia-ano-despues-pedir-dimision-moreno_1_13605622.html",
-      "fecha": "2026-10-22T17:05+00:00",
-      "partidos": [
-        "vox"
-      ]
-    },
-    {
-      "titulo": "Sigue en directo la intervención de Abascal en el acto de Vox en Segovia",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/sigue-directo-intervencion-abascal-acto-vox-segovia-20261022185931-nt.html",
-      "fecha": "2026-10-22T16:59+00:00",
-      "partidos": [
-        "vox"
-      ]
-    },
-    {
-      "titulo": "Choque entre PSOE y PP por un vídeo generado con IA en el que dirigentes socialistas admiten delitos de corrupción",
-      "medio": "20minutos",
-      "url": "https://www.20minutos.es/nacional/choque-entre-psoe-pp-por-un-video-generado-con-ia-que-dirigentes-socialistas-admiten-delitos-corrupcion_7052277_0.html",
-      "fecha": "2026-10-22T16:54+00:00",
-      "partidos": [
-        "pp",
-        "psoe"
       ]
     }
   ],
