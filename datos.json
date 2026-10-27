@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-26T21:31+00:00",
+  "actualizado": "2026-10-27T05:21+00:00",
   "temas": [
     {
       "id": "vivienda",
@@ -449,6 +449,178 @@
   ],
   "noticias": [
     {
+      "titulo": "PP y Vox sellan un pacto en el Senado en busca de conservar la mayoría absoluta",
+      "medio": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/politica/20261027/11668757/pp-vox-sellan-pacto-senado-busca-conservar-mayoria-absoluta.html",
+      "fecha": "2026-10-27T05:00+00:00",
+      "partidos": [
+        "pp",
+        "vox"
+      ]
+    },
+    {
+      "titulo": "El PP cede puestos de salida a Vox en el Senado para intentar blindar la mayoría",
+      "medio": "El País",
+      "url": "https://elpais.com/espana/elecciones-generales/2026-10-27/el-pp-cede-puestos-de-salida-a-vox-en-el-senado-para-intentar-blindar-la-mayoria.html",
+      "fecha": "2026-10-27T04:30+00:00",
+      "partidos": [
+        "pp",
+        "vox"
+      ]
+    },
+    {
+      "titulo": "PP y Vox, una alianza clarificadora",
+      "medio": "El País",
+      "url": "https://elpais.com/espana/elecciones-generales/2026-10-27/pp-y-vox-una-alianza-clarificadora.html",
+      "fecha": "2026-10-27T04:30+00:00",
+      "partidos": [
+        "pp",
+        "vox"
+      ]
+    },
+    {
+      "titulo": "Feijóo hace de los disturbios de Barcelona uno de los ejes de su campaña contra Sánchez",
+      "medio": "El País",
+      "url": "https://elpais.com/espana/elecciones-generales/2026-10-27/feijoo-hace-de-los-disturbios-de-barcelona-uno-de-los-ejes-de-su-campana-contra-sanchez.html",
+      "fecha": "2026-10-27T04:30+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "El resultado de las elecciones del 29N en España si solo votasen los policías y militares: porcentajes de PP, PSOE, Vox y el resto de partidos",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/resultado-elecciones-29n-espana-solo-votasen-policias-20261027050000-nt.html",
+      "fecha": "2026-10-27T04:00+00:00",
+      "partidos": [
+        "pp",
+        "psoe",
+        "vox"
+      ]
+    },
+    {
+      "titulo": "\"Cataluña necesita orden y respeto\": Junts y Orriols ponen en la picota a Illa por los disturbios de Barcelona",
+      "medio": "El Confidencial",
+      "url": "https://www.elconfidencial.com/espana/cataluna/2026-10-27/junts-cuestiona-salvador-illa-disturbios-barcelona_4453448/",
+      "fecha": "2026-10-27T04:00+00:00",
+      "partidos": [
+        "junts"
+      ]
+    },
+    {
+      "titulo": "El excepcional caso de Teruel: por qué es la única provincia en la que Frente Amplio no presentará candidato",
+      "medio": "20minutos",
+      "url": "https://www.20minutos.es/nacional/excepcional-caso-teruel-por-que-es-unica-provincia-que-frente-amplio-no-presentara-candidato_7053613_0.html",
+      "fecha": "2026-10-27T04:00+00:00",
+      "partidos": [
+        "sumar"
+      ]
+    },
+    {
+      "titulo": "PP y Vox limitan su acuerdo en el Senado al reparto electoral: sin grupo propio para los de Abascal ni cesión de senadores",
+      "medio": "20minutos",
+      "url": "https://www.20minutos.es/nacional/pp-vox-limitan-su-acuerdo-senado-reparto-electoral-sin-grupo-propio-para-los-abascal-ni-cesion-senadores_7053600_0.html",
+      "fecha": "2026-10-27T04:00+00:00",
+      "partidos": [
+        "pp",
+        "vox"
+      ]
+    },
+    {
+      "titulo": "Las claves del 'pacto del Senado': dónde se retira el PP, dónde se retira Vox y qué ocurre en las otras 14 provincias con acuerdo",
+      "medio": "20minutos",
+      "url": "https://www.20minutos.es/nacional/las-claves-pacto-senado-donde-se-retira-pp-donde-se-retira-vox-que-ocurre-las-otras-14-provincias-con-acuerdo_7053592_0.html",
+      "fecha": "2026-10-27T04:00+00:00",
+      "partidos": [
+        "pp",
+        "vox"
+      ]
+    },
+    {
+      "titulo": "Feijóo aúpa a Inma Sanz, mano derecha de Almeida, como número 2 al Senado",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/madrid/feijoo-aupa-inma-sanz-numero-almeida-senado-20261026154122-nt.html",
+      "fecha": "2026-10-27T00:44+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "El juez Vilaplana imputa a 18 ex altos cargos del PSOE por desviar ayudas millonarias a Santana Motor",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/andalucia/juez-vilaplana-imputa-altos-cargos-psoe-inventar-20261027012926-nts.html",
+      "fecha": "2026-10-27T00:29+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "Un centenar de asambleas locales del PSOE de Madrid propusieron al delegado como candidato",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/madrid/centenar-asambleas-locales-psoe-madrid-propusieron-delegado-20261026012849-nt.html",
+      "fecha": "2026-10-27T00:28+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "Un informe desmonta las dudas del gurú de Feijóo sobre el autoconsumo: \"un activo estratégico para la industria\"",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/economia/informe-desmonta-dudas-guru-feijoo-autoconsumo-activo-estrategico-industria_1_13616190.html",
+      "fecha": "2026-10-26T23:02+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "Varios miembros de prensa, dirigentes en activo y un escritor: los independientes de Vox en las listas del PP al Senado",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/varios-miembros-prensa-escritor-independientes-vox-listas-20261026224349-nt.html",
+      "fecha": "2026-10-26T22:14+00:00",
+      "partidos": [
+        "pp",
+        "vox"
+      ]
+    },
+    {
+      "titulo": "La UCO acredita los 300.000 euros que Aldama vincula a la financiación ilegal del PSOE",
+      "medio": "El Mundo",
+      "url": "https://www.elmundo.es/espana/2026/10/26/6ade3a9dfc6c8337488b4597.html",
+      "fecha": "2026-10-26T21:47+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "PP y Vox cierran un acuerdo de mínimos para buscar el control total del Senado el 29N",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/politica/pp-vox-cierran-acuerdo-minimos-buscar-control-total-senado-29n_1_13616605.html",
+      "fecha": "2026-10-26T21:42+00:00",
+      "partidos": [
+        "pp",
+        "vox"
+      ]
+    },
+    {
+      "titulo": "El cine español responde al ataque de Vox en la Seminci: “Es censura, un desprecio absoluto”",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/cultura/cine/cine-espanol-responde-ataque-vox-seminci-censura-desprecio-absoluto_1_13615315.html",
+      "fecha": "2026-10-26T21:42+00:00",
+      "partidos": [
+        "vox"
+      ]
+    },
+    {
+      "titulo": "PP y Vox protegen 40 escaños en el Senado con un pacto \"puntual\" y \"defensivo\"",
+      "medio": "El Mundo",
+      "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/10/26/6adfa4d421efa00b508b458d.html",
+      "fecha": "2026-10-26T21:18+00:00",
+      "partidos": [
+        "pp",
+        "vox"
+      ]
+    },
+    {
       "titulo": "El núcleo duro de Feijóo, Jaime de los Santos, Alberto Nadal y alcaldesas: la lista del PP por Madrid",
       "medio": "ABC",
       "url": "https://www.abc.es/espana/nucleo-duro-feijoo-jaime-santos-alberto-nadal-20261026214002-nt.html",
@@ -800,6 +972,15 @@
       "medio": "ABC",
       "url": "https://www.abc.es/espana/madrid/feijoo-incluye-lista-madrid-novillo-dimitira-consejero-20261026141235-nt.html",
       "fecha": "2026-10-26T13:50+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "Feijóo 'ficha' al consejero de Emergencias de Ayuso y revoluciona Sol: el titular de Transportes asumirá su cartera y dejará paso a su mano derecha",
+      "medio": "El Mundo",
+      "url": "https://www.elmundo.es/madrid/2026/10/26/6adf4114fc6c83f0128b4581.html",
+      "fecha": "2026-10-26T13:26+00:00",
       "partidos": [
         "pp"
       ]
@@ -3073,182 +3254,6 @@
       "fecha": "2026-10-22T16:54+00:00",
       "partidos": [
         "pp",
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "Sánchez y Feijóo tendrán un 'cara a cara' el 16 de noviembre y se enzarzan por el debate a cuatro",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/debate-cara-cara-sanchez-feijoo-noviembre-20261022172329-nt.html",
-      "fecha": "2026-10-22T16:53+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Sánchez acepta un \"cara a cara\" con Feijóo y el PP rechaza que el debate a cuatro sea en RTVE",
-      "medio": "El Confidencial",
-      "url": "https://www.elconfidencial.com/espana/2026-10-22/psoe-acepta-debates-electorales-en-tve-1tps_4450985/",
-      "fecha": "2026-10-22T16:40+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Vox renueva más del 50% de sus cabezas de lista al Congreso",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/vox-renueva-cabezas-lista-congreso-desecha-criticos-20261022135541-nt.html",
-      "fecha": "2026-10-22T16:38+00:00",
-      "partidos": [
-        "vox"
-      ]
-    },
-    {
-      "titulo": "El PSOE se escuda en las elecciones y el secreto profesional para pedir más plazo para entregar al juez los datos sobre sus abogados",
-      "medio": "20minutos",
-      "url": "https://www.20minutos.es/nacional/psoe-espera-que-se-pronuncie-consejo-abogacia-antes-aportar-sus-contratos-con-letrados-juez-caso-las-cloacas_7052262_0.html",
-      "fecha": "2026-10-22T16:35+00:00",
-      "partidos": [
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "PSOE, PP y Vox coinciden en incorporar la bandera de España a la Policía Local pero discrepan en el cómo",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/castilla-la-mancha/psoe-pp-vox-coinciden-incorporar-bandera-espana-20261022183220-nt.html",
-      "fecha": "2026-10-22T16:34+00:00",
-      "partidos": [
-        "pp",
-        "psoe",
-        "vox"
-      ]
-    },
-    {
-      "titulo": "El Parlamento denuncia el «ninguneo» y los incumplimientos de Pedro Sánchez con Andalucía",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/andalucia/xxbb-20261022172227-nts.html",
-      "fecha": "2026-10-22T16:34+00:00",
-      "partidos": [
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "El PP denuncia que Page deja «desatendidos» a los alumnos con necesidades especiales",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/castilla-la-mancha/pp-denuncia-page-deja-desatendidos-alumnos-necesidades-20261022175915-nt.html",
-      "fecha": "2026-10-22T15:59+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Montesinos en Alicante y Albalat, en Castellón: las listas del PP obligan a cambiar el Consell",
-      "medio": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/local/valencia/20261022/11665718/montesinos-alicante-albalat-castellon-listas-pp-obligan-cambiar-consell.html",
-      "fecha": "2026-10-22T15:58+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "El PP reclama ayudas por los daños agrícolas en Casas de Haro (Cuenca) y la Junta los da por indemnizados",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/castilla-la-mancha/pp-reclama-ayudas-danos-agricolas-casas-haro-20261022175704-nt.html",
-      "fecha": "2026-10-22T15:57+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Sánchez acepta un 'cara a cara' con Feijóo el 16 de noviembre y un debate a cuatro el 26, pero exige que sea en RTVE y el PP lo rechaza",
-      "medio": "El Mundo",
-      "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/10/22/6ada2ea4e4d4d887418b45b8.html",
-      "fecha": "2026-10-22T15:54+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Sánchez acepta el cara a cara con Feijóo y pide que el debate a cuatro sea en TVE pero el PP rechaza el ente público",
-      "medio": "Europa Press",
-      "url": "https://www.europapress.es/nacional/noticia-sanchez-acepta-cara-cara-feijoo-quiere-debate-cuatro-26-noviembre-sea-tve-20261022175207.html",
-      "fecha": "2026-10-22T15:52+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "El PP rechaza un debate a cuatro en RTVE que el PSOE pone como condición para un cara a cara en Mediaset",
-      "medio": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/politica/20261022/11665724/psoe-acepta-cara-cara-sanchez-feijoo-16-noviembre-medios-privados.html",
-      "fecha": "2026-10-22T15:47+00:00",
-      "partidos": [
-        "pp",
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "PSOE y PP chocan por el 'debate a cuatro': Sánchez quiere RTVE y Feijóo, Atresmedia",
-      "medio": "elDiario.es",
-      "url": "https://www.eldiario.es/politica/sanchez-acepta-cara-cara-electoral-feijoo-16-noviembre_1_13607508.html",
-      "fecha": "2026-10-22T15:46+00:00",
-      "partidos": [
-        "pp",
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "El PP rechaza que el debate a cuatro sea en RTVE como pide el PSOE, pero habrá 'cara a cara' en una privada el 16 de noviembre",
-      "medio": "20minutos",
-      "url": "https://www.20minutos.es/nacional/sanchez-acepta-un-cara-cara-con-feijoo-16-noviembre-mientras-que-debate-cuatro-sera-diez-dias-despues-rtve_7052236_0.html",
-      "fecha": "2026-10-22T15:41+00:00",
-      "partidos": [
-        "pp",
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "El PP desata la polémica en la Asamblea de Extremadura por insultar a las “feministas de izquierdas”: “Están calladas como puertas”",
-      "medio": "El País",
-      "url": "https://elpais.com/espana/2026-10-22/el-pp-desata-la-polemica-en-la-asamblea-de-extremadura-por-insultar-a-las-feministas-de-izquierdas-estan-calladas-como-puertas.html",
-      "fecha": "2026-10-22T15:08+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Anticorrupción se opone a devolver el móvil al exjefe de gabinete de Sánchez en el PSOE",
-      "medio": "20minutos",
-      "url": "https://www.20minutos.es/nacional/anticorrupcion-se-opone-devolver-movil-exjefe-gabinete-sanchez-psoe_7052197_0.html",
-      "fecha": "2026-10-22T15:00+00:00",
-      "partidos": [
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "El micrófono abierto de Moreno pilla al vicepresidente andaluz de Vox insultando a Montero: \"Sinvergüenza\"",
-      "medio": "elDiario.es",
-      "url": "https://www.eldiario.es/andalucia/microfono-abierto-moreno-pilla-vicepresidente-andaluz-vox-insultando-montero-sinverguenza_1_13607183.html",
-      "fecha": "2026-10-22T14:42+00:00",
-      "partidos": [
-        "vox"
-      ]
-    },
-    {
-      "titulo": "La JEC rechaza abrir otro expediente a Pedro Sánchez, pero le recuerda su deber de neutralidad",
-      "medio": "Europa Press",
-      "url": "https://www.europapress.es/nacional/noticia-jec-descarta-expedientar-nuevo-sanchez-declaraciones-bruselas-le-ruega-neutralidad-20261022164035.html",
-      "fecha": "2026-10-22T14:40+00:00",
-      "partidos": [
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "El PSOE pide tiempo a Pedraz para entregarle los contratos con sus abogados porque puede afectar al secreto profesional",
-      "medio": "elDiario.es",
-      "url": "https://www.eldiario.es/politica/psoe-pide-tiempo-pedraz-entregarle-contratos-abogados-afectar-secreto-profesional_1_13607095.html",
-      "fecha": "2026-10-22T14:25+00:00",
-      "partidos": [
         "psoe"
       ]
     }
