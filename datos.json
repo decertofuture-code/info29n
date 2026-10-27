@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-27T17:42+00:00",
+  "actualizado": "2026-10-27T21:31+00:00",
   "temas": [
     {
       "id": "vivienda",
@@ -449,6 +449,89 @@
   ],
   "noticias": [
     {
+      "titulo": "Abascal anuncia una querella contra el subdelegado del Gobierno en Zamora por «actos de intimidación» durante su mitin",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/castilla-leon/abascal-anuncia-querella-subdelegado-gobierno-zamora-actos-20261027203917-nt.html",
+      "fecha": "2026-10-27T21:09+00:00",
+      "partidos": [
+        "vox"
+      ]
+    },
+    {
+      "titulo": "Velázquez reivindica a los 104 alcaldes toledanos del PP como «aval» para gobernar España",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/castilla-la-mancha/toledo/pueblos/velazquez-reivindica-104-alcaldes-toledanos-pp-aval-20261027214737-nt.html",
+      "fecha": "2026-10-27T20:47+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "Un abogado ligado al PP de Madrid denuncia un robo de documentación sobre disputas de afiliados",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/abogado-ligado-pp-madrid-denuncia-robo-documentacion-20261027214016-nt.html",
+      "fecha": "2026-10-27T20:42+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "Núñez pide a los votantes socialistas de la región que apoyen a Feijóo para rebajar la tensión en las calles",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/castilla-la-mancha/nunez-pide-votantes-socialistas-region-apoyen-feijoo-20261027212839-nt.html",
+      "fecha": "2026-10-27T20:28+00:00",
+      "partidos": [
+        "pp",
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "Abascal acusa sin pruebas al subdelegado del Gobierno en Zamora de estar \"detrás\" de una protesta contra el acto de Vox",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/castilla-y-leon/politica/abascal-acusa-pruebas-subdelegado-gobierno-zamora-detras-protesta-acto-vox_1_13619957.html",
+      "fecha": "2026-10-27T19:54+00:00",
+      "partidos": [
+        "vox"
+      ]
+    },
+    {
+      "titulo": "Abascal anuncia una querella contra el subdelegado del Gobierno en Zamora por los «actos de intimidación» durante su mitin",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/castilla-leon/abascal-anuncia-querella-subdelegado-gobierno-zamora-actos-20261027203458-nt.html",
+      "fecha": "2026-10-27T19:52+00:00",
+      "partidos": [
+        "vox"
+      ]
+    },
+    {
+      "titulo": "El acuerdo con Frente Amplio al Senado deja fuera a Tierraseca y a los alcaldes de Cañete, Carrizosa y Consuegra",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/castilla-la-mancha/toledo/acuerdo-frente-amplio-senado-deja-tierraseca-alcaldes-20261027202644-nt.html",
+      "fecha": "2026-10-27T19:28+00:00",
+      "partidos": [
+        "sumar"
+      ]
+    },
+    {
+      "titulo": "Gabriel Rufián e Irene Montero en 'La Revuelta', en directo | Los candidatos de ERC y Podemos acuden a su primera entrevista juntos",
+      "medio": "20minutos",
+      "url": "https://www.20minutos.es/nacional/gabriel-rufian-irene-montero-revuelta-directo-los-candidatos-erc-podemos-acuden-su-primera-entrevista-juntos_7054105_6.html",
+      "fecha": "2026-10-27T19:11+00:00",
+      "partidos": [
+        "erc",
+        "podemos"
+      ]
+    },
+    {
+      "titulo": "Vox se querella contra Lastra por los disturbios en el acto de Abascal en Avilés pese a que ya no era Delegada del Gobierno",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/asturias/vox-querella-lastra-acto-abascal_1_13619918.html",
+      "fecha": "2026-10-27T18:49+00:00",
+      "partidos": [
+        "vox"
+      ]
+    },
+    {
       "titulo": "Pedraz blinda la causa de las cloacas de Ferraz con la continuidad de Balas al frente del caso para evitar \"alteraciones\"",
       "medio": "El Mundo",
       "url": "https://www.elmundo.es/espana/2026/10/27/6ae0da0021efa03e308b457b.html",
@@ -531,6 +614,15 @@
       "fecha": "2026-10-27T16:20+00:00",
       "partidos": [
         "vox"
+      ]
+    },
+    {
+      "titulo": "Feijóo redobla sus acusaciones al Gobierno por los disturbios: “Cuanto más pierden, más tensión crean”",
+      "medio": "El País",
+      "url": "https://elpais.com/espana/elecciones-generales/2026-10-27/feijoo-redobla-sus-acusaciones-al-gobierno-por-los-disturbios-cuanto-mas-pierden-mas-tension-crean.html",
+      "fecha": "2026-10-27T16:13+00:00",
+      "partidos": [
+        "pp"
       ]
     },
     {
@@ -3171,97 +3263,6 @@
       "fecha": "2026-10-23T12:56+00:00",
       "partidos": [
         "pp"
-      ]
-    },
-    {
-      "titulo": "María José Catalá encabezará la lista del PP al Congreso por Valencia para el 29N",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/comunidad-valenciana/maria-jose-catala-encabezara-lista-pp-congreso-20261023142825-nt.html",
-      "fecha": "2026-10-23T12:50+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Sánchez dice a Feijóo que criarse con mujeres no le hace \"feminista\" y este le recuerda los casos en el PSOE: \"Orgías, prostitutas...\"",
-      "medio": "20minutos",
-      "url": "https://www.20minutos.es/nacional/sanchez-dice-feijoo-que-criarse-con-mujeres-no-le-hace-feminista-este-le-recuerda-los-casos-psoe-orgias-prostitutas_7052672_0.html",
-      "fecha": "2026-10-23T12:47+00:00",
-      "partidos": [
-        "pp",
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "Los exconsejeros Elías Bendodo, Juan Bravo y Carmen Crespo lideran las listas del PP de las elecciones del 29-N",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/andalucia/exconsejeros-elias-bendodo-juan-bravo-carmen-crespo-20261023142020-nts.html",
-      "fecha": "2026-10-23T12:39+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Podemos intenta pescar de la retirada de Frente Amplio en Teruel",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/podemos-intenta-pescar-retirada-frente-amplio-teruel-20261023140502-nt.html",
-      "fecha": "2026-10-23T12:35+00:00",
-      "partidos": [
-        "sumar"
-      ]
-    },
-    {
-      "titulo": "Las falsedades de Feijóo en la entrevista: del salario mínimo y el IRPF al aumento de la edad de jubilación",
-      "medio": "elDiario.es",
-      "url": "https://www.eldiario.es/politica/falsedades-feijoo-entrevista-salario-minimo-irpf-aumento-edad-jubilacion_1_13609274.html",
-      "fecha": "2026-10-23T12:31+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "IU descarta la concurrencia de Frente Amplio por Teruel por ser \"jurídicamente imposible\": \"No vamos a pedir el voto para otro partido\"",
-      "medio": "El Mundo",
-      "url": "https://www.elmundo.es/aragon/2026/10/23/6adb4a0121efa0a50b8b459e.html",
-      "fecha": "2026-10-23T12:23+00:00",
-      "partidos": [
-        "sumar"
-      ]
-    },
-    {
-      "titulo": "El juez Pedraz da quince días al PSOE para entregar \"sin más demora\" la documentación sobre sus abogados",
-      "medio": "20minutos",
-      "url": "https://www.20minutos.es/nacional/juez-pedraz-da-quince-dias-psoe-para-entregar-sin-mas-demora-documentacion-sobre-sus-abogados_7052662_0.html",
-      "fecha": "2026-10-23T12:18+00:00",
-      "partidos": [
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "El juez del 'caso Leire Díez' da 15 días al PSOE para entregar \"sin más demora\" documentación sobre abogados",
-      "medio": "Europa Press",
-      "url": "https://www.europapress.es/nacional/noticia-juez-caso-leire-diez-da-15-dias-psoe-entregar-mas-demora-documentacion-abogados-20261023141437.html",
-      "fecha": "2026-10-23T12:14+00:00",
-      "partidos": [
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "El PP apuesta por Marta Urgellés, dirigente de Nuevas Generaciones, como dos de Albiol",
-      "medio": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/politica/20261023/11666477/pp-apuesta-marta-urgelles-dirigente-nuevas-generaciones-dos-albiol.html",
-      "fecha": "2026-10-23T12:11+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Pedraz rechaza las alegaciones del PSOE y le da 15 días para entregar los contratos de sus abogados",
-      "medio": "El País",
-      "url": "https://elpais.com/espana/2026-10-23/pedraz-rechaza-las-alegaciones-del-psoe-y-le-da-15-dias-para-entregar-los-contratos-de-sus-abogados.html",
-      "fecha": "2026-10-23T12:08+00:00",
-      "partidos": [
-        "psoe"
       ]
     }
   ],
