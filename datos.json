@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-27T21:31+00:00",
+  "actualizado": "2026-10-28T05:28+00:00",
   "temas": [
     {
       "id": "vivienda",
@@ -448,6 +448,169 @@
     }
   ],
   "noticias": [
+    {
+      "titulo": "El PP halla en los disturbios callejeros nueva munición pesada contra el PSOE",
+      "medio": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/politica/20261028/11669640/pp-halla-disturbios-callejeros-nueva-municion-pesada-psoe.html",
+      "fecha": "2026-10-28T05:00+00:00",
+      "partidos": [
+        "pp",
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "Frente Amplio se reconstruye sobre el poder territorial de IU ante la pérdida de peso de Sumar",
+      "medio": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/politica/20261028/11669475/frente-amplio-reconstruye-sobre-territorial-iu-perdida-peso-sumar.html",
+      "fecha": "2026-10-28T05:00+00:00",
+      "partidos": [
+        "sumar"
+      ]
+    },
+    {
+      "titulo": "Iván Redondo, sobre la importancia de Cataluña en las elecciones generales: «Puede ser decisiva. Vox supera al PP y, solo en Barcelona, el PSC le saca ocho escaños al PP»",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/cataluna/ivan-redondo-sobre-importancia-cataluna-elecciones-generales-20261028053000-nt.html",
+      "fecha": "2026-10-28T04:31+00:00",
+      "partidos": [
+        "pp",
+        "vox"
+      ]
+    },
+    {
+      "titulo": "Abascal teme que Feijóo descuide al votante de centro por disputarle el electorado de Vox",
+      "medio": "El País",
+      "url": "https://elpais.com/espana/elecciones-generales/2026-10-28/abascal-teme-que-feijoo-descuide-al-votante-de-centro-por-disputarle-el-electorado-de-vox.html",
+      "fecha": "2026-10-28T04:30+00:00",
+      "partidos": [
+        "pp",
+        "vox"
+      ]
+    },
+    {
+      "titulo": "Ramón Espinar, exdirigente de Podemos: “La vivienda no es una agenda de la izquierda, es un problema de país”",
+      "medio": "El País",
+      "url": "https://elpais.com/espana/2026-10-28/ramon-espinar-exdirigente-de-podemos-la-vivienda-no-es-una-agenda-de-la-izquierda-es-un-problema-de-pais.html",
+      "fecha": "2026-10-28T04:30+00:00",
+      "partidos": [
+        "podemos"
+      ]
+    },
+    {
+      "titulo": "PP, PSPV y Vox escenifican el guion de su campaña en Valencia",
+      "medio": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/local/valencia/20261028/11669483/pp-pspv-vox-escenifican-guion-campana-valencia.html",
+      "fecha": "2026-10-28T04:30+00:00",
+      "partidos": [
+        "pp",
+        "vox"
+      ]
+    },
+    {
+      "titulo": "Encuestas elecciones generales en Galicia: resultados de PP, PSOE, Vox, Sumar y BNG y ganador según los sondeos el 29N",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/galicia/encuestas-elecciones-generales-galicia-resultados-pp-psoe-20261028051500-nt.html",
+      "fecha": "2026-10-28T04:15+00:00",
+      "partidos": [
+        "pp",
+        "psoe",
+        "vox",
+        "sumar",
+        "bng"
+      ]
+    },
+    {
+      "titulo": "La seguridad irrumpe en campaña: el PP acusa al Gobierno de \"alentar los disturbios\" y Moncloa intenta encapsular a Sánchez",
+      "medio": "20minutos",
+      "url": "https://www.20minutos.es/nacional/seguridad-irrumpe-campana-pp-acusa-gobierno-alentar-los-disturbios-moncloa-intenta-encapsular-sanchez_7054120_0.html",
+      "fecha": "2026-10-28T04:00+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "El juez Vilaplana investiga los 85 millones que el Gobierno andaluz del PSOE pagó por comprar inmuebles que ya eran suyos",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/andalucia/juez-vilaplana-investiga-millones-pago-gobierno-andaluz-20261028012554-nts.html",
+      "fecha": "2026-10-28T00:25+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "Cayetano González: «Bildu no ha pedido perdón a los padres de niños asesinados por ETA. Es una falta de catadura moral»",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/cayetano-gonzalez-bildu-pedido-perdon-padres-ninos-20261027012427-nt.html",
+      "fecha": "2026-10-28T00:24+00:00",
+      "partidos": [
+        "bildu"
+      ]
+    },
+    {
+      "titulo": "La obsesión centralista de Podemos pone en fuga a sus referentes andaluces y condena al partido a la irrelevancia en la comunidad más poblada",
+      "medio": "El Mundo",
+      "url": "https://www.elmundo.es/andalucia/2026/10/28/6ae0c09ce9cf4a3f278b4578.html",
+      "fecha": "2026-10-27T23:00+00:00",
+      "partidos": [
+        "podemos"
+      ]
+    },
+    {
+      "titulo": "Segundo intento de prohibir el burka en Lérida: el PSC impulsa el veto junto a Junts y Vox",
+      "medio": "El Mundo",
+      "url": "https://www.elmundo.es/cataluna/2026/10/28/6adb80b5e85ece09208b456e.html",
+      "fecha": "2026-10-27T23:00+00:00",
+      "partidos": [
+        "vox",
+        "junts"
+      ]
+    },
+    {
+      "titulo": "Rufián apuesta en 'La Revuelta' por un nuevo Gobierno del PSOE \"sometido\" por la izquierda y Montero llama al \"voto útil\"",
+      "medio": "20minutos",
+      "url": "https://www.20minutos.es/nacional/rufian-apuesta-revuelta-por-un-nuevo-gobierno-psoe-sometido-por-izquierda-montero-llama-voto-util_7054227_0.html",
+      "fecha": "2026-10-27T22:45+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "Irene Montero y Gabriel Rufián, en 'La Revuelta': \"El PSOE jamás se va a atrever a expropiar o nacionalizar, nosotras sí\"",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/politica/irene-montero-gabriel-rufian-revuelta-psoe-atrever-expropiar-nacionalizar-si_1_13620221.html",
+      "fecha": "2026-10-27T22:25+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "Feijóo convierte los disturbios en material de campaña ante el auge de Vox en las encuestas",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/politica/feijoo-convierte-disturbios-material-campana-auge-vox-encuestas_1_13619429.html",
+      "fecha": "2026-10-27T21:30+00:00",
+      "partidos": [
+        "pp",
+        "vox"
+      ]
+    },
+    {
+      "titulo": "PP, una táctica capaz de sepultar la democracia",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/opinion/zona-critica/pp-tactica-capaz-sepultar-democracia_129_13618903.html",
+      "fecha": "2026-10-27T21:30+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "Abascal y Orriols: la patria era lo de menos",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/opinion/zona-critica/abascal-orriols-patria_129_13619390.html",
+      "fecha": "2026-10-27T21:30+00:00",
+      "partidos": [
+        "vox"
+      ]
+    },
     {
       "titulo": "Abascal anuncia una querella contra el subdelegado del Gobierno en Zamora por «actos de intimidación» durante su mitin",
       "medio": "ABC",
@@ -3106,163 +3269,6 @@
       "fecha": "2026-10-23T18:31+00:00",
       "partidos": [
         "vox"
-      ]
-    },
-    {
-      "titulo": "Feijóo convierte la reconstrucción de Valencia en bandera para dejar atrás a Sánchez",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/comunidad-valenciana/feijoo-convierte-reconstruccion-valencia-bandera-dejar-atras-20261023195331-nt.html",
-      "fecha": "2026-10-23T18:13+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "El Frente Amplio tendrá el 30% de los puestos en las listas conjuntas con el PSOE para el Senado",
-      "medio": "elDiario.es",
-      "url": "https://www.eldiario.es/politica/frente-amplio-tendra-30-puestos-listas-conjuntas-psoe-senado_1_13611215.html",
-      "fecha": "2026-10-23T18:12+00:00",
-      "partidos": [
-        "psoe",
-        "sumar"
-      ]
-    },
-    {
-      "titulo": "Feijóo pide \"estar a la altura\" para \"pasar página\" de Sánchez el 29N: \"España necesita un servidor y no un impostor\"",
-      "medio": "Europa Press",
-      "url": "https://www.europapress.es/comunitat-valenciana/noticia-feijoo-pide-estar-altura-pasar-pagina-sanchez-29n-espana-necesita-servidor-no-impostor-20261023195713.html",
-      "fecha": "2026-10-23T17:57+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Ada Colau: \"No habrá un Gobierno progresista solo con un buen resultado del PSOE\"",
-      "medio": "elDiario.es",
-      "url": "https://www.eldiario.es/catalunya/ada-colau-no-habra-gobierno-progresista-buen-resultado-psoe_1_13610906.html",
-      "fecha": "2026-10-23T17:36+00:00",
-      "partidos": [
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "Renovación parcial y dimisiones obligadas en las listas del PP de Castilla y León para el 29N",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/castilla-leon/renovacion-parcial-dimisiones-obligadas-listas-pp-castilla-20261023183504-nt.html",
-      "fecha": "2026-10-23T16:38+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "El BNG evita la condena explícita de la violencia de los radicales en La Coruña y señala a la Policía",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/galicia/bng-evita-condena-explicita-violencia-coruna-senala-20261023181918-nt.html",
-      "fecha": "2026-10-23T16:24+00:00",
-      "partidos": [
-        "bng"
-      ]
-    },
-    {
-      "titulo": "Génova da una vuelta a las listas del PPdeG para las elecciones del 29-N",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/galicia/genova-vuelta-listas-ppdeg-elecciones-29n-20261023175405-nt.html",
-      "fecha": "2026-10-23T16:11+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Las listas del PP obligan a Rueda, Mañueco, Buruaga, Llorca y López Miras a remodelar sus Gobiernos regionales",
-      "medio": "20minutos",
-      "url": "https://www.20minutos.es/nacional/las-listas-pp-obligan-rueda-manueco-buruaga-llorca-lopez-miras-remodelar-sus-gobiernos-regionales_7052770_0.html",
-      "fecha": "2026-10-23T15:32+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Podemos minimiza la dimisión del coordinador en Aragón y pide el voto en Teruel ante la renuncia del Frente Amplio",
-      "medio": "elDiario.es",
-      "url": "https://www.eldiario.es/aragon/politica/minimiza-dimision-coordinador-aragon-pide-voto-teruel-renuncia-frente-amplio_1_13610662.html",
-      "fecha": "2026-10-23T15:19+00:00",
-      "partidos": [
-        "sumar"
-      ]
-    },
-    {
-      "titulo": "Vox exige al PP tener grupo propio en el Senado y protagonismo en Cataluña",
-      "medio": "El País",
-      "url": "https://elpais.com/espana/2026-10-23/vox-exige-al-pp-tener-grupo-propio-en-el-senado-y-protagonismo-en-cataluna.html",
-      "fecha": "2026-10-23T13:18+00:00",
-      "partidos": [
-        "pp",
-        "vox"
-      ]
-    },
-    {
-      "titulo": "La alcaldesa Catalá encabezará la lista del PP por Valencia y se medirá a Bernabé en una previa de la batalla municipal",
-      "medio": "El Mundo",
-      "url": "https://www.elmundo.es/comunidad-valenciana/2026/10/23/6adb5949e85eceb6048b458b.html",
-      "fecha": "2026-10-23T13:13+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "El juez Pedraz acusa al PSOE de retrasar \"artificialmente\" la entrega de documentación del 'caso Cloacas' y reclama al partido que cumpla \"sin más demora\"",
-      "medio": "El Mundo",
-      "url": "https://www.elmundo.es/espana/2026/10/23/6adb4915fdddff3d6d8b4595.html",
-      "fecha": "2026-10-23T13:12+00:00",
-      "partidos": [
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "Prohens saca adelante el techo de gasto y abre la negociación presupuestaria con Vox",
-      "medio": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/politica/20261023/11666549/prohens-saca-adelante-techo-gasto-abre-negociacion-presupuestaria-vox.html",
-      "fecha": "2026-10-23T13:05+00:00",
-      "partidos": [
-        "vox"
-      ]
-    },
-    {
-      "titulo": "Vox lamenta la «indefensión» del sector del aceite de la región ante la competencia con terceros países",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/castilla-la-mancha/vox-lamenta-indefension-sector-aceite-region-ante-20261023150407-nt.html",
-      "fecha": "2026-10-23T13:04+00:00",
-      "partidos": [
-        "vox"
-      ]
-    },
-    {
-      "titulo": "El PSOE cederá el segundo lugar de la lista del Senado a Frente Amplio en todas las provincias de Castilla-La Mancha",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/castilla-la-mancha/psoe-cedera-segundo-lugar-lista-senado-frente-20261023133043-nt.html",
-      "fecha": "2026-10-23T13:02+00:00",
-      "partidos": [
-        "psoe",
-        "sumar"
-      ]
-    },
-    {
-      "titulo": "Agudo (PP): «Page está entregado al sanchismo y tiene que tragar con los comunistas de Sumar en las listas del Senado»",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/castilla-la-mancha/agudo-pp-page-entregado-sanchismo-tragar-comunistas-20261023145454-nt.html",
-      "fecha": "2026-10-23T12:59+00:00",
-      "partidos": [
-        "pp",
-        "sumar"
-      ]
-    },
-    {
-      "titulo": "Feijóo designa a Catalá como cabeza de lista al Congreso por Valencia",
-      "medio": "elDiario.es",
-      "url": "https://www.eldiario.es/comunitat-valenciana/politica/feijoo-designa-catala-cabeza-lista-congreso-valencia_1_13610058.html",
-      "fecha": "2026-10-23T12:56+00:00",
-      "partidos": [
-        "pp"
       ]
     }
   ],
