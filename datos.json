@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-28T09:44+00:00",
+  "actualizado": "2026-10-28T13:55+00:00",
   "temas": [
     {
       "id": "vivienda",
@@ -449,6 +449,127 @@
   ],
   "noticias": [
     {
+      "titulo": "Abascal acusa al «Gobierno criminal» de usar el «dolor de la víctimas» del accidente de Urda para cancelar la precampaña del 29N",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/abascal-acusa-gobierno-criminal-usar-dolor-victimas-20261028123006-nt.html",
+      "fecha": "2026-10-28T13:44+00:00",
+      "partidos": [
+        "vox"
+      ]
+    },
+    {
+      "titulo": "Jacinto Muñoz (PP), nuevo alcalde de Algeciras con el apoyo de Vox al prosperar la moción contra un Landaluce ausente",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/andalucia/cadiz/jacinto-munoz-pp-nuevo-alcalde-algeciras-apoyo-vox-prosperar-mocion-landaluce-ausente_1_13621804.html",
+      "fecha": "2026-10-28T13:21+00:00",
+      "partidos": [
+        "pp",
+        "vox"
+      ]
+    },
+    {
+      "titulo": "El rechazo en febrero de Junts, PP y Vox impide topar precios para evitar subidas excesivas por el accidente",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/economia/rechazo-congreso-junts-pp-vox-impide-topar-precios-evitar-excesos-accidente_1_13621745.html",
+      "fecha": "2026-10-28T13:00+00:00",
+      "partidos": [
+        "pp",
+        "vox",
+        "junts"
+      ]
+    },
+    {
+      "titulo": "Abascal expresa su “absoluta rabia” y acusa al Gobierno de ser una “organización criminal”",
+      "medio": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/politica/20261028/11670193/abascal-expresa-absoluta-rabia-acusa-gobierno-organizacion-criminal.html",
+      "fecha": "2026-10-28T12:30+00:00",
+      "partidos": [
+        "vox"
+      ]
+    },
+    {
+      "titulo": "El exjuez ligado a las cloacas niega contactos con los Rocho y dice que le presentaron a Leire como una periodista vinculada al PSOE",
+      "medio": "20minutos",
+      "url": "https://www.20minutos.es/nacional/exjuez-ligado-las-cloacas-niega-contactos-con-los-rocho-dice-que-le-presentaron-leire-como-una-periodista-vinculada-psoe_7054481_0.html",
+      "fecha": "2026-10-28T12:20+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "El president del Parlament balear (Vox), en el banquillo acusado de un delito de odio",
+      "medio": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/politica/20261028/11670151/le-senne-vox-sienta-banquillo-acusado-delito-odio.html",
+      "fecha": "2026-10-28T12:15+00:00",
+      "partidos": [
+        "vox"
+      ]
+    },
+    {
+      "titulo": "Abascal, único candidato que no suspende la agenda de campaña tras el accidente de tren en Toledo",
+      "medio": "El Mundo",
+      "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/10/28/6ae0e5f4e4d4d8dd228b45c3.html",
+      "fecha": "2026-10-28T12:06+00:00",
+      "partidos": [
+        "vox"
+      ]
+    },
+    {
+      "titulo": "La exministra Fátima Báñez viajaba en uno de los trenes accidentados en Toledo y el PP confirma que no logra localizarla",
+      "medio": "20minutos",
+      "url": "https://www.20minutos.es/nacional/exministra-fatima-banez-viajaba-uno-los-trenes-accidentados-toledo_7054453_0.html",
+      "fecha": "2026-10-28T11:30+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "Abascal, único líder que mantiene sus mítines electorales, culpa al Gobierno de la tragedia de Urda",
+      "medio": "El País",
+      "url": "https://elpais.com/espana/2026-10-28/abascal-unico-lider-que-mantiene-sus-mitines-electorales-pese-a-la-tragedia.html",
+      "fecha": "2026-10-28T11:09+00:00",
+      "partidos": [
+        "vox"
+      ]
+    },
+    {
+      "titulo": "Todos los partidos, salvo Vox, suspenden sus actos de precampaña por el accidente de Toledo y el Gobierno cancela su agenda",
+      "medio": "20minutos",
+      "url": "https://www.20minutos.es/nacional/todos-los-partidos-salvo-vox-suspenden-sus-actos-precampana-por-accidente-toledo-gobierno-cancela-su-agenda_7054429_0.html",
+      "fecha": "2026-10-28T11:08+00:00",
+      "partidos": [
+        "vox"
+      ]
+    },
+    {
+      "titulo": "Vox mantiene su agenda y ataca al Gobierno con el accidente de Toledo: \"La campaña del amor del PSOE causa muertos\"",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/politica/vox-mantiene-agenda-ataca-gobierno-accidente-toledo-campana-amor-psoe-causa-muertos_1_13620836.html",
+      "fecha": "2026-10-28T10:04+00:00",
+      "partidos": [
+        "psoe",
+        "vox"
+      ]
+    },
+    {
+      "titulo": "Feijóo está en contacto con Page y el alcalde de Urda y les ofrece \"su apoyo en estos momentos difíciles\"",
+      "medio": "Europa Press",
+      "url": "https://www.europapress.es/nacional/noticia-feijoo-contacto-page-alcalde-urda-les-ofrece-apoyo-momentos-dificiles-20261028110259.html",
+      "fecha": "2026-10-28T10:02+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "Abascal culpa del accidente a Sánchez y a la \"degradación\" de la infraestructura y no suspende su agenda",
+      "medio": "Europa Press",
+      "url": "https://www.europapress.es/nacional/noticia-abascal-denuncia-insoportable-degradacion-infraestructura-ferroviaria-no-suspendera-agenda-20261028104828.html",
+      "fecha": "2026-10-28T09:48+00:00",
+      "partidos": [
+        "vox"
+      ]
+    },
+    {
       "titulo": "La Comisión Europea analiza la denuncia que Junts presentó por la regularización de migrantes",
       "medio": "La Vanguardia",
       "url": "https://www.lavanguardia.com/politica/20261028/11669996/comision-europea-analiza-denuncia-junts-presento-regularizacion-migrantes.html",
@@ -528,6 +649,15 @@
       "fecha": "2026-10-28T08:18+00:00",
       "partidos": [
         "psoe"
+      ]
+    },
+    {
+      "titulo": "Begoña Gómez presenta una denuncia por suplantación de imagen por el vídeo del PP hecho con inteligencia artificial",
+      "medio": "El Mundo",
+      "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/10/28/6ae1a983e85ece095e8b456f.html",
+      "fecha": "2026-10-28T07:56+00:00",
+      "partidos": [
+        "pp"
       ]
     },
     {
@@ -665,6 +795,15 @@
       ]
     },
     {
+      "titulo": "El trío de alcaldesas del fortín electoral de Ayuso que Feijóo ha fichado para llegar a la Moncloa: \"El 29-N empieza la reconstrucción de España\"",
+      "medio": "El Mundo",
+      "url": "https://www.elmundo.es/madrid/2026/10/28/6ae0fa8a21efa0236a8b457d.html",
+      "fecha": "2026-10-27T23:15+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
       "titulo": "La obsesión centralista de Podemos pone en fuga a sus referentes andaluces y condena al partido a la irrelevancia en la comunidad más poblada",
       "medio": "El Mundo",
       "url": "https://www.elmundo.es/andalucia/2026/10/28/6ae0c09ce9cf4a3f278b4578.html",
@@ -699,6 +838,15 @@
       "fecha": "2026-10-27T22:25+00:00",
       "partidos": [
         "psoe"
+      ]
+    },
+    {
+      "titulo": "El PP propone multar a los padres por la violencia callejera de sus hijos menores de edad",
+      "medio": "El Mundo",
+      "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/10/27/6ae0fa8ce4d4d831028b4591.html",
+      "fecha": "2026-10-27T21:40+00:00",
+      "partidos": [
+        "pp"
       ]
     },
     {
@@ -3109,159 +3257,6 @@
       "fecha": "2026-10-24T11:44+00:00",
       "partidos": [
         "pp"
-      ]
-    },
-    {
-      "titulo": "Montero y Rufián presumen de alianza entre ERC y Podemos y recrudecen sus ataques contra todos: \"El frente somos nosotros\"",
-      "medio": "El Mundo",
-      "url": "https://www.elmundo.es/cataluna/2026/10/24/6adc985b21efa088288b45b4.html",
-      "fecha": "2026-10-24T11:38+00:00",
-      "partidos": [
-        "erc",
-        "podemos"
-      ]
-    },
-    {
-      "titulo": "Junts critica la alianza de Rufián y Montero y se reivindica como el \"único partido que defiende los intereses de Cataluña\"",
-      "medio": "20minutos",
-      "url": "https://www.20minutos.es/nacional/junts-critica-alianza-rufian-montero-se-reivindica-como-unico-partido-que-defiende-los-intereses-cataluna_7052947_0.html",
-      "fecha": "2026-10-24T11:34+00:00",
-      "partidos": [
-        "junts"
-      ]
-    },
-    {
-      "titulo": "¿Cuáles son los partidos políticos que integran Frente Amplio?",
-      "medio": "20minutos",
-      "url": "https://www.20minutos.es/nacional/cuales-son-partidos-politicos-integran-frente-amplio_7052921_0.html",
-      "fecha": "2026-10-24T11:32+00:00",
-      "partidos": [
-        "sumar"
-      ]
-    },
-    {
-      "titulo": "Sánchez reivindica \"la España de Lorca\" frente a \"las tijeras\" de Feijóo y \"la motosierra\" de Abascal",
-      "medio": "elDiario.es",
-      "url": "https://www.eldiario.es/politica/sanchez-reivindica-espana-lorca-frente-tijeras-feijoo-motosierra-abascal_1_13611964.html",
-      "fecha": "2026-10-24T11:22+00:00",
-      "partidos": [
-        "pp",
-        "vox"
-      ]
-    },
-    {
-      "titulo": "Rufián y Montero abren la campaña conjunta de ERC y Podemos: \"Feijóo quiere un país de mujeres esclavizadas\"",
-      "medio": "elDiario.es",
-      "url": "https://www.eldiario.es/catalunya/rufian-montero-abren-campana-conjunta-erc-feijoo-quiere-pais-mujeres-esclavizadas_1_13611024.html",
-      "fecha": "2026-10-24T11:10+00:00",
-      "partidos": [
-        "pp",
-        "erc",
-        "podemos"
-      ]
-    },
-    {
-      "titulo": "Frente Amplio propone fijar la jubilación a los 65 años y garantizar pensiones iguales o superiores al salario mínimo",
-      "medio": "20minutos",
-      "url": "https://www.20minutos.es/nacional/frente-amplio-propone-fijar-jubilacion-los-65-anos-garantizar-pensiones-iguales-superiores-salario-minimo_7052938_0.html",
-      "fecha": "2026-10-24T11:03+00:00",
-      "partidos": [
-        "sumar"
-      ]
-    },
-    {
-      "titulo": "El PP censura que a Sánchez le abrieran el Reina Sofía para su vídeo antibelicista y que se \"apropie\" del Guernica",
-      "medio": "20minutos",
-      "url": "https://www.20minutos.es/nacional/pp-censura-que-sanchez-le-abrieran-reina-sofia-para-su-video-antibelicista-que-se-apropie-guernica_7052934_0.html",
-      "fecha": "2026-10-24T10:44+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Listas completas del PP de Córdoba al Congreso y el Senado en las elecciones del 29-N: Fuentes encabeza la Cámara Alta",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/andalucia/cordoba/listas-completas-pp-cordoba-congreso-senado-elecciones-20261024104650-nts.html",
-      "fecha": "2026-10-24T09:09+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Antonio Repullo, secretario general del PP-A : «Andalucía es la España que viene»",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/andalucia/antonio-repullo-secretario-general-ppa-andalucia-espana-20261024070757-nts.html",
-      "fecha": "2026-10-24T08:39+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Encuestas elecciones generales del 29N País Vasco: resultados de PSOE, PP, Bildu y PNV y ganador según los sondeos",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/pais-vasco/encuestas-elecciones-generales-29n-pais-vasco-resultados-20261024053000-nt.html",
-      "fecha": "2026-10-24T07:58+00:00",
-      "partidos": [
-        "pp",
-        "psoe",
-        "bildu",
-        "pnv"
-      ]
-    },
-    {
-      "titulo": "El PP sitúa a Catalá como cabeza de lista por Valencia",
-      "medio": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/politica/20261024/11666874/pp-situa-catala-cabeza-lista-valencia.html",
-      "fecha": "2026-10-24T06:26+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Milei llama de nuevo \"ladrón corrupto\" a Pedro Sánchez durante un discurso en Argentina",
-      "medio": "El Mundo",
-      "url": "https://www.elmundo.es/espana/2026/10/24/6adc4677e9cf4a96448b45b0.html",
-      "fecha": "2026-10-24T05:47+00:00",
-      "partidos": [
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "Feijóo se fija el objetivo de subir el salario medio y no únicamente el sueldo mínimo",
-      "medio": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/politica/20261024/11666722/feijoo-fija-objetivo-subir-salario-medio-unicamente-sueldo-minimo.html",
-      "fecha": "2026-10-24T04:00+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Puigdemont no olvida: desplante a la Generalitat de Illa en el concierto de María del Mar Bonet en París",
-      "medio": "El Confidencial",
-      "url": "https://www.elconfidencial.com/espana/cataluna/2026-10-24/troleo-puigdemont-generalitat-maria-del-mar-bonet_4451525/",
-      "fecha": "2026-10-24T03:00+00:00",
-      "partidos": [
-        "junts"
-      ]
-    },
-    {
-      "titulo": "El PSOE intenta montar una campaña contra Feijóo cuestionando su feminismo",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/psoe-monta-campana-feijoo-cuestionando-feminismo-20261024020639-nt.html",
-      "fecha": "2026-10-24T00:34+00:00",
-      "partidos": [
-        "pp",
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "El PSOE espera miles de 'votos útiles' desde el Frente Amplio por el \"efecto arrastre\" del Senado al Congreso: \"El primer milagro es que la gente ve posible la victoria de verdad\"",
-      "medio": "El Mundo",
-      "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/10/24/6adb86fbe9cf4abc388b45a2.html",
-      "fecha": "2026-10-23T23:10+00:00",
-      "partidos": [
-        "psoe",
-        "sumar"
       ]
     }
   ],
