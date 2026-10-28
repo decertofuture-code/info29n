@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-28T17:42+00:00",
+  "actualizado": "2026-10-28T21:35+00:00",
   "temas": [
     {
       "id": "vivienda",
@@ -449,6 +449,15 @@
   ],
   "noticias": [
     {
+      "titulo": "Abascal carga contra Óscar Puente, \"el ministro de la muerte\": \"No vamos a creer nada que diga el Gobierno hasta el 29N\"",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/castilla-y-leon/politica/abascal-carga-oscar-puente-ministro-muerte-no-creer-diga-gobierno-29n_1_13619749.html",
+      "fecha": "2026-10-28T19:30+00:00",
+      "partidos": [
+        "vox"
+      ]
+    },
+    {
       "titulo": "Accidente de tren en Toledo: muertos, heridos, causas, y comparecencia de Pedro Sánchez hoy, en directo",
       "medio": "ABC",
       "url": "https://www.abc.es/espana/accidente-ave-sevilla-madrid-toledo-directo-heridos-20261028094604-di.html",
@@ -602,6 +611,15 @@
       "fecha": "2026-10-28T15:07+00:00",
       "partidos": [
         "sumar"
+      ]
+    },
+    {
+      "titulo": "Pedro Sánchez promete llegar “hasta el final” para esclarecer el accidente de tren: “No es asumible para España sufrir dos el mismo año”",
+      "medio": "El País",
+      "url": "https://elpais.com/espana/2026-10-28/pedro-sanchez-promete-llegar-hasta-el-final-para-esclarecer-el-accidente-de-tren-no-es-asumible-para-espana-sufrir-dos-el-mismo-ano.html",
+      "fecha": "2026-10-28T15:06+00:00",
+      "partidos": [
+        "psoe"
       ]
     },
     {
@@ -3233,25 +3251,6 @@
       "medio": "20minutos",
       "url": "https://www.20minutos.es/nacional/feijoo-promete-rebaja-fiscal-jovenes-familias-autonomos-critica-quien-agita-calle-queremos-francia_7052963_0.html",
       "fecha": "2026-10-24T13:16+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Feijóo llama a \"derribar el muro de Sánchez\" el 29-N y advierte al PSOE de que no va a \"indultar a los corruptos\": \"Me encargaré de que paguen por todo\"",
-      "medio": "El Mundo",
-      "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/10/24/6adc870f21efa0263a8b4570.html",
-      "fecha": "2026-10-24T13:11+00:00",
-      "partidos": [
-        "pp",
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "Feijóo promete una amplia rebaja fiscal «a quién más lo merece»: jóvenes, familias y autónomos",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/galicia/feijoo-promete-amplia-rebaja-fiscal-merece-jovenes-20261024133011-nt.html",
-      "fecha": "2026-10-24T13:04+00:00",
       "partidos": [
         "pp"
       ]
