@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-28T05:28+00:00",
+  "actualizado": "2026-10-28T09:44+00:00",
   "temas": [
     {
       "id": "vivienda",
@@ -448,6 +448,124 @@
     }
   ],
   "noticias": [
+    {
+      "titulo": "La Comisión Europea analiza la denuncia que Junts presentó por la regularización de migrantes",
+      "medio": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/politica/20261028/11669996/comision-europea-analiza-denuncia-junts-presento-regularizacion-migrantes.html",
+      "fecha": "2026-10-28T09:32+00:00",
+      "partidos": [
+        "junts"
+      ]
+    },
+    {
+      "titulo": "Podemos Canarias denuncia a un concejal de Vox en Tenerife por llamar «hijo de puta» a su representante",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/canarias/podemos-canarias-denuncia-concejal-vox-tenerife-llamar-20261028102529-nt.html",
+      "fecha": "2026-10-28T09:25+00:00",
+      "partidos": [
+        "vox",
+        "podemos"
+      ]
+    },
+    {
+      "titulo": "Feijóo dice estar \"muy preocupado\" por el accidente de tren: \"Lo prioritario ahora es atender a las víctimas\"",
+      "medio": "Europa Press",
+      "url": "https://www.europapress.es/nacional/noticia-feijoo-dice-estar-muy-preocupado-accidente-tren-prioritario-ahora-atender-victimas-20261028101654.html",
+      "fecha": "2026-10-28T09:16+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "Todos los partidos menos Vox suspenden sus agendas tras el accidente ferroviario de Toledo",
+      "medio": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/politica/20261028/11669987/partidos-suspenden-agendas-accidente-ferroviario-toledo.html",
+      "fecha": "2026-10-28T09:11+00:00",
+      "partidos": [
+        "vox"
+      ]
+    },
+    {
+      "titulo": "Frente Amplio suspende los actos de precampaña tras el accidente de tren y Colau se solidariza con los afectados",
+      "medio": "Europa Press",
+      "url": "https://www.europapress.es/nacional/noticia-frente-amplio-suspende-actos-precampana-accidente-tren-colau-solidariza-afectados-20261028101153.html",
+      "fecha": "2026-10-28T09:11+00:00",
+      "partidos": [
+        "sumar"
+      ]
+    },
+    {
+      "titulo": "El PP cancela toda la agenda de campaña tras el accidente de tren en Urda (Toledo)",
+      "medio": "Europa Press",
+      "url": "https://www.europapress.es/nacional/noticia-pp-cancela-toda-agenda-campana-accidente-tren-urda-toledo-20261028100251.html",
+      "fecha": "2026-10-28T09:02+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "Almeida avisa que se juegan la democracia en las generales: \"El PSOE de Sánchez es una fuerza disolvente de 1978\"",
+      "medio": "Europa Press",
+      "url": "https://www.europapress.es/nacional/noticia-almeida-avisa-juegan-democracia-generales-psoe-sanchez-fuerza-disolvente-1978-20261028095316.html",
+      "fecha": "2026-10-28T08:53+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "Begoña Gómez denuncia al PP por suplantar su imagen con IA",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/begona-denuncia-pp-suplantar-imagen-ia-20261028083843-nt.html",
+      "fecha": "2026-10-28T08:38+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "Calles afectadas por la tractorada en Madrid hoy: horarios y cortes de tráfico por las protestas del campo contra Pedro Sánchez",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/madrid/calles-afectadas-tractorada-madrid-hoy-horarios-cortes-20261028091509-nt.html",
+      "fecha": "2026-10-28T08:18+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "Begoña Gómez denuncia al PP por suplantación de identidad por el vídeo hecho con IA",
+      "medio": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/politica/20261028/11669924/begona-gomez-denuncia-pp-suplantacion-identidad-video-hecho-ia.html",
+      "fecha": "2026-10-28T07:55+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "Begoña Gómez presenta una denuncia por suplantación de imagen por el vídeo de IA del PP",
+      "medio": "20minutos",
+      "url": "https://www.20minutos.es/nacional/sanchez-desvela-cuando-decidio-convocar-elecciones-adelantadas-vi-muy-claro_7054285_0.html",
+      "fecha": "2026-10-28T07:50+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "Sánchez anuncia que Begoña Gómez ha presentado una denuncia por suplantación de imagen por el vídeo de IA del PP",
+      "medio": "Europa Press",
+      "url": "https://www.europapress.es/nacional/noticia-sanchez-anuncia-begona-gomez-presentado-denuncia-suplantacion-imagen-video-ia-pp-20261028083502.html",
+      "fecha": "2026-10-28T07:35+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "Begoña Gómez denuncia al PP por utilizar su imagen para un vídeo realizado con inteligencia artificial",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/politica/begona-gomez-denuncia-pp-utilizar-imagen-video-realizado-inteligencia-artificial_1_13620349.html",
+      "fecha": "2026-10-28T07:25+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
     {
       "titulo": "El PP halla en los disturbios callejeros nueva munición pesada contra el PSOE",
       "medio": "La Vanguardia",
@@ -3144,131 +3262,6 @@
       "partidos": [
         "psoe",
         "sumar"
-      ]
-    },
-    {
-      "titulo": "El PSOE relega al Frente Amplio a las segundas posiciones en su histórica alianza para el Senado",
-      "medio": "El Mundo",
-      "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/10/24/6adbb04ae85ece223e8b45a7.html",
-      "fecha": "2026-10-23T23:10+00:00",
-      "partidos": [
-        "psoe",
-        "sumar"
-      ]
-    },
-    {
-      "titulo": "Feijóo apuesta por perfiles duros para competir con Vox",
-      "medio": "elDiario.es",
-      "url": "https://www.eldiario.es/politica/feijoo-apuesta-perfiles-duros-competir-vox_1_13610039.html",
-      "fecha": "2026-10-23T20:40+00:00",
-      "partidos": [
-        "pp",
-        "vox"
-      ]
-    },
-    {
-      "titulo": "La mejor baza para el PSOE es dejar que hable Feijóo",
-      "medio": "elDiario.es",
-      "url": "https://www.eldiario.es/opinion/zona-critica/mejor-baza-psoe-hable-feijoo_129_13610520.html",
-      "fecha": "2026-10-23T20:40+00:00",
-      "partidos": [
-        "pp",
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "Los autores de la obra sobre Lorca cancelada por Vox en Valladolid: \"Hablar de lo que pasó choca con lo que llaman neutralidad ideológica\"",
-      "medio": "elDiario.es",
-      "url": "https://www.eldiario.es/castilla-y-leon/cultura/autores-obra-lorca-cancelada-vox-valladolid-hablar-paso-choca-llaman-neutralidad-ideologica_128_13608845.html",
-      "fecha": "2026-10-23T20:40+00:00",
-      "partidos": [
-        "vox"
-      ]
-    },
-    {
-      "titulo": "La Policía carga contra manifestantes radicales tras el mitin de Abascal en Mahón",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/baleares/policia-carga-manifestantes-antifascistas-tras-mitin-abascal-20261023211951-nt.html",
-      "fecha": "2026-10-23T20:19+00:00",
-      "partidos": [
-        "vox"
-      ]
-    },
-    {
-      "titulo": "Juanma Moreno: «El PP debe aspirar a gobernar España en solitario»",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/andalucia/juanma-moreno-pp-debe-aspirar-gobernar-espana-20261023204314-nts.html",
-      "fecha": "2026-10-23T19:45+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Una concentración antifascista en Maó impide la salida de los asistentes al mitin de Abascal",
-      "medio": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/politica/20261023/11666777/concentracion-antifascista-mao-impide-salida-asistentes-mitin-abascal.html",
-      "fecha": "2026-10-23T19:10+00:00",
-      "partidos": [
-        "vox"
-      ]
-    },
-    {
-      "titulo": "Pedro Sánchez acepta la entrevista del 'youtuber' Jordi Wild tras el 'sí' de Núñez Feijóo, Santiago Abascal y Ada Colau",
-      "medio": "20minutos",
-      "url": "https://www.20minutos.es/nacional/pedro-sanchez-acepta-entrevista-youtuber-jordi-wild-tras-si-nunez-feijoo-santiago-abascal-ada-colau_7052857_0.html",
-      "fecha": "2026-10-23T18:58+00:00",
-      "partidos": [
-        "pp",
-        "psoe",
-        "vox"
-      ]
-    },
-    {
-      "titulo": "Pedro Sánchez acepta la entrevista del 'youtuber' Jordi Wild tras el sí de Feijóo, Abascal y Colau",
-      "medio": "Europa Press",
-      "url": "https://www.europapress.es/nacional/noticia-pedro-sanchez-acepta-entrevista-youtuber-jordi-wild-si-feijoo-abascal-colau-20261023205019.html",
-      "fecha": "2026-10-23T18:50+00:00",
-      "partidos": [
-        "pp",
-        "psoe",
-        "vox"
-      ]
-    },
-    {
-      "titulo": "Sánchez acepta la propuesta del youtuber Jordi Wild para acudir a su programa tras el sí de Feijóo, Abascal y Colau",
-      "medio": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/politica/20261023/11666759/sanchez-acepta-propuesta-youtuber-jordi-wild-acudir-programa-entrevistas.html",
-      "fecha": "2026-10-23T18:44+00:00",
-      "partidos": [
-        "pp",
-        "vox"
-      ]
-    },
-    {
-      "titulo": "Feijóo apela al voto de los trabajadores con una bajada del IRPF en 2027 y el blindaje de la exención del salario mínimo",
-      "medio": "El Mundo",
-      "url": "https://www.elmundo.es/comunidad-valenciana/2026/10/23/6adb9bc1fdddff9e7d8b4587.html",
-      "fecha": "2026-10-23T18:36+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Pedro Sánchez acepta la entrevista con Jordi Wild",
-      "medio": "elDiario.es",
-      "url": "https://www.eldiario.es/politica/pedro-sanchez-acepta-entrevista-jordi-wild_1_13611264.html",
-      "fecha": "2026-10-23T18:34+00:00",
-      "partidos": [
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "Abascal censura el \"papel lamentable\" de Sánchez en 'La Revuelta\": \"Chistecitos como si no hubiera mentido\"",
-      "medio": "20minutos",
-      "url": "https://www.20minutos.es/nacional/abascal-censura-papel-lamentable-sanchez-revuelta-chistecitos-como-si-no-hubiera-mentido_7052850_0.html",
-      "fecha": "2026-10-23T18:31+00:00",
-      "partidos": [
-        "vox"
       ]
     }
   ],
