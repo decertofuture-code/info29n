@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-29T09:46+00:00",
+  "actualizado": "2026-10-29T13:57+00:00",
   "temas": [
     {
       "id": "vivienda",
@@ -448,6 +448,135 @@
     }
   ],
   "noticias": [
+    {
+      "titulo": "Feijóo, a Puente tras el accidente en Urda: «Las responsabilidades políticas no son opcionales, son exigibles»",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/castilla-la-mancha/feijoo-puente-dia-despues-accidente-responsabilidades-politicas-20261029134255-nt.html",
+      "fecha": "2026-10-29T13:41+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "El PP confirma que la exministra Fátima Báñez ha fallecido en el accidente ferroviario",
+      "medio": "20minutos",
+      "url": "https://www.20minutos.es/nacional/pp-confirma-que-exministra-fatima-banez-ha-fallecido-accidente-ferroviario_7055028_0.html",
+      "fecha": "2026-10-29T13:15+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "Feijóo exige al Gobierno \"responsabilidades políticas\" por el accidente de Urda ya, \"no cuando termine la investigación\"",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/politica/feijoo-exige-gobierno-responsabilidades-politicas-accidente-urda-no-termine-investigacion_1_13624579.html",
+      "fecha": "2026-10-29T13:09+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "El PP critica que el Gobierno culpe a un trabajador del choque en Urda y dice que colocar a amigos \"tiene consecuencias\"",
+      "medio": "Europa Press",
+      "url": "https://www.europapress.es/nacional/noticia-pp-critica-gobierno-culpe-trabajador-choque-urda-dice-colocar-amigos-tiene-consecuencias-20261029140237.html",
+      "fecha": "2026-10-29T13:02+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "Feijóo dice que son \"exigibles\" responsabilidades políticas tras tragedia de Urda y critica que Sánchez no cese a Puente",
+      "medio": "Europa Press",
+      "url": "https://www.europapress.es/nacional/noticia-feijoo-dice-son-exigibles-responsabilidades-politicas-tragedia-urda-critica-sanchez-no-cese-puente-20261029134935.html",
+      "fecha": "2026-10-29T12:49+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "Feijóo señala la \"responsabilidad política\" de Puente tras más de \"100 muertos\" en los trenes en solo nueve meses y promete que si él gobierna volverá \"la gestión\"",
+      "medio": "El Mundo",
+      "url": "https://www.elmundo.es/espana/2026/10/29/6ae33dcfe9cf4a71178b45a4.html",
+      "fecha": "2026-10-29T12:47+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "Feijóo exige \"responsabilidades políticas\" por la tragedia de Urda y promete devolver la confianza al sistema ferroviario",
+      "medio": "20minutos",
+      "url": "https://www.20minutos.es/nacional/feijoo-exige-responsabilidades-politicas-por-tragedia-urda-promete-devolver-confianza-sistema-ferroviario_7054983_0.html",
+      "fecha": "2026-10-29T12:46+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "El PNV exige a Sánchez “responsabilidades al máximo nivel” por el accidente ferroviario",
+      "medio": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/local/paisvasco/20261029/11671170/vaquero-pnv-sanchez-reconoce-inasumible-tendran-asumir-responsabilidades-maximo-nivel.html",
+      "fecha": "2026-10-29T12:43+00:00",
+      "partidos": [
+        "pnv"
+      ]
+    },
+    {
+      "titulo": "Feijóo señala a Puente pero evita todavía exigir su dimisión",
+      "medio": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/politica/20261029/11671165/feijoo-senala-puente-evita-todavia-exigir-dimision.html",
+      "fecha": "2026-10-29T12:30+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "Vox presenta una querella contra Oscar Puente por homicidio imprudente tras el accidente ferroviario de Urda",
+      "medio": "20minutos",
+      "url": "https://www.20minutos.es/nacional/vox-presenta-una-querella-contra-oscar-puente-por-homicidio-imprudente-tras-accidente-ferroviario-urda_7054927_0.html",
+      "fecha": "2026-10-29T11:26+00:00",
+      "partidos": [
+        "vox"
+      ]
+    },
+    {
+      "titulo": "Vox se querella contra Óscar Puente en el Supremo por presunto homicidio imprudente y lesiones",
+      "medio": "Europa Press",
+      "url": "https://www.europapress.es/nacional/noticia-vox-querella-contra-oscar-puente-supremo-presunto-homicidio-imprudente-lesiones-20261029115454.html",
+      "fecha": "2026-10-29T10:54+00:00",
+      "partidos": [
+        "vox"
+      ]
+    },
+    {
+      "titulo": "Nuevo ataque contra la sede del PSOE de Almendralejo: amanece con la pintada 'asesinos' en la puerta",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/extremadura/politica/nuevo-ataque-sede-psoe-almendralejo-amanece-pintada-asesinos-puerta_1_13624057.html",
+      "fecha": "2026-10-29T10:51+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "Sumar, Podemos y ERC piden la comparecencia urgente de Puente en el Congreso tras el accidente de Urda",
+      "medio": "20minutos",
+      "url": "https://www.20minutos.es/nacional/sumar-podemos-erc-piden-comparecencia-urgente-puente-congreso-tras-accidente-urda_7054909_0.html",
+      "fecha": "2026-10-29T10:36+00:00",
+      "partidos": [
+        "sumar",
+        "erc",
+        "podemos"
+      ]
+    },
+    {
+      "titulo": "ERC y Podemos piden la comparecencia de Puente en la Diputación Permanente para rendir cuentas por el acciedente",
+      "medio": "Europa Press",
+      "url": "https://www.europapress.es/nacional/noticia-erc-podemos-piden-comparecencia-puente-diputacion-permanente-rendir-cuentas-acciedente-20261029112536.html",
+      "fecha": "2026-10-29T10:25+00:00",
+      "partidos": [
+        "erc",
+        "podemos"
+      ]
+    },
     {
       "titulo": "Sumar pide que Puente comparezca en la Diputación Permanente del Congreso para rendir cuentas por accidente ferroviario",
       "medio": "Europa Press",
@@ -3123,138 +3252,6 @@
       "partidos": [
         "pp",
         "psoe",
-        "vox"
-      ]
-    },
-    {
-      "titulo": "Sánchez y Feijóo, por carriles paralelos",
-      "medio": "El País",
-      "url": "https://elpais.com/espana/elecciones-generales/2026-10-25/sanchez-y-feijoo-por-carriles-paralelos.html",
-      "fecha": "2026-10-25T04:30+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "El 29-N desata la “hiperactividad” en el avispero de grupos en torno al PP y Vox",
-      "medio": "El País",
-      "url": "https://elpais.com/espana/elecciones-generales/2026-10-25/el-29-n-desata-la-hiperactividad-en-el-avispero-de-grupos-en-torno-al-pp-y-vox.html",
-      "fecha": "2026-10-25T04:30+00:00",
-      "partidos": [
-        "pp",
-        "vox"
-      ]
-    },
-    {
-      "titulo": "Encuestas elecciones generales 29N en Aragón: resultados de PSOE, PP y Vox y ganador según los sondeos",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/aragon/encuestas-elecciones-generales-29n-aragon-resultados-psoe-20261022053000-nt.html",
-      "fecha": "2026-10-25T04:30+00:00",
-      "partidos": [
-        "pp",
-        "psoe",
-        "vox"
-      ]
-    },
-    {
-      "titulo": "Ceuta, ‘ley de nietos’ y vivienda: la entrevista con Pedro Sánchez en 10 titulares",
-      "medio": "El País",
-      "url": "https://elpais.com/espana/elecciones-generales/2026-10-25/ceuta-ley-de-nietos-y-vivienda-la-entrevista-con-pedro-sanchez-en-10-titulares.html",
-      "fecha": "2026-10-25T04:06+00:00",
-      "partidos": [
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "Puigdemont diluye el ‘exilio catalán’, que se queda sin foto conjunta del retorno",
-      "medio": "El Confidencial",
-      "url": "https://www.elconfidencial.com/espana/cataluna/2026-10-25/plan-puigdemont-diluye-exilio-catalan-sin-foto_4450967/",
-      "fecha": "2026-10-25T04:00+00:00",
-      "partidos": [
-        "junts"
-      ]
-    },
-    {
-      "titulo": "La izquierda quiere copiar la estrategia del PP en el Senado y que le estalle a Feijóo",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/izquierda-quiere-copiar-estrategia-pp-senado-estalle-20261025024153-nt.html",
-      "fecha": "2026-10-25T01:42+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "El equipo de Sánchez ya le ve \"ganador\" pero sectores del PSOE fuera de Madrid rebajan la euforia: \"En la calle no se aprecia entusiasmo\"",
-      "medio": "El Mundo",
-      "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/10/25/6adcd6f0e9cf4a3f028b4579.html",
-      "fecha": "2026-10-24T22:04+00:00",
-      "partidos": [
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "Un gamberro en Génova, 13",
-      "medio": "El Mundo",
-      "url": "https://www.elmundo.es/elecciones/2026/10/25/6adcd73fe9cf4a01208b4594.html",
-      "fecha": "2026-10-24T22:04+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Cayetana Álvarez de Toledo: \"Sánchez quiere división, que suba Vox para que pierda el PP\"",
-      "medio": "El Mundo",
-      "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/10/24/6adcd6d0e9cf4a2e028b45a4.html",
-      "fecha": "2026-10-24T20:52+00:00",
-      "partidos": [
-        "pp",
-        "vox"
-      ]
-    },
-    {
-      "titulo": "De cerrar la Agencia del Cambio Climático a urbanizar en zonas inundables: las políticas negacionistas del PP y Vox pese a la dana",
-      "medio": "elDiario.es",
-      "url": "https://www.eldiario.es/comunitat-valenciana/cerrar-agencia-cambio-climatico-urbanizar-zonas-inundables-politicas-negacionistas-pp-vox-pese-dana_1_13611968.html",
-      "fecha": "2026-10-24T20:25+00:00",
-      "partidos": [
-        "pp",
-        "vox"
-      ]
-    },
-    {
-      "titulo": "Feijóo viene avisando",
-      "medio": "elDiario.es",
-      "url": "https://www.eldiario.es/opinion/feijoo-viene-avisando_131_13612893.html",
-      "fecha": "2026-10-24T20:25+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Por supuesto que Bildu es mejor que Vox",
-      "medio": "elDiario.es",
-      "url": "https://www.eldiario.es/opinion/zona-critica/supuesto-bildu-mejor-vox_129_13612564.html",
-      "fecha": "2026-10-24T20:25+00:00",
-      "partidos": [
-        "vox",
-        "bildu"
-      ]
-    },
-    {
-      "titulo": "Cómo hemos llegado a Feijóo",
-      "medio": "elDiario.es",
-      "url": "https://www.eldiario.es/opinion/zona-critica/hemos-llegado-feijoo_129_13612680.html",
-      "fecha": "2026-10-24T20:25+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "\"Estar dispuesta a un proceso de repatriación, deportaciones y remigración\": la condición de Abascal para una \"alternativa\"",
-      "medio": "El Mundo",
-      "url": "https://www.elmundo.es/elecciones/2026/10/24/6adcff54e9cf4a2e028b45ae.html",
-      "fecha": "2026-10-24T19:09+00:00",
-      "partidos": [
         "vox"
       ]
     }
