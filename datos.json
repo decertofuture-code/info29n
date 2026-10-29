@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-29T13:57+00:00",
+  "actualizado": "2026-10-29T17:44+00:00",
   "temas": [
     {
       "id": "vivienda",
@@ -448,6 +448,33 @@
     }
   ],
   "noticias": [
+    {
+      "titulo": "Vox se querella contra Puente ante el Supremo por presuntos homicidios en el accidente de Urda",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/vox-querella-puente-ante-supremo-presuntos-homicidios-20261029120145-nt.html",
+      "fecha": "2026-10-29T17:29+00:00",
+      "partidos": [
+        "vox"
+      ]
+    },
+    {
+      "titulo": "El PP se despide de Fátima Báñez: «Era una mujer incansable y una leal amiga»",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/pp-despide-fatima-banez-era-mujer-incansable-20261029174546-nt.html",
+      "fecha": "2026-10-29T16:46+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "Feijóo apunta a las “responsabilidades políticas” de Puente por el segundo accidente mortal de la alta velocidad en nueve meses",
+      "medio": "El País",
+      "url": "https://elpais.com/espana/2026-10-29/feijoo-apunta-a-las-responsabilidades-politicas-de-puente-por-el-segundo-accidente-mortal-de-la-alta-velocidad-en-nueve-meses.html",
+      "fecha": "2026-10-29T14:14+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
     {
       "titulo": "Feijóo, a Puente tras el accidente en Urda: «Las responsabilidades políticas no son opcionales, son exigibles»",
       "medio": "ABC",
@@ -3223,35 +3250,6 @@
       "fecha": "2026-10-25T07:00+00:00",
       "partidos": [
         "pp",
-        "vox"
-      ]
-    },
-    {
-      "titulo": "Santiago Abascal: “La expulsión de inmigrantes tiene que hacerse caso a caso”",
-      "medio": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/politica/20261025/11667297/santiago-abascal-expulsion-inmigrantes-hacerse-caso-caso.html",
-      "fecha": "2026-10-25T05:00+00:00",
-      "partidos": [
-        "vox"
-      ]
-    },
-    {
-      "titulo": "Abascal en ‘La Revuelta’",
-      "medio": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/politica/20261025/11667272/abascal-revuelta.html",
-      "fecha": "2026-10-25T05:00+00:00",
-      "partidos": [
-        "vox"
-      ]
-    },
-    {
-      "titulo": "Pedro Sánchez: “Un Gobierno del PP con Vox no es alternancia, es retroceder 50 años”",
-      "medio": "El País",
-      "url": "https://elpais.com/espana/elecciones-generales/2026-10-25/pedro-sanchez-un-gobierno-del-pp-con-vox-no-es-alternancia-es-retroceder-50-anos.html",
-      "fecha": "2026-10-25T04:30+00:00",
-      "partidos": [
-        "pp",
-        "psoe",
         "vox"
       ]
     }
