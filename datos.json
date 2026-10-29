@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-28T21:35+00:00",
+  "actualizado": "2026-10-29T05:30+00:00",
   "temas": [
     {
       "id": "vivienda",
@@ -448,6 +448,100 @@
     }
   ],
   "noticias": [
+    {
+      "titulo": "Los datos que desnudan el discurso del PP de Mazón sobre la dana: el 90% de las muertes fue antes del envío de los dos ES-Alert",
+      "medio": "El País",
+      "url": "https://elpais.com/espana/2026-10-29/los-datos-que-desnudan-el-discurso-del-pp-de-mazon-sobre-la-dana-el-90-de-las-muertes-fue-antes-del-envio-de-los-dos-es-alert.html",
+      "fecha": "2026-10-29T04:30+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "Encuestas elecciones generales en Castilla-La Mancha: resultados de PSOE, PP y Vox y ganador según los sondeos el 29N",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/castilla-la-mancha/encuestas-elecciones-generales-castillala-mancha-resultados-psoe-20261029050000-nt.html",
+      "fecha": "2026-10-29T04:00+00:00",
+      "partidos": [
+        "pp",
+        "psoe",
+        "vox"
+      ]
+    },
+    {
+      "titulo": "Cargos del PSOE comienzan a cuestionar la continuidad de Puente en el Gobierno",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/sanchez-salta-fusible-puente-jaque-doberman-aspiraciones-20261029013000-nt.html",
+      "fecha": "2026-10-29T01:39+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "El Gobierno de Pedro Sánchez deja destrozada la Alta Velocidad en Andalucía",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/andalucia/alta-velocidad-andalucia-tocada-muerte-tras-dos-20261029020525-nts.html",
+      "fecha": "2026-10-29T01:05+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "Fátima Báñez, la discreta negociadora de Rajoy, amiga de Von der Leyen y 'ministrable' para Feijóo",
+      "medio": "El Mundo",
+      "url": "https://www.elmundo.es/espana/2026/10/29/6ae25d85e9cf4af1528b458d.html",
+      "fecha": "2026-10-29T01:03+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "Consternación en el PP por la desaparición de Fátima Báñez en el accidente ferroviario",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/consternacion-pp-desaparicion-fatima-banez-accidente-ferroviario-20261029012953-nt.html",
+      "fecha": "2026-10-29T00:47+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "Feijóo frena su campaña y lo centra todo en la \"gestión\"",
+      "medio": "El Mundo",
+      "url": "https://www.elmundo.es/espana/2026/10/29/6ae21f1521efa042438b45ac.html",
+      "fecha": "2026-10-28T23:00+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "PP y Vox 'cuelan' modificaciones a las leyes de caza y apuestas en la Ley de Presupuestos en Castilla y León",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/castilla-y-leon/politica/pp-vox-cuelan-modificaciones-leyes-caza-apuestas-ley-presupuestos-castilla-leon_1_13605322.html",
+      "fecha": "2026-10-28T22:40+00:00",
+      "partidos": [
+        "pp",
+        "vox"
+      ]
+    },
+    {
+      "titulo": "El frenazo del PP deja en el limbo 325.000 euros ya reservados para exhumar la mayor fosa franquista de Sevilla",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/sevilla/frenazo-pp-deja-limbo-325-000-euros-reservados-exhumar-mayor-fosa-franquista-sevilla_1_13599995.html",
+      "fecha": "2026-10-28T22:40+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "La movilización, clave para decidir si el cuarto escaño de La Rioja va al PSOE o a Vox: \"Hay un empate técnico\"",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/la-rioja/movilizacion-clave-decidir-si-cuarto-escano-rioja-psoe-vox-hay-empate-tecnico_1_13621224.html",
+      "fecha": "2026-10-28T19:38+00:00",
+      "partidos": [
+        "psoe",
+        "vox"
+      ]
+    },
     {
       "titulo": "Abascal carga contra Óscar Puente, \"el ministro de la muerte\": \"No vamos a creer nada que diga el Gobierno hasta el 29N\"",
       "medio": "elDiario.es",
@@ -3161,98 +3255,6 @@
       "partidos": [
         "pp",
         "psoe"
-      ]
-    },
-    {
-      "titulo": "El PP describe a Page como «el peor de los populistas y el mayor ejemplo de hipocresía política»",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/castilla-la-mancha/pp-describe-page-peor-populistas-mayor-ejemplo-20261024195111-nt.html",
-      "fecha": "2026-10-24T17:51+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Santiago Abascal interviene en un acto de Vox en Ibiza",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/santiago-abascal-interviene-acto-vox-ibiza-20261024190645-nt.html",
-      "fecha": "2026-10-24T17:08+00:00",
-      "partidos": [
-        "vox"
-      ]
-    },
-    {
-      "titulo": "Feijóo elige a Alma Ezcurra como cuatro por Madrid al Congreso y la vicealcadesa madrileña será la dos al Senado",
-      "medio": "Europa Press",
-      "url": "https://www.europapress.es/nacional/noticia-feijoo-elige-alma-ezcurra-cuatro-madrid-congreso-vicealcadesa-madrilena-sera-dos-senado-20261024182607.html",
-      "fecha": "2026-10-24T16:26+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "El PP llama a la «reconquista y reconstrucción» de España desde Valladolid: «Estas elecciones serán un renacer»",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/castilla-leon/pp-llama-reconquista-reconstruccion-espana-valladolid-elecciones-20261024174649-nt.html",
-      "fecha": "2026-10-24T16:05+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Sílvia Orriols no ve contradicción en votar a Aliança en Catalunya y Vox en las generales",
-      "medio": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/politica/20261024/11667229/silvia-orriols-ve-contradiccion-votar-alianca-catalunya-vox-generales.html",
-      "fecha": "2026-10-24T14:51+00:00",
-      "partidos": [
-        "vox"
-      ]
-    },
-    {
-      "titulo": "Nogueras afirma que Junts es el “único partido de obediencia catalana” el 29-N por la alianza ERC-Podemos",
-      "medio": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/politica/elecciones/20261024/11667231/nogueras-afirma-junts-unico-partido-obediencia-catalana-29-n-alianza-erc.html",
-      "fecha": "2026-10-24T14:43+00:00",
-      "partidos": [
-        "erc",
-        "junts",
-        "podemos"
-      ]
-    },
-    {
-      "titulo": "Rufián e Montero llaman a \"someter al PSOE\" y presumen de alianza usurpando el nombre a los de Colau: \"El Frente somos nosotros\"",
-      "medio": "20minutos",
-      "url": "https://www.20minutos.es/nacional/rufian-montero-llaman-someter-psoe-presumen-alianza-usurpando-nombre-los-colau-frente-somos-nosotros_7052967_0.html",
-      "fecha": "2026-10-24T13:56+00:00",
-      "partidos": [
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "Las cargas policiales para disolver la manifestación contra Abascal en Maó se salda con una hospitalizada",
-      "medio": "El Confidencial",
-      "url": "https://www.elconfidencial.com/espana/2026-10-24/cargas-policiales-protesta-vox-mujer-herida-1tna-1tps_4452290/",
-      "fecha": "2026-10-24T13:34+00:00",
-      "partidos": [
-        "vox"
-      ]
-    },
-    {
-      "titulo": "Núñez reivindica la figura de Feijóo para recuperar el crecimiento y la decencia en España",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/castilla-la-mancha/nunez-reivindica-figura-feijoo-recuperar-crecimiento-decencia-20261024150905-nt.html",
-      "fecha": "2026-10-24T13:23+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Feijóo promete una rebaja fiscal a jóvenes, familias y autónomos mientras critica a quien \"agita la calle\": \"¿Queremos lo de Francia?\"",
-      "medio": "20minutos",
-      "url": "https://www.20minutos.es/nacional/feijoo-promete-rebaja-fiscal-jovenes-familias-autonomos-critica-quien-agita-calle-queremos-francia_7052963_0.html",
-      "fecha": "2026-10-24T13:16+00:00",
-      "partidos": [
-        "pp"
       ]
     }
   ],
