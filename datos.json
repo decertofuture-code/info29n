@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-29T05:30+00:00",
+  "actualizado": "2026-10-29T09:46+00:00",
   "temas": [
     {
       "id": "vivienda",
@@ -449,6 +449,52 @@
   ],
   "noticias": [
     {
+      "titulo": "Sumar pide que Puente comparezca en la Diputación Permanente del Congreso para rendir cuentas por accidente ferroviario",
+      "medio": "Europa Press",
+      "url": "https://www.europapress.es/nacional/noticia-sumar-pide-puente-comparezca-diputacion-permanente-congreso-rendir-cuentas-accidente-ferroviario-20261029104113.html",
+      "fecha": "2026-10-29T09:41+00:00",
+      "partidos": [
+        "sumar"
+      ]
+    },
+    {
+      "titulo": "Rufián culpa al PP \"primero\" y al PSOE \"después\": pide responsabilidades y no filtraciones para no asumirlas",
+      "medio": "Europa Press",
+      "url": "https://www.europapress.es/nacional/noticia-rufian-culpa-pp-primero-psoe-despues-pide-responsabilidades-no-filtraciones-no-asumirlas-20261029103905.html",
+      "fecha": "2026-10-29T09:39+00:00",
+      "partidos": [
+        "pp",
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "Frente Amplio pide la comparecencia de Óscar Puente en la Diputación Permanente",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/frente-amplio-pide-comparecencia-oscar-puente-diputacion-20261029103354-nt.html",
+      "fecha": "2026-10-29T09:34+00:00",
+      "partidos": [
+        "sumar"
+      ]
+    },
+    {
+      "titulo": "El Frente Amplio pide la comparecencia de Puente en el Congreso por el accidente de Toledo",
+      "medio": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/politica/20261029/11670960/frente-amplio-pide-comparecencia-puente-congreso-accidente-toledo.html",
+      "fecha": "2026-10-29T09:32+00:00",
+      "partidos": [
+        "sumar"
+      ]
+    },
+    {
+      "titulo": "El PNV sortea in extremis la fractura y Aitor Esteban salva un delicado pulso interno",
+      "medio": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/local/paisvasco/20261029/11670574/pnv-sortea-fractura-direccion-partido-ejecutiva-vizcaina-proceso-interno.html",
+      "fecha": "2026-10-29T07:43+00:00",
+      "partidos": [
+        "pnv"
+      ]
+    },
+    {
       "titulo": "Los datos que desnudan el discurso del PP de Mazón sobre la dana: el 90% de las muertes fue antes del envío de los dos ES-Alert",
       "medio": "El País",
       "url": "https://elpais.com/espana/2026-10-29/los-datos-que-desnudan-el-discurso-del-pp-de-mazon-sobre-la-dana-el-90-de-las-muertes-fue-antes-del-envio-de-los-dos-es-alert.html",
@@ -530,6 +576,16 @@
       "fecha": "2026-10-28T22:40+00:00",
       "partidos": [
         "pp"
+      ]
+    },
+    {
+      "titulo": "Vox lanza soflamas contra el Gobierno ante Feijóo y Ayuso en el acto de silencio por las víctimas del choque de Urda",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/madrid/somos/vox-lanza-soflamas-gobierno-feijoo-ayuso-acto-silencio-victimas-choque-urda_1_13622637.html",
+      "fecha": "2026-10-28T19:55+00:00",
+      "partidos": [
+        "pp",
+        "vox"
       ]
     },
     {
@@ -3200,61 +3256,6 @@
       "fecha": "2026-10-24T19:09+00:00",
       "partidos": [
         "vox"
-      ]
-    },
-    {
-      "titulo": "Denuncian a Tesh Sidi, número dos del Frente Amplio en Madrid, por acoso laboral",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/denuncian-tesh-sidi-numero-dos-frente-amplio-20261024195734-nt.html",
-      "fecha": "2026-10-24T18:27+00:00",
-      "partidos": [
-        "sumar"
-      ]
-    },
-    {
-      "titulo": "El alcalde de Puertollano renuncia a ir de número 4 en la lista del PP al Congreso por Ciudad Real",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/castilla-la-mancha/alcalde-puertollano-renuncia-numero-lista-pp-congreso-20261024195245-nt.html",
-      "fecha": "2026-10-24T18:27+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "El PSOE vincula la renuncia de Ruiz a la lista del Congreso con su investigación por presunto acoso laboral",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/castilla-la-mancha/psoe-vincula-renuncia-ruiz-lista-congreso-investigacion-20261024202616-nt.html",
-      "fecha": "2026-10-24T18:26+00:00",
-      "partidos": [
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "Jordi Wild da detalles sobre cómo serán sus entrevistas tras el sí de Pedro Sánchez: 90 minutos, dos verificadores, \"temas jodidos\"...",
-      "medio": "20minutos",
-      "url": "https://www.20minutos.es/nacional/jordi-wild-da-detalles-sobre-como-seran-entrevistas-si-pedro-sanchez-minutos-verificadores-temas-jodidos_7053016_0.html",
-      "fecha": "2026-10-24T18:25+00:00",
-      "partidos": [
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "Feijóo elige a Alma Ezcurra como cuatro del PP por Madrid al Congreso y a Inmaculada Sanz como dos en el Senado",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/feijoo-alma-ezcurra-cuatro-pp-madrid-congreso-20261024200318-nt.html",
-      "fecha": "2026-10-24T18:08+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "El alcalde de Puertollano renuncia a estar en la lista del PP al Congreso y el PSOE recuerda su imputación por acoso laboral",
-      "medio": "elDiario.es",
-      "url": "https://www.eldiario.es/castilla-la-mancha/politica/alcalde-puertollano-renuncia-lista-pp-congreso-imputado-acoso-laboral-dice-psoe_1_13612822.html",
-      "fecha": "2026-10-24T18:03+00:00",
-      "partidos": [
-        "pp",
-        "psoe"
       ]
     }
   ],
