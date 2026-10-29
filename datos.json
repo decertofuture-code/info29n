@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-29T17:44+00:00",
+  "actualizado": "2026-10-29T21:37+00:00",
   "temas": [
     {
       "id": "vivienda",
@@ -448,6 +448,71 @@
     }
   ],
   "noticias": [
+    {
+      "titulo": "Óscar Puente politiza la cúpula de Adif con militantes socialistas en puestos clave",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/xxxxxxxxxxxxx-20261030214038-nt.html",
+      "fecha": "2026-10-29T21:11+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "El PSOE reprocha a Núñez por convocar una rueda de prensa en la sede durante los días de luto oficial",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/castilla-la-mancha/psoe-reprocha-nunez-reactivar-precampana-dias-luto-20261029200330-nt.html",
+      "fecha": "2026-10-29T20:19+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "Abascal, sobre Pedro Sánchez y Óscar Puente: «Ellos son el error humano»",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/castilla-leon/abascal-sobre-pedro-sanchez-oscar-puente-error-20261029205805-nt.html",
+      "fecha": "2026-10-29T20:10+00:00",
+      "partidos": [
+        "psoe",
+        "vox"
+      ]
+    },
+    {
+      "titulo": "La Junta Electoral abre otro expediente sancionador a Sánchez por su vídeo ante el Guernica denunciado por el PP",
+      "medio": "20minutos",
+      "url": "https://www.20minutos.es/nacional/junta-electoral-abre-otro-expediente-sancionador-sanchez-por-su-video-ante-guernica-denunciado-por-pp_7055194_0.html",
+      "fecha": "2026-10-29T18:16+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "Frente Amplio y Podemos cargan contra Puente por \"señalar a un trabajador\" en el accidente de Urda: \"Es indecente\"",
+      "medio": "20minutos",
+      "url": "https://www.20minutos.es/nacional/frente-amplio-podemos-cargan-contra-puente-por-senalar-un-trabajador-accidente-urda-es-indecente_7055158_0.html",
+      "fecha": "2026-10-29T18:06+00:00",
+      "partidos": [
+        "sumar",
+        "podemos"
+      ]
+    },
+    {
+      "titulo": "El PP ve insuficiente la comparecencia de Puente por la tragedia de Urda y reclama que Sánchez dé explicaciones en el Congreso",
+      "medio": "20minutos",
+      "url": "https://www.20minutos.es/nacional/pp-ve-insuficiente-comparecencia-puente-por-tragedia-urda-reclama-que-sanchez-explicaciones-congreso_7055183_0.html",
+      "fecha": "2026-10-29T18:05+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "La Junta Electoral expedienta a Pedro Sánchez por su vídeo en el Museo Reina Sofía",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/politica/junta-electoral-expedienta-pedro-sanchez-video-museo-reina-sofia_1_13625634.html",
+      "fecha": "2026-10-29T17:49+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
     {
       "titulo": "Vox se querella contra Puente ante el Supremo por presuntos homicidios en el accidente de Urda",
       "medio": "ABC",
@@ -3185,72 +3250,6 @@
       "fecha": "2026-10-25T11:36+00:00",
       "partidos": [
         "pp"
-      ]
-    },
-    {
-      "titulo": "Feijóo, tras los graves disturbios en Barcelona: \"España necesita un cambio\"",
-      "medio": "20minutos",
-      "url": "https://www.20minutos.es/nacional/feijoo-tras-los-graves-disturbios-barcelona-espana-necesita-un-cambio_7053068_0.html",
-      "fecha": "2026-10-25T10:32+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Abascal afirma que la identidad catalana está \"amenazada por el islamismo\" y llama a defenderla",
-      "medio": "20minutos",
-      "url": "https://www.20minutos.es/nacional/abascal-afirma-que-identidad-catalana-esta-amenazada-por-islamismo-llama-defenderla_7053062_0.html",
-      "fecha": "2026-10-25T09:54+00:00",
-      "partidos": [
-        "vox"
-      ]
-    },
-    {
-      "titulo": "Podemos no presentará listas al Senado en la Comunidad Valenciana tras su pacto con Compromís y EU",
-      "medio": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/local/valencia/20261025/11667626/presentara-listas-senado-comunidad-valenciana-pacto-compromis-eu.html",
-      "fecha": "2026-10-25T09:43+00:00",
-      "partidos": [
-        "podemos"
-      ]
-    },
-    {
-      "titulo": "Sánchez: \"Un Gobierno del PP con Vox no es alternancia, es retroceder 50 años\"",
-      "medio": "Europa Press",
-      "url": "https://www.europapress.es/nacional/noticia-sanchez-gobierno-pp-vox-no-alternancia-retroceder-50-anos-20261025102254.html",
-      "fecha": "2026-10-25T09:22+00:00",
-      "partidos": [
-        "pp",
-        "vox"
-      ]
-    },
-    {
-      "titulo": "Sin fichajes estrella en las listas del 29-N, PP y PSOE lo fían todo a la marca del partido",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/andalucia/fichajes-estrella-listas-29n-pp-psoe-apuestan-20261025071527-nts.html",
-      "fecha": "2026-10-25T08:48+00:00",
-      "partidos": [
-        "pp",
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "Ofrecer imágenes falsas en una campaña con la IA es un recurso legítimo para el PP",
-      "medio": "elDiario.es",
-      "url": "https://www.eldiario.es/blog/politica-para-supervivientes/ofrecer-imagenes-falsas-campana-ia-recurso-legitimo-pp_132_13611045.html",
-      "fecha": "2026-10-25T07:07+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "PP y Vox apuran los plazos para lograr un acuerdo en el Senado que les permita atar una mayoría suficiente contra la izquierda",
-      "medio": "20minutos",
-      "url": "https://www.20minutos.es/nacional/pp-vox-apuran-los-plazos-para-lograr-un-acuerdo-senado-que-les-permita-atar-una-mayoria-suficiente-contra-izquierda_7052499_0.html",
-      "fecha": "2026-10-25T07:00+00:00",
-      "partidos": [
-        "pp",
-        "vox"
       ]
     }
   ],
