@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-30T09:48+00:00",
+  "actualizado": "2026-10-30T13:56+00:00",
   "temas": [
     {
       "id": "vivienda",
@@ -449,6 +449,182 @@
   ],
   "noticias": [
     {
+      "titulo": "El PP y la CEOE acompañan a la familia de Fátima Báñez en el tanatorio antes del funeral",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/andalucia/huelva/pp-ceoe-acompanan-familia-fatima-banez-tanatorio-20261030142641-nts.html",
+      "fecha": "2026-10-30T13:30+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "Vox se reúne con el Cercle d´Economia y Foment para trasladar su programa económico",
+      "medio": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/politica/20261030/11672184/vox-reune-cercle-d-economia-foment-trasladar-programa-economico.html",
+      "fecha": "2026-10-30T13:28+00:00",
+      "partidos": [
+        "vox"
+      ]
+    },
+    {
+      "titulo": "El PSOE de Ceuta impugna la candidatura para el 29N de dos consejeros del PP por supuesta incompatibilidad",
+      "medio": "Europa Press",
+      "url": "https://www.europapress.es/nacional/noticia-psoe-ceuta-impugna-candidatura-29n-dos-consejeros-pp-supuesta-incompatibilidad-20261030142829.html",
+      "fecha": "2026-10-30T13:28+00:00",
+      "partidos": [
+        "pp",
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "Ex cargos del PP en el antiguo Ministerio de Fomento que dirigieron Renfe piden \"despolitizar\" Adif",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/economia/ex-cargos-pp-antiguo-ministerio-fomento-dirigieron-renfe-piden-despolitizar-adif_1_13627277.html",
+      "fecha": "2026-10-30T13:20+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "Feijóo apunta al Gobierno por el accidente de Urda: «Si no dimiten ellos, les dimitiremos en las urnas»",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/feijoo-apunta-gobierno-accidente-urda-dimiten-dimitiremos-20261030133340-nt.html",
+      "fecha": "2026-10-30T13:20+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "Figaredo (Vox) culpa al Gobierno del accidente en Urda y cree que una dimisión de Puente \"es lo de menos\"",
+      "medio": "Europa Press",
+      "url": "https://www.europapress.es/catalunya/noticia-figaredo-vox-culpa-gobierno-accidente-urda-cree-dimision-puente-menos-20261030140531.html",
+      "fecha": "2026-10-30T13:05+00:00",
+      "partidos": [
+        "vox"
+      ]
+    },
+    {
+      "titulo": "Feijóo culpa al Gobierno del accidente en Urda por no renovar el sistema de seguridad: \"Si no dimiten, les dimitiremos en las urnas\"",
+      "medio": "20minutos",
+      "url": "https://www.20minutos.es/nacional/feijoo-culpa-gobierno-accidente-urda-por-no-renovar-sistema-seguridad-si-no-dimiten-les-dimitiremos-las-urnas_7055514_0.html",
+      "fecha": "2026-10-30T12:49+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "Feijóo culpa directamente al Gobierno del accidente: \"Han muerto al menos 69 personas porque no renovó un sistema de seguridad obsoleto\"",
+      "medio": "El Mundo",
+      "url": "https://www.elmundo.es/espana/2026/10/30/6ae48e88e9cf4a7d748b457b.html",
+      "fecha": "2026-10-30T12:42+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "Amigos, familiares y compañeros del PP despiden en Huelva a Fátima Báñez",
+      "medio": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/politica/20261030/11672132/amigos-familiares-companeros-pp-despiden-huelva-fatima-banez.html",
+      "fecha": "2026-10-30T12:31+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "Junts ve “inaplazable” la dimisión de Puente y pide que Sánchez comparezca",
+      "medio": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/politica/20261030/11672129/junts-ve-inaplazable-dimision-puente-pide-sanchez-comparezca.html",
+      "fecha": "2026-10-30T12:23+00:00",
+      "partidos": [
+        "junts"
+      ]
+    },
+    {
+      "titulo": "Feijóo: “Han muerto 69 personas porque el Gobierno no renovó un sistema de seguridad obsoleto”",
+      "medio": "El País",
+      "url": "https://elpais.com/espana/2026-10-30/feijoo-apunta-al-mantenimiento-deficiente-de-la-alta-velocidad-si-no-dimiten-ellos-los-dimitiremos-en-las-urnas.html",
+      "fecha": "2026-10-30T12:17+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "Familia, amigos y compañeros del PP despiden en Huelva a la exministra Fátima Báñez, fallecida en el accidente de Urda",
+      "medio": "20minutos",
+      "url": "https://www.20minutos.es/nacional/familia-amigos-companeros-pp-despiden-huelva-exministra-fatima-banez-fallecida-accidente-urda_7055496_0.html",
+      "fecha": "2026-10-30T12:15+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "Feijóo acusa a Sánchez de abandonar la \"cultura de seguridad\" y avisa: Su responsabilidad se dirimirá el 29N",
+      "medio": "Europa Press",
+      "url": "https://www.europapress.es/nacional/noticia-feijoo-acusa-sanchez-abandonar-cultura-seguridad-avisa-responsabilidad-dirimira-29n-20261030131342.html",
+      "fecha": "2026-10-30T12:13+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "Amigos, familiares y compañeros del PP despiden en Huelva a la ex ministra Fátima Báñez",
+      "medio": "El Mundo",
+      "url": "https://www.elmundo.es/espana/2026/10/30/6ae43ea8fc6c839b3b8b456d.html",
+      "fecha": "2026-10-30T12:10+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "Feijóo pide la dimisión de Sánchez y de Puente: “Si no dimiten, les dimitiremos en las urnas”",
+      "medio": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/politica/20261030/11671994/feijoo-pide-dimision-sanchez-puente-dimiten-les-dimitiremos-urnas.html",
+      "fecha": "2026-10-30T12:02+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "Un juzgado admite una demanda del exjuez García-Castellón contra el portavoz de Podemos por llamarle prevaricador",
+      "medio": "El País",
+      "url": "https://elpais.com/espana/2026-10-30/un-juzgado-admite-una-demanda-del-exjuez-garcia-castellon-contra-el-portavoz-de-podemos-por-llamarle-prevaricador.html",
+      "fecha": "2026-10-30T11:22+00:00",
+      "partidos": [
+        "podemos"
+      ]
+    },
+    {
+      "titulo": "EH Bildu ganaría las elecciones generales en Euskadi al lograr 7 diputados gracias al desplome total de Sumar y de Podemos",
+      "medio": "El Mundo",
+      "url": "https://www.elmundo.es/pais-vasco/2026/10/30/6ae46b1afc6c8349608b4578.html",
+      "fecha": "2026-10-30T10:32+00:00",
+      "partidos": [
+        "sumar",
+        "bildu",
+        "podemos"
+      ]
+    },
+    {
+      "titulo": "EH Bildu se impondría con claridad el 29-N en el País Vasco y el PNV podría quedarse sin grupo propio",
+      "medio": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/local/paisvasco/20261030/11671955/eh-bildu-impondria-claridad-29-n-pais-vasco-pnv-perderia-dos-escanos.html",
+      "fecha": "2026-10-30T10:06+00:00",
+      "partidos": [
+        "bildu",
+        "pnv"
+      ]
+    },
+    {
+      "titulo": "Victoria de EH Bildu en votos y escaños en las generales, el PSE-EE segundo y el PNV tercero en Euskadi, según el Sociómetro",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/euskadi/victoria-eh-bildu-votos-escanos-generales-pse-ee-segundo-pnv-tercero-euskadi-sociometro_1_13626270.html",
+      "fecha": "2026-10-30T10:00+00:00",
+      "partidos": [
+        "bildu",
+        "pnv"
+      ]
+    },
+    {
       "titulo": "El PP exige abiertamente la dimisión o el cese de Puente: \"No debería llegar al martes\"",
       "medio": "20minutos",
       "url": "https://www.20minutos.es/nacional/pp-exige-abiertamente-dimision-cese-puente-no-deberia-llegar-martes_7055357_0.html",
@@ -493,6 +669,15 @@
       "fecha": "2026-10-30T07:31+00:00",
       "partidos": [
         "psoe"
+      ]
+    },
+    {
+      "titulo": "Valencia aprobará su último presupuesto de 1.361 millones con la estabilidad de Catalá en manos de los expulsados por Vox",
+      "medio": "El Mundo",
+      "url": "https://www.elmundo.es/comunidad-valenciana/2026/10/30/6ae372dfe4d4d878328b4599.html",
+      "fecha": "2026-10-30T06:52+00:00",
+      "partidos": [
+        "vox"
       ]
     },
     {
@@ -3068,190 +3253,6 @@
       "fecha": "2026-10-25T21:08+00:00",
       "partidos": [
         "pp"
-      ]
-    },
-    {
-      "titulo": "El bloque de izquierdas recorta distancias, pero PP y Vox mantienen la mayoría absoluta",
-      "medio": "elDiario.es",
-      "url": "https://www.eldiario.es/politica/bloque-izquierdas-recorta-distancias-pp-vox-mantienen-mayoria-absoluta_1_13611052.html",
-      "fecha": "2026-10-25T20:21+00:00",
-      "partidos": [
-        "pp",
-        "vox"
-      ]
-    },
-    {
-      "titulo": "Cuenta atrás para registrar listas para las elecciones: PP-Vox negocian en el Senado y la izquierda llega con el reparto zanjado",
-      "medio": "elDiario.es",
-      "url": "https://www.eldiario.es/politica/cuenta-registrar-listas-elecciones-pp-vox-negocian-senado-izquierda-llega-reparto-zanjado_1_13609486.html",
-      "fecha": "2026-10-25T20:21+00:00",
-      "partidos": [
-        "pp",
-        "vox"
-      ]
-    },
-    {
-      "titulo": "PP y Vox sellan su asalto a la Agencia Valenciana Antifraude y reducen su colaboración con Anticorrupción",
-      "medio": "elDiario.es",
-      "url": "https://www.eldiario.es/comunitat-valenciana/pp-vox-sellan-asalto-agencia-valenciana-antifraude-reducen-colaboracion-anticorrupcion_1_13609688.html",
-      "fecha": "2026-10-25T20:21+00:00",
-      "partidos": [
-        "pp",
-        "vox"
-      ]
-    },
-    {
-      "titulo": "El agujero de Feijóo",
-      "medio": "elDiario.es",
-      "url": "https://www.eldiario.es/andalucia/desdeelsur/agujero-feijoo_132_13613850.html",
-      "fecha": "2026-10-25T20:19+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "El PP designa a Camarero como número 1 al Senado por Valencia y obliga a Pérez Llorca a remodelar el Consell",
-      "medio": "elDiario.es",
-      "url": "https://www.eldiario.es/comunitat-valenciana/pp-designa-camarero-numero-1-senado-valencia-tendra-gobierno-valenciano_1_13614101.html",
-      "fecha": "2026-10-25T19:50+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Las protestas en Barcelona tensan la precampaña: el PSC dice que irá hasta el final y Feijóo responsabiliza al Gobierno",
-      "medio": "20minutos",
-      "url": "https://www.20minutos.es/nacional/las-protestas-barcelona-tensan-precampana-psc-dice-que-ira-hasta-final-feijoo-responsabiliza-gobierno_7053161_0.html",
-      "fecha": "2026-10-25T19:15+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Frente Amplio afronta este lunes el cierre de listas al 29N con varias plazas electorales aún sin candidatos designados",
-      "medio": "Europa Press",
-      "url": "https://www.europapress.es/nacional/noticia-frente-amplio-afronta-lunes-cierre-listas-29n-varias-plazas-electorales-aun-candidatos-designados-20261025201442.html",
-      "fecha": "2026-10-25T19:14+00:00",
-      "partidos": [
-        "sumar"
-      ]
-    },
-    {
-      "titulo": "Vox pide altura de miras al PP y confía en que tenga \"un gesto\" para cerrar listas",
-      "medio": "20minutos",
-      "url": "https://www.20minutos.es/nacional/vox-pide-altura-miras-pp-confia-que-tenga-un-gesto-para-cerrar-listas_7053192_0.html",
-      "fecha": "2026-10-25T19:03+00:00",
-      "partidos": [
-        "pp",
-        "vox"
-      ]
-    },
-    {
-      "titulo": "El alcalde de Utiel escoltará a Catalá como 'número dos' al Congreso tras proponerlo Llorca a Feijóo y Camarero irá al Senado",
-      "medio": "El Mundo",
-      "url": "https://www.elmundo.es/comunidad-valenciana/2026/10/25/6ade444ae4d4d8ce018b4575.html",
-      "fecha": "2026-10-25T18:57+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "El PP premia a alcaldes de la dana con puestos de salida en las listas del 29N",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/comunidad-valenciana/pp-premia-alcaldes-dana-puestos-salida-listas-20261025194044-nt.html",
-      "fecha": "2026-10-25T18:56+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Feijóo celebra el regreso de María Corina Machado a Venezuela y pide \"elecciones libres\" para que \"el pueblo\" decida",
-      "medio": "20minutos",
-      "url": "https://www.20minutos.es/nacional/feijoo-celebra-regreso-maria-corina-machado-venezuela-pide-elecciones-libres-para-que-pueblo-decida_7053182_0.html",
-      "fecha": "2026-10-25T18:14+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "El PP incluye a sus alcaldes de la dana de Utiel y Algemessí en sus listas al Congreso, dos de los municipios más afectados",
-      "medio": "elDiario.es",
-      "url": "https://www.eldiario.es/comunitat-valenciana/pp-incluye-alcaldes-dana-utiel-algemessi-listas-congreso-municipios-afectados_1_13613936.html",
-      "fecha": "2026-10-25T17:58+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Mañueco: «En cada rincón de Castilla y León alguien del PP va a defender a Feijóo y el programa de partido»",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/castilla-leon/manueco-rincon-castilla-leon-alguien-pp-defender-20261025154759-nt.html",
-      "fecha": "2026-10-25T17:15+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Dimite el delegado del Gobierno en Madrid tras quedar fuera de las listas del PSOE para el 29-N",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/madrid/dimite-delegado-gobierno-madrid-tras-quedar-listas-20261025180625-nt.html",
-      "fecha": "2026-10-25T17:15+00:00",
-      "partidos": [
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "El delegado del Gobierno en Madrid dimite tras la acampada de Sol y no ser incluido en las listas electorales del PSOE: \"Nos han puesto palos en las ruedas\"",
-      "medio": "El Mundo",
-      "url": "https://www.elmundo.es/espana/2026/10/25/6ade316ce4d4d8a4698b458d.html",
-      "fecha": "2026-10-25T17:10+00:00",
-      "partidos": [
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "Dos alcaldes de la dana, en los puestos 2 y 6 de la lista del PP al Congreso por Valencia",
-      "medio": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/local/valencia/20261025/11667726/dos-alcaldes-dana-puestos-2-6-lista-pp-congreso-valencia.html",
-      "fecha": "2026-10-25T17:08+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Francisco Martín dimite como delegado del Gobierno tras quedar fuera de las listas del PSOE y en plena acampada en Sol",
-      "medio": "Europa Press",
-      "url": "https://www.europapress.es/madrid/noticia-francisco-martin-dimite-delegado-gobierno-madrid-20261025175742.html",
-      "fecha": "2026-10-25T16:57+00:00",
-      "partidos": [
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "Dimite el delegado del Gobierno en Madrid, Francisco Martín, tras quedar fuera de las listas del PSOE para el 29-N",
-      "medio": "20minutos",
-      "url": "https://www.20minutos.es/nacional/dimite-delegado-gobierno-madrid-francisco-martin_7053165_0.html",
-      "fecha": "2026-10-25T16:52+00:00",
-      "partidos": [
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "Dimite el delegado del Gobierno en Madrid tras quedarse fuera de las listas del PSOE para las elecciones",
-      "medio": "elDiario.es",
-      "url": "https://www.eldiario.es/madrid/dimite-delegado-gobierno-madrid-quedarse-fuera-listas-psoe-elecciones_1_13613892.html",
-      "fecha": "2026-10-25T16:48+00:00",
-      "partidos": [
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "El delegado del Gobierno en Madrid dimite tras quedarse fuera de las listas del PSOE para el 29-N",
-      "medio": "El País",
-      "url": "https://elpais.com/espana/madrid/2026-10-25/el-delegado-del-gobierno-en-madrid-dimite-tras-quedarse-fuera-de-las-listas-del-psoe-del-29-n.html",
-      "fecha": "2026-10-25T16:30+00:00",
-      "partidos": [
-        "psoe"
       ]
     }
   ],
