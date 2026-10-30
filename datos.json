@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-30T17:39+00:00",
+  "actualizado": "2026-10-30T21:33+00:00",
   "temas": [
     {
       "id": "vivienda",
@@ -448,6 +448,24 @@
     }
   ],
   "noticias": [
+    {
+      "titulo": "Óscar Puente critica la \"doble vara de medir\" de Feijóo con el accidente ferroviario de Urda",
+      "medio": "20minutos",
+      "url": "https://www.20minutos.es/nacional/oscar-puente-critica-doble-vara-medir-feijoo-con-accidente-ferroviario-urda_7055708_0.html",
+      "fecha": "2026-10-30T20:21+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "Dolor y emoción en la despedida de familiares, vecinos y dirigentes del PP a Fátima Báñez en San Juan del Puerto",
+      "medio": "El País",
+      "url": "https://elpais.com/espana/2026-10-30/dolor-y-emocion-en-la-despedida-de-familiares-vecinos-y-dirigentes-del-pp-a-fatima-banez-en-san-juan-del-puerto.html",
+      "fecha": "2026-10-30T18:30+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
     {
       "titulo": "Vox presenta una querella por prevaricación contra el subdelegado del Gobierno en Zamora",
       "medio": "ABC",
@@ -3233,24 +3251,6 @@
       "medio": "ABC",
       "url": "https://www.abc.es/espana/psoe-busca-sacar-millon-votantes-abstencion-primera-20261025015454-nt.html",
       "fecha": "2026-10-26T01:52+00:00",
-      "partidos": [
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "El PSOE de Uruguay ofrecía ayuda gratis para recurrir el veto del TS a la 'ley de nietos'",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/psoe-uruguay-ofrecia-asistencia-juridica-gratuita-recurrir-20261022015527-nt.html",
-      "fecha": "2026-10-26T00:55+00:00",
-      "partidos": [
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "El PSOE esconde sus siglas en las listas al Senado por Ceuta",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/psoe-esconde-siglas-listas-senado-ceuta-20261025015503-nt.html",
-      "fecha": "2026-10-26T00:55+00:00",
       "partidos": [
         "psoe"
       ]
