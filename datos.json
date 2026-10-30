@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-30T05:29+00:00",
+  "actualizado": "2026-10-30T09:48+00:00",
   "temas": [
     {
       "id": "vivienda",
@@ -449,6 +449,53 @@
   ],
   "noticias": [
     {
+      "titulo": "El PP exige abiertamente la dimisión o el cese de Puente: \"No debería llegar al martes\"",
+      "medio": "20minutos",
+      "url": "https://www.20minutos.es/nacional/pp-exige-abiertamente-dimision-cese-puente-no-deberia-llegar-martes_7055357_0.html",
+      "fecha": "2026-10-30T09:19+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "El PP pide el cese o dimisión de Puente antes de su comparecencia parlamentaria por el accidente de Urda",
+      "medio": "Europa Press",
+      "url": "https://www.europapress.es/nacional/noticia-pp-pide-cese-dimision-puente-antes-comparecencia-parlamentaria-accidente-urda-20261030093859.html",
+      "fecha": "2026-10-30T08:38+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "El PP pide la dimisión de Óscar Puente por primera vez desde el accidente de Urda: \"No debería llegar al martes\"",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/politica/pp-pide-dimision-oscar-puente-primera-vez-accidente-urda_1_13626233.html",
+      "fecha": "2026-10-30T08:27+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "Consumo trabaja para aprobar de nuevo el tope de precios tras situaciones de catástrofe que tumbaron PP, Vox y Junts",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/economia/consumo-trabaja-aprobar-nuevo-tope-precios-situaciones-catastrofe-tumbaron-pp-vox-junts_1_13626150.html",
+      "fecha": "2026-10-30T07:33+00:00",
+      "partidos": [
+        "pp",
+        "vox",
+        "junts"
+      ]
+    },
+    {
+      "titulo": "El PSOE andaluz rescata como experto en sanidad pública a su exviceconsejero Martín Blanco, que cesó por los recortes",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/andalucia/psoe-recurre-experto-sanidad-publica-exviceconsejero-salud-20261030071837-nts.html",
+      "fecha": "2026-10-30T07:31+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
       "titulo": "El PP respetará el luto, pero después apuntará a Sánchez: “Con la dimisión de Puente no basta”",
       "medio": "El País",
       "url": "https://elpais.com/espana/2026-10-30/el-pp-respetara-el-luto-pero-despues-apuntara-a-sanchez-con-la-dimision-de-puente-no-basta.html",
@@ -491,6 +538,15 @@
       "medio": "El Mundo",
       "url": "https://www.elmundo.es/espana/2026/10/30/6abcb554e85eceda1a8b45ba.html",
       "fecha": "2026-10-30T00:50+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "El PP da por amortizado a Puente y se prepara ya para una campaña volcada en la gestión ferroviaria: \"La clave es quién nombra al siguiente ministro\"",
+      "medio": "El Mundo",
+      "url": "https://www.elmundo.es/espana/2026/10/30/6ae3c075fc6c83244f8b459f.html",
+      "fecha": "2026-10-29T23:02+00:00",
       "partidos": [
         "pp"
       ]
@@ -702,6 +758,15 @@
       "fecha": "2026-10-29T12:30+00:00",
       "partidos": [
         "pp"
+      ]
+    },
+    {
+      "titulo": "PNV exige a Sánchez \"responsabilidades políticas máximas\" como \"el cese o dimisión\" del ministro Puente",
+      "medio": "Europa Press",
+      "url": "https://www.europapress.es/euskadi/noticia-pnv-exige-sanchez-responsabilidades-politicas-maximas-cese-dimision-ministro-puente-20261029130310.html",
+      "fecha": "2026-10-29T12:03+00:00",
+      "partidos": [
+        "pnv"
       ]
     },
     {
@@ -3187,70 +3252,6 @@
       "fecha": "2026-10-25T16:30+00:00",
       "partidos": [
         "psoe"
-      ]
-    },
-    {
-      "titulo": "El PSOE denuncia la «debilidad» de Núñez para mantener los equilibrios de poder en el PP",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/castilla-la-mancha/psoe-denuncia-debilidad-nunez-mantener-equilibrios-poder-20261025171134-nt.html",
-      "fecha": "2026-10-25T16:12+00:00",
-      "partidos": [
-        "pp",
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "Toda la izquierda valenciana, incluido el PSOE, se suma a l'Aplec del Puig: “Hay esperanza”",
-      "medio": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/local/valencia/20261025/11667701/toda-izquierda-valenciana-incluido-psoe-suma-l-aplec-puig-hay-esperanza.html",
-      "fecha": "2026-10-25T15:50+00:00",
-      "partidos": [
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "El PP tira de gestión en sus listas a costa de excepciones en su estatuto",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/andalucia/pp-tira-gestion-listas-costa-excepciones-estatuto-20261025151408-nts.html",
-      "fecha": "2026-10-25T15:36+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "La Generalitat consuma el cese de la consellera Albalat para encabezar la lista del PP por Castellón el 29N",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/comunidad-valenciana/generalitat-consuma-cese-consellera-albalat-encabezar-lista-20261025162343-nt.html",
-      "fecha": "2026-10-25T15:23+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Colau arremete contra el PSOE: les acusa de no reducir la desigualdad y pide llenar las calles frente a políticos con \"piquito de oro\"",
-      "medio": "20minutos",
-      "url": "https://www.20minutos.es/nacional/colau-arremete-contra-psoe-les-acusa-no-reducir-desigualdad-pide-llenar-las-calles-frente-politicos-con-piquito-oro_7053123_0.html",
-      "fecha": "2026-10-25T13:53+00:00",
-      "partidos": [
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "Frente Amplio carga contra los políticos de izquierda con \"piquito de oro\" y que \"no ponen el cuerpo\" para defender los derechos",
-      "medio": "elDiario.es",
-      "url": "https://www.eldiario.es/politica/frene-amplio-carga-politicos-izquierda-piquito-oro-no-ponen-cuerpo-defender-derechos_1_13613685.html",
-      "fecha": "2026-10-25T13:29+00:00",
-      "partidos": [
-        "sumar"
-      ]
-    },
-    {
-      "titulo": "Feijóo culpa a Sánchez y \"los discípulos del muro\" de los disturbios en Barcelona: \"Como han perdido la calle quieren incendiarla\"",
-      "medio": "20minutos",
-      "url": "https://www.20minutos.es/nacional/feijoo-culpa-sanchez-los-discipulos-muro-los-disturbios-barcelona-como-han-perdido-calle-quieren-incendiarla_7053113_0.html",
-      "fecha": "2026-10-25T13:13+00:00",
-      "partidos": [
-        "pp"
       ]
     }
   ],
