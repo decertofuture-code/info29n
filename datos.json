@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-29T21:37+00:00",
+  "actualizado": "2026-10-30T05:29+00:00",
   "temas": [
     {
       "id": "vivienda",
@@ -449,6 +449,80 @@
   ],
   "noticias": [
     {
+      "titulo": "El PP respetará el luto, pero después apuntará a Sánchez: “Con la dimisión de Puente no basta”",
+      "medio": "El País",
+      "url": "https://elpais.com/espana/2026-10-30/el-pp-respetara-el-luto-pero-despues-apuntara-a-sanchez-con-la-dimision-de-puente-no-basta.html",
+      "fecha": "2026-10-30T04:30+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "Encuestas elecciones generales del 29N en Andalucía: resultados de PSOE, PP, Vox y Adelante Andalucía y ganador según los sondeos",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/andalucia/encuestas-elecciones-generales-29n-andalucia-resultados-psoe-20261030051500-nts.html",
+      "fecha": "2026-10-30T04:15+00:00",
+      "partidos": [
+        "pp",
+        "psoe",
+        "vox"
+      ]
+    },
+    {
+      "titulo": "Un PP \"en shock\" por Fátima Báñez cierra filas con la orden de Feijóo de \"extremar la prudencia\"",
+      "medio": "El Confidencial",
+      "url": "https://www.elconfidencial.com/espana/2026-10-30/pp-shock-fatima-banez-orden-feijoo-prudencia_4455824/",
+      "fecha": "2026-10-30T04:00+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "Sánchez se ata a Puente en la campaña pese a los recelos en el PSOE: \"Mientras esté, no se hablará de otra cosa\"",
+      "medio": "20minutos",
+      "url": "https://www.20minutos.es/nacional/sanchez-se-ata-puente-campana-pese-los-recelos-psoe-mientras-este-no-se-hablara-otra-cosa_7055212_0.html",
+      "fecha": "2026-10-30T04:00+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "El ejemplo institucional de Page: \"muy afectado\", aparca sus diferencias con Sánchez y ejerce de anfitrión de Feijóo",
+      "medio": "El Mundo",
+      "url": "https://www.elmundo.es/espana/2026/10/30/6abcb554e85eceda1a8b45ba.html",
+      "fecha": "2026-10-30T00:50+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "Antifraude acude a la sede del PP valenciano para requerir documentación sobre las vallas publicitarias de Llorca",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/comunitat-valenciana/antifraude-acude-sede-pp-valenciano-requerir-documentacion-vallas-publicitarias-llorca_1_13624222.html",
+      "fecha": "2026-10-29T22:00+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "La continuidad de Puente en el Gobierno divide al PSOE mientras el ministro rechaza dimitir: \"Los audios lo ponen más contra las cuerdas\"",
+      "medio": "El Mundo",
+      "url": "https://www.elmundo.es/espana/2026/10/29/6ae38952fc6c83c1278b4597.html",
+      "fecha": "2026-10-29T21:50+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "El PSOE ofrece en sacrificio al último de la fila",
+      "medio": "El Mundo",
+      "url": "https://www.elmundo.es/espana/2026/10/29/6ae37dda21efa051508b458a.html",
+      "fecha": "2026-10-29T21:48+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
       "titulo": "Óscar Puente politiza la cúpula de Adif con militantes socialistas en puestos clave",
       "medio": "ABC",
       "url": "https://www.abc.es/espana/xxxxxxxxxxxxx-20261030214038-nt.html",
@@ -474,6 +548,15 @@
       "partidos": [
         "psoe",
         "vox"
+      ]
+    },
+    {
+      "titulo": "La Junta Electoral Central abre expediente sancionador contra Pedro Sánchez por el vídeo ante el 'Guernica'",
+      "medio": "El Mundo",
+      "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/10/29/6ae38e75e4d4d8554a8b4575.html",
+      "fecha": "2026-10-29T18:22+00:00",
+      "partidos": [
+        "psoe"
       ]
     },
     {
@@ -3166,88 +3249,6 @@
       "medio": "20minutos",
       "url": "https://www.20minutos.es/nacional/feijoo-culpa-sanchez-los-discipulos-muro-los-disturbios-barcelona-como-han-perdido-calle-quieren-incendiarla_7053113_0.html",
       "fecha": "2026-10-25T13:13+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Feijóo relaciona a Sánchez con los disturbios de Barcelona: «Se están resistiendo a abandonar el poder con violencia»",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/castilla-leon/feijoo-relaciona-sanchez-disturbios-barcelona-resistiendo-abandonar-20261025140032-nt.html",
-      "fecha": "2026-10-25T13:00+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Feijóo acusa a Sánchez de \"querer ver crecer el fuego\" tras los disturbios en Barcelona: \"Los discípulos del muro no quieren paz en las calles\"",
-      "medio": "El Mundo",
-      "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/10/25/6addd6ede9cf4ad77b8b4571.html",
-      "fecha": "2026-10-25T12:54+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Feijóo culpa a Sánchez sin pruebas de los disturbios en Barcelona: \"Se están resistiendo a abandonar el poder con violencia\"",
-      "medio": "elDiario.es",
-      "url": "https://www.eldiario.es/politica/feijoo-culpa-sanchez-pruebas-disturbios-barcelona-resistiendo-abandonar-violencia_1_13613552.html",
-      "fecha": "2026-10-25T12:39+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Feijóo acusa a Sánchez de \"dar lecciones de paz\" mientras está \"jugando con fuego\" con la violencia en la calle",
-      "medio": "El Confidencial",
-      "url": "https://www.elconfidencial.com/espana/2026-10-25/feijoo-sanchez-lecciones-paz-fuego-malestar-violencia_4452552/",
-      "fecha": "2026-10-25T12:39+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Feijóo relaciona a Sánchez con los disturbios de Barcelona: \"Se resisten a abandonar el poder con violencia\"",
-      "medio": "Europa Press",
-      "url": "https://www.europapress.es/nacional/noticia-feijoo-relaciona-sanchez-disturbios-barcelona-resisten-abandonar-poder-violencia-20261025133910.html",
-      "fecha": "2026-10-25T12:39+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Feijóo irá a Barcelona tras los disturbios y apunta a la izquierda: “Se resiste a abandonar el poder con violencia”",
-      "medio": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/politica/20261025/11667668/feijoo-ira-barcelona-disturbios-apunta-izquierda-resiste-abandonar-violencia.html",
-      "fecha": "2026-10-25T12:31+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Repullo (PP): «Vamos a trabajar para exportar la vía andaluza al resto de España»",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/andalucia/cordoba/repullo-pp-vamos-trabajar-exportar-via-andaluza-20261025131139-nts.html",
-      "fecha": "2026-10-25T12:22+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "El PP de Núñez acusa a Page de pactar junto a Sánchez con Frente Amplio para asegurar puestos en el Senado",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/castilla-la-mancha/pp-acusa-page-pactar-junto-sanchez-asegurar-20261025130216-nt.html",
-      "fecha": "2026-10-25T12:08+00:00",
-      "partidos": [
-        "pp",
-        "sumar"
-      ]
-    },
-    {
-      "titulo": "El PP renueva el 60% de sus candidatos a las elecciones del 29-N, ¿quiénes son?",
-      "medio": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/politica/20261025/11667660/pp-renueva-60-candidatos-elecciones-29-n.html",
-      "fecha": "2026-10-25T11:36+00:00",
       "partidos": [
         "pp"
       ]
