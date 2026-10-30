@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-30T13:56+00:00",
+  "actualizado": "2026-10-30T17:39+00:00",
   "temas": [
     {
       "id": "vivienda",
@@ -448,6 +448,52 @@
     }
   ],
   "noticias": [
+    {
+      "titulo": "Vox presenta una querella por prevaricación contra el subdelegado del Gobierno en Zamora",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/castilla-leon/vox-presenta-querella-prevaricacion-subdelegado-gobierno-zamora-20261030152053-nt.html",
+      "fecha": "2026-10-30T17:18+00:00",
+      "partidos": [
+        "vox"
+      ]
+    },
+    {
+      "titulo": "Los primeros presupuestos andaluces de PP-Vox cristalizan el rechazo a los menores extranjeros y crecen en sanidad",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/andalucia/primeros-presupuestos-andaluces-pp-vox-cristalizan-rechazo-menores-extranjeros-crecen-sanidad_1_13614461.html",
+      "fecha": "2026-10-30T15:02+00:00",
+      "partidos": [
+        "pp",
+        "vox"
+      ]
+    },
+    {
+      "titulo": "Vox se querella contra el subdelegado del Gobierno en Zamora por cinco delitos tras las protestas en su acto",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/castilla-y-leon/tribunales/vox-querella-subdelegado-gobierno-zamora-prevaricacion-delito-electoral-protestas-acto_1_13627840.html",
+      "fecha": "2026-10-30T14:57+00:00",
+      "partidos": [
+        "vox"
+      ]
+    },
+    {
+      "titulo": "Un concejal del PP admite que recurrió a un empresario turístico para salvar la vivienda embargada de su hermana en Ibiza",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/illes-balears/politica/concejal-pp-admite-recurrio-empresario-salvar-vivienda-embargada-hermana-ibiza_1_13627502.html",
+      "fecha": "2026-10-30T14:21+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "Frente Amplio eleva la presión sobre Puente al reclamar oficialmente su dimisión",
+      "medio": "Europa Press",
+      "url": "https://www.europapress.es/nacional/noticia-frente-amplio-eleva-presion-puente-reclamar-oficialmente-dimision-20261030145955.html",
+      "fecha": "2026-10-30T13:59+00:00",
+      "partidos": [
+        "sumar"
+      ]
+    },
     {
       "titulo": "El PP y la CEOE acompañan a la familia de Fátima Báñez en el tanatorio antes del funeral",
       "medio": "ABC",
@@ -3207,52 +3253,6 @@
       "fecha": "2026-10-26T00:55+00:00",
       "partidos": [
         "psoe"
-      ]
-    },
-    {
-      "titulo": "Sánchez recorta distancia a Feijóo pero la suma de la derecha sigue muy cerca de los 200 escaños",
-      "medio": "El Mundo",
-      "url": "https://www.elmundo.es/espana/encuestas/2026/10/26/6addf8c4fdddfff23d8b4581.html",
-      "fecha": "2026-10-26T00:09+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Abascal celebra el regreso de María Corina Machado a Venezuela y carga contra el PSOE y Zapatero",
-      "medio": "Europa Press",
-      "url": "https://www.europapress.es/nacional/noticia-abascal-celebra-regreso-maria-corina-machado-venezuela-carga-contra-psoe-zapatero-20261026010030.html",
-      "fecha": "2026-10-26T00:00+00:00",
-      "partidos": [
-        "psoe",
-        "vox"
-      ]
-    },
-    {
-      "titulo": "Feijóo señala a la izquierda y acude esta semana a Barcelona tras los disturbios",
-      "medio": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/politica/20261026/11667789/feijoo-senala-izquierda-acude-semana-barcelona-disturbios.html",
-      "fecha": "2026-10-25T23:05+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Miriam Andrés, la discreta alcaldesa de Palencia que se ha plantado ante Ferraz y que podría ser clave en la sucesión de Sánchez: \"No genera rechazo en muchas federaciones clave\"",
-      "medio": "El Mundo",
-      "url": "https://www.elmundo.es/espana/2026/10/26/6ada20f6e9cf4a427e8b4577.html",
-      "fecha": "2026-10-25T23:02+00:00",
-      "partidos": [
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "Susana Camarero encabeza la lista del PP al Senado por Valencia para el 29N",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/comunidad-valenciana/susana-camarero-encabeza-lista-pp-senado-valencia-20261025214450-nt.html",
-      "fecha": "2026-10-25T21:08+00:00",
-      "partidos": [
-        "pp"
       ]
     }
   ],
