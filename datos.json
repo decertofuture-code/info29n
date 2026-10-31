@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-31T13:42+00:00",
+  "actualizado": "2026-10-31T17:29+00:00",
   "temas": [
     {
       "id": "vivienda",
@@ -449,6 +449,35 @@
   ],
   "noticias": [
     {
+      "titulo": "Vox acusa al Gobierno de hacer \"chistecitos\" en televisión mientras se produce la \"tercermundización\" de la red ferroviaria",
+      "medio": "20minutos",
+      "url": "https://www.20minutos.es/nacional/vox-acusa-gobierno-hacer-chistecitos-television-mientras-se-produce-tercermundizacion-red-ferroviaria_7055827_0.html",
+      "fecha": "2026-10-31T16:16+00:00",
+      "partidos": [
+        "vox"
+      ]
+    },
+    {
+      "titulo": "Vox pide suspender el voto a los hijos de los nacionalizados por la 'ley de nietos' si los padres no acreditan el exilio",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/vox-pide-suspender-voto-hijos-nacionalizados-ley-20261031151940-nt.html",
+      "fecha": "2026-10-31T14:49+00:00",
+      "partidos": [
+        "vox"
+      ]
+    },
+    {
+      "titulo": "Socios de Sánchez y UGT exigen que Puente responda por la tragedia: Frente Amplio, PNV y BNG piden \"responsabilidades\"",
+      "medio": "20minutos",
+      "url": "https://www.20minutos.es/nacional/socios-sanchez-ugt-exigen-que-puente-responda-por-tragedia-frente-amplio-pnv-bng-piden-responsabilidades_7055807_0.html",
+      "fecha": "2026-10-31T14:34+00:00",
+      "partidos": [
+        "sumar",
+        "pnv",
+        "bng"
+      ]
+    },
+    {
       "titulo": "El PP exige a Sánchez \"consecuencias\" por la tragedia de Urda y promete trabajar para \"nunca nadie sienta miedo a subir a un tren\"",
       "medio": "20minutos",
       "url": "https://www.20minutos.es/nacional/pp-exige-sanchez-consecuencias-tragedia-urda-promete-trabajar-nunca-nadie-sienta-miedo-subir-tren_7055792_0.html",
@@ -462,6 +491,15 @@
       "medio": "ABC",
       "url": "https://www.abc.es/espana/castilla-la-mancha/toledo/pueblos/funez-reclama-verdad-ocurrido-accidente-ferroviario-urda-20261031135310-nt.html",
       "fecha": "2026-10-31T12:56+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "El PP exige a Sánchez “consecuencias” por la tragedia de Urda: “No se puede despachar con una cabeza de turco”",
+      "medio": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/politica/20261031/11672828/pp-exige-sanchez-consecuencias-tragedia-urda-despachar-cabeza-turco.html",
+      "fecha": "2026-10-31T12:46+00:00",
       "partidos": [
         "pp"
       ]
@@ -3214,43 +3252,6 @@
       "fecha": "2026-10-26T12:34+00:00",
       "partidos": [
         "pp"
-      ]
-    },
-    {
-      "titulo": "Junts y ERC señalan al Govern por los disturbios y saqueos de Barcelona y exigen explicaciones",
-      "medio": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/politica/20261026/11668292/junts-senala-govern-disturbios-saqueos-barcelona-exige-explicaciones.html",
-      "fecha": "2026-10-26T12:09+00:00",
-      "partidos": [
-        "erc",
-        "junts"
-      ]
-    },
-    {
-      "titulo": "Frente Amplio mantiene la incógnita sobre si presentará listas en toda España salvo Teruel: \"Esta noche se verá\"",
-      "medio": "Europa Press",
-      "url": "https://www.europapress.es/nacional/noticia-frente-amplio-mantiene-incognita-si-presentara-listas-toda-espana-teruel-noche-vera-20261026130516.html",
-      "fecha": "2026-10-26T12:05+00:00",
-      "partidos": [
-        "sumar"
-      ]
-    },
-    {
-      "titulo": "El Frente Amplio se agarra al efecto Lula para convencer a la izquierda de que “hay partido”",
-      "medio": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/politica/20261026/11668274/frente-amplio-agarra-efecto-lula-convencer-izquierda-hay-partido.html",
-      "fecha": "2026-10-26T11:45+00:00",
-      "partidos": [
-        "sumar"
-      ]
-    },
-    {
-      "titulo": "Podemos se suma en el último minuto a la lista de la izquierda unitaria en Baleares",
-      "medio": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/politica/20261026/11668195/suma-ultimo-minuto-lista-izquierda-unitaria-baleares.html",
-      "fecha": "2026-10-26T11:02+00:00",
-      "partidos": [
-        "podemos"
       ]
     }
   ],
