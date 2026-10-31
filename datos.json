@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-31T09:36+00:00",
+  "actualizado": "2026-10-31T13:42+00:00",
   "temas": [
     {
       "id": "vivienda",
@@ -448,6 +448,69 @@
     }
   ],
   "noticias": [
+    {
+      "titulo": "El PP exige a Sánchez \"consecuencias\" por la tragedia de Urda y promete trabajar para \"nunca nadie sienta miedo a subir a un tren\"",
+      "medio": "20minutos",
+      "url": "https://www.20minutos.es/nacional/pp-exige-sanchez-consecuencias-tragedia-urda-promete-trabajar-nunca-nadie-sienta-miedo-subir-tren_7055792_0.html",
+      "fecha": "2026-10-31T13:03+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "Fúnez (PP) reclama «la verdad de lo que ha ocurrido» en el accidente ferroviario de Urda",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/castilla-la-mancha/toledo/pueblos/funez-reclama-verdad-ocurrido-accidente-ferroviario-urda-20261031135310-nt.html",
+      "fecha": "2026-10-31T12:56+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "El PP critica que Puente \"busque una cabeza de turco\" en el accidente de Urda",
+      "medio": "Europa Press",
+      "url": "https://www.europapress.es/nacional/noticia-pp-critica-puente-busque-cabeza-turco-accidente-urda-20261031131715.html",
+      "fecha": "2026-10-31T12:17+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "El Frente Amplio sitúa la inversión pública en el centro de la crisis ferroviaria",
+      "medio": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/politica/20261031/11672825/frente-amplio-situa-inversion-publica-centro-crisis-ferroviaria-delgado-colau-urda.html",
+      "fecha": "2026-10-31T12:10+00:00",
+      "partidos": [
+        "sumar"
+      ]
+    },
+    {
+      "titulo": "Pedro Sánchez participa en la reunión de coordinación y seguimiento de la emergencia por el accidente de Urda",
+      "medio": "20minutos",
+      "url": "https://www.20minutos.es/nacional/pedro-sanchez-participa-reunion-coordinacion-seguimiento-emergencia-por-accidente-urda_7055781_0.html",
+      "fecha": "2026-10-31T11:47+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "Abascal dice que el posible cierre del AVE Madrid-Barcelona demuestra que el Gobierno es \"responsable\" en Urda",
+      "medio": "Europa Press",
+      "url": "https://www.europapress.es/nacional/noticia-abascal-dice-posible-cierre-ave-madrid-barcelona-demuestra-gobierno-responsable-urda-20261031113747.html",
+      "fecha": "2026-10-31T10:37+00:00",
+      "partidos": [
+        "vox"
+      ]
+    },
+    {
+      "titulo": "Accidente de tren en Urda, última hora en directo: el PP critica que Puente “busque un cabeza de turco”",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/castilla-la-mancha/accidente-tren-urda-ultima-hora-directo_133_13628783.html",
+      "fecha": "2026-10-31T07:22+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
     {
       "titulo": "Una excandidata, un exteniente de Alcalde o un director con Ximo Puig: Puente llena la dirección de Adif de cargos próximos al PSOE",
       "medio": "20minutos",
@@ -3186,71 +3249,6 @@
       "medio": "La Vanguardia",
       "url": "https://www.lavanguardia.com/politica/20261026/11668195/suma-ultimo-minuto-lista-izquierda-unitaria-baleares.html",
       "fecha": "2026-10-26T11:02+00:00",
-      "partidos": [
-        "podemos"
-      ]
-    },
-    {
-      "titulo": "Críticas en el PP al delegado del Gobierno en Madrid tras su dimisión: \"No le van a echar de menos ni en su partido\"",
-      "medio": "elDiario.es",
-      "url": "https://www.eldiario.es/madrid/somos/criticas-pp-dimision-delegado-gobierno-madrid-no-le-echar-partido_1_13614713.html",
-      "fecha": "2026-10-26T10:36+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Vox pide expresamente al Supremo que suspenda el voto de los hijos de los electores excluidos",
-      "medio": "El Mundo",
-      "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/10/26/6adf1cc3e9cf4a844f8b4588.html",
-      "fecha": "2026-10-26T10:27+00:00",
-      "partidos": [
-        "vox"
-      ]
-    },
-    {
-      "titulo": "Frente Amplio acusa a la derecha de intentar deslegitimar la protesta tras los disturbios de Barcelona",
-      "medio": "Europa Press",
-      "url": "https://www.europapress.es/nacional/noticia-frente-amplio-acusa-derecha-intentar-deslegitimar-protesta-disturbios-barcelona-20261026105156.html",
-      "fecha": "2026-10-26T09:51+00:00",
-      "partidos": [
-        "sumar"
-      ]
-    },
-    {
-      "titulo": "La vicepresidenta valenciana Susana Camarero, número 1 del PP al Senado por Valencia",
-      "medio": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/local/valencia/20261026/11668114/vicepresidenta-valenciana-susana-camarero-numero-1-pp-senado-valencia.html",
-      "fecha": "2026-10-26T09:40+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Vox y el PP continúan negociando la candidatura para el Senado: \"El día es largo\"",
-      "medio": "20minutos",
-      "url": "https://www.20minutos.es/nacional/vox-pp-continuan-negociando-candidatura-para-senado-dia-es-largo_7053313_0.html",
-      "fecha": "2026-10-26T09:16+00:00",
-      "partidos": [
-        "pp",
-        "vox"
-      ]
-    },
-    {
-      "titulo": "Las encuestas dan la mayoría absoluta a PP y Vox pese a que la izquierda recorta distancias",
-      "medio": "El Confidencial",
-      "url": "https://www.elconfidencial.com/espana/2026-10-26/sondeos-elecciones-generales-mayoria-absoluta-partidos_4452866/",
-      "fecha": "2026-10-26T09:15+00:00",
-      "partidos": [
-        "pp",
-        "vox"
-      ]
-    },
-    {
-      "titulo": "Podemos se suma a la coalición Ara Més-Front Ampli y no se presentará en solitario al Congreso por Balears",
-      "medio": "elDiario.es",
-      "url": "https://www.eldiario.es/illes-balears/politica/suma-coalicion-ara-mes-front-ampli-no-presentara-solitario-congreso-balears_1_13614467.html",
-      "fecha": "2026-10-26T08:31+00:00",
       "partidos": [
         "podemos"
       ]
