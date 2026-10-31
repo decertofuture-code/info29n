@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-31T17:29+00:00",
+  "actualizado": "2026-10-31T21:31+00:00",
   "temas": [
     {
       "id": "vivienda",
@@ -448,6 +448,15 @@
     }
   ],
   "noticias": [
+    {
+      "titulo": "El PSOE no remonta: GAD3 ve \"imposible\" que Sánchez sea el más votado el 29-N tras el accidente de Urda",
+      "medio": "El Confidencial",
+      "url": "https://www.elconfidencial.com/espana/2026-10-31/encuesta-escanos-psoe-pp-accidente-urda-mayoria_4457029/",
+      "fecha": "2026-10-31T19:33+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
     {
       "titulo": "Vox acusa al Gobierno de hacer \"chistecitos\" en televisión mientras se produce la \"tercermundización\" de la red ferroviaria",
       "medio": "20minutos",
@@ -3243,15 +3252,6 @@
       "partidos": [
         "pp",
         "vox"
-      ]
-    },
-    {
-      "titulo": "El PP de Feijóo sale en defensa de Julio Iglesias para negar una entrevista a elDiario.es",
-      "medio": "elDiario.es",
-      "url": "https://www.eldiario.es/rastreador/pp-feijoo-sale-defensa-amigo-julio-iglesias-negar-entrevista-eldiario_132_13614930.html",
-      "fecha": "2026-10-26T12:34+00:00",
-      "partidos": [
-        "pp"
       ]
     }
   ],
