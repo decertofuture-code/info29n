@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-30T21:33+00:00",
+  "actualizado": "2026-10-31T05:26+00:00",
   "temas": [
     {
       "id": "vivienda",
@@ -448,6 +448,56 @@
     }
   ],
   "noticias": [
+    {
+      "titulo": "El escenario vasco se transforma: del auge de Bildu a la aparición de una izquierda antiinmigración",
+      "medio": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/politica/20261031/11672485/escenario-vasco-transforma-auge-bildu-aparicion-izquierda-antiinmigracion.html",
+      "fecha": "2026-10-31T05:00+00:00",
+      "partidos": [
+        "bildu"
+      ]
+    },
+    {
+      "titulo": "Encuestas elecciones 29N en España: el resultado si solo votasen los pensionistas y la intención de voto a PSOE, PP, Vox y resto de partidos",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/resultado-elecciones-29n-espana-solo-votasen-pensionistas-20261031053000-nt.html",
+      "fecha": "2026-10-31T04:30+00:00",
+      "partidos": [
+        "pp",
+        "psoe",
+        "vox"
+      ]
+    },
+    {
+      "titulo": "Encuestas elecciones Cataluña: resultados de Aliança Catalana, PSC, Junts, PP y Vox y ganador según los sondeos",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/cataluna/encuestas-elecciones-cataluna-resultados-alianca-catalana-psc-20261031051500-nt.html",
+      "fecha": "2026-10-31T04:15+00:00",
+      "partidos": [
+        "pp",
+        "vox",
+        "junts"
+      ]
+    },
+    {
+      "titulo": "Malestar en el sector de la formación deportiva por la plaza para un exasesor del PP en Zaragoza: \"Hay mucho enfado\"",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/aragon/politica/malestar-sector-formacion-deportiva-plaza-exasesor-pp-zaragoza-hay-enfado_1_13624409.html",
+      "fecha": "2026-10-30T22:10+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "El Frente Amplio eleva la presión sobre Puente y tensa su relación con el PSOE a dos semanas de la campaña",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/politica/frente-amplio-eleva-presion-puente-tensa-relacion-psoe-semanas-campana_1_13627803.html",
+      "fecha": "2026-10-30T21:17+00:00",
+      "partidos": [
+        "psoe",
+        "sumar"
+      ]
+    },
     {
       "titulo": "Óscar Puente critica la \"doble vara de medir\" de Feijóo con el accidente ferroviario de Urda",
       "medio": "20minutos",
@@ -3203,56 +3253,6 @@
       "partidos": [
         "pp",
         "vox"
-      ]
-    },
-    {
-      "titulo": "“Para nosotros es histórico”: cómo Jordi Wild logró el sí de Sánchez, Feijóo, Abascal y Colau para ir a su casa",
-      "medio": "El País",
-      "url": "https://elpais.com/espana/elecciones-generales/2026-10-26/para-nosotros-es-historico-como-jordi-wild-logro-el-si-de-sanchez-feijoo-abascal-y-colau-para-ir-a-su-casa.html",
-      "fecha": "2026-10-26T04:30+00:00",
-      "partidos": [
-        "pp",
-        "vox"
-      ]
-    },
-    {
-      "titulo": "Encuestas elecciones generales 29N: resultados de PSOE, PP, VOX y Frente Amplio y ganador según los sondeos",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/encuestas-elecciones-generales-29n-resultados-psoe-pp-20261026051500-nt.html",
-      "fecha": "2026-10-26T04:15+00:00",
-      "partidos": [
-        "pp",
-        "psoe",
-        "sumar"
-      ]
-    },
-    {
-      "titulo": "Colau, Delgado y Bustinduy: Frente Amplio moldea una campaña con un \"liderazgo coral\" que muestre su variedad de perfiles",
-      "medio": "20minutos",
-      "url": "https://www.20minutos.es/nacional/colau-delgado-bustinduy-frente-amplio-moldea-una-campana-con-un-liderazgo-coral-que-muestre-su-variedad-perfiles_7052201_0.html",
-      "fecha": "2026-10-26T04:00+00:00",
-      "partidos": [
-        "sumar"
-      ]
-    },
-    {
-      "titulo": "Sergio Sayas (PP Navarra): «Bienvenido sea ser bisagra de Vox y UPN si es para echar a Chivite»",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/navarra/sergio-sayas-bienvenido-bisagra-vox-upn-echar-20261024015508-nt.html",
-      "fecha": "2026-10-26T01:53+00:00",
-      "partidos": [
-        "pp",
-        "vox",
-        "upn"
-      ]
-    },
-    {
-      "titulo": "El PSOE intenta sacar a un millón de votantes de la abstención para ser primera fuerza el 29N",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/psoe-busca-sacar-millon-votantes-abstencion-primera-20261025015454-nt.html",
-      "fecha": "2026-10-26T01:52+00:00",
-      "partidos": [
-        "psoe"
       ]
     }
   ],
