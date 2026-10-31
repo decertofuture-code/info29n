@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-31T05:26+00:00",
+  "actualizado": "2026-10-31T09:36+00:00",
   "temas": [
     {
       "id": "vivienda",
@@ -448,6 +448,44 @@
     }
   ],
   "noticias": [
+    {
+      "titulo": "Una excandidata, un exteniente de Alcalde o un director con Ximo Puig: Puente llena la dirección de Adif de cargos próximos al PSOE",
+      "medio": "20minutos",
+      "url": "https://www.20minutos.es/nacional/una-excandidata-un-exteniente-alcalde-un-director-con-ximo-puig-puente-llena-direccion-adif-cargos-proximos-psoe_7055619_0.html",
+      "fecha": "2026-10-31T06:48+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "El exalcalde del PSOE de Belalcázar vincula la muerte de Fátima Báñez con la gestión del PP: 'Los recortes matan'",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/andalucia/cordoba/exalcalde-psoe-belalcazar-desata-polemica-tras-vincular-20261031070359-nts.html",
+      "fecha": "2026-10-31T06:03+00:00",
+      "partidos": [
+        "pp",
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "El pacto PP-Vox en los presupuestos andaluces: bajada de impuestos y recorte a la cooperación internacional",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/andalucia/pacto-ppvox-presupuestos-andaluces-bajada-impuestos-recorte-20261031172803-nts.html",
+      "fecha": "2026-10-31T06:03+00:00",
+      "partidos": [
+        "pp",
+        "vox"
+      ]
+    },
+    {
+      "titulo": "Anticorrupción pide el archivo para 18 ex altos cargos andaluces del PSOE al haber «prescrito» una ayuda ilegal de 1,2 millones",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/andalucia/anticorrupcion-pide-archivo-altos-cargos-andaluces-psoe-20261031070329-nts.html",
+      "fecha": "2026-10-31T06:03+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
     {
       "titulo": "El escenario vasco se transforma: del auge de Bildu a la aparición de una izquierda antiinmigración",
       "medio": "La Vanguardia",
@@ -3215,44 +3253,6 @@
       "fecha": "2026-10-26T08:31+00:00",
       "partidos": [
         "podemos"
-      ]
-    },
-    {
-      "titulo": "'Salvados' entrevistará a Pedro Sánchez el próximo domingo: “Vuelve 10 años después”",
-      "medio": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/politica/20261026/11668042/salvados-entrevistara-pedro-sanchez-proximo-domingo-vuelve-10-anos.html",
-      "fecha": "2026-10-26T08:14+00:00",
-      "partidos": [
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "Frente Amplio y Podemos celebran la victoria de Lula y llaman a vencer también a la ultraderecha en España",
-      "medio": "Europa Press",
-      "url": "https://www.europapress.es/nacional/noticia-frente-amplio-podemos-celebran-victoria-lula-contra-poder-tecnologico-financiero-20261026080135.html",
-      "fecha": "2026-10-26T07:01+00:00",
-      "partidos": [
-        "sumar",
-        "podemos"
-      ]
-    },
-    {
-      "titulo": "Catalunya desempata: Sánchez o Abascal",
-      "medio": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/politica/20261026/11667771/catalunya-desempata-sanchez-abascal.html",
-      "fecha": "2026-10-26T05:00+00:00",
-      "partidos": [
-        "vox"
-      ]
-    },
-    {
-      "titulo": "PP y Vox apuran “sobre la bocina” la negociación de la fórmula para hacerse con el control del Senado",
-      "medio": "El País",
-      "url": "https://elpais.com/espana/elecciones-generales/2026-10-26/pp-y-vox-apuran-sobre-la-bocina-la-negociacion-de-la-formula-para-hacerse-con-el-control-del-senado.html",
-      "fecha": "2026-10-26T04:30+00:00",
-      "partidos": [
-        "pp",
-        "vox"
       ]
     }
   ],
