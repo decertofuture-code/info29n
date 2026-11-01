@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-01T13:44+00:00",
+  "actualizado": "2026-11-01T17:30+00:00",
   "temas": [
     {
       "id": "vivienda",
@@ -449,6 +449,43 @@
   ],
   "noticias": [
     {
+      "titulo": "Vox incorpora al Presupuesto un fondo de 15 millones para afectados por plagas y enfermedades en el campo",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/andalucia/vox-incorpora-presupuesto-fondo-millones-afectados-plagas-20261101171128-nts.html",
+      "fecha": "2026-11-01T16:11+00:00",
+      "partidos": [
+        "vox"
+      ]
+    },
+    {
+      "titulo": "Albiol acusa a TVE de aplazar un debate por intereses del PSOE y avisa que no irá a otro",
+      "medio": "20minutos",
+      "url": "https://www.20minutos.es/nacional/albiol-acusa-tve-aplazar-un-debate-por-intereses-psoe-avisa-que-no-ira-otro_7056005_0.html",
+      "fecha": "2026-11-01T15:01+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "Óscar Puente, en horas críticas: socios del PSOE se unen a la presión para que dimita y crecen las sombras en su gestión",
+      "medio": "20minutos",
+      "url": "https://www.20minutos.es/nacional/oscar-puente-foco-crece-presion-dimita-sombra-gestion-antes-doble-comparecencia-martes_7055996_0.html",
+      "fecha": "2026-11-01T14:38+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "El PP se une a Vox y anuncia que se personará como acusación particular en la causa judicial del accidente de Urda",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/politica/pp-une-vox-anuncia-personara-acusacion-particular-causa-judicial-accidente-urda_1_13630675.html",
+      "fecha": "2026-11-01T14:22+00:00",
+      "partidos": [
+        "pp",
+        "vox"
+      ]
+    },
+    {
       "titulo": "PP y Vox se personarán en la causa del accidente de Urda",
       "medio": "ABC",
       "url": "https://www.abc.es/espana/pp-vox-personaran-causa-accidente-urda-20261101140437-nt.html",
@@ -491,6 +528,15 @@
       "medio": "La Vanguardia",
       "url": "https://www.lavanguardia.com/politica/20261101/11673378/illa-replica-feijoo-nunca-sera-presidente-primero-catalan-amnistia.html",
       "fecha": "2026-11-01T12:48+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "Illa replica a Feijóo que nunca será presidente de España porque no entiende Cataluña",
+      "medio": "20minutos",
+      "url": "https://www.20minutos.es/nacional/illa-replica-feijoo-que-nunca-sera-presidente-espana-porque-no-entiende-cataluna_7055984_0.html",
+      "fecha": "2026-11-01T12:45+00:00",
       "partidos": [
         "pp"
       ]
@@ -3198,55 +3244,6 @@
       "medio": "elDiario.es",
       "url": "https://www.eldiario.es/politica/colau-pide-carta-feijoo-sanchez-abascal-comprometan-no-ia-manera-vejatoria-campana_1_13616697.html",
       "fecha": "2026-10-26T18:03+00:00",
-      "partidos": [
-        "pp",
-        "vox"
-      ]
-    },
-    {
-      "titulo": "PP y Vox esperan lograr hasta 140 senadores gracias al pacto para concurrir al Senado",
-      "medio": "Europa Press",
-      "url": "https://www.europapress.es/nacional/noticia-pp-vox-esperan-lograr-140-senadores-gracias-pacto-concurrir-senado-20261026185958.html",
-      "fecha": "2026-10-26T17:59+00:00",
-      "partidos": [
-        "pp",
-        "vox"
-      ]
-    },
-    {
-      "titulo": "Colau pide por carta a Feijóo, Abascal y Sánchez que se comprometan a no usar la IA contra adversarios políticos",
-      "medio": "Europa Press",
-      "url": "https://www.europapress.es/nacional/noticia-colau-pide-carta-feijoo-abascal-sanchez-comprometan-no-usar-ia-contra-adversarios-politicos-20261026185355.html",
-      "fecha": "2026-10-26T17:53+00:00",
-      "partidos": [
-        "pp",
-        "vox"
-      ]
-    },
-    {
-      "titulo": "Colau pide a Sánchez, Feijóo y Abascal un pacto para desterrar la IA vejatoria de la campaña",
-      "medio": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/politica/20261026/11668700/colau-pide-sanchez-feijoo-abascal-compromiso-desterrar-ia-vejatoria-campana-elecciones-29n.html",
-      "fecha": "2026-10-26T17:52+00:00",
-      "partidos": [
-        "pp",
-        "vox"
-      ]
-    },
-    {
-      "titulo": "Pedro Sánchez interviene en un acto de precampaña en Gijón",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/pedro-sanchez-interviene-acto-precampana-gijon-20261026182743-nt.html",
-      "fecha": "2026-10-26T17:28+00:00",
-      "partidos": [
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "Quién es Jordi Wild, el 'youtuber' que va a entrevistar en su pódcast a Sánchez, Feijóo, Abascal y Colau de cara a las elecciones del 29-N",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/jordi-wild-claves-trayectoria-youtuber-entrevistar-podcast-20261026113311-nt.html",
-      "fecha": "2026-10-26T17:14+00:00",
       "partidos": [
         "pp",
         "vox"
