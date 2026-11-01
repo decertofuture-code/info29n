@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-01T09:40+00:00",
+  "actualizado": "2026-11-01T13:44+00:00",
   "temas": [
     {
       "id": "vivienda",
@@ -448,6 +448,127 @@
     }
   ],
   "noticias": [
+    {
+      "titulo": "PP y Vox se personarán en la causa del accidente de Urda",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/pp-vox-personaran-causa-accidente-urda-20261101140437-nt.html",
+      "fecha": "2026-11-01T13:21+00:00",
+      "partidos": [
+        "pp",
+        "vox"
+      ]
+    },
+    {
+      "titulo": "El Frente Amplio propone «intervenir» los pisos de los bancos para frenar la crisis de la vivienda",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/andalucia/frente-amplio-propone-intervenir-pisos-bancos-frenar-20261101142100-nts.html",
+      "fecha": "2026-11-01T13:21+00:00",
+      "partidos": [
+        "sumar"
+      ]
+    },
+    {
+      "titulo": "El PP se suma a Vox y se personará en la causa sobre el accidente de Urda",
+      "medio": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/politica/20261101/11673396/pp-suma-vox-personara-causa-sobre-accidente-urda.html",
+      "fecha": "2026-11-01T13:08+00:00",
+      "partidos": [
+        "pp",
+        "vox"
+      ]
+    },
+    {
+      "titulo": "La Fiscalía presenta una querella contra el vicepresidente de Vox en Mallorca por el uso de los coches oficiales",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/illes-balears/fiscalia-presenta-querella-vicepresidente-vox-mallorca-coches-oficiales_1_13630593.html",
+      "fecha": "2026-11-01T12:57+00:00",
+      "partidos": [
+        "vox"
+      ]
+    },
+    {
+      "titulo": "Illa replica a Feijóo que “nunca” será presidente: “Primero contra el catalán, ahora contra la amnistía”",
+      "medio": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/politica/20261101/11673378/illa-replica-feijoo-nunca-sera-presidente-primero-catalan-amnistia.html",
+      "fecha": "2026-11-01T12:48+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "El PP se personará en la causa por el accidente de Urda y exige al Gobierno que asuma responsabilidades",
+      "medio": "El Confidencial",
+      "url": "https://www.elconfidencial.com/espana/2026-11-01/partido-popular-accidente-ferroviario-urda-1tps_4457173/",
+      "fecha": "2026-11-01T12:29+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "Frente Amplio y Podemos pugnan ante el JEC el reparto de tiempos en RTVE",
+      "medio": "20minutos",
+      "url": "https://www.20minutos.es/nacional/frente-amplio-podemos-pugnan-ante-jec-reparto-tiempos-rtve_7055973_0.html",
+      "fecha": "2026-11-01T12:09+00:00",
+      "partidos": [
+        "sumar",
+        "podemos"
+      ]
+    },
+    {
+      "titulo": "El PSOE mantiene a casi la mitad de los cabezas de lista al Congreso, incluidos colaboradores de Santos Cerdán",
+      "medio": "20minutos",
+      "url": "https://www.20minutos.es/nacional/psoe-mantiene-casi-mitad-los-cabezas-lista-congreso-incluidos-colaboradores-santos-cerdan_7055971_0.html",
+      "fecha": "2026-11-01T11:56+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "La senadora con mayor patrimonio inmobiliario no irá en las listas del PP para el 29N",
+      "medio": "Europa Press",
+      "url": "https://www.europapress.es/nacional/noticia-senadora-mayor-patrimonio-inmobiliario-no-ira-listas-pp-29n-20261101121947.html",
+      "fecha": "2026-11-01T11:19+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "García Albiol, claro con la gestión de RTVE tras ver cómo suspenden el debate electoral de este lunes: «Me parece indignante que una televisión pública esté entregada y a manos del PSOE»",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/cataluna/garcia-albiol-claro-gestion-rtve-tras-ver-20261101121515-nt.html",
+      "fecha": "2026-11-01T11:15+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "Abascal anuncia que Vox se personará como acusación popular en el accidente de Urda",
+      "medio": "20minutos",
+      "url": "https://www.20minutos.es/nacional/abascal-anuncia-que-vox-se-personara-como-acusacion-popular-accidente-urda_7055950_0.html",
+      "fecha": "2026-11-01T10:39+00:00",
+      "partidos": [
+        "vox"
+      ]
+    },
+    {
+      "titulo": "Feijóo ve \"imprescindible pero insuficiente\" que Puente dimita porque la mayor responsabilidad es de Sánchez",
+      "medio": "20minutos",
+      "url": "https://www.20minutos.es/nacional/feijoo-ve-imprescindible-pero-insuficiente-que-puente-dimita-porque-mayor-responsabilidad-es-sanchez_7055947_0.html",
+      "fecha": "2026-11-01T10:19+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "Frente Amplio y Podemos pugnan en la JEC por la herencia de Sumar en el reparto de tiempos en RTVE",
+      "medio": "Europa Press",
+      "url": "https://www.europapress.es/nacional/noticia-frente-amplio-podemos-pugnan-jec-herencia-sumar-reparto-tiempos-rtve-20261101105956.html",
+      "fecha": "2026-11-01T09:59+00:00",
+      "partidos": [
+        "sumar",
+        "podemos"
+      ]
+    },
     {
       "titulo": "Feijóo promete una España que vuelva a funcionar y convierte la gestión en eje de campaña tras la tragedia de Urda",
       "medio": "Europa Press",
@@ -3128,125 +3249,6 @@
       "fecha": "2026-10-26T17:14+00:00",
       "partidos": [
         "pp",
-        "vox"
-      ]
-    },
-    {
-      "titulo": "Pontón presenta a sus cabezas de lista y apela al «voto útil» para el BNG",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/galicia/ponton-presenta-cabezas-lista-apela-voto-util-20261026175823-nt.html",
-      "fecha": "2026-10-26T16:58+00:00",
-      "partidos": [
-        "bng"
-      ]
-    },
-    {
-      "titulo": "El Senado tiene casi 60 escaños asignados al margen de las elecciones: 23 para el PP, 19 para el PSOE y 5 para Vox",
-      "medio": "Europa Press",
-      "url": "https://www.europapress.es/nacional/noticia-senado-tiene-casi-60-escanos-asignados-margen-elecciones-23-pp-19-psoe-vox-20261026175641.html",
-      "fecha": "2026-10-26T16:56+00:00",
-      "partidos": [
-        "pp",
-        "psoe",
-        "vox"
-      ]
-    },
-    {
-      "titulo": "El PSOE denuncia que el nuevo aparcamiento del Polígono es «inseguro», sin asfaltar ni iluminar",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/castilla-la-mancha/toledo/psoe-denuncia-nuevo-aparcamiento-poligono-inseguro-asfaltar-20261026174041-nt.html",
-      "fecha": "2026-10-26T16:40+00:00",
-      "partidos": [
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "Frente Amplio confirma que el 29N se presentará en todas las circunscripciones provinciales... menos en Teruel",
-      "medio": "20minutos",
-      "url": "https://www.20minutos.es/nacional/frente-amplio-confirma-que-29n-se-presentara-todas-las-circunscripciones-provinciales-menos-teruel_7053564_0.html",
-      "fecha": "2026-10-26T16:36+00:00",
-      "partidos": [
-        "sumar"
-      ]
-    },
-    {
-      "titulo": "Ayuso remodela su Gobierno tras el fichaje de Novillo en la candidatura de Feijóo",
-      "medio": "El Confidencial",
-      "url": "https://www.elconfidencial.com/espana/2026-10-26/ayuso-feijoo-pp-novillo-cambios-gobierno-madrid_4453342/",
-      "fecha": "2026-10-26T16:06+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Frente Amplio confirma que tendrá candidatos en todas las circunscripciones al Congreso salvo Teruel",
-      "medio": "Europa Press",
-      "url": "https://www.europapress.es/nacional/noticia-frente-amplio-confirma-tendra-candidatos-todas-circunscripciones-congreso-teruel-20261026165125.html",
-      "fecha": "2026-10-26T15:51+00:00",
-      "partidos": [
-        "sumar"
-      ]
-    },
-    {
-      "titulo": "La dimisión del delegado del Gobierno enfada a la dirección del PSOE: “No le beneficia ni a él ni a la organización”",
-      "medio": "El País",
-      "url": "https://elpais.com/espana/elecciones-generales/2026-10-26/la-dimision-del-delegado-del-gobierno-enfada-a-la-direccion-del-psoe-no-le-beneficia-ni-a-el-ni-a-la-organizacion.html",
-      "fecha": "2026-10-26T15:38+00:00",
-      "partidos": [
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "El PP acusa a Marlaska de \"desaparecer\" tras disturbios en Barcelona y avanza que Feijóo irá a apoyar a los comerciantes",
-      "medio": "Europa Press",
-      "url": "https://www.europapress.es/nacional/noticia-pp-acusa-marlaska-desaparecer-disturbios-barcelona-avanza-feijoo-ira-apoyar-comerciantes-20261026162650.html",
-      "fecha": "2026-10-26T15:26+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "El alcalde de Puertollano niega que Génova le «haya echado de las listas» por el presunto caso de acoso laboral",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/castilla-la-mancha/alcalde-puertollano-afirma-decision-personal-compromiso-ciudad-20261026151838-nt.html",
-      "fecha": "2026-10-26T14:49+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Maestre acusa al PP de buscar «excusas insostenibles» tras la salida de Miguel Ángel Ruiz de las listas al Congreso",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/castilla-la-mancha/maestre-acusa-pp-buscar-excusas-insostenibles-tras-20261026154711-nt.html",
-      "fecha": "2026-10-26T14:48+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "El PSOE de Madrid reconoce que la dimisión del delegado les hace un «roto»: «Deja muchos frentes abiertos»",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/madrid/psoe-madrid-reconoce-dimision-delegado-roto-deja-20261026114336-nt.html",
-      "fecha": "2026-10-26T14:37+00:00",
-      "partidos": [
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "Ayuso remodela su Gobierno antes de las elecciones por dos fichajes de Feijóo en la lista por Madrid",
-      "medio": "elDiario.es",
-      "url": "https://www.eldiario.es/madrid/ayuso-remodela-gobierno-elecciones-fichajes-feijoo-lista-madrid_1_13615889.html",
-      "fecha": "2026-10-26T14:36+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Vox presentará candidaturas «con normalidad» en las nueve provincias de Castilla y León",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/castilla-leon/vox-presentara-candidaturas-normalidad-nueve-provincias-castilla-20261026153606-nt.html",
-      "fecha": "2026-10-26T14:36+00:00",
-      "partidos": [
         "vox"
       ]
     }
