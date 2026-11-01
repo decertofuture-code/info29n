@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-31T21:31+00:00",
+  "actualizado": "2026-11-01T05:31+00:00",
   "temas": [
     {
       "id": "vivienda",
@@ -448,6 +448,100 @@
     }
   ],
   "noticias": [
+    {
+      "titulo": "El PSOE queda atrapado en una pinza política por la tragedia de Urda",
+      "medio": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/politica/20261101/11672932/psoe-queda-atrapado-pinza-politica-pp-frente-amplio-accidente-tren-urda.html",
+      "fecha": "2026-11-01T05:00+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "Alberto Núñez Feijóo: “No se puede ser presidente de España sin entender a Catalunya”",
+      "medio": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/politica/20261101/11672883/alberto-nunez-feijoo-presidente-espana-entender-catalunya.html",
+      "fecha": "2026-11-01T05:00+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "Feijóo gira la campaña hacia el perfil gestor del PP",
+      "medio": "El País",
+      "url": "https://elpais.com/espana/2026-11-01/feijoo-gira-la-campana-hacia-el-perfil-gestor-del-pp.html",
+      "fecha": "2026-11-01T04:30+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "Encuestas elecciones generales 29N: resultados de PSOE, PP, VOX y Frente Amplio y ganador según los sondeos",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/encuestas-elecciones-generales-29n-resultados-psoe-pp-20261101053000-nt.html",
+      "fecha": "2026-11-01T04:30+00:00",
+      "partidos": [
+        "pp",
+        "psoe",
+        "sumar"
+      ]
+    },
+    {
+      "titulo": "El accidente de Urda convulsiona el 29-N: El PSOE se hunde en el desánimo y el PP gira hacia la gestión",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/accidente-urda-convulsiona-29n-psoe-hunde-desanimo-20261101013929-nt.html",
+      "fecha": "2026-11-01T00:49+00:00",
+      "partidos": [
+        "pp",
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "Santiago Abascal: \"El crecimiento de Vox es lo que asegura la alternativa\"",
+      "medio": "El Mundo",
+      "url": "https://www.elmundo.es/espana/2026/10/31/6ae5d63221efa081798b4597.html",
+      "fecha": "2026-10-31T21:48+00:00",
+      "partidos": [
+        "vox"
+      ]
+    },
+    {
+      "titulo": "De Angrois a la dana de Valencia: cuando el PP gobernó sin asumir responsabilidades ante tragedias mortales",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/politica/angrois-dana-valencia-pp-goberno-asumir-responsabilidades-tragedias-mortales_1_13628170.html",
+      "fecha": "2026-10-31T21:12+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "Miguel Ángel Revilla: \"Feijóo va a ser un presidente con las manos atadas por Vox\"",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/cantabria/miguel-angel-revilla-feijoo-presidente-manos-atadas-vox_1_13627618.html",
+      "fecha": "2026-10-31T21:12+00:00",
+      "partidos": [
+        "pp",
+        "vox"
+      ]
+    },
+    {
+      "titulo": "Los insultos más feroces contra Pedro Sánchez",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/opinion/insultos-feroces-pedro-sanchez_129_13624709.html",
+      "fecha": "2026-10-31T21:12+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "Combates de UFC a 190 euros la entrada y comercios 75 años llenos: las cuentas del Gobierno del PP para La Romareda",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/aragon/politica/combates-ufc-190-euros-entrada-comercios-75-anos-llenos-cuentas-gobierno-pp-romareda_1_13626247.html",
+      "fecha": "2026-10-31T21:12+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
     {
       "titulo": "El PSOE no remonta: GAD3 ve \"imposible\" que Sánchez sea el más votado el 29-N tras el accidente de Urda",
       "medio": "El Confidencial",
@@ -3156,102 +3250,6 @@
       "fecha": "2026-10-26T14:15+00:00",
       "partidos": [
         "podemos"
-      ]
-    },
-    {
-      "titulo": "El Frente Amplio presentará listas en toda España salvo en Teruel con la apuesta de ser \"la papeleta del derecho a la vivienda\"",
-      "medio": "El Mundo",
-      "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/10/26/6adf4344fc6c838c038b45ad.html",
-      "fecha": "2026-10-26T14:08+00:00",
-      "partidos": [
-        "sumar"
-      ]
-    },
-    {
-      "titulo": "Sánchez denuncia el pacto del PP y Vox para el Senado: “Un mismo proyecto de involución”",
-      "medio": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/politica/20261026/11668518/sanchez-denuncia-pacto-pp-vox-senado-proyecto-involucion.html",
-      "fecha": "2026-10-26T14:04+00:00",
-      "partidos": [
-        "pp",
-        "vox"
-      ]
-    },
-    {
-      "titulo": "PSOE e IU piden a la Junta que no declare el centro de datos de Monfarracinos (Zamora) como 'Proyecto Regional'",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/castilla-leon/psoe-iu-piden-junta-declare-centro-datos-20261026150030-nt.html",
-      "fecha": "2026-10-26T14:00+00:00",
-      "partidos": [
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "Claves del acuerdo entre el PP y Vox para las listas del Senado: ¿dónde cede Abascal?, ¿en qué provincias se retira Feijóo?",
-      "medio": "El País",
-      "url": "https://elpais.com/espana/elecciones-generales/2026-10-26/claves-del-acuerdo-entre-el-pp-y-vox-para-las-listas-del-senado-donde-cede-abascalen-que-provincias-se-retira-feijoo.html",
-      "fecha": "2026-10-26T13:58+00:00",
-      "partidos": [
-        "pp",
-        "vox"
-      ]
-    },
-    {
-      "titulo": "Feijóo incluye en la lista por Madrid a Novillo y Ayuso remodela su Gobierno en áreas clave",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/madrid/feijoo-incluye-lista-madrid-novillo-dimitira-consejero-20261026141235-nt.html",
-      "fecha": "2026-10-26T13:50+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Feijóo 'ficha' al consejero de Emergencias de Ayuso y revoluciona Sol: el titular de Transportes asumirá su cartera y dejará paso a su mano derecha",
-      "medio": "El Mundo",
-      "url": "https://www.elmundo.es/madrid/2026/10/26/6adf4114fc6c83f0128b4581.html",
-      "fecha": "2026-10-26T13:26+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Feijóo y Abascal cierran un pacto en el Senado: Vox no se presenta en seis provincias y el PP no lo hará en tres",
-      "medio": "Europa Press",
-      "url": "https://www.europapress.es/nacional/noticia-vox-pacta-pp-no-presentar-candidatura-senado-seis-provincias-presentara-unico-nombre-otras-14-20261026135245.html",
-      "fecha": "2026-10-26T12:52+00:00",
-      "partidos": [
-        "pp",
-        "vox"
-      ]
-    },
-    {
-      "titulo": "Feijóo y Abascal pactan en el Senado que Vox se retire en seis provincias y el PP en tres",
-      "medio": "elDiario.es",
-      "url": "https://www.eldiario.es/politica/vox-retira-seis-provincias-senado-presenta-candidato-14-favorecer-pp_1_13615577.html",
-      "fecha": "2026-10-26T12:49+00:00",
-      "partidos": [
-        "pp",
-        "vox"
-      ]
-    },
-    {
-      "titulo": "El PP renuncia a presentarse al Senado por Girona, Tarragona y Gipuzkoa y Vox a otras seis provincias",
-      "medio": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/politica/20261026/11668465/vox-renuncia-seis-provincias-espana-elecciones-29-n-senado.html",
-      "fecha": "2026-10-26T12:49+00:00",
-      "partidos": [
-        "pp",
-        "vox"
-      ]
-    },
-    {
-      "titulo": "PP y Vox alcanzan un acuerdo para el Senado: los de Abascal no se presentan en seis provincias y el PP se retira de tres",
-      "medio": "20minutos",
-      "url": "https://www.20minutos.es/nacional/pp-vox-alcanzan-un-acuerdo-para-frenar-izquierda-senado-los-abascal-no-se-presentaran-seis-provincias_7053481_0.html",
-      "fecha": "2026-10-26T12:47+00:00",
-      "partidos": [
-        "pp",
-        "vox"
       ]
     }
   ],
