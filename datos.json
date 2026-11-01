@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-01T17:30+00:00",
+  "actualizado": "2026-11-01T21:33+00:00",
   "temas": [
     {
       "id": "vivienda",
@@ -448,6 +448,15 @@
     }
   ],
   "noticias": [
+    {
+      "titulo": "Feijóo reúne este lunes a la cúpula del PP y reanuda la campaña tras el luto por Urda",
+      "medio": "20minutos",
+      "url": "https://www.20minutos.es/nacional/feijoo-reune-este-lunes-cupula-pp-reanuda-campana-tras-luto-por-urda_7056035_0.html",
+      "fecha": "2026-11-01T17:24+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
     {
       "titulo": "Vox incorpora al Presupuesto un fondo de 15 millones para afectados por plagas y enfermedades en el campo",
       "medio": "ABC",
@@ -3234,16 +3243,6 @@
       "medio": "20minutos",
       "url": "https://www.20minutos.es/nacional/colau-pide-sanchez-feijoo-abascal-un-uso-responsable-ia-campana-no-necesitamos-humillar-para-convencer_7053687_0.html",
       "fecha": "2026-10-26T19:02+00:00",
-      "partidos": [
-        "pp",
-        "vox"
-      ]
-    },
-    {
-      "titulo": "Colau pide por carta a Feijóo, Sánchez y Abascal que se comprometan a no usar la IA de manera \"vejatoria\" en campaña",
-      "medio": "elDiario.es",
-      "url": "https://www.eldiario.es/politica/colau-pide-carta-feijoo-sanchez-abascal-comprometan-no-ia-manera-vejatoria-campana_1_13616697.html",
-      "fecha": "2026-10-26T18:03+00:00",
       "partidos": [
         "pp",
         "vox"
