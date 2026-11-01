@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-01T05:31+00:00",
+  "actualizado": "2026-11-01T09:40+00:00",
   "temas": [
     {
       "id": "vivienda",
@@ -448,6 +448,33 @@
     }
   ],
   "noticias": [
+    {
+      "titulo": "Feijóo promete una España que vuelva a funcionar y convierte la gestión en eje de campaña tras la tragedia de Urda",
+      "medio": "Europa Press",
+      "url": "https://www.europapress.es/nacional/noticia-feijoo-promete-espana-vuelva-funcionar-convierte-gestion-eje-campana-tragedia-urda-20261101095953.html",
+      "fecha": "2026-11-01T08:59+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "El precio que pagará el PSOE por mantener a Puente en el Gobierno",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/blog/politica-para-supervivientes/precio-pagara-psoe-mantener-puente-gobierno_132_13628518.html",
+      "fecha": "2026-11-01T07:16+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "El PSOE busca redirigir la 'campaña del amor' hacia la gestión y las propuestas mientras deja a Puente al frente de la crisis",
+      "medio": "20minutos",
+      "url": "https://www.20minutos.es/nacional/psoe-busca-redirigir-campana-amor-hacia-gestion-las-propuestas-mientras-deja-puente-frente-crisis_7055541_0.html",
+      "fecha": "2026-11-01T07:04+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
     {
       "titulo": "El PSOE queda atrapado en una pinza política por la tragedia de Urda",
       "medio": "La Vanguardia",
@@ -3221,35 +3248,6 @@
       "fecha": "2026-10-26T14:36+00:00",
       "partidos": [
         "vox"
-      ]
-    },
-    {
-      "titulo": "La derecha pacta sus candidaturas en el Senado: el PP se retira en Gipuzkoa, Girona y Tarragona y Vox en otras seis provincias",
-      "medio": "El País",
-      "url": "https://elpais.com/espana/elecciones-generales/2026-10-26/la-derecha-pacta-sus-candidaturas-en-el-senado-pp-se-retira-en-gipuzkoa-girona-y-tarragona-y-vox-en-otras-seis-provincias.html",
-      "fecha": "2026-10-26T14:20+00:00",
-      "partidos": [
-        "pp",
-        "vox"
-      ]
-    },
-    {
-      "titulo": "PP y Vox alcanzan un acuerdo en el Senado para hacer frente a la izquierda",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/miguel-tellado-comparece-ante-medios-dar-informacion-20261026132738-nt.html",
-      "fecha": "2026-10-26T14:17+00:00",
-      "partidos": [
-        "pp",
-        "vox"
-      ]
-    },
-    {
-      "titulo": "Podemos da por cerrados sus acuerdos para el 29N tras sumarse a la alianza en Baleares y renuncia a cabezas de lista en 9 provincias",
-      "medio": "20minutos",
-      "url": "https://www.20minutos.es/nacional/podemos-da-por-cerrados-sus-acuerdos-para-29n-tras-sumarse-alianza-baleares-renuncia-cabezas-lista-9-provincias_7053475_0.html",
-      "fecha": "2026-10-26T14:15+00:00",
-      "partidos": [
-        "podemos"
       ]
     }
   ],
