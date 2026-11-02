@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-02T14:10+00:00",
+  "actualizado": "2026-11-02T17:53+00:00",
   "temas": [
     {
       "id": "vivienda",
@@ -448,6 +448,35 @@
     }
   ],
   "noticias": [
+    {
+      "titulo": "Pedro Sánchez retoma la campaña electoral tras el accidente ferroviario con actos en Valencia y Bilbao",
+      "medio": "El Mundo",
+      "url": "https://www.elmundo.es/comunidad-valenciana/2026/11/02/6ae8bc7afc6c837f528b4577.html",
+      "fecha": "2026-11-02T16:56+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "Vox se querella contra el delegado del Gobierno en Galicia por no proteger un acto de Buxadé en Ferrol",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/galicia/vox-querella-delegado-gobierno-galicia-proteger-acto-20261102174141-nt.html",
+      "fecha": "2026-11-02T16:41+00:00",
+      "partidos": [
+        "vox"
+      ]
+    },
+    {
+      "titulo": "Vox se une a PSOE y Podemos y pide microcréditos para las elecciones del 29-N con el interés más alto",
+      "medio": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/politica/20261102/11674296/vox-une-psoe-pide-microcreditos-elecciones-29-n-interes-mas-alto.html",
+      "fecha": "2026-11-02T15:19+00:00",
+      "partidos": [
+        "psoe",
+        "vox",
+        "podemos"
+      ]
+    },
     {
       "titulo": "ERC culpa a PSOE y PP del “colapso” ferroviario, pero espera para pedir el cese de Puente",
       "medio": "La Vanguardia",
@@ -3212,35 +3241,6 @@
       "partidos": [
         "pp",
         "vox"
-      ]
-    },
-    {
-      "titulo": "El PP cede puestos de salida a Vox en el Senado para intentar blindar la mayoría",
-      "medio": "El País",
-      "url": "https://elpais.com/espana/elecciones-generales/2026-10-27/el-pp-cede-puestos-de-salida-a-vox-en-el-senado-para-intentar-blindar-la-mayoria.html",
-      "fecha": "2026-10-27T04:30+00:00",
-      "partidos": [
-        "pp",
-        "vox"
-      ]
-    },
-    {
-      "titulo": "PP y Vox, una alianza clarificadora",
-      "medio": "El País",
-      "url": "https://elpais.com/espana/elecciones-generales/2026-10-27/pp-y-vox-una-alianza-clarificadora.html",
-      "fecha": "2026-10-27T04:30+00:00",
-      "partidos": [
-        "pp",
-        "vox"
-      ]
-    },
-    {
-      "titulo": "Feijóo hace de los disturbios de Barcelona uno de los ejes de su campaña contra Sánchez",
-      "medio": "El País",
-      "url": "https://elpais.com/espana/elecciones-generales/2026-10-27/feijoo-hace-de-los-disturbios-de-barcelona-uno-de-los-ejes-de-su-campana-contra-sanchez.html",
-      "fecha": "2026-10-27T04:30+00:00",
-      "partidos": [
-        "pp"
       ]
     }
   ],
