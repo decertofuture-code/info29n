@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-01T21:33+00:00",
+  "actualizado": "2026-11-02T05:46+00:00",
   "temas": [
     {
       "id": "vivienda",
@@ -448,6 +448,91 @@
     }
   ],
   "noticias": [
+    {
+      "titulo": "Encuestas elecciones generales en la Comunidad Valenciana: resultados de PSOE, PP y Vox y ganador según los sondeos el 29N",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/comunidad-valenciana/encuestas-elecciones-generales-comunidad-valenciana-resultados-psoe-20261102051500-nt.html",
+      "fecha": "2026-11-02T04:15+00:00",
+      "partidos": [
+        "pp",
+        "psoe",
+        "vox"
+      ]
+    },
+    {
+      "titulo": "Pinza de PSC y Junts para obligar a TV3 a comparecer en el Parlament por las vacunas",
+      "medio": "El Confidencial",
+      "url": "https://www.elconfidencial.com/espana/cataluna/2026-11-02/pinza-psc-junts-tv-comparecer-parlament-vacunas_4456598/",
+      "fecha": "2026-11-02T04:00+00:00",
+      "partidos": [
+        "junts"
+      ]
+    },
+    {
+      "titulo": "La izquierda trata de alejarse más del PSOE tras la tragedia de Urda: \"Vamos a salir a la ofensiva, no nos vemos reflejados en nada\"",
+      "medio": "20minutos",
+      "url": "https://www.20minutos.es/nacional/izquierda-trata-alejarse-mas-psoe-tras-tragedia-urda-vamos-salir-ofensiva-no-nos-vemos-reflejados-nada_7055499_0.html",
+      "fecha": "2026-11-02T04:00+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "El PP reorienta su campaña hacia el perfil gestor de Feijóo tras el accidente ferroviario",
+      "medio": "20minutos",
+      "url": "https://www.20minutos.es/nacional/pp-reorienta-su-campana-hacia-perfil-gestor-feijoo-tras-accidente-ferroviario_7055203_0.html",
+      "fecha": "2026-11-02T04:00+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "Unos 244.000 votantes de Sánchez apoyan al PP tras la segunda tragedia ferroviaria en nueve meses",
+      "medio": "El Mundo",
+      "url": "https://www.elmundo.es/espana/encuestas/2026/11/02/6ae77482e4d4d8283b8b4576.html",
+      "fecha": "2026-11-01T23:13+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "El PP reanudará los mítines en Valladolid: \"Que nadie olvide que votar al PSOE es votar a Óscar Puente\"",
+      "medio": "El Mundo",
+      "url": "https://www.elmundo.es/espana/2026/11/02/6ae7638f21efa0c56f8b4597.html",
+      "fecha": "2026-11-01T23:13+00:00",
+      "partidos": [
+        "pp",
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "El PSOE pierde 450.000 votos y cae por debajo de 100 escaños en la primera encuesta tras la tragedia de Urda",
+      "medio": "El Mundo",
+      "url": "https://www.elmundo.es/espana/encuestas/2026/11/01/6ae77446e4d4d8f3698b458a.html",
+      "fecha": "2026-11-01T23:07+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "El voto del exterior, tradicionalmente para el PSOE, sí ha movido escaños",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/castilla-leon/voto-exterior-tradicionalmente-psoe-movido-escanos-20260927234544-nt.html",
+      "fecha": "2026-11-01T22:45+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "El laberinto del PP en Gipuzkoa: de tener a Sémper y Lezama criticando a Vox a pedir el voto para la ultraderecha en el Senado",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/euskadi/laberinto-pp-gipuzkoa-semper-lezama-criticando-vox-pedir-voto-ultraderecha-senado_1_13628135.html",
+      "fecha": "2026-11-01T20:45+00:00",
+      "partidos": [
+        "pp",
+        "vox"
+      ]
+    },
     {
       "titulo": "Feijóo reúne este lunes a la cúpula del PP y reanuda la campaña tras el luto por Urda",
       "medio": "20minutos",
@@ -3161,90 +3246,6 @@
       "url": "https://www.abc.es/espana/castilla-la-mancha/abascal-pide-movilizacion-masiva-29n-responder-violencia-20261026204341-nt.html",
       "fecha": "2026-10-26T20:55+00:00",
       "partidos": [
-        "vox"
-      ]
-    },
-    {
-      "titulo": "Vox afea a la vicepresidenta de Castilla y León del PP que obvie la ‘prioridad nacional’ en el acceso a la vivienda",
-      "medio": "elDiario.es",
-      "url": "https://www.eldiario.es/castilla-y-leon/politica/vox-afea-vicepresidenta-castilla-leon-pp-obvie-prioridad-nacional-prioridades_1_13617008.html",
-      "fecha": "2026-10-26T20:15+00:00",
-      "partidos": [
-        "pp",
-        "vox"
-      ]
-    },
-    {
-      "titulo": "Mariscal acusa al PSOE de «mentir» y «estropear todo lo que funciona bien»",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/castilla-la-mancha/toledo/talavera/mariscal-acusa-psoe-mentir-estropear-funciona-bien-20261026202311-nt.html",
-      "fecha": "2026-10-26T20:08+00:00",
-      "partidos": [
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "Así quedan las listas del PP por Madrid: Feijóo recluta a su 'gurú' de Exteriores y pesca en el PP de Ayuso",
-      "medio": "El Confidencial",
-      "url": "https://www.elconfidencial.com/espana/2026-10-26/asi-queda-la-lista-del-pp-por-madrid-feijoo-recluta-a-su-guru-de-exteriores-y-pesca-en-el-pp-de-ayuso_4453550/",
-      "fecha": "2026-10-26T20:06+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Feijóo se rodea de miembros de su equipo y varias alcaldesas en la lista de Madrid al Congreso para generales",
-      "medio": "Europa Press",
-      "url": "https://www.europapress.es/nacional/noticia-feijoo-rodea-miembros-equipo-varios-alcaldes-lista-madrid-congreso-generales-20261026205138.html",
-      "fecha": "2026-10-26T19:51+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Abascal ve la renuncia de Vox a presentar candidaturas en el Senado como un \"gesto patriótico\": \"Todo por España\"",
-      "medio": "Europa Press",
-      "url": "https://www.europapress.es/nacional/noticia-abascal-ve-renuncia-vox-presentar-candidaturas-senado-gesto-patriotico-todo-espana-20261026203730.html",
-      "fecha": "2026-10-26T19:37+00:00",
-      "partidos": [
-        "vox"
-      ]
-    },
-    {
-      "titulo": "Jaime de los Santos, Alberto Nadal y el núcleo duro de Génova acompañan a Feijóo en la lista del PP por Madrid",
-      "medio": "El País",
-      "url": "https://elpais.com/espana/elecciones-generales/2026-10-26/jaime-de-los-santos-alberto-nadal-y-el-nucleo-duro-de-genova-acompanan-a-feijoo-en-la-lista-del-pp-por-madrid.html",
-      "fecha": "2026-10-26T19:32+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Sánchez promete reformar la Constitución para blindar las pensiones y carga contra PP y Vox por pactar en el Senado: \"Son lo mismo\"",
-      "medio": "20minutos",
-      "url": "https://www.20minutos.es/nacional/sanchez-promete-reformar-constitucion-para-blindar-las-pensiones-carga-contra-pp-vox-por-pactar-senado-son-mismo_7053700_0.html",
-      "fecha": "2026-10-26T19:28+00:00",
-      "partidos": [
-        "pp",
-        "vox"
-      ]
-    },
-    {
-      "titulo": "Vox presenta en Talavera de la Reina a sus candidatos a las elecciones generales del 29N",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/vox-presenta-talavera-reina-candidatos-elecciones-generales-20261026190136-nt.html",
-      "fecha": "2026-10-26T19:25+00:00",
-      "partidos": [
-        "vox"
-      ]
-    },
-    {
-      "titulo": "Colau pide a Sánchez, Feijóo y Abascal un uso responsable de la IA en la campaña: \"No necesitamos humillar para convencer\"",
-      "medio": "20minutos",
-      "url": "https://www.20minutos.es/nacional/colau-pide-sanchez-feijoo-abascal-un-uso-responsable-ia-campana-no-necesitamos-humillar-para-convencer_7053687_0.html",
-      "fecha": "2026-10-26T19:02+00:00",
-      "partidos": [
-        "pp",
         "vox"
       ]
     }
