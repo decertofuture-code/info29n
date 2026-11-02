@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-02T09:58+00:00",
+  "actualizado": "2026-11-02T14:10+00:00",
   "temas": [
     {
       "id": "vivienda",
@@ -448,6 +448,152 @@
     }
   ],
   "noticias": [
+    {
+      "titulo": "ERC culpa a PSOE y PP del “colapso” ferroviario, pero espera para pedir el cese de Puente",
+      "medio": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/politica/20261102/11674219/erc-culpa-psoe-pp-colapso-ferroviario-espera-pedir-cese-puente.html",
+      "fecha": "2026-11-02T13:24+00:00",
+      "partidos": [
+        "pp",
+        "psoe",
+        "erc"
+      ]
+    },
+    {
+      "titulo": "Feijóo se reivindica como gestor tras el accidente de Urda: “España no se arregla con frivolidad ni tampoco con bravuconadas”",
+      "medio": "El País",
+      "url": "https://elpais.com/espana/2026-11-02/feijoo-se-reivindica-como-gestor-tras-el-accidente-de-urda-espana-no-se-arregla-con-frivolidad-ni-tampoco-con-bravuconadas.html",
+      "fecha": "2026-11-02T13:20+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "Narciso Michavila, sociólogo, sobre el resultado de las elecciones generales 29N: «Hay un vuelco a la derecha gracias al voto joven. Es imposible que Pedro Sánchez sea el más votado»",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/narciso-michavila-sociologo-sobre-resultado-elecciones-generales-20261103111225-nt.html",
+      "fecha": "2026-11-02T13:16+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "Feijóo llama a la \"reconstrucción nacional\" frente a un Gobierno que \"gestiona pensando en el poder como único fin\"",
+      "medio": "El Mundo",
+      "url": "https://www.elmundo.es/espana/2026/11/02/6ae87031fc6c83065d8b45a6.html",
+      "fecha": "2026-11-02T13:07+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "El Frente Amplio propone recuperar el control público del ferrocarril fusionando Renfe y Adif",
+      "medio": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/politica/20261102/11674199/frente-amplio-propone-recuperar-control-publico-ferrocarril-fusion-renfe-adif.html",
+      "fecha": "2026-11-02T13:05+00:00",
+      "partidos": [
+        "sumar"
+      ]
+    },
+    {
+      "titulo": "El PNV confía en mantener grupo propio, pese a que reconoce que son “elecciones complejas”",
+      "medio": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/local/paisvasco/20261102/11674191/pnv-confian-mantener-grupo-propio-pese-reconoce-son-elecciones-complejas.html",
+      "fecha": "2026-11-02T13:03+00:00",
+      "partidos": [
+        "pnv"
+      ]
+    },
+    {
+      "titulo": "Feijóo pide a sus barones «servir y defender España» frente a la «huida» del Gobierno",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/feijoo-pide-barones-servir-defender-espana-frente-20261102125709-nt.html",
+      "fecha": "2026-11-02T12:57+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "Feijóo acusa al Gobierno de reducir a \"un trabajador\" la responsabilidad de la tragedia de Urda: \"Dudo que sean buena gente\"",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/politica/feijoo-acusa-gobierno-reducir-trabajador-responsabilidad-tragedia-urda-dudo-sean-buena-gente_1_13631683.html",
+      "fecha": "2026-11-02T12:15+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "Buxadé responsabiliza al PSOE de la situación ferroviaria y pide dejar atrás \"la España de la catástrofe\"",
+      "medio": "Europa Press",
+      "url": "https://www.europapress.es/nacional/noticia-buxade-responsabiliza-psoe-situacion-ferroviaria-pide-dejar-atras-espana-catastrofe-20261102131140.html",
+      "fecha": "2026-11-02T12:11+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "Feijóo acusa a Sánchez de estar pendiente de las encuestas tras la tragedia de Urda y ofrece gestión: \"Yo si sé hacerlo\"",
+      "medio": "Europa Press",
+      "url": "https://www.europapress.es/nacional/noticia-feijoo-acusa-sanchez-estar-pendiente-encuestas-tragedia-urda-ofrece-gestion-yo-si-hacerlo-20261102130655.html",
+      "fecha": "2026-11-02T12:06+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "Junts denuncia por vía penal a Renfe y Adif por “la crisis estructural” de Rodalies",
+      "medio": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/politica/20261102/11674010/junts-denuncia-renfe-adif-crisis-estructural-rodalies.html",
+      "fecha": "2026-11-02T11:50+00:00",
+      "partidos": [
+        "junts"
+      ]
+    },
+    {
+      "titulo": "Feijóo ofrece “gestión, rigor y experiencia” frente al Gobierno de Sánchez: “Dudo que sean buena gente”",
+      "medio": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/politica/20261102/11674005/feijoo-ofrece-gestion-rigor-experiencia-frente-gobierno-sanchez-dudo-sean-buena-gente.html",
+      "fecha": "2026-11-02T11:47+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "La Presidencia vasca recorta la partida de Cooperación y EH Bildu considera que es una \"auténtica vergüenza\"",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/euskadi/presidencia-vasca-recorta-partida-cooperacion-eh-bildu-considera-autentica-verguenza_1_13631541.html",
+      "fecha": "2026-11-02T11:46+00:00",
+      "partidos": [
+        "bildu"
+      ]
+    },
+    {
+      "titulo": "Feijóo acusa a Sánchez de \"encargar sondeos\" para saber si es rentable electoralmente cesar a Óscar Puente: \"Da cuenta de su nivel moral\"",
+      "medio": "20minutos",
+      "url": "https://www.20minutos.es/nacional/sigue-directo-intervencion-feijoo-comite-ejecutivo-nacional-pp_7056154_0.html",
+      "fecha": "2026-11-02T10:57+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "Feijóo critica que Sánchez eligiera a Ábalos y Puente para \"el ministerio de la seguridad\" y promete una \"auditoría ferroviaria\"",
+      "medio": "20minutos",
+      "url": "https://www.20minutos.es/nacional/feijoo-critica-que-sanchez-eligiera-abalos-puente-para-ministerio-seguridad-promete-una-auditoria-ferroviaria_7056135_0.html",
+      "fecha": "2026-11-02T10:07+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "Feijóo dice que al Gobierno \"le interesa más el relato que las víctimas\" y admite que el PP no cambiará su campaña",
+      "medio": "Europa Press",
+      "url": "https://www.europapress.es/nacional/noticia-feijoo-dice-gobierno-le-interesa-mas-relato-victimas-admite-pp-no-cambiara-campana-20261102110238.html",
+      "fecha": "2026-11-02T10:02+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
     {
       "titulo": "DIRECTO | Pedro Sánchez interviene en el foro internacional World in Progress en Barcelona",
       "medio": "La Vanguardia",
@@ -1026,6 +1172,15 @@
         "pp",
         "vox",
         "junts"
+      ]
+    },
+    {
+      "titulo": "Feijóo cambia el guion de su campaña tras el accidente y reúne a la cúpula del PP para rehacer la estrategia",
+      "medio": "El Mundo",
+      "url": "https://www.elmundo.es/espana/2026/10/31/6ae4e88dfc6c83f5568b4590.html",
+      "fecha": "2026-10-31T00:13+00:00",
+      "partidos": [
+        "pp"
       ]
     },
     {
@@ -3086,168 +3241,6 @@
       "fecha": "2026-10-27T04:30+00:00",
       "partidos": [
         "pp"
-      ]
-    },
-    {
-      "titulo": "El resultado de las elecciones del 29N en España si solo votasen los policías y militares: porcentajes de PP, PSOE, Vox y el resto de partidos",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/resultado-elecciones-29n-espana-solo-votasen-policias-20261027050000-nt.html",
-      "fecha": "2026-10-27T04:00+00:00",
-      "partidos": [
-        "pp",
-        "psoe",
-        "vox"
-      ]
-    },
-    {
-      "titulo": "\"Cataluña necesita orden y respeto\": Junts y Orriols ponen en la picota a Illa por los disturbios de Barcelona",
-      "medio": "El Confidencial",
-      "url": "https://www.elconfidencial.com/espana/cataluna/2026-10-27/junts-cuestiona-salvador-illa-disturbios-barcelona_4453448/",
-      "fecha": "2026-10-27T04:00+00:00",
-      "partidos": [
-        "junts"
-      ]
-    },
-    {
-      "titulo": "El excepcional caso de Teruel: por qué es la única provincia en la que Frente Amplio no presentará candidato",
-      "medio": "20minutos",
-      "url": "https://www.20minutos.es/nacional/excepcional-caso-teruel-por-que-es-unica-provincia-que-frente-amplio-no-presentara-candidato_7053613_0.html",
-      "fecha": "2026-10-27T04:00+00:00",
-      "partidos": [
-        "sumar"
-      ]
-    },
-    {
-      "titulo": "PP y Vox limitan su acuerdo en el Senado al reparto electoral: sin grupo propio para los de Abascal ni cesión de senadores",
-      "medio": "20minutos",
-      "url": "https://www.20minutos.es/nacional/pp-vox-limitan-su-acuerdo-senado-reparto-electoral-sin-grupo-propio-para-los-abascal-ni-cesion-senadores_7053600_0.html",
-      "fecha": "2026-10-27T04:00+00:00",
-      "partidos": [
-        "pp",
-        "vox"
-      ]
-    },
-    {
-      "titulo": "Las claves del 'pacto del Senado': dónde se retira el PP, dónde se retira Vox y qué ocurre en las otras 14 provincias con acuerdo",
-      "medio": "20minutos",
-      "url": "https://www.20minutos.es/nacional/las-claves-pacto-senado-donde-se-retira-pp-donde-se-retira-vox-que-ocurre-las-otras-14-provincias-con-acuerdo_7053592_0.html",
-      "fecha": "2026-10-27T04:00+00:00",
-      "partidos": [
-        "pp",
-        "vox"
-      ]
-    },
-    {
-      "titulo": "Feijóo aúpa a Inma Sanz, mano derecha de Almeida, como número 2 al Senado",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/madrid/feijoo-aupa-inma-sanz-numero-almeida-senado-20261026154122-nt.html",
-      "fecha": "2026-10-27T00:44+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "El juez Vilaplana imputa a 18 ex altos cargos del PSOE por desviar ayudas millonarias a Santana Motor",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/andalucia/juez-vilaplana-imputa-altos-cargos-psoe-inventar-20261027012926-nts.html",
-      "fecha": "2026-10-27T00:29+00:00",
-      "partidos": [
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "Un centenar de asambleas locales del PSOE de Madrid propusieron al delegado como candidato",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/madrid/centenar-asambleas-locales-psoe-madrid-propusieron-delegado-20261026012849-nt.html",
-      "fecha": "2026-10-27T00:28+00:00",
-      "partidos": [
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "Feijóo apunta a un 'súperdepartamento' que unifique Emergencias con Novillo, el bombero que gestionó el peor incendio de Madrid, Filomena y la dana de 2023",
-      "medio": "El Mundo",
-      "url": "https://www.elmundo.es/madrid/2026/10/27/6adf78b521efa0fd028b458f.html",
-      "fecha": "2026-10-26T23:04+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Un informe desmonta las dudas del gurú de Feijóo sobre el autoconsumo: \"un activo estratégico para la industria\"",
-      "medio": "elDiario.es",
-      "url": "https://www.eldiario.es/economia/informe-desmonta-dudas-guru-feijoo-autoconsumo-activo-estrategico-industria_1_13616190.html",
-      "fecha": "2026-10-26T23:02+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Vox impone al PP candidatos “independientes” al Senado muy vinculados a los ultras: de la exjefa de prensa de Ortega-Smith a un ‘exconseller’ de Mazón",
-      "medio": "El País",
-      "url": "https://elpais.com/espana/elecciones-generales/2026-10-26/vox-impone-al-pp-candidatos-independientes-al-senado-muy-vinculados-al-partido-de-la-exjefa-de-prensa-de-ortega-smith-a-un-exconseller-de-mazon.html",
-      "fecha": "2026-10-26T22:28+00:00",
-      "partidos": [
-        "pp",
-        "vox"
-      ]
-    },
-    {
-      "titulo": "Varios miembros de prensa, dirigentes en activo y un escritor: los independientes de Vox en las listas del PP al Senado",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/varios-miembros-prensa-escritor-independientes-vox-listas-20261026224349-nt.html",
-      "fecha": "2026-10-26T22:14+00:00",
-      "partidos": [
-        "pp",
-        "vox"
-      ]
-    },
-    {
-      "titulo": "La UCO acredita los 300.000 euros que Aldama vincula a la financiación ilegal del PSOE",
-      "medio": "El Mundo",
-      "url": "https://www.elmundo.es/espana/2026/10/26/6ade3a9dfc6c8337488b4597.html",
-      "fecha": "2026-10-26T21:47+00:00",
-      "partidos": [
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "El pacto de PP y Vox acerca a la derecha al control total del Senado: la fórmula elegida puede ser decisiva en 13 provincias",
-      "medio": "El Mundo",
-      "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/10/26/6adfc1a4fdddff58628b4571.html",
-      "fecha": "2026-10-26T21:46+00:00",
-      "partidos": [
-        "pp",
-        "vox"
-      ]
-    },
-    {
-      "titulo": "PP y Vox cierran un acuerdo de mínimos para buscar el control total del Senado el 29N",
-      "medio": "elDiario.es",
-      "url": "https://www.eldiario.es/politica/pp-vox-cierran-acuerdo-minimos-buscar-control-total-senado-29n_1_13616605.html",
-      "fecha": "2026-10-26T21:42+00:00",
-      "partidos": [
-        "pp",
-        "vox"
-      ]
-    },
-    {
-      "titulo": "El cine español responde al ataque de Vox en la Seminci: “Es censura, un desprecio absoluto”",
-      "medio": "elDiario.es",
-      "url": "https://www.eldiario.es/cultura/cine/cine-espanol-responde-ataque-vox-seminci-censura-desprecio-absoluto_1_13615315.html",
-      "fecha": "2026-10-26T21:42+00:00",
-      "partidos": [
-        "vox"
-      ]
-    },
-    {
-      "titulo": "PP y Vox protegen 40 escaños en el Senado con un pacto \"puntual\" y \"defensivo\"",
-      "medio": "El Mundo",
-      "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/10/26/6adfa4d421efa00b508b458d.html",
-      "fecha": "2026-10-26T21:18+00:00",
-      "partidos": [
-        "pp",
-        "vox"
       ]
     }
   ],
