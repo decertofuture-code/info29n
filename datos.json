@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-02T05:46+00:00",
+  "actualizado": "2026-11-02T09:58+00:00",
   "temas": [
     {
       "id": "vivienda",
@@ -449,6 +449,15 @@
   ],
   "noticias": [
     {
+      "titulo": "DIRECTO | Pedro Sánchez interviene en el foro internacional World in Progress en Barcelona",
+      "medio": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/politica/20261102/11673787/pedro-sanchez-directo-world-in-progress-barcelona-salvador-illa-gobierno-de-espana-foro-wip-2026-politica-repensar-europa-jaume-collboni.html",
+      "fecha": "2026-11-02T08:17+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
       "titulo": "Encuestas elecciones generales en la Comunidad Valenciana: resultados de PSOE, PP y Vox y ganador según los sondeos el 29N",
       "medio": "ABC",
       "url": "https://www.abc.es/espana/comunidad-valenciana/encuestas-elecciones-generales-comunidad-valenciana-resultados-psoe-20261102051500-nt.html",
@@ -521,6 +530,16 @@
       "fecha": "2026-11-01T22:45+00:00",
       "partidos": [
         "psoe"
+      ]
+    },
+    {
+      "titulo": "La Fúmiga, el grupo en valenciano que PP y Vox apartan de la programación musical, reúne a 36.000 personas en su despedida en València",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/comunitat-valenciana/cultura/fumiga-grupo-valenciano-pp-vox-apartan-programacion-musical-reune-36-000-personas-despedida-valencia_1_13630624.html",
+      "fecha": "2026-11-01T22:01+00:00",
+      "partidos": [
+        "pp",
+        "vox"
       ]
     },
     {
@@ -3228,24 +3247,6 @@
       "fecha": "2026-10-26T21:18+00:00",
       "partidos": [
         "pp",
-        "vox"
-      ]
-    },
-    {
-      "titulo": "El núcleo duro de Feijóo, Jaime de los Santos, Alberto Nadal y alcaldesas: la lista del PP por Madrid",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/nucleo-duro-feijoo-jaime-santos-alberto-nadal-20261026214002-nt.html",
-      "fecha": "2026-10-26T21:12+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Abascal pide una «movilización masiva» el 29N para responder a la violencia contra Vox",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/castilla-la-mancha/abascal-pide-movilizacion-masiva-29n-responder-violencia-20261026204341-nt.html",
-      "fecha": "2026-10-26T20:55+00:00",
-      "partidos": [
         "vox"
       ]
     }
