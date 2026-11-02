@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-02T17:53+00:00",
+  "actualizado": "2026-11-02T21:39+00:00",
   "temas": [
     {
       "id": "vivienda",
@@ -448,6 +448,42 @@
     }
   ],
   "noticias": [
+    {
+      "titulo": "Xavier García Albiol, contundente sobre Pedro Sánchez: «Con tres años sin presupuestos es imposible atender las necesidades del país, empezando por mantener lo público»",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/cataluna/xavier-garcia-albiol-contundente-sobre-pedro-sanchez-20261102110000-nt.html",
+      "fecha": "2026-11-02T21:03+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "Vox persevera en su mensaje de dureza contra el Gobierno: “Subirse al tren es una ruleta rusa”",
+      "medio": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/politica/20261102/11674435/vox-persevera-mensaje-dureza-gobierno-subirse-tren-ruleta-rusa.html",
+      "fecha": "2026-11-02T18:32+00:00",
+      "partidos": [
+        "vox"
+      ]
+    },
+    {
+      "titulo": "Abel Caballero arremete otra vez contra el PP: la Diputación «estafa» a Vigo",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/galicia/abel-caballero-arremete-vez-pp-diputacion-estafa-20261102184501-nt.html",
+      "fecha": "2026-11-02T17:45+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "Pedro Sánchez retoma la precampaña con un mitin en València el próximo viernes",
+      "medio": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/local/valencia/20261102/11674386/pedro-sanchez-retoma-precampana-mitin-valencia-proximo-viernes.html",
+      "fecha": "2026-11-02T17:09+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
     {
       "titulo": "Pedro Sánchez retoma la campaña electoral tras el accidente ferroviario con actos en Valencia y Bilbao",
       "medio": "El Mundo",
@@ -3200,44 +3236,6 @@
       "medio": "Europa Press",
       "url": "https://www.europapress.es/nacional/noticia-vox-avanza-prioridad-nacional-reducir-administracion-estado-estara-presente-negociacion-pp-20261027085524.html",
       "fecha": "2026-10-27T07:55+00:00",
-      "partidos": [
-        "pp",
-        "vox"
-      ]
-    },
-    {
-      "titulo": "Quiénes son los candidatos de Vox al Senado integrados en las listas del PP",
-      "medio": "elDiario.es",
-      "url": "https://www.eldiario.es/politica/son-candidatos-vox-senado-integrados-listas-pp_1_13617335.html",
-      "fecha": "2026-10-27T06:42+00:00",
-      "partidos": [
-        "pp",
-        "vox"
-      ]
-    },
-    {
-      "titulo": "Feijóo condena el nuevo intento de \"intimidación\" de la \"izquierda violenta\" en Bilbao y garantiza orden si gobierna",
-      "medio": "Europa Press",
-      "url": "https://www.europapress.es/nacional/noticia-feijoo-condena-nuevo-intento-intimidacion-izquierda-violenta-bilbao-garantiza-orden-si-gobierna-20261027073329.html",
-      "fecha": "2026-10-27T06:33+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Cercanías, AVE y carreteras: las obras que Pedro Sánchez le deja a deber a Andalucía",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/andalucia/cercanias-ave-carreteras-obras-pedro-sanchez-deja-20261027072325-nts.html",
-      "fecha": "2026-10-27T06:23+00:00",
-      "partidos": [
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "PP y Vox sellan un pacto en el Senado en busca de conservar la mayoría absoluta",
-      "medio": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/politica/20261027/11668757/pp-vox-sellan-pacto-senado-busca-conservar-mayoria-absoluta.html",
-      "fecha": "2026-10-27T05:00+00:00",
       "partidos": [
         "pp",
         "vox"
