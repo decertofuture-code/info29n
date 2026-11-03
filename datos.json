@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-03T09:53+00:00",
+  "actualizado": "2026-11-03T14:08+00:00",
   "temas": [
     {
       "id": "vivienda",
@@ -448,6 +448,222 @@
     }
   ],
   "noticias": [
+    {
+      "titulo": "El juez Llarena cierra la causa para Puigdemont y deja la amnistía en manos del tribunal que juzgó el 'procés'",
+      "medio": "Europa Press",
+      "url": "https://www.europapress.es/nacional/noticia-juez-llarena-cierra-causa-puigdemont-deja-amnistia-manos-tribunal-juzgo-proces-20261103145905.html",
+      "fecha": "2026-11-03T13:59+00:00",
+      "partidos": [
+        "junts"
+      ]
+    },
+    {
+      "titulo": "Miguel Tellado, 'número dos' del PP, pide el voto para Vox en tres provincias el 29N: \"Por supuesto que sí\"",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/politica/miguel-tellado-numero-pp-pide-voto-vox-tres-provincias-29n-supuesto-si_1_13634268.html",
+      "fecha": "2026-11-03T13:49+00:00",
+      "partidos": [
+        "pp",
+        "vox"
+      ]
+    },
+    {
+      "titulo": "Puente carga contra todos: Feijóo, la UE, la CNMC o Juanma Moreno... pero rechaza dimitir",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/puente-carga-feijoo-ue-cnmc-juanma-moreno-20261103142016-nt.html",
+      "fecha": "2026-11-03T13:40+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "Los sindicatos y la izquierda rechazan suspender la huelga general como pide Feijóo",
+      "medio": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/politica/20261103/11675070/sindicatos-izquierda-rechazan-suspender-huelga-general-pide-feijoo.html",
+      "fecha": "2026-11-03T13:25+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "El PP lleva a Anticorrupción los contratos del belén de Soria por posibles pagos duplicados",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/castilla-leon/pp-lleva-anticorrupcion-contratos-belen-soria-posibles-20261103142006-nt.html",
+      "fecha": "2026-11-03T13:22+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "El delegado del Gobierno en Cantabria denuncia una agresión \"física y verbal\" de un edil del PP",
+      "medio": "El Mundo",
+      "url": "https://www.elmundo.es/espana/2026/11/03/6ae9b469e9cf4a2c778b4589.html",
+      "fecha": "2026-11-03T12:58+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "Feijóo dice que el concejal de Cantabria niega la agresión y abre investigación en el PP para esclarecer los hechos",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/cantabria/feijoo-asegura-concejal-cantabria-niega-agresion-abre-investigacion-pp-esclarecer-hechos_1_13634110.html",
+      "fecha": "2026-11-03T12:58+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "El PP activa a la Policía Local para intervenir contra la acampada de Palma tras el desalojo de la protesta de Sol",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/illes-balears/sociedad/pp-activa-policia-local-intervenir-acampada-palma-desalojo-protesta-sol_1_13634061.html",
+      "fecha": "2026-11-03T12:54+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "La Asamblea de Murcia declara a Pedro Sánchez 'persona non grata' con los votos de Antelo, Vox y el PP",
+      "medio": "El Mundo",
+      "url": "https://www.elmundo.es/murcia/2026/11/03/6ae9c2b2e85ece0b7e8b457b.html",
+      "fecha": "2026-11-03T12:24+00:00",
+      "partidos": [
+        "pp",
+        "psoe",
+        "vox"
+      ]
+    },
+    {
+      "titulo": "Feijóo asegura que el concejal de Cantabria niega la agresión y abre investigación en el PP para esclarecer los hechos",
+      "medio": "Europa Press",
+      "url": "https://www.europapress.es/nacional/noticia-feijoo-asegura-concejal-cantabria-niega-agresion-abre-investigacion-pp-esclarecer-hechos-20261103132318.html",
+      "fecha": "2026-11-03T12:23+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "El delegado del Gobierno en Cantabria denuncia a un concejal del PP en Ruesga por agresión física y verbal",
+      "medio": "El Confidencial",
+      "url": "https://www.elconfidencial.com/espana/2026-11-03/pedro-casares-denuncia-agresion-concejal-pp-1tps_4457968/",
+      "fecha": "2026-11-03T12:06+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "Frente Amplio cree que Feijóo tiene \"pánico\" de la huelga y le pide sacar sus \"sucias\" manos de los sindicatos",
+      "medio": "Europa Press",
+      "url": "https://www.europapress.es/nacional/noticia-frente-amplio-cree-feijoo-tiene-panico-huelga-le-pide-sacar-sucias-manos-sindicatos-20261103125517.html",
+      "fecha": "2026-11-03T11:55+00:00",
+      "partidos": [
+        "pp",
+        "sumar"
+      ]
+    },
+    {
+      "titulo": "Abascal aboga por un \"recorte drástico\" de las subvenciones a partidos y sindicatos y una revisión del \"gasto ideológico\"",
+      "medio": "El Mundo",
+      "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/03/6ae998ee21efa06c188b456f.html",
+      "fecha": "2026-11-03T11:44+00:00",
+      "partidos": [
+        "vox"
+      ]
+    },
+    {
+      "titulo": "La exconsellera de Vox que denunció la \"deriva radical\" de Abascal se afilia al PP con una foto con Feijóo",
+      "medio": "El Confidencial",
+      "url": "https://www.elconfidencial.com/espana/comunidad-valenciana/2026-11-03/exconsellera-vox-deriva-radical-se-afilia-al-pp_4457881/",
+      "fecha": "2026-11-03T11:28+00:00",
+      "partidos": [
+        "pp",
+        "vox"
+      ]
+    },
+    {
+      "titulo": "Feijóo no tiene previsto reunirse con Milei y reprocha a Sánchez \"usar la política exterior para mantener la coalición\"",
+      "medio": "Europa Press",
+      "url": "https://www.europapress.es/nacional/noticia-feijoo-no-tiene-previsto-reunirse-milei-reprocha-sanchez-usar-politica-exterior-mantener-coalicion-20261103122434.html",
+      "fecha": "2026-11-03T11:24+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "Abascal cree que sería un \"insulto\" que el Gobierno haga un funeral por las víctimas de Urda y tilda el accidente de \"crimen político\"",
+      "medio": "20minutos",
+      "url": "https://www.20minutos.es/nacional/abascal-cree-que-seria-un-insulto-que-gobierno-haga-un-funeral-por-las-victimas-urda-tilda-accidente-crimen-politico_7056482_0.html",
+      "fecha": "2026-11-03T11:02+00:00",
+      "partidos": [
+        "vox"
+      ]
+    },
+    {
+      "titulo": "La Asamblea de Murcia declara a Pedro Sánchez persona non grata con los votos de PP y Vox",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/murcia/politica/asamblea-murcia-declara-pedro-sanchez-persona-non-grata_1_13633294.html",
+      "fecha": "2026-11-03T10:58+00:00",
+      "partidos": [
+        "pp",
+        "psoe",
+        "vox"
+      ]
+    },
+    {
+      "titulo": "Feijóo dice que buscará llevarse \"bien\" con Marruecos: \"Nos vamos a entender porque si hablas claro, te entiende\"",
+      "medio": "Europa Press",
+      "url": "https://www.europapress.es/nacional/noticia-feijoo-dice-buscara-llevarse-bien-marruecos-nos-vamos-entender-porque-si-hablas-claro-te-entiende-20261103114610.html",
+      "fecha": "2026-11-03T10:46+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "Junts, ERC, Comuns y la CUP impulsan la creación de un cuerpo propio de Protecció Civil",
+      "medio": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/politica/20261103/11674897/junts-erc-comuns-cup-impulsan-creacion-cuerpo-propio-proteccio-civil.html",
+      "fecha": "2026-11-03T10:42+00:00",
+      "partidos": [
+        "erc",
+        "junts"
+      ]
+    },
+    {
+      "titulo": "El delegado de Gobierno en Cantabria denuncia que un concejal del PP en Ruesga le abofeteó en una feria ganadera",
+      "medio": "Europa Press",
+      "url": "https://www.europapress.es/cantabria/noticia-casares-denuncia-concejal-pp-le-abofeteo-feria-arredondo-20261103113812.html",
+      "fecha": "2026-11-03T10:38+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "El delegado del Gobierno en Cantabria denuncia que un concejal del PP le pegó una bofetada en una feria de ganado",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/cantabria/delegado-gobierno-cantabria-denuncia-concejal-pp-le-pego-bofetada-feria-ganado_1_13633065.html",
+      "fecha": "2026-11-03T10:10+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "Un alcalde del PP en Ávila condena la exhibición de un ataúd con Pedro Sánchez y lo denuncia ante la Guardia Civil",
+      "medio": "El Mundo",
+      "url": "https://www.elmundo.es/espana/2026/11/03/6ae9b23021efa09d518b4571.html",
+      "fecha": "2026-11-03T10:08+00:00",
+      "partidos": [
+        "pp",
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "CCOO y UGT defienden la huelga y preguntan a Feijóo si gobernará con un partido que “arruinará” los servicios públicos",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/economia/ccoo-ugt-defienden-huelga-preguntan-feijoo-si-gobernara-partido-arruinara-servicios-publicos_1_13633155.html",
+      "fecha": "2026-11-03T09:57+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
     {
       "titulo": "Colau defiende la huelga general por la vivienda y afea al PSOE haber sido cercano a \"lobbies inmobiliarios\"",
       "medio": "Europa Press",
@@ -3020,223 +3236,6 @@
       "fecha": "2026-10-27T13:59+00:00",
       "partidos": [
         "pp"
-      ]
-    },
-    {
-      "titulo": "Feijóo, de bailar 'El Tiburón' en un acto de 2023 a declarar tres años después: \"Yo no bailo en los mítines\"",
-      "medio": "elDiario.es",
-      "url": "https://www.eldiario.es/rastreador/feijoo-bailar-tiburon-acto-2023-declarar-tres-anos-despues-no-bailo-mitines_132_13618778.html",
-      "fecha": "2026-10-27T13:48+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Feijóo presenta a sus candidatos en Madrid marcando las diferencias con Sánchez: \"No robo, no miento y no me largo de vacaciones\"",
-      "medio": "20minutos",
-      "url": "https://www.20minutos.es/nacional/feijoo-presenta-sus-candidatos-madrid-marcando-las-diferencias-con-sanchez-no-robo-no-miento-no-me-largo-vacaciones_7054015_0.html",
-      "fecha": "2026-10-27T13:45+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Feijóo lanza con Ayuso la lista electoral de Madrid: \"Vamos a gobernar. Calentad, que salís\"",
-      "medio": "El Mundo",
-      "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/10/27/6ae0a2f7e4d4d80d248b457d.html",
-      "fecha": "2026-10-27T13:36+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "El Gobierno acusa a PP y Vox de aprovechar los disturbios para agitar la campaña: “No lo vamos a permitir”",
-      "medio": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/politica/20261027/11669411/gobierno-acusa-pp-vox-aprovechar-disturbios-agitar-campana-permitir.html",
-      "fecha": "2026-10-27T13:33+00:00",
-      "partidos": [
-        "pp",
-        "vox"
-      ]
-    },
-    {
-      "titulo": "Feijóo presenta su lista por Madrid: \"El 29N no pueden ganar quienes quieren hacerlo cambiando las reglas o incendiando la calle\"",
-      "medio": "elDiario.es",
-      "url": "https://www.eldiario.es/politica/feijoo-presenta-lista-madrid-29n-no-ganar-quieren-hacerlo-cambiando-reglas-incendiando-calle_1_13618566.html",
-      "fecha": "2026-10-27T13:17+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "El Gobierno condena los actos de violencia y tacha de \"barbaridad\" la acusación del PP de que los alienta",
-      "medio": "elDiario.es",
-      "url": "https://www.eldiario.es/politica/gobierno-condena-actos-violencia-tacha-barbaridad-acusacion-pp-alienta_1_13618735.html",
-      "fecha": "2026-10-27T13:17+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "El PSOE de Ceuta retira a un dirigente local para presentar como candidato al Senado a un activista que acampó en Sol",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/psoe-ceuta-retira-dirigente-local-presentar-candidato-20261027140502-nt.html",
-      "fecha": "2026-10-27T13:05+00:00",
-      "partidos": [
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "Feijóo se conjura con Ayuso y Cayetana: «Esta vez pondremos fin a lo que nunca debió suceder»",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/feijoo-conjura-ayuso-cayetana-vez-pondremos-fin-20261027140255-nt.html",
-      "fecha": "2026-10-27T13:03+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Bildu expresa “su más absoluto rechazo” a los disturbios en Bilbao por la visita de Vito Quiles",
-      "medio": "El País",
-      "url": "https://elpais.com/espana/2026-10-27/bildu-expresa-su-mas-absoluto-rechazo-a-los-disturbios-en-bilbao-por-la-visita-de-vito-quiles.html",
-      "fecha": "2026-10-27T13:02+00:00",
-      "partidos": [
-        "bildu"
-      ]
-    },
-    {
-      "titulo": "El PP denuncia que Castilla-La Mancha tiene las peores listas de espera de España",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/castilla-la-mancha/pp-denuncia-castillala-mancha-peores-listas-espera-20261027135817-nt.html",
-      "fecha": "2026-10-27T12:58+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Podemos vuelve a diferenciarse de Frente Amplio y lo acusa de pertenecer al \"bipartidismo 2.0\" junto al PSOE, PP y Vox",
-      "medio": "20minutos",
-      "url": "https://www.20minutos.es/nacional/podemos-vuelve-diferenciarse-frente-amplio-acusa-pertenecer-bipartidismo-2-0-junto-psoe-pp-vox_7053978_0.html",
-      "fecha": "2026-10-27T12:51+00:00",
-      "partidos": [
-        "pp",
-        "psoe",
-        "vox",
-        "sumar",
-        "podemos"
-      ]
-    },
-    {
-      "titulo": "Solo 10 diputados de Sumar repiten en las listas de Frente Amplio",
-      "medio": "El País",
-      "url": "https://elpais.com/espana/elecciones-generales/2026-10-27/solo-10-diputados-de-sumar-repiten-en-las-listas-de-frente-amplio.html",
-      "fecha": "2026-10-27T12:45+00:00",
-      "partidos": [
-        "sumar"
-      ]
-    },
-    {
-      "titulo": "Abascal acusa a Sánchez de \"traer la violencia y la intimidación a la campaña contra Vox\": \"Son sus milicias en La Coruña, Cataluña y la playa del Trampolín\"",
-      "medio": "El Mundo",
-      "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/10/27/6ae08bb0e4d4d8d4588b4580.html",
-      "fecha": "2026-10-27T12:44+00:00",
-      "partidos": [
-        "vox"
-      ]
-    },
-    {
-      "titulo": "Muere a los 35 años la parlamentaria de Coalición Canaria Cristina Calero",
-      "medio": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/politica/20261027/11669353/muere-35-anos-parlamentaria-coalicion-canaria-cristina-calero.html",
-      "fecha": "2026-10-27T12:42+00:00",
-      "partidos": [
-        "cc"
-      ]
-    },
-    {
-      "titulo": "Una cuenta institucional del Ayuntamiento de Talavera hace \"propaganda\" de Vox y Abascal en redes sociales",
-      "medio": "elDiario.es",
-      "url": "https://www.eldiario.es/castilla-la-mancha/politica/cuenta-institucional-ayuntamiento-talavera-propaganda-vox-abascal-redes-sociales_1_13618467.html",
-      "fecha": "2026-10-27T12:41+00:00",
-      "partidos": [
-        "vox"
-      ]
-    },
-    {
-      "titulo": "Camarero se ofrece para formar parte de un gobierno de Feijóo: “La experiencia es un aval”",
-      "medio": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/local/valencia/20261027/11669332/camarero-ofrece-formar-parte-gobierno-feijoo-experiencia-aval.html",
-      "fecha": "2026-10-27T12:39+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Feijóo acude mañana a Barcelona prometiendo una reforma penal para responder mejor a los disturbios",
-      "medio": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/politica/20261027/11669359/feijoo-acude-manana-barcelona-prometiendo-reforma-penal-responder-mejor-disturbios.html",
-      "fecha": "2026-10-27T12:39+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Abascal defiende que \"la autonomía\" de Vox está \"intacta\" a pesar del acuerdo con el PP para el Senado",
-      "medio": "Europa Press",
-      "url": "https://www.europapress.es/nacional/noticia-abascal-defiende-autonomia-vox-intacta-pesar-acuerdo-pp-senado-20261027131607.html",
-      "fecha": "2026-10-27T12:16+00:00",
-      "partidos": [
-        "pp",
-        "vox"
-      ]
-    },
-    {
-      "titulo": "Junts exigirá la salida de Pedro Sánchez tras las elecciones para volver a negociar con el PSOE",
-      "medio": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/politica/20261027/11669324/junts-exigira-concierto-economico-elecciones-llave-investidura.html",
-      "fecha": "2026-10-27T12:12+00:00",
-      "partidos": [
-        "psoe",
-        "junts"
-      ]
-    },
-    {
-      "titulo": "El Gobierno reprocha a Feijóo que \"fomente el odio\" por culpar a Sánchez de \"incendiar las calles\"",
-      "medio": "Europa Press",
-      "url": "https://www.europapress.es/nacional/noticia-gobierno-condena-actos-violentos-barcelona-bilbao-democracia-violencia-no-tiene-cabida-20261027130603.html",
-      "fecha": "2026-10-27T12:06+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "De Andrés confirma que el PP de Gipuzkoa no sabía que no se presentaría al Senado para dejar el hueco a Vox",
-      "medio": "elDiario.es",
-      "url": "https://www.eldiario.es/euskadi/andres-confirma-pp-gipuzkoa-no-sabia-no-presentaria-senado-hueco-vox_1_13618186.html",
-      "fecha": "2026-10-27T11:58+00:00",
-      "partidos": [
-        "pp",
-        "vox"
-      ]
-    },
-    {
-      "titulo": "El Frente Amplio cambia la cara a Sumar: renovación profunda, IU lidera más de la mitad de las listas y el fichaje sorpresa de una ex líder de Podemos",
-      "medio": "El Mundo",
-      "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/10/27/6ae07d26fdddff7b268b456e.html",
-      "fecha": "2026-10-27T11:47+00:00",
-      "partidos": [
-        "sumar",
-        "podemos"
-      ]
-    },
-    {
-      "titulo": "El PP y Vox rechazan recordar a Maricarmen con una placa en Madrid y un concejal llama \"jeta\" a la fallecida",
-      "medio": "elDiario.es",
-      "url": "https://www.eldiario.es/madrid/somos/pp-vox-rechazan-recordar-maricarmen-placa-madrid-concejal-llama-jeta-fallecida_1_13618056.html",
-      "fecha": "2026-10-27T11:32+00:00",
-      "partidos": [
-        "pp",
-        "vox"
       ]
     }
   ],
