@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-02T21:39+00:00",
+  "actualizado": "2026-11-03T05:39+00:00",
   "temas": [
     {
       "id": "vivienda",
@@ -448,6 +448,93 @@
     }
   ],
   "noticias": [
+    {
+      "titulo": "Feijóo trata de acentuar su perfil de gestor frente a un PSOE “desnortado”",
+      "medio": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/politica/20261103/11674459/feijoo-trata-acentuar-perfil-gestor-frente-psoe-desnortado.html",
+      "fecha": "2026-11-03T05:00+00:00",
+      "partidos": [
+        "pp",
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "Del miedo a la ultraderecha al regreso a los derechos básicos: Frente Amplio y Podemos afinan sus estrategias para el 29-N tras el accidente",
+      "medio": "El País",
+      "url": "https://elpais.com/espana/elecciones-generales/2026-11-03/del-miedo-a-la-ultraderecha-al-regreso-a-los-derechos-basicos-frente-amplio-y-podemos-afinan-sus-estrategias-para-el-29-n-tras-el-accidente.html",
+      "fecha": "2026-11-03T04:30+00:00",
+      "partidos": [
+        "sumar",
+        "podemos"
+      ]
+    },
+    {
+      "titulo": "Encuestas elecciones generales en Madrid: resultados de PSOE, PP y Vox y ganador según los sondeos el 29N",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/madrid/encuestas-elecciones-generales-madrid-resultados-psoe-pp-20261103051500-nt.html",
+      "fecha": "2026-11-03T04:15+00:00",
+      "partidos": [
+        "pp",
+        "psoe",
+        "vox"
+      ]
+    },
+    {
+      "titulo": "Cayetana Álvarez de Toledo, candidata del PP en Madrid, sobre el 'procés': \"Aliança Catalana es el secesionismo 4.0 con una doble xenofobia\"",
+      "medio": "El Confidencial",
+      "url": "https://www.elconfidencial.com/espana/2026-11-03/puigdemont-cataluna-alianza-constitucionalismo-toledo-1mult_4451195/",
+      "fecha": "2026-11-03T04:00+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "El gran desafío de Feijóo si llega al Gobierno tras el 29-N: la elección del próximo ministro de Fomento",
+      "medio": "El Confidencial",
+      "url": "https://www.elconfidencial.com/espana/2026-11-03/desafio-feijoo-gobierno-eleccion-ministro-fomento_4456676/",
+      "fecha": "2026-11-03T04:00+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "El PP impondrá criterios técnicos para elegir a los gestores de Adif y despolitizar su cúpula",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/pp-impondra-criterios-tecnicos-elegir-gestores-adif-20261102011035-nt.html",
+      "fecha": "2026-11-03T00:11+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "Feijóo puede ganar en 36 provincias y Vox desbanca al PSOE en Madrid tras la tragedia de Urda",
+      "medio": "El Mundo",
+      "url": "https://www.elmundo.es/espana/encuestas/2026/11/03/6ae8d3cefdddffb1178b4574.html",
+      "fecha": "2026-11-02T23:04+00:00",
+      "partidos": [
+        "pp",
+        "psoe",
+        "vox"
+      ]
+    },
+    {
+      "titulo": "Los votantes del PSOE también se alejan de Puente: el 41% pide su dimisión por la tragedia de Urda",
+      "medio": "El Mundo",
+      "url": "https://www.elmundo.es/espana/encuestas/2026/11/02/6ae8b293e9cf4a904c8b4572.html",
+      "fecha": "2026-11-02T21:45+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "La investigación del caso Leire Díez destapa nuevos indicios que apuntan a las cloacas del PP",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/politica/investigacion-caso-leire-diez-destapa-nuevos-indicios-apuntan-cloacas-pp_129_13631614.html",
+      "fecha": "2026-11-02T21:07+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
     {
       "titulo": "Xavier García Albiol, contundente sobre Pedro Sánchez: «Con tres años sin presupuestos es imposible atender las necesidades del país, empezando por mantener lo público»",
       "medio": "ABC",
@@ -3150,95 +3237,6 @@
       "fecha": "2026-10-27T09:26+00:00",
       "partidos": [
         "psoe"
-      ]
-    },
-    {
-      "titulo": "Feijóo promete recuperar el agravente de la «cara tapada» para los disturbios que retiraron PSOE y Podemos",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/feijoo-promete-recuperar-agravente-cara-tapada-disturbios-20261027094732-nt.html",
-      "fecha": "2026-10-27T09:24+00:00",
-      "partidos": [
-        "pp",
-        "psoe",
-        "podemos"
-      ]
-    },
-    {
-      "titulo": "La mitad de votantes de PP y Vox, a favor de aumentar impuestos a quien tenga más de una vivienda en propiedad",
-      "medio": "elDiario.es",
-      "url": "https://www.eldiario.es/catalunya/mitad-votantes-pp-vox-favor-aumentar-impuestos-tenga-vivienda-propiedad_1_13616571.html",
-      "fecha": "2026-10-27T09:22+00:00",
-      "partidos": [
-        "pp",
-        "vox"
-      ]
-    },
-    {
-      "titulo": "Feijóo ve “posibilidad” de obtener una mayoría de tres quintos en el Senado tras el acuerdo con Vox",
-      "medio": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/politica/20261027/11669130/feijoo-ve-posibilidad-obtener-mayoria-tres-quintos-senado-acuerdo-vox.html",
-      "fecha": "2026-10-27T09:13+00:00",
-      "partidos": [
-        "pp",
-        "vox"
-      ]
-    },
-    {
-      "titulo": "Feijóo promete endurecer las penas contra los autores de disturbios organizados en redes y con la cara tapada",
-      "medio": "20minutos",
-      "url": "https://www.20minutos.es/nacional/feijoo-promete-endurecer-las-penas-contra-los-autores-disturbios-organizados-redes-con-cara-tapada_7053830_0.html",
-      "fecha": "2026-10-27T09:08+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Las listas de Frente Amplio al Congreso: del ministro Urtasun a dos exdirigentes de Podemos",
-      "medio": "El Confidencial",
-      "url": "https://www.elconfidencial.com/espana/2026-10-27/frente-amplio-listas-congreso-elecciones-1tps_4453724/",
-      "fecha": "2026-10-27T09:03+00:00",
-      "partidos": [
-        "sumar",
-        "podemos"
-      ]
-    },
-    {
-      "titulo": "Feijóo ve \"posibilidades\" de sumar tres quintos del Senado, pero sólo si el electorado de Vox vota al PP en las provincias clave",
-      "medio": "El Mundo",
-      "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/10/27/6ae063a9e9cf4ad8178b4575.html",
-      "fecha": "2026-10-27T08:55+00:00",
-      "partidos": [
-        "pp",
-        "vox"
-      ]
-    },
-    {
-      "titulo": "Feijóo justifica su pacto \"táctico\" con Vox tras la \"coalición de desesperados\" de Sánchez: \"Ha cambiado el tablero\"",
-      "medio": "Europa Press",
-      "url": "https://www.europapress.es/nacional/noticia-feijoo-justifica-pacto-tactico-vox-coalicion-desesperados-sanchez-cambiado-tablero-20261027094743.html",
-      "fecha": "2026-10-27T08:47+00:00",
-      "partidos": [
-        "pp",
-        "vox"
-      ]
-    },
-    {
-      "titulo": "Renovación en las listas de Frente Amplio al Congreso: repiten solo diez diputados y Urtasun es el único ministro",
-      "medio": "Europa Press",
-      "url": "https://www.europapress.es/nacional/noticia-renovacion-listas-frente-amplio-congreso-repiten-solo-diez-diputados-urtasun-unico-ministro-20261027094152.html",
-      "fecha": "2026-10-27T08:41+00:00",
-      "partidos": [
-        "sumar"
-      ]
-    },
-    {
-      "titulo": "Vox avanza: la prioridad nacional y reducir la administración del Estado estará presente en la negociación con PP",
-      "medio": "Europa Press",
-      "url": "https://www.europapress.es/nacional/noticia-vox-avanza-prioridad-nacional-reducir-administracion-estado-estara-presente-negociacion-pp-20261027085524.html",
-      "fecha": "2026-10-27T07:55+00:00",
-      "partidos": [
-        "pp",
-        "vox"
       ]
     }
   ],
