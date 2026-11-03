@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-03T14:08+00:00",
+  "actualizado": "2026-11-03T17:46+00:00",
   "temas": [
     {
       "id": "vivienda",
@@ -449,10 +449,127 @@
   ],
   "noticias": [
     {
+      "titulo": "El consejero de Cultura de Vox cuestiona la neutralidad ideológica de la Seminci y acusa al festival de “instrumentalización política”",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/cultura/consejero-cultura-vox-cuestiona-neutralidad-ideologica-seminci-acusa-festival-instrumentalizacion-politica_1_13635096.html",
+      "fecha": "2026-11-03T17:29+00:00",
+      "partidos": [
+        "vox"
+      ]
+    },
+    {
+      "titulo": "El PP se lanza contra Puente: \"Creaba un relato y filtraba audios mientras la gente buscaba a sus muertos\"",
+      "medio": "El Mundo",
+      "url": "https://www.elmundo.es/espana/2026/11/03/6aea169221efa078728b45b5.html",
+      "fecha": "2026-11-03T17:16+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "El PP señala a Puente: “No es ministro para explicar accidentes, sino para evitarlos”",
+      "medio": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/politica/20261103/11675242/pp-senala-puente-ministro-explicar-accidentes-evitarlos.html",
+      "fecha": "2026-11-03T17:14+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "El PP de Alcalá de Henares denuncia un ataque a su sede con un martillo",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/madrid/pp-alcala-henares-denuncia-ataque-sede-martillo-20261103180337-nt.html",
+      "fecha": "2026-11-03T17:04+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "El PP denuncia que Marlaska, Saiz y Torres \"plantan por tercera vez\" a la Eurocámara para dar explicaciones sobre Ceuta",
+      "medio": "20minutos",
+      "url": "https://www.20minutos.es/nacional/pp-denuncia-que-marlaska-saiz-torres-plantan-por-tercera-vez-eurocamara-para-dar-explicaciones-sobre-ceuta_7056722_0.html",
+      "fecha": "2026-11-03T16:04+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "Puente, sobre las peticiones de dimisión: \"Puedo entender lo de Ada Colau, lo que no puedo entender es que la pida Feijóo\"",
+      "medio": "20minutos",
+      "url": "https://www.20minutos.es/nacional/puente-sobre-las-peticiones-dimision-puedo-entender-que-ada-colau-que-no-puedo-entender-es-que-pida-feijoo_7056682_0.html",
+      "fecha": "2026-11-03T15:09+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "El juez Llarena levanta el procesamiento de Puigdemont y deja en manos del Supremo el final judicial del procés",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/catalunya/juez-llarena-levanta-procesamiento-puigdemont-deja-manos-supremo-final-judicial-proces_1_13634484.html",
+      "fecha": "2026-11-03T15:04+00:00",
+      "partidos": [
+        "junts"
+      ]
+    },
+    {
+      "titulo": "Llarena deja sin efecto el procesamiento de Puigdemont y envía la causa a la Sala para su archivo",
+      "medio": "El Mundo",
+      "url": "https://www.elmundo.es/espana/2026/11/03/6ae9ed5e21efa014748b45b0.html",
+      "fecha": "2026-11-03T14:40+00:00",
+      "partidos": [
+        "junts"
+      ]
+    },
+    {
+      "titulo": "El juez Llarena levanta el procesamiento de Puigdemont y acerca ya su regreso",
+      "medio": "El Confidencial",
+      "url": "https://www.elconfidencial.com/espana/2026-11-03/puigdemont-llarena-proces-cierre-causa-regreso_4458105/",
+      "fecha": "2026-11-03T14:11+00:00",
+      "partidos": [
+        "junts"
+      ]
+    },
+    {
+      "titulo": "El juez Llarena deja sin efecto el procesamiento de Puigdemont por malversación",
+      "medio": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/politica/20261103/11675094/juez-llarena-deja-efecto-procesamiento-puigdemont-malversacion.html",
+      "fecha": "2026-11-03T14:04+00:00",
+      "partidos": [
+        "junts"
+      ]
+    },
+    {
+      "titulo": "El juez Llarena aplica la amnistía a Puigdemont",
+      "medio": "20minutos",
+      "url": "https://www.20minutos.es/nacional/juez-llarena-aplica-amnistia-puigdemont_7056658_0.html",
+      "fecha": "2026-11-03T14:03+00:00",
+      "partidos": [
+        "junts"
+      ]
+    },
+    {
       "titulo": "El juez Llarena cierra la causa para Puigdemont y deja la amnistía en manos del tribunal que juzgó el 'procés'",
       "medio": "Europa Press",
       "url": "https://www.europapress.es/nacional/noticia-juez-llarena-cierra-causa-puigdemont-deja-amnistia-manos-tribunal-juzgo-proces-20261103145905.html",
       "fecha": "2026-11-03T13:59+00:00",
+      "partidos": [
+        "junts"
+      ]
+    },
+    {
+      "titulo": "Puente admite que puede “compartir” que Colau pida su dimisión, pero no se lo acepta a Feijóo",
+      "medio": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/politica/20261103/11675087/puente-admite-compartir-colau-pida-dimision-acepta-feijoo.html",
+      "fecha": "2026-11-03T13:57+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "Llarena cierra la instrucción contra Puigdemont, Comín y Puig y envía el caso a la Sala Penal para que aplique la amnistía",
+      "medio": "El País",
+      "url": "https://elpais.com/espana/elecciones-generales/2026-11-03/llarena-cierra-el-sumario-contra-puigdemont-comin-y-puig-y-lo-envia-a-la-sala-penal-para-que-aplique-la-amnistia.html",
+      "fecha": "2026-11-03T13:55+00:00",
       "partidos": [
         "junts"
       ]
@@ -3115,127 +3232,6 @@
       "fecha": "2026-10-27T18:49+00:00",
       "partidos": [
         "vox"
-      ]
-    },
-    {
-      "titulo": "Pedraz blinda la causa de las cloacas de Ferraz con la continuidad de Balas al frente del caso para evitar \"alteraciones\"",
-      "medio": "El Mundo",
-      "url": "https://www.elmundo.es/espana/2026/10/27/6ae0da0021efa03e308b457b.html",
-      "fecha": "2026-10-27T17:36+00:00",
-      "partidos": [
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "Solo 10 diputados de Sumar repiten en las listas de Frente Amplio; Urtasun, único ministro",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/solo-diputados-sumar-repiten-listas-frente-amplio-20261027181716-nt.html",
-      "fecha": "2026-10-27T17:17+00:00",
-      "partidos": [
-        "sumar"
-      ]
-    },
-    {
-      "titulo": "Vox expulsa a sus dos ediles díscolos en Valencia y complica a Catalá el final del mandato",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/comunidad-valenciana/vox-expulsa-dos-ediles-discolos-valencia-20261027170555-nt.html",
-      "fecha": "2026-10-27T17:16+00:00",
-      "partidos": [
-        "vox"
-      ]
-    },
-    {
-      "titulo": "Precampaña elecciones generales en España, en directo: última hora de Pedro Sánchez (PSOE), Feijóo (PP), Abascal (Vox), Ada Colau (Frente Amplio) y resto de candidatos hoy",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/precampana-elecciones-generales-espana-directo-ultima-hora-20261027115927-di.html",
-      "fecha": "2026-10-27T17:16+00:00",
-      "partidos": [
-        "pp",
-        "psoe",
-        "vox",
-        "sumar"
-      ]
-    },
-    {
-      "titulo": "Un concejal de Vox en Tenerife, a otro de Podemos durante un pleno: \"Me tienes hasta los cojones, eres un hijo de puta\"",
-      "medio": "elDiario.es",
-      "url": "https://www.eldiario.es/canariasahora/politica/concejal-vox-tenerife-podemos-durante-pleno-tienes-cojones-hijo-puta_1_13618736.html",
-      "fecha": "2026-10-27T17:14+00:00",
-      "partidos": [
-        "vox",
-        "podemos"
-      ]
-    },
-    {
-      "titulo": "Azcón aplaude el «inteligente» pacto para el Senado: «No aceptamos que el PSOE desnivele el tablero»",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/aragon/azcon-apoya-inteligente-pacto-senado-aceptamos-psoe-20261027172946-nt.html",
-      "fecha": "2026-10-27T17:07+00:00",
-      "partidos": [
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "Repullo, a María Jesús Montero tras los 18 ex altos cargos imputados: «No puede desentenderse de la corrupción del PSOE»",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/andalucia/repullo-maria-jesus-montero-tras-altos-cargos-20261027180319-nts.html",
-      "fecha": "2026-10-27T17:03+00:00",
-      "partidos": [
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "La Audiencia Nacional rechaza la querella de Leire Díez contra el PP por incluirla en un vídeo hecho con IA: \"Es un tema personal\"",
-      "medio": "elDiario.es",
-      "url": "https://www.eldiario.es/politica/audiencia-nacional-inadmite-querella-leire-diez-pp-incluirle-video-hecho-ia-tema-personal_1_13619533.html",
-      "fecha": "2026-10-27T16:50+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Vox expulsa a sus dos ediles díscolos del Ayuntamiento de València a un mes del 29-N",
-      "medio": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/local/valencia/20261027/11669521/vox-expulsa-dos-ediles-discolos-ayuntamiento-valencia-mes-29-n.html",
-      "fecha": "2026-10-27T16:20+00:00",
-      "partidos": [
-        "vox"
-      ]
-    },
-    {
-      "titulo": "Feijóo redobla sus acusaciones al Gobierno por los disturbios: “Cuanto más pierden, más tensión crean”",
-      "medio": "El País",
-      "url": "https://elpais.com/espana/elecciones-generales/2026-10-27/feijoo-redobla-sus-acusaciones-al-gobierno-por-los-disturbios-cuanto-mas-pierden-mas-tension-crean.html",
-      "fecha": "2026-10-27T16:13+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Muere la diputada de Coalición Canaria Cristina Calero",
-      "medio": "El Mundo",
-      "url": "https://www.elmundo.es/espana/2026/10/27/6ae0c9ade85ece90648b45a8.html",
-      "fecha": "2026-10-27T16:02+00:00",
-      "partidos": [
-        "cc"
-      ]
-    },
-    {
-      "titulo": "Vox expulsa a Badenas y Herrero, sus dos concejales investigados, y deja en el aire la mayoría de Catalá en el Ayuntamiento de Valencia",
-      "medio": "elDiario.es",
-      "url": "https://www.eldiario.es/comunitat-valenciana/politica/vox-expulsa-badenas-herrero-concejales-investigados-valencia_1_13619406.html",
-      "fecha": "2026-10-27T15:54+00:00",
-      "partidos": [
-        "vox"
-      ]
-    },
-    {
-      "titulo": "Moncloa se revuelve contra el PP e intenta vincularle con el clima de violencia en Barcelona y Bilbao",
-      "medio": "El Confidencial",
-      "url": "https://www.elconfidencial.com/espana/2026-10-27/pedro-sanchez-mayoria-absoluta-elecciones_4453921/",
-      "fecha": "2026-10-27T13:59+00:00",
-      "partidos": [
-        "pp"
       ]
     }
   ],
