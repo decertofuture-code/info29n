@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-03T05:39+00:00",
+  "actualizado": "2026-11-03T09:53+00:00",
   "temas": [
     {
       "id": "vivienda",
@@ -448,6 +448,99 @@
     }
   ],
   "noticias": [
+    {
+      "titulo": "Colau defiende la huelga general por la vivienda y afea al PSOE haber sido cercano a \"lobbies inmobiliarios\"",
+      "medio": "Europa Press",
+      "url": "https://www.europapress.es/nacional/noticia-colau-defiende-huelga-general-vivienda-afea-psoe-haber-sido-cercano-lobbies-inmobiliarios-20261103104910.html",
+      "fecha": "2026-11-03T09:49+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "Frente Amplio denuncia un 'ataúd' de Pedro Sánchez colocado en el balcón de un Ayuntamiento de Ávila",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/castilla-y-leon/politica/frente-amplio-denuncia-ataud-pedro-sanchez-colocado-balcon-ayuntamiento-avila_1_13632992.html",
+      "fecha": "2026-11-03T09:43+00:00",
+      "partidos": [
+        "psoe",
+        "sumar"
+      ]
+    },
+    {
+      "titulo": "Feijóo pide a los sindicados desconvocar la huelga general: «Con 69 muertos es un grave error»",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/feijoo-pide-sindicados-desconvocar-huelga-general-muertos-20261103100101-nt.html",
+      "fecha": "2026-11-03T09:31+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "El PP de Ayuso cree que la Delegación desaloja Sol porque «ya no es útil» para la campaña del PSOE",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/madrid/pp-ayuso-cree-delegacion-desaloja-sol-util-20261103090916-nt.html",
+      "fecha": "2026-11-03T09:13+00:00",
+      "partidos": [
+        "pp",
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "Feijóo pide un mandato \"claro\" para \"recuperar el rumbo\" y acometer la \"reconstrucción nacional que España necesita\"",
+      "medio": "Europa Press",
+      "url": "https://www.europapress.es/nacional/noticia-29nfeijoo-pide-mandato-claro-recuperar-rumbo-acometer-reconstruccion-nacional-espana-necesita-20261103095337.html",
+      "fecha": "2026-11-03T08:53+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "Frente Amplio denuncia la exhibición de un ataúd con una foto de Pedro Sánchez en un ayuntamiento de Ávila",
+      "medio": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/politica/20261103/11674788/frente-amplio-denuncian-exhibicion-ataud-foto-pedro-sanchez-ayuntamiento-avila.html",
+      "fecha": "2026-11-03T08:52+00:00",
+      "partidos": [
+        "psoe",
+        "sumar"
+      ]
+    },
+    {
+      "titulo": "Feijóo pide a los sindicatos que \"reconsideren\" la huelga del 11N tras el accidente ferroviario de Urda",
+      "medio": "20minutos",
+      "url": "https://www.20minutos.es/nacional/feijoo-pide-los-sindicatos-que-reconsideren-huelga-11n-tras-accidente-ferroviario-urda_7056415_0.html",
+      "fecha": "2026-11-03T08:41+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "Feijóo pide a los sindicatos \"reconsiderar\" la huelga general porque tras la tragedia de Urda es \"un grave error\"",
+      "medio": "Europa Press",
+      "url": "https://www.europapress.es/nacional/noticia-feijoo-pide-sindicatos-reconsiderar-huelga-general-porque-tragedia-urda-grave-error-20261103093804.html",
+      "fecha": "2026-11-03T08:38+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "Feijóo reclama a los sindicatos que desconvoquen la huelga del 11N por el accidente de Urda: \"Es un grave error\"",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/politica/feijoo-reclama-sindicatos-desconvoquen-huelga-11n-accidente-urda-grave-error_1_13632870.html",
+      "fecha": "2026-11-03T08:34+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "Feijóo pide a los sindicatos que reconsideren la huelga del 11-N tras el accidente de tren: “Es un grave error”",
+      "medio": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/politica/20261103/11674769/feijoo-pide-sindicatos-reconsideren-huelga-11-n-accidente-tren-grave-error.html",
+      "fecha": "2026-11-03T08:30+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
     {
       "titulo": "Feijóo trata de acentuar su perfil de gestor frente a un PSOE “desnortado”",
       "medio": "La Vanguardia",
@@ -3144,99 +3237,6 @@
       "partidos": [
         "pp",
         "vox"
-      ]
-    },
-    {
-      "titulo": "Los \"independientes\" de Vox que irán en la papeleta del PP: seis perfiles vinculados al partido de Abascal y organizaciones satélite",
-      "medio": "El Mundo",
-      "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/10/27/6ae07c9321efa071288b456e.html",
-      "fecha": "2026-10-27T11:24+00:00",
-      "partidos": [
-        "pp",
-        "vox"
-      ]
-    },
-    {
-      "titulo": "Movimiento Sumar no estará en las listas de Frente Amplio al Congreso y Senado en Castilla-La Mancha",
-      "medio": "elDiario.es",
-      "url": "https://www.eldiario.es/castilla-la-mancha/politica/movimiento-sumar-no-estara-listas-frente-amplio-congreso-senado-castilla-mancha_1_13617978.html",
-      "fecha": "2026-10-27T11:20+00:00",
-      "partidos": [
-        "sumar"
-      ]
-    },
-    {
-      "titulo": "IU lidera las listas de Frente Amplio al Congreso en 29 provincias mientras Sumar lo hace en seis",
-      "medio": "Europa Press",
-      "url": "https://www.europapress.es/nacional/noticia-iu-lidera-listas-frente-amplio-congreso-29-provincias-mientras-sumar-hace-seis-20261027114822.html",
-      "fecha": "2026-10-27T10:48+00:00",
-      "partidos": [
-        "sumar"
-      ]
-    },
-    {
-      "titulo": "EH Bildu se niega a condenar los sabotajes de cientos de jóvenes que gritaban \"¡Gora ETA militarra!\" en Bilbao",
-      "medio": "El Mundo",
-      "url": "https://www.elmundo.es/pais-vasco/2026/10/27/6ae07acafc6c8371778b4579.html",
-      "fecha": "2026-10-27T10:37+00:00",
-      "partidos": [
-        "bildu"
-      ]
-    },
-    {
-      "titulo": "El PP borra de la Generalitat Valenciana la subdirección de Cambio Climático y la rebautiza como “cambios meteorológicos extremos”",
-      "medio": "elDiario.es",
-      "url": "https://www.eldiario.es/comunitat-valenciana/politica/gobierno-valenciano-borra-referencias-cambio-climatico-departamento-pasa-llamarse-cambios-meteorologicos-extremos_1_13617624.html",
-      "fecha": "2026-10-27T10:28+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Juan Vivas, presidente de Ceuta, sobre la gestión de Pedro Sánchez: \"Cuando estaban diciendo que quedaban 2.500 personas, quedaban 30.000 personas\"",
-      "medio": "El Confidencial",
-      "url": "https://www.elconfidencial.com/espana/2026-10-27/juan-vivas-presidente-ceuta-gestion-pedro-sanchez-30000-personas-1qrt_4453746/",
-      "fecha": "2026-10-27T10:23+00:00",
-      "partidos": [
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "Feijóo, tras pactar con Vox no presentarse en algunas provincias al Senado: “Nadie puede renunciar a lo que no tiene”",
-      "medio": "El País",
-      "url": "https://elpais.com/espana/elecciones-generales/2026-10-27/feijoo-sobre-su-pacto-con-vox-al-senado-el-pp-ya-no-es-una-referencia-por-renunciar-a-lo-que-no-tiene.html",
-      "fecha": "2026-10-27T10:08+00:00",
-      "partidos": [
-        "pp",
-        "vox"
-      ]
-    },
-    {
-      "titulo": "El Frente Amplio no tiene quien le siga en redes sociales, pero activa un plan: “La alianza”",
-      "medio": "El País",
-      "url": "https://elpais.com/espana/elecciones-generales/2026-10-27/el-frente-amplio-no-tiene-quien-le-siga-en-redes-sociales-pero-activa-un-plan-la-alianza.html",
-      "fecha": "2026-10-27T09:55+00:00",
-      "partidos": [
-        "sumar"
-      ]
-    },
-    {
-      "titulo": "La exlíder de Podemos Andalucía se suma a la candidatura del Frente Amplio por Málaga tras dimitir del partido morado",
-      "medio": "elDiario.es",
-      "url": "https://www.eldiario.es/andalucia/exlider-andalucia-suma-candidatura-frente-amplio-malaga-dimitir-partido-morado_1_13617696.html",
-      "fecha": "2026-10-27T09:50+00:00",
-      "partidos": [
-        "sumar",
-        "podemos"
-      ]
-    },
-    {
-      "titulo": "Miriam González sugiere que Sánchez es una línea roja para pactar con el PSOE: \"Ya tenía que haber dimitido\"",
-      "medio": "Europa Press",
-      "url": "https://www.europapress.es/nacional/noticia-miriam-gonzalez-sugiere-sanchez-linea-roja-pactar-psoe-ya-tenia-haber-dimitido-20261027102614.html",
-      "fecha": "2026-10-27T09:26+00:00",
-      "partidos": [
-        "psoe"
       ]
     }
   ],
