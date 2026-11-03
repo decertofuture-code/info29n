@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-03T17:46+00:00",
+  "actualizado": "2026-11-03T21:40+00:00",
   "temas": [
     {
       "id": "vivienda",
@@ -449,6 +449,106 @@
   ],
   "noticias": [
     {
+      "titulo": "Puente libera al PSOE de la carga de tenerlo en el Gobierno y en la campaña",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/politica/puente-libera-psoe-carga-tenerlo-gobierno-campana_129_13635744.html",
+      "fecha": "2026-11-03T21:24+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "PP y Vox advierten de que la caída de Puente «no cuela»: «Debe irse todo el Gobierno»",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/pp-vox-advierten-caida-puente-basta-debe-20261103220446-nt.html",
+      "fecha": "2026-11-03T21:18+00:00",
+      "partidos": [
+        "pp",
+        "vox"
+      ]
+    },
+    {
+      "titulo": "Vox augura un futuro judicial contra Puente: «Vamos a hacer lo imposible para que pague por las 116 muertes»",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/vox-augura-futuro-judicial-puente-vamos-imposible-20261103193557-nt.html",
+      "fecha": "2026-11-03T21:07+00:00",
+      "partidos": [
+        "vox"
+      ]
+    },
+    {
+      "titulo": "Vox tras la dimisión de Puente: \"No basta con la marcha de Puente. Sánchez e Illa deben dimitir\"",
+      "medio": "Europa Press",
+      "url": "https://www.europapress.es/catalunya/noticia-vox-dimision-puente-no-basta-marcha-puente-sanchez-illa-deben-dimitir-20261103215246.html",
+      "fecha": "2026-11-03T20:52+00:00",
+      "partidos": [
+        "vox"
+      ]
+    },
+    {
+      "titulo": "El Frente Amplio agradece a Puente su \"dignidad\" por dimitir y las derechas apuntan ahora hacia Sánchez: \"Es el capo\"",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/politica/pp-carga-puente-dimision-frente-amplio-le-agradece-dignidad_1_13635770.html",
+      "fecha": "2026-11-03T20:51+00:00",
+      "partidos": [
+        "sumar"
+      ]
+    },
+    {
+      "titulo": "Óscar Puente, el político que aspiraba a suceder a Pedro Sánchez en el PSOE y dimite tras dos accidentes de trenes con 115 muertos",
+      "medio": "El Mundo",
+      "url": "https://www.elmundo.es/espana/2026/11/03/6aea425ae85ecedd2a8b4588.html",
+      "fecha": "2026-11-03T20:29+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "Puente dimite como ministro y candidato del PSOE: \"Es una decisión de empatía con las víctimas\"",
+      "medio": "Europa Press",
+      "url": "https://www.europapress.es/economia/transportes-00343/noticia-puente-avanza-dimision-tragedia-urda-decision-empatia-victimas-20261103211310.html",
+      "fecha": "2026-11-03T20:13+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "El PP acusa a Page de «engañar» a los regantes del Alto Guadiana con una prórroga sin aprobar",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/castilla-la-mancha/pp-acusa-page-enganar-regantes-alto-guadiana-20261103205231-nt.html",
+      "fecha": "2026-11-03T19:52+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "El PP clama contra Puente por su papel en Urda: «¿Cuántos móviles sonaban en esos vagones mientras filtraba audios?»",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/pp-clama-puente-papel-urda-cuantos-moviles-20261103190701-nt.html",
+      "fecha": "2026-11-03T19:48+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "El Congreso reprueba en bloque la gestión de Puente tras la tragedia de Urda y todos los partidos menos Bildu piden su dimisión",
+      "medio": "20minutos",
+      "url": "https://www.20minutos.es/nacional/congreso-reprueba-bloque-gestion-puente-tras-tragedia-urda-todos-los-partidos-menos-bildu-piden-su-dimision_7056807_0.html",
+      "fecha": "2026-11-03T19:33+00:00",
+      "partidos": [
+        "bildu"
+      ]
+    },
+    {
+      "titulo": "Albiol pide aglutinar el apoyo en el PP y evitar el tándem “Sánchez con Colau de vicepresidenta”",
+      "medio": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/politica/20261103/11675285/albiol-pide-aglutinar-apoyo-pp-evitar-tandem-sanchez-colau-vicepresidenta.html",
+      "fecha": "2026-11-03T18:56+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
       "titulo": "El consejero de Cultura de Vox cuestiona la neutralidad ideológica de la Seminci y acusa al festival de “instrumentalización política”",
       "medio": "elDiario.es",
       "url": "https://www.eldiario.es/cultura/consejero-cultura-vox-cuestiona-neutralidad-ideologica-seminci-acusa-festival-instrumentalizacion-politica_1_13635096.html",
@@ -870,6 +970,15 @@
       "medio": "La Vanguardia",
       "url": "https://www.lavanguardia.com/politica/20261103/11674769/feijoo-pide-sindicatos-reconsideren-huelga-11-n-accidente-tren-grave-error.html",
       "fecha": "2026-11-03T08:30+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "Dimite Óscar Puente, en directo | Primera reacción del PP: \"Llega 116 muertos tarde\"",
+      "medio": "20minutos",
+      "url": "https://www.20minutos.es/nacional/directo-accidente-tren-urda-oscar-puente-congreso-ultima-hora_7056385_6.html",
+      "fecha": "2026-11-03T07:15+00:00",
       "partidos": [
         "pp"
       ]
@@ -3121,117 +3230,6 @@
       "fecha": "2026-10-27T21:40+00:00",
       "partidos": [
         "pp"
-      ]
-    },
-    {
-      "titulo": "Feijóo convierte los disturbios en material de campaña ante el auge de Vox en las encuestas",
-      "medio": "elDiario.es",
-      "url": "https://www.eldiario.es/politica/feijoo-convierte-disturbios-material-campana-auge-vox-encuestas_1_13619429.html",
-      "fecha": "2026-10-27T21:30+00:00",
-      "partidos": [
-        "pp",
-        "vox"
-      ]
-    },
-    {
-      "titulo": "PP, una táctica capaz de sepultar la democracia",
-      "medio": "elDiario.es",
-      "url": "https://www.eldiario.es/opinion/zona-critica/pp-tactica-capaz-sepultar-democracia_129_13618903.html",
-      "fecha": "2026-10-27T21:30+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Abascal y Orriols: la patria era lo de menos",
-      "medio": "elDiario.es",
-      "url": "https://www.eldiario.es/opinion/zona-critica/abascal-orriols-patria_129_13619390.html",
-      "fecha": "2026-10-27T21:30+00:00",
-      "partidos": [
-        "vox"
-      ]
-    },
-    {
-      "titulo": "Abascal anuncia una querella contra el subdelegado del Gobierno en Zamora por «actos de intimidación» durante su mitin",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/castilla-leon/abascal-anuncia-querella-subdelegado-gobierno-zamora-actos-20261027203917-nt.html",
-      "fecha": "2026-10-27T21:09+00:00",
-      "partidos": [
-        "vox"
-      ]
-    },
-    {
-      "titulo": "Velázquez reivindica a los 104 alcaldes toledanos del PP como «aval» para gobernar España",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/castilla-la-mancha/toledo/pueblos/velazquez-reivindica-104-alcaldes-toledanos-pp-aval-20261027214737-nt.html",
-      "fecha": "2026-10-27T20:47+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Un abogado ligado al PP de Madrid denuncia un robo de documentación sobre disputas de afiliados",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/abogado-ligado-pp-madrid-denuncia-robo-documentacion-20261027214016-nt.html",
-      "fecha": "2026-10-27T20:42+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Núñez pide a los votantes socialistas de la región que apoyen a Feijóo para rebajar la tensión en las calles",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/castilla-la-mancha/nunez-pide-votantes-socialistas-region-apoyen-feijoo-20261027212839-nt.html",
-      "fecha": "2026-10-27T20:28+00:00",
-      "partidos": [
-        "pp",
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "Abascal acusa sin pruebas al subdelegado del Gobierno en Zamora de estar \"detrás\" de una protesta contra el acto de Vox",
-      "medio": "elDiario.es",
-      "url": "https://www.eldiario.es/castilla-y-leon/politica/abascal-acusa-pruebas-subdelegado-gobierno-zamora-detras-protesta-acto-vox_1_13619957.html",
-      "fecha": "2026-10-27T19:54+00:00",
-      "partidos": [
-        "vox"
-      ]
-    },
-    {
-      "titulo": "Abascal anuncia una querella contra el subdelegado del Gobierno en Zamora por los «actos de intimidación» durante su mitin",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/castilla-leon/abascal-anuncia-querella-subdelegado-gobierno-zamora-actos-20261027203458-nt.html",
-      "fecha": "2026-10-27T19:52+00:00",
-      "partidos": [
-        "vox"
-      ]
-    },
-    {
-      "titulo": "El acuerdo con Frente Amplio al Senado deja fuera a Tierraseca y a los alcaldes de Cañete, Carrizosa y Consuegra",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/castilla-la-mancha/toledo/acuerdo-frente-amplio-senado-deja-tierraseca-alcaldes-20261027202644-nt.html",
-      "fecha": "2026-10-27T19:28+00:00",
-      "partidos": [
-        "sumar"
-      ]
-    },
-    {
-      "titulo": "Gabriel Rufián e Irene Montero en 'La Revuelta', en directo | Los candidatos de ERC y Podemos acuden a su primera entrevista juntos",
-      "medio": "20minutos",
-      "url": "https://www.20minutos.es/nacional/gabriel-rufian-irene-montero-revuelta-directo-los-candidatos-erc-podemos-acuden-su-primera-entrevista-juntos_7054105_6.html",
-      "fecha": "2026-10-27T19:11+00:00",
-      "partidos": [
-        "erc",
-        "podemos"
-      ]
-    },
-    {
-      "titulo": "Vox se querella contra Lastra por los disturbios en el acto de Abascal en Avilés pese a que ya no era Delegada del Gobierno",
-      "medio": "elDiario.es",
-      "url": "https://www.eldiario.es/asturias/vox-querella-lastra-acto-abascal_1_13619918.html",
-      "fecha": "2026-10-27T18:49+00:00",
-      "partidos": [
-        "vox"
       ]
     }
   ],
