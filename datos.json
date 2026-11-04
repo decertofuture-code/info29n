@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-04T17:51+00:00",
+  "actualizado": "2026-11-04T21:46+00:00",
   "temas": [
     {
       "id": "vivienda",
@@ -449,6 +449,97 @@
   ],
   "noticias": [
     {
+      "titulo": "El PSOE pide a la Junta Electoral que Puente salga de la lista al Congreso",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/castilla-leon/puente-presentado-junta-electoral-renuncia-candidato-congreso-20261104215347-nt.html",
+      "fecha": "2026-11-04T20:53+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "El PSOE pide a la Junta Electoral Provincial que Puente salga de la lista al Congreso",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/castilla-leon/papeleta-congreso-valladolid-incluira-puente-presentado-renuncia-20261104192812-nt.html",
+      "fecha": "2026-11-04T20:47+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "El PSOE enmienda la nueva Ordenanza de Movilidad por «intentar colar» la ZBE",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/castilla-la-mancha/toledo/psoe-enmienda-nueva-ordenanza-movilidad-intentar-colar-20261104205551-nt.html",
+      "fecha": "2026-11-04T20:17+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "El PSOE acusa al alcalde de Talavera de ser «el principal problema» para la ciudad",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/castilla-la-mancha/toledo/talavera/psoe-acusa-alcalde-talavera-principal-problema-ciudad-20261104210230-nt.html",
+      "fecha": "2026-11-04T20:04+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "El PP presenta 60 enmiendas a la Ley de Acompañamiento y exige a Page que deflacte el IRPF",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/castilla-la-mancha/pp-presenta-enmiendas-ley-acompanamiento-exige-page-20261104205152-nt.html",
+      "fecha": "2026-11-04T19:52+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "Feijóo, a los que le llaman \"aburrido\" o le afean no colgar listas en Spotify: \"No me presento para entretener\"",
+      "medio": "Europa Press",
+      "url": "https://www.europapress.es/nacional/noticia-feijoo-le-llaman-aburrido-le-afean-no-colgar-listas-spotify-no-me-presento-entretener-20261104204806.html",
+      "fecha": "2026-11-04T19:48+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "Vox exige el pago inmediato de la carrera profesional sanitaria en Castilla-La Mancha",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/castilla-la-mancha/vox-exige-pago-inmediato-carrera-profesional-sanitaria-20261104200854-nt.html",
+      "fecha": "2026-11-04T19:08+00:00",
+      "partidos": [
+        "vox"
+      ]
+    },
+    {
+      "titulo": "Abascal replica a Sánchez: \"No, no todos somos iguales, algunos no tenemos las manos manchadas de sangre\"",
+      "medio": "Europa Press",
+      "url": "https://www.europapress.es/nacional/noticia-abascal-replica-sanchez-no-no-todos-somos-iguales-algunos-no-tenemos-manos-manchadas-sangre-20261104200229.html",
+      "fecha": "2026-11-04T19:02+00:00",
+      "partidos": [
+        "vox"
+      ]
+    },
+    {
+      "titulo": "Cargos del PSOE reciben con alivio la dimisión de Puente y esperan que sirva para \"remontar\" en la campaña electoral",
+      "medio": "Europa Press",
+      "url": "https://www.europapress.es/nacional/noticia-cargos-psoe-reciben-alivio-dimision-puente-esperan-sirva-remontar-campana-electoral-20261104195339.html",
+      "fecha": "2026-11-04T18:53+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "\"Mayday, mayday, Canarias está siendo invadida\": el PP canario reproduce el discurso antiinmigracion de Vox",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/canariasahora/politica/canarias-invadida-mensaje-desesperado-vicepresidente-canario-pp-llegada-cayucos_1_13638658.html",
+      "fecha": "2026-11-04T18:29+00:00",
+      "partidos": [
+        "pp",
+        "vox"
+      ]
+    },
+    {
       "titulo": "El PP andaluz cuestiona la dimisión de Óscar Puente: «La decisión se tomó en un oscuro despacho por el Tezanos de turno»",
       "medio": "ABC",
       "url": "https://www.abc.es/espana/andalucia/pp-andaluz-cuestiona-dimision-oscar-puente-decision-20261104180633-nts.html",
@@ -471,6 +562,15 @@
       "medio": "La Vanguardia",
       "url": "https://www.lavanguardia.com/politica/20261104/11676184/milei-planta-rey-arranque-cumbre-iberoamericana-reune-abascal.html",
       "fecha": "2026-11-04T16:51+00:00",
+      "partidos": [
+        "vox"
+      ]
+    },
+    {
+      "titulo": "Santiago Abascal convierte el relevo de Óscar Puente en un ataque al presidente: “Siempre tiene un fusible que desconectar”",
+      "medio": "El País",
+      "url": "https://elpais.com/espana/2026-11-04/abascal-convierte-el-relevo-de-puente-en-un-ataque-al-presidente-siempre-tiene-un-fusible-que-desconectar.html",
+      "fecha": "2026-11-04T15:08+00:00",
       "partidos": [
         "vox"
       ]
@@ -3130,110 +3230,6 @@
       "fecha": "2026-10-28T22:40+00:00",
       "partidos": [
         "pp"
-      ]
-    },
-    {
-      "titulo": "Vox lanza soflamas contra el Gobierno ante Feijóo y Ayuso en el acto de silencio por las víctimas del choque de Urda",
-      "medio": "elDiario.es",
-      "url": "https://www.eldiario.es/madrid/somos/vox-lanza-soflamas-gobierno-feijoo-ayuso-acto-silencio-victimas-choque-urda_1_13622637.html",
-      "fecha": "2026-10-28T19:55+00:00",
-      "partidos": [
-        "pp",
-        "vox"
-      ]
-    },
-    {
-      "titulo": "La movilización, clave para decidir si el cuarto escaño de La Rioja va al PSOE o a Vox: \"Hay un empate técnico\"",
-      "medio": "elDiario.es",
-      "url": "https://www.eldiario.es/la-rioja/movilizacion-clave-decidir-si-cuarto-escano-rioja-psoe-vox-hay-empate-tecnico_1_13621224.html",
-      "fecha": "2026-10-28T19:38+00:00",
-      "partidos": [
-        "psoe",
-        "vox"
-      ]
-    },
-    {
-      "titulo": "Abascal carga contra Óscar Puente, \"el ministro de la muerte\": \"No vamos a creer nada que diga el Gobierno hasta el 29N\"",
-      "medio": "elDiario.es",
-      "url": "https://www.eldiario.es/castilla-y-leon/politica/abascal-carga-oscar-puente-ministro-muerte-no-creer-diga-gobierno-29n_1_13619749.html",
-      "fecha": "2026-10-28T19:30+00:00",
-      "partidos": [
-        "vox"
-      ]
-    },
-    {
-      "titulo": "Accidente de tren en Toledo: muertos, heridos, causas, y comparecencia de Pedro Sánchez hoy, en directo",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/accidente-ave-sevilla-madrid-toledo-directo-heridos-20261028094604-di.html",
-      "fecha": "2026-10-28T17:28+00:00",
-      "partidos": [
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "Las reacciones al accidente de Urda: consternación de PP y PSOE y acusaciones al Gobierno de Abascal",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/reacciones-accidente-urda-consternacion-pp-psoe-acusaciones-20261028182258-nt.html",
-      "fecha": "2026-10-28T17:22+00:00",
-      "partidos": [
-        "pp",
-        "psoe",
-        "vox"
-      ]
-    },
-    {
-      "titulo": "El subdelegado del Gobierno defiende que durante el acto de Abascal en Zamora se adoptaron «las medidas policiales oportunas«",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/castilla-leon/blanco-defiende-acto-abascal-zamora-adoptaron-medidas-20261028131022-nt.html",
-      "fecha": "2026-10-28T17:16+00:00",
-      "partidos": [
-        "vox"
-      ]
-    },
-    {
-      "titulo": "Abascal forma una lista de Vox por Madrid repleta de cargos locales y la cierra con Isabel Pérez Moñino",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/madrid/abascal-forma-lista-vox-madrid-repleta-cargos-20261028175016-nt.html",
-      "fecha": "2026-10-28T17:11+00:00",
-      "partidos": [
-        "vox"
-      ]
-    },
-    {
-      "titulo": "El PSOE se descuelga y se abstiene en la moción de censura contra Landaluce en Algeciras",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/andalucia/psoe-pone-perfil-abstiene-mocion-censura-landaluce-20261028115351-nts.html",
-      "fecha": "2026-10-28T16:57+00:00",
-      "partidos": [
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "Feijóo reclama una \"investigación gubernamental inmediata\" sobre la tragedia de Urda: \"España tiene derecho a saber\"",
-      "medio": "El Mundo",
-      "url": "https://www.elmundo.es/espana/2026/10/28/6ae220fee85ece771d8b4592.html",
-      "fecha": "2026-10-28T16:25+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "El Frente Amplio tampoco presenta listas en Ceuta y Melilla y facilita la concentración del voto en el PSOE",
-      "medio": "El Mundo",
-      "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/10/28/6ae1e959e4d4d821128b45ad.html",
-      "fecha": "2026-10-28T16:22+00:00",
-      "partidos": [
-        "psoe",
-        "sumar"
-      ]
-    },
-    {
-      "titulo": "El Frente Amplio exige al Gobierno que asuma \"responsabilidades políticas\" y pide una auditoría de la red ferroviaria",
-      "medio": "elDiario.es",
-      "url": "https://www.eldiario.es/politica/frente-amplio-exige-gobierno-asuma-responsabilidades-politicas-pide-auditoria-red-ferroviaria_1_13622426.html",
-      "fecha": "2026-10-28T15:57+00:00",
-      "partidos": [
-        "sumar"
       ]
     }
   ],
