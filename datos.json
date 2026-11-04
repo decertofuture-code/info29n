@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-04T14:10+00:00",
+  "actualizado": "2026-11-04T17:51+00:00",
   "temas": [
     {
       "id": "vivienda",
@@ -449,6 +449,61 @@
   ],
   "noticias": [
     {
+      "titulo": "El PP andaluz cuestiona la dimisión de Óscar Puente: «La decisión se tomó en un oscuro despacho por el Tezanos de turno»",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/andalucia/pp-andaluz-cuestiona-dimision-oscar-puente-decision-20261104180633-nts.html",
+      "fecha": "2026-11-04T17:06+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "El PP de Toledo acusa a Sánchez de dejar «la nada más absoluta» en vivienda tras ocho años de Gobierno",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/castilla-la-mancha/toledo/pp-toledo-acusa-sanchez-dejar-absoluta-vivienda-20261104180318-nt.html",
+      "fecha": "2026-11-04T17:03+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "Milei planta al Rey en el arranque de la Cumbre Iberoamericana y se reúne con Abascal",
+      "medio": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/politica/20261104/11676184/milei-planta-rey-arranque-cumbre-iberoamericana-reune-abascal.html",
+      "fecha": "2026-11-04T16:51+00:00",
+      "partidos": [
+        "vox"
+      ]
+    },
+    {
+      "titulo": "El Gobierno y la izquierda celebran la derrota de Trump mientras Feijóo advierte que en España puede ocurrir \"un vuelco político\"",
+      "medio": "20minutos",
+      "url": "https://www.20minutos.es/nacional/gobierno-izquierda-celebran-derrota-trump-mientras-feijoo-advierte-que-espana-puede-ocurrir-un-vuelco-politico_7057186_0.html",
+      "fecha": "2026-11-04T15:04+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "El TS archiva una querella de Vox contra Sánchez y el Consejo de Ministros por la entrada masiva en Ceuta",
+      "medio": "El Confidencial",
+      "url": "https://www.elconfidencial.com/espana/2026-11-04/tribunal-supremo-archiva-querella-ceuta-1tps_4458859/",
+      "fecha": "2026-11-04T14:20+00:00",
+      "partidos": [
+        "vox"
+      ]
+    },
+    {
+      "titulo": "Una marcha universitaria tiñe de verde de Ferraz a Génova: \"Ayuso promueve la privada reduciendo plazas en la pública\"",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/madrid/somos/marcha-universitaria-tine-verde-ferraz-genova-ayuso-promueve-privada-reduciendo-plazas-publica_1_13637284.html",
+      "fecha": "2026-11-04T14:17+00:00",
+      "partidos": [
+        "pp",
+        "psoe"
+      ]
+    },
+    {
       "titulo": "El Supremo archiva una querella de Vox contra Pedro Sánchez y el Consejo de Ministros por la entrada masiva en Ceuta",
       "medio": "Europa Press",
       "url": "https://www.europapress.es/nacional/noticia-supremo-archiva-querella-vox-contra-pedro-sanchez-consejo-ministros-entrada-masiva-ceuta-20261104145600.html",
@@ -456,6 +511,26 @@
       "partidos": [
         "psoe",
         "vox"
+      ]
+    },
+    {
+      "titulo": "El Supremo rechaza imputar a Pedro Sánchez por la crisis de Ceuta a petición de Vox y Manos Limpias",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/politica/supremo-rechaza-imputar-pedro-sanchez-crisis-ceuta-peticion-vox-manos-limpias_1_13637976.html",
+      "fecha": "2026-11-04T13:55+00:00",
+      "partidos": [
+        "psoe",
+        "vox"
+      ]
+    },
+    {
+      "titulo": "El alcalde de Salamanca del PP alude a Pedro Sánchez como un \"cáncer\" que \"sigue ahí\" tras la dimisión de Puente",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/castilla-y-leon/politica/alcalde-salamanca-pp-alude-pedro-sanchez-cancer-sigue-dimision-puente_1_13637970.html",
+      "fecha": "2026-11-04T13:51+00:00",
+      "partidos": [
+        "pp",
+        "psoe"
       ]
     },
     {
@@ -3159,78 +3234,6 @@
       "fecha": "2026-10-28T15:57+00:00",
       "partidos": [
         "sumar"
-      ]
-    },
-    {
-      "titulo": "El Frente Amplio reclama “responsabilidades políticas” tras el accidente ferroviario de Toledo",
-      "medio": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/politica/20261028/11670412/frente-amplio-reclama-responsabilidades-politicas-accidente-ferroviario-toledo.html",
-      "fecha": "2026-10-28T15:54+00:00",
-      "partidos": [
-        "sumar"
-      ]
-    },
-    {
-      "titulo": "El Frente Amplio exige que se asuman \"responsabilidades políticas\" en el Gobierno tras el trágico accidente de tren en Urda",
-      "medio": "El Mundo",
-      "url": "https://www.elmundo.es/espana/2026/10/28/6ae217ee21efa0314d8b45b0.html",
-      "fecha": "2026-10-28T15:47+00:00",
-      "partidos": [
-        "sumar"
-      ]
-    },
-    {
-      "titulo": "Feijóo exige una \"revisión completa independiente de toda la red ferroviaria\" tras el accidente de Toledo",
-      "medio": "elDiario.es",
-      "url": "https://www.eldiario.es/politica/feijoo-exige-revision-completa-independiente-red-ferroviaria-accidente-toledo_1_13622367.html",
-      "fecha": "2026-10-28T15:45+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Frente Amplio pide que se asuman \"responsabilidades políticas\" tras el accidente de tren de Toledo: \"Es inadmisible\"",
-      "medio": "20minutos",
-      "url": "https://www.20minutos.es/nacional/frente-amplio-pide-que-se-asuman-responsabilidades-politicas-tras-accidente-tren-toledo-es-inadmisible_7054598_0.html",
-      "fecha": "2026-10-28T15:42+00:00",
-      "partidos": [
-        "sumar"
-      ]
-    },
-    {
-      "titulo": "Feijóo reclama una revisión completa del estado de toda la red ferroviaria porque \"los españoles merecen respuestas\"",
-      "medio": "20minutos",
-      "url": "https://www.20minutos.es/nacional/feijoo-reclama-una-revision-completa-estado-toda-red-ferroviaria-porque-los-espanoles-merecen-respuestas_7054588_0.html",
-      "fecha": "2026-10-28T15:39+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Feijóo exige una investigación inmediata del Gobierno y otra judicial tras el choque de trenes en Toledo",
-      "medio": "Europa Press",
-      "url": "https://www.europapress.es/nacional/noticia-feijoo-pide-saber-medidas-tomaron-adamuz-exige-investigacion-gobierno-otra-judicial-20261028163815.html",
-      "fecha": "2026-10-28T15:38+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Feijóo exige explicaciones a Sánchez tras el accidente: “Exigiremos saber en qué se gastó cada euro”",
-      "medio": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/politica/20261028/11670378/feijoo-exige-explicaciones-sanchez-accidente-exigiremos-que-gasto-euro.html",
-      "fecha": "2026-10-28T15:27+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Feijóo ofrece una declaración tras el accidente ferroviario en Toledo",
-      "medio": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/politica/20261028/11670370/feijoo-ofrece-declaracion-accidente-ferroviario-toledo.html",
-      "fecha": "2026-10-28T15:23+00:00",
-      "partidos": [
-        "pp"
       ]
     }
   ],
