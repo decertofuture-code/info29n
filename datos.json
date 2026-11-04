@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-04T09:57+00:00",
+  "actualizado": "2026-11-04T14:10+00:00",
   "temas": [
     {
       "id": "vivienda",
@@ -449,12 +449,174 @@
   ],
   "noticias": [
     {
+      "titulo": "El Supremo archiva una querella de Vox contra Pedro Sánchez y el Consejo de Ministros por la entrada masiva en Ceuta",
+      "medio": "Europa Press",
+      "url": "https://www.europapress.es/nacional/noticia-supremo-archiva-querella-vox-contra-pedro-sanchez-consejo-ministros-entrada-masiva-ceuta-20261104145600.html",
+      "fecha": "2026-11-04T13:56+00:00",
+      "partidos": [
+        "psoe",
+        "vox"
+      ]
+    },
+    {
+      "titulo": "Abascal: «Pedro Sánchez siempre tiene un fusible que desconectar, ahora Puente»",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/castilla-la-mancha/abascal-pedro-sanchez-siempre-fusible-desconectar-puente-20261104142701-nt.html",
+      "fecha": "2026-11-04T13:28+00:00",
+      "partidos": [
+        "psoe",
+        "vox"
+      ]
+    },
+    {
+      "titulo": "Abascal cree que Cuerpo es \"otro fusible\" para que Sánchez evada \"el banquillo\" y su responsabilidad",
+      "medio": "Europa Press",
+      "url": "https://www.europapress.es/nacional/noticia-abascal-cree-cuerpo-otro-fusible-sanchez-evada-banquillo-responsabilidad-20261104142724.html",
+      "fecha": "2026-11-04T13:27+00:00",
+      "partidos": [
+        "vox"
+      ]
+    },
+    {
+      "titulo": "Feijóo contradice a Moreno y Abascal: negarse a usar el AVE es “apoyar el descrédito” de España",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/politica/feijoo-contradice-moreno-abascal-negarse-ave-apoyar-descredito-espana_1_13637787.html",
+      "fecha": "2026-11-04T13:24+00:00",
+      "partidos": [
+        "pp",
+        "vox"
+      ]
+    },
+    {
+      "titulo": "Prioridad nacional y rebaja de impuestos marcan los nuevos presupuestos PP-Vox",
+      "medio": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/politica/20261104/11675959/prioridad-nacional-rebaja-impuestos-marcan-nuevos-presupuestos-pp-vox.html",
+      "fecha": "2026-11-04T12:36+00:00",
+      "partidos": [
+        "pp",
+        "vox"
+      ]
+    },
+    {
+      "titulo": "Feijóo dice ahora que fue crítico con Mazón tras la dana: de los abrazos y aplausos al \"Carlos, estamos orgullosos\"",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/comunitat-valenciana/politica/feijoo-dice-ahora-critico-mazon-dana-abrazos-aplausos-carlos-orgullosos_1_13636929.html",
+      "fecha": "2026-11-04T12:34+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "Satisfacción en la izquierda por la derrota de Trump, Feijóo avisa del “vuelco” y Abascal le quita hierro",
+      "medio": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/politica/20261104/11675961/satisfaccion-izquierda-derrota-trump-feijoo-avisa-vuelco-abascal-le-quita-hierro.html",
+      "fecha": "2026-11-04T12:34+00:00",
+      "partidos": [
+        "pp",
+        "vox"
+      ]
+    },
+    {
+      "titulo": "Feijóo apunta a Sánchez y acusa a Puente de dimitir “de forma indigna”",
+      "medio": "El País",
+      "url": "https://elpais.com/espana/2026-11-04/feijoo-apunta-a-sanchez-y-acusa-a-puente-de-dimitir-de-forma-indigna.html",
+      "fecha": "2026-11-04T12:06+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "El PP cede ante Vox y deja sin efecto la Zona de Bajas Emisiones de Zaragoza: solo se multará en episodios \"excepcionales\"",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/aragon/politica/pp-cede-vox-deja-efecto-zona-bajas-emisiones-zaragoza-multara-episodios-excepcionales_1_13637189.html",
+      "fecha": "2026-11-04T11:55+00:00",
+      "partidos": [
+        "pp",
+        "vox"
+      ]
+    },
+    {
+      "titulo": "Feijóo critica el \"teatrillo\" con la dimisión de Puente y cree que Sánchez lo sabía: \"Es una forma indigna de irse\"",
+      "medio": "Europa Press",
+      "url": "https://www.europapress.es/nacional/noticia-feijoo-critica-teatrillo-dimision-puente-cree-sanchez-sabia-forma-indigna-irse-20261104123349.html",
+      "fecha": "2026-11-04T11:33+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "PP y Vox presentan el primer presupuesto de su nueva coalición con la \"prioridad nacional\" y la reducción de impuestos como base: \"Es el mejor de la historia\"",
+      "medio": "El Mundo",
+      "url": "https://www.elmundo.es/aragon/2026/11/04/6aeb08a821efa03e7a8b4593.html",
+      "fecha": "2026-11-04T11:07+00:00",
+      "partidos": [
+        "pp",
+        "vox"
+      ]
+    },
+    {
+      "titulo": "Habrá encuentro de Abascal con Milei en plena precampaña electoral: el líder de Vox hace hueco esta vez al presidente argentino",
+      "medio": "El Mundo",
+      "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/04/6aeafa7e21efa029678b45d0.html",
+      "fecha": "2026-11-04T10:27+00:00",
+      "partidos": [
+        "vox"
+      ]
+    },
+    {
+      "titulo": "Abascal se desmarca de Feijóo y considera “irresponsable” pedir a los ciudadanos que suban al AVE",
+      "medio": "El País",
+      "url": "https://elpais.com/espana/elecciones-generales/2026-11-04/abascal-se-desmarca-de-feijoo-y-califica-de-irresponsable-pedir-que-se-suba-en-el-ave.html",
+      "fecha": "2026-11-04T10:18+00:00",
+      "partidos": [
+        "pp",
+        "vox"
+      ]
+    },
+    {
+      "titulo": "Abascal no se subiría a un tren y ve “irresponsable” que Feijóo diga que el sistema merece “confianza”",
+      "medio": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/politica/20261104/11675787/abascal-subiria-tren-ve-irresponsable-feijoo-diga-sistema-merece-confianza.html",
+      "fecha": "2026-11-04T10:11+00:00",
+      "partidos": [
+        "pp",
+        "vox"
+      ]
+    },
+    {
+      "titulo": "Feijóo cree que Puente ha dimitido por cálculo electoral: \"A Sánchez le tocaba entregar al soldado\"",
+      "medio": "20minutos",
+      "url": "https://www.20minutos.es/nacional/feijoo-cree-que-puente-ha-dimitido-por-calculo-electoral-sanchez-le-tocaba-entregar-su-soldado_7056973_0.html",
+      "fecha": "2026-11-04T09:52+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
       "titulo": "Abascal se reunirá presencialmente este miércoles con Milei",
       "medio": "ABC",
       "url": "https://www.abc.es/espana/abascal-reunira-presencialmente-miercoles-milei-20261104095725-nt.html",
       "fecha": "2026-11-04T09:47+00:00",
       "partidos": [
         "vox"
+      ]
+    },
+    {
+      "titulo": "Feijóo señala que Sánchez debería dimitir “por dignidad” tras el “cese” de Puente",
+      "medio": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/politica/20261104/11675761/feijoo-senala-sanchez-deberia-dimitir-dignidad-cese-puente.html",
+      "fecha": "2026-11-04T09:44+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "Illa defiende ante aliados y oposición la gestión del PSOE al frente del Ministerio de Transportes",
+      "medio": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/politica/20261104/11675757/illa-defiende-gestion-socialista-frente-ministerio-transportes.html",
+      "fecha": "2026-11-04T09:42+00:00",
+      "partidos": [
+        "psoe"
       ]
     },
     {
@@ -3069,164 +3231,6 @@
       "fecha": "2026-10-28T15:23+00:00",
       "partidos": [
         "pp"
-      ]
-    },
-    {
-      "titulo": "El bloque progresista del Poder Judicial carga contra el vocal de Sumar: \"Entrega el Consejo a la derecha\"",
-      "medio": "elDiario.es",
-      "url": "https://www.eldiario.es/politica/bloque-progresista-judicial-carga-vocal-sumar-entrega-consejo-derecha_1_13622220.html",
-      "fecha": "2026-10-28T15:07+00:00",
-      "partidos": [
-        "sumar"
-      ]
-    },
-    {
-      "titulo": "Pedro Sánchez promete llegar “hasta el final” para esclarecer el accidente de tren: “No es asumible para España sufrir dos el mismo año”",
-      "medio": "El País",
-      "url": "https://elpais.com/espana/2026-10-28/pedro-sanchez-promete-llegar-hasta-el-final-para-esclarecer-el-accidente-de-tren-no-es-asumible-para-espana-sufrir-dos-el-mismo-ano.html",
-      "fecha": "2026-10-28T15:06+00:00",
-      "partidos": [
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "Abascal acusa al «Gobierno criminal» de usar el «dolor de la víctimas» del accidente de Urda para cancelar la precampaña del 29N",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/abascal-acusa-gobierno-criminal-usar-dolor-victimas-20261028123006-nt.html",
-      "fecha": "2026-10-28T13:44+00:00",
-      "partidos": [
-        "vox"
-      ]
-    },
-    {
-      "titulo": "Jacinto Muñoz (PP), nuevo alcalde de Algeciras con el apoyo de Vox al prosperar la moción contra un Landaluce ausente",
-      "medio": "elDiario.es",
-      "url": "https://www.eldiario.es/andalucia/cadiz/jacinto-munoz-pp-nuevo-alcalde-algeciras-apoyo-vox-prosperar-mocion-landaluce-ausente_1_13621804.html",
-      "fecha": "2026-10-28T13:21+00:00",
-      "partidos": [
-        "pp",
-        "vox"
-      ]
-    },
-    {
-      "titulo": "El rechazo en febrero de Junts, PP y Vox impide topar precios para evitar subidas excesivas por el accidente",
-      "medio": "elDiario.es",
-      "url": "https://www.eldiario.es/economia/rechazo-congreso-junts-pp-vox-impide-topar-precios-evitar-excesos-accidente_1_13621745.html",
-      "fecha": "2026-10-28T13:00+00:00",
-      "partidos": [
-        "pp",
-        "vox",
-        "junts"
-      ]
-    },
-    {
-      "titulo": "Abascal expresa su “absoluta rabia” y acusa al Gobierno de ser una “organización criminal”",
-      "medio": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/politica/20261028/11670193/abascal-expresa-absoluta-rabia-acusa-gobierno-organizacion-criminal.html",
-      "fecha": "2026-10-28T12:30+00:00",
-      "partidos": [
-        "vox"
-      ]
-    },
-    {
-      "titulo": "El exjuez ligado a las cloacas niega contactos con los Rocho y dice que le presentaron a Leire como una periodista vinculada al PSOE",
-      "medio": "20minutos",
-      "url": "https://www.20minutos.es/nacional/exjuez-ligado-las-cloacas-niega-contactos-con-los-rocho-dice-que-le-presentaron-leire-como-una-periodista-vinculada-psoe_7054481_0.html",
-      "fecha": "2026-10-28T12:20+00:00",
-      "partidos": [
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "El president del Parlament balear (Vox), en el banquillo acusado de un delito de odio",
-      "medio": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/politica/20261028/11670151/le-senne-vox-sienta-banquillo-acusado-delito-odio.html",
-      "fecha": "2026-10-28T12:15+00:00",
-      "partidos": [
-        "vox"
-      ]
-    },
-    {
-      "titulo": "Abascal, único candidato que no suspende la agenda de campaña tras el accidente de tren en Toledo",
-      "medio": "El Mundo",
-      "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/10/28/6ae0e5f4e4d4d8dd228b45c3.html",
-      "fecha": "2026-10-28T12:06+00:00",
-      "partidos": [
-        "vox"
-      ]
-    },
-    {
-      "titulo": "La exministra Fátima Báñez viajaba en uno de los trenes accidentados en Toledo y el PP confirma que no logra localizarla",
-      "medio": "20minutos",
-      "url": "https://www.20minutos.es/nacional/exministra-fatima-banez-viajaba-uno-los-trenes-accidentados-toledo_7054453_0.html",
-      "fecha": "2026-10-28T11:30+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Abascal, único líder que mantiene sus mítines electorales, culpa al Gobierno de la tragedia de Urda",
-      "medio": "El País",
-      "url": "https://elpais.com/espana/2026-10-28/abascal-unico-lider-que-mantiene-sus-mitines-electorales-pese-a-la-tragedia.html",
-      "fecha": "2026-10-28T11:09+00:00",
-      "partidos": [
-        "vox"
-      ]
-    },
-    {
-      "titulo": "Todos los partidos, salvo Vox, suspenden sus actos de precampaña por el accidente de Toledo y el Gobierno cancela su agenda",
-      "medio": "20minutos",
-      "url": "https://www.20minutos.es/nacional/todos-los-partidos-salvo-vox-suspenden-sus-actos-precampana-por-accidente-toledo-gobierno-cancela-su-agenda_7054429_0.html",
-      "fecha": "2026-10-28T11:08+00:00",
-      "partidos": [
-        "vox"
-      ]
-    },
-    {
-      "titulo": "Vox mantiene su agenda y ataca al Gobierno con el accidente de Toledo: \"La campaña del amor del PSOE causa muertos\"",
-      "medio": "elDiario.es",
-      "url": "https://www.eldiario.es/politica/vox-mantiene-agenda-ataca-gobierno-accidente-toledo-campana-amor-psoe-causa-muertos_1_13620836.html",
-      "fecha": "2026-10-28T10:04+00:00",
-      "partidos": [
-        "psoe",
-        "vox"
-      ]
-    },
-    {
-      "titulo": "Feijóo está en contacto con Page y el alcalde de Urda y les ofrece \"su apoyo en estos momentos difíciles\"",
-      "medio": "Europa Press",
-      "url": "https://www.europapress.es/nacional/noticia-feijoo-contacto-page-alcalde-urda-les-ofrece-apoyo-momentos-dificiles-20261028110259.html",
-      "fecha": "2026-10-28T10:02+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Abascal culpa del accidente a Sánchez y a la \"degradación\" de la infraestructura y no suspende su agenda",
-      "medio": "Europa Press",
-      "url": "https://www.europapress.es/nacional/noticia-abascal-denuncia-insoportable-degradacion-infraestructura-ferroviaria-no-suspendera-agenda-20261028104828.html",
-      "fecha": "2026-10-28T09:48+00:00",
-      "partidos": [
-        "vox"
-      ]
-    },
-    {
-      "titulo": "La Comisión Europea analiza la denuncia que Junts presentó por la regularización de migrantes",
-      "medio": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/politica/20261028/11669996/comision-europea-analiza-denuncia-junts-presento-regularizacion-migrantes.html",
-      "fecha": "2026-10-28T09:32+00:00",
-      "partidos": [
-        "junts"
-      ]
-    },
-    {
-      "titulo": "Podemos Canarias denuncia a un concejal de Vox en Tenerife por llamar «hijo de puta» a su representante",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/canarias/podemos-canarias-denuncia-concejal-vox-tenerife-llamar-20261028102529-nt.html",
-      "fecha": "2026-10-28T09:25+00:00",
-      "partidos": [
-        "vox",
-        "podemos"
       ]
     }
   ],
