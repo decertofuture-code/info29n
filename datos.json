@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-04T05:44+00:00",
+  "actualizado": "2026-11-04T09:57+00:00",
   "temas": [
     {
       "id": "vivienda",
@@ -448,6 +448,126 @@
     }
   ],
   "noticias": [
+    {
+      "titulo": "Abascal se reunirá presencialmente este miércoles con Milei",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/abascal-reunira-presencialmente-miercoles-milei-20261104095725-nt.html",
+      "fecha": "2026-11-04T09:47+00:00",
+      "partidos": [
+        "vox"
+      ]
+    },
+    {
+      "titulo": "Feijóo avanza que si gobierna presentará su primer Presupuesto en primavera de 2027 y a finales de año el de 2028",
+      "medio": "Europa Press",
+      "url": "https://www.europapress.es/nacional/noticia-feijoo-avanza-si-gobierna-presentara-primer-presupuesto-primavera-2027-finales-ano-2028-20261104104107.html",
+      "fecha": "2026-11-04T09:41+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "Feijóo critica el «teatrillo de la Diputación Permanente» y la «forma indigna» en la dimisión de Puente",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/feijoo-critica-teatrillo-diputacion-permanente-forma-indigna-20261104103323-nt.html",
+      "fecha": "2026-11-04T09:33+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "Pedro Sánchez comparece tras la dimisión de Óscar Puente, en directo: última hora de la declaración institucional desde Moncloa y nombramiento del nuevo ministro de Transportes",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/ultima-hora-accidente-tren-urda-directo-comparecencia-20261103110818-di.html",
+      "fecha": "2026-11-04T09:11+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "Abascal no se subiría ahora al AVE y rechaza hacerse un \"Palomares\" como Feijóo quien sí iría en alta velocidad",
+      "medio": "Europa Press",
+      "url": "https://www.europapress.es/nacional/noticia-abascal-no-subiria-ahora-ave-rechaza-hacerse-palomares-feijoo-quien-si-iria-alta-velocidad-20261104100826.html",
+      "fecha": "2026-11-04T09:08+00:00",
+      "partidos": [
+        "pp",
+        "vox"
+      ]
+    },
+    {
+      "titulo": "Comparecencia de Pedro Sánchez, en directo | Sánchez anuncia que Carlos Cuerpo asumirá las competencias de Transporte tras la dimisión de Puente",
+      "medio": "20minutos",
+      "url": "https://www.20minutos.es/nacional/comparecencia-pedro-sanchez-directo-sanchez-comparece-moncloa-tras-dimision-oscar-puente_7056939_6.html",
+      "fecha": "2026-11-04T08:37+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "Abascal verá esta noche a Milei y dice estar \"bastante ocupado\" con las elecciones del 29N como para preocuparse de EEUU",
+      "medio": "Europa Press",
+      "url": "https://www.europapress.es/nacional/noticia-abascal-vera-noche-milei-dice-estar-bastante-ocupado-elecciones-29n-preocuparse-eeuu-20261104093559.html",
+      "fecha": "2026-11-04T08:35+00:00",
+      "partidos": [
+        "vox"
+      ]
+    },
+    {
+      "titulo": "El PP de Valladolid se lanza a la campaña aferrado a la petición de dimisión de Puente",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/castilla-leon/pp-valladolid-lanza-campana-agarrado-peticion-dimision-20261103150714-nt.html",
+      "fecha": "2026-11-04T08:32+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "El presidente del Gobierno, Pedro Sánchez, realiza una declaración institucional",
+      "medio": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/politica/20261104/11675694/presidente-gobierno-pedro-sanchez-realiza-declaracion-institucional.html",
+      "fecha": "2026-11-04T08:26+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "Frente Amplio celebra la derrota de Trump y avisa: \"El 29N les toca a Feijóo y Abascal\"",
+      "medio": "Europa Press",
+      "url": "https://www.europapress.es/nacional/noticia-frente-amplio-celebra-derrota-trump-avisa-29n-les-toca-feijoo-abascal-20261104090427.html",
+      "fecha": "2026-11-04T08:04+00:00",
+      "partidos": [
+        "pp",
+        "vox",
+        "sumar"
+      ]
+    },
+    {
+      "titulo": "Feijóo anima a Sánchez a seguir los pasos de Puente y presentar su dimisión: \"Aplícatelo\"",
+      "medio": "20minutos",
+      "url": "https://www.20minutos.es/nacional/feijoo-anima-sanchez-seguir-los-pasos-puente-presentar-su-dimision-aplicatelo_7056911_0.html",
+      "fecha": "2026-11-04T07:58+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "Feijóo ve insuficiente la dimisión de Puente y señala a Sánchez: “Aplícatelo”",
+      "medio": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/politica/20261104/11675661/feijoo-ve-insuficiente-dimision-puente-senala-sanchez-aplicatelo.html",
+      "fecha": "2026-11-04T07:52+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "Feijóo anima a Sánchez a que siga los pasos de Puente y presente su dimisión: \"Aplícatelo\"",
+      "medio": "Europa Press",
+      "url": "https://www.europapress.es/nacional/noticia-feijoo-anima-sanchez-siga-pasos-puente-presente-dimision-aplicatelo-20261104073821.html",
+      "fecha": "2026-11-04T06:38+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
     {
       "titulo": "Puente se aparta para intentar salvar la campaña del PSOE pese al respaldo de Sánchez a su gestión",
       "medio": "El País",
@@ -3107,124 +3227,6 @@
       "partidos": [
         "vox",
         "podemos"
-      ]
-    },
-    {
-      "titulo": "Feijóo dice estar \"muy preocupado\" por el accidente de tren: \"Lo prioritario ahora es atender a las víctimas\"",
-      "medio": "Europa Press",
-      "url": "https://www.europapress.es/nacional/noticia-feijoo-dice-estar-muy-preocupado-accidente-tren-prioritario-ahora-atender-victimas-20261028101654.html",
-      "fecha": "2026-10-28T09:16+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Todos los partidos menos Vox suspenden sus agendas tras el accidente ferroviario de Toledo",
-      "medio": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/politica/20261028/11669987/partidos-suspenden-agendas-accidente-ferroviario-toledo.html",
-      "fecha": "2026-10-28T09:11+00:00",
-      "partidos": [
-        "vox"
-      ]
-    },
-    {
-      "titulo": "Frente Amplio suspende los actos de precampaña tras el accidente de tren y Colau se solidariza con los afectados",
-      "medio": "Europa Press",
-      "url": "https://www.europapress.es/nacional/noticia-frente-amplio-suspende-actos-precampana-accidente-tren-colau-solidariza-afectados-20261028101153.html",
-      "fecha": "2026-10-28T09:11+00:00",
-      "partidos": [
-        "sumar"
-      ]
-    },
-    {
-      "titulo": "El PP cancela toda la agenda de campaña tras el accidente de tren en Urda (Toledo)",
-      "medio": "Europa Press",
-      "url": "https://www.europapress.es/nacional/noticia-pp-cancela-toda-agenda-campana-accidente-tren-urda-toledo-20261028100251.html",
-      "fecha": "2026-10-28T09:02+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Almeida avisa que se juegan la democracia en las generales: \"El PSOE de Sánchez es una fuerza disolvente de 1978\"",
-      "medio": "Europa Press",
-      "url": "https://www.europapress.es/nacional/noticia-almeida-avisa-juegan-democracia-generales-psoe-sanchez-fuerza-disolvente-1978-20261028095316.html",
-      "fecha": "2026-10-28T08:53+00:00",
-      "partidos": [
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "Begoña Gómez denuncia al PP por suplantar su imagen con IA",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/begona-denuncia-pp-suplantar-imagen-ia-20261028083843-nt.html",
-      "fecha": "2026-10-28T08:38+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Calles afectadas por la tractorada en Madrid hoy: horarios y cortes de tráfico por las protestas del campo contra Pedro Sánchez",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/madrid/calles-afectadas-tractorada-madrid-hoy-horarios-cortes-20261028091509-nt.html",
-      "fecha": "2026-10-28T08:18+00:00",
-      "partidos": [
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "Begoña Gómez presenta una denuncia por suplantación de imagen por el vídeo del PP hecho con inteligencia artificial",
-      "medio": "El Mundo",
-      "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/10/28/6ae1a983e85ece095e8b456f.html",
-      "fecha": "2026-10-28T07:56+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Begoña Gómez denuncia al PP por suplantación de identidad por el vídeo hecho con IA",
-      "medio": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/politica/20261028/11669924/begona-gomez-denuncia-pp-suplantacion-identidad-video-hecho-ia.html",
-      "fecha": "2026-10-28T07:55+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Begoña Gómez presenta una denuncia por suplantación de imagen por el vídeo de IA del PP",
-      "medio": "20minutos",
-      "url": "https://www.20minutos.es/nacional/sanchez-desvela-cuando-decidio-convocar-elecciones-adelantadas-vi-muy-claro_7054285_0.html",
-      "fecha": "2026-10-28T07:50+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Sánchez anuncia que Begoña Gómez ha presentado una denuncia por suplantación de imagen por el vídeo de IA del PP",
-      "medio": "Europa Press",
-      "url": "https://www.europapress.es/nacional/noticia-sanchez-anuncia-begona-gomez-presentado-denuncia-suplantacion-imagen-video-ia-pp-20261028083502.html",
-      "fecha": "2026-10-28T07:35+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Begoña Gómez denuncia al PP por utilizar su imagen para un vídeo realizado con inteligencia artificial",
-      "medio": "elDiario.es",
-      "url": "https://www.eldiario.es/politica/begona-gomez-denuncia-pp-utilizar-imagen-video-realizado-inteligencia-artificial_1_13620349.html",
-      "fecha": "2026-10-28T07:25+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "El PP halla en los disturbios callejeros nueva munición pesada contra el PSOE",
-      "medio": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/politica/20261028/11669640/pp-halla-disturbios-callejeros-nueva-municion-pesada-psoe.html",
-      "fecha": "2026-10-28T05:00+00:00",
-      "partidos": [
-        "pp",
-        "psoe"
       ]
     }
   ],
