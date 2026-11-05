@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-04T21:46+00:00",
+  "actualizado": "2026-11-05T05:47+00:00",
   "temas": [
     {
       "id": "vivienda",
@@ -448,6 +448,97 @@
     }
   ],
   "noticias": [
+    {
+      "titulo": "El PSOE se aferra al relato de la 'dignidad' de Puente y al cese en Adif para remontar",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/psoe-aferra-dimision-puente-resetear-campana-20261105012723-nt.html",
+      "fecha": "2026-11-05T05:22+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "Dirigentes del PSOE se aferran a la “lección política” de Puente y la derrota de Trump para relanzar la campaña",
+      "medio": "El País",
+      "url": "https://elpais.com/espana/elecciones-generales/2026-11-05/dirigentes-del-psoe-se-aferran-a-la-leccion-politica-de-puente-y-la-derrota-de-trump-para-relanzar-la-campana.html",
+      "fecha": "2026-11-05T04:30+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "Alberto Núñez Feijóo: \"A la gente no se le puede hacer un nudo en el estómago cuando entra en un tren\"",
+      "medio": "20minutos",
+      "url": "https://www.20minutos.es/nacional/alberto-nunez-feijoo-gente-no-se-le-puede-hacer-un-nudo-estomago-cuando-entra-un-tren_7057413_0.html",
+      "fecha": "2026-11-05T04:00+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "Alberto Núñez Feijóo: \"En estos años ha perdido la clase media, nosotros vamos a gobernar para el trabajador\"",
+      "medio": "20minutos",
+      "url": "https://www.20minutos.es/nacional/alberto-nunez-feijoo-estos-anos-ha-perdido-clase-media-nosotros-vamos-gobernar-para-trabajador_7057412_0.html",
+      "fecha": "2026-11-05T04:00+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "El PSOE utiliza la dimisión de Puente como bandera con el \"no todos somos iguales\" y carga a Cuerpo con el frente ferroviario",
+      "medio": "20minutos",
+      "url": "https://www.20minutos.es/nacional/psoe-utiliza-dimision-puente-como-bandera-con-no-todos-somos-iguales-carga-cuerpo-con-frente-ferroviario_7057313_0.html",
+      "fecha": "2026-11-05T04:00+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "El PP recordará el abandono del Gobierno con Adamuz para combatir la nueva estrategia de Sánchez",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/pp-recordara-abandono-gobierno-adamuz-combatir-nueva-20261104012742-nt.html",
+      "fecha": "2026-11-05T00:28+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "Alivio en el Frente Amplio por \"pasar página\" de Puente, \"dejar sin argumentos\" al PP y girar el debate hacia \"más Cercanías\"",
+      "medio": "El Mundo",
+      "url": "https://www.elmundo.es/espana/2026/11/05/6aeb6f1de9cf4aa86d8b4587.html",
+      "fecha": "2026-11-04T23:00+00:00",
+      "partidos": [
+        "pp",
+        "sumar"
+      ]
+    },
+    {
+      "titulo": "El PSOE necesita una derrota dura de Pedro Sánchez",
+      "medio": "El Mundo",
+      "url": "https://www.elmundo.es/espana/2026/11/05/6aeb73cbe85ecedd468b4581.html",
+      "fecha": "2026-11-04T23:00+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "Encuentro entre Santiago Abascal y Javier Milei en Madrid: \"Me he reunido con mi amigo y aliado\"",
+      "medio": "20minutos",
+      "url": "https://www.20minutos.es/nacional/encuentro-entre-santiago-abascal-javier-milei-madrid-me-he-reunido-con-mi-amigo-aliado_7057411_0.html",
+      "fecha": "2026-11-04T22:56+00:00",
+      "partidos": [
+        "vox"
+      ]
+    },
+    {
+      "titulo": "Así purgó la Policía al comisario acusado por el PSOE de no proteger a Santaolalla en el Senado: \"Poco recorrido para su labor. Instrucciones recibidas\"",
+      "medio": "El Mundo",
+      "url": "https://www.elmundo.es/espana/2026/11/04/6aeb8687e4d4d8453d8b45c8.html",
+      "fecha": "2026-11-04T21:41+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
     {
       "titulo": "El PSOE pide a la Junta Electoral que Puente salga de la lista al Congreso",
       "medio": "ABC",
@@ -3137,99 +3228,6 @@
       "fecha": "2026-10-29T09:32+00:00",
       "partidos": [
         "sumar"
-      ]
-    },
-    {
-      "titulo": "El PNV sortea in extremis la fractura y Aitor Esteban salva un delicado pulso interno",
-      "medio": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/local/paisvasco/20261029/11670574/pnv-sortea-fractura-direccion-partido-ejecutiva-vizcaina-proceso-interno.html",
-      "fecha": "2026-10-29T07:43+00:00",
-      "partidos": [
-        "pnv"
-      ]
-    },
-    {
-      "titulo": "Los datos que desnudan el discurso del PP de Mazón sobre la dana: el 90% de las muertes fue antes del envío de los dos ES-Alert",
-      "medio": "El País",
-      "url": "https://elpais.com/espana/2026-10-29/los-datos-que-desnudan-el-discurso-del-pp-de-mazon-sobre-la-dana-el-90-de-las-muertes-fue-antes-del-envio-de-los-dos-es-alert.html",
-      "fecha": "2026-10-29T04:30+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Encuestas elecciones generales en Castilla-La Mancha: resultados de PSOE, PP y Vox y ganador según los sondeos el 29N",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/castilla-la-mancha/encuestas-elecciones-generales-castillala-mancha-resultados-psoe-20261029050000-nt.html",
-      "fecha": "2026-10-29T04:00+00:00",
-      "partidos": [
-        "pp",
-        "psoe",
-        "vox"
-      ]
-    },
-    {
-      "titulo": "Cargos del PSOE comienzan a cuestionar la continuidad de Puente en el Gobierno",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/sanchez-salta-fusible-puente-jaque-doberman-aspiraciones-20261029013000-nt.html",
-      "fecha": "2026-10-29T01:39+00:00",
-      "partidos": [
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "El Gobierno de Pedro Sánchez deja destrozada la Alta Velocidad en Andalucía",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/andalucia/alta-velocidad-andalucia-tocada-muerte-tras-dos-20261029020525-nts.html",
-      "fecha": "2026-10-29T01:05+00:00",
-      "partidos": [
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "Fátima Báñez, la discreta negociadora de Rajoy, amiga de Von der Leyen y 'ministrable' para Feijóo",
-      "medio": "El Mundo",
-      "url": "https://www.elmundo.es/espana/2026/10/29/6ae25d85e9cf4af1528b458d.html",
-      "fecha": "2026-10-29T01:03+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Consternación en el PP por la desaparición de Fátima Báñez en el accidente ferroviario",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/consternacion-pp-desaparicion-fatima-banez-accidente-ferroviario-20261029012953-nt.html",
-      "fecha": "2026-10-29T00:47+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Feijóo frena su campaña y lo centra todo en la \"gestión\"",
-      "medio": "El Mundo",
-      "url": "https://www.elmundo.es/espana/2026/10/29/6ae21f1521efa042438b45ac.html",
-      "fecha": "2026-10-28T23:00+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "PP y Vox 'cuelan' modificaciones a las leyes de caza y apuestas en la Ley de Presupuestos en Castilla y León",
-      "medio": "elDiario.es",
-      "url": "https://www.eldiario.es/castilla-y-leon/politica/pp-vox-cuelan-modificaciones-leyes-caza-apuestas-ley-presupuestos-castilla-leon_1_13605322.html",
-      "fecha": "2026-10-28T22:40+00:00",
-      "partidos": [
-        "pp",
-        "vox"
-      ]
-    },
-    {
-      "titulo": "El frenazo del PP deja en el limbo 325.000 euros ya reservados para exhumar la mayor fosa franquista de Sevilla",
-      "medio": "elDiario.es",
-      "url": "https://www.eldiario.es/sevilla/frenazo-pp-deja-limbo-325-000-euros-reservados-exhumar-mayor-fosa-franquista-sevilla_1_13599995.html",
-      "fecha": "2026-10-28T22:40+00:00",
-      "partidos": [
-        "pp"
       ]
     }
   ],
