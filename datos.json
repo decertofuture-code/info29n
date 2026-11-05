@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-05T05:47+00:00",
+  "actualizado": "2026-11-05T17:17+00:00",
   "temas": [
     {
       "id": "vivienda",
@@ -449,6 +449,278 @@
   ],
   "noticias": [
     {
+      "titulo": "El PP denuncia a la ministra de Vivienda por «vulnerar» la Ley Electoral en Burgos",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/castilla-leon/pp-denuncia-ministra-vivienda-vulnerar-ley-electoral-20261105180928-nt.html",
+      "fecha": "2026-11-05T17:09+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "Así ha sido la detención en Córdoba de Cristian Corvillo, exchófer de Pedro Sánchez, tras seis horas de registro",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/andalucia/cordoba/cristian-corvillo-detenido-cordoba-20261105102127-nts.html",
+      "fecha": "2026-11-05T16:49+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "El PP estudia llevar a los tribunales las «irregularidades» del convenio del Plan XCuenca",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/castilla-la-mancha/pp-estudia-llevar-tribunales-irregularidades-convenio-plan-20261105174700-nt.html",
+      "fecha": "2026-11-05T16:47+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "El PP de Ayuso y Vox vuelven a unirse para aprobar la nueva ley de la Abogacía General",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/madrid/pp-ayuso-vox-vuelven-unirse-aprobar-nueva-20261105172442-nt.html",
+      "fecha": "2026-11-05T16:26+00:00",
+      "partidos": [
+        "pp",
+        "vox"
+      ]
+    },
+    {
+      "titulo": "García Albiol visita una fábrica okupada de Vitoria y así le reciben: «¡Viva Pedro Sánchez! Es lo primero que nos han dicho»",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/cataluna/garcia-albiol-visita-fabrica-okupada-vitoria-reciben-20261105165549-nt.html",
+      "fecha": "2026-11-05T16:19+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "La Junta Electoral acuerda que Puente siga al frente de la lista electoral del PSOE por Valladolid",
+      "medio": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/politica/20261105/11677021/junta-electoral-acuerda-puente-siga-frente-lista-electoral-valladolid.html",
+      "fecha": "2026-11-05T15:08+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "PP y Vox cambian el guion de las Corts para debatir la ley del suelo el día de la huelga general",
+      "medio": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/local/valencia/20261105/11677027/pp-vox-cambian-guion-corts-debatir-ley-suelo-dia-huelga-general.html",
+      "fecha": "2026-11-05T15:05+00:00",
+      "partidos": [
+        "pp",
+        "vox"
+      ]
+    },
+    {
+      "titulo": "Gritos, intimidación y amenazas del alcalde del PP de Azofra a la concejala del PSOE: \"Te mando a casa llorando\"",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/la-rioja/gritos-intimidacion-amenazas-alcalde-pp-azofra-concejala-psoe-mando-casa-llorando_1_13641243.html",
+      "fecha": "2026-11-05T14:54+00:00",
+      "partidos": [
+        "pp",
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "La Junta Electoral rechaza borrar a Óscar Puente de las papeletas del PSOE en Valladolid",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/castilla-y-leon/politica/junta-electoral-rechaza-borrar-oscar-puente-papeletas-psoe-valladolid_1_13641444.html",
+      "fecha": "2026-11-05T14:15+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "PP, PSOE y Frente Amplio garantizan que la ley de pacientes \"será una realidad\" en la próxima legislatura",
+      "medio": "El Confidencial",
+      "url": "https://www.elconfidencial.com/espana/2026-11-05/ley-organizaciones-pacientes-1hms-1svm_4459643/",
+      "fecha": "2026-11-05T14:00+00:00",
+      "partidos": [
+        "pp",
+        "psoe",
+        "sumar"
+      ]
+    },
+    {
+      "titulo": "Podemos lanza su candidatura para el 29N: \"Los de arriba no quieren que ganemos porque los vamos a freír a impuestos\"",
+      "medio": "20minutos",
+      "url": "https://www.20minutos.es/nacional/podemos-lanza-su-candidatura-para-29n-los-arriba-no-quieren-que-ganemos-porque-los-vamos-freir-impuestos_7057673_0.html",
+      "fecha": "2026-11-05T13:19+00:00",
+      "partidos": [
+        "podemos"
+      ]
+    },
+    {
+      "titulo": "Barbero (Frente Amplio), sobre supuestos pagos a Koldo por el PP: \"Hay que investigar\"",
+      "medio": "Europa Press",
+      "url": "https://www.europapress.es/galicia/noticia-barbero-frente-amplio-supuestos-pagos-koldo-pp-hay-investigar-20261105141453.html",
+      "fecha": "2026-11-05T13:14+00:00",
+      "partidos": [
+        "pp",
+        "sumar"
+      ]
+    },
+    {
+      "titulo": "Koldo García desde prisión insiste en que el PP le ofreció dinero: \"Yo daré el remate final\"",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/politica/koldo-garcia-prision-insiste-pp-le-ofrecio-dinero-dare-remate-final_1_13640815.html",
+      "fecha": "2026-11-05T13:12+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "Feijóo aprovecha la Cumbre Iberoamericana para reunirse con Corina Machado, Zelenski y Kast",
+      "medio": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/politica/20261105/11676941/feijoo-aprovecha-cumbre-iberoamericana-reunirse-corina-machado-zelenski-kast.html",
+      "fecha": "2026-11-05T13:07+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "Koldo García asegura que acordó con el abogado del PP un millón de euros a cambio de información para hacer caer a Sánchez",
+      "medio": "El País",
+      "url": "https://elpais.com/espana/2026-11-05/koldo-garcia-asegura-que-acordo-con-el-abogado-del-pp-un-millon-de-euros-a-cambio-de-informacion-para-hacer-caer-a-sanchez.html",
+      "fecha": "2026-11-05T12:53+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "Ester Muñoz (PP) apunta a Pedro Sánchez tras las detenciones por el caso Koldo: \"Solo queda el número uno\"",
+      "medio": "Europa Press",
+      "url": "https://www.europapress.es/comunitat-valenciana/noticia-ester-munoz-pp-apunta-pedro-sanchez-detenciones-caso-koldo-solo-queda-numero-20261105132745.html",
+      "fecha": "2026-11-05T12:27+00:00",
+      "partidos": [
+        "pp",
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "Javier Milei, tras su frío saludo con Sánchez, eleva la tensión en la Cumbre Iberoamericana: \"La equivalencia entre socialistas y fascistas no es casual\"",
+      "medio": "El Mundo",
+      "url": "https://www.elmundo.es/espana/2026/11/05/6aec3c2821efa0b2518b4597.html",
+      "fecha": "2026-11-05T12:25+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "Ayuso arropará a Catalá y Llorca en Valencia el día después del mitin de Pedro Sánchez",
+      "medio": "El Mundo",
+      "url": "https://www.elmundo.es/comunidad-valenciana/2026/11/05/6aec6e0efc6c83fc068b4594.html",
+      "fecha": "2026-11-05T12:10+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "Podemos se reivindica como alternativa al PSOE con una campaña contra los privilegios de los ricos",
+      "medio": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/politica/20261105/11676861/reivindica-alternativa-psoe-campana-privilegios-ricos.html",
+      "fecha": "2026-11-05T12:10+00:00",
+      "partidos": [
+        "psoe",
+        "podemos"
+      ]
+    },
+    {
+      "titulo": "El PP señala a Sánchez como único miembro de \"la banda del Peugeot\" no encausado pero cree que \"es cuestión de tiempo\"",
+      "medio": "20minutos",
+      "url": "https://www.20minutos.es/nacional/pp-senala-sanchez-como-unico-miembro-banda-peugeot-no-encausado-pero-cree-que-es-cuestion-tiempo_7057627_0.html",
+      "fecha": "2026-11-05T12:07+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "Impuesto a los superricos para superar el 10% y multiplicar escaños: la receta de Colau para el Frente Amplio",
+      "medio": "El Confidencial",
+      "url": "https://www.elconfidencial.com/espana/2026-11-05/impuesto-a-los-superricos-para-superar-el-10-y-multiplicar-escanos-la-receta-de-colau-para-el-frente-amplio_4459469/",
+      "fecha": "2026-11-05T12:03+00:00",
+      "partidos": [
+        "sumar"
+      ]
+    },
+    {
+      "titulo": "Imputan al director general de Deportes de la Región de Murcia del PP por presunta malversación en las obras del CAR de Los Narejos",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/murcia/politica/imputan-director-general-deportes-region-murcia-presunta-malversacion-obras-car-narejos_1_13640059.html",
+      "fecha": "2026-11-05T11:47+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "Koldo García insiste en que el PP le ofreció dinero",
+      "medio": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/politica/20261105/11676780/koldo-garcia-carcel-condena-firme-busca-resarcirse-psoe.html",
+      "fecha": "2026-11-05T11:43+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "Cristian Corvillo, la caída del conductor de Sánchez en su gira de reconquista del PSOE que ya anunció: \"Lo voy a aprovechar\"",
+      "medio": "El Mundo",
+      "url": "https://www.elmundo.es/espana/2026/11/05/6aec5aa821efa07f108b45a2.html",
+      "fecha": "2026-11-05T11:40+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "Podemos exige plaza y voz para Irene Montero en el debate electoral con Sánchez, Feijóo, Colau y Abascal",
+      "medio": "El Mundo",
+      "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/05/6aec67b0fdddff6f188b45c1.html",
+      "fecha": "2026-11-05T11:32+00:00",
+      "partidos": [
+        "pp",
+        "vox",
+        "podemos"
+      ]
+    },
+    {
+      "titulo": "El PP, tras el registro en casa de Ábalos: “La corrupción cuesta vidas”",
+      "medio": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/politica/20261105/11676787/pp-registro-casa-abalos-adif-corrupcion-cuesta-vidas.html",
+      "fecha": "2026-11-05T11:24+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "PSOE acusa al PP de \"intentar comprar\" el testimonio de Koldo para derribar a Sánchez y 'Génova' dice que es \"falso\"",
+      "medio": "Europa Press",
+      "url": "https://www.europapress.es/nacional/noticia-psoe-acusa-guerra-sucia-pp-derribar-gobierno-legitimo-intentar-comprar-testimonio-koldo-20261105105421.html",
+      "fecha": "2026-11-05T09:54+00:00",
+      "partidos": [
+        "pp",
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "La diputada del PP que sacó gas pimienta en el Congreso llama \"gilipollas\" a Armengol",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/politica/diputada-saco-gas-pimienta-congreso-ana-vazquez-llama-gilipollas-armengol_1_13639747.html",
+      "fecha": "2026-11-05T09:22+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "Koldo García afirma que el abogado del PP le ofreció un millón por mentir contra el Gobierno de Sánchez",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/politica/koldo-garcia-afirma-abogado-pp-le-ofrecio-millon-informacion-gobierno-sanchez_1_13639592.html",
+      "fecha": "2026-11-05T07:45+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
       "titulo": "El PSOE se aferra al relato de la 'dignidad' de Puente y al cese en Adif para remontar",
       "medio": "ABC",
       "url": "https://www.abc.es/espana/psoe-aferra-dimision-puente-resetear-campana-20261105012723-nt.html",
@@ -537,6 +809,24 @@
       "fecha": "2026-11-04T21:41+00:00",
       "partidos": [
         "psoe"
+      ]
+    },
+    {
+      "titulo": "El PSOE transforma la dimisión de Puente en una oportunidad de recuperar el pulso electoral: \"Ahora podemos salir a la calle con dignidad, estábamos muy jodidos\"",
+      "medio": "El Mundo",
+      "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/04/6aeb8641e4d4d8fb618b458f.html",
+      "fecha": "2026-11-04T21:41+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "Cómo Vox quiere arrasar entre los jóvenes proletarios: \"Ya funcionamos mejor en Parla que en Pozuelo\"",
+      "medio": "El Mundo",
+      "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/04/6aeb7719fc6c83f76e8b4595.html",
+      "fecha": "2026-11-04T21:41+00:00",
+      "partidos": [
+        "vox"
       ]
     },
     {
@@ -2943,291 +3233,6 @@
       "fecha": "2026-10-29T21:50+00:00",
       "partidos": [
         "psoe"
-      ]
-    },
-    {
-      "titulo": "El PSOE ofrece en sacrificio al último de la fila",
-      "medio": "El Mundo",
-      "url": "https://www.elmundo.es/espana/2026/10/29/6ae37dda21efa051508b458a.html",
-      "fecha": "2026-10-29T21:48+00:00",
-      "partidos": [
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "Óscar Puente politiza la cúpula de Adif con militantes socialistas en puestos clave",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/xxxxxxxxxxxxx-20261030214038-nt.html",
-      "fecha": "2026-10-29T21:11+00:00",
-      "partidos": [
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "El PSOE reprocha a Núñez por convocar una rueda de prensa en la sede durante los días de luto oficial",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/castilla-la-mancha/psoe-reprocha-nunez-reactivar-precampana-dias-luto-20261029200330-nt.html",
-      "fecha": "2026-10-29T20:19+00:00",
-      "partidos": [
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "Abascal, sobre Pedro Sánchez y Óscar Puente: «Ellos son el error humano»",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/castilla-leon/abascal-sobre-pedro-sanchez-oscar-puente-error-20261029205805-nt.html",
-      "fecha": "2026-10-29T20:10+00:00",
-      "partidos": [
-        "psoe",
-        "vox"
-      ]
-    },
-    {
-      "titulo": "La Junta Electoral Central abre expediente sancionador contra Pedro Sánchez por el vídeo ante el 'Guernica'",
-      "medio": "El Mundo",
-      "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/10/29/6ae38e75e4d4d8554a8b4575.html",
-      "fecha": "2026-10-29T18:22+00:00",
-      "partidos": [
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "La Junta Electoral abre otro expediente sancionador a Sánchez por su vídeo ante el Guernica denunciado por el PP",
-      "medio": "20minutos",
-      "url": "https://www.20minutos.es/nacional/junta-electoral-abre-otro-expediente-sancionador-sanchez-por-su-video-ante-guernica-denunciado-por-pp_7055194_0.html",
-      "fecha": "2026-10-29T18:16+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Frente Amplio y Podemos cargan contra Puente por \"señalar a un trabajador\" en el accidente de Urda: \"Es indecente\"",
-      "medio": "20minutos",
-      "url": "https://www.20minutos.es/nacional/frente-amplio-podemos-cargan-contra-puente-por-senalar-un-trabajador-accidente-urda-es-indecente_7055158_0.html",
-      "fecha": "2026-10-29T18:06+00:00",
-      "partidos": [
-        "sumar",
-        "podemos"
-      ]
-    },
-    {
-      "titulo": "El PP ve insuficiente la comparecencia de Puente por la tragedia de Urda y reclama que Sánchez dé explicaciones en el Congreso",
-      "medio": "20minutos",
-      "url": "https://www.20minutos.es/nacional/pp-ve-insuficiente-comparecencia-puente-por-tragedia-urda-reclama-que-sanchez-explicaciones-congreso_7055183_0.html",
-      "fecha": "2026-10-29T18:05+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "La Junta Electoral expedienta a Pedro Sánchez por su vídeo en el Museo Reina Sofía",
-      "medio": "elDiario.es",
-      "url": "https://www.eldiario.es/politica/junta-electoral-expedienta-pedro-sanchez-video-museo-reina-sofia_1_13625634.html",
-      "fecha": "2026-10-29T17:49+00:00",
-      "partidos": [
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "Vox se querella contra Puente ante el Supremo por presuntos homicidios en el accidente de Urda",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/vox-querella-puente-ante-supremo-presuntos-homicidios-20261029120145-nt.html",
-      "fecha": "2026-10-29T17:29+00:00",
-      "partidos": [
-        "vox"
-      ]
-    },
-    {
-      "titulo": "El PP se despide de Fátima Báñez: «Era una mujer incansable y una leal amiga»",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/pp-despide-fatima-banez-era-mujer-incansable-20261029174546-nt.html",
-      "fecha": "2026-10-29T16:46+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Feijóo apunta a las “responsabilidades políticas” de Puente por el segundo accidente mortal de la alta velocidad en nueve meses",
-      "medio": "El País",
-      "url": "https://elpais.com/espana/2026-10-29/feijoo-apunta-a-las-responsabilidades-politicas-de-puente-por-el-segundo-accidente-mortal-de-la-alta-velocidad-en-nueve-meses.html",
-      "fecha": "2026-10-29T14:14+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Feijóo, a Puente tras el accidente en Urda: «Las responsabilidades políticas no son opcionales, son exigibles»",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/castilla-la-mancha/feijoo-puente-dia-despues-accidente-responsabilidades-politicas-20261029134255-nt.html",
-      "fecha": "2026-10-29T13:41+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "El PP confirma que la exministra Fátima Báñez ha fallecido en el accidente ferroviario",
-      "medio": "20minutos",
-      "url": "https://www.20minutos.es/nacional/pp-confirma-que-exministra-fatima-banez-ha-fallecido-accidente-ferroviario_7055028_0.html",
-      "fecha": "2026-10-29T13:15+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Feijóo exige al Gobierno \"responsabilidades políticas\" por el accidente de Urda ya, \"no cuando termine la investigación\"",
-      "medio": "elDiario.es",
-      "url": "https://www.eldiario.es/politica/feijoo-exige-gobierno-responsabilidades-politicas-accidente-urda-no-termine-investigacion_1_13624579.html",
-      "fecha": "2026-10-29T13:09+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "El PP critica que el Gobierno culpe a un trabajador del choque en Urda y dice que colocar a amigos \"tiene consecuencias\"",
-      "medio": "Europa Press",
-      "url": "https://www.europapress.es/nacional/noticia-pp-critica-gobierno-culpe-trabajador-choque-urda-dice-colocar-amigos-tiene-consecuencias-20261029140237.html",
-      "fecha": "2026-10-29T13:02+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Feijóo dice que son \"exigibles\" responsabilidades políticas tras tragedia de Urda y critica que Sánchez no cese a Puente",
-      "medio": "Europa Press",
-      "url": "https://www.europapress.es/nacional/noticia-feijoo-dice-son-exigibles-responsabilidades-politicas-tragedia-urda-critica-sanchez-no-cese-puente-20261029134935.html",
-      "fecha": "2026-10-29T12:49+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Feijóo señala la \"responsabilidad política\" de Puente tras más de \"100 muertos\" en los trenes en solo nueve meses y promete que si él gobierna volverá \"la gestión\"",
-      "medio": "El Mundo",
-      "url": "https://www.elmundo.es/espana/2026/10/29/6ae33dcfe9cf4a71178b45a4.html",
-      "fecha": "2026-10-29T12:47+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Feijóo exige \"responsabilidades políticas\" por la tragedia de Urda y promete devolver la confianza al sistema ferroviario",
-      "medio": "20minutos",
-      "url": "https://www.20minutos.es/nacional/feijoo-exige-responsabilidades-politicas-por-tragedia-urda-promete-devolver-confianza-sistema-ferroviario_7054983_0.html",
-      "fecha": "2026-10-29T12:46+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "El PNV exige a Sánchez “responsabilidades al máximo nivel” por el accidente ferroviario",
-      "medio": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/local/paisvasco/20261029/11671170/vaquero-pnv-sanchez-reconoce-inasumible-tendran-asumir-responsabilidades-maximo-nivel.html",
-      "fecha": "2026-10-29T12:43+00:00",
-      "partidos": [
-        "pnv"
-      ]
-    },
-    {
-      "titulo": "Feijóo señala a Puente pero evita todavía exigir su dimisión",
-      "medio": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/politica/20261029/11671165/feijoo-senala-puente-evita-todavia-exigir-dimision.html",
-      "fecha": "2026-10-29T12:30+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "PNV exige a Sánchez \"responsabilidades políticas máximas\" como \"el cese o dimisión\" del ministro Puente",
-      "medio": "Europa Press",
-      "url": "https://www.europapress.es/euskadi/noticia-pnv-exige-sanchez-responsabilidades-politicas-maximas-cese-dimision-ministro-puente-20261029130310.html",
-      "fecha": "2026-10-29T12:03+00:00",
-      "partidos": [
-        "pnv"
-      ]
-    },
-    {
-      "titulo": "Vox presenta una querella contra Oscar Puente por homicidio imprudente tras el accidente ferroviario de Urda",
-      "medio": "20minutos",
-      "url": "https://www.20minutos.es/nacional/vox-presenta-una-querella-contra-oscar-puente-por-homicidio-imprudente-tras-accidente-ferroviario-urda_7054927_0.html",
-      "fecha": "2026-10-29T11:26+00:00",
-      "partidos": [
-        "vox"
-      ]
-    },
-    {
-      "titulo": "Vox se querella contra Óscar Puente en el Supremo por presunto homicidio imprudente y lesiones",
-      "medio": "Europa Press",
-      "url": "https://www.europapress.es/nacional/noticia-vox-querella-contra-oscar-puente-supremo-presunto-homicidio-imprudente-lesiones-20261029115454.html",
-      "fecha": "2026-10-29T10:54+00:00",
-      "partidos": [
-        "vox"
-      ]
-    },
-    {
-      "titulo": "Nuevo ataque contra la sede del PSOE de Almendralejo: amanece con la pintada 'asesinos' en la puerta",
-      "medio": "elDiario.es",
-      "url": "https://www.eldiario.es/extremadura/politica/nuevo-ataque-sede-psoe-almendralejo-amanece-pintada-asesinos-puerta_1_13624057.html",
-      "fecha": "2026-10-29T10:51+00:00",
-      "partidos": [
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "Sumar, Podemos y ERC piden la comparecencia urgente de Puente en el Congreso tras el accidente de Urda",
-      "medio": "20minutos",
-      "url": "https://www.20minutos.es/nacional/sumar-podemos-erc-piden-comparecencia-urgente-puente-congreso-tras-accidente-urda_7054909_0.html",
-      "fecha": "2026-10-29T10:36+00:00",
-      "partidos": [
-        "sumar",
-        "erc",
-        "podemos"
-      ]
-    },
-    {
-      "titulo": "ERC y Podemos piden la comparecencia de Puente en la Diputación Permanente para rendir cuentas por el acciedente",
-      "medio": "Europa Press",
-      "url": "https://www.europapress.es/nacional/noticia-erc-podemos-piden-comparecencia-puente-diputacion-permanente-rendir-cuentas-acciedente-20261029112536.html",
-      "fecha": "2026-10-29T10:25+00:00",
-      "partidos": [
-        "erc",
-        "podemos"
-      ]
-    },
-    {
-      "titulo": "Sumar pide que Puente comparezca en la Diputación Permanente del Congreso para rendir cuentas por accidente ferroviario",
-      "medio": "Europa Press",
-      "url": "https://www.europapress.es/nacional/noticia-sumar-pide-puente-comparezca-diputacion-permanente-congreso-rendir-cuentas-accidente-ferroviario-20261029104113.html",
-      "fecha": "2026-10-29T09:41+00:00",
-      "partidos": [
-        "sumar"
-      ]
-    },
-    {
-      "titulo": "Rufián culpa al PP \"primero\" y al PSOE \"después\": pide responsabilidades y no filtraciones para no asumirlas",
-      "medio": "Europa Press",
-      "url": "https://www.europapress.es/nacional/noticia-rufian-culpa-pp-primero-psoe-despues-pide-responsabilidades-no-filtraciones-no-asumirlas-20261029103905.html",
-      "fecha": "2026-10-29T09:39+00:00",
-      "partidos": [
-        "pp",
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "Frente Amplio pide la comparecencia de Óscar Puente en la Diputación Permanente",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/frente-amplio-pide-comparecencia-oscar-puente-diputacion-20261029103354-nt.html",
-      "fecha": "2026-10-29T09:34+00:00",
-      "partidos": [
-        "sumar"
-      ]
-    },
-    {
-      "titulo": "El Frente Amplio pide la comparecencia de Puente en el Congreso por el accidente de Toledo",
-      "medio": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/politica/20261029/11670960/frente-amplio-pide-comparecencia-puente-congreso-accidente-toledo.html",
-      "fecha": "2026-10-29T09:32+00:00",
-      "partidos": [
-        "sumar"
       ]
     }
   ],
