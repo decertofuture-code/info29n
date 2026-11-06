@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-06T01:27+00:00",
+  "actualizado": "2026-11-06T12:35+00:00",
   "temas": [
     {
       "id": "vivienda",
@@ -449,12 +449,185 @@
   ],
   "noticias": [
     {
+      "titulo": "Irene Carvajal (Vox) defiende que los espacios municipales respetan «siempre» la la «libertad de creación»",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/castilla-leon/irene-carvajal-vox-defiende-espacios-municipales-respetan-20261106131325-nt.html",
+      "fecha": "2026-11-06T12:16+00:00",
+      "partidos": [
+        "vox"
+      ]
+    },
+    {
+      "titulo": "El PP, ante la investigación de la Fiscalía Europea tras el accidente: \"La corrupción se ha llevado por delante vidas\"",
+      "medio": "Europa Press",
+      "url": "https://www.europapress.es/nacional/noticia-pp-investigacion-fiscalia-europea-accidente-corrupcion-llevado-delante-vidas-20261106131319.html",
+      "fecha": "2026-11-06T12:13+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "Feijóo elige 'El cambio necesario' como lema para su campaña de generales, que arrancará el jueves 12 en Badalona",
+      "medio": "Europa Press",
+      "url": "https://www.europapress.es/nacional/noticia-feijoo-elige-cambio-necesario-lema-campana-generales-arrancara-jueves-12-badalona-20261106130929.html",
+      "fecha": "2026-11-06T12:09+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "Frente Amplio plantea una ley para expropiar viviendas a grandes fondos de inversión: \"Es perfectamente viable\"",
+      "medio": "20minutos",
+      "url": "https://www.20minutos.es/nacional/frente-amplio-plantea-una-ley-para-expropiar-viviendas-grandes-fondos-inversion-es-perfectamente-viable_7058188_0.html",
+      "fecha": "2026-11-06T12:04+00:00",
+      "partidos": [
+        "sumar"
+      ]
+    },
+    {
+      "titulo": "La sombra del exchófer de Sánchez en el amaño de las primarias del PSOE en Peñarroya",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/andalucia/cordoba/amano-primarias-psoe-andaluz-penarroya-censo-inflado-20261106124808-nts.html",
+      "fecha": "2026-11-06T12:02+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "Montero cree que Frente \"no ha arrancado ningún derecho\" al PSOE en el Gobierno: \"La regularización la consiguió Podemos\"",
+      "medio": "20minutos",
+      "url": "https://www.20minutos.es/nacional/montero-cree-que-frente-no-ha-arrancado-ningun-derecho-psoe-gobierno-regularizacion-consiguio-podemos_7058131_0.html",
+      "fecha": "2026-11-06T11:53+00:00",
+      "partidos": [
+        "psoe",
+        "podemos"
+      ]
+    },
+    {
+      "titulo": "El candidato del PSOE a la Alcaldía elude la tibieza de su partido con Corvillo: «Si ha hecho algo, deberá asumir lo que el juez diga»",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/andalucia/cordoba/candidato-psoe-alcaldia-elude-tibieza-partido-corvillo-20261106123243-nts.html",
+      "fecha": "2026-11-06T11:32+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "El PP de Núñez acusa al Gobierno de Sánchez de poner en peligro la seguridad de los españoles",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/castilla-la-mancha/pp-nunez-acusa-gobierno-sanchez-poner-peligro-20261106122425-nt.html",
+      "fecha": "2026-11-06T11:24+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "El PP recalca que \"nunca\" ofreció dinero a Koldo García para atacar a Sánchez: \"No ha hecho falta, ya se investiga\"",
+      "medio": "Europa Press",
+      "url": "https://www.europapress.es/nacional/noticia-ester-munoz-dice-pp-nunca-ofrecio-dinero-koldo-garcia-derrocar-sanchez-no-hecho-falta-20261106121806.html",
+      "fecha": "2026-11-06T11:18+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "Podemos pone condiciones para investir a Sánchez: bajar alquileres y alimentos y prohibir la especulación con la vivienda",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/politica/pone-condiciones-investir-sanchez-bajar-alquileres-alimentos-prohibir-especulacion-vivienda_1_13643371.html",
+      "fecha": "2026-11-06T10:46+00:00",
+      "partidos": [
+        "podemos"
+      ]
+    },
+    {
+      "titulo": "Muere a los 52 años Julio Díaz, exconcejal del PSOE en La Palma del Condado y exparlamentario andaluz de Ciudadanos",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/andalucia/huelva/muere-52-anos-julio-diaz-exconcejal-psoe-palma-condado-exparlamentario-andaluz-ciudadanos_1_13642720.html",
+      "fecha": "2026-11-06T09:56+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "Albares reprocha al PP que no plantara a Milei cuando llamó a Sánchez “impresentable dictador”",
+      "medio": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/politica/20261106/11677692/albares-reprocha-pp-plantara-milei-llamo-sanchez-impresentable-dictador.html",
+      "fecha": "2026-11-06T08:56+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "Feijóo dice que España debe renunciar a organizar el Mundial 2030 si la final es en Marruecos",
+      "medio": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/deportes/20261106/11677592/feijoo-espana-renunciar-mundial-futbol-2030-final-marruecos.html",
+      "fecha": "2026-11-06T05:26+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "Sánchez pide explicaciones a Feijóo por el supuesto intento de soborno a Koldo",
+      "medio": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/politica/20261106/11677267/sanchez-pide-explicaciones-feijoo-supuesto-intento-soborno-koldo.html",
+      "fecha": "2026-11-06T05:00+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "Feijóo garantiza que la red de Rodalies será una prioridad si alcanza el Gobierno",
+      "medio": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/politica/20261106/11677264/feijoo-garantiza-red-rodalies-sera-prioridad-alcanza-gobierno.html",
+      "fecha": "2026-11-06T05:00+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "ERC pone el foco en captar voto metropolitano e insatisfecho con el PSC",
+      "medio": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/politica/20261106/11677225/erc-pone-foco-captar-voto-metropolitano-e-insatisfecho-psc.html",
+      "fecha": "2026-11-06T05:00+00:00",
+      "partidos": [
+        "erc"
+      ]
+    },
+    {
+      "titulo": "El ‘gurú’ de las deportaciones masivas prepara su desembarco en España ante un posible gobierno de PP y Vox",
+      "medio": "El País",
+      "url": "https://elpais.com/espana/2026-11-06/el-guru-de-la-remigracion-prepara-su-desembarco-en-espana-ante-un-posible-gobierno-de-pp-y-vox.html",
+      "fecha": "2026-11-06T04:30+00:00",
+      "partidos": [
+        "pp",
+        "vox"
+      ]
+    },
+    {
+      "titulo": "Sánchez y Feijóo retoman la campaña en Valencia y Valladolid para contraponer sus modelos de gestión",
+      "medio": "20minutos",
+      "url": "https://www.20minutos.es/nacional/sanchez-feijoo-retoman-campana-valencia-valladolid-para-contraponer-sus-modelos-gestion_7057790_0.html",
+      "fecha": "2026-11-06T04:00+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
       "titulo": "Corvillo confesó a Aldama que Sánchez durmió en su casa en la campaña de las primarias del PSOE",
       "medio": "ABC",
       "url": "https://www.abc.es/espana/sanchez-alojo-casa-corvillo-primarias-2016-20261106214520-nt.html",
       "fecha": "2026-11-06T00:25+00:00",
       "partidos": [
         "psoe"
+      ]
+    },
+    {
+      "titulo": "El PP promete \"movilizar\" 20.000 millones al año en infraestructuras con \"prioridad\" para el mantenimiento ferroviario",
+      "medio": "El Mundo",
+      "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/06/6aecda3cfc6c836c1c8b459e.html",
+      "fecha": "2026-11-06T00:22+00:00",
+      "partidos": [
+        "pp"
       ]
     },
     {
@@ -473,6 +646,34 @@
       "fecha": "2026-11-05T23:06+00:00",
       "partidos": [
         "psoe"
+      ]
+    },
+    {
+      "titulo": "La media de encuestas tras la dimisión de Óscar Puente: así afecta al voto del PSOE",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/politica/media-encuestas-dimision-oscar-puente-afecta-voto-psoe_1_13640327.html",
+      "fecha": "2026-11-05T22:43+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "Koldo, el PP y los cretenses mienten",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/opinion/zona-critica/koldo-pp-cretenses-mienten_129_13642048.html",
+      "fecha": "2026-11-05T22:43+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "El PP y Vox fijan el debate en las Corts de la ley del suelo que permite pelotazos urbanísticos el día de la huelga general",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/comunitat-valenciana/pp-vox-fijan-debate-corts-ley-suelo-permite-pelotazos-urbanisticos-dia-huelga-general_1_13641843.html",
+      "fecha": "2026-11-05T21:57+00:00",
+      "partidos": [
+        "pp",
+        "vox"
       ]
     },
     {
@@ -3027,206 +3228,6 @@
       "fecha": "2026-10-30T20:21+00:00",
       "partidos": [
         "pp"
-      ]
-    },
-    {
-      "titulo": "Dolor y emoción en la despedida de familiares, vecinos y dirigentes del PP a Fátima Báñez en San Juan del Puerto",
-      "medio": "El País",
-      "url": "https://elpais.com/espana/2026-10-30/dolor-y-emocion-en-la-despedida-de-familiares-vecinos-y-dirigentes-del-pp-a-fatima-banez-en-san-juan-del-puerto.html",
-      "fecha": "2026-10-30T18:30+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Vox presenta una querella por prevaricación contra el subdelegado del Gobierno en Zamora",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/castilla-leon/vox-presenta-querella-prevaricacion-subdelegado-gobierno-zamora-20261030152053-nt.html",
-      "fecha": "2026-10-30T17:18+00:00",
-      "partidos": [
-        "vox"
-      ]
-    },
-    {
-      "titulo": "Los primeros presupuestos andaluces de PP-Vox cristalizan el rechazo a los menores extranjeros y crecen en sanidad",
-      "medio": "elDiario.es",
-      "url": "https://www.eldiario.es/andalucia/primeros-presupuestos-andaluces-pp-vox-cristalizan-rechazo-menores-extranjeros-crecen-sanidad_1_13614461.html",
-      "fecha": "2026-10-30T15:02+00:00",
-      "partidos": [
-        "pp",
-        "vox"
-      ]
-    },
-    {
-      "titulo": "Vox se querella contra el subdelegado del Gobierno en Zamora por cinco delitos tras las protestas en su acto",
-      "medio": "elDiario.es",
-      "url": "https://www.eldiario.es/castilla-y-leon/tribunales/vox-querella-subdelegado-gobierno-zamora-prevaricacion-delito-electoral-protestas-acto_1_13627840.html",
-      "fecha": "2026-10-30T14:57+00:00",
-      "partidos": [
-        "vox"
-      ]
-    },
-    {
-      "titulo": "Un concejal del PP admite que recurrió a un empresario turístico para salvar la vivienda embargada de su hermana en Ibiza",
-      "medio": "elDiario.es",
-      "url": "https://www.eldiario.es/illes-balears/politica/concejal-pp-admite-recurrio-empresario-salvar-vivienda-embargada-hermana-ibiza_1_13627502.html",
-      "fecha": "2026-10-30T14:21+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Frente Amplio eleva la presión sobre Puente al reclamar oficialmente su dimisión",
-      "medio": "Europa Press",
-      "url": "https://www.europapress.es/nacional/noticia-frente-amplio-eleva-presion-puente-reclamar-oficialmente-dimision-20261030145955.html",
-      "fecha": "2026-10-30T13:59+00:00",
-      "partidos": [
-        "sumar"
-      ]
-    },
-    {
-      "titulo": "El PP y la CEOE acompañan a la familia de Fátima Báñez en el tanatorio antes del funeral",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/andalucia/huelva/pp-ceoe-acompanan-familia-fatima-banez-tanatorio-20261030142641-nts.html",
-      "fecha": "2026-10-30T13:30+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Vox se reúne con el Cercle d´Economia y Foment para trasladar su programa económico",
-      "medio": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/politica/20261030/11672184/vox-reune-cercle-d-economia-foment-trasladar-programa-economico.html",
-      "fecha": "2026-10-30T13:28+00:00",
-      "partidos": [
-        "vox"
-      ]
-    },
-    {
-      "titulo": "El PSOE de Ceuta impugna la candidatura para el 29N de dos consejeros del PP por supuesta incompatibilidad",
-      "medio": "Europa Press",
-      "url": "https://www.europapress.es/nacional/noticia-psoe-ceuta-impugna-candidatura-29n-dos-consejeros-pp-supuesta-incompatibilidad-20261030142829.html",
-      "fecha": "2026-10-30T13:28+00:00",
-      "partidos": [
-        "pp",
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "Ex cargos del PP en el antiguo Ministerio de Fomento que dirigieron Renfe piden \"despolitizar\" Adif",
-      "medio": "elDiario.es",
-      "url": "https://www.eldiario.es/economia/ex-cargos-pp-antiguo-ministerio-fomento-dirigieron-renfe-piden-despolitizar-adif_1_13627277.html",
-      "fecha": "2026-10-30T13:20+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Feijóo apunta al Gobierno por el accidente de Urda: «Si no dimiten ellos, les dimitiremos en las urnas»",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/feijoo-apunta-gobierno-accidente-urda-dimiten-dimitiremos-20261030133340-nt.html",
-      "fecha": "2026-10-30T13:20+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Figaredo (Vox) culpa al Gobierno del accidente en Urda y cree que una dimisión de Puente \"es lo de menos\"",
-      "medio": "Europa Press",
-      "url": "https://www.europapress.es/catalunya/noticia-figaredo-vox-culpa-gobierno-accidente-urda-cree-dimision-puente-menos-20261030140531.html",
-      "fecha": "2026-10-30T13:05+00:00",
-      "partidos": [
-        "vox"
-      ]
-    },
-    {
-      "titulo": "Feijóo culpa al Gobierno del accidente en Urda por no renovar el sistema de seguridad: \"Si no dimiten, les dimitiremos en las urnas\"",
-      "medio": "20minutos",
-      "url": "https://www.20minutos.es/nacional/feijoo-culpa-gobierno-accidente-urda-por-no-renovar-sistema-seguridad-si-no-dimiten-les-dimitiremos-las-urnas_7055514_0.html",
-      "fecha": "2026-10-30T12:49+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Feijóo culpa directamente al Gobierno del accidente: \"Han muerto al menos 69 personas porque no renovó un sistema de seguridad obsoleto\"",
-      "medio": "El Mundo",
-      "url": "https://www.elmundo.es/espana/2026/10/30/6ae48e88e9cf4a7d748b457b.html",
-      "fecha": "2026-10-30T12:42+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Amigos, familiares y compañeros del PP despiden en Huelva a Fátima Báñez",
-      "medio": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/politica/20261030/11672132/amigos-familiares-companeros-pp-despiden-huelva-fatima-banez.html",
-      "fecha": "2026-10-30T12:31+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Junts ve “inaplazable” la dimisión de Puente y pide que Sánchez comparezca",
-      "medio": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/politica/20261030/11672129/junts-ve-inaplazable-dimision-puente-pide-sanchez-comparezca.html",
-      "fecha": "2026-10-30T12:23+00:00",
-      "partidos": [
-        "junts"
-      ]
-    },
-    {
-      "titulo": "Feijóo: “Han muerto 69 personas porque el Gobierno no renovó un sistema de seguridad obsoleto”",
-      "medio": "El País",
-      "url": "https://elpais.com/espana/2026-10-30/feijoo-apunta-al-mantenimiento-deficiente-de-la-alta-velocidad-si-no-dimiten-ellos-los-dimitiremos-en-las-urnas.html",
-      "fecha": "2026-10-30T12:17+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Familia, amigos y compañeros del PP despiden en Huelva a la exministra Fátima Báñez, fallecida en el accidente de Urda",
-      "medio": "20minutos",
-      "url": "https://www.20minutos.es/nacional/familia-amigos-companeros-pp-despiden-huelva-exministra-fatima-banez-fallecida-accidente-urda_7055496_0.html",
-      "fecha": "2026-10-30T12:15+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Feijóo acusa a Sánchez de abandonar la \"cultura de seguridad\" y avisa: Su responsabilidad se dirimirá el 29N",
-      "medio": "Europa Press",
-      "url": "https://www.europapress.es/nacional/noticia-feijoo-acusa-sanchez-abandonar-cultura-seguridad-avisa-responsabilidad-dirimira-29n-20261030131342.html",
-      "fecha": "2026-10-30T12:13+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Amigos, familiares y compañeros del PP despiden en Huelva a la ex ministra Fátima Báñez",
-      "medio": "El Mundo",
-      "url": "https://www.elmundo.es/espana/2026/10/30/6ae43ea8fc6c839b3b8b456d.html",
-      "fecha": "2026-10-30T12:10+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Feijóo pide la dimisión de Sánchez y de Puente: “Si no dimiten, les dimitiremos en las urnas”",
-      "medio": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/politica/20261030/11671994/feijoo-pide-dimision-sanchez-puente-dimiten-les-dimitiremos-urnas.html",
-      "fecha": "2026-10-30T12:02+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Un juzgado admite una demanda del exjuez García-Castellón contra el portavoz de Podemos por llamarle prevaricador",
-      "medio": "El País",
-      "url": "https://elpais.com/espana/2026-10-30/un-juzgado-admite-una-demanda-del-exjuez-garcia-castellon-contra-el-portavoz-de-podemos-por-llamarle-prevaricador.html",
-      "fecha": "2026-10-30T11:22+00:00",
-      "partidos": [
-        "podemos"
       ]
     }
   ],
