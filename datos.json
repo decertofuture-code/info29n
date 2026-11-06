@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-05T17:17+00:00",
+  "actualizado": "2026-11-06T01:27+00:00",
   "temas": [
     {
       "id": "vivienda",
@@ -449,6 +449,134 @@
   ],
   "noticias": [
     {
+      "titulo": "Corvillo confesó a Aldama que Sánchez durmió en su casa en la campaña de las primarias del PSOE",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/sanchez-alojo-casa-corvillo-primarias-2016-20261106214520-nt.html",
+      "fecha": "2026-11-06T00:25+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "Puente no dejará ni la Secretaría General del PSOE en Valladolid ni la Ejecutiva Federal",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/puente-dejara-secretaria-general-castilla-leon-ejecutiva-20261106011928-nt.html",
+      "fecha": "2026-11-06T00:19+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "Pedro Sánchez vuelve a los mítines en Valencia para exprimir la \"indignidad\" de Mazón en la dana mientras le explota más corrupción con Ábalos",
+      "medio": "El Mundo",
+      "url": "https://www.elmundo.es/comunidad-valenciana/2026/11/06/6aece16efdddff59198b457b.html",
+      "fecha": "2026-11-05T23:06+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "El voto socialista de Valladolid, en suspenso por el candidato tachado Óscar Puente: \"A este PSOE no le voy a votar\"",
+      "medio": "El Mundo",
+      "url": "https://www.elmundo.es/espana/2026/11/05/6aecd739e4d4d8341b8b45ad.html",
+      "fecha": "2026-11-05T21:51+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "Feijóo irrumpe en la Cumbre Iberoamericana apoyando a María Corina y se acerca a Kast y Zelenski",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/feijoo-irrumpe-cumbre-iberoamericana-apoyando-maria-corina-20261105142203-nt.html",
+      "fecha": "2026-11-05T21:44+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "El PSOE estudia querellarse por los pagos a Koldo: \"Es muy grave influir en una declaración para derrocar al Gobierno\"",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/politica/psoe-estudia-querellarse-pagos-koldo-grave-influir-declaracion-derrocar-gobierno_1_13642399.html",
+      "fecha": "2026-11-05T20:54+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "Abascal: «En la mafia que nos gobierna está pringado hasta el chófer»",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/aragon/abascal-mafia-gobierna-pringado-chofer-20261105210428-nt.html",
+      "fecha": "2026-11-05T20:30+00:00",
+      "partidos": [
+        "vox"
+      ]
+    },
+    {
+      "titulo": "Abascal carga contra Sánchez tras las detenciones del caso Koldo: “está pringado hasta el chófer”",
+      "medio": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/politica/20261105/11677278/abascal-carga-sanchez-detenciones-caso-koldo-esta-pringado-chofer.html",
+      "fecha": "2026-11-05T20:06+00:00",
+      "partidos": [
+        "vox"
+      ]
+    },
+    {
+      "titulo": "Abascal será entrevistado este lunes en 'La Revuelta' de TVE",
+      "medio": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/politica/20261105/11677275/abascal-sera-entrevistado-lunes-revuelta-tve.html",
+      "fecha": "2026-11-05T19:48+00:00",
+      "partidos": [
+        "vox"
+      ]
+    },
+    {
+      "titulo": "PP y Vox acusan a Page de incumplir sus promesas con Talavera y el PSOE culpa al Ayuntamiento",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/castilla-la-mancha/toledo/talavera/pp-vox-acusan-page-incumplir-promesas-talavera-20261105200121-nt.html",
+      "fecha": "2026-11-05T19:40+00:00",
+      "partidos": [
+        "pp",
+        "psoe",
+        "vox"
+      ]
+    },
+    {
+      "titulo": "Sánchez pide explicaciones a Feijóo sobre la supuesta oferta de un millón de euros del PP a Koldo",
+      "medio": "El País",
+      "url": "https://elpais.com/espana/2026-11-05/sanchez-pide-explicaciones-a-feijoo-sobre-el-supuesto-pago-de-un-millon-de-euros-del-pp-a-koldo.html",
+      "fecha": "2026-11-05T19:20+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "Abascal será entrevistado este lunes en 'La Revuelta' de Broncano en TVE",
+      "medio": "El Confidencial",
+      "url": "https://www.elconfidencial.com/espana/2026-11-05/abascal-la-revuelta-tve-entrevistado-elecciones_4459914/",
+      "fecha": "2026-11-05T19:09+00:00",
+      "partidos": [
+        "vox"
+      ]
+    },
+    {
+      "titulo": "Feijóo defiende poner fecha a la celebración de elecciones en Venezuela durante una videoconferencia con María Corina Machado",
+      "medio": "El Mundo",
+      "url": "https://www.elmundo.es/espana/2026/11/05/6aecc228fc6c83f6498b4577.html",
+      "fecha": "2026-11-05T18:53+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "Sánchez exige explicaciones a Feijóo sobre el supuesto intento de soborno a Koldo García",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/politica/sanchez-exige-explicaciones-feijoo-supuesto-soborno-koldo-garcia_1_13642109.html",
+      "fecha": "2026-11-05T17:22+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
       "titulo": "El PP denuncia a la ministra de Vivienda por «vulnerar» la Ley Electoral en Burgos",
       "medio": "ABC",
       "url": "https://www.abc.es/espana/castilla-leon/pp-denuncia-ministra-vivienda-vulnerar-ley-electoral-20261105180928-nt.html",
@@ -514,12 +642,30 @@
       ]
     },
     {
+      "titulo": "La Junta Electoral permite tachar el nombre de Puente de la papeleta del PSOE en Valladolid para el 29-N",
+      "medio": "El País",
+      "url": "https://elpais.com/espana/2026-11-05/la-junta-electoral-permite-tachar-el-nombre-de-puente-de-la-papeleta-del-psoe-en-valladolid-para-el-29-n.html",
+      "fecha": "2026-11-05T15:03+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
       "titulo": "Gritos, intimidación y amenazas del alcalde del PP de Azofra a la concejala del PSOE: \"Te mando a casa llorando\"",
       "medio": "elDiario.es",
       "url": "https://www.eldiario.es/la-rioja/gritos-intimidacion-amenazas-alcalde-pp-azofra-concejala-psoe-mando-casa-llorando_1_13641243.html",
       "fecha": "2026-11-05T14:54+00:00",
       "partidos": [
         "pp",
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "Milei homologa el socialismo con el fascismo pero evita el ataque personal contra Pedro Sánchez",
+      "medio": "El País",
+      "url": "https://elpais.com/espana/2026-11-05/milei-homologa-el-socialismo-con-el-fascismo-pero-evita-el-ataque-personal-contra-pedro-sanchez.html",
+      "fecha": "2026-11-05T14:37+00:00",
+      "partidos": [
         "psoe"
       ]
     },
@@ -1368,6 +1514,15 @@
       "partidos": [
         "pp",
         "vox"
+      ]
+    },
+    {
+      "titulo": "Manfred Weber, líder del PPE: \"Feijóo es un nuevo comienzo y será un gran presidente; los resultados de Sánchez están a la vista de todos\"",
+      "medio": "El Mundo",
+      "url": "https://www.elmundo.es/espana/2026/11/04/6ae9ea6ce9cf4ae9788b4594.html",
+      "fecha": "2026-11-03T23:11+00:00",
+      "partidos": [
+        "pp"
       ]
     },
     {
@@ -3072,167 +3227,6 @@
       "fecha": "2026-10-30T11:22+00:00",
       "partidos": [
         "podemos"
-      ]
-    },
-    {
-      "titulo": "EH Bildu ganaría las elecciones generales en Euskadi al lograr 7 diputados gracias al desplome total de Sumar y de Podemos",
-      "medio": "El Mundo",
-      "url": "https://www.elmundo.es/pais-vasco/2026/10/30/6ae46b1afc6c8349608b4578.html",
-      "fecha": "2026-10-30T10:32+00:00",
-      "partidos": [
-        "sumar",
-        "bildu",
-        "podemos"
-      ]
-    },
-    {
-      "titulo": "EH Bildu se impondría con claridad el 29-N en el País Vasco y el PNV podría quedarse sin grupo propio",
-      "medio": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/local/paisvasco/20261030/11671955/eh-bildu-impondria-claridad-29-n-pais-vasco-pnv-perderia-dos-escanos.html",
-      "fecha": "2026-10-30T10:06+00:00",
-      "partidos": [
-        "bildu",
-        "pnv"
-      ]
-    },
-    {
-      "titulo": "Victoria de EH Bildu en votos y escaños en las generales, el PSE-EE segundo y el PNV tercero en Euskadi, según el Sociómetro",
-      "medio": "elDiario.es",
-      "url": "https://www.eldiario.es/euskadi/victoria-eh-bildu-votos-escanos-generales-pse-ee-segundo-pnv-tercero-euskadi-sociometro_1_13626270.html",
-      "fecha": "2026-10-30T10:00+00:00",
-      "partidos": [
-        "bildu",
-        "pnv"
-      ]
-    },
-    {
-      "titulo": "El PP exige abiertamente la dimisión o el cese de Puente: \"No debería llegar al martes\"",
-      "medio": "20minutos",
-      "url": "https://www.20minutos.es/nacional/pp-exige-abiertamente-dimision-cese-puente-no-deberia-llegar-martes_7055357_0.html",
-      "fecha": "2026-10-30T09:19+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "El PP pide el cese o dimisión de Puente antes de su comparecencia parlamentaria por el accidente de Urda",
-      "medio": "Europa Press",
-      "url": "https://www.europapress.es/nacional/noticia-pp-pide-cese-dimision-puente-antes-comparecencia-parlamentaria-accidente-urda-20261030093859.html",
-      "fecha": "2026-10-30T08:38+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "El PP pide la dimisión de Óscar Puente por primera vez desde el accidente de Urda: \"No debería llegar al martes\"",
-      "medio": "elDiario.es",
-      "url": "https://www.eldiario.es/politica/pp-pide-dimision-oscar-puente-primera-vez-accidente-urda_1_13626233.html",
-      "fecha": "2026-10-30T08:27+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Consumo trabaja para aprobar de nuevo el tope de precios tras situaciones de catástrofe que tumbaron PP, Vox y Junts",
-      "medio": "elDiario.es",
-      "url": "https://www.eldiario.es/economia/consumo-trabaja-aprobar-nuevo-tope-precios-situaciones-catastrofe-tumbaron-pp-vox-junts_1_13626150.html",
-      "fecha": "2026-10-30T07:33+00:00",
-      "partidos": [
-        "pp",
-        "vox",
-        "junts"
-      ]
-    },
-    {
-      "titulo": "El PSOE andaluz rescata como experto en sanidad pública a su exviceconsejero Martín Blanco, que cesó por los recortes",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/andalucia/psoe-recurre-experto-sanidad-publica-exviceconsejero-salud-20261030071837-nts.html",
-      "fecha": "2026-10-30T07:31+00:00",
-      "partidos": [
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "Valencia aprobará su último presupuesto de 1.361 millones con la estabilidad de Catalá en manos de los expulsados por Vox",
-      "medio": "El Mundo",
-      "url": "https://www.elmundo.es/comunidad-valenciana/2026/10/30/6ae372dfe4d4d878328b4599.html",
-      "fecha": "2026-10-30T06:52+00:00",
-      "partidos": [
-        "vox"
-      ]
-    },
-    {
-      "titulo": "El PP respetará el luto, pero después apuntará a Sánchez: “Con la dimisión de Puente no basta”",
-      "medio": "El País",
-      "url": "https://elpais.com/espana/2026-10-30/el-pp-respetara-el-luto-pero-despues-apuntara-a-sanchez-con-la-dimision-de-puente-no-basta.html",
-      "fecha": "2026-10-30T04:30+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Encuestas elecciones generales del 29N en Andalucía: resultados de PSOE, PP, Vox y Adelante Andalucía y ganador según los sondeos",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/andalucia/encuestas-elecciones-generales-29n-andalucia-resultados-psoe-20261030051500-nts.html",
-      "fecha": "2026-10-30T04:15+00:00",
-      "partidos": [
-        "pp",
-        "psoe",
-        "vox"
-      ]
-    },
-    {
-      "titulo": "Un PP \"en shock\" por Fátima Báñez cierra filas con la orden de Feijóo de \"extremar la prudencia\"",
-      "medio": "El Confidencial",
-      "url": "https://www.elconfidencial.com/espana/2026-10-30/pp-shock-fatima-banez-orden-feijoo-prudencia_4455824/",
-      "fecha": "2026-10-30T04:00+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Sánchez se ata a Puente en la campaña pese a los recelos en el PSOE: \"Mientras esté, no se hablará de otra cosa\"",
-      "medio": "20minutos",
-      "url": "https://www.20minutos.es/nacional/sanchez-se-ata-puente-campana-pese-los-recelos-psoe-mientras-este-no-se-hablara-otra-cosa_7055212_0.html",
-      "fecha": "2026-10-30T04:00+00:00",
-      "partidos": [
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "El ejemplo institucional de Page: \"muy afectado\", aparca sus diferencias con Sánchez y ejerce de anfitrión de Feijóo",
-      "medio": "El Mundo",
-      "url": "https://www.elmundo.es/espana/2026/10/30/6abcb554e85eceda1a8b45ba.html",
-      "fecha": "2026-10-30T00:50+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "El PP da por amortizado a Puente y se prepara ya para una campaña volcada en la gestión ferroviaria: \"La clave es quién nombra al siguiente ministro\"",
-      "medio": "El Mundo",
-      "url": "https://www.elmundo.es/espana/2026/10/30/6ae3c075fc6c83244f8b459f.html",
-      "fecha": "2026-10-29T23:02+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Antifraude acude a la sede del PP valenciano para requerir documentación sobre las vallas publicitarias de Llorca",
-      "medio": "elDiario.es",
-      "url": "https://www.eldiario.es/comunitat-valenciana/antifraude-acude-sede-pp-valenciano-requerir-documentacion-vallas-publicitarias-llorca_1_13624222.html",
-      "fecha": "2026-10-29T22:00+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "La continuidad de Puente en el Gobierno divide al PSOE mientras el ministro rechaza dimitir: \"Los audios lo ponen más contra las cuerdas\"",
-      "medio": "El Mundo",
-      "url": "https://www.elmundo.es/espana/2026/10/29/6ae38952fc6c83c1278b4597.html",
-      "fecha": "2026-10-29T21:50+00:00",
-      "partidos": [
-        "psoe"
       ]
     }
   ],
