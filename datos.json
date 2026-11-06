@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-06T12:35+00:00",
+  "actualizado": "2026-11-06T16:41+00:00",
   "temas": [
     {
       "id": "vivienda",
@@ -449,6 +449,136 @@
   ],
   "noticias": [
     {
+      "titulo": "Encuestas elecciones generales en Baleares: resultados de PP, PSOE y Vox y ganador según los sondeos el 29N",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/baleares/encuestas-elecciones-generales-baleares-resultados-pp-psoe-20261106051500-nt.html",
+      "fecha": "2026-11-06T16:21+00:00",
+      "partidos": [
+        "pp",
+        "psoe",
+        "vox"
+      ]
+    },
+    {
+      "titulo": "García Albiol, claro sobre el programa del PP para las elecciones: «Desokupar viviendas en 48 horas, controlar la inmigración irregular y acabar con la multirreincidencia es de sentido común»",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/cataluna/garcia-albiol-claro-sobre-programa-pp-elecciones-20261106054500-nt.html",
+      "fecha": "2026-11-06T16:19+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "El Gobierno PP-Vox suprime la cooperación al desarrollo en sus nuevos presupuestos",
+      "medio": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/politica/20261106/11678166/gobierno-pp-vox-suprime-cooperacion-desarrollo-nuevos-presupuestos.html",
+      "fecha": "2026-11-06T15:49+00:00",
+      "partidos": [
+        "pp",
+        "vox"
+      ]
+    },
+    {
+      "titulo": "El consejero de Vox promete \"controlar al lobo\" en Castilla y León y devolver los alimentos extranjeros que no cumplan los estándares",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/castilla-y-leon/politica/consejero-vox-promete-controlar-lobo-castilla-leon-devolver-alimentos-extranjeros-no-cumplan-estandares_1_13640761.html",
+      "fecha": "2026-11-06T14:42+00:00",
+      "partidos": [
+        "vox"
+      ]
+    },
+    {
+      "titulo": "Vox convierte su lema estrella en una canción creada con IA para el 29N",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/vox-convierte-lema-estrella-cancion-creada-ia-20261106151156-nt.html",
+      "fecha": "2026-11-06T14:42+00:00",
+      "partidos": [
+        "vox"
+      ]
+    },
+    {
+      "titulo": "Prohens afronta su segunda prórroga de los Presupuestos al congelar la negociación con Vox",
+      "medio": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/politica/20261106/11678075/prohens-afronta-segunda-prorroga-presupuestos-congelar-negociacion-vox.html",
+      "fecha": "2026-11-06T13:59+00:00",
+      "partidos": [
+        "vox"
+      ]
+    },
+    {
+      "titulo": "El candidato de Podemos en Murcia interrumpe la Feria de Vivienda al grito de ¡fuera buitres!",
+      "medio": "El Mundo",
+      "url": "https://www.elmundo.es/murcia/2026/11/06/6aedd991e9cf4ad56e8b458b.html",
+      "fecha": "2026-11-06T13:47+00:00",
+      "partidos": [
+        "podemos"
+      ]
+    },
+    {
+      "titulo": "El Gobierno ve en la presunta oferta de un millón del PP a Koldo García el \"mayor ataque\" reciente a la democracia",
+      "medio": "Europa Press",
+      "url": "https://www.europapress.es/nacional/noticia-gobierno-ve-presunta-oferta-millon-pp-koldo-garcia-mayor-ataque-reciente-democracia-20261106143229.html",
+      "fecha": "2026-11-06T13:32+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "El PP no vetará a Intxaurrondo para una entrevista en TVE y deja en el aire acudir a 'La Revuelta'",
+      "medio": "El Confidencial",
+      "url": "https://www.elconfidencial.com/espana/2026-11-06/el-pp-no-vetara-a-intxaurrondo-para-una-entrevista-en-tve-y-deja-en-el-aire-acudir-a-la-revuelta_4460447/",
+      "fecha": "2026-11-06T13:17+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "El Frente Amplio plantea una ley para expropiar viviendas a los fondos buitre",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/politica/frente-amplio-plantea-ley-expropiar-viviendas-fondos-buitre_1_13643839.html",
+      "fecha": "2026-11-06T12:35+00:00",
+      "partidos": [
+        "sumar"
+      ]
+    },
+    {
+      "titulo": "El PSOE de Sevilla empuña sus galones de invicto en unas generales para lanzar la campaña \"definitiva\" de Pedro Sánchez",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/andalucia/psoe-sevilla-empuna-galones-invicto-generales-lanzar-campana-definitiva-pedro-sanchez_1_13643599.html",
+      "fecha": "2026-11-06T12:28+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "El PP desplegará a todo el partido en una campaña territorial y digital para extender el mensaje de 'El cambio necesario'",
+      "medio": "20minutos",
+      "url": "https://www.20minutos.es/nacional/pp-desplegara-todo-partido-una-campana-territorial-digital-para-extender-mensaje-cambio-necesario_7058193_0.html",
+      "fecha": "2026-11-06T12:25+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "El PP congela los presupuestos de Balears en pleno pulso con Vox y aplaza la negociación hasta después de las elecciones",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/illes-balears/economia/pp-congela-presupuestos-balears-despues-elecciones-e-iniciara-2027-cuentas-prorrogadas_1_13643821.html",
+      "fecha": "2026-11-06T12:19+00:00",
+      "partidos": [
+        "pp",
+        "vox"
+      ]
+    },
+    {
+      "titulo": "Feijóo dará inicio a la campaña electoral del 29-N con un acto en Badalona con Albiol",
+      "medio": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/politica/20261106/11677957/feijoo-dara-inicio-campana-electoral-29-n-acto-badalona-albiol.html",
+      "fecha": "2026-11-06T12:18+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
       "titulo": "Irene Carvajal (Vox) defiende que los espacios municipales respetan «siempre» la la «libertad de creación»",
       "medio": "ABC",
       "url": "https://www.abc.es/espana/castilla-leon/irene-carvajal-vox-defiende-espacios-municipales-respetan-20261106131325-nt.html",
@@ -537,6 +667,15 @@
       "fecha": "2026-11-06T10:46+00:00",
       "partidos": [
         "podemos"
+      ]
+    },
+    {
+      "titulo": "Cuca Gamarra, sobre el trato vejatorio del alcalde de Azofra a la concejala del PSOE: \"No he escuchado los audios, pero ya se ha disculpado\"",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/la-rioja/cuca-gamarra-trato-vejatorio-alcalde-azofra-concejala-psoe-no-he-escuchado-audios-disculpado_1_13643286.html",
+      "fecha": "2026-11-06T10:29+00:00",
+      "partidos": [
+        "psoe"
       ]
     },
     {
@@ -739,6 +878,15 @@
         "pp",
         "psoe",
         "vox"
+      ]
+    },
+    {
+      "titulo": "El PP se desmarca de la idea de Álvarez de Toledo de eliminar “los pinganillos” para traducir lenguas cooficiales en el Congreso",
+      "medio": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/politica/20261105/11677270/alvarez-toledo-propone-eliminar-pinganillos-traduccion-lenguas-cooficiales-congreso.html",
+      "fecha": "2026-11-05T19:40+00:00",
+      "partidos": [
+        "pp"
       ]
     },
     {
@@ -3075,157 +3223,6 @@
       "medio": "La Vanguardia",
       "url": "https://www.lavanguardia.com/politica/20261031/11672828/pp-exige-sanchez-consecuencias-tragedia-urda-despachar-cabeza-turco.html",
       "fecha": "2026-10-31T12:46+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "El PP critica que Puente \"busque una cabeza de turco\" en el accidente de Urda",
-      "medio": "Europa Press",
-      "url": "https://www.europapress.es/nacional/noticia-pp-critica-puente-busque-cabeza-turco-accidente-urda-20261031131715.html",
-      "fecha": "2026-10-31T12:17+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "El Frente Amplio sitúa la inversión pública en el centro de la crisis ferroviaria",
-      "medio": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/politica/20261031/11672825/frente-amplio-situa-inversion-publica-centro-crisis-ferroviaria-delgado-colau-urda.html",
-      "fecha": "2026-10-31T12:10+00:00",
-      "partidos": [
-        "sumar"
-      ]
-    },
-    {
-      "titulo": "Pedro Sánchez participa en la reunión de coordinación y seguimiento de la emergencia por el accidente de Urda",
-      "medio": "20minutos",
-      "url": "https://www.20minutos.es/nacional/pedro-sanchez-participa-reunion-coordinacion-seguimiento-emergencia-por-accidente-urda_7055781_0.html",
-      "fecha": "2026-10-31T11:47+00:00",
-      "partidos": [
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "Abascal dice que el posible cierre del AVE Madrid-Barcelona demuestra que el Gobierno es \"responsable\" en Urda",
-      "medio": "Europa Press",
-      "url": "https://www.europapress.es/nacional/noticia-abascal-dice-posible-cierre-ave-madrid-barcelona-demuestra-gobierno-responsable-urda-20261031113747.html",
-      "fecha": "2026-10-31T10:37+00:00",
-      "partidos": [
-        "vox"
-      ]
-    },
-    {
-      "titulo": "Accidente de tren en Urda, última hora en directo: el PP critica que Puente “busque un cabeza de turco”",
-      "medio": "elDiario.es",
-      "url": "https://www.eldiario.es/castilla-la-mancha/accidente-tren-urda-ultima-hora-directo_133_13628783.html",
-      "fecha": "2026-10-31T07:22+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Una excandidata, un exteniente de Alcalde o un director con Ximo Puig: Puente llena la dirección de Adif de cargos próximos al PSOE",
-      "medio": "20minutos",
-      "url": "https://www.20minutos.es/nacional/una-excandidata-un-exteniente-alcalde-un-director-con-ximo-puig-puente-llena-direccion-adif-cargos-proximos-psoe_7055619_0.html",
-      "fecha": "2026-10-31T06:48+00:00",
-      "partidos": [
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "El exalcalde del PSOE de Belalcázar vincula la muerte de Fátima Báñez con la gestión del PP: 'Los recortes matan'",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/andalucia/cordoba/exalcalde-psoe-belalcazar-desata-polemica-tras-vincular-20261031070359-nts.html",
-      "fecha": "2026-10-31T06:03+00:00",
-      "partidos": [
-        "pp",
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "El pacto PP-Vox en los presupuestos andaluces: bajada de impuestos y recorte a la cooperación internacional",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/andalucia/pacto-ppvox-presupuestos-andaluces-bajada-impuestos-recorte-20261031172803-nts.html",
-      "fecha": "2026-10-31T06:03+00:00",
-      "partidos": [
-        "pp",
-        "vox"
-      ]
-    },
-    {
-      "titulo": "Anticorrupción pide el archivo para 18 ex altos cargos andaluces del PSOE al haber «prescrito» una ayuda ilegal de 1,2 millones",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/andalucia/anticorrupcion-pide-archivo-altos-cargos-andaluces-psoe-20261031070329-nts.html",
-      "fecha": "2026-10-31T06:03+00:00",
-      "partidos": [
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "El escenario vasco se transforma: del auge de Bildu a la aparición de una izquierda antiinmigración",
-      "medio": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/politica/20261031/11672485/escenario-vasco-transforma-auge-bildu-aparicion-izquierda-antiinmigracion.html",
-      "fecha": "2026-10-31T05:00+00:00",
-      "partidos": [
-        "bildu"
-      ]
-    },
-    {
-      "titulo": "Encuestas elecciones 29N en España: el resultado si solo votasen los pensionistas y la intención de voto a PSOE, PP, Vox y resto de partidos",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/resultado-elecciones-29n-espana-solo-votasen-pensionistas-20261031053000-nt.html",
-      "fecha": "2026-10-31T04:30+00:00",
-      "partidos": [
-        "pp",
-        "psoe",
-        "vox"
-      ]
-    },
-    {
-      "titulo": "Encuestas elecciones Cataluña: resultados de Aliança Catalana, PSC, Junts, PP y Vox y ganador según los sondeos",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/cataluna/encuestas-elecciones-cataluna-resultados-alianca-catalana-psc-20261031051500-nt.html",
-      "fecha": "2026-10-31T04:15+00:00",
-      "partidos": [
-        "pp",
-        "vox",
-        "junts"
-      ]
-    },
-    {
-      "titulo": "Feijóo cambia el guion de su campaña tras el accidente y reúne a la cúpula del PP para rehacer la estrategia",
-      "medio": "El Mundo",
-      "url": "https://www.elmundo.es/espana/2026/10/31/6ae4e88dfc6c83f5568b4590.html",
-      "fecha": "2026-10-31T00:13+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Malestar en el sector de la formación deportiva por la plaza para un exasesor del PP en Zaragoza: \"Hay mucho enfado\"",
-      "medio": "elDiario.es",
-      "url": "https://www.eldiario.es/aragon/politica/malestar-sector-formacion-deportiva-plaza-exasesor-pp-zaragoza-hay-enfado_1_13624409.html",
-      "fecha": "2026-10-30T22:10+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "El Frente Amplio eleva la presión sobre Puente y tensa su relación con el PSOE a dos semanas de la campaña",
-      "medio": "elDiario.es",
-      "url": "https://www.eldiario.es/politica/frente-amplio-eleva-presion-puente-tensa-relacion-psoe-semanas-campana_1_13627803.html",
-      "fecha": "2026-10-30T21:17+00:00",
-      "partidos": [
-        "psoe",
-        "sumar"
-      ]
-    },
-    {
-      "titulo": "Óscar Puente critica la \"doble vara de medir\" de Feijóo con el accidente ferroviario de Urda",
-      "medio": "20minutos",
-      "url": "https://www.20minutos.es/nacional/oscar-puente-critica-doble-vara-medir-feijoo-con-accidente-ferroviario-urda_7055708_0.html",
-      "fecha": "2026-10-30T20:21+00:00",
       "partidos": [
         "pp"
       ]
