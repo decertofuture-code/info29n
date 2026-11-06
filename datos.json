@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-06T16:41+00:00",
+  "actualizado": "2026-11-06T21:59+00:00",
   "temas": [
     {
       "id": "vivienda",
@@ -449,6 +449,126 @@
   ],
   "noticias": [
     {
+      "titulo": "Andalucía destina a sanidad 780 euros más por habitante que con el PSOE",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/andalucia/andalucia-destina-sanidad-780-euros-habitante-psoe-20261107220200-nts.html",
+      "fecha": "2026-11-06T21:02+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "El PP dice que Óscar Puente está \"donde siempre debió estar: en su casa\" y tacha su Ministerio de \"museo de horrores\"",
+      "medio": "20minutos",
+      "url": "https://www.20minutos.es/nacional/pp-dice-oscar-puente-esta-donde-siempre-debio-estar-casa-tacha-ministerio-museo-horrores_7058415_0.html",
+      "fecha": "2026-11-06T20:31+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "Pedro Sánchez llama a la movilización en su retorno a la precampaña: “Si se pudo en Brasil y EE UU, en España también”",
+      "medio": "El País",
+      "url": "https://elpais.com/espana/comunidad-valenciana/2026-11-06/pedro-sanchez-llama-a-la-movilizacion-en-su-retorno-a-la-precampana-si-se-pudo-en-brasil-y-ee-uu-en-espana-tambien.html",
+      "fecha": "2026-11-06T20:27+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "Abascal afirma que Sánchez da mucho \"miedo\" y avisa de que a él no lo \"van a amordazar\" ni durante un luto oficial",
+      "medio": "20minutos",
+      "url": "https://www.20minutos.es/nacional/abascal-afirma-que-sanchez-da-mucho-miedo-avisa-que-no-van-amordazar-ni-durante-un-luto-oficial_7058412_0.html",
+      "fecha": "2026-11-06T20:16+00:00",
+      "partidos": [
+        "vox"
+      ]
+    },
+    {
+      "titulo": "Sánchez contrapone el “ejemplo de dignidad” de Puente con su dimisión a la actitud del PP y Vox",
+      "medio": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/politica/20261106/11678341/sanchez-contrapone-ejemplo-dignidad-puente-dimision-actitud-pp-vox.html",
+      "fecha": "2026-11-06T20:02+00:00",
+      "partidos": [
+        "pp",
+        "vox"
+      ]
+    },
+    {
+      "titulo": "Abascal, en Granada: «Hemos venido a hacer justicia, no habrá perdón para los criminales»",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/andalucia/granada/abascal-granada-venido-justicia-perdon-criminales-20261106205625-nts.html",
+      "fecha": "2026-11-06T20:00+00:00",
+      "partidos": [
+        "vox"
+      ]
+    },
+    {
+      "titulo": "Sánchez: \"La ejemplaridad que ha ejercido Óscar Puente jamás la practican PP y Vox”",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/politica/sanchez-ejemplaridad-ejercido-oscar-puente-practican-pp-vox_1_13645643.html",
+      "fecha": "2026-11-06T19:53+00:00",
+      "partidos": [
+        "pp",
+        "vox"
+      ]
+    },
+    {
+      "titulo": "Sánchez defiende el ejemplo de la dimisión de Puente frente al PP que no asume responsabilidades en tragedias",
+      "medio": "Europa Press",
+      "url": "https://www.europapress.es/nacional/noticia-sanchez-defiende-ejemplo-dimision-puente-frente-pp-no-asume-responsabilidades-tragedias-20261106205246.html",
+      "fecha": "2026-11-06T19:52+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "Sigue en directo el acto público de Santiago Abascal en Granada",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/sigue-directo-acto-publico-santiago-abascal-granada-20261106190226-nt.html",
+      "fecha": "2026-11-06T19:42+00:00",
+      "partidos": [
+        "vox"
+      ]
+    },
+    {
+      "titulo": "Sánchez alaba a Puente en su primer mitin tras la tragedia de Urda y lo opone con el PP: \"Ejemplo de dignidad que ellos no practican\"",
+      "medio": "20minutos",
+      "url": "https://www.20minutos.es/nacional/sanchez-alaba-puente-su-primer-mitin-tras-tragedia-urda-un-ejemplo-dignidad-que-oposicion-no-practica_7058402_0.html",
+      "fecha": "2026-11-06T19:42+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "La vuelta de Pedro Sánchez a València inyecta optimismo al PSOE: “Vamos a ganar y gobernar”",
+      "medio": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/local/valencia/20261106/11678321/vuelta-pedro-sanchez-valencia-inyecta-optimismo-psoe-ganar-gobernar.html",
+      "fecha": "2026-11-06T19:39+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "Frente Amplio lanza una app que simula la recaudación en las 50 grandes fortunas de su impuesto a ultrarricos",
+      "medio": "20minutos",
+      "url": "https://www.20minutos.es/nacional/frente-amplio-lanza-una-app-que-simula-recaudacion-las-50-grandes-fortunas-su-impuesto-ultrarricos_7058371_0.html",
+      "fecha": "2026-11-06T19:39+00:00",
+      "partidos": [
+        "sumar"
+      ]
+    },
+    {
+      "titulo": "Rufián reprocha a Nogueras votar \"8 veces con PP y Vox contra el derecho a la vivienda\"",
+      "medio": "20minutos",
+      "url": "https://www.20minutos.es/nacional/rufian-reprocha-nogueras-votar-8-veces-con-pp-vox-contra-derecho-vivienda_7058358_0.html",
+      "fecha": "2026-11-06T17:24+00:00",
+      "partidos": [
+        "pp",
+        "vox"
+      ]
+    },
+    {
       "titulo": "Encuestas elecciones generales en Baleares: resultados de PP, PSOE y Vox y ganador según los sondeos el 29N",
       "medio": "ABC",
       "url": "https://www.abc.es/espana/baleares/encuestas-elecciones-generales-baleares-resultados-pp-psoe-20261106051500-nt.html",
@@ -521,6 +641,15 @@
       "fecha": "2026-11-06T13:32+00:00",
       "partidos": [
         "pp"
+      ]
+    },
+    {
+      "titulo": "Sánchez abrirá campaña en Sevilla, la única provincia andaluza donde el PSOE se mantiene imbatible",
+      "medio": "El País",
+      "url": "https://elpais.com/espana/elecciones-generales/2026-11-06/sanchez-abrira-campana-en-sevilla-la-unica-provincia-andaluza-donde-el-psoe-se-mantiene-imbatible.html",
+      "fecha": "2026-11-06T13:20+00:00",
+      "partidos": [
+        "psoe"
       ]
     },
     {
@@ -3091,138 +3220,6 @@
       "medio": "El País",
       "url": "https://elpais.com/espana/2026-11-01/feijoo-gira-la-campana-hacia-el-perfil-gestor-del-pp.html",
       "fecha": "2026-11-01T04:30+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Encuestas elecciones generales 29N: resultados de PSOE, PP, VOX y Frente Amplio y ganador según los sondeos",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/encuestas-elecciones-generales-29n-resultados-psoe-pp-20261101053000-nt.html",
-      "fecha": "2026-11-01T04:30+00:00",
-      "partidos": [
-        "pp",
-        "psoe",
-        "sumar"
-      ]
-    },
-    {
-      "titulo": "El accidente de Urda convulsiona el 29-N: El PSOE se hunde en el desánimo y el PP gira hacia la gestión",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/accidente-urda-convulsiona-29n-psoe-hunde-desanimo-20261101013929-nt.html",
-      "fecha": "2026-11-01T00:49+00:00",
-      "partidos": [
-        "pp",
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "Santiago Abascal: \"El crecimiento de Vox es lo que asegura la alternativa\"",
-      "medio": "El Mundo",
-      "url": "https://www.elmundo.es/espana/2026/10/31/6ae5d63221efa081798b4597.html",
-      "fecha": "2026-10-31T21:48+00:00",
-      "partidos": [
-        "vox"
-      ]
-    },
-    {
-      "titulo": "De Angrois a la dana de Valencia: cuando el PP gobernó sin asumir responsabilidades ante tragedias mortales",
-      "medio": "elDiario.es",
-      "url": "https://www.eldiario.es/politica/angrois-dana-valencia-pp-goberno-asumir-responsabilidades-tragedias-mortales_1_13628170.html",
-      "fecha": "2026-10-31T21:12+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Miguel Ángel Revilla: \"Feijóo va a ser un presidente con las manos atadas por Vox\"",
-      "medio": "elDiario.es",
-      "url": "https://www.eldiario.es/cantabria/miguel-angel-revilla-feijoo-presidente-manos-atadas-vox_1_13627618.html",
-      "fecha": "2026-10-31T21:12+00:00",
-      "partidos": [
-        "pp",
-        "vox"
-      ]
-    },
-    {
-      "titulo": "Los insultos más feroces contra Pedro Sánchez",
-      "medio": "elDiario.es",
-      "url": "https://www.eldiario.es/opinion/insultos-feroces-pedro-sanchez_129_13624709.html",
-      "fecha": "2026-10-31T21:12+00:00",
-      "partidos": [
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "Combates de UFC a 190 euros la entrada y comercios 75 años llenos: las cuentas del Gobierno del PP para La Romareda",
-      "medio": "elDiario.es",
-      "url": "https://www.eldiario.es/aragon/politica/combates-ufc-190-euros-entrada-comercios-75-anos-llenos-cuentas-gobierno-pp-romareda_1_13626247.html",
-      "fecha": "2026-10-31T21:12+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "El PSOE no remonta: GAD3 ve \"imposible\" que Sánchez sea el más votado el 29-N tras el accidente de Urda",
-      "medio": "El Confidencial",
-      "url": "https://www.elconfidencial.com/espana/2026-10-31/encuesta-escanos-psoe-pp-accidente-urda-mayoria_4457029/",
-      "fecha": "2026-10-31T19:33+00:00",
-      "partidos": [
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "Vox acusa al Gobierno de hacer \"chistecitos\" en televisión mientras se produce la \"tercermundización\" de la red ferroviaria",
-      "medio": "20minutos",
-      "url": "https://www.20minutos.es/nacional/vox-acusa-gobierno-hacer-chistecitos-television-mientras-se-produce-tercermundizacion-red-ferroviaria_7055827_0.html",
-      "fecha": "2026-10-31T16:16+00:00",
-      "partidos": [
-        "vox"
-      ]
-    },
-    {
-      "titulo": "Vox pide suspender el voto a los hijos de los nacionalizados por la 'ley de nietos' si los padres no acreditan el exilio",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/vox-pide-suspender-voto-hijos-nacionalizados-ley-20261031151940-nt.html",
-      "fecha": "2026-10-31T14:49+00:00",
-      "partidos": [
-        "vox"
-      ]
-    },
-    {
-      "titulo": "Socios de Sánchez y UGT exigen que Puente responda por la tragedia: Frente Amplio, PNV y BNG piden \"responsabilidades\"",
-      "medio": "20minutos",
-      "url": "https://www.20minutos.es/nacional/socios-sanchez-ugt-exigen-que-puente-responda-por-tragedia-frente-amplio-pnv-bng-piden-responsabilidades_7055807_0.html",
-      "fecha": "2026-10-31T14:34+00:00",
-      "partidos": [
-        "sumar",
-        "pnv",
-        "bng"
-      ]
-    },
-    {
-      "titulo": "El PP exige a Sánchez \"consecuencias\" por la tragedia de Urda y promete trabajar para \"nunca nadie sienta miedo a subir a un tren\"",
-      "medio": "20minutos",
-      "url": "https://www.20minutos.es/nacional/pp-exige-sanchez-consecuencias-tragedia-urda-promete-trabajar-nunca-nadie-sienta-miedo-subir-tren_7055792_0.html",
-      "fecha": "2026-10-31T13:03+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Fúnez (PP) reclama «la verdad de lo que ha ocurrido» en el accidente ferroviario de Urda",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/castilla-la-mancha/toledo/pueblos/funez-reclama-verdad-ocurrido-accidente-ferroviario-urda-20261031135310-nt.html",
-      "fecha": "2026-10-31T12:56+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "El PP exige a Sánchez “consecuencias” por la tragedia de Urda: “No se puede despachar con una cabeza de turco”",
-      "medio": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/politica/20261031/11672828/pp-exige-sanchez-consecuencias-tragedia-urda-despachar-cabeza-turco.html",
-      "fecha": "2026-10-31T12:46+00:00",
       "partidos": [
         "pp"
       ]
