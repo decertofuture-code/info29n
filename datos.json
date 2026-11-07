@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-07T15:36+00:00",
+  "actualizado": "2026-11-07T20:46+00:00",
   "temas": [
     {
       "id": "vivienda",
@@ -449,6 +449,42 @@
   ],
   "noticias": [
     {
+      "titulo": "Isabel Díaz Ayuso, aclamada en Valencia: \"España necesita a Feijóo, va a cumplir, es el único que une tantas sensibilidades\"",
+      "medio": "20minutos",
+      "url": "https://www.20minutos.es/nacional/isabel-diaz-ayuso-aclamada-valencia-espana-necesita-feijoo-cumplir-unico-sensibilidades_7058571_0.html",
+      "fecha": "2026-11-07T18:19+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "Frente Amplio promete \"expropiar a los fondos buitre\" de vivienda y avanza una \"motosierra\" fiscal \"para los de arriba\"",
+      "medio": "20minutos",
+      "url": "https://www.20minutos.es/nacional/frente-amplio-promete-expropiar-los-fondos-buitre-vivienda-avanza-una-motosierra-fiscal-para-los-arriba_7058554_0.html",
+      "fecha": "2026-11-07T16:51+00:00",
+      "partidos": [
+        "sumar"
+      ]
+    },
+    {
+      "titulo": "Armengol pide al PP aclarar si financia a Okdiario y los populares le exigen responsabilidades por el caso mascarillas",
+      "medio": "20minutos",
+      "url": "https://www.20minutos.es/nacional/armengol-pide-pp-aclarar-si-financia-okdiario-los-populares-le-exigen-responsabilidades-por-caso-mascarillas_7058546_0.html",
+      "fecha": "2026-11-07T16:14+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "Sánchez y Feijóo ponen las cartas bocarriba de cara al 29N",
+      "medio": "20minutos",
+      "url": "https://www.20minutos.es/nacional/sanchez-feijoo-muestran-sus-cartas_7058537_3.html",
+      "fecha": "2026-11-07T15:43+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
       "titulo": "Feijóo se compromete a «bajar el telón del espectáculo lamentable» del Gobierno de Sánchez y a «levantar las alfombras»",
       "medio": "ABC",
       "url": "https://www.abc.es/espana/castilla-leon/feijoo-compromete-bajar-telon-espectaculo-lamentable-gobierno-20261107135442-nt.html",
@@ -574,6 +610,15 @@
       "fecha": "2026-11-07T13:13+00:00",
       "partidos": [
         "vox"
+      ]
+    },
+    {
+      "titulo": "Feijóo reivindica la gestión frente a la \"política basura\": \"Se acabó el espectáculo y la desvergüenza\" de Sánchez",
+      "medio": "El Confidencial",
+      "url": "https://www.elconfidencial.com/espana/2026-11-07/feijoo-mitin-valladolid-gestion-politica-sanchez_4461004/",
+      "fecha": "2026-11-07T13:12+00:00",
+      "partidos": [
+        "pp"
       ]
     },
     {
@@ -732,6 +777,24 @@
       "medio": "El Confidencial",
       "url": "https://www.elconfidencial.com/espana/2026-11-07/dimisiones-psoe-nunca-llegaron-marlaska-gerente-sepi_4459019/",
       "fecha": "2026-11-07T04:00+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "El PP prohibirá que la Abogacía del Estado defienda \"los intereses particulares\" de altos cargos tras el escándalo de García Ortiz",
+      "medio": "El Mundo",
+      "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/06/6aee347ce85ece452b8b458d.html",
+      "fecha": "2026-11-06T21:46+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "José Ignacio García, líder de Adelante Andalucía: \"Para qué sirve la izquierda si vamos todos en la papeleta del PSOE\"",
+      "medio": "El Mundo",
+      "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/06/6aeb009c21efa02d2f8b4597.html",
+      "fecha": "2026-11-06T21:46+00:00",
       "partidos": [
         "psoe"
       ]
@@ -3160,71 +3223,6 @@
       "fecha": "2026-11-02T11:50+00:00",
       "partidos": [
         "junts"
-      ]
-    },
-    {
-      "titulo": "Feijóo ofrece “gestión, rigor y experiencia” frente al Gobierno de Sánchez: “Dudo que sean buena gente”",
-      "medio": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/politica/20261102/11674005/feijoo-ofrece-gestion-rigor-experiencia-frente-gobierno-sanchez-dudo-sean-buena-gente.html",
-      "fecha": "2026-11-02T11:47+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "La Presidencia vasca recorta la partida de Cooperación y EH Bildu considera que es una \"auténtica vergüenza\"",
-      "medio": "elDiario.es",
-      "url": "https://www.eldiario.es/euskadi/presidencia-vasca-recorta-partida-cooperacion-eh-bildu-considera-autentica-verguenza_1_13631541.html",
-      "fecha": "2026-11-02T11:46+00:00",
-      "partidos": [
-        "bildu"
-      ]
-    },
-    {
-      "titulo": "Feijóo acusa a Sánchez de \"encargar sondeos\" para saber si es rentable electoralmente cesar a Óscar Puente: \"Da cuenta de su nivel moral\"",
-      "medio": "20minutos",
-      "url": "https://www.20minutos.es/nacional/sigue-directo-intervencion-feijoo-comite-ejecutivo-nacional-pp_7056154_0.html",
-      "fecha": "2026-11-02T10:57+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Feijóo critica que Sánchez eligiera a Ábalos y Puente para \"el ministerio de la seguridad\" y promete una \"auditoría ferroviaria\"",
-      "medio": "20minutos",
-      "url": "https://www.20minutos.es/nacional/feijoo-critica-que-sanchez-eligiera-abalos-puente-para-ministerio-seguridad-promete-una-auditoria-ferroviaria_7056135_0.html",
-      "fecha": "2026-11-02T10:07+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Feijóo dice que al Gobierno \"le interesa más el relato que las víctimas\" y admite que el PP no cambiará su campaña",
-      "medio": "Europa Press",
-      "url": "https://www.europapress.es/nacional/noticia-feijoo-dice-gobierno-le-interesa-mas-relato-victimas-admite-pp-no-cambiara-campana-20261102110238.html",
-      "fecha": "2026-11-02T10:02+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "DIRECTO | Pedro Sánchez interviene en el foro internacional World in Progress en Barcelona",
-      "medio": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/politica/20261102/11673787/pedro-sanchez-directo-world-in-progress-barcelona-salvador-illa-gobierno-de-espana-foro-wip-2026-politica-repensar-europa-jaume-collboni.html",
-      "fecha": "2026-11-02T08:17+00:00",
-      "partidos": [
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "Encuestas elecciones generales en la Comunidad Valenciana: resultados de PSOE, PP y Vox y ganador según los sondeos el 29N",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/comunidad-valenciana/encuestas-elecciones-generales-comunidad-valenciana-resultados-psoe-20261102051500-nt.html",
-      "fecha": "2026-11-02T04:15+00:00",
-      "partidos": [
-        "pp",
-        "psoe",
-        "vox"
       ]
     }
   ],
