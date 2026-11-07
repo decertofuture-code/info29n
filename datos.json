@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-06T21:59+00:00",
+  "actualizado": "2026-11-07T11:24+00:00",
   "temas": [
     {
       "id": "vivienda",
@@ -449,6 +449,121 @@
   ],
   "noticias": [
     {
+      "titulo": "\"Putos rojos\": la sede del PSOE en Rincón de la Victoria (Málaga) amanece con pintadas nazis e insultos",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/andalucia/putos-rojos-sede-psoe-rincon-victoria-malaga-amanece-pintadas-nazis-e-insultos_1_13646215.html",
+      "fecha": "2026-11-07T11:00+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "Feijóo promete que ninguna comunidad tendrá financiación singular como la pactada por Sánchez con Cataluña",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/andalucia/feijoo-promete-ninguna-comunidad-financiacion-singular-pactada-20261107112344-nts.html",
+      "fecha": "2026-11-07T10:53+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "Precampaña elecciones generales en España, en directo: última hora de Pedro Sánchez (PSOE), Feijóo (PP), Abascal (Vox), Ada Colau (Frente Amplio) y resto de candidatos hoy",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/precampana-elecciones-generales-espana-directo-ultima-hora-20261106115927-di.html",
+      "fecha": "2026-11-07T10:27+00:00",
+      "partidos": [
+        "pp",
+        "psoe",
+        "vox",
+        "sumar"
+      ]
+    },
+    {
+      "titulo": "El PP critica que Sánchez no vaya al funeral religioso por las víctimas pero use al Papa cuando le conviene",
+      "medio": "Europa Press",
+      "url": "https://www.europapress.es/nacional/noticia-pp-critica-sanchez-no-vaya-funeral-religioso-victimas-use-papa-cuando-le-conviene-20261107110315.html",
+      "fecha": "2026-11-07T10:03+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "PNV defiende unos Presupuestos \"récord, porque el país funciona\", mientras EH Bildu cree que \"se queda corto\"",
+      "medio": "Europa Press",
+      "url": "https://www.europapress.es/nacional/noticia-pnv-defiende-presupuestos-record-porque-pais-funciona-mientras-eh-bildu-cree-queda-corto-20261107101711.html",
+      "fecha": "2026-11-07T09:17+00:00",
+      "partidos": [
+        "bildu",
+        "pnv"
+      ]
+    },
+    {
+      "titulo": "Feijóo promete que ninguna CCAA tendrá una financiación singular como la pactada para Cataluña entre Sánchez y ERC",
+      "medio": "Europa Press",
+      "url": "https://www.europapress.es/nacional/noticia-feijoo-promete-ninguna-ccaa-tendra-financiacion-singular-pactada-cataluna-sanchez-erc-20261107092957.html",
+      "fecha": "2026-11-07T08:29+00:00",
+      "partidos": [
+        "pp",
+        "erc"
+      ]
+    },
+    {
+      "titulo": "Rocío de Meer (Vox): \"Hay 13 millones de personas en riesgo de pobreza bajo un Gobierno que se vanagloria de escudo social\"",
+      "medio": "20minutos",
+      "url": "https://www.20minutos.es/nacional/rocio-meer-vox-hay-13-millones-personas-riesgo-pobreza-bajo-un-gobierno-que-se-vanagloria-escudo-social_7057160_0.html",
+      "fecha": "2026-11-07T06:50+00:00",
+      "partidos": [
+        "vox"
+      ]
+    },
+    {
+      "titulo": "La campaña que Sánchez quiso adelantar se le complica al PSOE entre la crisis ferroviaria y la presunta corrupción",
+      "medio": "20minutos",
+      "url": "https://www.20minutos.es/nacional/campana-que-sanchez-quiso-adelantar-se-le-complica-psoe-entre-crisis-ferroviaria-presunta-corrupcion_7057740_0.html",
+      "fecha": "2026-11-07T06:43+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "Abascal echa un pulso a Feijóo en València",
+      "medio": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/local/valencia/20261107/11678122/abascal-echa-pulso-feijoo-valencia.html",
+      "fecha": "2026-11-07T04:30+00:00",
+      "partidos": [
+        "pp",
+        "vox"
+      ]
+    },
+    {
+      "titulo": "¿No todos son iguales? De Marlaska a la gerente del PSOE y la SEPI: las doce dimisiones que no llegaron",
+      "medio": "El Confidencial",
+      "url": "https://www.elconfidencial.com/espana/2026-11-07/dimisiones-psoe-nunca-llegaron-marlaska-gerente-sepi_4459019/",
+      "fecha": "2026-11-07T04:00+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "Sánchez reinicia la campaña con la \"ejemplaridad\" de Puente como antítesis de la política de PP y Vox",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/politica/sanchez-reinicia-campana-ejemplaridad-puente-antitesis-politica-pp-vox_1_13644941.html",
+      "fecha": "2026-11-06T21:22+00:00",
+      "partidos": [
+        "pp",
+        "vox"
+      ]
+    },
+    {
+      "titulo": "Alberto Durán, el todopoderoso abogado del PP en horas bajas señalado por Koldo",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/politica/alberto-duran-todopoderoso-abogado-pp-horas-bajas-senalado-koldo_1_13644732.html",
+      "fecha": "2026-11-06T21:22+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
       "titulo": "Andalucía destina a sanidad 780 euros más por habitante que con el PSOE",
       "medio": "ABC",
       "url": "https://www.abc.es/espana/andalucia/andalucia-destina-sanidad-780-euros-habitante-psoe-20261107220200-nts.html",
@@ -472,6 +587,16 @@
       "url": "https://elpais.com/espana/comunidad-valenciana/2026-11-06/pedro-sanchez-llama-a-la-movilizacion-en-su-retorno-a-la-precampana-si-se-pudo-en-brasil-y-ee-uu-en-espana-tambien.html",
       "fecha": "2026-11-06T20:27+00:00",
       "partidos": [
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "El PSOE convierte a Valencia en el revulsivo de la campaña para confrontar con el PP de la dana tras Urda: \"No somos iguales\"",
+      "medio": "El Mundo",
+      "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/06/6aedeebee9cf4a41148b457b.html",
+      "fecha": "2026-11-06T20:17+00:00",
+      "partidos": [
+        "pp",
         "psoe"
       ]
     },
@@ -3101,125 +3226,6 @@
       "medio": "El Confidencial",
       "url": "https://www.elconfidencial.com/espana/2026-11-01/partido-popular-accidente-ferroviario-urda-1tps_4457173/",
       "fecha": "2026-11-01T12:29+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Frente Amplio y Podemos pugnan ante el JEC el reparto de tiempos en RTVE",
-      "medio": "20minutos",
-      "url": "https://www.20minutos.es/nacional/frente-amplio-podemos-pugnan-ante-jec-reparto-tiempos-rtve_7055973_0.html",
-      "fecha": "2026-11-01T12:09+00:00",
-      "partidos": [
-        "sumar",
-        "podemos"
-      ]
-    },
-    {
-      "titulo": "El PSOE mantiene a casi la mitad de los cabezas de lista al Congreso, incluidos colaboradores de Santos Cerdán",
-      "medio": "20minutos",
-      "url": "https://www.20minutos.es/nacional/psoe-mantiene-casi-mitad-los-cabezas-lista-congreso-incluidos-colaboradores-santos-cerdan_7055971_0.html",
-      "fecha": "2026-11-01T11:56+00:00",
-      "partidos": [
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "La senadora con mayor patrimonio inmobiliario no irá en las listas del PP para el 29N",
-      "medio": "Europa Press",
-      "url": "https://www.europapress.es/nacional/noticia-senadora-mayor-patrimonio-inmobiliario-no-ira-listas-pp-29n-20261101121947.html",
-      "fecha": "2026-11-01T11:19+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "García Albiol, claro con la gestión de RTVE tras ver cómo suspenden el debate electoral de este lunes: «Me parece indignante que una televisión pública esté entregada y a manos del PSOE»",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/cataluna/garcia-albiol-claro-gestion-rtve-tras-ver-20261101121515-nt.html",
-      "fecha": "2026-11-01T11:15+00:00",
-      "partidos": [
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "Abascal anuncia que Vox se personará como acusación popular en el accidente de Urda",
-      "medio": "20minutos",
-      "url": "https://www.20minutos.es/nacional/abascal-anuncia-que-vox-se-personara-como-acusacion-popular-accidente-urda_7055950_0.html",
-      "fecha": "2026-11-01T10:39+00:00",
-      "partidos": [
-        "vox"
-      ]
-    },
-    {
-      "titulo": "Feijóo ve \"imprescindible pero insuficiente\" que Puente dimita porque la mayor responsabilidad es de Sánchez",
-      "medio": "20minutos",
-      "url": "https://www.20minutos.es/nacional/feijoo-ve-imprescindible-pero-insuficiente-que-puente-dimita-porque-mayor-responsabilidad-es-sanchez_7055947_0.html",
-      "fecha": "2026-11-01T10:19+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Frente Amplio y Podemos pugnan en la JEC por la herencia de Sumar en el reparto de tiempos en RTVE",
-      "medio": "Europa Press",
-      "url": "https://www.europapress.es/nacional/noticia-frente-amplio-podemos-pugnan-jec-herencia-sumar-reparto-tiempos-rtve-20261101105956.html",
-      "fecha": "2026-11-01T09:59+00:00",
-      "partidos": [
-        "sumar",
-        "podemos"
-      ]
-    },
-    {
-      "titulo": "Feijóo promete una España que vuelva a funcionar y convierte la gestión en eje de campaña tras la tragedia de Urda",
-      "medio": "Europa Press",
-      "url": "https://www.europapress.es/nacional/noticia-feijoo-promete-espana-vuelva-funcionar-convierte-gestion-eje-campana-tragedia-urda-20261101095953.html",
-      "fecha": "2026-11-01T08:59+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "El precio que pagará el PSOE por mantener a Puente en el Gobierno",
-      "medio": "elDiario.es",
-      "url": "https://www.eldiario.es/blog/politica-para-supervivientes/precio-pagara-psoe-mantener-puente-gobierno_132_13628518.html",
-      "fecha": "2026-11-01T07:16+00:00",
-      "partidos": [
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "El PSOE busca redirigir la 'campaña del amor' hacia la gestión y las propuestas mientras deja a Puente al frente de la crisis",
-      "medio": "20minutos",
-      "url": "https://www.20minutos.es/nacional/psoe-busca-redirigir-campana-amor-hacia-gestion-las-propuestas-mientras-deja-puente-frente-crisis_7055541_0.html",
-      "fecha": "2026-11-01T07:04+00:00",
-      "partidos": [
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "El PSOE queda atrapado en una pinza política por la tragedia de Urda",
-      "medio": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/politica/20261101/11672932/psoe-queda-atrapado-pinza-politica-pp-frente-amplio-accidente-tren-urda.html",
-      "fecha": "2026-11-01T05:00+00:00",
-      "partidos": [
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "Alberto Núñez Feijóo: “No se puede ser presidente de España sin entender a Catalunya”",
-      "medio": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/politica/20261101/11672883/alberto-nunez-feijoo-presidente-espana-entender-catalunya.html",
-      "fecha": "2026-11-01T05:00+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Feijóo gira la campaña hacia el perfil gestor del PP",
-      "medio": "El País",
-      "url": "https://elpais.com/espana/2026-11-01/feijoo-gira-la-campana-hacia-el-perfil-gestor-del-pp.html",
-      "fecha": "2026-11-01T04:30+00:00",
       "partidos": [
         "pp"
       ]
