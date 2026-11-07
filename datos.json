@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-07T11:24+00:00",
+  "actualizado": "2026-11-07T15:36+00:00",
   "temas": [
     {
       "id": "vivienda",
@@ -448,6 +448,198 @@
     }
   ],
   "noticias": [
+    {
+      "titulo": "Feijóo se compromete a «bajar el telón del espectáculo lamentable» del Gobierno de Sánchez y a «levantar las alfombras»",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/castilla-leon/feijoo-compromete-bajar-telon-espectaculo-lamentable-gobierno-20261107135442-nt.html",
+      "fecha": "2026-11-07T15:25+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "Abascal: «Quiero una España en la que no tenga que llamar mafia criminal al Gobierno»",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/castilla-la-mancha/abascal-quiero-espana-llamar-mafia-criminal-gobierno-20261107135734-nt.html",
+      "fecha": "2026-11-07T15:24+00:00",
+      "partidos": [
+        "vox"
+      ]
+    },
+    {
+      "titulo": "Córdoba abandera el gran acto del PP andaluz ante «el abandono» del Gobierno a la provincia",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/andalucia/cordoba/cordoba-abandera-gran-acto-pp-andaluz-ante-20261107161557-nts.html",
+      "fecha": "2026-11-07T15:15+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "Feijóo encarga al PP el tercer diputado por Valladolid para demostrar que la provincia «no es Óscar Puente»",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/castilla-leon/feijoo-encarga-pp-tercer-diputado-valladolid-demostrar-20261107160910-nt.html",
+      "fecha": "2026-11-07T15:10+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "Pedro Sánchez se compromete con la familia de Guillem Agulló a estudiar su reconocimiento como víctima del terrorismo",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/comunitat-valenciana/pedro-sanchez-compromete-familia-guillem-agullo-estudiar-reconocimiento-victima-terrorismo_1_13646783.html",
+      "fecha": "2026-11-07T14:29+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "El PSOE recupera la campaña del miedo tras Urda: «No seremos el patio trasero de la internacional ultraderechista»",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/cataluna/psoe-recupera-campana-miedo-derecha-tras-urda-20261107130022-nt.html",
+      "fecha": "2026-11-07T14:13+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "Frente Amplio propone descentralizar instituciones como el Banco de España y el Defensor del Pueblo",
+      "medio": "20minutos",
+      "url": "https://www.20minutos.es/nacional/frente-amplio-propone-descentralizar-instituciones-como-banco-espana-defensor-pueblo_7058526_0.html",
+      "fecha": "2026-11-07T14:10+00:00",
+      "partidos": [
+        "sumar"
+      ]
+    },
+    {
+      "titulo": "Feijóo recuerda a las víctimas de Urda y avisa: \"Si el dinero de los trenes acabó en el PSOE tendrán que entrar en la cárcel\"",
+      "medio": "20minutos",
+      "url": "https://www.20minutos.es/nacional/feijoo-recuerda-victimas-urda-avisa-dinero-trenes-acabo-psoe-tendran-entrar-carcel_7058515_0.html",
+      "fecha": "2026-11-07T14:05+00:00",
+      "partidos": [
+        "pp",
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "Montero acusa al PP de \"violencia política\" por los supuestos pagos a Koldo y exige un debate \"sin bulos\"",
+      "medio": "20minutos",
+      "url": "https://www.20minutos.es/nacional/montero-acusa-pp-violencia-politica-por-los-supuestos-pagos-koldo-exige-un-debate-sin-bulos_7058505_0.html",
+      "fecha": "2026-11-07T14:01+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "Ayuso cuestiona la campaña del miedo del PSOE: «Lo que temen es cambiar Moncloa por Soto del Real»",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/comunidad-valenciana/ayuso-cuestiona-campana-miedo-psoe-temen-cambiar-20261107144349-nt.html",
+      "fecha": "2026-11-07T13:56+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "Feijóo confronta el discurso de la \"dignidad\" sobre Puente: \"Hemos visto más abrazos del PSOE y de sus socios al ministro dimitido que a las víctimas\"",
+      "medio": "El Mundo",
+      "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/07/6aee6b98fdddff77098b456e.html",
+      "fecha": "2026-11-07T13:46+00:00",
+      "partidos": [
+        "pp",
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "El PSOE pide explicaciones a Núñez por arropar a alcalde de Puertollano pese a estar imputado",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/castilla-la-mancha/toledo/psoe-pide-explicaciones-nunez-arropar-alcalde-puertollano-20261107144022-nt.html",
+      "fecha": "2026-11-07T13:40+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "El Frente Amplio promete \"expropiar a los fondos buitre\" y subir impuestos a los ricos: \"No hemos venido a serviros\"",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/catalunya/colau-dirige-cayetana-alvarez-toledo-marquesa-amigos-ricos-les-freir-impuestos_1_13646254.html",
+      "fecha": "2026-11-07T13:25+00:00",
+      "partidos": [
+        "sumar"
+      ]
+    },
+    {
+      "titulo": "Abascal denuncia que Adif gastaba el dinero en \"sobrinas, mordidas, colocaciones y bonus\"",
+      "medio": "20minutos",
+      "url": "https://www.20minutos.es/nacional/abascal-denuncia-que-adif-gastaba-dinero-sobrinas-mordidas-colocaciones-bonus_7058516_0.html",
+      "fecha": "2026-11-07T13:13+00:00",
+      "partidos": [
+        "vox"
+      ]
+    },
+    {
+      "titulo": "Pérez Llorca reprocha a Sánchez que Óscar Puente siga de diputado en el Congreso mientras el PP mantiene a Mazón en las Corts",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/comunitat-valenciana/politica/perez-llorca-reprocha-sanchez-oscar-puente-siga-diputado-congreso-pp-mantiene-mazon-corts_1_13646381.html",
+      "fecha": "2026-11-07T13:09+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "Irene Montero y Rufián animan a votar con \"memoria\" y obviando el voto útil: \"El PSOE, si puede, te come\"",
+      "medio": "20minutos",
+      "url": "https://www.20minutos.es/nacional/irene-montero-rufian-animan-votar-con-memoria-obviando-voto-util-psoe-si-puede-te-come_7058511_0.html",
+      "fecha": "2026-11-07T13:08+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "Feijóo centra en Puente su mitin en Valladolid: \"Han dado más abrazos al ministro dimitido que a las víctimas”",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/castilla-y-leon/politica/feijoo-dice-no-valladolid-dimision-puente-plaga-mitin-ataques-exministro_1_13646296.html",
+      "fecha": "2026-11-07T13:06+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "Montero y Rufián animan a votar con \"memoria y conciencia\" y obviando el voto útil: \"El PSOE, si puede, te come\"",
+      "medio": "Europa Press",
+      "url": "https://www.europapress.es/nacional/noticia-montero-rufian-animan-votar-memoria-conciencia-obviando-voto-util-psoe-si-puede-te-come-20261107134413.html",
+      "fecha": "2026-11-07T12:44+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "Rufián y Montero llaman a secundar la huelga \"para paralizar el país\" y defienden una izquierda no sometida al PSOE",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/politica/rufian-montero-llaman-secundar-huelga-paralizar-pais-defienden-izquierda-no-sometida-psoe_1_13646217.html",
+      "fecha": "2026-11-07T12:41+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "De PSOE a Por Un Mundo Más Justo, todos los partidos a los que podrás votar en las elecciones generales 2026",
+      "medio": "20minutos",
+      "url": "https://www.20minutos.es/nacional/psoe-por-mundo-mas-justo-todos-partidos-podras-votar-elecciones-generales_7058494_0.html",
+      "fecha": "2026-11-07T12:40+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "Feijóo avisa al PSOE: “Si han robado el dinero para la seguridad de los trenes, tendrán que salir del poder para entrar en la cárcel”",
+      "medio": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/politica/20261107/11678745/feijoo-avisa-psoe-han-robado-dinero-seguridad-trenes-tendran-salir-entrar-carcel.html",
+      "fecha": "2026-11-07T12:32+00:00",
+      "partidos": [
+        "pp",
+        "psoe"
+      ]
+    },
     {
       "titulo": "\"Putos rojos\": la sede del PSOE en Rincón de la Victoria (Málaga) amanece con pintadas nazis e insultos",
       "medio": "elDiario.es",
@@ -3033,201 +3225,6 @@
         "pp",
         "psoe",
         "vox"
-      ]
-    },
-    {
-      "titulo": "Pinza de PSC y Junts para obligar a TV3 a comparecer en el Parlament por las vacunas",
-      "medio": "El Confidencial",
-      "url": "https://www.elconfidencial.com/espana/cataluna/2026-11-02/pinza-psc-junts-tv-comparecer-parlament-vacunas_4456598/",
-      "fecha": "2026-11-02T04:00+00:00",
-      "partidos": [
-        "junts"
-      ]
-    },
-    {
-      "titulo": "La izquierda trata de alejarse más del PSOE tras la tragedia de Urda: \"Vamos a salir a la ofensiva, no nos vemos reflejados en nada\"",
-      "medio": "20minutos",
-      "url": "https://www.20minutos.es/nacional/izquierda-trata-alejarse-mas-psoe-tras-tragedia-urda-vamos-salir-ofensiva-no-nos-vemos-reflejados-nada_7055499_0.html",
-      "fecha": "2026-11-02T04:00+00:00",
-      "partidos": [
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "El PP reorienta su campaña hacia el perfil gestor de Feijóo tras el accidente ferroviario",
-      "medio": "20minutos",
-      "url": "https://www.20minutos.es/nacional/pp-reorienta-su-campana-hacia-perfil-gestor-feijoo-tras-accidente-ferroviario_7055203_0.html",
-      "fecha": "2026-11-02T04:00+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Unos 244.000 votantes de Sánchez apoyan al PP tras la segunda tragedia ferroviaria en nueve meses",
-      "medio": "El Mundo",
-      "url": "https://www.elmundo.es/espana/encuestas/2026/11/02/6ae77482e4d4d8283b8b4576.html",
-      "fecha": "2026-11-01T23:13+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "El PP reanudará los mítines en Valladolid: \"Que nadie olvide que votar al PSOE es votar a Óscar Puente\"",
-      "medio": "El Mundo",
-      "url": "https://www.elmundo.es/espana/2026/11/02/6ae7638f21efa0c56f8b4597.html",
-      "fecha": "2026-11-01T23:13+00:00",
-      "partidos": [
-        "pp",
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "El PSOE pierde 450.000 votos y cae por debajo de 100 escaños en la primera encuesta tras la tragedia de Urda",
-      "medio": "El Mundo",
-      "url": "https://www.elmundo.es/espana/encuestas/2026/11/01/6ae77446e4d4d8f3698b458a.html",
-      "fecha": "2026-11-01T23:07+00:00",
-      "partidos": [
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "El voto del exterior, tradicionalmente para el PSOE, sí ha movido escaños",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/castilla-leon/voto-exterior-tradicionalmente-psoe-movido-escanos-20260927234544-nt.html",
-      "fecha": "2026-11-01T22:45+00:00",
-      "partidos": [
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "La Fúmiga, el grupo en valenciano que PP y Vox apartan de la programación musical, reúne a 36.000 personas en su despedida en València",
-      "medio": "elDiario.es",
-      "url": "https://www.eldiario.es/comunitat-valenciana/cultura/fumiga-grupo-valenciano-pp-vox-apartan-programacion-musical-reune-36-000-personas-despedida-valencia_1_13630624.html",
-      "fecha": "2026-11-01T22:01+00:00",
-      "partidos": [
-        "pp",
-        "vox"
-      ]
-    },
-    {
-      "titulo": "El laberinto del PP en Gipuzkoa: de tener a Sémper y Lezama criticando a Vox a pedir el voto para la ultraderecha en el Senado",
-      "medio": "elDiario.es",
-      "url": "https://www.eldiario.es/euskadi/laberinto-pp-gipuzkoa-semper-lezama-criticando-vox-pedir-voto-ultraderecha-senado_1_13628135.html",
-      "fecha": "2026-11-01T20:45+00:00",
-      "partidos": [
-        "pp",
-        "vox"
-      ]
-    },
-    {
-      "titulo": "Feijóo reúne este lunes a la cúpula del PP y reanuda la campaña tras el luto por Urda",
-      "medio": "20minutos",
-      "url": "https://www.20minutos.es/nacional/feijoo-reune-este-lunes-cupula-pp-reanuda-campana-tras-luto-por-urda_7056035_0.html",
-      "fecha": "2026-11-01T17:24+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Vox incorpora al Presupuesto un fondo de 15 millones para afectados por plagas y enfermedades en el campo",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/andalucia/vox-incorpora-presupuesto-fondo-millones-afectados-plagas-20261101171128-nts.html",
-      "fecha": "2026-11-01T16:11+00:00",
-      "partidos": [
-        "vox"
-      ]
-    },
-    {
-      "titulo": "Albiol acusa a TVE de aplazar un debate por intereses del PSOE y avisa que no irá a otro",
-      "medio": "20minutos",
-      "url": "https://www.20minutos.es/nacional/albiol-acusa-tve-aplazar-un-debate-por-intereses-psoe-avisa-que-no-ira-otro_7056005_0.html",
-      "fecha": "2026-11-01T15:01+00:00",
-      "partidos": [
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "Óscar Puente, en horas críticas: socios del PSOE se unen a la presión para que dimita y crecen las sombras en su gestión",
-      "medio": "20minutos",
-      "url": "https://www.20minutos.es/nacional/oscar-puente-foco-crece-presion-dimita-sombra-gestion-antes-doble-comparecencia-martes_7055996_0.html",
-      "fecha": "2026-11-01T14:38+00:00",
-      "partidos": [
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "El PP se une a Vox y anuncia que se personará como acusación particular en la causa judicial del accidente de Urda",
-      "medio": "elDiario.es",
-      "url": "https://www.eldiario.es/politica/pp-une-vox-anuncia-personara-acusacion-particular-causa-judicial-accidente-urda_1_13630675.html",
-      "fecha": "2026-11-01T14:22+00:00",
-      "partidos": [
-        "pp",
-        "vox"
-      ]
-    },
-    {
-      "titulo": "PP y Vox se personarán en la causa del accidente de Urda",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/pp-vox-personaran-causa-accidente-urda-20261101140437-nt.html",
-      "fecha": "2026-11-01T13:21+00:00",
-      "partidos": [
-        "pp",
-        "vox"
-      ]
-    },
-    {
-      "titulo": "El Frente Amplio propone «intervenir» los pisos de los bancos para frenar la crisis de la vivienda",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/andalucia/frente-amplio-propone-intervenir-pisos-bancos-frenar-20261101142100-nts.html",
-      "fecha": "2026-11-01T13:21+00:00",
-      "partidos": [
-        "sumar"
-      ]
-    },
-    {
-      "titulo": "El PP se suma a Vox y se personará en la causa sobre el accidente de Urda",
-      "medio": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/politica/20261101/11673396/pp-suma-vox-personara-causa-sobre-accidente-urda.html",
-      "fecha": "2026-11-01T13:08+00:00",
-      "partidos": [
-        "pp",
-        "vox"
-      ]
-    },
-    {
-      "titulo": "La Fiscalía presenta una querella contra el vicepresidente de Vox en Mallorca por el uso de los coches oficiales",
-      "medio": "elDiario.es",
-      "url": "https://www.eldiario.es/illes-balears/fiscalia-presenta-querella-vicepresidente-vox-mallorca-coches-oficiales_1_13630593.html",
-      "fecha": "2026-11-01T12:57+00:00",
-      "partidos": [
-        "vox"
-      ]
-    },
-    {
-      "titulo": "Illa replica a Feijóo que “nunca” será presidente: “Primero contra el catalán, ahora contra la amnistía”",
-      "medio": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/politica/20261101/11673378/illa-replica-feijoo-nunca-sera-presidente-primero-catalan-amnistia.html",
-      "fecha": "2026-11-01T12:48+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Illa replica a Feijóo que nunca será presidente de España porque no entiende Cataluña",
-      "medio": "20minutos",
-      "url": "https://www.20minutos.es/nacional/illa-replica-feijoo-que-nunca-sera-presidente-espana-porque-no-entiende-cataluna_7055984_0.html",
-      "fecha": "2026-11-01T12:45+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "El PP se personará en la causa por el accidente de Urda y exige al Gobierno que asuma responsabilidades",
-      "medio": "El Confidencial",
-      "url": "https://www.elconfidencial.com/espana/2026-11-01/partido-popular-accidente-ferroviario-urda-1tps_4457173/",
-      "fecha": "2026-11-01T12:29+00:00",
-      "partidos": [
-        "pp"
       ]
     }
   ],
