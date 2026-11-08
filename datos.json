@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-08T15:53+00:00",
+  "actualizado": "2026-11-08T21:01+00:00",
   "temas": [
     {
       "id": "vivienda",
@@ -448,6 +448,36 @@
     }
   ],
   "noticias": [
+    {
+      "titulo": "EH Bildu defiende \"la calle\" y \"los vínculos sociales y la gente\" como \"antídoto frente a los discursos de odio\"",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/euskadi/eh-bildu-defiende-calle-vinculos-sociales-gente-antidoto-frente-discursos-odio_1_13648116.html",
+      "fecha": "2026-11-08T17:55+00:00",
+      "partidos": [
+        "bildu"
+      ]
+    },
+    {
+      "titulo": "Esteban rechaza que el 29N \"vaya de elegir entre Sánchez y Feijóo\" y carga contra EH Bildu por perdonar al PSOE \"todo\"",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/euskadi/esteban-rechaza-29n-elegir-sanchez-feijoo-carga-eh-bildu-perdonar-psoe_1_13648095.html",
+      "fecha": "2026-11-08T17:27+00:00",
+      "partidos": [
+        "pp",
+        "psoe",
+        "bildu"
+      ]
+    },
+    {
+      "titulo": "Sánchez critica que Feijóo no acepte entrevistas en TVE y Abascal \"vaya con Broncano con un público que él decide\"",
+      "medio": "20minutos",
+      "url": "https://www.20minutos.es/nacional/sanchez-critica-que-feijoo-no-acepte-entrevistas-tve-abascal-vaya-con-broncano-con-un-publico-que-decide_7058704_0.html",
+      "fecha": "2026-11-08T16:32+00:00",
+      "partidos": [
+        "pp",
+        "vox"
+      ]
+    },
     {
       "titulo": "Sánchez pide un voto «masivo» al PSOE desde el País Vasco ante el auge de Bildu",
       "medio": "ABC",
@@ -3190,36 +3220,6 @@
       "fecha": "2026-11-03T11:02+00:00",
       "partidos": [
         "vox"
-      ]
-    },
-    {
-      "titulo": "La Asamblea de Murcia declara a Pedro Sánchez persona non grata con los votos de PP y Vox",
-      "medio": "elDiario.es",
-      "url": "https://www.eldiario.es/murcia/politica/asamblea-murcia-declara-pedro-sanchez-persona-non-grata_1_13633294.html",
-      "fecha": "2026-11-03T10:58+00:00",
-      "partidos": [
-        "pp",
-        "psoe",
-        "vox"
-      ]
-    },
-    {
-      "titulo": "Feijóo dice que buscará llevarse \"bien\" con Marruecos: \"Nos vamos a entender porque si hablas claro, te entiende\"",
-      "medio": "Europa Press",
-      "url": "https://www.europapress.es/nacional/noticia-feijoo-dice-buscara-llevarse-bien-marruecos-nos-vamos-entender-porque-si-hablas-claro-te-entiende-20261103114610.html",
-      "fecha": "2026-11-03T10:46+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Junts, ERC, Comuns y la CUP impulsan la creación de un cuerpo propio de Protecció Civil",
-      "medio": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/politica/20261103/11674897/junts-erc-comuns-cup-impulsan-creacion-cuerpo-propio-proteccio-civil.html",
-      "fecha": "2026-11-03T10:42+00:00",
-      "partidos": [
-        "erc",
-        "junts"
       ]
     }
   ],
