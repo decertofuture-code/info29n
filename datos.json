@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-08T11:36+00:00",
+  "actualizado": "2026-11-08T15:53+00:00",
   "temas": [
     {
       "id": "vivienda",
@@ -449,6 +449,192 @@
   ],
   "noticias": [
     {
+      "titulo": "Sánchez pide un voto «masivo» al PSOE desde el País Vasco ante el auge de Bildu",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/pais-vasco/sanchez-apela-esperanza-concentrar-voto-psoe-ante-20261108132602-nt.html",
+      "fecha": "2026-11-08T15:41+00:00",
+      "partidos": [
+        "psoe",
+        "bildu"
+      ]
+    },
+    {
+      "titulo": "Martínez considera que votar a Vox o al PP «es lo mismo»: «Quien quiera engañarse, que se engañe»",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/castilla-leon/martinez-considera-votar-vox-pp-quiera-enganarse-20261108161315-nt.html",
+      "fecha": "2026-11-08T15:28+00:00",
+      "partidos": [
+        "pp",
+        "vox"
+      ]
+    },
+    {
+      "titulo": "Feijóo pone a Andalucía como ejemplo contra la corrupción socialista",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/andalucia/malaga/feijoo-pone-andalucia-ejemplo-corrupcion-socialista-20261108161653-nts.html",
+      "fecha": "2026-11-08T15:22+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "Feijóo exige que los directivos de Adif devuelvan las gratificaciones cobradas tras el accidente de Urda: «Es vomitivo»",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/andalucia/malaga/feijoo-exige-directivos-adif-devuelvan-gratificaciones-cobradas-20261108133455-nts.html",
+      "fecha": "2026-11-08T15:21+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "Velázquez reivindica la fuerza municipal del PP para afrontar las elecciones del 29N",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/castilla-la-mancha/toledo/pueblos/velazquez-reivindica-fuerza-municipal-pp-afrontar-elecciones-20261108160635-nt.html",
+      "fecha": "2026-11-08T15:06+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "El PSOE acusa a Núñez de hacer una oposición basada en el «ruido y los bulos»",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/castilla-la-mancha/psoe-acusa-nunez-oposicion-basada-ruido-bulos-20261108154452-nt.html",
+      "fecha": "2026-11-08T14:44+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "Frente Amplio aspira al 10% de los votos y Colau dice que se presenta \"para hacer efectivo el derecho a la vivienda\"",
+      "medio": "20minutos",
+      "url": "https://www.20minutos.es/nacional/frente-amplio-aspira-10-los-votos-colau-dice-que-se-presenta-para-hacer-efectivo-derecho-vivienda_7058683_0.html",
+      "fecha": "2026-11-08T14:33+00:00",
+      "partidos": [
+        "sumar"
+      ]
+    },
+    {
+      "titulo": "Rufián apela al apoyo de los socialistas “decepcionados”",
+      "medio": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/politica/20261108/11679271/rufian-apela-apoyo-socialistas-decepcionados.html",
+      "fecha": "2026-11-08T14:10+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "Vox pide una tarjeta sanitaria única y poder recibir los mismos tratamientos en toda España",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/castilla-la-mancha/toledo/vox-pide-tarjeta-sanitaria-unica-poder-recibir-20261108145010-nt.html",
+      "fecha": "2026-11-08T14:01+00:00",
+      "partidos": [
+        "vox"
+      ]
+    },
+    {
+      "titulo": "Nogueras acusa a ERC de hacer seguidismo del PSOE",
+      "medio": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/politica/20261108/11679269/nogueras-acusa-erc-seguidismo-psoe-rufian-le-reprocha-pactos-pp-vox.html",
+      "fecha": "2026-11-08T14:01+00:00",
+      "partidos": [
+        "psoe",
+        "erc"
+      ]
+    },
+    {
+      "titulo": "Feijóo pide a Sánchez \"menos mirar a Trump y más a los trenes\" y a los directivos de Adif devolver las gratificaciones que han cobrado",
+      "medio": "20minutos",
+      "url": "https://www.20minutos.es/nacional/feijoo-pide-sanchez-menos-mirar-trump-mas-trenes-directivos-adif-devolver-gratificaciones-han-cobrado_7058678_0.html",
+      "fecha": "2026-11-08T13:43+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "Núñez advierte de que el PSOE «pagará en las urnas su nefasta gestión y su traición a España»",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/castilla-la-mancha/nunez-advierte-psoe-pagara-urnas-nefasta-gestion-20261108142622-nt.html",
+      "fecha": "2026-11-08T13:26+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "Rufián apuesta por el catalanismo en su primer mitin en solitario: \"Quiero un PSOE sometido a fuerzas soberanistas\"",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/catalunya/rufian-apuesta-catalanismo-primer-mitin-solitario-quiero-psoe-sometido-fuerzas-sobreranistas_1_13647784.html",
+      "fecha": "2026-11-08T13:17+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "Sánchez avisa al \"sheriff del mundo\" de que \"lo que pasa en España se decide en España\" y acusa a Feijóo y Abascal de tragar \"con todo\"",
+      "medio": "El Confidencial",
+      "url": "https://www.elconfidencial.com/espana/2026-11-08/sanchez-psoe-trump-eeuu-feijoo-elecciones-29-n_4461274/",
+      "fecha": "2026-11-08T13:09+00:00",
+      "partidos": [
+        "pp",
+        "vox"
+      ]
+    },
+    {
+      "titulo": "Sánchez pide un \"voto en masa contra la involución\" de PP y Vox: \"Feijóo no es más triste porque no quiere\"",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/euskadi/sanchez-pide-voto-masa-involucion-pp-vox-feijoo-no-triste-no-quiere_1_13647215.html",
+      "fecha": "2026-11-08T12:59+00:00",
+      "partidos": [
+        "pp",
+        "vox"
+      ]
+    },
+    {
+      "titulo": "Feijóo pide en Málaga un “apoyo fuerte” para un “cambio claro y rotundo”",
+      "medio": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/politica/20261108/11679252/feijoo-pide-malaga-apoyo-fuerte-cambio-claro-rotundo.html",
+      "fecha": "2026-11-08T12:54+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "Colau apela al voto útil frente a un PSOE al que le “tiemblan las piernas” ante los poderosos",
+      "medio": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/politica/20261108/11679247/colau-apela-voto-util-frente-psoe-le-tiemblan-piernas-poderosos.html",
+      "fecha": "2026-11-08T12:54+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "Feijóo carga contra Sánchez: \"Menos mirar a Trump y más mirar los trenes, que este país está colapsado\"",
+      "medio": "El Confidencial",
+      "url": "https://www.elconfidencial.com/espana/2026-11-08/feijoo-mitin-moreno-malaga-precampana-elecciones_4461271/",
+      "fecha": "2026-11-08T12:45+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "Sánchez advierte que si PP y Vox gobiernan se plegarán a Trump: “Estos tragan con todo”",
+      "medio": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/politica/20261108/11679248/sanchez-advierte-pp-vox-gobiernan-plegaran-trump-tragan.html",
+      "fecha": "2026-11-08T12:42+00:00",
+      "partidos": [
+        "pp",
+        "vox"
+      ]
+    },
+    {
+      "titulo": "Feijóo tacha a Sánchez de \"personaje de cartón piedra\" y le pide \"menos mirar a Trump y más a los trenes\"",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/politica/feijoo-tacha-sanchez-personaje-carton-piedra-le-pide-mirar-trump-mirar-trenes_1_13647717.html",
+      "fecha": "2026-11-08T12:40+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
       "titulo": "Frente Amplio quiere subir más el SMI y Emilio Delgado carga contra la derecha: Sus políticas \"fomentan la delincuencia\"",
       "medio": "Europa Press",
       "url": "https://www.europapress.es/nacional/noticia-frente-amplio-quiere-subir-mas-smi-emilio-delgado-carga-contra-derecha-politicas-fomentan-delincuencia-20261108115958.html",
@@ -573,6 +759,15 @@
       "titulo": "Sánchez busca movilizar el voto en Cataluña, una plaza \"decisiva\" en la que también se vuelca el PP",
       "medio": "El Mundo",
       "url": "https://www.elmundo.es/cataluna/2026/11/08/6aef6799e85ece1d568b457d.html",
+      "fecha": "2026-11-08T00:17+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "El PP promete restaurar el Premio Nacional de Tauromaquia y dar más \"protección\" legal y más \"proyección\" económica a los toros",
+      "medio": "El Mundo",
+      "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/08/6aef6c95e85eceea168b457d.html",
       "fecha": "2026-11-08T00:17+00:00",
       "partidos": [
         "pp"
@@ -3025,203 +3220,6 @@
       "partidos": [
         "erc",
         "junts"
-      ]
-    },
-    {
-      "titulo": "El delegado de Gobierno en Cantabria denuncia que un concejal del PP en Ruesga le abofeteó en una feria ganadera",
-      "medio": "Europa Press",
-      "url": "https://www.europapress.es/cantabria/noticia-casares-denuncia-concejal-pp-le-abofeteo-feria-arredondo-20261103113812.html",
-      "fecha": "2026-11-03T10:38+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "El delegado del Gobierno en Cantabria denuncia que un concejal del PP le pegó una bofetada en una feria de ganado",
-      "medio": "elDiario.es",
-      "url": "https://www.eldiario.es/cantabria/delegado-gobierno-cantabria-denuncia-concejal-pp-le-pego-bofetada-feria-ganado_1_13633065.html",
-      "fecha": "2026-11-03T10:10+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Un alcalde del PP en Ávila condena la exhibición de un ataúd con Pedro Sánchez y lo denuncia ante la Guardia Civil",
-      "medio": "El Mundo",
-      "url": "https://www.elmundo.es/espana/2026/11/03/6ae9b23021efa09d518b4571.html",
-      "fecha": "2026-11-03T10:08+00:00",
-      "partidos": [
-        "pp",
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "CCOO y UGT defienden la huelga y preguntan a Feijóo si gobernará con un partido que “arruinará” los servicios públicos",
-      "medio": "elDiario.es",
-      "url": "https://www.eldiario.es/economia/ccoo-ugt-defienden-huelga-preguntan-feijoo-si-gobernara-partido-arruinara-servicios-publicos_1_13633155.html",
-      "fecha": "2026-11-03T09:57+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Colau defiende la huelga general por la vivienda y afea al PSOE haber sido cercano a \"lobbies inmobiliarios\"",
-      "medio": "Europa Press",
-      "url": "https://www.europapress.es/nacional/noticia-colau-defiende-huelga-general-vivienda-afea-psoe-haber-sido-cercano-lobbies-inmobiliarios-20261103104910.html",
-      "fecha": "2026-11-03T09:49+00:00",
-      "partidos": [
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "Frente Amplio denuncia un 'ataúd' de Pedro Sánchez colocado en el balcón de un Ayuntamiento de Ávila",
-      "medio": "elDiario.es",
-      "url": "https://www.eldiario.es/castilla-y-leon/politica/frente-amplio-denuncia-ataud-pedro-sanchez-colocado-balcon-ayuntamiento-avila_1_13632992.html",
-      "fecha": "2026-11-03T09:43+00:00",
-      "partidos": [
-        "psoe",
-        "sumar"
-      ]
-    },
-    {
-      "titulo": "Feijóo pide a los sindicados desconvocar la huelga general: «Con 69 muertos es un grave error»",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/feijoo-pide-sindicados-desconvocar-huelga-general-muertos-20261103100101-nt.html",
-      "fecha": "2026-11-03T09:31+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "El PP de Ayuso cree que la Delegación desaloja Sol porque «ya no es útil» para la campaña del PSOE",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/madrid/pp-ayuso-cree-delegacion-desaloja-sol-util-20261103090916-nt.html",
-      "fecha": "2026-11-03T09:13+00:00",
-      "partidos": [
-        "pp",
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "Feijóo pide un mandato \"claro\" para \"recuperar el rumbo\" y acometer la \"reconstrucción nacional que España necesita\"",
-      "medio": "Europa Press",
-      "url": "https://www.europapress.es/nacional/noticia-29nfeijoo-pide-mandato-claro-recuperar-rumbo-acometer-reconstruccion-nacional-espana-necesita-20261103095337.html",
-      "fecha": "2026-11-03T08:53+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Frente Amplio denuncia la exhibición de un ataúd con una foto de Pedro Sánchez en un ayuntamiento de Ávila",
-      "medio": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/politica/20261103/11674788/frente-amplio-denuncian-exhibicion-ataud-foto-pedro-sanchez-ayuntamiento-avila.html",
-      "fecha": "2026-11-03T08:52+00:00",
-      "partidos": [
-        "psoe",
-        "sumar"
-      ]
-    },
-    {
-      "titulo": "Feijóo pide a los sindicatos que \"reconsideren\" la huelga del 11N tras el accidente ferroviario de Urda",
-      "medio": "20minutos",
-      "url": "https://www.20minutos.es/nacional/feijoo-pide-los-sindicatos-que-reconsideren-huelga-11n-tras-accidente-ferroviario-urda_7056415_0.html",
-      "fecha": "2026-11-03T08:41+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Feijóo pide a los sindicatos \"reconsiderar\" la huelga general porque tras la tragedia de Urda es \"un grave error\"",
-      "medio": "Europa Press",
-      "url": "https://www.europapress.es/nacional/noticia-feijoo-pide-sindicatos-reconsiderar-huelga-general-porque-tragedia-urda-grave-error-20261103093804.html",
-      "fecha": "2026-11-03T08:38+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Feijóo reclama a los sindicatos que desconvoquen la huelga del 11N por el accidente de Urda: \"Es un grave error\"",
-      "medio": "elDiario.es",
-      "url": "https://www.eldiario.es/politica/feijoo-reclama-sindicatos-desconvoquen-huelga-11n-accidente-urda-grave-error_1_13632870.html",
-      "fecha": "2026-11-03T08:34+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Feijóo pide a los sindicatos que reconsideren la huelga del 11-N tras el accidente de tren: “Es un grave error”",
-      "medio": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/politica/20261103/11674769/feijoo-pide-sindicatos-reconsideren-huelga-11-n-accidente-tren-grave-error.html",
-      "fecha": "2026-11-03T08:30+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Dimite Óscar Puente, en directo | Primera reacción del PP: \"Llega 116 muertos tarde\"",
-      "medio": "20minutos",
-      "url": "https://www.20minutos.es/nacional/directo-accidente-tren-urda-oscar-puente-congreso-ultima-hora_7056385_6.html",
-      "fecha": "2026-11-03T07:15+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Feijóo trata de acentuar su perfil de gestor frente a un PSOE “desnortado”",
-      "medio": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/politica/20261103/11674459/feijoo-trata-acentuar-perfil-gestor-frente-psoe-desnortado.html",
-      "fecha": "2026-11-03T05:00+00:00",
-      "partidos": [
-        "pp",
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "Del miedo a la ultraderecha al regreso a los derechos básicos: Frente Amplio y Podemos afinan sus estrategias para el 29-N tras el accidente",
-      "medio": "El País",
-      "url": "https://elpais.com/espana/elecciones-generales/2026-11-03/del-miedo-a-la-ultraderecha-al-regreso-a-los-derechos-basicos-frente-amplio-y-podemos-afinan-sus-estrategias-para-el-29-n-tras-el-accidente.html",
-      "fecha": "2026-11-03T04:30+00:00",
-      "partidos": [
-        "sumar",
-        "podemos"
-      ]
-    },
-    {
-      "titulo": "Encuestas elecciones generales en Madrid: resultados de PSOE, PP y Vox y ganador según los sondeos el 29N",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/madrid/encuestas-elecciones-generales-madrid-resultados-psoe-pp-20261103051500-nt.html",
-      "fecha": "2026-11-03T04:15+00:00",
-      "partidos": [
-        "pp",
-        "psoe",
-        "vox"
-      ]
-    },
-    {
-      "titulo": "Cayetana Álvarez de Toledo, candidata del PP en Madrid, sobre el 'procés': \"Aliança Catalana es el secesionismo 4.0 con una doble xenofobia\"",
-      "medio": "El Confidencial",
-      "url": "https://www.elconfidencial.com/espana/2026-11-03/puigdemont-cataluna-alianza-constitucionalismo-toledo-1mult_4451195/",
-      "fecha": "2026-11-03T04:00+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "El gran desafío de Feijóo si llega al Gobierno tras el 29-N: la elección del próximo ministro de Fomento",
-      "medio": "El Confidencial",
-      "url": "https://www.elconfidencial.com/espana/2026-11-03/desafio-feijoo-gobierno-eleccion-ministro-fomento_4456676/",
-      "fecha": "2026-11-03T04:00+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "El PP impondrá criterios técnicos para elegir a los gestores de Adif y despolitizar su cúpula",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/pp-impondra-criterios-tecnicos-elegir-gestores-adif-20261102011035-nt.html",
-      "fecha": "2026-11-03T00:11+00:00",
-      "partidos": [
-        "pp"
       ]
     }
   ],
