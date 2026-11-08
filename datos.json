@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-08T00:22+00:00",
+  "actualizado": "2026-11-08T11:36+00:00",
   "temas": [
     {
       "id": "vivienda",
@@ -449,6 +449,136 @@
   ],
   "noticias": [
     {
+      "titulo": "Frente Amplio quiere subir más el SMI y Emilio Delgado carga contra la derecha: Sus políticas \"fomentan la delincuencia\"",
+      "medio": "Europa Press",
+      "url": "https://www.europapress.es/nacional/noticia-frente-amplio-quiere-subir-mas-smi-emilio-delgado-carga-contra-derecha-politicas-fomentan-delincuencia-20261108115958.html",
+      "fecha": "2026-11-08T10:59+00:00",
+      "partidos": [
+        "sumar"
+      ]
+    },
+    {
+      "titulo": "Abascal tacha de \"burda mentira\" que Vox quiera privatizar las pensiones",
+      "medio": "20minutos",
+      "url": "https://www.20minutos.es/nacional/santiago-abascal-burda-mentira-vox-privatizar-pensiones_7058643_0.html",
+      "fecha": "2026-11-08T10:49+00:00",
+      "partidos": [
+        "vox"
+      ]
+    },
+    {
+      "titulo": "Puigdemont reaparece en Prats de Molló",
+      "medio": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/politica/20261108/11679199/puigdemont-reaparece-prats-mollo.html",
+      "fecha": "2026-11-08T10:38+00:00",
+      "partidos": [
+        "junts"
+      ]
+    },
+    {
+      "titulo": "El hito histórico de Jordi Wild: así serán las entrevistas a Sánchez, Feijóo, Abascal y Colau en plena campaña del 29-N",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/entrevistas-jordi-wild-sanchez-feijoo-abascal-colau-20261026104234-nt.html",
+      "fecha": "2026-11-08T10:36+00:00",
+      "partidos": [
+        "pp",
+        "vox"
+      ]
+    },
+    {
+      "titulo": "Vox presenta su lema \"Sentido común\" basado en prioridad nacional, desregulación y remigración",
+      "medio": "El Confidencial",
+      "url": "https://www.elconfidencial.com/espana/2026-11-08/vox-campana-elecciones-generales-abascal-1tps_4461223/",
+      "fecha": "2026-11-08T10:05+00:00",
+      "partidos": [
+        "vox"
+      ]
+    },
+    {
+      "titulo": "Vox apuesta por el \"sentido común\" como lema para el 29-N con el foco en la prioridad nacional, la desregulación y la remigración",
+      "medio": "20minutos",
+      "url": "https://www.20minutos.es/nacional/vox-apuesta-por-sentido-comun-como-lema-para-29-n-con-foco-prioridad-nacional-desregulacion-remigracion_7058617_0.html",
+      "fecha": "2026-11-08T10:03+00:00",
+      "partidos": [
+        "vox"
+      ]
+    },
+    {
+      "titulo": "Rodríguez Ibarra: \"El PSOE en estos momentos es un partido sin sustancia, sin peso, enclenque y encogido\"",
+      "medio": "Europa Press",
+      "url": "https://www.europapress.es/nacional/noticia-rodriguez-ibarra-psoe-momentos-partido-sustancia-peso-enclenque-encogido-20261108105948.html",
+      "fecha": "2026-11-08T09:59+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "Feijóo plantea que cuidar desgrave: deducción del 40% al pagar a un profesional para atender a un mayor dependiente",
+      "medio": "20minutos",
+      "url": "https://www.20minutos.es/nacional/feijoo-plantea-que-cuidar-desgrave-deduccion-40-pagar-un-profesional-para-atender-un-mayor-dependiente_7058630_0.html",
+      "fecha": "2026-11-08T09:58+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "Feijóo aspira a una mayoría \"cómoda\": \"Hacer una coalición de Gobierno con Vox no depende de mí\"",
+      "medio": "Europa Press",
+      "url": "https://www.europapress.es/nacional/noticia-feijoo-aspira-mayoria-comoda-hacer-coalicion-gobierno-vox-no-depende-20261108102937.html",
+      "fecha": "2026-11-08T09:29+00:00",
+      "partidos": [
+        "pp",
+        "vox"
+      ]
+    },
+    {
+      "titulo": "El dilema de Frente Amplio en campaña: diferenciarse del PSOE a sabiendas de que será un socio inevitable tras el 29N",
+      "medio": "20minutos",
+      "url": "https://www.20minutos.es/nacional/dilema-frente-amplio-campana-diferenciarse-psoe-sabiendas-que-sera-un-socio-inevitable-tras-29n_7057846_0.html",
+      "fecha": "2026-11-08T06:53+00:00",
+      "partidos": [
+        "psoe",
+        "sumar"
+      ]
+    },
+    {
+      "titulo": "Pedro Sánchez: “El partido lo vamos a ganar, pero aún no está ganado”",
+      "medio": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/politica/20261108/11678804/pedro-sanchez-partido-ganar-aun-esta-ganado.html",
+      "fecha": "2026-11-08T05:00+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "Alberto Núñez Feijóo: “Hacer una coalición de Gobierno con Vox no depende de mí”",
+      "medio": "El País",
+      "url": "https://elpais.com/espana/2026-11-08/alberto-nunez-feijoo-hacer-una-coalicion-de-gobierno-con-vox-no-depende-de-mi.html",
+      "fecha": "2026-11-08T04:30+00:00",
+      "partidos": [
+        "pp",
+        "vox"
+      ]
+    },
+    {
+      "titulo": "Las ‘ranas’ de Aguirre y otros acusados de corrupción del PP se benefician del colapso de la Audiencia Nacional",
+      "medio": "El País",
+      "url": "https://elpais.com/espana/2026-11-08/las-ranas-de-aguirre-y-otros-acusados-de-corrupcion-del-pp-se-benefician-del-colapso-de-la-audiencia-nacional.html",
+      "fecha": "2026-11-08T04:30+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "Sánchez busca movilizar el voto en Cataluña, una plaza \"decisiva\" en la que también se vuelca el PP",
+      "medio": "El Mundo",
+      "url": "https://www.elmundo.es/cataluna/2026/11/08/6aef6799e85ece1d568b457d.html",
+      "fecha": "2026-11-08T00:17+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
       "titulo": "\"Un diputado más\" en Valladolid: Feijóo eleva la meta contra la papeleta de Puente y \"la ministra de las pulseras\"",
       "medio": "El Mundo",
       "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/08/6aef7e3afdddffa90e8b457e.html",
@@ -473,6 +603,43 @@
       "fecha": "2026-11-07T22:36+00:00",
       "partidos": [
         "vox"
+      ]
+    },
+    {
+      "titulo": "Salvador Illa: “Es una bajeza moral que Feijóo utilice a las 69 víctimas de Urda para que no se convoque la huelga general”",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/catalunya/salvador-illa-bajeza-moral-feijoo-utilice-69-victimas-urda-no-convoque-huelga-general_128_13643854.html",
+      "fecha": "2026-11-07T21:41+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "El Frente Amplio se fija como meta alcanzar la barrera del 10% de los votos para iniciar la \"remontada\"",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/politica/frente-amplio-fija-meta-alcanzar-barrera-10-votos-iniciar-remontada_1_13616315.html",
+      "fecha": "2026-11-07T21:41+00:00",
+      "partidos": [
+        "sumar"
+      ]
+    },
+    {
+      "titulo": "PP y Vox contra la huelga",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/opinion/pp-vox-huelga_131_13647239.html",
+      "fecha": "2026-11-07T21:41+00:00",
+      "partidos": [
+        "pp",
+        "vox"
+      ]
+    },
+    {
+      "titulo": "Agresión racista en Ceuta a una odontóloga musulmana por mirar un cartel del candidato local del Frente Amplio: “Trabaja, que cobras el IMV”",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/desalambre/agresion-racista-ceuta-odontologa-musulmana-cartel-candidato-local-frente-amplio-trabaja-cobras-imv_1_13647015.html",
+      "fecha": "2026-11-07T21:04+00:00",
+      "partidos": [
+        "sumar"
       ]
     },
     {
@@ -3053,174 +3220,6 @@
       "medio": "ABC",
       "url": "https://www.abc.es/espana/pp-impondra-criterios-tecnicos-elegir-gestores-adif-20261102011035-nt.html",
       "fecha": "2026-11-03T00:11+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Feijóo puede ganar en 36 provincias y Vox desbanca al PSOE en Madrid tras la tragedia de Urda",
-      "medio": "El Mundo",
-      "url": "https://www.elmundo.es/espana/encuestas/2026/11/03/6ae8d3cefdddffb1178b4574.html",
-      "fecha": "2026-11-02T23:04+00:00",
-      "partidos": [
-        "pp",
-        "psoe",
-        "vox"
-      ]
-    },
-    {
-      "titulo": "Los votantes del PSOE también se alejan de Puente: el 41% pide su dimisión por la tragedia de Urda",
-      "medio": "El Mundo",
-      "url": "https://www.elmundo.es/espana/encuestas/2026/11/02/6ae8b293e9cf4a904c8b4572.html",
-      "fecha": "2026-11-02T21:45+00:00",
-      "partidos": [
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "La investigación del caso Leire Díez destapa nuevos indicios que apuntan a las cloacas del PP",
-      "medio": "elDiario.es",
-      "url": "https://www.eldiario.es/politica/investigacion-caso-leire-diez-destapa-nuevos-indicios-apuntan-cloacas-pp_129_13631614.html",
-      "fecha": "2026-11-02T21:07+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Xavier García Albiol, contundente sobre Pedro Sánchez: «Con tres años sin presupuestos es imposible atender las necesidades del país, empezando por mantener lo público»",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/cataluna/xavier-garcia-albiol-contundente-sobre-pedro-sanchez-20261102110000-nt.html",
-      "fecha": "2026-11-02T21:03+00:00",
-      "partidos": [
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "Vox persevera en su mensaje de dureza contra el Gobierno: “Subirse al tren es una ruleta rusa”",
-      "medio": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/politica/20261102/11674435/vox-persevera-mensaje-dureza-gobierno-subirse-tren-ruleta-rusa.html",
-      "fecha": "2026-11-02T18:32+00:00",
-      "partidos": [
-        "vox"
-      ]
-    },
-    {
-      "titulo": "Abel Caballero arremete otra vez contra el PP: la Diputación «estafa» a Vigo",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/galicia/abel-caballero-arremete-vez-pp-diputacion-estafa-20261102184501-nt.html",
-      "fecha": "2026-11-02T17:45+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Pedro Sánchez retoma la precampaña con un mitin en València el próximo viernes",
-      "medio": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/local/valencia/20261102/11674386/pedro-sanchez-retoma-precampana-mitin-valencia-proximo-viernes.html",
-      "fecha": "2026-11-02T17:09+00:00",
-      "partidos": [
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "Pedro Sánchez retoma la campaña electoral tras el accidente ferroviario con actos en Valencia y Bilbao",
-      "medio": "El Mundo",
-      "url": "https://www.elmundo.es/comunidad-valenciana/2026/11/02/6ae8bc7afc6c837f528b4577.html",
-      "fecha": "2026-11-02T16:56+00:00",
-      "partidos": [
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "Vox se querella contra el delegado del Gobierno en Galicia por no proteger un acto de Buxadé en Ferrol",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/galicia/vox-querella-delegado-gobierno-galicia-proteger-acto-20261102174141-nt.html",
-      "fecha": "2026-11-02T16:41+00:00",
-      "partidos": [
-        "vox"
-      ]
-    },
-    {
-      "titulo": "Vox se une a PSOE y Podemos y pide microcréditos para las elecciones del 29-N con el interés más alto",
-      "medio": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/politica/20261102/11674296/vox-une-psoe-pide-microcreditos-elecciones-29-n-interes-mas-alto.html",
-      "fecha": "2026-11-02T15:19+00:00",
-      "partidos": [
-        "psoe",
-        "vox",
-        "podemos"
-      ]
-    },
-    {
-      "titulo": "ERC culpa a PSOE y PP del “colapso” ferroviario, pero espera para pedir el cese de Puente",
-      "medio": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/politica/20261102/11674219/erc-culpa-psoe-pp-colapso-ferroviario-espera-pedir-cese-puente.html",
-      "fecha": "2026-11-02T13:24+00:00",
-      "partidos": [
-        "pp",
-        "psoe",
-        "erc"
-      ]
-    },
-    {
-      "titulo": "Feijóo se reivindica como gestor tras el accidente de Urda: “España no se arregla con frivolidad ni tampoco con bravuconadas”",
-      "medio": "El País",
-      "url": "https://elpais.com/espana/2026-11-02/feijoo-se-reivindica-como-gestor-tras-el-accidente-de-urda-espana-no-se-arregla-con-frivolidad-ni-tampoco-con-bravuconadas.html",
-      "fecha": "2026-11-02T13:20+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Narciso Michavila, sociólogo, sobre el resultado de las elecciones generales 29N: «Hay un vuelco a la derecha gracias al voto joven. Es imposible que Pedro Sánchez sea el más votado»",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/narciso-michavila-sociologo-sobre-resultado-elecciones-generales-20261103111225-nt.html",
-      "fecha": "2026-11-02T13:16+00:00",
-      "partidos": [
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "Feijóo llama a la \"reconstrucción nacional\" frente a un Gobierno que \"gestiona pensando en el poder como único fin\"",
-      "medio": "El Mundo",
-      "url": "https://www.elmundo.es/espana/2026/11/02/6ae87031fc6c83065d8b45a6.html",
-      "fecha": "2026-11-02T13:07+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "El Frente Amplio propone recuperar el control público del ferrocarril fusionando Renfe y Adif",
-      "medio": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/politica/20261102/11674199/frente-amplio-propone-recuperar-control-publico-ferrocarril-fusion-renfe-adif.html",
-      "fecha": "2026-11-02T13:05+00:00",
-      "partidos": [
-        "sumar"
-      ]
-    },
-    {
-      "titulo": "El PNV confía en mantener grupo propio, pese a que reconoce que son “elecciones complejas”",
-      "medio": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/local/paisvasco/20261102/11674191/pnv-confian-mantener-grupo-propio-pese-reconoce-son-elecciones-complejas.html",
-      "fecha": "2026-11-02T13:03+00:00",
-      "partidos": [
-        "pnv"
-      ]
-    },
-    {
-      "titulo": "Feijóo pide a sus barones «servir y defender España» frente a la «huida» del Gobierno",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/feijoo-pide-barones-servir-defender-espana-frente-20261102125709-nt.html",
-      "fecha": "2026-11-02T12:57+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Feijóo acusa al Gobierno de reducir a \"un trabajador\" la responsabilidad de la tragedia de Urda: \"Dudo que sean buena gente\"",
-      "medio": "elDiario.es",
-      "url": "https://www.eldiario.es/politica/feijoo-acusa-gobierno-reducir-trabajador-responsabilidad-tragedia-urda-dudo-sean-buena-gente_1_13631683.html",
-      "fecha": "2026-11-02T12:15+00:00",
       "partidos": [
         "pp"
       ]
