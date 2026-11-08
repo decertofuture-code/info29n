@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-07T20:46+00:00",
+  "actualizado": "2026-11-08T00:22+00:00",
   "temas": [
     {
       "id": "vivienda",
@@ -448,6 +448,33 @@
     }
   ],
   "noticias": [
+    {
+      "titulo": "\"Un diputado más\" en Valladolid: Feijóo eleva la meta contra la papeleta de Puente y \"la ministra de las pulseras\"",
+      "medio": "El Mundo",
+      "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/08/6aef7e3afdddffa90e8b457e.html",
+      "fecha": "2026-11-07T23:01+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "Puente, una dimisión que rompe algo en el PSOE",
+      "medio": "El Mundo",
+      "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/08/6aef6a30e85eced81a8b4598.html",
+      "fecha": "2026-11-07T23:01+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "Abascal dice que El Hierro vive otra invasión: \"Han llegado 8.000 a una isla de 12.000\"",
+      "medio": "20minutos",
+      "url": "https://www.20minutos.es/nacional/abascal-dice-hierro-vive-otra-invasion_7058602_0.html",
+      "fecha": "2026-11-07T22:36+00:00",
+      "partidos": [
+        "vox"
+      ]
+    },
     {
       "titulo": "Isabel Díaz Ayuso, aclamada en Valencia: \"España necesita a Feijóo, va a cumplir, es el único que une tantas sensibilidades\"",
       "medio": "20minutos",
@@ -3196,33 +3223,6 @@
       "fecha": "2026-11-02T12:15+00:00",
       "partidos": [
         "pp"
-      ]
-    },
-    {
-      "titulo": "Buxadé responsabiliza al PSOE de la situación ferroviaria y pide dejar atrás \"la España de la catástrofe\"",
-      "medio": "Europa Press",
-      "url": "https://www.europapress.es/nacional/noticia-buxade-responsabiliza-psoe-situacion-ferroviaria-pide-dejar-atras-espana-catastrofe-20261102131140.html",
-      "fecha": "2026-11-02T12:11+00:00",
-      "partidos": [
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "Feijóo acusa a Sánchez de estar pendiente de las encuestas tras la tragedia de Urda y ofrece gestión: \"Yo si sé hacerlo\"",
-      "medio": "Europa Press",
-      "url": "https://www.europapress.es/nacional/noticia-feijoo-acusa-sanchez-estar-pendiente-encuestas-tragedia-urda-ofrece-gestion-yo-si-hacerlo-20261102130655.html",
-      "fecha": "2026-11-02T12:06+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Junts denuncia por vía penal a Renfe y Adif por “la crisis estructural” de Rodalies",
-      "medio": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/politica/20261102/11674010/junts-denuncia-renfe-adif-crisis-estructural-rodalies.html",
-      "fecha": "2026-11-02T11:50+00:00",
-      "partidos": [
-        "junts"
       ]
     }
   ],
