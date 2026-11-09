@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-09T13:29+00:00",
+  "actualizado": "2026-11-09T19:43+00:00",
   "temas": [
     {
       "id": "vivienda",
@@ -449,6 +449,210 @@
   ],
   "noticias": [
     {
+      "titulo": "Abascal hoy en 'La Revuelta', última hora en directo: a qué hora empieza la entrevista y qué se sabe del público",
+      "medio": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/politica/20261109/11680253/entrevista-santiago-abascal-la-revuelta-david-broncano-ultima-hora-hoy-en-directo.html",
+      "fecha": "2026-11-09T19:36+00:00",
+      "partidos": [
+        "vox"
+      ]
+    },
+    {
+      "titulo": "El PP acepta que la Academia de Televisión organice los debates electorales tras la propuesta del PSOE",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/pp-acepta-academia-television-organice-debates-electorales-20261109195130-nt.html",
+      "fecha": "2026-11-09T19:19+00:00",
+      "partidos": [
+        "pp",
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "Vivas condena la agresión a una ceutí musulmana y acusa al PSOE de utilizarla para dividir",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/desalambre/vivas-condena-agresion-ceuti-musulmana-acusa-psoe-utilizarla-dividir_1_13650729.html",
+      "fecha": "2026-11-09T19:00+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "El PP acepta que la Academia de Televisión organice los debates y critica el \"veto\" del PSOE a los grupos privados",
+      "medio": "Europa Press",
+      "url": "https://www.europapress.es/nacional/noticia-pp-acepta-academia-television-organice-debates-critica-veto-psoe-grupos-privados-20261109194934.html",
+      "fecha": "2026-11-09T18:49+00:00",
+      "partidos": [
+        "pp",
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "Feijóo niega haber ofrecido dinero a Koldo para derrocar a Sánchez: \"En nombre del PP no se ha ofrecido un euro a nadie\"",
+      "medio": "20minutos",
+      "url": "https://www.20minutos.es/nacional/feijoo-niega-haber-ofrecido-dinero-koldo-para-derrocar-sanchez-nombre-pp-no-se-ha-ofrecido-un-euro-nadie_7059009_0.html",
+      "fecha": "2026-11-09T18:36+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "El PP acepta la propuesta del PSOE de que sea la Academia de Televisión la que organice el 'cara a cara' y el debate a cuatro",
+      "medio": "El Mundo",
+      "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/09/6af1c467fc6c830f048b458f.html",
+      "fecha": "2026-11-09T18:29+00:00",
+      "partidos": [
+        "pp",
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "El PP acepta que los debates electorales sean organizados por la Academia de Televisión",
+      "medio": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/politica/20261109/11680272/pp-acepta-debates-electorales-sean-organizados-academia-television.html",
+      "fecha": "2026-11-09T18:28+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "El BNG se autoproclama garantía para dar a los gallegos una «vida digna»",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/galicia/bng-autoproclama-garantia-dar-gallegos-vida-digna-20261109190708-nt.html",
+      "fecha": "2026-11-09T18:07+00:00",
+      "partidos": [
+        "bng"
+      ]
+    },
+    {
+      "titulo": "Puigdemont: \"Me violenta tener la nacionalidad española. Como quien se siente mujer atrapada en el cuerpo de un hombre\"",
+      "medio": "20minutos",
+      "url": "https://www.20minutos.es/nacional/puigdemont-me-violenta-tener-nacionalidad-espanola-como-quien-se-siente-mujer-atrapada-cuerpo-un-hombre_7058998_0.html",
+      "fecha": "2026-11-09T17:53+00:00",
+      "partidos": [
+        "junts"
+      ]
+    },
+    {
+      "titulo": "Podemos apoya que la Academia de Televisión organice el debate entre candidatos y defiende que esté Irene Montero",
+      "medio": "Europa Press",
+      "url": "https://www.europapress.es/nacional/noticia-podemos-apoya-academia-television-organice-debate-candidatos-defiende-irene-montero-20261109185153.html",
+      "fecha": "2026-11-09T17:51+00:00",
+      "partidos": [
+        "podemos"
+      ]
+    },
+    {
+      "titulo": "Junts aspira a retener la llave de las mayorías en el Congreso tras las elecciones para condicionar al gobierno",
+      "medio": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/politica/20261109/11680235/junts-aspira-retener-llave-mayorias-congreso-elecciones-condicionar-gobierno.html",
+      "fecha": "2026-11-09T17:27+00:00",
+      "partidos": [
+        "junts"
+      ]
+    },
+    {
+      "titulo": "El PP reconoce una reunión entre el abogado del partido y la letrada de Koldo",
+      "medio": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/politica/20261109/11680138/pp-reconoce-reunion-abogado-partido-letrada-koldo.html",
+      "fecha": "2026-11-09T15:54+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "El PSOE propone que la Academia de Televisión organice el cara a cara y el debate a cuatro si el PP mantiene su veto a RTVE",
+      "medio": "20minutos",
+      "url": "https://www.20minutos.es/nacional/psoe-propone-que-academia-television-organice-cara-cara-debate-cuatro-si-pp-mantiene-su-veto-rtve_7058940_0.html",
+      "fecha": "2026-11-09T15:42+00:00",
+      "partidos": [
+        "pp",
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "\"Un voto como una casa\", el lema del Frente Amplio para el 29 de noviembre",
+      "medio": "El Confidencial",
+      "url": "https://www.elconfidencial.com/espana/2026-11-09/frente-amplio-vivienda-campana-electoral-1tps_4461688/",
+      "fecha": "2026-11-09T14:37+00:00",
+      "partidos": [
+        "sumar"
+      ]
+    },
+    {
+      "titulo": "Frente Amplio lanza su lema para las elecciones del 29-N: \"Un voto como una casa\"",
+      "medio": "20minutos",
+      "url": "https://www.20minutos.es/nacional/frente-amplio-lanza-su-lema-para-las-elecciones-29-n-un-voto-como-una-casa_7058919_0.html",
+      "fecha": "2026-11-09T14:02+00:00",
+      "partidos": [
+        "sumar"
+      ]
+    },
+    {
+      "titulo": "El Frente Amplio convierte la campaña en un \"referéndum\" por la vivienda con el lema \"Un voto como una casa\"",
+      "medio": "El Mundo",
+      "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/09/6af1d23ae9cf4a85548b459c.html",
+      "fecha": "2026-11-09T14:01+00:00",
+      "partidos": [
+        "sumar"
+      ]
+    },
+    {
+      "titulo": "Feijóo promete un millón de viviendas nuevas y garantiza \"okupas fuera\" en 48 horas",
+      "medio": "20minutos",
+      "url": "https://www.20minutos.es/nacional/feijoo-promete-un-millon-viviendas-nuevas-garantiza-okupas-fuera-48-horas_7058916_0.html",
+      "fecha": "2026-11-09T13:52+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "Feijóo niega haber ofrecido pagos a Koldo García para difamar a Sánchez: “Es absolutamente falso”",
+      "medio": "El País",
+      "url": "https://elpais.com/espana/elecciones-generales/2026-11-09/feijoo-niega-haber-ofrecido-pagos-a-koldo-garcia-para-difamar-a-sanchez-es-absolutamente-falso.html",
+      "fecha": "2026-11-09T13:50+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "Feijóo afirma que la huelga general \"es un disparate\" que \"no existe\" en otros países de la Unión Europea",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/politica/feijoo-afirma-huelga-general-disparate-no-existe-paises-union-europea_1_13649826.html",
+      "fecha": "2026-11-09T13:28+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "El Supremo rechaza la petición de Vox de impedir votar el 29N también a los hijos de los nacionalizados por la ley de nietos",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/politica/supremo-rechaza-peticion-vox-impedir-votar-29n-hijos-nacionalizados-ley-nietos_1_13649698.html",
+      "fecha": "2026-11-09T13:26+00:00",
+      "partidos": [
+        "vox"
+      ]
+    },
+    {
+      "titulo": "El PP acepta que la Academia de la Televisión organice los debates electorales tras la propuesta del PSOE",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/politica/psoe-propone-academia-television-organice-debates-electorales-si-pp-mantiene-veto-rtve_1_13649719.html",
+      "fecha": "2026-11-09T13:16+00:00",
+      "partidos": [
+        "pp",
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "Frente apunta a 15 provincias donde disputar escaños a PP y Vox el 29N: \"No nos dirigimos a la izquierda, sino a la gente trabajadora\"",
+      "medio": "20minutos",
+      "url": "https://www.20minutos.es/nacional/frente-apunta-15-provincias-donde-disputar-escanos-pp-vox-29n-no-nos-dirigimos-izquierda-sino-gente-trabajadora_7058899_0.html",
+      "fecha": "2026-11-09T13:10+00:00",
+      "partidos": [
+        "pp",
+        "vox"
+      ]
+    },
+    {
       "titulo": "Feijóo derogará la Ley Trans: “Declararse hombre o mujer en el Registro Civil es una frivolidad del sanchismo”",
       "medio": "La Vanguardia",
       "url": "https://www.lavanguardia.com/politica/20261109/11680033/feijoo-derogara-ley-trans-declararse-hombre-mujer-registro-civil-frivolidad-sanchismo.html",
@@ -707,6 +911,16 @@
       ]
     },
     {
+      "titulo": "El corazón del 'sorpasso' de Vox al PSOE en Torre Pacheco: \"Hay que poner todo en su sitio\"",
+      "medio": "El Mundo",
+      "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/08/6af0bb62fc6c83752d8b4585.html",
+      "fecha": "2026-11-09T01:23+00:00",
+      "partidos": [
+        "psoe",
+        "vox"
+      ]
+    },
+    {
       "titulo": "Girona: PSC vs. Vox",
       "medio": "La Vanguardia",
       "url": "https://www.lavanguardia.com/politica/20261109/11679424/girona-psc-vs-vox.html",
@@ -722,6 +936,16 @@
       "fecha": "2026-11-08T23:06+00:00",
       "partidos": [
         "vox"
+      ]
+    },
+    {
+      "titulo": "Feijóo promete una 'ley anti Armengol' para evitar el bloque del Congreso con Pedro Sánchez",
+      "medio": "El Mundo",
+      "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/09/6af06693e85ece24508b458c.html",
+      "fecha": "2026-11-08T23:06+00:00",
+      "partidos": [
+        "pp",
+        "psoe"
       ]
     },
     {
@@ -3003,228 +3227,6 @@
       "fecha": "2026-11-04T08:35+00:00",
       "partidos": [
         "vox"
-      ]
-    },
-    {
-      "titulo": "El PP de Valladolid se lanza a la campaña aferrado a la petición de dimisión de Puente",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/castilla-leon/pp-valladolid-lanza-campana-agarrado-peticion-dimision-20261103150714-nt.html",
-      "fecha": "2026-11-04T08:32+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "El presidente del Gobierno, Pedro Sánchez, realiza una declaración institucional",
-      "medio": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/politica/20261104/11675694/presidente-gobierno-pedro-sanchez-realiza-declaracion-institucional.html",
-      "fecha": "2026-11-04T08:26+00:00",
-      "partidos": [
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "Frente Amplio celebra la derrota de Trump y avisa: \"El 29N les toca a Feijóo y Abascal\"",
-      "medio": "Europa Press",
-      "url": "https://www.europapress.es/nacional/noticia-frente-amplio-celebra-derrota-trump-avisa-29n-les-toca-feijoo-abascal-20261104090427.html",
-      "fecha": "2026-11-04T08:04+00:00",
-      "partidos": [
-        "pp",
-        "vox",
-        "sumar"
-      ]
-    },
-    {
-      "titulo": "Feijóo anima a Sánchez a seguir los pasos de Puente y presentar su dimisión: \"Aplícatelo\"",
-      "medio": "20minutos",
-      "url": "https://www.20minutos.es/nacional/feijoo-anima-sanchez-seguir-los-pasos-puente-presentar-su-dimision-aplicatelo_7056911_0.html",
-      "fecha": "2026-11-04T07:58+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Feijóo ve insuficiente la dimisión de Puente y señala a Sánchez: “Aplícatelo”",
-      "medio": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/politica/20261104/11675661/feijoo-ve-insuficiente-dimision-puente-senala-sanchez-aplicatelo.html",
-      "fecha": "2026-11-04T07:52+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Feijóo anima a Sánchez a que siga los pasos de Puente y presente su dimisión: \"Aplícatelo\"",
-      "medio": "Europa Press",
-      "url": "https://www.europapress.es/nacional/noticia-feijoo-anima-sanchez-siga-pasos-puente-presente-dimision-aplicatelo-20261104073821.html",
-      "fecha": "2026-11-04T06:38+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Puente se aparta para intentar salvar la campaña del PSOE pese al respaldo de Sánchez a su gestión",
-      "medio": "El País",
-      "url": "https://elpais.com/espana/2026-11-04/puente-se-aparta-para-intentar-salvar-la-campana-del-psoe-pese-al-respaldo-de-sanchez-a-su-gestion.html",
-      "fecha": "2026-11-04T04:30+00:00",
-      "partidos": [
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "Audio | La abogada de Koldo García advirtió a la fiscal de la “sorpresa” que se llevaría al saber que ‘Okdiario’ pagaba la defensa: “No tengo nada que ver con el PSOE”",
-      "medio": "El País",
-      "url": "https://elpais.com/espana/2026-11-04/audio-la-abogada-de-koldo-garcia-advirtio-a-la-fiscal-de-la-sorpresa-que-se-llevaria-al-saber-que-okdiario-pagaba-la-defensa-no-tengo-nada-que-ver-con-el-psoe.html",
-      "fecha": "2026-11-04T04:30+00:00",
-      "partidos": [
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "El PP reclama poder convertir en vivienda pública el suelo privado para equipamientos",
-      "medio": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/local/valencia/20261104/11675160/pp-reclama-convertir-vivienda-publica-suelo-privado-equipamientos.html",
-      "fecha": "2026-11-04T04:30+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "El Gobierno andaluz de PP y Vox pagará en 2027 tres millones de ayudas de los ERE fraudulentos",
-      "medio": "El Confidencial",
-      "url": "https://www.elconfidencial.com/espana/andalucia/2026-11-04/el-gobierno-andaluz-de-pp-y-vox-pagara-en-2027-tres-millones-de-ayudas-de-los-ere-fraudulentos_4458208/",
-      "fecha": "2026-11-04T04:00+00:00",
-      "partidos": [
-        "pp",
-        "vox"
-      ]
-    },
-    {
-      "titulo": "Feijóo envía un aviso a los sindicatos ante la huelga general: «Mal empezamos»",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/feijoo-envia-aviso-sindicatos-ante-huelga-general-20261104015059-nt.html",
-      "fecha": "2026-11-04T01:05+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "PP y Vox abren otro frente con los sindicatos por la huelga de la vivienda",
-      "medio": "elDiario.es",
-      "url": "https://www.eldiario.es/politica/pp-vox-abren-frente-sindicatos-huelga-vivienda_1_13635542.html",
-      "fecha": "2026-11-03T23:18+00:00",
-      "partidos": [
-        "pp",
-        "vox"
-      ]
-    },
-    {
-      "titulo": "69 muertos después, lo de Feijóo sí es un grave error (o algo peor)",
-      "medio": "elDiario.es",
-      "url": "https://www.eldiario.es/opinion/zona-critica/69-muertos-despues-feijoo-si-grave-error-peor_129_13634972.html",
-      "fecha": "2026-11-03T23:18+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "La políticas de vivienda del PP en Balears que no solucionan el problema: beneficio fiscal, liberar el suelo y sin tope al alquiler",
-      "medio": "elDiario.es",
-      "url": "https://www.eldiario.es/illes-balears/politica/politicas-vivienda-pp-balears-no-solucionan-problema-beneficio-fiscal-liberar-suelo-tope-alquiler_1_13634161.html",
-      "fecha": "2026-11-03T23:18+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Feijóo y Abascal pugnan por más peso en la suma de la derecha",
-      "medio": "El Mundo",
-      "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/04/6aea5724fc6c83b35c8b45d3.html",
-      "fecha": "2026-11-03T23:11+00:00",
-      "partidos": [
-        "pp",
-        "vox"
-      ]
-    },
-    {
-      "titulo": "Manfred Weber, líder del PPE: \"Feijóo es un nuevo comienzo y será un gran presidente; los resultados de Sánchez están a la vista de todos\"",
-      "medio": "El Mundo",
-      "url": "https://www.elmundo.es/espana/2026/11/04/6ae9ea6ce9cf4ae9788b4594.html",
-      "fecha": "2026-11-03T23:11+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "El PSOE saluda la decisión de Puente de dimitir: «No quedaba otra»",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/moncloa-aferra-doctrina-mazon-sostener-puente-29n-20261104225432-nt.html",
-      "fecha": "2026-11-03T22:38+00:00",
-      "partidos": [
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "Puente figurará como número uno de la papeleta del PSOE por Valladolid pese a haber renunciado a ello",
-      "medio": "20minutos",
-      "url": "https://www.20minutos.es/nacional/puente-figurara-como-numero-uno-papeleta-psoe-por-valladolid-pese-su-dimision_7056854_0.html",
-      "fecha": "2026-11-03T22:26+00:00",
-      "partidos": [
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "Feijóo acusa",
-      "medio": "elDiario.es",
-      "url": "https://www.eldiario.es/opinion/feijoo-acusa_131_13635756.html",
-      "fecha": "2026-11-03T22:03+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Abascal exige a Sánchez dimitir en vez de esconderse \"detrás de sus esbirros\": \"La responsabilidad es suya\"",
-      "medio": "Europa Press",
-      "url": "https://www.europapress.es/nacional/noticia-abascal-exige-sanchez-dimitir-vez-esconderse-detras-esbirros-responsabilidad-suya-20261103224058.html",
-      "fecha": "2026-11-03T21:40+00:00",
-      "partidos": [
-        "vox"
-      ]
-    },
-    {
-      "titulo": "Pedro Sánchez, sobre la dimisión de Óscar Puente: \"Ha dado la cara. Por voluntad propia. Gracias por tanto, compañero\"",
-      "medio": "20minutos",
-      "url": "https://www.20minutos.es/nacional/pedro-sanchez-sobre-dimision-oscar-puente-ha-dado-cara-por-voluntad-propia-gracias-por-tanto-companero_7056849_0.html",
-      "fecha": "2026-11-03T21:37+00:00",
-      "partidos": [
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "Puente libera al PSOE de la carga de tenerlo en el Gobierno y en la campaña",
-      "medio": "elDiario.es",
-      "url": "https://www.eldiario.es/politica/puente-libera-psoe-carga-tenerlo-gobierno-campana_129_13635744.html",
-      "fecha": "2026-11-03T21:24+00:00",
-      "partidos": [
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "PP y Vox advierten de que la caída de Puente «no cuela»: «Debe irse todo el Gobierno»",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/pp-vox-advierten-caida-puente-basta-debe-20261103220446-nt.html",
-      "fecha": "2026-11-03T21:18+00:00",
-      "partidos": [
-        "pp",
-        "vox"
-      ]
-    },
-    {
-      "titulo": "El PP apunta ahora a Sánchez tras la renuncia de Puente: “Le dimitiremos en las urnas”",
-      "medio": "El País",
-      "url": "https://elpais.com/espana/2026-11-03/el-pp-no-se-va-por-las-victimas-ni-por-dignidad-sino-por-las-encuestas.html",
-      "fecha": "2026-11-03T21:15+00:00",
-      "partidos": [
-        "pp"
       ]
     }
   ],
