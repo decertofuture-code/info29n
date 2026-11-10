@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-10T03:23+00:00",
+  "actualizado": "2026-11-10T13:08+00:00",
   "temas": [
     {
       "id": "vivienda",
@@ -449,6 +449,329 @@
   ],
   "noticias": [
     {
+      "titulo": "La Junta acusa al PP de plantear una bajada de impuestos «insostenible» y enmiendas «trampa» a los presupuestos",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/castilla-la-mancha/junta-acusa-pp-plantear-bajada-impuestos-insostenible-20261110133156-nt.html",
+      "fecha": "2026-11-10T12:54+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "PP y Vox sellan su alianza para prohibir el burka en los espacios públicos de Balears bajo multas de hasta 30.000 euros",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/illes-balears/politica/pp-vox-sellan-alianza-prohibir-burka-espacios-publicos-balears-multas-30-000-euros_1_13652022.html",
+      "fecha": "2026-11-10T12:52+00:00",
+      "partidos": [
+        "pp",
+        "vox"
+      ]
+    },
+    {
+      "titulo": "Feijóo pide una oportunidad para dar \"la vuelta\" a España: \"Mi programa es la cura para sanar una España herida\"",
+      "medio": "Europa Press",
+      "url": "https://www.europapress.es/nacional/noticia-feijoo-pide-oportunidad-dar-vuelta-espana-programa-cura-sanar-espana-herida-20261110134505.html",
+      "fecha": "2026-11-10T12:45+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "Abascal en el salón de tu casa: la normalización de la extrema derecha",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/opinion/zona-critica/abascal-salon-casa-normalizacion-extrema-derecha_129_13651918.html",
+      "fecha": "2026-11-10T12:39+00:00",
+      "partidos": [
+        "vox"
+      ]
+    },
+    {
+      "titulo": "Narciso Michavila, presidente de GAD3, sobre la entrevista de Broncano a Abascal: «El PSOE debería estar preocupado. Les está desmontando la campaña del miedo»",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/narciso-michavila-presidente-gad3-sobre-entrevista-broncano-20261110130620-nt.html",
+      "fecha": "2026-11-10T12:36+00:00",
+      "partidos": [
+        "psoe",
+        "vox"
+      ]
+    },
+    {
+      "titulo": "Encuesta de GAD3 de las elecciones generales en Galicia: ganador y resultados de PP, PSOE, VOX y BNG",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/galicia/encuesta-gad3-elecciones-generales-galicia-ganador-resultados-20261110131515-nt.html",
+      "fecha": "2026-11-10T12:35+00:00",
+      "partidos": [
+        "pp",
+        "psoe",
+        "bng"
+      ]
+    },
+    {
+      "titulo": "Elecciones generales del 29N, última hora: precampaña electoral de Sánchez, Feijóo, Colau, Abascal y resto de candidatos",
+      "medio": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/politica/20261110/11680069/elecciones-generales-29-n-ultima-hora-precampana-electoral-hoy-martes-10-noviembre.html",
+      "fecha": "2026-11-10T12:34+00:00",
+      "partidos": [
+        "pp",
+        "vox"
+      ]
+    },
+    {
+      "titulo": "Colau dice que, a diferencia de Abascal, irá a 'La Revuelta' sin elegir al público y defiende una TVE \"sin censura\"",
+      "medio": "Europa Press",
+      "url": "https://www.europapress.es/nacional/noticia-colau-dice-diferencia-abascal-ira-revuelta-elegir-publico-defiende-tve-censura-20261110132434.html",
+      "fecha": "2026-11-10T12:24+00:00",
+      "partidos": [
+        "vox"
+      ]
+    },
+    {
+      "titulo": "Feijóo convierte su programa electoral en una enmienda a la totalidad a Sánchez",
+      "medio": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/politica/20261110/11680798/feijoo-convierte-programa-electoral-enmienda-totalidad-sanchez.html",
+      "fecha": "2026-11-10T12:22+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "María Jesús Montero confirma que el PSOE no irá al pleno de los presupuestos: «Iremos a la huelga»",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/andalucia/maria-jesus-montero-moreno-bonilla-mantiene-pleno-20261110130746-nts.html",
+      "fecha": "2026-11-10T12:09+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "PP y Vox pactan un presupuesto para Zaragoza que incluye la prioridad nacional",
+      "medio": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/politica/20261110/11680791/pp-vox-pactan-presupuesto-zaragoza-incluye-prioridad-nacional.html",
+      "fecha": "2026-11-10T12:08+00:00",
+      "partidos": [
+        "pp",
+        "vox"
+      ]
+    },
+    {
+      "titulo": "El Gobierno lleva al Constitucional la prioridad nacional del PP y Vox en Valencia",
+      "medio": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/local/valencia/20261110/11680732/gobierno-lleva-constitucional-prioridad-nacional-pp-vox-valencia.html",
+      "fecha": "2026-11-10T11:41+00:00",
+      "partidos": [
+        "pp",
+        "vox"
+      ]
+    },
+    {
+      "titulo": "El PP mantendría su ventaja en Andalucía, Vox crecería y Adelante entraría en el Congreso",
+      "medio": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/local/andalucia/20261110/11680717/pp-mantendria-ventaja-andalucia-vox-creceria-adelante-entraria-congreso.html",
+      "fecha": "2026-11-10T11:39+00:00",
+      "partidos": [
+        "pp",
+        "vox"
+      ]
+    },
+    {
+      "titulo": "Vox lamenta que se recortaron 40 minutos de la entrevista con Broncano en 'La Revuelta'",
+      "medio": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/politica/20261110/11680738/vox-queda-satisfecho-entrevista-broncano-critica-recortaron-40-minutos.html",
+      "fecha": "2026-11-10T11:31+00:00",
+      "partidos": [
+        "vox"
+      ]
+    },
+    {
+      "titulo": "El PSOE renuncia a defender su enmienda a la totalidad al primer Presupuesto de PP y Vox en Andalucía para ir a la huelga",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/andalucia/psoe-renuncia-defender-enmienda-totalidad-primer-presupuesto-pp-vox-andalucia-huelga_1_13639918.html",
+      "fecha": "2026-11-10T11:23+00:00",
+      "partidos": [
+        "pp",
+        "psoe",
+        "vox"
+      ]
+    },
+    {
+      "titulo": "Tormenta política tras la visita de Abascal a Broncano en ‘La revuelta’: “Es terrible que TVE le diera espacio”",
+      "medio": "El País",
+      "url": "https://elpais.com/espana/elecciones-generales/2026-11-10/tormenta-politica-tras-la-visita-de-abascal-a-broncano-en-la-revuelta-es-terrible-que-tve-le-diera-espacio.html",
+      "fecha": "2026-11-10T11:00+00:00",
+      "partidos": [
+        "vox"
+      ]
+    },
+    {
+      "titulo": "Sassoli, Caballé, Vara... los actos católicos a los que sí acudió Pedro Sánchez pese a que dice ahora que no acude \"a oficios religiosos\"",
+      "medio": "20minutos",
+      "url": "https://www.20minutos.es/nacional/sassoli-caballe-vara-los-actos-catolicos-los-que-si-acudio-pedro-sanchez-pese-que-dice-ahora-que-no-acude-oficios-religiosos_7059185_0.html",
+      "fecha": "2026-11-10T10:59+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "Abascal cree que Broncano \"lo pasó mal\" en la entrevista debido a las presiones por 'blanquear el franquismo'",
+      "medio": "El Confidencial",
+      "url": "https://www.elconfidencial.com/espana/2026-11-10/figaredo-revuelta-entrevista-sanidad-1tps_4462029/",
+      "fecha": "2026-11-10T10:55+00:00",
+      "partidos": [
+        "vox"
+      ]
+    },
+    {
+      "titulo": "El Gobierno lleva al Constitucional la \"prioridad nacional\" de PP y Vox en la Comunitat Valenciana",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/comunitat-valenciana/politica/gobierno-recurre-constitucional-prioridad-nacional-19-cambios-legislativos-perez-llorca-vox_1_13651593.html",
+      "fecha": "2026-11-10T10:46+00:00",
+      "partidos": [
+        "pp",
+        "vox"
+      ]
+    },
+    {
+      "titulo": "Ayuso respalda que Abascal llamase \"dictador\" a Sánchez en La Revuelta y carga contra Broncano: \"¿De qué vas?\"",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/madrid/ayuso-respalda-abascal-llamase-dictador-sanchez-revuelta-carga-broncano-vas_1_13651336.html",
+      "fecha": "2026-11-10T10:33+00:00",
+      "partidos": [
+        "vox"
+      ]
+    },
+    {
+      "titulo": "Las mentiras de Abascal en 'La Revuelta'",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/politica/mentiras-abascal-revuelta_1_13651203.html",
+      "fecha": "2026-11-10T10:31+00:00",
+      "partidos": [
+        "vox"
+      ]
+    },
+    {
+      "titulo": "El PP denuncia la “huelga electoral” de los sindicatos contra el PP",
+      "medio": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/politica/20261110/11680676/pp-denuncia-huelga-electoral-sindicatos-pp.html",
+      "fecha": "2026-11-10T10:20+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "Abascal afirma que Broncano \"lo pasó mal\" en su entrevista en 'La Revuelta' por la presión \"inaceptable\" de la izquierda",
+      "medio": "20minutos",
+      "url": "https://www.20minutos.es/nacional/abascal-afirma-que-broncano-paso-mal-su-entrevista-revuelta-por-presion-inaceptable-izquierda_7059176_0.html",
+      "fecha": "2026-11-10T10:14+00:00",
+      "partidos": [
+        "vox"
+      ]
+    },
+    {
+      "titulo": "Abascal cree que la huelga general “no debería ser legal” y espera que tenga “muy poco respaldo”",
+      "medio": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/politica/20261110/11680660/abascal-cree-huelga-general-deberia-legal-espera-tenga-poco-respaldo.html",
+      "fecha": "2026-11-10T10:05+00:00",
+      "partidos": [
+        "vox"
+      ]
+    },
+    {
+      "titulo": "Ione Belarra, sobre Broncano y Abascal: \"No le habría entrevistado sin el visto bueno del PSOE, esto va de acabar con la izquierda\"",
+      "medio": "20minutos",
+      "url": "https://www.20minutos.es/nacional/ione-belarra-sobre-broncano-abascal-no-le-habria-entrevistado-sin-visto-bueno-psoe-esto-va-acabar-con-izquierda_7059157_0.html",
+      "fecha": "2026-11-10T09:40+00:00",
+      "partidos": [
+        "psoe",
+        "vox"
+      ]
+    },
+    {
+      "titulo": "Tellado denuncia la \"huelga electoral\" de los sindicatos contra el PP, \"el verdadero partido de los currantes\"",
+      "medio": "Europa Press",
+      "url": "https://www.europapress.es/nacional/noticia-tellado-denuncia-huelga-electoral-sindicatos-contra-pp-verdadero-partido-currantes-20261110103158.html",
+      "fecha": "2026-11-10T09:31+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "El PSPV denuncia a Pérez Llorca ante la Fiscalía por el contrato al bufete de un exdiputado del PP condenado en Gürtel",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/comunitat-valenciana/pspv-denuncia-perez-llorca-fiscalia-contrato-bufete-exdiputado-pp-condenado-gurtel_1_13651288.html",
+      "fecha": "2026-11-10T09:27+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "Abascal cree que Broncano \"lo pasó mal\" en su entrevista en 'La Revuelta' por la presión de la izquierda",
+      "medio": "Europa Press",
+      "url": "https://www.europapress.es/nacional/noticia-abascal-cree-broncano-paso-mal-entrevista-revuelta-presion-inaceptable-izquierda-20261110095928.html",
+      "fecha": "2026-11-10T08:59+00:00",
+      "partidos": [
+        "vox"
+      ]
+    },
+    {
+      "titulo": "PNV cree \"terrible\" que TVE \"diera espacio\" a Abascal, al que \"se le está poniendo cara de vicepresidente\"",
+      "medio": "Europa Press",
+      "url": "https://www.europapress.es/euskadi/noticia-pnv-cree-terrible-tve-diera-espacio-abascal-le-poniendo-cara-vicepresidente-20261110091733.html",
+      "fecha": "2026-11-10T08:17+00:00",
+      "partidos": [
+        "vox",
+        "pnv"
+      ]
+    },
+    {
+      "titulo": "El 53% de votantes del PSOE cree que el Gobierno tuvo responsabilidad en la tragedia de Urda y solo el 14% ve fallo humano",
+      "medio": "20minutos",
+      "url": "https://www.20minutos.es/nacional/53-votantes-psoe-cree-que-gobierno-tuvo-responsabilidad-tragedia-urda-solo-14-ve-fallo-humano_7058880_0.html",
+      "fecha": "2026-11-10T05:16+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "Los ciudadanos creen que el PSOE tomaría mejores decisiones en Educación y Sanidad y el PP en Economía y Vivienda",
+      "medio": "20minutos",
+      "url": "https://www.20minutos.es/nacional/los-ciudadanos-creen-que-psoe-tomaria-mejores-decisiones-educacion-sanidad-pp-economia-vivienda_7058822_0.html",
+      "fecha": "2026-11-10T05:16+00:00",
+      "partidos": [
+        "pp",
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "PP y Vox conservan la mayoría absoluta mientras el PSOE apenas se deja un punto tras la tragedia de Urda",
+      "medio": "20minutos",
+      "url": "https://www.20minutos.es/nacional/pp-vox-conservan-mayoria-absoluta-mientras-psoe-apenas-se-deja-un-punto-tras-tragedia-urda_7058765_0.html",
+      "fecha": "2026-11-10T05:15+00:00",
+      "partidos": [
+        "pp",
+        "psoe",
+        "vox"
+      ]
+    },
+    {
+      "titulo": "PSOE y PP cierran el pulso por los debates electorales tras un mes de negociación",
+      "medio": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/politica/20261110/11680314/psoe-pp-cierran-pulso-debates-electorales-mes-negociacion.html",
+      "fecha": "2026-11-10T05:00+00:00",
+      "partidos": [
+        "pp",
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "Feijóo rebajará los impuestos a la luz y creará una tarifa social única si logra gobernar",
+      "medio": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/politica/20261110/11680282/feijoo-rebajara-impuestos-luz-creara-tarifa-social-unica.html",
+      "fecha": "2026-11-10T05:00+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
       "titulo": "Bildu doblaría en escaños al PNV el 29N, que perdería su grupo en el Congreso",
       "medio": "ABC",
       "url": "https://www.abc.es/espana/pais-vasco/bildu-doblaria-escanos-pnv-29n-perderia-grupo-20261110023010-nt.html",
@@ -561,6 +884,15 @@
       ]
     },
     {
+      "titulo": "La entrevista con Abascal le estalla en la cara a Broncano",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/politica/entrevista-abascal-le-estalla-cara-broncano_129_13650926.html",
+      "fecha": "2026-11-09T23:10+00:00",
+      "partidos": [
+        "vox"
+      ]
+    },
+    {
       "titulo": "Abascal aboga por \"regular\" los fondos buitre para evitar la especulación con la vivienda",
       "medio": "Europa Press",
       "url": "https://www.europapress.es/nacional/noticia-abascal-aboga-regular-fondos-buitre-evitar-especulacion-vivienda-20261110000544.html",
@@ -613,6 +945,24 @@
       "fecha": "2026-11-09T22:27+00:00",
       "partidos": [
         "vox"
+      ]
+    },
+    {
+      "titulo": "El Frente Amplio centrará su campaña en 16 provincias para pelear por el último escaño",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/politica/frente-amplio-centrara-campana-16-provincias-pelear-ultimo-escano_1_13650440.html",
+      "fecha": "2026-11-09T22:02+00:00",
+      "partidos": [
+        "sumar"
+      ]
+    },
+    {
+      "titulo": "La mayoría de los votantes del PSOE respalda la gestión del Gobierno del accidente de Urda",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/politica/mayoria-votantes-psoe-respalda-gestion-gobierno-accidente-urda_1_13649244.html",
+      "fecha": "2026-11-09T22:02+00:00",
+      "partidos": [
+        "psoe"
       ]
     },
     {
@@ -2881,347 +3231,6 @@
       "fecha": "2026-11-05T11:43+00:00",
       "partidos": [
         "pp"
-      ]
-    },
-    {
-      "titulo": "Cristian Corvillo, la caída del conductor de Sánchez en su gira de reconquista del PSOE que ya anunció: \"Lo voy a aprovechar\"",
-      "medio": "El Mundo",
-      "url": "https://www.elmundo.es/espana/2026/11/05/6aec5aa821efa07f108b45a2.html",
-      "fecha": "2026-11-05T11:40+00:00",
-      "partidos": [
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "Podemos exige plaza y voz para Irene Montero en el debate electoral con Sánchez, Feijóo, Colau y Abascal",
-      "medio": "El Mundo",
-      "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/05/6aec67b0fdddff6f188b45c1.html",
-      "fecha": "2026-11-05T11:32+00:00",
-      "partidos": [
-        "pp",
-        "vox",
-        "podemos"
-      ]
-    },
-    {
-      "titulo": "El PP, tras el registro en casa de Ábalos: “La corrupción cuesta vidas”",
-      "medio": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/politica/20261105/11676787/pp-registro-casa-abalos-adif-corrupcion-cuesta-vidas.html",
-      "fecha": "2026-11-05T11:24+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "PSOE acusa al PP de \"intentar comprar\" el testimonio de Koldo para derribar a Sánchez y 'Génova' dice que es \"falso\"",
-      "medio": "Europa Press",
-      "url": "https://www.europapress.es/nacional/noticia-psoe-acusa-guerra-sucia-pp-derribar-gobierno-legitimo-intentar-comprar-testimonio-koldo-20261105105421.html",
-      "fecha": "2026-11-05T09:54+00:00",
-      "partidos": [
-        "pp",
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "La diputada del PP que sacó gas pimienta en el Congreso llama \"gilipollas\" a Armengol",
-      "medio": "elDiario.es",
-      "url": "https://www.eldiario.es/politica/diputada-saco-gas-pimienta-congreso-ana-vazquez-llama-gilipollas-armengol_1_13639747.html",
-      "fecha": "2026-11-05T09:22+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Koldo García afirma que el abogado del PP le ofreció un millón por mentir contra el Gobierno de Sánchez",
-      "medio": "elDiario.es",
-      "url": "https://www.eldiario.es/politica/koldo-garcia-afirma-abogado-pp-le-ofrecio-millon-informacion-gobierno-sanchez_1_13639592.html",
-      "fecha": "2026-11-05T07:45+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "El PSOE se aferra al relato de la 'dignidad' de Puente y al cese en Adif para remontar",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/psoe-aferra-dimision-puente-resetear-campana-20261105012723-nt.html",
-      "fecha": "2026-11-05T05:22+00:00",
-      "partidos": [
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "Dirigentes del PSOE se aferran a la “lección política” de Puente y la derrota de Trump para relanzar la campaña",
-      "medio": "El País",
-      "url": "https://elpais.com/espana/elecciones-generales/2026-11-05/dirigentes-del-psoe-se-aferran-a-la-leccion-politica-de-puente-y-la-derrota-de-trump-para-relanzar-la-campana.html",
-      "fecha": "2026-11-05T04:30+00:00",
-      "partidos": [
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "Alberto Núñez Feijóo: \"A la gente no se le puede hacer un nudo en el estómago cuando entra en un tren\"",
-      "medio": "20minutos",
-      "url": "https://www.20minutos.es/nacional/alberto-nunez-feijoo-gente-no-se-le-puede-hacer-un-nudo-estomago-cuando-entra-un-tren_7057413_0.html",
-      "fecha": "2026-11-05T04:00+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Alberto Núñez Feijóo: \"En estos años ha perdido la clase media, nosotros vamos a gobernar para el trabajador\"",
-      "medio": "20minutos",
-      "url": "https://www.20minutos.es/nacional/alberto-nunez-feijoo-estos-anos-ha-perdido-clase-media-nosotros-vamos-gobernar-para-trabajador_7057412_0.html",
-      "fecha": "2026-11-05T04:00+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "El PSOE utiliza la dimisión de Puente como bandera con el \"no todos somos iguales\" y carga a Cuerpo con el frente ferroviario",
-      "medio": "20minutos",
-      "url": "https://www.20minutos.es/nacional/psoe-utiliza-dimision-puente-como-bandera-con-no-todos-somos-iguales-carga-cuerpo-con-frente-ferroviario_7057313_0.html",
-      "fecha": "2026-11-05T04:00+00:00",
-      "partidos": [
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "El PP recordará el abandono del Gobierno con Adamuz para combatir la nueva estrategia de Sánchez",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/pp-recordara-abandono-gobierno-adamuz-combatir-nueva-20261104012742-nt.html",
-      "fecha": "2026-11-05T00:28+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Alivio en el Frente Amplio por \"pasar página\" de Puente, \"dejar sin argumentos\" al PP y girar el debate hacia \"más Cercanías\"",
-      "medio": "El Mundo",
-      "url": "https://www.elmundo.es/espana/2026/11/05/6aeb6f1de9cf4aa86d8b4587.html",
-      "fecha": "2026-11-04T23:00+00:00",
-      "partidos": [
-        "pp",
-        "sumar"
-      ]
-    },
-    {
-      "titulo": "El PSOE necesita una derrota dura de Pedro Sánchez",
-      "medio": "El Mundo",
-      "url": "https://www.elmundo.es/espana/2026/11/05/6aeb73cbe85ecedd468b4581.html",
-      "fecha": "2026-11-04T23:00+00:00",
-      "partidos": [
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "Encuentro entre Santiago Abascal y Javier Milei en Madrid: \"Me he reunido con mi amigo y aliado\"",
-      "medio": "20minutos",
-      "url": "https://www.20minutos.es/nacional/encuentro-entre-santiago-abascal-javier-milei-madrid-me-he-reunido-con-mi-amigo-aliado_7057411_0.html",
-      "fecha": "2026-11-04T22:56+00:00",
-      "partidos": [
-        "vox"
-      ]
-    },
-    {
-      "titulo": "Así purgó la Policía al comisario acusado por el PSOE de no proteger a Santaolalla en el Senado: \"Poco recorrido para su labor. Instrucciones recibidas\"",
-      "medio": "El Mundo",
-      "url": "https://www.elmundo.es/espana/2026/11/04/6aeb8687e4d4d8453d8b45c8.html",
-      "fecha": "2026-11-04T21:41+00:00",
-      "partidos": [
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "El PSOE transforma la dimisión de Puente en una oportunidad de recuperar el pulso electoral: \"Ahora podemos salir a la calle con dignidad, estábamos muy jodidos\"",
-      "medio": "El Mundo",
-      "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/04/6aeb8641e4d4d8fb618b458f.html",
-      "fecha": "2026-11-04T21:41+00:00",
-      "partidos": [
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "Cómo Vox quiere arrasar entre los jóvenes proletarios: \"Ya funcionamos mejor en Parla que en Pozuelo\"",
-      "medio": "El Mundo",
-      "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/04/6aeb7719fc6c83f76e8b4595.html",
-      "fecha": "2026-11-04T21:41+00:00",
-      "partidos": [
-        "vox"
-      ]
-    },
-    {
-      "titulo": "El PSOE pide a la Junta Electoral que Puente salga de la lista al Congreso",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/castilla-leon/puente-presentado-junta-electoral-renuncia-candidato-congreso-20261104215347-nt.html",
-      "fecha": "2026-11-04T20:53+00:00",
-      "partidos": [
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "El PSOE pide a la Junta Electoral Provincial que Puente salga de la lista al Congreso",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/castilla-leon/papeleta-congreso-valladolid-incluira-puente-presentado-renuncia-20261104192812-nt.html",
-      "fecha": "2026-11-04T20:47+00:00",
-      "partidos": [
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "El PSOE enmienda la nueva Ordenanza de Movilidad por «intentar colar» la ZBE",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/castilla-la-mancha/toledo/psoe-enmienda-nueva-ordenanza-movilidad-intentar-colar-20261104205551-nt.html",
-      "fecha": "2026-11-04T20:17+00:00",
-      "partidos": [
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "El PSOE acusa al alcalde de Talavera de ser «el principal problema» para la ciudad",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/castilla-la-mancha/toledo/talavera/psoe-acusa-alcalde-talavera-principal-problema-ciudad-20261104210230-nt.html",
-      "fecha": "2026-11-04T20:04+00:00",
-      "partidos": [
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "El PP presenta 60 enmiendas a la Ley de Acompañamiento y exige a Page que deflacte el IRPF",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/castilla-la-mancha/pp-presenta-enmiendas-ley-acompanamiento-exige-page-20261104205152-nt.html",
-      "fecha": "2026-11-04T19:52+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Feijóo, a los que le llaman \"aburrido\" o le afean no colgar listas en Spotify: \"No me presento para entretener\"",
-      "medio": "Europa Press",
-      "url": "https://www.europapress.es/nacional/noticia-feijoo-le-llaman-aburrido-le-afean-no-colgar-listas-spotify-no-me-presento-entretener-20261104204806.html",
-      "fecha": "2026-11-04T19:48+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Vox exige el pago inmediato de la carrera profesional sanitaria en Castilla-La Mancha",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/castilla-la-mancha/vox-exige-pago-inmediato-carrera-profesional-sanitaria-20261104200854-nt.html",
-      "fecha": "2026-11-04T19:08+00:00",
-      "partidos": [
-        "vox"
-      ]
-    },
-    {
-      "titulo": "Abascal replica a Sánchez: \"No, no todos somos iguales, algunos no tenemos las manos manchadas de sangre\"",
-      "medio": "Europa Press",
-      "url": "https://www.europapress.es/nacional/noticia-abascal-replica-sanchez-no-no-todos-somos-iguales-algunos-no-tenemos-manos-manchadas-sangre-20261104200229.html",
-      "fecha": "2026-11-04T19:02+00:00",
-      "partidos": [
-        "vox"
-      ]
-    },
-    {
-      "titulo": "Cargos del PSOE reciben con alivio la dimisión de Puente y esperan que sirva para \"remontar\" en la campaña electoral",
-      "medio": "Europa Press",
-      "url": "https://www.europapress.es/nacional/noticia-cargos-psoe-reciben-alivio-dimision-puente-esperan-sirva-remontar-campana-electoral-20261104195339.html",
-      "fecha": "2026-11-04T18:53+00:00",
-      "partidos": [
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "\"Mayday, mayday, Canarias está siendo invadida\": el PP canario reproduce el discurso antiinmigracion de Vox",
-      "medio": "elDiario.es",
-      "url": "https://www.eldiario.es/canariasahora/politica/canarias-invadida-mensaje-desesperado-vicepresidente-canario-pp-llegada-cayucos_1_13638658.html",
-      "fecha": "2026-11-04T18:29+00:00",
-      "partidos": [
-        "pp",
-        "vox"
-      ]
-    },
-    {
-      "titulo": "El PP andaluz cuestiona la dimisión de Óscar Puente: «La decisión se tomó en un oscuro despacho por el Tezanos de turno»",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/andalucia/pp-andaluz-cuestiona-dimision-oscar-puente-decision-20261104180633-nts.html",
-      "fecha": "2026-11-04T17:06+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "El PP de Toledo acusa a Sánchez de dejar «la nada más absoluta» en vivienda tras ocho años de Gobierno",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/castilla-la-mancha/toledo/pp-toledo-acusa-sanchez-dejar-absoluta-vivienda-20261104180318-nt.html",
-      "fecha": "2026-11-04T17:03+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Milei planta al Rey en el arranque de la Cumbre Iberoamericana y se reúne con Abascal",
-      "medio": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/politica/20261104/11676184/milei-planta-rey-arranque-cumbre-iberoamericana-reune-abascal.html",
-      "fecha": "2026-11-04T16:51+00:00",
-      "partidos": [
-        "vox"
-      ]
-    },
-    {
-      "titulo": "Santiago Abascal convierte el relevo de Óscar Puente en un ataque al presidente: “Siempre tiene un fusible que desconectar”",
-      "medio": "El País",
-      "url": "https://elpais.com/espana/2026-11-04/abascal-convierte-el-relevo-de-puente-en-un-ataque-al-presidente-siempre-tiene-un-fusible-que-desconectar.html",
-      "fecha": "2026-11-04T15:08+00:00",
-      "partidos": [
-        "vox"
-      ]
-    },
-    {
-      "titulo": "El Gobierno y la izquierda celebran la derrota de Trump mientras Feijóo advierte que en España puede ocurrir \"un vuelco político\"",
-      "medio": "20minutos",
-      "url": "https://www.20minutos.es/nacional/gobierno-izquierda-celebran-derrota-trump-mientras-feijoo-advierte-que-espana-puede-ocurrir-un-vuelco-politico_7057186_0.html",
-      "fecha": "2026-11-04T15:04+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "El TS archiva una querella de Vox contra Sánchez y el Consejo de Ministros por la entrada masiva en Ceuta",
-      "medio": "El Confidencial",
-      "url": "https://www.elconfidencial.com/espana/2026-11-04/tribunal-supremo-archiva-querella-ceuta-1tps_4458859/",
-      "fecha": "2026-11-04T14:20+00:00",
-      "partidos": [
-        "vox"
-      ]
-    },
-    {
-      "titulo": "Una marcha universitaria tiñe de verde de Ferraz a Génova: \"Ayuso promueve la privada reduciendo plazas en la pública\"",
-      "medio": "elDiario.es",
-      "url": "https://www.eldiario.es/madrid/somos/marcha-universitaria-tine-verde-ferraz-genova-ayuso-promueve-privada-reduciendo-plazas-publica_1_13637284.html",
-      "fecha": "2026-11-04T14:17+00:00",
-      "partidos": [
-        "pp",
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "El Supremo archiva una querella de Vox contra Pedro Sánchez y el Consejo de Ministros por la entrada masiva en Ceuta",
-      "medio": "Europa Press",
-      "url": "https://www.europapress.es/nacional/noticia-supremo-archiva-querella-vox-contra-pedro-sanchez-consejo-ministros-entrada-masiva-ceuta-20261104145600.html",
-      "fecha": "2026-11-04T13:56+00:00",
-      "partidos": [
-        "psoe",
-        "vox"
-      ]
-    },
-    {
-      "titulo": "El Supremo rechaza imputar a Pedro Sánchez por la crisis de Ceuta a petición de Vox y Manos Limpias",
-      "medio": "elDiario.es",
-      "url": "https://www.eldiario.es/politica/supremo-rechaza-imputar-pedro-sanchez-crisis-ceuta-peticion-vox-manos-limpias_1_13637976.html",
-      "fecha": "2026-11-04T13:55+00:00",
-      "partidos": [
-        "psoe",
-        "vox"
       ]
     }
   ],
