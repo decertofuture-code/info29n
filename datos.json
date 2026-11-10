@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-10T16:57+00:00",
+  "actualizado": "2026-11-10T22:16+00:00",
   "temas": [
     {
       "id": "vivienda",
@@ -449,6 +449,81 @@
   ],
   "noticias": [
     {
+      "titulo": "Feijóo convierte la política de inmigración en la gran novedad de su programa electoral",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/feijoo-convierte-politica-inmigracion-gran-novedad-programa-20261110201649-nt.html",
+      "fecha": "2026-11-10T20:54+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "Encuesta elecciones generales en Córdoba: resultados de PSOE, PP, Vox y Frente Amplio y ganador según los sondeos el 29N",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/andalucia/cordoba/encuesta-elecciones-generales-cordoba-resultados-psoe-pp-20261110070058-nts.html",
+      "fecha": "2026-11-10T20:37+00:00",
+      "partidos": [
+        "pp",
+        "psoe",
+        "vox",
+        "sumar"
+      ]
+    },
+    {
+      "titulo": "Abascal llama a Sánchez «histérico» por comentar su entrevista con Broncano",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/cataluna/abascal-llama-sanchez-histerico-comentar-entrevista-broncano-20261110212645-nt.html",
+      "fecha": "2026-11-10T20:35+00:00",
+      "partidos": [
+        "vox"
+      ]
+    },
+    {
+      "titulo": "Broncano en 'La Revuelta' sobre Abascal, en directo | Broncano: \"Yo no me lo traía todo preparado con datos porque no lo había hecho con otros políticos\"",
+      "medio": "20minutos",
+      "url": "https://www.20minutos.es/nacional/broncano-reacciona-entrevista-abascal-directo-presentador-revuelta-responde-las-criticas-por-visita-lider-vox_7059506_6.html",
+      "fecha": "2026-11-10T20:17+00:00",
+      "partidos": [
+        "vox"
+      ]
+    },
+    {
+      "titulo": "\"Prioridad\" para ayudas según el arraigo, ley del concebido no nacido y PAU común en todo el país: la parte social del programa del PP",
+      "medio": "20minutos",
+      "url": "https://www.20minutos.es/nacional/prioridad-para-ayudas-segun-arraigo-ley-concebido-no-nacido-pau-comun-todo-pais-parte-social-programa-pp_7059480_0.html",
+      "fecha": "2026-11-10T19:12+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "Así es el programa electoral del PP para el 29N: consulta las 249 medidas para la \"reconstrucción nacional\"",
+      "medio": "20minutos",
+      "url": "https://www.20minutos.es/nacional/programa-electoral-pp-consulta-medidas-reconstruccion-nacional_7059504_0.html",
+      "fecha": "2026-11-10T18:55+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "Feijóo se reúne con los responsables de 'Maldita.es' tras destaparse más de mil vídeos de abuso sexual infantil en TikTok",
+      "medio": "20minutos",
+      "url": "https://www.20minutos.es/nacional/feijoo-se-reune-con-los-responsables-maldita-es-tras-destaparse-mas-mil-videos-abuso-sexual-infantil-tiktok_7059491_0.html",
+      "fecha": "2026-11-10T17:54+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "La denuncia contra Llorca pide que declare el socio ruso de su padre y apunta a contratos irregulares a un amigo del PP",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/comunitat-valenciana/denuncia-llorca-pide-declare-socio-ruso-padre-apunta-contratos-irregulares-amigo-pp_1_13651525.html",
+      "fecha": "2026-11-10T17:07+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
       "titulo": "Feijóo presenta el programa del PP: «No haré un sanchismo de derechas ni vengo a administrar la decadencia»",
       "medio": "ABC",
       "url": "https://www.abc.es/espana/feijoo-presenta-programa-pp-hare-sanchismo-derechas-20261110140530-nt.html",
@@ -467,12 +542,30 @@
       ]
     },
     {
+      "titulo": "Un juzgado investiga al portavoz de Vox de Alcalá de Henares tras una denuncia de acoso",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/madrid/juzgado-investiga-portavoz-vox-alcala-henares-denuncia-acoso_1_13653075.html",
+      "fecha": "2026-11-10T16:18+00:00",
+      "partidos": [
+        "vox"
+      ]
+    },
+    {
       "titulo": "La entrevista a Abascal en 'La Revuelta' desata una pugna política de todos contra todos",
       "medio": "La Vanguardia",
       "url": "https://www.lavanguardia.com/politica/20261110/11680992/entrevista-abascal-revuelta-desata-pugna-politica-todos-todos.html",
       "fecha": "2026-11-10T16:16+00:00",
       "partidos": [
         "vox"
+      ]
+    },
+    {
+      "titulo": "El PP promete que los jóvenes no pagarán IRPF su primer año, 'cuota cero' para autónomos primerizos y \"atajar el absentismo\"",
+      "medio": "20minutos",
+      "url": "https://www.20minutos.es/lainformacion/economia-y-finanzas/pp-promete-que-los-jovenes-no-pagaran-irpf-su-primer-ano-cuota-cero-para-autonomos-primerizos-atajar-absentismo_7059395_0.html",
+      "fecha": "2026-11-10T16:16+00:00",
+      "partidos": [
+        "pp"
       ]
     },
     {
@@ -1008,6 +1101,15 @@
       "medio": "La Vanguardia",
       "url": "https://www.lavanguardia.com/politica/20261110/11680282/feijoo-rebajara-impuestos-luz-creara-tarifa-social-unica.html",
       "fecha": "2026-11-10T05:00+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "Alberto Nadal (PP): \"Somos el penúltimo país europeo en inversión pública porque se ha gastado sin ton ni son\"",
+      "medio": "20minutos",
+      "url": "https://www.20minutos.es/lainformacion/economia-y-finanzas/alberto-nadal-entrevista-pp-penultimo-pais-inversion-publica-porque-se-ha-gastado-sin-ton-ni-son_7057978_0.html",
+      "fecha": "2026-11-10T04:00+00:00",
       "partidos": [
         "pp"
       ]
@@ -3128,108 +3230,6 @@
       "fecha": "2026-11-05T22:43+00:00",
       "partidos": [
         "pp"
-      ]
-    },
-    {
-      "titulo": "El PP y Vox fijan el debate en las Corts de la ley del suelo que permite pelotazos urbanísticos el día de la huelga general",
-      "medio": "elDiario.es",
-      "url": "https://www.eldiario.es/comunitat-valenciana/pp-vox-fijan-debate-corts-ley-suelo-permite-pelotazos-urbanisticos-dia-huelga-general_1_13641843.html",
-      "fecha": "2026-11-05T21:57+00:00",
-      "partidos": [
-        "pp",
-        "vox"
-      ]
-    },
-    {
-      "titulo": "El voto socialista de Valladolid, en suspenso por el candidato tachado Óscar Puente: \"A este PSOE no le voy a votar\"",
-      "medio": "El Mundo",
-      "url": "https://www.elmundo.es/espana/2026/11/05/6aecd739e4d4d8341b8b45ad.html",
-      "fecha": "2026-11-05T21:51+00:00",
-      "partidos": [
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "Feijóo irrumpe en la Cumbre Iberoamericana apoyando a María Corina y se acerca a Kast y Zelenski",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/feijoo-irrumpe-cumbre-iberoamericana-apoyando-maria-corina-20261105142203-nt.html",
-      "fecha": "2026-11-05T21:44+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "El PSOE estudia querellarse por los pagos a Koldo: \"Es muy grave influir en una declaración para derrocar al Gobierno\"",
-      "medio": "elDiario.es",
-      "url": "https://www.eldiario.es/politica/psoe-estudia-querellarse-pagos-koldo-grave-influir-declaracion-derrocar-gobierno_1_13642399.html",
-      "fecha": "2026-11-05T20:54+00:00",
-      "partidos": [
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "Abascal: «En la mafia que nos gobierna está pringado hasta el chófer»",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/aragon/abascal-mafia-gobierna-pringado-chofer-20261105210428-nt.html",
-      "fecha": "2026-11-05T20:30+00:00",
-      "partidos": [
-        "vox"
-      ]
-    },
-    {
-      "titulo": "Abascal carga contra Sánchez tras las detenciones del caso Koldo: “está pringado hasta el chófer”",
-      "medio": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/politica/20261105/11677278/abascal-carga-sanchez-detenciones-caso-koldo-esta-pringado-chofer.html",
-      "fecha": "2026-11-05T20:06+00:00",
-      "partidos": [
-        "vox"
-      ]
-    },
-    {
-      "titulo": "Abascal será entrevistado este lunes en 'La Revuelta' de TVE",
-      "medio": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/politica/20261105/11677275/abascal-sera-entrevistado-lunes-revuelta-tve.html",
-      "fecha": "2026-11-05T19:48+00:00",
-      "partidos": [
-        "vox"
-      ]
-    },
-    {
-      "titulo": "PP y Vox acusan a Page de incumplir sus promesas con Talavera y el PSOE culpa al Ayuntamiento",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/castilla-la-mancha/toledo/talavera/pp-vox-acusan-page-incumplir-promesas-talavera-20261105200121-nt.html",
-      "fecha": "2026-11-05T19:40+00:00",
-      "partidos": [
-        "pp",
-        "psoe",
-        "vox"
-      ]
-    },
-    {
-      "titulo": "El PP se desmarca de la idea de Álvarez de Toledo de eliminar “los pinganillos” para traducir lenguas cooficiales en el Congreso",
-      "medio": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/politica/20261105/11677270/alvarez-toledo-propone-eliminar-pinganillos-traduccion-lenguas-cooficiales-congreso.html",
-      "fecha": "2026-11-05T19:40+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Sánchez pide explicaciones a Feijóo sobre la supuesta oferta de un millón de euros del PP a Koldo",
-      "medio": "El País",
-      "url": "https://elpais.com/espana/2026-11-05/sanchez-pide-explicaciones-a-feijoo-sobre-el-supuesto-pago-de-un-millon-de-euros-del-pp-a-koldo.html",
-      "fecha": "2026-11-05T19:20+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Abascal será entrevistado este lunes en 'La Revuelta' de Broncano en TVE",
-      "medio": "El Confidencial",
-      "url": "https://www.elconfidencial.com/espana/2026-11-05/abascal-la-revuelta-tve-entrevistado-elecciones_4459914/",
-      "fecha": "2026-11-05T19:09+00:00",
-      "partidos": [
-        "vox"
       ]
     }
   ],
