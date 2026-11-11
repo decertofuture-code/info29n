@@ -64,7 +64,10 @@ jobs:
           else
             git commit -m "Actualización automática $(date -u +'%Y-%m-%d %H:%M') UTC [skip netlify]"
             git push
-            curl -fsS https://purge.jsdelivr.net/gh/${{ github.repository }}@main/datos.json || true
+            # jsDelivr puede seguir apuntando al commit anterior si se purga justo después del push:
+            # se espera un poco y se purga dos veces.
+            sleep 20; curl -fsS https://purge.jsdelivr.net/gh/${{ github.repository }}@main/datos.json || true
+            sleep 60; curl -fsS https://purge.jsdelivr.net/gh/${{ github.repository }}@main/datos.json || true
           fi
 
       - name: Informe diario
@@ -81,7 +84,9 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Refrescar la caché de datos.json
-        run: curl -fsS https://purge.jsdelivr.net/gh/${{ github.repository }}@main/datos.json || true
+        run: |
+          sleep 20; curl -fsS https://purge.jsdelivr.net/gh/${{ github.repository }}@main/datos.json || true
+          sleep 60; curl -fsS https://purge.jsdelivr.net/gh/${{ github.repository }}@main/datos.json || true
 
       - uses: actions/checkout@v4
         with:
