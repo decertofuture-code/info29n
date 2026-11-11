@@ -139,5 +139,44 @@
     "PSOE",
     "PP",
     "Vox"
-  ]
+  ],
+  "webs_partidos": {
+    "_nota": "Páginas oficiales donde vigilar_programas.py busca el PDF del programa electoral. Se puede añadir la página concreta de 'programa' cuando se conozca.",
+    "pp": [
+      "https://www.pp.es/"
+    ],
+    "psoe": [
+      "https://www.psoe.es/"
+    ],
+    "vox": [
+      "https://www.voxespana.es/"
+    ],
+    "sumar": [
+      "https://movimientosumar.es/"
+    ],
+    "erc": [
+      "https://www.esquerrarepublicana.cat/"
+    ],
+    "junts": [
+      "https://junts.cat/"
+    ],
+    "bildu": [
+      "https://ehbildu.eus/"
+    ],
+    "pnv": [
+      "https://www.eaj-pnv.eus/"
+    ],
+    "podemos": [
+      "https://podemos.info/"
+    ],
+    "bng": [
+      "https://www.bng.gal/"
+    ],
+    "cc": [
+      "https://coalicioncanaria.org/"
+    ],
+    "upn": [
+      "https://upn.org/"
+    ]
+  }
 }

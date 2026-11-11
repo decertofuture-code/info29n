@@ -91,6 +91,8 @@ Reglas obligatorias:
 - "pagina" es el número de página donde aparece la cita, según las marcas === Página N ===.
 - "texto" resume la medida en una frase neutra de máximo 200 caracteres que empieza por un verbo en infinitivo
   (por ejemplo: "Crear…", "Bajar…", "Ampliar…"). Sin adjetivos valorativos ni lenguaje de campaña.
+- Si el programa está en catalán, gallego, euskera u otra lengua, "cita" va en la lengua original (copia literal)
+  y "texto" va SIEMPRE en castellano.
 - Prefieres medidas concretas y comprobables (cifras, leyes, plazos, organismos) frente a declaraciones genéricas.
 - Respondes únicamente con JSON válido, sin texto antes ni después."""
 
