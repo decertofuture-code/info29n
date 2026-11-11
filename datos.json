@@ -112,7 +112,438 @@
       "candidato": null
     }
   ],
-  "medidas": {},
+  "medidas": {
+    "pp": {
+      "vivienda": [
+        {
+          "texto": "Construir un millón de viviendas movilizando suelo público y privado.",
+          "cita": "CONSTRUIREMOS UN MILLÓN DE VIVIENDAS.",
+          "pagina": 53,
+          "fuente": "https://www.pp.es/wp-content/uploads/2026/11/LA-RECONSTRUCCION-NACIONAL.pdf#page=53",
+          "fecha": "2026-11-11",
+          "verificada": true
+        },
+        {
+          "texto": "Aprobar una nueva Ley del Suelo para agilizar el planeamiento urbanístico y reforzar su seguridad jurídica.",
+          "cita": "Aprobaremos una nueva Ley del Suelo para agilizar el planeamiento urbanístico y reforzar su seguridad jurídica.",
+          "pagina": 53,
+          "fuente": "https://www.pp.es/wp-content/uploads/2026/11/LA-RECONSTRUCCION-NACIONAL.pdf#page=53",
+          "fecha": "2026-11-11",
+          "verificada": true
+        },
+        {
+          "texto": "Resolver en tres meses las licencias de obra nueva y de rehabilitación, con silencio positivo.",
+          "cita": "Las licencias de obra nueva y de rehabilitación se resolverán en tres meses",
+          "pagina": 53,
+          "fuente": "https://www.pp.es/wp-content/uploads/2026/11/LA-RECONSTRUCCION-NACIONAL.pdf#page=53",
+          "fecha": "2026-11-11",
+          "verificada": true
+        },
+        {
+          "texto": "Derogar la Ley de Vivienda y eliminar las zonas tensionadas y el índice de precios del alquiler.",
+          "cita": "Eliminaremos las zonas tensionadas y el índice de precios",
+          "pagina": 53,
+          "fuente": "https://www.pp.es/wp-content/uploads/2026/11/LA-RECONSTRUCCION-NACIONAL.pdf#page=53",
+          "fecha": "2026-11-11",
+          "verificada": true
+        },
+        {
+          "texto": "Aplicar un IVA superreducido del 4% a la rehabilitación de vivienda habitual.",
+          "cita": "tendrá un IVA superreducido del 4%",
+          "pagina": 54,
+          "fuente": "https://www.pp.es/wp-content/uploads/2026/11/LA-RECONSTRUCCION-NACIONAL.pdf#page=54",
+          "fecha": "2026-11-11",
+          "verificada": true
+        },
+        {
+          "texto": "Reducir del 10% al 4% el IVA de la compra de primera vivienda para menores de 40 años.",
+          "cita": "Reduciremos el IVA de la compra de primera vivienda del 10% al 4% para menores de 40 años",
+          "pagina": 54,
+          "fuente": "https://www.pp.es/wp-content/uploads/2026/11/LA-RECONSTRUCCION-NACIONAL.pdf#page=54",
+          "fecha": "2026-11-11",
+          "verificada": true
+        },
+        {
+          "texto": "Ampliar el aval público, que cubre hasta el 20% del valor de la vivienda, a los compradores menores de 40 años.",
+          "cita": "Ampliaremos el aval público, que cubre hasta el 20% del valor de la vivienda, a los compradores menores de 40 años",
+          "pagina": 55,
+          "fuente": "https://www.pp.es/wp-content/uploads/2026/11/LA-RECONSTRUCCION-NACIONAL.pdf#page=55",
+          "fecha": "2026-11-11",
+          "verificada": true
+        },
+        {
+          "texto": "Crear la Hucha Hogar Joven: cuenta de ahorro para la primera vivienda con aportación anual de hasta 2.000 euros y deducción del 20%.",
+          "cita": "podrán aportar hasta 2.000 euros al año a una cuenta de ahorro para la compra de su primera vivienda",
+          "pagina": 55,
+          "fuente": "https://www.pp.es/wp-content/uploads/2026/11/LA-RECONSTRUCCION-NACIONAL.pdf#page=55",
+          "fecha": "2026-11-11",
+          "verificada": true
+        },
+        {
+          "texto": "Crear una deducción en el IRPF para inquilinos de vivienda habitual, graduada según sus ingresos.",
+          "cita": "Los inquilinos tendrán una deducción en el IRPF por el alquiler de su vivienda habitual, graduada según sus ingresos",
+          "pagina": 55,
+          "fuente": "https://www.pp.es/wp-content/uploads/2026/11/LA-RECONSTRUCCION-NACIONAL.pdf#page=55",
+          "fecha": "2026-11-11",
+          "verificada": true
+        },
+        {
+          "texto": "Aprobar una ley para que el propietario recupere su vivienda ocupada en 48 horas por orden judicial.",
+          "cita": "Aprobaremos una ley para que el propietario pueda recuperar su vivienda en 48 horas desde el primer día.",
+          "pagina": 55,
+          "fuente": "https://www.pp.es/wp-content/uploads/2026/11/LA-RECONSTRUCCION-NACIONAL.pdf#page=55",
+          "fecha": "2026-11-11",
+          "verificada": true
+        }
+      ],
+      "economia": [
+        {
+          "texto": "Reducir las cargas administrativas un 25% en general y un 35% para las pymes antes de 2029.",
+          "cita": "Antes de 2029 reducire-\nmos las cargas administrativas generales un 25% y un 35% para las py-\nmes.",
+          "pagina": 14,
+          "fuente": "https://www.pp.es/wp-content/uploads/2026/11/LA-RECONSTRUCCION-NACIONAL.pdf#page=14",
+          "fecha": "2026-11-11",
+          "verificada": true
+        },
+        {
+          "texto": "Movilizar más de 300.000 millones en 15 años, junto al sector privado, mediante un Plan Nacional de Infraestructuras.",
+          "cita": "movilizaremos, junto con el sector privado, más de 300.000 millones en los próximos 15 años",
+          "pagina": 45,
+          "fuente": "https://www.pp.es/wp-content/uploads/2026/11/LA-RECONSTRUCCION-NACIONAL.pdf#page=45",
+          "fecha": "2026-11-11",
+          "verificada": true
+        },
+        {
+          "texto": "Movilizar hasta 40.000 millones de euros en inversiones hasta 2030 dentro de un Pacto Nacional del Agua.",
+          "cita": "movilizaremos hasta 40.000 millones de euros en inversiones hasta 2030.",
+          "pagina": 46,
+          "fuente": "https://www.pp.es/wp-content/uploads/2026/11/LA-RECONSTRUCCION-NACIONAL.pdf#page=46",
+          "fecha": "2026-11-11",
+          "verificada": true
+        },
+        {
+          "texto": "Permitir a las familias deducirse el 40% del gasto en atención profesional de un mayor dependiente.",
+          "cita": "Las familias se deducirán el 40% de lo que paguen por la atención profesional de un mayor dependiente",
+          "pagina": 44,
+          "fuente": "https://www.pp.es/wp-content/uploads/2026/11/LA-RECONSTRUCCION-NACIONAL.pdf#page=44",
+          "fecha": "2026-11-11",
+          "verificada": true
+        },
+        {
+          "texto": "Eximir de IRPF a quien cobre el salario mínimo, con umbral que sube automáticamente con el SMI.",
+          "cita": "Quien cobre el salario mínimo no pagará IRPF",
+          "pagina": 60,
+          "fuente": "https://www.pp.es/wp-content/uploads/2026/11/LA-RECONSTRUCCION-NACIONAL.pdf#page=60",
+          "fecha": "2026-11-11",
+          "verificada": true
+        },
+        {
+          "texto": "Reducir el IRPF de trabajadores y autónomos de 18 a 35 años durante cuatro años (100%, 75%, 50% y 25%).",
+          "cita": "La reducción será del 100% el primer año, del 75% el segundo, del 50% el tercero y del 25% el cuarto.",
+          "pagina": 60,
+          "fuente": "https://www.pp.es/wp-content/uploads/2026/11/LA-RECONSTRUCCION-NACIONAL.pdf#page=60",
+          "fecha": "2026-11-11",
+          "verificada": true
+        },
+        {
+          "texto": "Aplicar un IVA del 0% a los alimentos básicos mientras persista la crisis de inflación.",
+          "cita": "un IVA del 0% a los alimentos básicos, incluidos la carne, el pescado y las conservas.",
+          "pagina": 61,
+          "fuente": "https://www.pp.es/wp-content/uploads/2026/11/LA-RECONSTRUCCION-NACIONAL.pdf#page=61",
+          "fecha": "2026-11-11",
+          "verificada": true
+        },
+        {
+          "texto": "Aprobar un Estatuto del Contribuyente que reconozca el derecho al error y evite cambios de criterio retroactivos.",
+          "cita": "Aprobaremos un Estatuto del Contribuyente que cambie la relación con Hacienda.",
+          "pagina": 61,
+          "fuente": "https://www.pp.es/wp-content/uploads/2026/11/LA-RECONSTRUCCION-NACIONAL.pdf#page=61",
+          "fecha": "2026-11-11",
+          "verificada": true
+        },
+        {
+          "texto": "Eliminar de inmediato el impuesto del 7% a la producción eléctrica.",
+          "cita": "impuesto del 7% a la producción eléctrica",
+          "pagina": 71,
+          "fuente": "https://www.pp.es/wp-content/uploads/2026/11/LA-RECONSTRUCCION-NACIONAL.pdf#page=71",
+          "fecha": "2026-11-11",
+          "verificada": true
+        },
+        {
+          "texto": "Crear una Tarifa Social Única para hogares vulnerables que sustituya a los bonos eléctrico y térmico.",
+          "cita": "Los hogares más vulnerables tendrán una Tarifa Social Única",
+          "pagina": 71,
+          "fuente": "https://www.pp.es/wp-content/uploads/2026/11/LA-RECONSTRUCCION-NACIONAL.pdf#page=71",
+          "fecha": "2026-11-11",
+          "verificada": true
+        }
+      ],
+      "inmigracion": [
+        {
+          "texto": "Crear una autoridad única para toda la política migratoria y publicar cada año un informe sobre el efecto de la inmigración.",
+          "cita": "Una autoridad única dirigirá la entrada, la permanencia, el retorno y la integración",
+          "pagina": 21,
+          "fuente": "https://www.pp.es/wp-content/uploads/2026/11/LA-RECONSTRUCCION-NACIONAL.pdf#page=21",
+          "fecha": "2026-11-11",
+          "verificada": true
+        },
+        {
+          "texto": "Reforzar efectivos, vigilancia e infraestructuras en las fronteras y reformar la Ley de Extranjería para cubrir el rechazo en frontera de entradas a nado en Ceuta y Melilla.",
+          "cita": "Reformaremos la Ley de Extranjería para que el rechazo en frontera cubra también las entradas \na nado en Ceuta y Melilla.",
+          "pagina": 21,
+          "fuente": "https://www.pp.es/wp-content/uploads/2026/11/LA-RECONSTRUCCION-NACIONAL.pdf#page=21",
+          "fecha": "2026-11-11",
+          "verificada": true
+        },
+        {
+          "texto": "Identificar en un máximo de siete días a quienes entren irregularmente y tramitar con rapidez asilo o devolución.",
+          "cita": "En un máximo de una \nsemana, comprobaremos la identidad de quienes sean interceptados \nal cruzar ilegalmente nuestras fronteras",
+          "pagina": 21,
+          "fuente": "https://www.pp.es/wp-content/uploads/2026/11/LA-RECONSTRUCCION-NACIONAL.pdf#page=21",
+          "fecha": "2026-11-11",
+          "verificada": true
+        },
+        {
+          "texto": "Impulsar acuerdos con países seguros para que examinen solicitudes de asilo y acojan a quienes lo necesiten, y reducir los tiempos de tramitación.",
+          "cita": "Aplicaremos el Pacto Europeo e impulsaremos acuerdos \ncon países seguros para que examinen solicitudes y acojan a quienes \nlo necesiten.",
+          "pagina": 22,
+          "fuente": "https://www.pp.es/wp-content/uploads/2026/11/LA-RECONSTRUCCION-NACIONAL.pdf#page=22",
+          "fecha": "2026-11-11",
+          "verificada": true
+        },
+        {
+          "texto": "Implantar visados por puntos que valoren formación, experiencia, idioma e integración.",
+          "cita": "Implantaremos visados por puntos que valoren la formación, la expe-\nriencia, el idioma y la integración.",
+          "pagina": 22,
+          "fuente": "https://www.pp.es/wp-content/uploads/2026/11/LA-RECONSTRUCCION-NACIONAL.pdf#page=22",
+          "fecha": "2026-11-11",
+          "verificada": true
+        },
+        {
+          "texto": "Fijar cupos anuales de trabajadores inmigrantes por sectores y revisarlos según el paro y la capacidad en vivienda, servicios y empleo.",
+          "cita": "Fijaremos cupos anuales que determi-\nnen cuántos trabajadores pueden venir y para qué sectores.",
+          "pagina": 22,
+          "fuente": "https://www.pp.es/wp-content/uploads/2026/11/LA-RECONSTRUCCION-NACIONAL.pdf#page=22",
+          "fecha": "2026-11-11",
+          "verificada": true
+        },
+        {
+          "texto": "Reformar la Ley de Extranjería para prohibir las regularizaciones masivas e indiscriminadas y hacer excepcional el arraigo.",
+          "cita": "Reformaremos la Ley de Extranjería para prohibir las regularizaciones \nmasivas e indiscriminadas y para que el arraigo sea un reconocimiento",
+          "pagina": 22,
+          "fuente": "https://www.pp.es/wp-content/uploads/2026/11/LA-RECONSTRUCCION-NACIONAL.pdf#page=22",
+          "fecha": "2026-11-11",
+          "verificada": true
+        },
+        {
+          "texto": "Exigir un compromiso de integración para renovar la residencia temporal, con aprendizaje de español y de la Constitución.",
+          "cita": "Quien quiera renovar su residencia temporal en el régimen \ngeneral deberá firmar un compromiso de integración.",
+          "pagina": 23,
+          "fuente": "https://www.pp.es/wp-content/uploads/2026/11/LA-RECONSTRUCCION-NACIONAL.pdf#page=23",
+          "fecha": "2026-11-11",
+          "verificada": true
+        },
+        {
+          "texto": "Establecer la expulsión como regla para extranjeros condenados por delitos sexuales, de sangre y multirreincidencia.",
+          "cita": "La expul-\nsión será la regla para los extranjeros condenados por delitos sexuales, \ndelitos de sangre y multirreincidencia.",
+          "pagina": 23,
+          "fuente": "https://www.pp.es/wp-content/uploads/2026/11/LA-RECONSTRUCCION-NACIONAL.pdf#page=23",
+          "fecha": "2026-11-11",
+          "verificada": true
+        },
+        {
+          "texto": "Ampliar el tiempo máximo en centros de internamiento y aplicar el Reglamento Europeo de Retornos para ejecutar las órdenes de retorno.",
+          "cita": "Ampliaremos el tiempo \nmáximo de permanencia en los centros de internamiento, dentro de \nlos límites europeos",
+          "pagina": 23,
+          "fuente": "https://www.pp.es/wp-content/uploads/2026/11/LA-RECONSTRUCCION-NACIONAL.pdf#page=23",
+          "fecha": "2026-11-11",
+          "verificada": true
+        }
+      ],
+      "politica": [
+        {
+          "texto": "Realizar una auditoría de todo el gasto, la Administración, los organismos y las empresas del Estado en cien días y tenerla en cuenta en el primer presupuesto.",
+          "cita": "EN CIEN DÍAS, LOS ESPAÑOLES LO SABRÁN TODO. Realiza-\nremos una auditoría de todo el gasto que se ha hecho estos años y del \nfuncionamiento de la Administración",
+          "pagina": 12,
+          "fuente": "https://www.pp.es/wp-content/uploads/2026/11/LA-RECONSTRUCCION-NACIONAL.pdf#page=12",
+          "fecha": "2026-11-11",
+          "verificada": true
+        },
+        {
+          "texto": "Fijar fecha de caducidad a cada nuevo organismo, agencia o fundación del Estado, prorrogable solo por votación de las Cortes.",
+          "cita": "Cada \nnuevo organismo, agencia o fundación del Estado tendrá fecha de ca-\nducidad y sólo podrá prorrogarse cuando las Cortes voten mantenerlo.",
+          "pagina": 13,
+          "fuente": "https://www.pp.es/wp-content/uploads/2026/11/LA-RECONSTRUCCION-NACIONAL.pdf#page=13",
+          "fecha": "2026-11-11",
+          "verificada": true
+        },
+        {
+          "texto": "Ampliar las competencias de la AIReF para evaluar el gasto y la sostenibilidad de la deuda y controlar el cumplimiento de las reglas fiscales.",
+          "cita": "ampliaremos las competencias de la AIReF para evaluar el gasto y la sostenibilidad de la deuda",
+          "pagina": 13,
+          "fuente": "https://www.pp.es/wp-content/uploads/2026/11/LA-RECONSTRUCCION-NACIONAL.pdf#page=13",
+          "fecha": "2026-11-11",
+          "verificada": true
+        },
+        {
+          "texto": "Suprimir tres normas vigentes por cada norma nueva que se apruebe.",
+          "cita": "Cada nueva regulación irá acompañada de la supre-\nsión de tres normas innecesarias, obsoletas o duplicadas.",
+          "pagina": 14,
+          "fuente": "https://www.pp.es/wp-content/uploads/2026/11/LA-RECONSTRUCCION-NACIONAL.pdf#page=14",
+          "fecha": "2026-11-11",
+          "verificada": true
+        },
+        {
+          "texto": "Recuperar en el Código Penal el delito de sedición y el de convocatoria de referéndum ilegal.",
+          "cita": "Recuperaremos en el Código Penal el delito de se-\ndición, adaptado a la legislación contemporánea, y el de convocatoria \nde referéndum ilegal.",
+          "pagina": 16,
+          "fuente": "https://www.pp.es/wp-content/uploads/2026/11/LA-RECONSTRUCCION-NACIONAL.pdf#page=16",
+          "fecha": "2026-11-11",
+          "verificada": true
+        },
+        {
+          "texto": "Derogar la Ley de Amnistía y prohibir el uso del derecho de gracia como contraprestación política para formar o mantener un Gobierno.",
+          "cita": "Derogaremos la Ley de Amnistía y prohibiremos que el derecho de gracia se utilice como contraprestación política para formar o mantener un Gobierno.",
+          "pagina": 29,
+          "fuente": "https://www.pp.es/wp-content/uploads/2026/11/LA-RECONSTRUCCION-NACIONAL.pdf#page=29",
+          "fecha": "2026-11-11",
+          "verificada": true
+        },
+        {
+          "texto": "Reformar para que una segunda prórroga presupuestaria consecutiva provoque la disolución de las Cortes y la convocatoria de elecciones.",
+          "cita": "Promoveremos las reformas necesarias para que una segunda prórroga consecutiva provoque la disolución de las Cortes y la convocatoria de elecciones.",
+          "pagina": 30,
+          "fuente": "https://www.pp.es/wp-content/uploads/2026/11/LA-RECONSTRUCCION-NACIONAL.pdf#page=30",
+          "fecha": "2026-11-11",
+          "verificada": true
+        },
+        {
+          "texto": "Aprobar un nuevo Estatuto del Ministerio Fiscal con mandato único de cinco años para el fiscal general, que no cesará con el Gobierno que lo propuso.",
+          "cita": "como recomienda la Comisión Europea, no cesará con el Gobierno que lo propuso.",
+          "pagina": 31,
+          "fuente": "https://www.pp.es/wp-content/uploads/2026/11/LA-RECONSTRUCCION-NACIONAL.pdf#page=31",
+          "fecha": "2026-11-11",
+          "verificada": true
+        },
+        {
+          "texto": "Hacer que los jueces y magistrados elijan a los doce vocales judiciales del Consejo General del Poder Judicial.",
+          "cita": "Los jueces y magistrados de todas las categorías elegirán a los doce vocales judiciales del Consejo General del Poder Judicial.",
+          "pagina": 32,
+          "fuente": "https://www.pp.es/wp-content/uploads/2026/11/LA-RECONSTRUCCION-NACIONAL.pdf#page=32",
+          "fecha": "2026-11-11",
+          "verificada": true
+        },
+        {
+          "texto": "Crear un Registro Nacional público y obligatorio de lobbies, dependiente de la Autoridad Independiente de Transparencia.",
+          "cita": "Crearemos un Registro Nacional público y obligatorio, dependiente de la Autoridad Independiente de Transparencia, en el que conste a quién representa cada grupo de interés.",
+          "pagina": 36,
+          "fuente": "https://www.pp.es/wp-content/uploads/2026/11/LA-RECONSTRUCCION-NACIONAL.pdf#page=36",
+          "fecha": "2026-11-11",
+          "verificada": true
+        }
+      ],
+      "empleo": [
+        {
+          "texto": "Hacer compatibles las pensiones de discapacidad con el empleo.",
+          "cita": "Haremos compatibles las pensiones de discapacidad con el empleo",
+          "pagina": 44,
+          "fuente": "https://www.pp.es/wp-content/uploads/2026/11/LA-RECONSTRUCCION-NACIONAL.pdf#page=44",
+          "fecha": "2026-11-11",
+          "verificada": true
+        },
+        {
+          "texto": "Establecer incentivos para atraer y retener empleados públicos en destinos insulares y ultraperiféricos de difícil cobertura.",
+          "cita": "Estableceremos incentivos para atraer y retener empleados públicos en destinos insulares y ultraperiféricos de difícil cobertura",
+          "pagina": 42,
+          "fuente": "https://www.pp.es/wp-content/uploads/2026/11/LA-RECONSTRUCCION-NACIONAL.pdf#page=42",
+          "fecha": "2026-11-11",
+          "verificada": true
+        },
+        {
+          "texto": "Reducir las cotizaciones por desempleo de las empresas con plantillas más estables que la media del sector.",
+          "cita": "más estables que la media de su sector cotizarán menos por desempleo.",
+          "pagina": 59,
+          "fuente": "https://www.pp.es/wp-content/uploads/2026/11/LA-RECONSTRUCCION-NACIONAL.pdf#page=59",
+          "fecha": "2026-11-11",
+          "verificada": true
+        },
+        {
+          "texto": "Ampliar las plazas de FP en los ciclos que más empleo generan, guiados por un Mapa Nacional de la FP.",
+          "cita": "las plazas de FP en los ciclos que más empleo generan",
+          "pagina": 68,
+          "fuente": "https://www.pp.es/wp-content/uploads/2026/11/LA-RECONSTRUCCION-NACIONAL.pdf#page=68",
+          "fecha": "2026-11-11",
+          "verificada": true
+        },
+        {
+          "texto": "Proteger con hasta el 100% de la base reguladora a quien padezca enfermedades severas y de larga duración.",
+          "cita": "Protegeremos mejor a quien padezca enfermedades severas y de larga duración con hasta el 100% de la base reguladora.",
+          "pagina": 60,
+          "fuente": "https://www.pp.es/wp-content/uploads/2026/11/LA-RECONSTRUCCION-NACIONAL.pdf#page=60",
+          "fecha": "2026-11-11",
+          "verificada": true
+        },
+        {
+          "texto": "Ampliar los permisos por nacimiento de cada progenitor en el marco del diálogo social.",
+          "cita": "seguiremos avanzando en la ampliación de los permisos por nacimiento de cada progenitor.",
+          "pagina": 56,
+          "fuente": "https://www.pp.es/wp-content/uploads/2026/11/LA-RECONSTRUCCION-NACIONAL.pdf#page=56",
+          "fecha": "2026-11-11",
+          "verificada": true
+        }
+      ],
+      "sanidad": [
+        {
+          "texto": "Garantizar la atención a pacientes desplazados con su historia clínica y social completa en toda España.",
+          "cita": "Un paciente que se desplace será atendido con su historia clínica y social completa en toda España.",
+          "pagina": 39,
+          "fuente": "https://www.pp.es/wp-content/uploads/2026/11/LA-RECONSTRUCCION-NACIONAL.pdf#page=39",
+          "fecha": "2026-11-11",
+          "verificada": true
+        },
+        {
+          "texto": "Poner en marcha un plan de reducción de listas de espera de acuerdo con las Comunidades Autónomas.",
+          "cita": "REDUCIREMOS LAS LISTAS DE ESPERA",
+          "pagina": 68,
+          "fuente": "https://www.pp.es/wp-content/uploads/2026/11/LA-RECONSTRUCCION-NACIONAL.pdf#page=68",
+          "fecha": "2026-11-11",
+          "verificada": true
+        },
+        {
+          "texto": "Incorporar al menos 4.500 médicos más en Atención Primaria.",
+          "cita": "En Atención Primaria, al menos 4.500 médicos más.",
+          "pagina": 69,
+          "fuente": "https://www.pp.es/wp-content/uploads/2026/11/LA-RECONSTRUCCION-NACIONAL.pdf#page=69",
+          "fecha": "2026-11-11",
+          "verificada": true
+        },
+        {
+          "texto": "Aumentar los profesionales de salud mental y su acceso desde Atención Primaria.",
+          "cita": "TAMBIÉN HABRÁ MÁS PROFESIONALES Y MÁS ATENCIÓN A LA SALUD MENTAL.",
+          "pagina": 70,
+          "fuente": "https://www.pp.es/wp-content/uploads/2026/11/LA-RECONSTRUCCION-NACIONAL.pdf#page=70",
+          "fecha": "2026-11-11",
+          "verificada": true
+        },
+        {
+          "texto": "Deducir en el IRPF los gastos del tratamiento y los cuidados de familias con un enfermo de cáncer, ELA u otra enfermedad grave.",
+          "cita": "se deducirán en el IRPF los gastos acreditados derivados del tratamiento y los cuidados.",
+          "pagina": 70,
+          "fuente": "https://www.pp.es/wp-content/uploads/2026/11/LA-RECONSTRUCCION-NACIONAL.pdf#page=70",
+          "fecha": "2026-11-11",
+          "verificada": true
+        },
+        {
+          "texto": "Aprobar una ley nacional de cuidados paliativos.",
+          "cita": "aprobaremos una ley nacional de cuidados paliativos",
+          "pagina": 70,
+          "fuente": "https://www.pp.es/wp-content/uploads/2026/11/LA-RECONSTRUCCION-NACIONAL.pdf#page=70",
+          "fecha": "2026-11-11",
+          "verificada": true
+        }
+      ]
+    }
+  },
   "resumen": {},
   "votaciones": [
     {
@@ -3244,58 +3675,120 @@
       "tema": "vivienda",
       "pregunta": "¿Limitar por ley el precio del alquiler en zonas tensionadas?",
       "explicacion": "Topes o índices de referencia obligatorios para los precios del alquiler en zonas con precios muy altos.",
-      "posturas": {}
+      "posturas": {
+        "pp": {
+          "postura": "no",
+          "cita": "Eliminaremos las zonas tensionadas y el índice de precios",
+          "pagina": 53,
+          "fuente": "https://www.pp.es/wp-content/uploads/2026/11/LA-RECONSTRUCCION-NACIONAL.pdf#page=53",
+          "fecha": "2026-11-11",
+          "verificada": true
+        }
+      }
     },
     {
       "id": "grandes-tenedores",
       "tema": "vivienda",
       "pregunta": "¿Poner límites a la compra de vivienda por grandes propietarios y fondos de inversión?",
       "explicacion": "Prohibiciones, cupos o impuestos especiales para que empresas o personas con muchas viviendas compren más.",
-      "posturas": {}
+      "posturas": {
+        "pp": {
+          "postura": "sin",
+          "fecha": "2026-11-11"
+        }
+      }
     },
     {
       "id": "irpf",
       "tema": "economia",
       "pregunta": "¿Bajar el IRPF de forma general?",
       "explicacion": "Rebaja del impuesto sobre la renta para todos o la mayoría de los contribuyentes, no solo deducciones concretas.",
-      "posturas": {}
+      "posturas": {
+        "pp": {
+          "postura": "matiz",
+          "cita": "Elevaremos los mínimos personales y familiares del IRPF y bajaremos el IRPF de las rentas medias y bajas y de las familias.",
+          "pagina": 60,
+          "fuente": "https://www.pp.es/wp-content/uploads/2026/11/LA-RECONSTRUCCION-NACIONAL.pdf#page=60",
+          "fecha": "2026-11-11",
+          "verificada": true
+        }
+      }
     },
     {
       "id": "grandes-fortunas",
       "tema": "economia",
       "pregunta": "¿Mantener el impuesto estatal sobre las grandes fortunas?",
       "explicacion": "Que siga existiendo el impuesto que el Estado cobra a los patrimonios más altos, en lugar de suprimirlo.",
-      "posturas": {}
+      "posturas": {
+        "pp": {
+          "postura": "sin",
+          "fecha": "2026-11-11"
+        }
+      }
     },
     {
       "id": "regularizacion",
       "tema": "inmigracion",
       "pregunta": "¿Regularizar de forma extraordinaria a inmigrantes en situación irregular?",
       "explicacion": "Procesos excepcionales para dar permiso de residencia y trabajo a personas que ya viven en España sin papeles.",
-      "posturas": {}
+      "posturas": {
+        "pp": {
+          "postura": "no",
+          "cita": "Reformaremos la Ley de Extranjería para prohibir las regularizaciones \nmasivas e indiscriminadas",
+          "pagina": 22,
+          "fuente": "https://www.pp.es/wp-content/uploads/2026/11/LA-RECONSTRUCCION-NACIONAL.pdf#page=22",
+          "fecha": "2026-11-11",
+          "verificada": true
+        }
+      }
     },
     {
       "id": "indultos",
       "tema": "politica",
       "pregunta": "¿Prohibir por ley los indultos por delitos de corrupción?",
       "explicacion": "Que el Gobierno no pueda indultar a personas condenadas por delitos de corrupción, como la malversación o el cohecho.",
-      "posturas": {}
+      "posturas": {
+        "pp": {
+          "postura": "si",
+          "cita": "No podrán ser indultados los condenados por corrupción, terrorismo, delitos contra la integridad territorial o el orden constitucional ni por delitos graves contra menores.",
+          "pagina": 29,
+          "fuente": "https://www.pp.es/wp-content/uploads/2026/11/LA-RECONSTRUCCION-NACIONAL.pdf#page=29",
+          "fecha": "2026-11-11",
+          "verificada": true
+        }
+      }
     },
     {
       "id": "jornada",
       "tema": "empleo",
       "pregunta": "¿Reducir por ley la jornada laboral máxima?",
       "explicacion": "Bajar la jornada máxima legal (actualmente 40 horas semanales) sin reducción de sueldo.",
-      "posturas": {}
+      "posturas": {
+        "pp": {
+          "postura": "sin",
+          "fecha": "2026-11-11"
+        }
+      }
     },
     {
       "id": "listas-espera",
       "tema": "sanidad",
       "pregunta": "¿Fijar por ley tiempos máximos de espera en la sanidad pública?",
       "explicacion": "Plazos máximos garantizados para operaciones, pruebas o consultas con el especialista en todo el Sistema Nacional de Salud.",
-      "posturas": {}
+      "posturas": {
+        "pp": {
+          "postura": "sin",
+          "fecha": "2026-11-11"
+        }
+      }
     }
   ],
-  "programas": {},
+  "programas": {
+    "pp": {
+      "url": "https://www.pp.es/wp-content/uploads/2026/11/LA-RECONSTRUCCION-NACIONAL.pdf",
+      "fecha": "2026-11-11",
+      "paginas": 82
+    }
+  },
   "debates": []
 }
