@@ -290,13 +290,14 @@ footer{padding-bottom:5.5rem!important}
 .cmp-q h3{margin:.2rem 0 .3rem;font-size:1.25rem;line-height:1.25}
 .cmp-exp{margin:0 0 .9rem;color:var(--muted);max-width:44rem}
 .cmp-grid{list-style:none;margin:0;padding:0;display:grid;grid-template-columns:repeat(auto-fill,minmax(15rem,1fr));gap:.1rem 1.5rem}
-.cmp-row{display:flex;flex-wrap:wrap;align-items:center;justify-content:space-between;gap:.25rem .75rem;padding:.55rem 0;border-top:1px solid var(--line)}
+.cmp-row{display:grid;grid-template-columns:minmax(0,1fr) auto;align-items:center;gap:.25rem .75rem;min-height:3rem;padding:.55rem 0;border-top:1px solid var(--line)}
+.cmp-row .cmp-badge{justify-self:end}
 .cmp-party{color:var(--ink);font-weight:700;text-decoration:none}
 .cmp-party:hover{color:var(--accent);text-decoration:underline}
 .cmp-badge{display:inline-block;font-size:.85rem;font-weight:700;padding:.15rem .55rem;border-radius:999px;border:1.5px solid currentColor;white-space:nowrap}
 .cmp-si{color:var(--yes)} .cmp-no{color:var(--no)} .cmp-matiz{color:var(--pending)} .cmp-sin{color:var(--muted)}
 .cmp-pend{color:var(--muted);border-style:dashed;font-weight:400}
-.cmp-row .cita{flex-basis:100%}
+.cmp-row .cita{grid-column:1/-1;margin:0}
 .cmp-share{display:inline-flex;align-items:center;min-height:44px;margin-top:.5rem;font-weight:700;color:var(--accent);text-decoration:none;font-size:.95rem}
 .cita{margin:.3rem 0 0;font-size:.92rem}
 .cita summary{cursor:pointer;color:var(--muted);min-height:32px;display:inline-flex;align-items:center}
@@ -687,7 +688,7 @@ document.getElementById("sug-form").addEventListener("submit",async e=>{
 // ---- COMPARADOR "¿QUIÉN PROPONE QUÉ?" ----
 let pendingPregunta=null;
 function irAPregunta(){ if(!pendingPregunta) return; const el=document.getElementById(pendingPregunta); if(el){ setTimeout(()=>el.scrollIntoView({block:"start"}),60); pendingPregunta=null; } }
-const POSTURA={si:["si","Sí"],no:["no","No"],matiz:["matiz","Con matices"],sin:["sin","No se pronuncia"],pend:["pend","Programa no publicado"]};
+const POSTURA={si:["si","Sí"],no:["no","No"],matiz:["matiz","Con matices"],sin:["sin","No se pronuncia"],pend:["pend","Sin programa aún"]};
 function postura(q,pid){
   const x=(q.posturas||{})[pid];
   if(!PROGRAMAS[pid]) return {k:"pend"};
