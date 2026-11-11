@@ -21,6 +21,11 @@ netlify.toml          Le dice a Netlify qué carpeta publicar
 ## Qué se actualiza solo y qué no
 
 - **Solo, varias veces al día:** la pestaña Noticias (titulares con enlace al medio).
+- **Programas electorales, con revisión:** cada 3 horas `vigilar_programas.yml` busca en las webs
+  oficiales de los partidos (lista en `fuentes.json` → `webs_partidos`) si han publicado su programa.
+  Si encuentra uno nuevo, extrae las medidas con Claude y abre una propuesta de cambio
+  («Programas electorales: …»). No se publica nada hasta que la apruebas (Merge). Si un partido
+  bloquea la búsqueda, se puede lanzar el workflow a mano con el enlace al PDF.
 - **Nunca solo:** medidas de los programas y casos de corrupción. Cada mañana se crea un
   *issue* en GitHub ("Revisión del dd/mm/aaaa") con lo que conviene revisar. GitHub te lo
   manda por correo.
