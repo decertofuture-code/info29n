@@ -53,7 +53,10 @@ def cita_en_pagina(cita, textos, pagina):
         return True
     return False
 
-def claude(system, contenido, max_tokens=8000):
+class RespuestaNoValida(Exception):
+    pass
+
+def claude(system, contenido, max_tokens=16000):
     clave = os.environ["ANTHROPIC_API_KEY"]
     cuerpo = {"model": MODELO, "max_tokens": max_tokens, "system": system,
               "messages": [{"role": "user", "content": contenido}]}
@@ -65,6 +68,11 @@ def claude(system, contenido, max_tokens=8000):
                 datos = json.loads(r.read())
             texto = "".join(b.get("text", "") for b in datos.get("content", []) if b.get("type") == "text")
             texto = re.sub(r"^```(?:json)?|```$", "", texto.strip(), flags=re.M).strip()
+            if datos.get("stop_reason") == "max_tokens":
+                raise RespuestaNoValida("respuesta cortada por longitud")
+            a, b = texto.find("{"), texto.rfind("}")
+            if a != -1 and b > a:
+                texto = texto[a:b + 1]
             return json.loads(texto)
         except HTTPError as e:
             msg = e.read().decode()[:300]
@@ -74,7 +82,7 @@ def claude(system, contenido, max_tokens=8000):
         except json.JSONDecodeError:
             if intento < 3:
                 continue
-            sys.exit("La respuesta de Claude no era JSON válido.")
+            raise RespuestaNoValida("la respuesta no era JSON válido")
 
 SYSTEM = """Eres un analista que extrae información de programas electorales españoles para una web informativa y estrictamente neutral.
 Reglas obligatorias:
@@ -128,8 +136,9 @@ def main():
     print(f"{n} páginas, {int(media)} caracteres por página de media. Modo: {'PDF' if modo_pdf else 'texto'}")
 
     medidas, posturas = [], []
-    for ini in range(0, n, PAGINAS_POR_BLOQUE):
-        fin = min(ini + PAGINAS_POR_BLOQUE, n)
+    pendientes = [(ini, min(ini + PAGINAS_POR_BLOQUE, n)) for ini in range(0, n, PAGINAS_POR_BLOQUE)]
+    while pendientes:
+        ini, fin = pendientes.pop(0)
         print(f"  Páginas {ini+1}-{fin}…")
         if modo_pdf:
             w = PdfWriter()
@@ -143,7 +152,16 @@ def main():
         else:
             bloque = "\n\n".join(f"=== Página {i+1} ===\n{textos[i]}" for i in range(ini, fin))
             contenido = instrucciones(temas, preguntas, ini+1, fin) + "\n\nTEXTO:\n" + bloque
-        r = claude(SYSTEM, contenido)
+        try:
+            r = claude(SYSTEM, contenido)
+        except RespuestaNoValida as e:
+            # Bloques muy densos: se parten por la mitad y se vuelven a pedir.
+            if fin - ini > 3:
+                mitad = (ini + fin) // 2
+                print(f"    {e}; se divide en {ini+1}-{mitad} y {mitad+1}-{fin}")
+                pendientes[:0] = [(ini, mitad), (mitad, fin)]
+                continue
+            sys.exit(f"Páginas {ini+1}-{fin}: {e}.")
         medidas += [m for m in r.get("medidas", []) if m.get("tema") in ids_temas and m.get("cita") and m.get("texto")]
         posturas += [q for q in r.get("posturas", []) if q.get("pregunta") in ids_preg and q.get("postura") in ("si", "no", "matiz")]
 
