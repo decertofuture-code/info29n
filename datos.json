@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-11T17:01+00:00",
+  "actualizado": "2026-11-11T20:14+00:00",
   "temas": [
     {
       "id": "vivienda",
@@ -1994,6 +1994,92 @@
   ],
   "noticias": [
     {
+      "titulo": "El Gobierno expresa máximo respeto por quienes han secundado el paro y condena la actitud del PP durante la jornada",
+      "medio": "Europa Press",
+      "url": "https://www.europapress.es/nacional/noticia-gobierno-expresa-maximo-respeto-quienes-secundado-paro-condena-actitud-pp-jornada-20261111211130.html",
+      "fecha": "2026-11-11T20:11+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "Núñez sostiene que Feijóo devolverá a España «la decencia, el respeto a la ley y el sentido común»",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/castilla-la-mancha/nunez-sostiene-feijoo-devolvera-espana-decencia-respeto-20261111205901-nt.html",
+      "fecha": "2026-11-11T19:59+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "PP y Vox acusan al Gobierno de haber promovido una \"huelga preventiva\": \"Es un instrumento electoral al servicio de Sánchez\"",
+      "medio": "El Mundo",
+      "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/11/6af4c60021efa0de228b4591.html",
+      "fecha": "2026-11-11T19:48+00:00",
+      "partidos": [
+        "pp",
+        "vox"
+      ]
+    },
+    {
+      "titulo": "Frente Amplio y Podemos reclaman a Sánchez el cese de Marlaska por las cargas policiales durante la huelga",
+      "medio": "20minutos",
+      "url": "https://www.20minutos.es/nacional/frente-amplio-podemos-reclaman-sanchez-cese-marlaska-por-las-cargas-policiales-durante-huelga_7059953_0.html",
+      "fecha": "2026-11-11T19:28+00:00",
+      "partidos": [
+        "sumar",
+        "podemos"
+      ]
+    },
+    {
+      "titulo": "El Frente Amplio se aferra a la huelga para \"movilizar a la izquierda\" en las elecciones: \"El PP está nervioso por los efectos\"",
+      "medio": "El Mundo",
+      "url": "https://www.elmundo.es/espana/2026/11/11/6af4aad2e9cf4af3268b45b6.html",
+      "fecha": "2026-11-11T19:17+00:00",
+      "partidos": [
+        "pp",
+        "sumar"
+      ]
+    },
+    {
+      "titulo": "Marta Bosquet, elegida como la primera mujer Defensora del Pueblo Andaluz con los votos de PP-A y Vox",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/andalucia/marta-bosquet-elegida-primera-mujer-defensora-pueblo-20261111201358-nts.html",
+      "fecha": "2026-11-11T19:16+00:00",
+      "partidos": [
+        "pp",
+        "vox"
+      ]
+    },
+    {
+      "titulo": "Sigue en directo, la entrevista de Núñez Feijóo en 'El Hormiguero' de Pablo Motos antes de las elecciones generales",
+      "medio": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/politica/20261111/11681496/entrevista-nunez-feijoo-el-hormiguero-pablo-motos-ultima-hora-hoy-en-directo.html",
+      "fecha": "2026-11-11T18:55+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "Vox exige que los decretos leyes de vivienda no se debatan: «Es un fraude constitucional»",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/vox-exige-decretos-leyes-vivienda-debatan-fraude-20261111174738-nt.html",
+      "fecha": "2026-11-11T18:17+00:00",
+      "partidos": [
+        "vox"
+      ]
+    },
+    {
+      "titulo": "Feijóo capitaliza el \"error\" de Abascal con Jordi Wild y acudirá a más pódcast durante la campaña",
+      "medio": "El Confidencial",
+      "url": "https://www.elconfidencial.com/espana/2026-11-11/feijoo-error-abascal-jordi-wild-podcast-campana_4463060/",
+      "fecha": "2026-11-11T17:23+00:00",
+      "partidos": [
+        "pp",
+        "vox"
+      ]
+    },
+    {
       "titulo": "El PP carga contra los sindicatos por la huelga general: «Su fracaso precede al electoral que sufrirá el PSOE»",
       "medio": "ABC",
       "url": "https://www.abc.es/espana/pp-carga-sindicatos-huelga-general-fracaso-precede-20261111165024-nt.html",
@@ -2026,6 +2112,15 @@
       "medio": "La Vanguardia",
       "url": "https://www.lavanguardia.com/politica/20261111/11681773/abascal-suspende-entrevista-jordi-wild-le-acusa-querer-riesgos-salir-reforzado-revuelta.html",
       "fecha": "2026-11-11T15:35+00:00",
+      "partidos": [
+        "vox"
+      ]
+    },
+    {
+      "titulo": "Jordi Wild da su versión sobre la negativa de Abascal a ser entrevistado: \"Venir aquí era un riesgo\"",
+      "medio": "El Confidencial",
+      "url": "https://www.elconfidencial.com/espana/2026-11-11/jordi-wild-version-negativa-abascal-entrevista-riesgo_4463044/",
+      "fecha": "2026-11-11T15:10+00:00",
       "partidos": [
         "vox"
       ]
@@ -2156,6 +2251,15 @@
       "medio": "Europa Press",
       "url": "https://www.europapress.es/nacional/noticia-vox-anuncia-abascal-no-volvera-ceder-imagen-discurso-exclusiva-cortes-revuelta-20261111113336.html",
       "fecha": "2026-11-11T10:33+00:00",
+      "partidos": [
+        "vox"
+      ]
+    },
+    {
+      "titulo": "Abascal rechaza a última hora su cita con Jordi Wild por la \"censura\" de Broncano y RTVE a 40 minutos de su entrevista",
+      "medio": "El Confidencial",
+      "url": "https://www.elconfidencial.com/espana/2026-11-11/abascal-rechaza-a-ultima-hora-ser-entrevistado-por-jordi-wild-y-pone-a-broncano-como-excusa_4462817/",
+      "fecha": "2026-11-11T10:21+00:00",
       "partidos": [
         "vox"
       ]
@@ -4678,108 +4782,6 @@
       "fecha": "2026-11-06T20:31+00:00",
       "partidos": [
         "pp"
-      ]
-    },
-    {
-      "titulo": "Pedro Sánchez llama a la movilización en su retorno a la precampaña: “Si se pudo en Brasil y EE UU, en España también”",
-      "medio": "El País",
-      "url": "https://elpais.com/espana/comunidad-valenciana/2026-11-06/pedro-sanchez-llama-a-la-movilizacion-en-su-retorno-a-la-precampana-si-se-pudo-en-brasil-y-ee-uu-en-espana-tambien.html",
-      "fecha": "2026-11-06T20:27+00:00",
-      "partidos": [
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "El PSOE convierte a Valencia en el revulsivo de la campaña para confrontar con el PP de la dana tras Urda: \"No somos iguales\"",
-      "medio": "El Mundo",
-      "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/06/6aedeebee9cf4a41148b457b.html",
-      "fecha": "2026-11-06T20:17+00:00",
-      "partidos": [
-        "pp",
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "Abascal afirma que Sánchez da mucho \"miedo\" y avisa de que a él no lo \"van a amordazar\" ni durante un luto oficial",
-      "medio": "20minutos",
-      "url": "https://www.20minutos.es/nacional/abascal-afirma-que-sanchez-da-mucho-miedo-avisa-que-no-van-amordazar-ni-durante-un-luto-oficial_7058412_0.html",
-      "fecha": "2026-11-06T20:16+00:00",
-      "partidos": [
-        "vox"
-      ]
-    },
-    {
-      "titulo": "Sánchez contrapone el “ejemplo de dignidad” de Puente con su dimisión a la actitud del PP y Vox",
-      "medio": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/politica/20261106/11678341/sanchez-contrapone-ejemplo-dignidad-puente-dimision-actitud-pp-vox.html",
-      "fecha": "2026-11-06T20:02+00:00",
-      "partidos": [
-        "pp",
-        "vox"
-      ]
-    },
-    {
-      "titulo": "Abascal, en Granada: «Hemos venido a hacer justicia, no habrá perdón para los criminales»",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/andalucia/granada/abascal-granada-venido-justicia-perdon-criminales-20261106205625-nts.html",
-      "fecha": "2026-11-06T20:00+00:00",
-      "partidos": [
-        "vox"
-      ]
-    },
-    {
-      "titulo": "Sánchez: \"La ejemplaridad que ha ejercido Óscar Puente jamás la practican PP y Vox”",
-      "medio": "elDiario.es",
-      "url": "https://www.eldiario.es/politica/sanchez-ejemplaridad-ejercido-oscar-puente-practican-pp-vox_1_13645643.html",
-      "fecha": "2026-11-06T19:53+00:00",
-      "partidos": [
-        "pp",
-        "vox"
-      ]
-    },
-    {
-      "titulo": "Sánchez defiende el ejemplo de la dimisión de Puente frente al PP que no asume responsabilidades en tragedias",
-      "medio": "Europa Press",
-      "url": "https://www.europapress.es/nacional/noticia-sanchez-defiende-ejemplo-dimision-puente-frente-pp-no-asume-responsabilidades-tragedias-20261106205246.html",
-      "fecha": "2026-11-06T19:52+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Sigue en directo el acto público de Santiago Abascal en Granada",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/sigue-directo-acto-publico-santiago-abascal-granada-20261106190226-nt.html",
-      "fecha": "2026-11-06T19:42+00:00",
-      "partidos": [
-        "vox"
-      ]
-    },
-    {
-      "titulo": "Sánchez alaba a Puente en su primer mitin tras la tragedia de Urda y lo opone con el PP: \"Ejemplo de dignidad que ellos no practican\"",
-      "medio": "20minutos",
-      "url": "https://www.20minutos.es/nacional/sanchez-alaba-puente-su-primer-mitin-tras-tragedia-urda-un-ejemplo-dignidad-que-oposicion-no-practica_7058402_0.html",
-      "fecha": "2026-11-06T19:42+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "La vuelta de Pedro Sánchez a València inyecta optimismo al PSOE: “Vamos a ganar y gobernar”",
-      "medio": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/local/valencia/20261106/11678321/vuelta-pedro-sanchez-valencia-inyecta-optimismo-psoe-ganar-gobernar.html",
-      "fecha": "2026-11-06T19:39+00:00",
-      "partidos": [
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "Frente Amplio lanza una app que simula la recaudación en las 50 grandes fortunas de su impuesto a ultrarricos",
-      "medio": "20minutos",
-      "url": "https://www.20minutos.es/nacional/frente-amplio-lanza-una-app-que-simula-recaudacion-las-50-grandes-fortunas-su-impuesto-ultrarricos_7058371_0.html",
-      "fecha": "2026-11-06T19:39+00:00",
-      "partidos": [
-        "sumar"
       ]
     }
   ],
