@@ -542,6 +542,228 @@
           "verificada": true
         }
       ]
+    },
+    "cc": {
+      "vivienda": [
+        {
+          "texto": "Impulsar un fondo estatal de ocho años para cofinanciar vivienda pública y asequible, con una asignación específica para Canarias.",
+          "cita": "Impulsaremos un fondo estatal de ocho años para coﬁnanciar vivienda pública y asequible, con una asignación para Canarias ajustada a sus necesidades.",
+          "pagina": 10,
+          "fuente": "https://coalicioncanaria.org/wp-content/uploads/2026/11/CCA-26-Programa_Electoral-29NOV.pdf#page=10",
+          "fecha": "2026-11-11",
+          "verificada": true
+        },
+        {
+          "texto": "Reformar la normativa en las Cortes para limitar la compra de vivienda en Canarias por extranjeros.",
+          "cita": "Impulsaremos en las Cortes Generales las reformas necesarias para limitar la compra de vivienda en Canarias por extranjeros",
+          "pagina": 11,
+          "fuente": "https://coalicioncanaria.org/wp-content/uploads/2026/11/CCA-26-Programa_Electoral-29NOV.pdf#page=11",
+          "fecha": "2026-11-11",
+          "verificada": true
+        },
+        {
+          "texto": "Dar cobertura jurídica para que Canarias y sus municipios limiten los usos turísticos de la vivienda donde haya presión sobre la vivienda residencial.",
+          "cita": "Defenderemos la cobertura jurídica estatal y europea necesaria para que Canarias y sus municipios puedan modular y limitar los usos turísticos donde exista presión acreditada sobre la vivienda residencial.",
+          "pagina": 11,
+          "fuente": "https://coalicioncanaria.org/wp-content/uploads/2026/11/CCA-26-Programa_Electoral-29NOV.pdf#page=11",
+          "fecha": "2026-11-11",
+          "verificada": true
+        },
+        {
+          "texto": "Mejorar los incentivos fiscales estatales a pequeños propietarios que incorporen viviendas a programas de alquiler asequible.",
+          "cita": "Mejoraremos los incentivos ﬁscales estatales para pequeños propietarios que incorporen voluntariamente viviendas a programas de alquiler asequible",
+          "pagina": 11,
+          "fuente": "https://coalicioncanaria.org/wp-content/uploads/2026/11/CCA-26-Programa_Electoral-29NOV.pdf#page=11",
+          "fecha": "2026-11-11",
+          "verificada": true
+        },
+        {
+          "texto": "Impulsar un plan estatal de reposición y regeneración de barrios, con demolición y reposición cuando la rehabilitación no baste.",
+          "cita": "Impulsaremos un plan estatal de reposición y regeneración de barrios que incluya demolición y reposición",
+          "pagina": 11,
+          "fuente": "https://coalicioncanaria.org/wp-content/uploads/2026/11/CCA-26-Programa_Electoral-29NOV.pdf#page=11",
+          "fecha": "2026-11-11",
+          "verificada": true
+        },
+        {
+          "texto": "Defender una línea estatal reforzada de vivienda joven, alquiler asequible y cooperativas.",
+          "cita": "Defenderemos una línea estatal reforzada de vivienda joven, alquiler asequible y cooperativas.",
+          "pagina": 11,
+          "fuente": "https://coalicioncanaria.org/wp-content/uploads/2026/11/CCA-26-Programa_Electoral-29NOV.pdf#page=11",
+          "fecha": "2026-11-11",
+          "verificada": true
+        }
+      ],
+      "economia": [
+        {
+          "texto": "Mantener la deducción del 60 % en el IRPF de La Palma y extenderla a La Gomera y El Hierro.",
+          "cita": "mantener la deducción del 60 % en el IRPF apli-\ncable en La Palma y extenderla a La Gomera y El Hierro",
+          "pagina": 13,
+          "fuente": "https://coalicioncanaria.org/wp-content/uploads/2026/11/CCA-26-Programa_Electoral-29NOV.pdf#page=13",
+          "fecha": "2026-11-11",
+          "verificada": true
+        },
+        {
+          "texto": "Actualizar las compensaciones estatales para cubrir el 100 % del coste real subvencionable del transporte de mercancías.",
+          "cita": "Exigiremos la actualización de las compensaciones estatales para cubrir el 100 % del coste real y efectivo subvencionable",
+          "pagina": 18,
+          "fuente": "https://coalicioncanaria.org/wp-content/uploads/2026/11/CCA-26-Programa_Electoral-29NOV.pdf#page=18",
+          "fecha": "2026-11-11",
+          "verificada": true
+        },
+        {
+          "texto": "Proteger la bonificación del 75 % en el transporte aéreo y marítimo de residentes y reforzar la supervisión de tarifas.",
+          "cita": "Protegeremos la boniﬁcación del 75 % en el transporte aéreo y marítimo de residentes.",
+          "pagina": 17,
+          "fuente": "https://coalicioncanaria.org/wp-content/uploads/2026/11/CCA-26-Programa_Electoral-29NOV.pdf#page=17",
+          "fecha": "2026-11-11",
+          "verificada": true
+        },
+        {
+          "texto": "Mantener la gratuidad del transporte público terrestre con financiación estatal estable.",
+          "cita": "Exigiremos ﬁnanciación estatal estable que permita mantener la gratuidad del transporte público terrestre para los usua-\nrios beneﬁciarios",
+          "pagina": 18,
+          "fuente": "https://coalicioncanaria.org/wp-content/uploads/2026/11/CCA-26-Programa_Electoral-29NOV.pdf#page=18",
+          "fecha": "2026-11-11",
+          "verificada": true
+        }
+      ],
+      "inmigracion": [
+        {
+          "texto": "Exigir que el Estado y la UE asuman los costes extraordinarios del salvamento, la acogida y la atención humanitaria en la frontera atlántica.",
+          "cita": "Exigiremos que el Estado y la Unión Europea asuman los costes extraordinarios del salvamento, la acogida y la atención huma-\nnitaria en la frontera atlántica.",
+          "pagina": 18,
+          "fuente": "https://coalicioncanaria.org/wp-content/uploads/2026/11/CCA-26-Programa_Electoral-29NOV.pdf#page=18",
+          "fecha": "2026-11-11",
+          "verificada": true
+        },
+        {
+          "texto": "Activar traslados automáticos a otras comunidades cuando un territorio de primera acogida supere umbrales previstos.",
+          "cita": "Cuando un territorio de primera acogida supere los umbrales previstos, deberán activarse los traslados y la participación de otras comunidades autónomas sin depender de negociaciones caso a caso.",
+          "pagina": 19,
+          "fuente": "https://coalicioncanaria.org/wp-content/uploads/2026/11/CCA-26-Programa_Electoral-29NOV.pdf#page=19",
+          "fecha": "2026-11-11",
+          "verificada": true
+        },
+        {
+          "texto": "Exigir financiación estatal suficiente y previsible para atender a los menores extranjeros no acompañados acogidos en Canarias.",
+          "cita": "Exigiremos al Estado ﬁnanciación\nsuﬁciente y previsible para atender a los menores extranjeros no acompañados acogidos en Canarias",
+          "pagina": 19,
+          "fuente": "https://coalicioncanaria.org/wp-content/uploads/2026/11/CCA-26-Programa_Electoral-29NOV.pdf#page=19",
+          "fecha": "2026-11-11",
+          "verificada": true
+        },
+        {
+          "texto": "Reforzar la cooperación estable con Mauritania, Senegal, Marruecos, Cabo Verde y otros países de origen y tránsito.",
+          "cita": "Reforzaremos la coopera-\nción estable con Mauritania, Senegal, Marruecos, Cabo Verde y otros países de origen y tránsito en materia de desarrollo, seguridad, formación y movilidad ordenada.",
+          "pagina": 19,
+          "fuente": "https://coalicioncanaria.org/wp-content/uploads/2026/11/CCA-26-Programa_Electoral-29NOV.pdf#page=19",
+          "fecha": "2026-11-11",
+          "verificada": true
+        },
+        {
+          "texto": "Incluir en el traspaso estatutario las autorizaciones de trabajo para personas extranjeras previstas en el Estatuto.",
+          "cita": "Incluiremos la gestión del transporte aéreo interinsular y las autorizaciones de trabajo para personas extranjeras previstas en el Estatuto.",
+          "pagina": 8,
+          "fuente": "https://coalicioncanaria.org/wp-content/uploads/2026/11/CCA-26-Programa_Electoral-29NOV.pdf#page=8",
+          "fecha": "2026-11-11",
+          "verificada": true
+        }
+      ],
+      "politica": [
+        {
+          "texto": "Impedir que los recursos del REF se computen como financiación ordinaria de sanidad, educación, dependencia o servicios sociales.",
+          "cita": "Impediremos que los\nrecursos del REF se computen como ﬁnanciación ordinaria de la sanidad, la educación, la dependencia o los servicios sociales.",
+          "pagina": 8,
+          "fuente": "https://coalicioncanaria.org/wp-content/uploads/2026/11/CCA-26-Programa_Electoral-29NOV.pdf#page=8",
+          "fecha": "2026-11-11",
+          "verificada": true
+        },
+        {
+          "texto": "Exigir un calendario verificable para completar los traspasos y desarrollos pendientes del Estatuto de Autonomía.",
+          "cita": "Exigiremos un calendario veriﬁcable para completar los traspasos y\ndesarrollos pendientes del Estatuto de Autonomía",
+          "pagina": 8,
+          "fuente": "https://coalicioncanaria.org/wp-content/uploads/2026/11/CCA-26-Programa_Electoral-29NOV.pdf#page=8",
+          "fecha": "2026-11-11",
+          "verificada": true
+        },
+        {
+          "texto": "Permitir que el Instituto Canario de Estadística acceda a información tributaria para evaluar el REF.",
+          "cita": "Impulsaremos los cambios estatales necesarios para que el Instituto Canario de Estadística pueda acceder a la información tributaria que permita evaluar el REF y las políticas de ultraperiferia.",
+          "pagina": 21,
+          "fuente": "https://coalicioncanaria.org/wp-content/uploads/2026/11/CCA-26-Programa_Electoral-29NOV.pdf#page=21",
+          "fecha": "2026-11-11",
+          "verificada": true
+        }
+      ],
+      "empleo": [
+        {
+          "texto": "Reforzar las ayudas estatales a quienes empiezan como autónomos y a los autónomos con menores rendimientos.",
+          "cita": "Reforzaremos las ayudas estatales a quienes empiezan una actividad por cuenta propia y a los autónomos con menores rendimientos.",
+          "pagina": 12,
+          "fuente": "https://coalicioncanaria.org/wp-content/uploads/2026/11/CCA-26-Programa_Electoral-29NOV.pdf#page=12",
+          "fecha": "2026-11-11",
+          "verificada": true
+        },
+        {
+          "texto": "Reclamar incentivos fiscales y bonificaciones en cotizaciones ligados a mejoras salariales pactadas y a la productividad.",
+          "cita": "Reclamaremos al Estado incentivos ﬁscales y boniﬁcaciones en las cotizaciones ligados a mejoras salariales pacta-\ndas y a la productividad de las empresas canarias.",
+          "pagina": 12,
+          "fuente": "https://coalicioncanaria.org/wp-content/uploads/2026/11/CCA-26-Programa_Electoral-29NOV.pdf#page=12",
+          "fecha": "2026-11-11",
+          "verificada": true
+        },
+        {
+          "texto": "Reclamar la aportación estatal al plan cuatrienal de empleo para menores de 35 años.",
+          "cita": "Reclamaremos la aportación estatal al plan cuatrienal de empleo para menores de 35 años previsto en la propuesta de Decreto Canarias.",
+          "pagina": 14,
+          "fuente": "https://coalicioncanaria.org/wp-content/uploads/2026/11/CCA-26-Programa_Electoral-29NOV.pdf#page=14",
+          "fecha": "2026-11-11",
+          "verificada": true
+        },
+        {
+          "texto": "Defender la financiación del Plan Integral de Empleo de Canarias y de los programas de empleo del REF.",
+          "cita": "Defenderemos la ﬁnanciación del Plan Integral de Empleo de Canarias",
+          "pagina": 12,
+          "fuente": "https://coalicioncanaria.org/wp-content/uploads/2026/11/CCA-26-Programa_Electoral-29NOV.pdf#page=12",
+          "fecha": "2026-11-11",
+          "verificada": true
+        },
+        {
+          "texto": "Reclamar una bonificación del 50 % de las cuotas empresariales de la Seguridad Social en La Palma, La Gomera y El Hierro.",
+          "cita": "Reclamaremos también la boniﬁ-\ncación del 50 % de las cuotas empresariales de la Seguridad Social en las tres islas",
+          "pagina": 13,
+          "fuente": "https://coalicioncanaria.org/wp-content/uploads/2026/11/CCA-26-Programa_Electoral-29NOV.pdf#page=13",
+          "fecha": "2026-11-11",
+          "verificada": true
+        }
+      ],
+      "sanidad": [
+        {
+          "texto": "Exigir al Estado una compensación específica y actualizada por los sobrecostes sanitarios de la insularidad.",
+          "cita": "Exigiremos al Estado una compensación especíﬁca y actualizada por los sobrecostes sanitarios de la insularidad y la lejanía.",
+          "pagina": 9,
+          "fuente": "https://coalicioncanaria.org/wp-content/uploads/2026/11/CCA-26-Programa_Electoral-29NOV.pdf#page=9",
+          "fecha": "2026-11-11",
+          "verificada": true
+        },
+        {
+          "texto": "Promover apoyo estatal a la movilidad de especialistas cuando sea más eficiente desplazar el servicio que al paciente.",
+          "cita": "Promoveremos el apoyo estatal a la movilidad de especialistas y otros profesionales cuando resulte más eﬁciente desplazar el servicio que al paciente.",
+          "pagina": 9,
+          "fuente": "https://coalicioncanaria.org/wp-content/uploads/2026/11/CCA-26-Programa_Electoral-29NOV.pdf#page=9",
+          "fecha": "2026-11-11",
+          "verificada": true
+        },
+        {
+          "texto": "Reclamar que los Presupuestos Generales del Estado refuercen las partidas de salud mental en Canarias.",
+          "cita": "Reclamaremos que los Presupuestos Generales del Estado refuercen las partidas destinadas a la atención en salud mental en Canarias.",
+          "pagina": 9,
+          "fuente": "https://coalicioncanaria.org/wp-content/uploads/2026/11/CCA-26-Programa_Electoral-29NOV.pdf#page=9",
+          "fecha": "2026-11-11",
+          "verificada": true
+        }
+      ]
     }
   },
   "resumen": {},
@@ -3683,6 +3905,10 @@
           "fuente": "https://www.pp.es/wp-content/uploads/2026/11/LA-RECONSTRUCCION-NACIONAL.pdf#page=53",
           "fecha": "2026-11-11",
           "verificada": true
+        },
+        "cc": {
+          "postura": "sin",
+          "fecha": "2026-11-11"
         }
       }
     },
@@ -3693,6 +3919,10 @@
       "explicacion": "Prohibiciones, cupos o impuestos especiales para que empresas o personas con muchas viviendas compren más.",
       "posturas": {
         "pp": {
+          "postura": "sin",
+          "fecha": "2026-11-11"
+        },
+        "cc": {
           "postura": "sin",
           "fecha": "2026-11-11"
         }
@@ -3711,6 +3941,10 @@
           "fuente": "https://www.pp.es/wp-content/uploads/2026/11/LA-RECONSTRUCCION-NACIONAL.pdf#page=60",
           "fecha": "2026-11-11",
           "verificada": true
+        },
+        "cc": {
+          "postura": "sin",
+          "fecha": "2026-11-11"
         }
       }
     },
@@ -3721,6 +3955,10 @@
       "explicacion": "Que siga existiendo el impuesto que el Estado cobra a los patrimonios más altos, en lugar de suprimirlo.",
       "posturas": {
         "pp": {
+          "postura": "sin",
+          "fecha": "2026-11-11"
+        },
+        "cc": {
           "postura": "sin",
           "fecha": "2026-11-11"
         }
@@ -3739,6 +3977,10 @@
           "fuente": "https://www.pp.es/wp-content/uploads/2026/11/LA-RECONSTRUCCION-NACIONAL.pdf#page=22",
           "fecha": "2026-11-11",
           "verificada": true
+        },
+        "cc": {
+          "postura": "sin",
+          "fecha": "2026-11-11"
         }
       }
     },
@@ -3755,6 +3997,10 @@
           "fuente": "https://www.pp.es/wp-content/uploads/2026/11/LA-RECONSTRUCCION-NACIONAL.pdf#page=29",
           "fecha": "2026-11-11",
           "verificada": true
+        },
+        "cc": {
+          "postura": "sin",
+          "fecha": "2026-11-11"
         }
       }
     },
@@ -3765,6 +4011,10 @@
       "explicacion": "Bajar la jornada máxima legal (actualmente 40 horas semanales) sin reducción de sueldo.",
       "posturas": {
         "pp": {
+          "postura": "sin",
+          "fecha": "2026-11-11"
+        },
+        "cc": {
           "postura": "sin",
           "fecha": "2026-11-11"
         }
@@ -3779,6 +4029,10 @@
         "pp": {
           "postura": "sin",
           "fecha": "2026-11-11"
+        },
+        "cc": {
+          "postura": "sin",
+          "fecha": "2026-11-11"
         }
       }
     }
@@ -3788,6 +4042,11 @@
       "url": "https://www.pp.es/wp-content/uploads/2026/11/LA-RECONSTRUCCION-NACIONAL.pdf",
       "fecha": "2026-11-11",
       "paginas": 82
+    },
+    "cc": {
+      "url": "https://coalicioncanaria.org/wp-content/uploads/2026/11/CCA-26-Programa_Electoral-29NOV.pdf",
+      "fecha": "2026-11-11",
+      "paginas": 23
     }
   },
   "debates": []
