@@ -108,6 +108,29 @@ h2{font-size:1.6rem;margin:0 0 .5rem}
 .party .src{font-size:.85rem;color:var(--muted)}
 .pending{color:var(--pending);font-size:.95rem;margin:0}
 
+/* Medidas de los programas: color por tema y tarjetas separadas */
+:root{--t-vivienda:#C2410C;--t-economia:#5F7A1F;--t-inmigracion:#2457C5;--t-politica:#7C3AED;--t-empleo:#B45F06;--t-sanidad:#0E7C7B}
+@media (prefers-color-scheme: dark){:root:not([data-theme="light"]){--t-vivienda:#F59E6B;--t-economia:#B5CF6B;--t-inmigracion:#7FA4F0;--t-politica:#B79CF5;--t-empleo:#F0A04B;--t-sanidad:#4FC4C2}}
+:root[data-theme="dark"]{--t-vivienda:#F59E6B;--t-economia:#B5CF6B;--t-inmigracion:#7FA4F0;--t-politica:#B79CF5;--t-empleo:#F0A04B;--t-sanidad:#4FC4C2}
+[data-tema="vivienda"]{--tc:var(--t-vivienda)} [data-tema="economia"]{--tc:var(--t-economia)} [data-tema="inmigracion"]{--tc:var(--t-inmigracion)}
+[data-tema="politica"]{--tc:var(--t-politica)} [data-tema="empleo"]{--tc:var(--t-empleo)} [data-tema="sanidad"]{--tc:var(--t-sanidad)}
+.party ul.medidas,.pv-topic ul.medidas,ul.medidas{list-style:none;margin:0;padding:0}
+.medidas li{margin:0 0 .55rem;padding:.55rem .75rem;border-left:4px solid var(--tc,var(--accent));border-radius:0 8px 8px 0;background:color-mix(in srgb,var(--tc,var(--accent)) 7%,var(--sheet));line-height:1.45}
+.medidas li:last-child{margin-bottom:0}
+.med-meta{display:flex;flex-wrap:wrap;align-items:center;gap:.25rem .75rem;margin-top:.3rem;font-size:.85rem}
+.med-meta .src{display:inline-flex;align-items:center;min-height:32px;padding:0 .6rem;border-radius:999px;border:1px solid color-mix(in srgb,var(--tc,var(--accent)) 45%,var(--line));color:var(--ink);text-decoration:none;font-weight:700;font-size:.82rem;font-variant-numeric:tabular-nums}
+.med-meta .src:hover{background:color-mix(in srgb,var(--tc,var(--accent)) 15%,var(--sheet))}
+.med-meta .cita{margin:0;flex-basis:auto} .med-meta .cita[open]{flex-basis:100%}
+.pv-topic{border-top:5px solid var(--tc,var(--line))}
+.pv-topic h5{display:flex;align-items:center;justify-content:space-between;gap:.5rem;font-size:1.08rem}
+.pv-topic h5::before{content:"";flex:none;width:.7rem;height:.7rem;border-radius:50%;background:var(--tc)}
+.pv-topic h5 span.n{margin-left:auto;font-size:.8rem;font-weight:700;color:var(--muted);white-space:nowrap}
+.pv-topic h5 span.nm{flex:1}
+.prog-link{display:flex;flex-wrap:wrap;align-items:center;gap:.4rem 1rem;margin:1.25rem 0 0;padding:.9rem 1.1rem;border:1px solid var(--line);border-left:5px solid var(--c-programas);border-radius:10px;background:var(--sheet);box-shadow:var(--shadow)}
+.prog-link a{display:inline-flex;align-items:center;min-height:44px;font-weight:700;color:var(--c-programas)}
+.prog-link span{color:var(--muted);font-size:.92rem}
+.party .prog-mini{margin:.75rem 0 0;font-size:.9rem} .party .prog-mini a{font-weight:700}
+
 
 .howto details{background:var(--sheet);border:1px solid var(--line);margin:0 0 .75rem}
 .howto summary{cursor:pointer;padding:1rem 3rem 1rem 1.1rem;font-weight:700;font-size:1.1rem;list-style:none;position:relative;min-height:44px}
@@ -556,7 +579,9 @@ let DEBATES=[];
 let TOPICS=[],PARTIES=[],MEASURES={},RESUMEN={},VOTES=[],STATUS={},CASES=[],NEWS=[],UPDATED=null,PROGRAMAS={},PREGUNTAS=[];
 // Medidas visibles: las no verificadas (cita sin comprobar) no se publican.
 const visibles = (pid,tid) => ((MEASURES[pid]||{})[tid]||[]).filter(x=>x.verificada!==false);
-const medidaHTML = x => `<li>${x.texto} <a class="src" href="${x.fuente}" target="_blank" rel="noopener">${x.pagina?`Programa, pág. ${x.pagina}`:"Fuente"}</a>${x.cita?`<details class="cita"><summary>Ver cita</summary><blockquote>«${esc(x.cita)}»</blockquote></details>`:""}</li>`;
+const citaLimpia = c => (c||"").replace(/(\p{L})-\s*\n\s*(\p{L})/gu,"$1$2").replace(/\s*\n\s*/g," ");
+const medidaHTML = x => `<li>${x.texto}<div class="med-meta"><a class="src" href="${x.fuente}" target="_blank" rel="noopener">${x.pagina?`Programa, pág. ${x.pagina}`:"Fuente"}</a>${x.cita?`<details class="cita"><summary>Ver cita</summary><blockquote>«${esc(citaLimpia(x.cita))}»</blockquote></details>`:""}</div></li>`;
+const progInfo = pid => { const g=PROGRAMAS[pid]; return g&&g.url ? g : null; };
 const sinMedidas = pid => PROGRAMAS[pid] ? "Su programa no incluye medidas sobre este tema." : "Programa aún no publicado.";
 const pname = id => (PARTIES.find(p=>p.id===id)||{}).name||id;
 const fdate = d => new Date(d+"T00:00:00").toLocaleDateString("es-ES",{day:"numeric",month:"long",year:"numeric"});
@@ -584,15 +609,18 @@ function render(){
   topicsEl.querySelectorAll("button").forEach(b=>b.setAttribute("aria-pressed",b.dataset.id===current));
   const t=TOPICS.find(x=>x.id===current);
   document.getElementById("topic-head").innerHTML=`<h3>${t.name}</h3><p>${t.desc}</p>`;
+  document.getElementById("parties").dataset.tema=current;
   document.getElementById("parties").innerHTML=PARTIES.filter(p=>scope==="all"||p.scope==="Toda España").map(p=>{
     const m=visibles(p.id,current);
     const body=m.length
-      ? `<ul>${m.map(medidaHTML).join("")}</ul>`
+      ? `<ul class="medidas">${m.map(medidaHTML).join("")}</ul>`
       : `<p class="pending">${sinMedidas(p.id)}</p>`;
+    const g=progInfo(p.id);
+    const prog=g?`<p class="prog-mini"><a href="${g.url}" target="_blank" rel="noopener">Programa completo (PDF${g.paginas?`, ${g.paginas} págs.`:""})</a></p>`:"";
     const easy=(RESUMEN[p.id]||{})[current];
     const votes=VOTES.filter(v=>v.topic===current).map(v=>{const [c,l]=voteOf(v,p.id);
       return `<p class="vote-line">${v.title} (${fdate(v.date)}): <span class="v ${c}">${l}</span></p>`;}).join("");
-    return `<article class="party${p.scope==="Toda España"?"":" terr"}" aria-label="${p.name}"><h4><a href="#partido-${p.id}">${p.name}</a></h4><p class="lead">${p.lead}</p>${easy?`<p class="easy">${easy}</p>`:""}${body}${votes}</article>`;
+    return `<article class="party${p.scope==="Toda España"?"":" terr"}" aria-label="${p.name}"><h4><a href="#partido-${p.id}">${p.name}</a></h4><p class="lead">${p.lead}</p>${easy?`<p class="easy">${easy}</p>`:""}${body}${votes}${prog}</article>`;
   }).join("");
 }
 render();
@@ -731,8 +759,8 @@ function renderPartyView(){
   const hasMeasures=TOPICS.some(t=>visibles(p.id,t.id).length);
   const topics=hasMeasures
     ? `<div class="pv-topics">${TOPICS.map(t=>{const m=visibles(p.id,t.id);const easy=(RESUMEN[p.id]||{})[t.id];
-        return `<article class="pv-topic"><h5>${t.name}</h5>${easy?`<p class="easy">${easy}</p>`:""}${m.length
-          ?`<ul>${m.map(medidaHTML).join("")}</ul>`
+        return `<article class="pv-topic" data-tema="${t.id}"><h5><span class="nm">${t.name}</span>${m.length?`<span class="n">${m.length} ${m.length===1?"medida":"medidas"}</span>`:""}</h5>${easy?`<p class="easy">${easy}</p>`:""}${m.length
+          ?`<ul class="medidas">${m.map(medidaHTML).join("")}</ul>`
           :'<p class="pending">Sin medidas sobre este tema en su programa.</p>'}</article>`;}).join("")}</div>`
     : '<p class="pv-empty">Su programa electoral aún no se ha publicado. Cuando lo haga, aquí verás sus medidas ordenadas por tema.</p>';
   const votes=VOTES.length?`<ul class="pv-votes">${VOTES.map(x=>{const [c]=voteOf(x,p.id);const lbl=c==="si"?x.yesLabel:c==="no"?x.noLabel:"Sin dato";
@@ -747,7 +775,7 @@ function renderPartyView(){
       <span class="news-meta">${esc(n.medio)} · ${fdatetime(n.fecha)}</span></li>`).join("")}</ul>`:'<p class="pv-empty">No hay noticias recientes que lo mencionen.</p>';
   v.innerHTML=`<header class="pv-head"><h3>${p.name}</h3><p>${p.lead}</p>
       <nav class="pv-jump" aria-label="Secciones de ${p.name}"><a href="#pv-propuestas">Propuestas</a><a href="#pv-comparador">Comparador</a><a href="#pv-votaciones">Votaciones</a><a href="#pv-casos">Casos judiciales</a><a href="#pv-noticias">Noticias</a></nav></header>
-    <section class="pv-block" id="pv-propuestas"><h4>Propuestas</h4>${topics}</section>
+    <section class="pv-block" id="pv-propuestas"><h4>Propuestas</h4>${topics}${(g=>g?`<p class="prog-link"><a href="${g.url}" target="_blank" rel="noopener">Leer el programa electoral completo (PDF)</a><span>${g.paginas?`${g.paginas} páginas · `:""}Documento oficial publicado por el partido</span></p>`:"")(progInfo(p.id))}</section>
     <section class="pv-block" id="pv-comparador"><h4>Su postura en el comparador</h4>${partyStances(p.id)}</section>
     <section class="pv-block" id="pv-votaciones"><h4>Qué votó en esta legislatura</h4>${votes}</section>
     <section class="pv-block" id="pv-casos"><h4>Casos judiciales</h4>${cases}</section>
