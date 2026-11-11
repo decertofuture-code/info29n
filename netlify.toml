@@ -2,7 +2,8 @@
   publish = "."
   command = ""
   # Solo se publica si cambian los archivos de la propia web (no los datos, scripts ni workflows).
-  ignore = "git diff --quiet $CACHED_COMMIT_REF $COMMIT_REF -- index.html privacidad.html og-image.png '*.woff2' netlify.toml estatico.css partido tema comparador img sitemap.xml robots.txt 'google*.html'"
+  # Si Netlify no da un commit anterior válido (vacío, igual al actual o fuera del clon), se compara con el commit previo.
+  ignore = "BASE=$CACHED_COMMIT_REF; if [ -z \"$BASE\" ] || [ \"$BASE\" = \"$COMMIT_REF\" ] || ! git cat-file -e \"$BASE^{commit}\" 2>/dev/null; then BASE=$COMMIT_REF^; fi; git diff --quiet \"$BASE\" \"$COMMIT_REF\" -- index.html privacidad.html og-image.png '*.woff2' netlify.toml estatico.css partido tema comparador img sitemap.xml robots.txt 'google*.html'"
 
 [[headers]]
   for = "/datos.json"
