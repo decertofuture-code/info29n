@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-11T12:17+00:00",
+  "actualizado": "2026-11-11T17:01+00:00",
   "temas": [
     {
       "id": "vivienda",
@@ -449,6 +449,91 @@
   ],
   "noticias": [
     {
+      "titulo": "El PP carga contra los sindicatos por la huelga general: «Su fracaso precede al electoral que sufrirá el PSOE»",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/pp-carga-sindicatos-huelga-general-fracaso-precede-20261111165024-nt.html",
+      "fecha": "2026-11-11T16:20+00:00",
+      "partidos": [
+        "pp",
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "Jordi Wild critica a Vox tras cancelar la entrevista a Abascal: \"¿Qué tiene que ver Broncano conmigo? Yo soy otro mundo\"",
+      "medio": "20minutos",
+      "url": "https://www.20minutos.es/nacional/jordi-wild-critica-vox-tras-cancelar-entrevista-abascal-que-tiene-que-ver-broncano-conmigo-yo-soy-otro-mundo_7059878_0.html",
+      "fecha": "2026-11-11T16:16+00:00",
+      "partidos": [
+        "vox"
+      ]
+    },
+    {
+      "titulo": "Unos manifestantes de la huelga general hacen un escrache al líder del PP en Barcelona",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/cataluna/manifestantes-huelga-general-escrache-lider-pp-barcelona-20261111161541-nt.html",
+      "fecha": "2026-11-11T16:13+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "Abascal suspende su entrevista con Jordi Wild, que le acusa de no querer riesgos tras salir “reforzado” de 'La Revuelta'",
+      "medio": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/politica/20261111/11681773/abascal-suspende-entrevista-jordi-wild-le-acusa-querer-riesgos-salir-reforzado-revuelta.html",
+      "fecha": "2026-11-11T15:35+00:00",
+      "partidos": [
+        "vox"
+      ]
+    },
+    {
+      "titulo": "Abascal carga contra Sánchez por la huelga general: \"Envía a sus sindicatos mafiosos contra los trabajadores\"",
+      "medio": "Europa Press",
+      "url": "https://www.europapress.es/nacional/noticia-abascal-carga-contra-sanchez-huelga-general-envia-sindicatos-mafiosos-contra-trabajadores-20261111151834.html",
+      "fecha": "2026-11-11T14:18+00:00",
+      "partidos": [
+        "vox"
+      ]
+    },
+    {
+      "titulo": "El juez del 'caso Cloacas' detecta un pago de 105.000 euros entre un ex abogado del PSOE y el histórico socialista Gaspar Zarrías, imputados por financiar a la 'fontanera'",
+      "medio": "El Mundo",
+      "url": "https://www.elmundo.es/espana/2026/11/11/6af462a5e9cf4a0e668b4575.html",
+      "fecha": "2026-11-11T13:43+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "El PSOE critica que el PP se burle de la huelga con una imagen en redes de los sindicatos comiendo una mariscada",
+      "medio": "Europa Press",
+      "url": "https://www.europapress.es/nacional/noticia-11n-psoe-critica-pp-burle-huelga-imagen-redes-sindicatos-comiendo-mariscada-20261111143934.html",
+      "fecha": "2026-11-11T13:39+00:00",
+      "partidos": [
+        "pp",
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "Ortega-Smith ironiza sobre Santiago Abascal tras cancelar su entrevista con Jordi Wild: \"Sin miedo a nada ni nadie\"",
+      "medio": "20minutos",
+      "url": "https://www.20minutos.es/nacional/ortega-smith-ironiza-sobre-santiago-abascal-tras-cancelar-su-entrevista-con-jordi-wild-sin-miedo-nada-ni-nadie_7059801_0.html",
+      "fecha": "2026-11-11T13:00+00:00",
+      "partidos": [
+        "vox"
+      ]
+    },
+    {
+      "titulo": "Podemos denuncia \"violencia policial\" durante la huelga y carga contra PP y Vox por \"defender a los que se están forrando\"",
+      "medio": "20minutos",
+      "url": "https://www.20minutos.es/nacional/podemos-denuncia-violencia-policial-durante-huelga-carga-contra-pp-vox-por-defender-los-que-se-estan-forrando_7059769_0.html",
+      "fecha": "2026-11-11T12:18+00:00",
+      "partidos": [
+        "pp",
+        "vox",
+        "podemos"
+      ]
+    },
+    {
       "titulo": "El PSOE no asiste al debate de los Presupuestos y ni siquiera aparece por el Parlamento de Andalucía",
       "medio": "ABC",
       "url": "https://www.abc.es/espana/andalucia/psoe-asiste-debate-presupuestos-siquiera-aparece-parlamento-20261111122934-nts.html",
@@ -674,6 +759,25 @@
       "medio": "El Mundo",
       "url": "https://www.elmundo.es/espana/2026/11/10/6af39330e9cf4a67248b45a1.html",
       "fecha": "2026-11-10T22:16+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "La entrevista de Broncano \"cambia\" el plan de Vox, que se lanza a por el voto útil del PP",
+      "medio": "El Mundo",
+      "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/10/6af36a3dfc6c83dc178b459b.html",
+      "fecha": "2026-11-10T21:44+00:00",
+      "partidos": [
+        "pp",
+        "vox"
+      ]
+    },
+    {
+      "titulo": "El PP establecerá un \"cupo\" con el tope de inmigrantes que podrán entrar a España cada año",
+      "medio": "El Mundo",
+      "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/10/6af36a00fc6c833b5f8b4575.html",
+      "fecha": "2026-11-10T21:43+00:00",
       "partidos": [
         "pp"
       ]
@@ -3131,109 +3235,6 @@
       "fecha": "2026-11-06T19:39+00:00",
       "partidos": [
         "sumar"
-      ]
-    },
-    {
-      "titulo": "Rufián reprocha a Nogueras votar \"8 veces con PP y Vox contra el derecho a la vivienda\"",
-      "medio": "20minutos",
-      "url": "https://www.20minutos.es/nacional/rufian-reprocha-nogueras-votar-8-veces-con-pp-vox-contra-derecho-vivienda_7058358_0.html",
-      "fecha": "2026-11-06T17:24+00:00",
-      "partidos": [
-        "pp",
-        "vox"
-      ]
-    },
-    {
-      "titulo": "Encuestas elecciones generales en Baleares: resultados de PP, PSOE y Vox y ganador según los sondeos el 29N",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/baleares/encuestas-elecciones-generales-baleares-resultados-pp-psoe-20261106051500-nt.html",
-      "fecha": "2026-11-06T16:21+00:00",
-      "partidos": [
-        "pp",
-        "psoe",
-        "vox"
-      ]
-    },
-    {
-      "titulo": "García Albiol, claro sobre el programa del PP para las elecciones: «Desokupar viviendas en 48 horas, controlar la inmigración irregular y acabar con la multirreincidencia es de sentido común»",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/cataluna/garcia-albiol-claro-sobre-programa-pp-elecciones-20261106054500-nt.html",
-      "fecha": "2026-11-06T16:19+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "El Gobierno PP-Vox suprime la cooperación al desarrollo en sus nuevos presupuestos",
-      "medio": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/politica/20261106/11678166/gobierno-pp-vox-suprime-cooperacion-desarrollo-nuevos-presupuestos.html",
-      "fecha": "2026-11-06T15:49+00:00",
-      "partidos": [
-        "pp",
-        "vox"
-      ]
-    },
-    {
-      "titulo": "El consejero de Vox promete \"controlar al lobo\" en Castilla y León y devolver los alimentos extranjeros que no cumplan los estándares",
-      "medio": "elDiario.es",
-      "url": "https://www.eldiario.es/castilla-y-leon/politica/consejero-vox-promete-controlar-lobo-castilla-leon-devolver-alimentos-extranjeros-no-cumplan-estandares_1_13640761.html",
-      "fecha": "2026-11-06T14:42+00:00",
-      "partidos": [
-        "vox"
-      ]
-    },
-    {
-      "titulo": "Vox convierte su lema estrella en una canción creada con IA para el 29N",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/vox-convierte-lema-estrella-cancion-creada-ia-20261106151156-nt.html",
-      "fecha": "2026-11-06T14:42+00:00",
-      "partidos": [
-        "vox"
-      ]
-    },
-    {
-      "titulo": "Prohens afronta su segunda prórroga de los Presupuestos al congelar la negociación con Vox",
-      "medio": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/politica/20261106/11678075/prohens-afronta-segunda-prorroga-presupuestos-congelar-negociacion-vox.html",
-      "fecha": "2026-11-06T13:59+00:00",
-      "partidos": [
-        "vox"
-      ]
-    },
-    {
-      "titulo": "El candidato de Podemos en Murcia interrumpe la Feria de Vivienda al grito de ¡fuera buitres!",
-      "medio": "El Mundo",
-      "url": "https://www.elmundo.es/murcia/2026/11/06/6aedd991e9cf4ad56e8b458b.html",
-      "fecha": "2026-11-06T13:47+00:00",
-      "partidos": [
-        "podemos"
-      ]
-    },
-    {
-      "titulo": "El Gobierno ve en la presunta oferta de un millón del PP a Koldo García el \"mayor ataque\" reciente a la democracia",
-      "medio": "Europa Press",
-      "url": "https://www.europapress.es/nacional/noticia-gobierno-ve-presunta-oferta-millon-pp-koldo-garcia-mayor-ataque-reciente-democracia-20261106143229.html",
-      "fecha": "2026-11-06T13:32+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Sánchez abrirá campaña en Sevilla, la única provincia andaluza donde el PSOE se mantiene imbatible",
-      "medio": "El País",
-      "url": "https://elpais.com/espana/elecciones-generales/2026-11-06/sanchez-abrira-campana-en-sevilla-la-unica-provincia-andaluza-donde-el-psoe-se-mantiene-imbatible.html",
-      "fecha": "2026-11-06T13:20+00:00",
-      "partidos": [
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "El PP no vetará a Intxaurrondo para una entrevista en TVE y deja en el aire acudir a 'La Revuelta'",
-      "medio": "El Confidencial",
-      "url": "https://www.elconfidencial.com/espana/2026-11-06/el-pp-no-vetara-a-intxaurrondo-para-una-entrevista-en-tve-y-deja-en-el-aire-acudir-a-la-revuelta_4460447/",
-      "fecha": "2026-11-06T13:17+00:00",
-      "partidos": [
-        "pp"
       ]
     }
   ],
