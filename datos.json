@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-12T13:27+00:00",
+  "actualizado": "2026-11-12T17:30+00:00",
   "temas": [
     {
       "id": "vivienda",
@@ -1994,6 +1994,212 @@
   ],
   "noticias": [
     {
+      "titulo": "PP y Vox tumban las enmiendas totales al presupuesto de la oposición en clave electoral",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/castilla-leon/pp-vox-tumban-enmiendas-totales-presupuesto-oposicion-20261112161308-nt.html",
+      "fecha": "2026-11-12T17:24+00:00",
+      "partidos": [
+        "pp",
+        "vox"
+      ]
+    },
+    {
+      "titulo": "La UCO requiere más información al Tribunal de Cuentas sobre la pieza secreta de la financiación del PSOE",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/uco-requiere-informacion-tribunal-cuentas-sobre-pieza-20261112115444-nt.html",
+      "fecha": "2026-11-12T17:23+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "PP y Vox critican la tramitación de la Ley de Acompañamiento y el PSOE defiende su urgencia",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/castilla-la-mancha/pp-vox-critican-tramitacion-ley-acompanamiento-psoe-20261112182314-nt.html",
+      "fecha": "2026-11-12T17:23+00:00",
+      "partidos": [
+        "pp",
+        "psoe",
+        "vox"
+      ]
+    },
+    {
+      "titulo": "La música de Serrat no logra allanar el camino: el PSOE saca en solitario su ley de dependencia",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/castilla-la-mancha/musica-serrat-logra-allanar-camino-dependencia-psoe-20261112182240-nt.html",
+      "fecha": "2026-11-12T17:22+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "La UCO ve \"vinculación\" entre el PSOE y el exchófer de Sánchez detenido: \"Viene el presidente y tengo reunión con él\"",
+      "medio": "Europa Press",
+      "url": "https://www.europapress.es/nacional/noticia-uco-ve-vinculacion-psoe-exchofer-sanchez-detenido-viene-presidente-tengo-reunion-20261112181938.html",
+      "fecha": "2026-11-12T17:19+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "La Junta Electoral Central corrige a la de Valladolid y declara nulos los votos al PSOE con el nombre de Óscar Puente tachado",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/castilla-y-leon/politica/junta-electoral-central-corrige-valladolid-declara-nulos-votos-psoe-nombre-oscar-puente-tachado_1_13659364.html",
+      "fecha": "2026-11-12T17:06+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "Precampaña elecciones generales en España, en directo: última hora de Pedro Sánchez (PSOE), Feijóo (PP), Abascal (Vox), Ada Colau (Frente Amplio) y resto de candidatos hoy",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/decretos-vivienda-directo-resultado-votacion-medidas-ultima-20261112085110-di.html",
+      "fecha": "2026-11-12T17:04+00:00",
+      "partidos": [
+        "pp",
+        "psoe",
+        "vox",
+        "sumar"
+      ]
+    },
+    {
+      "titulo": "El CIS preelectoral de Tezanos infla al PSOE con hasta 143 escaños y hunde al PP",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/cis-preelectoral-tezanos-infla-psoe-143-escanos-20261112174821-nt.html",
+      "fecha": "2026-11-12T17:00+00:00",
+      "partidos": [
+        "pp",
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "El CIS de Tezanos da ganador al PSOE en Castilla y León",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/castilla-leon/cis-tezanos-ganador-psoe-castilla-leon-20261112175311-nt.html",
+      "fecha": "2026-11-12T16:54+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "Encuestas elecciones generales 29N: resultados de PSOE, PP, Vox y Frente Amplio y ganador según los sondeos",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/encuestas-elecciones-generales-29n-resultados-psoe-pp-20261112050000-nt.html",
+      "fecha": "2026-11-12T16:35+00:00",
+      "partidos": [
+        "pp",
+        "psoe",
+        "vox",
+        "sumar"
+      ]
+    },
+    {
+      "titulo": "Los jóvenes del PP intentan aupar a Feijóo tras la polémica de Jordi Wild y les sale mal: \"No es guay chicos, da vergüenza ajena\"",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/rastreador/jovenes-pp-aupar-feijoo-polemica-jordi-wild-les-sale-mal-no-guay-chicos-da-verguenza_132_13659024.html",
+      "fecha": "2026-11-12T16:34+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "El CIS deja a PP y Vox sin opciones de gobernar, al inicio de la campaña",
+      "medio": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/politica/20261112/11682736/cis-deja-pp-vox-opciones-gobernar-inicio-campana.html",
+      "fecha": "2026-11-12T16:20+00:00",
+      "partidos": [
+        "pp",
+        "vox"
+      ]
+    },
+    {
+      "titulo": "El CIS da la victoria al PSOE con el 33% y niega la mayoría a un pacto de PP-Vox",
+      "medio": "Europa Press",
+      "url": "https://www.europapress.es/nacional/noticia-cis-da-victoria-psoe-33-niega-mayoria-pacto-psoe-vox-20261112171530.html",
+      "fecha": "2026-11-12T16:15+00:00",
+      "partidos": [
+        "pp",
+        "psoe",
+        "vox"
+      ]
+    },
+    {
+      "titulo": "Tezanos da ganador al PSOE (134-143 escaños) y deja al PP segundo (98-106) y a cinco diputados de la mayoría absoluta con Vox",
+      "medio": "El Confidencial",
+      "url": "https://www.elconfidencial.com/espana/2026-11-12/cis-tezanos-elecciones-psoe_4463904/",
+      "fecha": "2026-11-12T16:08+00:00",
+      "partidos": [
+        "pp",
+        "psoe",
+        "vox"
+      ]
+    },
+    {
+      "titulo": "El CIS preelectoral se aleja del resto de encuestas y sitúa a la suma de PP y Vox lejos de la mayoría absoluta",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/politica/cis-preelectoral-aleja-resto-encuestas-situa-suma-pp-vox-lejos-mayoria-absoluta_1_13658236.html",
+      "fecha": "2026-11-12T16:05+00:00",
+      "partidos": [
+        "pp",
+        "vox"
+      ]
+    },
+    {
+      "titulo": "Lula viajará a España la próxima semana y protagonizará un acto de campaña junto a Pedro Sánchez",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/politica/lula-viajara-espana-proxima-semana-protagonizara-acto-campana-pedro-sanchez_1_13659178.html",
+      "fecha": "2026-11-12T15:58+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "El Gobierno de PP y Vox en Castilla y León obliga a firmar un compromiso 'antiideológico' a los cineastas que piden una subvención para cortometrajes",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/castilla-y-leon/politica/junta-castilla-leon-obliga-firmar-compromiso-anti-ideologico-cineastas-piden-subvencion-cortometrajes_1_13659056.html",
+      "fecha": "2026-11-12T15:53+00:00",
+      "partidos": [
+        "pp",
+        "vox"
+      ]
+    },
+    {
+      "titulo": "Un juez investiga a un cargo de Vox en Mallorca por el uso particular de tres coches oficiales",
+      "medio": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/politica/20261112/11682621/juez-investiga-cargo-vox-mallorca-particular-tres-coches-oficiales.html",
+      "fecha": "2026-11-12T15:07+00:00",
+      "partidos": [
+        "vox"
+      ]
+    },
+    {
+      "titulo": "El ‘error Wild’ de Vox: Abascal tropieza ante el grupo de votantes que más lo apoya",
+      "medio": "El País",
+      "url": "https://elpais.com/espana/2026-11-12/el-error-wild-de-vox-abascal-tropieza-ante-el-grupo-de-votantes-que-mas-lo-apoya.html",
+      "fecha": "2026-11-12T15:02+00:00",
+      "partidos": [
+        "vox"
+      ]
+    },
+    {
+      "titulo": "Leire Díez denuncia en un libro con decenas de grabaciones seis años de \"guerra sucia\" de una \"mafia\" policial y mediática al servicio del PP",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/politica/leire-diez-denuncia-libro-decenas-grabaciones-seis-anos-guerra-sucia-mafia-policial-mediatica-servicio-pp_1_13656904.html",
+      "fecha": "2026-11-12T14:51+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "Frente Amplio propone una regulación para legalizar la huelga de alquileres",
+      "medio": "Europa Press",
+      "url": "https://www.europapress.es/nacional/noticia-frente-amplio-propone-regulacion-legalizar-huelga-alquileres-20261112145228.html",
+      "fecha": "2026-11-12T13:52+00:00",
+      "partidos": [
+        "sumar"
+      ]
+    },
+    {
       "titulo": "Feijóo, 90 minutos de entrevista con Jordi Wild y preguntas “exigentes, duras y valientes”",
       "medio": "La Vanguardia",
       "url": "https://www.lavanguardia.com/politica/20261112/11682568/feijoo-90-minutos-entrevista-jordi-wild-preguntas-exigentes-duras-valientes.html",
@@ -2025,6 +2231,15 @@
       "medio": "El País",
       "url": "https://elpais.com/espana/2026-11-12/la-uco-acude-al-tribunal-de-cuentas-por-la-investigacion-sobre-los-pagos-en-efectivo-en-el-psoe.html",
       "fecha": "2026-11-12T12:57+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "Ferraz ya confirma que Zapatero no participará en la campaña de Sánchez: \"Dijo que haría lo mejor para el partido\"",
+      "medio": "20minutos",
+      "url": "https://www.20minutos.es/nacional/ferraz-ya-confirma-que-zapatero-no-participara-campana-sanchez-dijo-que-haria-mejor-para-partido_7060205_0.html",
+      "fecha": "2026-11-12T12:49+00:00",
       "partidos": [
         "psoe"
       ]
@@ -2080,6 +2295,16 @@
       "url": "https://www.europapress.es/nacional/noticia-uco-acude-tribunal-cuentas-informacion-presuntas-irregularidades-donaciones-psoe-20261112125251.html",
       "fecha": "2026-11-12T11:52+00:00",
       "partidos": [
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "El PP estalla contra el Gobierno tras el escándalo de Igualdad y de las donaciones al PSOE: \"Han corrompido todo\"",
+      "medio": "El Confidencial",
+      "url": "https://www.elconfidencial.com/espana/2026-11-12/el-pp-estalla-contra-el-gobierno-tras-el-escandalo-de-igualdad-y-de-las-donaciones-al-psoe_4463554/",
+      "fecha": "2026-11-12T11:44+00:00",
+      "partidos": [
+        "pp",
         "psoe"
       ]
     },
@@ -4562,220 +4787,6 @@
       "fecha": "2026-11-08T13:17+00:00",
       "partidos": [
         "psoe"
-      ]
-    },
-    {
-      "titulo": "Sánchez avisa al \"sheriff del mundo\" de que \"lo que pasa en España se decide en España\" y acusa a Feijóo y Abascal de tragar \"con todo\"",
-      "medio": "El Confidencial",
-      "url": "https://www.elconfidencial.com/espana/2026-11-08/sanchez-psoe-trump-eeuu-feijoo-elecciones-29-n_4461274/",
-      "fecha": "2026-11-08T13:09+00:00",
-      "partidos": [
-        "pp",
-        "vox"
-      ]
-    },
-    {
-      "titulo": "Sánchez pide un \"voto en masa contra la involución\" de PP y Vox: \"Feijóo no es más triste porque no quiere\"",
-      "medio": "elDiario.es",
-      "url": "https://www.eldiario.es/euskadi/sanchez-pide-voto-masa-involucion-pp-vox-feijoo-no-triste-no-quiere_1_13647215.html",
-      "fecha": "2026-11-08T12:59+00:00",
-      "partidos": [
-        "pp",
-        "vox"
-      ]
-    },
-    {
-      "titulo": "Feijóo pide en Málaga un “apoyo fuerte” para un “cambio claro y rotundo”",
-      "medio": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/politica/20261108/11679252/feijoo-pide-malaga-apoyo-fuerte-cambio-claro-rotundo.html",
-      "fecha": "2026-11-08T12:54+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Colau apela al voto útil frente a un PSOE al que le “tiemblan las piernas” ante los poderosos",
-      "medio": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/politica/20261108/11679247/colau-apela-voto-util-frente-psoe-le-tiemblan-piernas-poderosos.html",
-      "fecha": "2026-11-08T12:54+00:00",
-      "partidos": [
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "Feijóo carga contra Sánchez: \"Menos mirar a Trump y más mirar los trenes, que este país está colapsado\"",
-      "medio": "El Confidencial",
-      "url": "https://www.elconfidencial.com/espana/2026-11-08/feijoo-mitin-moreno-malaga-precampana-elecciones_4461271/",
-      "fecha": "2026-11-08T12:45+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Sánchez advierte que si PP y Vox gobiernan se plegarán a Trump: “Estos tragan con todo”",
-      "medio": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/politica/20261108/11679248/sanchez-advierte-pp-vox-gobiernan-plegaran-trump-tragan.html",
-      "fecha": "2026-11-08T12:42+00:00",
-      "partidos": [
-        "pp",
-        "vox"
-      ]
-    },
-    {
-      "titulo": "Feijóo tacha a Sánchez de \"personaje de cartón piedra\" y le pide \"menos mirar a Trump y más a los trenes\"",
-      "medio": "elDiario.es",
-      "url": "https://www.eldiario.es/politica/feijoo-tacha-sanchez-personaje-carton-piedra-le-pide-mirar-trump-mirar-trenes_1_13647717.html",
-      "fecha": "2026-11-08T12:40+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Los ministros Bolaños, Robles, Marlaska y López se unen para tratar de captar a los votantes que no son del PSOE en su primer acto de campaña sin Sánchez",
-      "medio": "El Mundo",
-      "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/08/6af05068fc6c83f83b8b4571.html",
-      "fecha": "2026-11-08T11:16+00:00",
-      "partidos": [
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "Frente Amplio quiere subir más el SMI y Emilio Delgado carga contra la derecha: Sus políticas \"fomentan la delincuencia\"",
-      "medio": "Europa Press",
-      "url": "https://www.europapress.es/nacional/noticia-frente-amplio-quiere-subir-mas-smi-emilio-delgado-carga-contra-derecha-politicas-fomentan-delincuencia-20261108115958.html",
-      "fecha": "2026-11-08T10:59+00:00",
-      "partidos": [
-        "sumar"
-      ]
-    },
-    {
-      "titulo": "Abascal tacha de \"burda mentira\" que Vox quiera privatizar las pensiones",
-      "medio": "20minutos",
-      "url": "https://www.20minutos.es/nacional/santiago-abascal-burda-mentira-vox-privatizar-pensiones_7058643_0.html",
-      "fecha": "2026-11-08T10:49+00:00",
-      "partidos": [
-        "vox"
-      ]
-    },
-    {
-      "titulo": "Puigdemont reaparece en Prats de Molló",
-      "medio": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/politica/20261108/11679199/puigdemont-reaparece-prats-mollo.html",
-      "fecha": "2026-11-08T10:38+00:00",
-      "partidos": [
-        "junts"
-      ]
-    },
-    {
-      "titulo": "El hito histórico de Jordi Wild: así serán las entrevistas a Sánchez, Feijóo, Abascal y Colau en plena campaña del 29-N",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/entrevistas-jordi-wild-sanchez-feijoo-abascal-colau-20261026104234-nt.html",
-      "fecha": "2026-11-08T10:36+00:00",
-      "partidos": [
-        "pp",
-        "vox"
-      ]
-    },
-    {
-      "titulo": "Vox presenta su lema \"Sentido común\" basado en prioridad nacional, desregulación y remigración",
-      "medio": "El Confidencial",
-      "url": "https://www.elconfidencial.com/espana/2026-11-08/vox-campana-elecciones-generales-abascal-1tps_4461223/",
-      "fecha": "2026-11-08T10:05+00:00",
-      "partidos": [
-        "vox"
-      ]
-    },
-    {
-      "titulo": "Vox apuesta por el \"sentido común\" como lema para el 29-N con el foco en la prioridad nacional, la desregulación y la remigración",
-      "medio": "20minutos",
-      "url": "https://www.20minutos.es/nacional/vox-apuesta-por-sentido-comun-como-lema-para-29-n-con-foco-prioridad-nacional-desregulacion-remigracion_7058617_0.html",
-      "fecha": "2026-11-08T10:03+00:00",
-      "partidos": [
-        "vox"
-      ]
-    },
-    {
-      "titulo": "Rodríguez Ibarra: \"El PSOE en estos momentos es un partido sin sustancia, sin peso, enclenque y encogido\"",
-      "medio": "Europa Press",
-      "url": "https://www.europapress.es/nacional/noticia-rodriguez-ibarra-psoe-momentos-partido-sustancia-peso-enclenque-encogido-20261108105948.html",
-      "fecha": "2026-11-08T09:59+00:00",
-      "partidos": [
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "Feijóo plantea que cuidar desgrave: deducción del 40% al pagar a un profesional para atender a un mayor dependiente",
-      "medio": "20minutos",
-      "url": "https://www.20minutos.es/nacional/feijoo-plantea-que-cuidar-desgrave-deduccion-40-pagar-un-profesional-para-atender-un-mayor-dependiente_7058630_0.html",
-      "fecha": "2026-11-08T09:58+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Feijóo aspira a una mayoría \"cómoda\": \"Hacer una coalición de Gobierno con Vox no depende de mí\"",
-      "medio": "Europa Press",
-      "url": "https://www.europapress.es/nacional/noticia-feijoo-aspira-mayoria-comoda-hacer-coalicion-gobierno-vox-no-depende-20261108102937.html",
-      "fecha": "2026-11-08T09:29+00:00",
-      "partidos": [
-        "pp",
-        "vox"
-      ]
-    },
-    {
-      "titulo": "El dilema de Frente Amplio en campaña: diferenciarse del PSOE a sabiendas de que será un socio inevitable tras el 29N",
-      "medio": "20minutos",
-      "url": "https://www.20minutos.es/nacional/dilema-frente-amplio-campana-diferenciarse-psoe-sabiendas-que-sera-un-socio-inevitable-tras-29n_7057846_0.html",
-      "fecha": "2026-11-08T06:53+00:00",
-      "partidos": [
-        "psoe",
-        "sumar"
-      ]
-    },
-    {
-      "titulo": "Pedro Sánchez: “El partido lo vamos a ganar, pero aún no está ganado”",
-      "medio": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/politica/20261108/11678804/pedro-sanchez-partido-ganar-aun-esta-ganado.html",
-      "fecha": "2026-11-08T05:00+00:00",
-      "partidos": [
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "Alberto Núñez Feijóo: “Hacer una coalición de Gobierno con Vox no depende de mí”",
-      "medio": "El País",
-      "url": "https://elpais.com/espana/2026-11-08/alberto-nunez-feijoo-hacer-una-coalicion-de-gobierno-con-vox-no-depende-de-mi.html",
-      "fecha": "2026-11-08T04:30+00:00",
-      "partidos": [
-        "pp",
-        "vox"
-      ]
-    },
-    {
-      "titulo": "Las ‘ranas’ de Aguirre y otros acusados de corrupción del PP se benefician del colapso de la Audiencia Nacional",
-      "medio": "El País",
-      "url": "https://elpais.com/espana/2026-11-08/las-ranas-de-aguirre-y-otros-acusados-de-corrupcion-del-pp-se-benefician-del-colapso-de-la-audiencia-nacional.html",
-      "fecha": "2026-11-08T04:30+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Sánchez busca movilizar el voto en Cataluña, una plaza \"decisiva\" en la que también se vuelca el PP",
-      "medio": "El Mundo",
-      "url": "https://www.elmundo.es/cataluna/2026/11/08/6aef6799e85ece1d568b457d.html",
-      "fecha": "2026-11-08T00:17+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "El PP promete restaurar el Premio Nacional de Tauromaquia y dar más \"protección\" legal y más \"proyección\" económica a los toros",
-      "medio": "El Mundo",
-      "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/08/6aef6c95e85eceea168b457d.html",
-      "fecha": "2026-11-08T00:17+00:00",
-      "partidos": [
-        "pp"
       ]
     }
   ],
