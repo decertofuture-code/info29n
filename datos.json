@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-11T20:14+00:00",
+  "actualizado": "2026-11-12T02:12+00:00",
   "temas": [
     {
       "id": "vivienda",
@@ -1994,6 +1994,142 @@
   ],
   "noticias": [
     {
+      "titulo": "Feijóo abre su campaña en Cataluña centrado en la inmigración y la okupación",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/cataluna/feijoo-abre-campana-cataluna-centrado-inmigracion-okupacion-20261111020522-nt.html",
+      "fecha": "2026-11-12T01:05+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "La estrategia mediática de Feijóo: «Buscar votos en todas partes»",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/estrategia-mediatica-feijoo-buscar-votos-partes-20261112013535-nt.html",
+      "fecha": "2026-11-12T00:51+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "Puigdemont ultima su retorno para el 12 de diciembre",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/cataluna/puigdemont-ultima-retorno-diciembre-20261111013624-nt.html",
+      "fecha": "2026-11-12T00:36+00:00",
+      "partidos": [
+        "junts"
+      ]
+    },
+    {
+      "titulo": "Sánchez abre campaña en Sevilla ante el peligro de perder el último bastión histórico del PSOE",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/sanchez-abre-campana-sevilla-ante-peligro-perder-20261112013554-nt.html",
+      "fecha": "2026-11-12T00:36+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "Excachorros de Bildu apalizaron a los militares en Berriozar durante el Mundial",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/navarra/cachorros-bildu-apalizaron-militares-berriozar-mundial-20261108012850-nt.html",
+      "fecha": "2026-11-12T00:28+00:00",
+      "partidos": [
+        "bildu"
+      ]
+    },
+    {
+      "titulo": "Decretos de vivienda, en directo | El Congreso aprueba este jueves el decreto de vivienda que el PP promete derogar si gobierna",
+      "medio": "20minutos",
+      "url": "https://www.20minutos.es/nacional/decretos-vivienda-directo-congreso-aprueba-este-jueves-decreto-vivienda-que-pp-promete-derogar-si-gobierna_7059901_6.html",
+      "fecha": "2026-11-12T00:08+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "La desesperada lucha de Frente Amplio contra el voto útil al PSOE: \"Sólo nos queda votar 'al Perro' y cruzar los dedos\"",
+      "medio": "El Mundo",
+      "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/11/6af352d121efa0855e8b45aa.html",
+      "fecha": "2026-11-11T22:52+00:00",
+      "partidos": [
+        "psoe",
+        "sumar"
+      ]
+    },
+    {
+      "titulo": "Feijóo se examina en “El Hormiguero”",
+      "medio": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/politica/20261111/11681968/feijoo-examina-hormiguero.html",
+      "fecha": "2026-11-11T22:44+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "Feijóo promete derogar decretos de vivienda si gobierna y subir pensiones conforme IPC: \"No jugaré con los pensionistas\"",
+      "medio": "Europa Press",
+      "url": "https://www.europapress.es/nacional/noticia-feijoo-promete-derogar-decretos-vivienda-si-gobierna-subir-pensiones-conforme-ipc-no-jugare-pensionistas-20261111232434.html",
+      "fecha": "2026-11-11T22:24+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "Todo le viene bien a Feijóo",
+      "medio": "El Mundo",
+      "url": "https://www.elmundo.es/espana/2026/11/11/6af4e6e021efa0af778b456e.html",
+      "fecha": "2026-11-11T22:13+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "Feijóo acusa a Sánchez de gastar \"un billón de euros\" sin PGE y estudiará la responsabilidad penal si hay falsedad en las cuentas",
+      "medio": "20minutos",
+      "url": "https://www.20minutos.es/nacional/feijoo-acusa-sanchez-gastar-un-billon-euros-sin-pge-estudiara-responsabilidad-penal-si-hay-falsedad-las-cuentas_7059993_0.html",
+      "fecha": "2026-11-11T22:11+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "Feijóo espera de partidos y sindicatos una condena de la agresión a dos afiliados del PP en Barakaldo",
+      "medio": "El Mundo",
+      "url": "https://www.elmundo.es/espana/2026/11/11/6af4e0aae4d4d84a5d8b45b5.html",
+      "fecha": "2026-11-11T21:44+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "Agreden a dos miembros del PP vasco en Barakaldo durante la huelga general",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/pais-vasco/agreden-dos-miembros-pp-vasco-barakaldo-huelga-20261111211258-nt.html",
+      "fecha": "2026-11-11T20:41+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "El PP condena la agresión a Miguel y Daniel, dos miembros de Nuevas Generaciones, en el 11-N: \"Ni un paso atrás ante los violentos\"",
+      "medio": "20minutos",
+      "url": "https://www.20minutos.es/nacional/pp-condena-agresion-miguel-daniel-dos-miembros-nuevas-generaciones-29-n-ni-un-paso-atras-ante-los-violentos_7059970_0.html",
+      "fecha": "2026-11-11T20:39+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "Abascal entona el “visca Catalunya” en busca de triplicar escaños",
+      "medio": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/politica/20261111/11681824/abascal-entona-visca-catalunya-busca-triplicar-escanos.html",
+      "fecha": "2026-11-11T20:20+00:00",
+      "partidos": [
+        "vox"
+      ]
+    },
+    {
       "titulo": "El Gobierno expresa máximo respeto por quienes han secundado el paro y condena la actitud del PP durante la jornada",
       "medio": "Europa Press",
       "url": "https://www.europapress.es/nacional/noticia-gobierno-expresa-maximo-respeto-quienes-secundado-paro-condena-actitud-pp-jornada-20261111211130.html",
@@ -2009,6 +2145,15 @@
       "fecha": "2026-11-11T19:59+00:00",
       "partidos": [
         "pp"
+      ]
+    },
+    {
+      "titulo": "Abascal sigue explotando el filón de La Revuelta: \"Broncano pide perdón porque al que iban a fusilar salió vivo\"",
+      "medio": "El Mundo",
+      "url": "https://www.elmundo.es/cataluna/2026/11/11/6af4c868fc6c83d6248b4590.html",
+      "fecha": "2026-11-11T19:58+00:00",
+      "partidos": [
+        "vox"
       ]
     },
     {
@@ -4631,157 +4776,6 @@
       "partidos": [
         "pp",
         "psoe"
-      ]
-    },
-    {
-      "titulo": "\"Putos rojos\": la sede del PSOE en Rincón de la Victoria (Málaga) amanece con pintadas nazis e insultos",
-      "medio": "elDiario.es",
-      "url": "https://www.eldiario.es/andalucia/putos-rojos-sede-psoe-rincon-victoria-malaga-amanece-pintadas-nazis-e-insultos_1_13646215.html",
-      "fecha": "2026-11-07T11:00+00:00",
-      "partidos": [
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "Feijóo promete que ninguna comunidad tendrá financiación singular como la pactada por Sánchez con Cataluña",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/andalucia/feijoo-promete-ninguna-comunidad-financiacion-singular-pactada-20261107112344-nts.html",
-      "fecha": "2026-11-07T10:53+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Precampaña elecciones generales en España, en directo: última hora de Pedro Sánchez (PSOE), Feijóo (PP), Abascal (Vox), Ada Colau (Frente Amplio) y resto de candidatos hoy",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/precampana-elecciones-generales-espana-directo-ultima-hora-20261106115927-di.html",
-      "fecha": "2026-11-07T10:27+00:00",
-      "partidos": [
-        "pp",
-        "psoe",
-        "vox",
-        "sumar"
-      ]
-    },
-    {
-      "titulo": "El PP critica que Sánchez no vaya al funeral religioso por las víctimas pero use al Papa cuando le conviene",
-      "medio": "Europa Press",
-      "url": "https://www.europapress.es/nacional/noticia-pp-critica-sanchez-no-vaya-funeral-religioso-victimas-use-papa-cuando-le-conviene-20261107110315.html",
-      "fecha": "2026-11-07T10:03+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "PNV defiende unos Presupuestos \"récord, porque el país funciona\", mientras EH Bildu cree que \"se queda corto\"",
-      "medio": "Europa Press",
-      "url": "https://www.europapress.es/nacional/noticia-pnv-defiende-presupuestos-record-porque-pais-funciona-mientras-eh-bildu-cree-queda-corto-20261107101711.html",
-      "fecha": "2026-11-07T09:17+00:00",
-      "partidos": [
-        "bildu",
-        "pnv"
-      ]
-    },
-    {
-      "titulo": "Feijóo promete que ninguna CCAA tendrá una financiación singular como la pactada para Cataluña entre Sánchez y ERC",
-      "medio": "Europa Press",
-      "url": "https://www.europapress.es/nacional/noticia-feijoo-promete-ninguna-ccaa-tendra-financiacion-singular-pactada-cataluna-sanchez-erc-20261107092957.html",
-      "fecha": "2026-11-07T08:29+00:00",
-      "partidos": [
-        "pp",
-        "erc"
-      ]
-    },
-    {
-      "titulo": "Rocío de Meer (Vox): \"Hay 13 millones de personas en riesgo de pobreza bajo un Gobierno que se vanagloria de escudo social\"",
-      "medio": "20minutos",
-      "url": "https://www.20minutos.es/nacional/rocio-meer-vox-hay-13-millones-personas-riesgo-pobreza-bajo-un-gobierno-que-se-vanagloria-escudo-social_7057160_0.html",
-      "fecha": "2026-11-07T06:50+00:00",
-      "partidos": [
-        "vox"
-      ]
-    },
-    {
-      "titulo": "La campaña que Sánchez quiso adelantar se le complica al PSOE entre la crisis ferroviaria y la presunta corrupción",
-      "medio": "20minutos",
-      "url": "https://www.20minutos.es/nacional/campana-que-sanchez-quiso-adelantar-se-le-complica-psoe-entre-crisis-ferroviaria-presunta-corrupcion_7057740_0.html",
-      "fecha": "2026-11-07T06:43+00:00",
-      "partidos": [
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "Abascal echa un pulso a Feijóo en València",
-      "medio": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/local/valencia/20261107/11678122/abascal-echa-pulso-feijoo-valencia.html",
-      "fecha": "2026-11-07T04:30+00:00",
-      "partidos": [
-        "pp",
-        "vox"
-      ]
-    },
-    {
-      "titulo": "¿No todos son iguales? De Marlaska a la gerente del PSOE y la SEPI: las doce dimisiones que no llegaron",
-      "medio": "El Confidencial",
-      "url": "https://www.elconfidencial.com/espana/2026-11-07/dimisiones-psoe-nunca-llegaron-marlaska-gerente-sepi_4459019/",
-      "fecha": "2026-11-07T04:00+00:00",
-      "partidos": [
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "El PP prohibirá que la Abogacía del Estado defienda \"los intereses particulares\" de altos cargos tras el escándalo de García Ortiz",
-      "medio": "El Mundo",
-      "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/06/6aee347ce85ece452b8b458d.html",
-      "fecha": "2026-11-06T21:46+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "José Ignacio García, líder de Adelante Andalucía: \"Para qué sirve la izquierda si vamos todos en la papeleta del PSOE\"",
-      "medio": "El Mundo",
-      "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/06/6aeb009c21efa02d2f8b4597.html",
-      "fecha": "2026-11-06T21:46+00:00",
-      "partidos": [
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "Sánchez reinicia la campaña con la \"ejemplaridad\" de Puente como antítesis de la política de PP y Vox",
-      "medio": "elDiario.es",
-      "url": "https://www.eldiario.es/politica/sanchez-reinicia-campana-ejemplaridad-puente-antitesis-politica-pp-vox_1_13644941.html",
-      "fecha": "2026-11-06T21:22+00:00",
-      "partidos": [
-        "pp",
-        "vox"
-      ]
-    },
-    {
-      "titulo": "Alberto Durán, el todopoderoso abogado del PP en horas bajas señalado por Koldo",
-      "medio": "elDiario.es",
-      "url": "https://www.eldiario.es/politica/alberto-duran-todopoderoso-abogado-pp-horas-bajas-senalado-koldo_1_13644732.html",
-      "fecha": "2026-11-06T21:22+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Andalucía destina a sanidad 780 euros más por habitante que con el PSOE",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/andalucia/andalucia-destina-sanidad-780-euros-habitante-psoe-20261107220200-nts.html",
-      "fecha": "2026-11-06T21:02+00:00",
-      "partidos": [
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "El PP dice que Óscar Puente está \"donde siempre debió estar: en su casa\" y tacha su Ministerio de \"museo de horrores\"",
-      "medio": "20minutos",
-      "url": "https://www.20minutos.es/nacional/pp-dice-oscar-puente-esta-donde-siempre-debio-estar-casa-tacha-ministerio-museo-horrores_7058415_0.html",
-      "fecha": "2026-11-06T20:31+00:00",
-      "partidos": [
-        "pp"
       ]
     }
   ],
