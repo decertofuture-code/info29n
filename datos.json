@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-12T02:12+00:00",
+  "actualizado": "2026-11-12T13:27+00:00",
   "temas": [
     {
       "id": "vivienda",
@@ -1994,6 +1994,288 @@
   ],
   "noticias": [
     {
+      "titulo": "Feijóo, 90 minutos de entrevista con Jordi Wild y preguntas “exigentes, duras y valientes”",
+      "medio": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/politica/20261112/11682568/feijoo-90-minutos-entrevista-jordi-wild-preguntas-exigentes-duras-valientes.html",
+      "fecha": "2026-11-12T13:05+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "Abascal dice que “eliminará o reducirá drásticamente” la financiación a los sindicatos si llega al Gobierno",
+      "medio": "El País",
+      "url": "https://elpais.com/espana/elecciones-generales/2026-11-12/abascal-dice-que-eliminara-o-reducira-al-maximo-la-financiacion-a-los-sindicatos-si-llega-al-gobierno.html",
+      "fecha": "2026-11-12T13:01+00:00",
+      "partidos": [
+        "vox"
+      ]
+    },
+    {
+      "titulo": "El PP ve \"de nuevo\" al Gobierno \"a tortas\" con ministros pidiendo que se eche a Marlaska por las cargas de la huelga",
+      "medio": "Europa Press",
+      "url": "https://www.europapress.es/nacional/noticia-pp-ve-nuevo-gobierno-tortas-ministros-pidiendo-eche-marlaska-cargas-huelga-20261112140041.html",
+      "fecha": "2026-11-12T13:00+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "La UCO acude al Tribunal de Cuentas por la investigación sobre los pagos en efectivo en el PSOE",
+      "medio": "El País",
+      "url": "https://elpais.com/espana/2026-11-12/la-uco-acude-al-tribunal-de-cuentas-por-la-investigacion-sobre-los-pagos-en-efectivo-en-el-psoe.html",
+      "fecha": "2026-11-12T12:57+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "Un teniente de alcalde del PP en La Rioja insulta a la concejala de la oposición en el pleno: \"La única tonta y sinvergüenza eres tú\"",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/la-rioja/teniente-alcalde-pp-rioja-insulta-concejala-oposicion-pleno-unica-tonta-sinverguenza_1_13657639.html",
+      "fecha": "2026-11-12T12:44+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "El BNG también quiere sentarse en el sofá de Broncano: pide ir a 'La Revuelta' en plena campaña del 29N",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/galicia/bng-quiere-sentarse-sofa-broncano-pide-revuelta-20261112133853-nt.html",
+      "fecha": "2026-11-12T12:38+00:00",
+      "partidos": [
+        "bng"
+      ]
+    },
+    {
+      "titulo": "El Gobierno pierde en el Congreso su decimocuarto decreto ley y el PSOE suma ya 42 derrotas de leyes en esta legislatura",
+      "medio": "Europa Press",
+      "url": "https://www.europapress.es/nacional/noticia-gobierno-pierde-congreso-decimocuarto-decreto-ley-psoe-suma-ya-42-derrotas-leyes-legislatura-20261112132812.html",
+      "fecha": "2026-11-12T12:28+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "La UCO requiere información al Tribunal de Cuentas sobre las cuentas del PSOE",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/politica/uco-requiere-informacion-tribunal-cuentas-cuentas-psoe_1_13658082.html",
+      "fecha": "2026-11-12T12:18+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "La negativa de Vox a acudir al programa de Jordi Wild amenaza con volverse contra Abascal",
+      "medio": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/politica/20261112/11682469/negativa-vox-acudir-progama-jordi-wild-amenaza-volverse-abascal.html",
+      "fecha": "2026-11-12T11:55+00:00",
+      "partidos": [
+        "vox"
+      ]
+    },
+    {
+      "titulo": "La UCO acude al Tribunal de Cuentas a por información sobre presuntas irregularidades en donaciones al PSOE",
+      "medio": "Europa Press",
+      "url": "https://www.europapress.es/nacional/noticia-uco-acude-tribunal-cuentas-informacion-presuntas-irregularidades-donaciones-psoe-20261112125251.html",
+      "fecha": "2026-11-12T11:52+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "Agentes de la UCO acuden al Tribunal de Cuentas por la pieza de financiación del PSOE",
+      "medio": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/politica/20261112/11682461/agentes-uco-acuden-tribunal-cuentas-pieza-financiacion-poe.html",
+      "fecha": "2026-11-12T11:43+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "El PP acusa a Sánchez de ser el presidente \"más dañino para las mujeres\" tras el registro de la UCO por las pulseras antimaltrato",
+      "medio": "20minutos",
+      "url": "https://www.20minutos.es/nacional/pp-acusa-sanchez-ser-presidente-mas-danino-para-las-mujeres-tras-registro-uco-por-las-pulseras-antimaltrato_7060204_0.html",
+      "fecha": "2026-11-12T11:43+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "Rufián estalla contra Junts tras ser llamado “maltratador emocional” por Cruset",
+      "medio": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/politica/20261112/11682449/rufian-estalla-junts-insulto-maltratador-emocional-cruset.html",
+      "fecha": "2026-11-12T11:35+00:00",
+      "partidos": [
+        "junts"
+      ]
+    },
+    {
+      "titulo": "La UCO acude al Tribunal de Cuentas para requerir información sobre las donaciones del PSOE por orden del juez del caso Koldo",
+      "medio": "20minutos",
+      "url": "https://www.20minutos.es/nacional/uco-accede-tribunal-cuentas-busca-informacion-donaciones-psoe_7060209_0.html",
+      "fecha": "2026-11-12T11:31+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "Del \"se caga encima\" del 'Xokas' al \"les vamos a canear\" de Vito Quiles: influencers ultras cargan contra Abascal por no ir a la entrevista de Jordi Wild",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/rastreador/les-canear-vito-quiles-caga-xokas-influencers-ultras-cargan-abascal-no-entrevista-jordi-wild_132_13657452.html",
+      "fecha": "2026-11-12T11:23+00:00",
+      "partidos": [
+        "vox"
+      ]
+    },
+    {
+      "titulo": "Las reacciones de los youtubers decepcionados con Vox tras su cancelación con Jordi Wild: \"Si sois tan tontos de tomar esta decisión, ¿qué vais a hacer en el Gobierno?\"",
+      "medio": "El Mundo",
+      "url": "https://www.elmundo.es/espana/2026/11/12/6af5836021efa092738b459f.html",
+      "fecha": "2026-11-12T11:19+00:00",
+      "partidos": [
+        "vox"
+      ]
+    },
+    {
+      "titulo": "Sánchez se echa la campaña a cuestas como gran “movilizador” del PSOE sin Zapatero ni Puente",
+      "medio": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/politica/20261112/11682396/sanchez-echa-campana-cuestas-gran-movilizador-psoe-zapatero-puente.html",
+      "fecha": "2026-11-12T11:03+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "Abascal justifica el plantón a Jordi Wild como \"decisión estratégica\" y se disculpa con él: \"Ha sido la víctima de un error nuestro\"",
+      "medio": "20minutos",
+      "url": "https://www.20minutos.es/nacional/abascal-responde-comunicado-jordi-wild-tras-cancelar-entrevista-siento-pero-es-una-decision-firme-estrategica_7060136_0.html",
+      "fecha": "2026-11-12T10:43+00:00",
+      "partidos": [
+        "vox"
+      ]
+    },
+    {
+      "titulo": "La coalición de PP y Vox en Aragón premia con 60.000 euros a una asociación venezolana cuyo presidente equipara la izquierda con la \"mafia\"",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/aragon/politica/azcon-premia-60-000-euros-asociacion-venezolana-cuyo-presidente-equipara-izquierda-mafia_1_13657337.html",
+      "fecha": "2026-11-12T10:33+00:00",
+      "partidos": [
+        "pp",
+        "vox"
+      ]
+    },
+    {
+      "titulo": "Junts pide a Illa que aplace la Comisión Bilateral prevista para hoy hasta después del 29-N",
+      "medio": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/politica/20261112/11682294/junts-pide-illa-aplace-comision-bilateral-prevista-hoy-29-n.html",
+      "fecha": "2026-11-12T09:36+00:00",
+      "partidos": [
+        "junts"
+      ]
+    },
+    {
+      "titulo": "Rufián ve \"excesiva\" la actuación policial en la huelga, culpa al PSOE e insiste en la dimisión de Marlaska",
+      "medio": "Europa Press",
+      "url": "https://www.europapress.es/nacional/noticia-rufian-ve-excesiva-actuacion-policial-huelga-culpa-psoe-insiste-dimision-marlaska-20261112101335.html",
+      "fecha": "2026-11-12T09:13+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "El alcalde del PP de Torrijos se burla de los \"comegambas\" que secundaron la huelga general por la vivienda",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/castilla-la-mancha/politica/alcalde-pp-torrijos-burla-comegambas-secundaron-huelga-general_1_13657048.html",
+      "fecha": "2026-11-12T09:04+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "Jordi Wild denuncia que Abascal cancele su entrevista para \"minimizar riesgos\" tras su participación en 'La Revuelta'",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/politica/jordi-wild-denuncia-abascal-cancele-entrevista-minimizar-riesgos-salir-reforzado-revuelta_1_13656948.html",
+      "fecha": "2026-11-12T08:35+00:00",
+      "partidos": [
+        "vox"
+      ]
+    },
+    {
+      "titulo": "La Guardia Civil ve indicios de tres delitos en las obras de un CAR de la Región de Murcia con un alto cargo del Gobierno del PP investigado",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/murcia/politica/guardia-civil-ve-indicios-tres-delitos-obras-car-region-murcia-alto-cargo-pp-investigado_1_13642998.html",
+      "fecha": "2026-11-12T08:20+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "“Se ha cagado”: los ‘youtubers’ reaccionan al plantón de Abascal con Jordi Wild y la órbita de Vox lanza teorías conspiranoicas",
+      "medio": "El País",
+      "url": "https://elpais.com/espana/elecciones-generales/2026-11-12/se-ha-cagado-los-youtubers-reaccionan-al-planton-de-abascal-con-jordi-wild-y-la-orbita-de-vox-lanza-teorias-conspiranoicas.html",
+      "fecha": "2026-11-12T08:11+00:00",
+      "partidos": [
+        "vox"
+      ]
+    },
+    {
+      "titulo": "Frente Amplio exige a Sánchez el cese de Marlaska por las cargas policiales durante la huelga general",
+      "medio": "Europa Press",
+      "url": "https://www.europapress.es/nacional/noticia-frente-amplio-exige-sanchez-cese-marlaska-dice-presidente-sera-responsable-si-mantiene-20261112090323.html",
+      "fecha": "2026-11-12T08:03+00:00",
+      "partidos": [
+        "sumar"
+      ]
+    },
+    {
+      "titulo": "Leire Díez dice también que le ofrecieron dos millones por inventarse acusaciones contra Pedro Sánchez",
+      "medio": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/politica/20261112/11682212/leire-diez-dice-le-ofrecieron-dos-millones-inventarse-acusaciones-pedro-sanchez.html",
+      "fecha": "2026-11-12T07:57+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "Leire Díez afirma que abogados afines al PP le ofrecieron dos millones por mentir contra Sánchez",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/politica/leire-diez-afirma-abogados-afines-pp-le-ofrecieron-millones-mentir-sanchez_1_13656894.html",
+      "fecha": "2026-11-12T07:00+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "Néstor Rego, candidato del BNG: “PP y PSOE llevan años alternándose en la discriminación a Galicia, pero no son exactamente lo mismo”",
+      "medio": "El País",
+      "url": "https://elpais.com/espana/2026-11-12/nestor-rego-candidato-del-bng-pp-y-psoe-llevan-anos-alternandose-en-la-discriminacion-a-galicia-pero-no-son-exactamente-lo-mismo.html",
+      "fecha": "2026-11-12T04:30+00:00",
+      "partidos": [
+        "pp",
+        "psoe",
+        "bng"
+      ]
+    },
+    {
+      "titulo": "Tesh Sidi (Frente Amplio): \"Hay que atajar la privatización, hemos visto que una mala gestión de la sanidad pública mata\"",
+      "medio": "20minutos",
+      "url": "https://www.20minutos.es/nacional/tesh-sidi-frente-amplio-hay-que-atajar-privatizacion-hemos-visto-que-una-mala-gestion-sanidad-publica-mata_7059266_0.html",
+      "fecha": "2026-11-12T04:01+00:00",
+      "partidos": [
+        "sumar"
+      ]
+    },
+    {
+      "titulo": "Moncloa y el PSOE, desaparecidos en la celebración de una huelga que durante días han abanderado contra la oposición",
+      "medio": "20minutos",
+      "url": "https://www.20minutos.es/nacional/moncloa-psoe-desaparecidos-celebracion-una-huelga-que-durante-dias-han-abanderado-contra-oposicion_7059875_0.html",
+      "fecha": "2026-11-12T04:00+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
       "titulo": "Feijóo abre su campaña en Cataluña centrado en la inmigración y la okupación",
       "medio": "ABC",
       "url": "https://www.abc.es/espana/cataluna/feijoo-abre-campana-cataluna-centrado-inmigracion-okupacion-20261111020522-nt.html",
@@ -2048,6 +2330,15 @@
       ]
     },
     {
+      "titulo": "Una noche plácida para Feijóo en ‘El hormiguero’: “Le escribí a Sánchez por WhatsApp y no me salió el doble ‘check”",
+      "medio": "El País",
+      "url": "https://elpais.com/espana/2026-11-11/una-noche-placida-para-feijoo-en-el-hormiguero-le-escribi-a-sanchez-por-whatsapp-y-no-me-salio-el-doble-check.html",
+      "fecha": "2026-11-11T23:57+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
       "titulo": "La desesperada lucha de Frente Amplio contra el voto útil al PSOE: \"Sólo nos queda votar 'al Perro' y cruzar los dedos\"",
       "medio": "El Mundo",
       "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/11/6af352d121efa0855e8b45aa.html",
@@ -2091,6 +2382,16 @@
       "fecha": "2026-11-11T22:11+00:00",
       "partidos": [
         "pp"
+      ]
+    },
+    {
+      "titulo": "La primera huelga general por la vivienda moviliza a millones de personas y eleva la tensión con PP y Vox",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/economia/primera-huelga-general-vivienda-moviliza-millones-personas-eleva-tension-pp-vox_1_13656244.html",
+      "fecha": "2026-11-11T22:10+00:00",
+      "partidos": [
+        "pp",
+        "vox"
       ]
     },
     {
@@ -4475,307 +4776,6 @@
       "fecha": "2026-11-08T00:17+00:00",
       "partidos": [
         "pp"
-      ]
-    },
-    {
-      "titulo": "\"Un diputado más\" en Valladolid: Feijóo eleva la meta contra la papeleta de Puente y \"la ministra de las pulseras\"",
-      "medio": "El Mundo",
-      "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/08/6aef7e3afdddffa90e8b457e.html",
-      "fecha": "2026-11-07T23:01+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Puente, una dimisión que rompe algo en el PSOE",
-      "medio": "El Mundo",
-      "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/08/6aef6a30e85eced81a8b4598.html",
-      "fecha": "2026-11-07T23:01+00:00",
-      "partidos": [
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "Abascal dice que El Hierro vive otra invasión: \"Han llegado 8.000 a una isla de 12.000\"",
-      "medio": "20minutos",
-      "url": "https://www.20minutos.es/nacional/abascal-dice-hierro-vive-otra-invasion_7058602_0.html",
-      "fecha": "2026-11-07T22:36+00:00",
-      "partidos": [
-        "vox"
-      ]
-    },
-    {
-      "titulo": "Salvador Illa: “Es una bajeza moral que Feijóo utilice a las 69 víctimas de Urda para que no se convoque la huelga general”",
-      "medio": "elDiario.es",
-      "url": "https://www.eldiario.es/catalunya/salvador-illa-bajeza-moral-feijoo-utilice-69-victimas-urda-no-convoque-huelga-general_128_13643854.html",
-      "fecha": "2026-11-07T21:41+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "El Frente Amplio se fija como meta alcanzar la barrera del 10% de los votos para iniciar la \"remontada\"",
-      "medio": "elDiario.es",
-      "url": "https://www.eldiario.es/politica/frente-amplio-fija-meta-alcanzar-barrera-10-votos-iniciar-remontada_1_13616315.html",
-      "fecha": "2026-11-07T21:41+00:00",
-      "partidos": [
-        "sumar"
-      ]
-    },
-    {
-      "titulo": "PP y Vox contra la huelga",
-      "medio": "elDiario.es",
-      "url": "https://www.eldiario.es/opinion/pp-vox-huelga_131_13647239.html",
-      "fecha": "2026-11-07T21:41+00:00",
-      "partidos": [
-        "pp",
-        "vox"
-      ]
-    },
-    {
-      "titulo": "Agresión racista en Ceuta a una odontóloga musulmana por mirar un cartel del candidato local del Frente Amplio: “Trabaja, que cobras el IMV”",
-      "medio": "elDiario.es",
-      "url": "https://www.eldiario.es/desalambre/agresion-racista-ceuta-odontologa-musulmana-cartel-candidato-local-frente-amplio-trabaja-cobras-imv_1_13647015.html",
-      "fecha": "2026-11-07T21:04+00:00",
-      "partidos": [
-        "sumar"
-      ]
-    },
-    {
-      "titulo": "Isabel Díaz Ayuso, aclamada en Valencia: \"España necesita a Feijóo, va a cumplir, es el único que une tantas sensibilidades\"",
-      "medio": "20minutos",
-      "url": "https://www.20minutos.es/nacional/isabel-diaz-ayuso-aclamada-valencia-espana-necesita-feijoo-cumplir-unico-sensibilidades_7058571_0.html",
-      "fecha": "2026-11-07T18:19+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Frente Amplio promete \"expropiar a los fondos buitre\" de vivienda y avanza una \"motosierra\" fiscal \"para los de arriba\"",
-      "medio": "20minutos",
-      "url": "https://www.20minutos.es/nacional/frente-amplio-promete-expropiar-los-fondos-buitre-vivienda-avanza-una-motosierra-fiscal-para-los-arriba_7058554_0.html",
-      "fecha": "2026-11-07T16:51+00:00",
-      "partidos": [
-        "sumar"
-      ]
-    },
-    {
-      "titulo": "Armengol pide al PP aclarar si financia a Okdiario y los populares le exigen responsabilidades por el caso mascarillas",
-      "medio": "20minutos",
-      "url": "https://www.20minutos.es/nacional/armengol-pide-pp-aclarar-si-financia-okdiario-los-populares-le-exigen-responsabilidades-por-caso-mascarillas_7058546_0.html",
-      "fecha": "2026-11-07T16:14+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Sánchez y Feijóo ponen las cartas bocarriba de cara al 29N",
-      "medio": "20minutos",
-      "url": "https://www.20minutos.es/nacional/sanchez-feijoo-muestran-sus-cartas_7058537_3.html",
-      "fecha": "2026-11-07T15:43+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Feijóo se compromete a «bajar el telón del espectáculo lamentable» del Gobierno de Sánchez y a «levantar las alfombras»",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/castilla-leon/feijoo-compromete-bajar-telon-espectaculo-lamentable-gobierno-20261107135442-nt.html",
-      "fecha": "2026-11-07T15:25+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Abascal: «Quiero una España en la que no tenga que llamar mafia criminal al Gobierno»",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/castilla-la-mancha/abascal-quiero-espana-llamar-mafia-criminal-gobierno-20261107135734-nt.html",
-      "fecha": "2026-11-07T15:24+00:00",
-      "partidos": [
-        "vox"
-      ]
-    },
-    {
-      "titulo": "Córdoba abandera el gran acto del PP andaluz ante «el abandono» del Gobierno a la provincia",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/andalucia/cordoba/cordoba-abandera-gran-acto-pp-andaluz-ante-20261107161557-nts.html",
-      "fecha": "2026-11-07T15:15+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Feijóo encarga al PP el tercer diputado por Valladolid para demostrar que la provincia «no es Óscar Puente»",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/castilla-leon/feijoo-encarga-pp-tercer-diputado-valladolid-demostrar-20261107160910-nt.html",
-      "fecha": "2026-11-07T15:10+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Pedro Sánchez se compromete con la familia de Guillem Agulló a estudiar su reconocimiento como víctima del terrorismo",
-      "medio": "elDiario.es",
-      "url": "https://www.eldiario.es/comunitat-valenciana/pedro-sanchez-compromete-familia-guillem-agullo-estudiar-reconocimiento-victima-terrorismo_1_13646783.html",
-      "fecha": "2026-11-07T14:29+00:00",
-      "partidos": [
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "El PSOE recupera la campaña del miedo tras Urda: «No seremos el patio trasero de la internacional ultraderechista»",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/cataluna/psoe-recupera-campana-miedo-derecha-tras-urda-20261107130022-nt.html",
-      "fecha": "2026-11-07T14:13+00:00",
-      "partidos": [
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "Frente Amplio propone descentralizar instituciones como el Banco de España y el Defensor del Pueblo",
-      "medio": "20minutos",
-      "url": "https://www.20minutos.es/nacional/frente-amplio-propone-descentralizar-instituciones-como-banco-espana-defensor-pueblo_7058526_0.html",
-      "fecha": "2026-11-07T14:10+00:00",
-      "partidos": [
-        "sumar"
-      ]
-    },
-    {
-      "titulo": "Feijóo recuerda a las víctimas de Urda y avisa: \"Si el dinero de los trenes acabó en el PSOE tendrán que entrar en la cárcel\"",
-      "medio": "20minutos",
-      "url": "https://www.20minutos.es/nacional/feijoo-recuerda-victimas-urda-avisa-dinero-trenes-acabo-psoe-tendran-entrar-carcel_7058515_0.html",
-      "fecha": "2026-11-07T14:05+00:00",
-      "partidos": [
-        "pp",
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "Montero acusa al PP de \"violencia política\" por los supuestos pagos a Koldo y exige un debate \"sin bulos\"",
-      "medio": "20minutos",
-      "url": "https://www.20minutos.es/nacional/montero-acusa-pp-violencia-politica-por-los-supuestos-pagos-koldo-exige-un-debate-sin-bulos_7058505_0.html",
-      "fecha": "2026-11-07T14:01+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Ayuso cuestiona la campaña del miedo del PSOE: «Lo que temen es cambiar Moncloa por Soto del Real»",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/comunidad-valenciana/ayuso-cuestiona-campana-miedo-psoe-temen-cambiar-20261107144349-nt.html",
-      "fecha": "2026-11-07T13:56+00:00",
-      "partidos": [
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "Feijóo confronta el discurso de la \"dignidad\" sobre Puente: \"Hemos visto más abrazos del PSOE y de sus socios al ministro dimitido que a las víctimas\"",
-      "medio": "El Mundo",
-      "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/07/6aee6b98fdddff77098b456e.html",
-      "fecha": "2026-11-07T13:46+00:00",
-      "partidos": [
-        "pp",
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "El PSOE pide explicaciones a Núñez por arropar a alcalde de Puertollano pese a estar imputado",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/castilla-la-mancha/toledo/psoe-pide-explicaciones-nunez-arropar-alcalde-puertollano-20261107144022-nt.html",
-      "fecha": "2026-11-07T13:40+00:00",
-      "partidos": [
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "El Frente Amplio promete \"expropiar a los fondos buitre\" y subir impuestos a los ricos: \"No hemos venido a serviros\"",
-      "medio": "elDiario.es",
-      "url": "https://www.eldiario.es/catalunya/colau-dirige-cayetana-alvarez-toledo-marquesa-amigos-ricos-les-freir-impuestos_1_13646254.html",
-      "fecha": "2026-11-07T13:25+00:00",
-      "partidos": [
-        "sumar"
-      ]
-    },
-    {
-      "titulo": "Abascal denuncia que Adif gastaba el dinero en \"sobrinas, mordidas, colocaciones y bonus\"",
-      "medio": "20minutos",
-      "url": "https://www.20minutos.es/nacional/abascal-denuncia-que-adif-gastaba-dinero-sobrinas-mordidas-colocaciones-bonus_7058516_0.html",
-      "fecha": "2026-11-07T13:13+00:00",
-      "partidos": [
-        "vox"
-      ]
-    },
-    {
-      "titulo": "Feijóo reivindica la gestión frente a la \"política basura\": \"Se acabó el espectáculo y la desvergüenza\" de Sánchez",
-      "medio": "El Confidencial",
-      "url": "https://www.elconfidencial.com/espana/2026-11-07/feijoo-mitin-valladolid-gestion-politica-sanchez_4461004/",
-      "fecha": "2026-11-07T13:12+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Pérez Llorca reprocha a Sánchez que Óscar Puente siga de diputado en el Congreso mientras el PP mantiene a Mazón en las Corts",
-      "medio": "elDiario.es",
-      "url": "https://www.eldiario.es/comunitat-valenciana/politica/perez-llorca-reprocha-sanchez-oscar-puente-siga-diputado-congreso-pp-mantiene-mazon-corts_1_13646381.html",
-      "fecha": "2026-11-07T13:09+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Irene Montero y Rufián animan a votar con \"memoria\" y obviando el voto útil: \"El PSOE, si puede, te come\"",
-      "medio": "20minutos",
-      "url": "https://www.20minutos.es/nacional/irene-montero-rufian-animan-votar-con-memoria-obviando-voto-util-psoe-si-puede-te-come_7058511_0.html",
-      "fecha": "2026-11-07T13:08+00:00",
-      "partidos": [
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "Feijóo centra en Puente su mitin en Valladolid: \"Han dado más abrazos al ministro dimitido que a las víctimas”",
-      "medio": "elDiario.es",
-      "url": "https://www.eldiario.es/castilla-y-leon/politica/feijoo-dice-no-valladolid-dimision-puente-plaga-mitin-ataques-exministro_1_13646296.html",
-      "fecha": "2026-11-07T13:06+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Montero y Rufián animan a votar con \"memoria y conciencia\" y obviando el voto útil: \"El PSOE, si puede, te come\"",
-      "medio": "Europa Press",
-      "url": "https://www.europapress.es/nacional/noticia-montero-rufian-animan-votar-memoria-conciencia-obviando-voto-util-psoe-si-puede-te-come-20261107134413.html",
-      "fecha": "2026-11-07T12:44+00:00",
-      "partidos": [
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "Rufián y Montero llaman a secundar la huelga \"para paralizar el país\" y defienden una izquierda no sometida al PSOE",
-      "medio": "elDiario.es",
-      "url": "https://www.eldiario.es/politica/rufian-montero-llaman-secundar-huelga-paralizar-pais-defienden-izquierda-no-sometida-psoe_1_13646217.html",
-      "fecha": "2026-11-07T12:41+00:00",
-      "partidos": [
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "De PSOE a Por Un Mundo Más Justo, todos los partidos a los que podrás votar en las elecciones generales 2026",
-      "medio": "20minutos",
-      "url": "https://www.20minutos.es/nacional/psoe-por-mundo-mas-justo-todos-partidos-podras-votar-elecciones-generales_7058494_0.html",
-      "fecha": "2026-11-07T12:40+00:00",
-      "partidos": [
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "Feijóo avisa al PSOE: “Si han robado el dinero para la seguridad de los trenes, tendrán que salir del poder para entrar en la cárcel”",
-      "medio": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/politica/20261107/11678745/feijoo-avisa-psoe-han-robado-dinero-seguridad-trenes-tendran-salir-entrar-carcel.html",
-      "fecha": "2026-11-07T12:32+00:00",
-      "partidos": [
-        "pp",
-        "psoe"
       ]
     }
   ],
