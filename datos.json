@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-13T01:45+00:00",
+  "actualizado": "2026-11-13T12:43+00:00",
   "temas": [
     {
       "id": "vivienda",
@@ -2440,6 +2440,480 @@
   ],
   "noticias": [
     {
+      "titulo": "Vea las entrevistas de Jordi Wild a Sánchez, Feijóo y Colau",
+      "medio": "El País",
+      "url": "https://elpais.com/espana/elecciones-generales/2026-11-13/vea-la-entrevista-de-jordi-wild-a-ada-colau.html",
+      "fecha": "2026-11-13T12:38+00:00",
+      "partidos": [
+        "pp",
+        "sumar"
+      ]
+    },
+    {
+      "titulo": "La Policía acordona la calle de la sede del PSOE-Aragón por una amenaza de bomba",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/aragon/policia-acordona-calle-sede-psoearagon-amenaza-bomba-20261113133657-nt.html",
+      "fecha": "2026-11-13T12:36+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "Vox propone ingreso mínimo vital solo para españoles y que los ilegales no puedan alquilar ni acceder a la sanidad pública",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/vox-propone-ingreso-minimo-vital-solo-espanoles-20261112185446-nt.html",
+      "fecha": "2026-11-13T12:32+00:00",
+      "partidos": [
+        "vox"
+      ]
+    },
+    {
+      "titulo": "Alerta de posible bomba a las puertas de la sede del PSOE en Zaragoza",
+      "medio": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/politica/20261113/11683502/alerta-posible-bomba-puertas-sede-psoe-zaragoza.html",
+      "fecha": "2026-11-13T12:31+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "Entrevistas de Jordi Wild a Sánchez, Feijóo y Colau, en directo | Sánchez: “Detrás de los insultos hay carencia de argumentos y de proyecto político”",
+      "medio": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/politica/20261113/11683221/entrevistas-sanchez-feijoo-colau-jordi-wild-the-wild-project-ultima-hora-hoy-en-directo.html",
+      "fecha": "2026-11-13T12:28+00:00",
+      "partidos": [
+        "pp",
+        "sumar"
+      ]
+    },
+    {
+      "titulo": "Campaña elecciones generales en España 29N, en directo: última hora de Pedro Sánchez (PSOE), Feijóo (PP), Abascal (Vox), Ada Colau (Frente Amplio) y resto de candidatos hoy",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/campana-elecciones-generales-espana-29n-directo-sanchez-feijoo-abascal-20261113162908-di.html",
+      "fecha": "2026-11-13T12:27+00:00",
+      "partidos": [
+        "pp",
+        "psoe",
+        "vox",
+        "sumar"
+      ]
+    },
+    {
+      "titulo": "Pedro Sánchez, a Jordi Wild, sobre los insultos y cánticos que recibe: «La puerta está abierta si lo hace un responsable político»",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/pedro-sanchez-jordi-wild-sobre-insultos-canticos-20261113130645-nt.html",
+      "fecha": "2026-11-13T12:08+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "El director de campaña del PP en Andalucía: «El PSOE ha traído agravio a Andalucía, confrontación, parálisis y corrupción»",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/andalucia/cordoba/director-campana-pp-andalucia-psoe-traido-agravio-20261113130757-nts.html",
+      "fecha": "2026-11-13T12:07+00:00",
+      "partidos": [
+        "pp",
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "Feijóo añade Vivienda a Igualdad en los ministerios que eliminará si gobierna y asegura que hay carteras que vetará para Vox",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/politica/feijoo-anade-vivienda-igualdad-ministerios-eliminara-si-gobierna-asegura-hay-carteras-vetara-vox_1_13660928.html",
+      "fecha": "2026-11-13T12:01+00:00",
+      "partidos": [
+        "pp",
+        "vox"
+      ]
+    },
+    {
+      "titulo": "Feijóo, sobre la inmigración en España: «Regularizar a más de un millón de personas es una frivolidad manifiesta. Si usted entra de forma irregular, se tiene tiene que ir»",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/feijoo-sobre-inmigracion-espana-regularizar-millon-personas-20261113130122-nt.html",
+      "fecha": "2026-11-13T12:01+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "PSOE y Compromís reprochan que se mantenga a Mazón y PP y Vox rivalizan en sus críticas a Sánchez en el debate de EL PAÍS y SER Valencia",
+      "medio": "El País",
+      "url": "https://elpais.com/espana/elecciones-generales/2026-11-13/psoe-y-compromis-reprochan-que-se-mantenga-a-mazon-y-pp-y-vox-rivalizan-en-sus-criticas-a-sanchez-en-el-debate-de-el-pais-y-ser-valencia.html",
+      "fecha": "2026-11-13T11:58+00:00",
+      "partidos": [
+        "pp",
+        "psoe",
+        "vox"
+      ]
+    },
+    {
+      "titulo": "De las pensiones al Ministerio de Igualdad: las frases de Feijóo con Jordi Wild",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/pensiones-ministerio-igualdad-frases-feijoo-jordi-wild-20261113122558-nt.html",
+      "fecha": "2026-11-13T11:56+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "Feijóo suprimirá Vivienda e Igualdad para reducir el número de ministerios y agrupar competencias",
+      "medio": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/politica/20261113/11683368/feijoo-suprimira-ministerios-propios-vivienda-e-igualdad-agrupara-competencias.html",
+      "fecha": "2026-11-13T11:55+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "Tellado anuncia una denuncia contra el PSOE gallego por difundir sin verificar una imagen suya con Koldo García",
+      "medio": "El País",
+      "url": "https://elpais.com/espana/elecciones-generales/2026-11-13/tellado-anuncia-una-denuncia-contra-el-psoe-gallego-por-difundir-sin-verificar-una-imagen-suya-con-koldo-garcia.html",
+      "fecha": "2026-11-13T11:47+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "La Policía Nacional acordona la sede del PSOE en Zaragoza ante un posible aviso de bomba",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/aragon/sociedad/policia-nacional-acordona-sede-psoe-zaragoza-posible-aviso-bomba_1_13661527.html",
+      "fecha": "2026-11-13T11:45+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "Podemos abre campaña con camionetas que difundirán sus propuestas intervencionistas en vivienda o alimentación",
+      "medio": "Europa Press",
+      "url": "https://www.europapress.es/nacional/noticia-podemos-abre-campana-camionetas-difundiran-propuestas-intervencionistas-vivienda-alimentacion-20261113123903.html",
+      "fecha": "2026-11-13T11:39+00:00",
+      "partidos": [
+        "podemos"
+      ]
+    },
+    {
+      "titulo": "Vox reactiva sus microcréditos para financiar la campaña del 29N, ofreciendo un interés del 4,25%",
+      "medio": "Europa Press",
+      "url": "https://www.europapress.es/nacional/noticia-vox-reactiva-microcreditos-financiar-campana-29n-ofreciendo-interes-425-20261113123659.html",
+      "fecha": "2026-11-13T11:36+00:00",
+      "partidos": [
+        "vox"
+      ]
+    },
+    {
+      "titulo": "Feijóo pone en duda que pueda bajar los impuestos por el estado de las cuentas públicas: “No me creo los datos”",
+      "medio": "El País",
+      "url": "https://elpais.com/espana/elecciones-generales/2026-11-13/feijoo-pone-en-duda-que-pueda-bajar-los-impuestos-por-el-estado-de-las-cuentas-publicas-no-me-creo-los-datos.html",
+      "fecha": "2026-11-13T11:33+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "Junts exige que el dinero de los catalanes se quede en Catalunya y salir de la Lofca",
+      "medio": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/politica/20261113/11683377/junts-exige-dinero-catalanes-quede-catalunya-salir-lofca.html",
+      "fecha": "2026-11-13T11:23+00:00",
+      "partidos": [
+        "junts"
+      ]
+    },
+    {
+      "titulo": "Programa electoral de Vox para el 29N: de la prioridad nacional o la inmigración a los impuestos, consulta las 115 medidas",
+      "medio": "20minutos",
+      "url": "https://www.20minutos.es/nacional/programa-electoral-vox-para-29n-consulta-las-115-medidas-sobre-impuestos-inmigracion-prioridad-nacional_7060601_0.html",
+      "fecha": "2026-11-13T10:52+00:00",
+      "partidos": [
+        "vox"
+      ]
+    },
+    {
+      "titulo": "Colau, con Jordi Wild: \"Algunos migrantes delinquen, pero la mayoría no suponen ningún problema\"",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/politica/colau-jordi-wild-migrantes-delinquen-mayoria-no-suponen-problema_1_13660988.html",
+      "fecha": "2026-11-13T10:38+00:00",
+      "partidos": [
+        "sumar"
+      ]
+    },
+    {
+      "titulo": "Alberto Núñez Feijóo, presidente del PP, sobre la inmigración: \"Si tiene permiso de trabajo, tiene permiso de residencia; si entra de forma irregular, se tiene que ir\"",
+      "medio": "El Confidencial",
+      "url": "https://www.elconfidencial.com/espana/2026-11-13/feijoo-inmigracion-jordi-wild-elecciones-generales_4464382/",
+      "fecha": "2026-11-13T10:36+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "Feijóo supedita el gasto en Defensa a auditoría de gasto previa: \"Si no puedo llegar al 2,4%, me quedaré en 2,3%\"",
+      "medio": "Europa Press",
+      "url": "https://www.europapress.es/nacional/noticia-feijoo-supedita-gasto-defensa-auditoria-gasto-previa-si-no-puedo-llegar-24-me-quedare-23-20261113112859.html",
+      "fecha": "2026-11-13T10:28+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "Albiol propone a Colau un cara a cara sobre políticas de vivienda",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/catalunya/albiol-propone-colau-cara-cara-politicas-vivienda_1_13661103.html",
+      "fecha": "2026-11-13T10:25+00:00",
+      "partidos": [
+        "sumar"
+      ]
+    },
+    {
+      "titulo": "Colau, ante Jordi Wild, reprocha a Sánchez su gestión inicial de la crisis de Ceuta",
+      "medio": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/politica/20261113/11683358/colau-jordi-wild-reprocha-sanchez-gestion-inicial-crisis-ceuta.html",
+      "fecha": "2026-11-13T10:22+00:00",
+      "partidos": [
+        "sumar"
+      ]
+    },
+    {
+      "titulo": "Alberto Núñez Feijóo, en la entrevista con Jordi Wild, sobre el IMV: \"500.000 inmigrantes cobrándolo sin haber trabajado 1 hora en el último año\"",
+      "medio": "El Confidencial",
+      "url": "https://www.elconfidencial.com/espana/2026-11-13/alberto-nunez-feijo-entrevista-jordi-wild-imv-inmigrantes_4464365/",
+      "fecha": "2026-11-13T10:15+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "Elecciones generales del 29N, en directo: última hora del arranque de la campaña electoral con los primeros mítines de Sánchez, Feijóo y otros candidatos",
+      "medio": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/politica/20261113/11682241/elecciones-generales-campana-electoral-candidatos-ultima-hora-en-directo.html",
+      "fecha": "2026-11-13T10:14+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "Vox propone cuotas para alumnos “de otras culturas” en las aulas y excluir a los indocumentados del sistema sanitario",
+      "medio": "El País",
+      "url": "https://elpais.com/sociedad/2026-11-12/vox-propone-cuotas-para-alumnos-de-otras-culturas-en-las-aulas-y-excluir-a-los-indocumentados-del-sistema-sanitario.html",
+      "fecha": "2026-11-13T10:08+00:00",
+      "partidos": [
+        "vox"
+      ]
+    },
+    {
+      "titulo": "Alberto Núñez Feijóo, en la entrevista con Jordi Wild, sobre los autónomos y el pago de la cuota: \"No les hemos cuidado nunca de forma adecuada\"",
+      "medio": "El Confidencial",
+      "url": "https://www.elconfidencial.com/espana/2026-11-13/feijoo-entrevista-jordi-wild-autonomos-elecciones-generales_4464351/",
+      "fecha": "2026-11-13T10:04+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "Vea las entrevistas de Jordi Wild a Colau, Feijóo y Sánchez",
+      "medio": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/politica/20261113/11683342/vea-entrevistas-jordi-wild-colau-feijoo-sanchez.html",
+      "fecha": "2026-11-13T09:58+00:00",
+      "partidos": [
+        "pp",
+        "sumar"
+      ]
+    },
+    {
+      "titulo": "Alberto Núñez Feijóo, en la entrevista con Jordi Wild, sobre el absentismo laboral: \"¿Por qué el lunes y el viernes son los días con mayor absentismo?\"",
+      "medio": "El Confidencial",
+      "url": "https://www.elconfidencial.com/espana/2026-11-13/feijoo-absentismo-laboral-jordi-wild-elecciones-generales_4464330/",
+      "fecha": "2026-11-13T09:51+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "Leire Díez, sobre la oferta de dos millones que recibió del entorno del PP: “Si hubiese aceptado hubieran vencido”",
+      "medio": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/politica/20261113/11683262/leire-diez-sobre-oferta-dos-millones-recibio-entorno-pp-hubiese-aceptado-hubieran-vencido.html",
+      "fecha": "2026-11-13T09:38+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "La media de encuestas en el arranque de la campaña: el PSOE crece, pero la derecha mantiene una amplia ventaja",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/politica/media-encuestas-arranque-campana-psoe-crece-derecha-mantiene-amplia-ventaja_1_13660672.html",
+      "fecha": "2026-11-13T09:36+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "Alberto Núñez Feijóo, en la entrevista con Jordi Wild, sobre un posible pacto con Vox y el reparto de ministerios: \"Tendré 14 o 15 ministerios. Y algunos deben tener preponderancia del presidente del Gobierno\"",
+      "medio": "El Confidencial",
+      "url": "https://www.elconfidencial.com/espana/2026-11-13/feijoo-entrevista-jordi-wild-ministerios-vox_4464295/",
+      "fecha": "2026-11-13T09:36+00:00",
+      "partidos": [
+        "pp",
+        "vox"
+      ]
+    },
+    {
+      "titulo": "Así fue la comentada actuación de una rapera con el rostro cubierto en el arranque de campaña del PSOE: \"A saco Paco\"",
+      "medio": "20minutos",
+      "url": "https://www.20minutos.es/nacional/asi-fue-comentada-actuacion-una-rapera-con-rostro-cubierto-arranque-campana-psoe-saco-paco_7060609_0.html",
+      "fecha": "2026-11-13T09:27+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "Los verificadores de Jordi Wild intervienen ante Ada Colau: el 91% de los detenidos por hurto en Barcelona son extranjeros",
+      "medio": "El Confidencial",
+      "url": "https://www.elconfidencial.com/espana/2026-11-13/ada-colau-inmigracion-entrevista-jordi-wild-elecciones-generales_4464281/",
+      "fecha": "2026-11-13T09:10+00:00",
+      "partidos": [
+        "sumar"
+      ]
+    },
+    {
+      "titulo": "Coalición Canaria vuelve a cambiar sus \"líneas rojas\" y ahora dice que sí apoyaría un Gobierno de PP con Vox",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/canariasahora/politica/cc-vuelve-cambiar-lineas-rojas-ahora-dice-si-apoyaria-gobierno-pp-vox_1_13660728.html",
+      "fecha": "2026-11-13T08:57+00:00",
+      "partidos": [
+        "pp",
+        "vox",
+        "cc"
+      ]
+    },
+    {
+      "titulo": "Ada Colau, en la entrevista con Jordi Wild, sobre las 'paguitas' a inmigrantes: \"Es falso. Los 7 millones que hay en el país aportan el 10% de las contribuciones a la Seguridad Social y suponen solo el 1% del gasto público\"",
+      "medio": "El Confidencial",
+      "url": "https://www.elconfidencial.com/espana/2026-11-13/ada-colau-jordi-wild-entrevista-elecciones-generales_4464259/",
+      "fecha": "2026-11-13T08:54+00:00",
+      "partidos": [
+        "sumar"
+      ]
+    },
+    {
+      "titulo": "Ada Colau, en la entrevista con Jordi Wild, sobre el papel de Marruecos en la crisis de Ceuta: \"Hay que revisar las relaciones. Quiero pensar que se esté haciendo desde la discreción\"",
+      "medio": "El Confidencial",
+      "url": "https://www.elconfidencial.com/espana/2026-11-13/ada-colau-jordi-wild-entrevista-elecciones-generales_4464240/",
+      "fecha": "2026-11-13T08:37+00:00",
+      "partidos": [
+        "sumar"
+      ]
+    },
+    {
+      "titulo": "La reacción de Feijóo al ver el vídeo de Anotop At que ha compartido el PP en el que la IA 'lo convierte' en rapero",
+      "medio": "20minutos",
+      "url": "https://www.20minutos.es/nacional/reaccion-feijoo-ver-video-anotop-at-que-ha-compartido-pp-que-ia-convierte-rapero_7060567_0.html",
+      "fecha": "2026-11-13T08:27+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "Ada Colau, en la entrevista con Jordi Wild, sobre Ceuta y las vacaciones de Pedro Sánchez: \"Cuando pasa algo tan grave, hay que estar ahí y movilizar todos los recursos\"",
+      "medio": "El Confidencial",
+      "url": "https://www.elconfidencial.com/espana/2026-11-13/ada-colau-entrevista-jordi-wild-elecciones-generales_4464228/",
+      "fecha": "2026-11-13T08:26+00:00",
+      "partidos": [
+        "psoe",
+        "sumar"
+      ]
+    },
+    {
+      "titulo": "Ada Colau en la entrevista con Jordi Wild, sobre Podemos: \"No quisieron hablar. No quisieron sentarse, ni quedar físicamente\"",
+      "medio": "El Confidencial",
+      "url": "https://www.elconfidencial.com/espana/2026-11-13/ada-colau-jordi-wild-podemos-negociacion_4464163/",
+      "fecha": "2026-11-13T08:00+00:00",
+      "partidos": [
+        "sumar",
+        "podemos"
+      ]
+    },
+    {
+      "titulo": "El \"compromiso antiideológico\" que quiere Vox para el cine es la muerte del arte libre",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/cultura/compromiso-antiideologico-quiere-vox-cine-muerte-arte-libre_129_13660621.html",
+      "fecha": "2026-11-13T07:55+00:00",
+      "partidos": [
+        "vox"
+      ]
+    },
+    {
+      "titulo": "Gabriel Rufián, el chico de barrio de ERC",
+      "medio": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/politica/20261113/11682846/gabriel-rufian-chico-barrio-erc.html",
+      "fecha": "2026-11-13T05:00+00:00",
+      "partidos": [
+        "erc"
+      ]
+    },
+    {
+      "titulo": "Expertos y ‘think tanks’ ven riesgos para la disciplina fiscal en el programa económico del PP",
+      "medio": "El País",
+      "url": "https://elpais.com/espana/2026-11-13/expertos-y-think-tanks-ven-riesgos-para-la-disciplina-fiscal-en-el-programa-economico-del-pp.html",
+      "fecha": "2026-11-13T04:30+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "El día que Abascal gritó “¡Visca Catalunya!\" y se rodeó de senyeras",
+      "medio": "El País",
+      "url": "https://elpais.com/espana/elecciones-generales/2026-11-13/el-dia-que-abascal-grito-visca-catalunya-y-se-rodeo-de-senyeras.html",
+      "fecha": "2026-11-13T04:30+00:00",
+      "partidos": [
+        "vox"
+      ]
+    },
+    {
+      "titulo": "Cristina Valido, candidata de Coalición Canaria: “En la Península ya ni duele cuando se habla de muertos en el mar y en los cayucos”",
+      "medio": "El País",
+      "url": "https://elpais.com/espana/2026-11-13/cristina-valido-candidata-de-coalicion-canaria-en-la-peninsula-ya-ni-duele-cuando-se-habla-de-muertos-en-el-mar-y-en-los-cayucos.html",
+      "fecha": "2026-11-13T04:30+00:00",
+      "partidos": [
+        "cc"
+      ]
+    },
+    {
+      "titulo": "Pilar Bernabé ante el reto de vencer a Catalá (con o sin la ayuda de Pedro Sánchez)",
+      "medio": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/local/valencia/20261113/11682685/pilar-bernabe-reto-vencer-catala-ayuda-pedro-sanchez.html",
+      "fecha": "2026-11-13T04:30+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "Sánchez y Feijóo vuelven a verse las caras en la campaña más polarizada de la historia marcada por Urda y la crisis de vivienda",
+      "medio": "20minutos",
+      "url": "https://www.20minutos.es/nacional/arranca-campana-electoral-mas-polarizada-marcada-por-tragedia-urda-las-protestas-por-crisis-vivienda_7060306_0.html",
+      "fecha": "2026-11-13T04:00+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "Pablo Bustinduy (Frente Amplio): \"Nadie va a poder tener derecho a más de tres casas para especular\"",
+      "medio": "20minutos",
+      "url": "https://www.20minutos.es/nacional/pablo-bustinduy-frente-amplio-nadie-va-poder-tener-derecho-tener-mas-tres-casas-para-especular-con-ellas_7059268_0.html",
+      "fecha": "2026-11-13T04:00+00:00",
+      "partidos": [
+        "sumar"
+      ]
+    },
+    {
+      "titulo": "Las dos medidas que el PP quiere derogar de la actual Ley de Vivienda: así afectaría a inquilinos y propietarios",
+      "medio": "20minutos",
+      "url": "https://www.20minutos.es/nacional/las-dos-medidas-que-pp-quiere-derogar-actual-ley-vivienda-asi-afectaria-inquilinos-propietarios_7060079_0.html",
+      "fecha": "2026-11-13T04:00+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
       "titulo": "Vox rebaja sus medidas en feminismo, cambio de sexo y violencia de género que movilizaron a la izquierda en 2023",
       "medio": "ABC",
       "url": "https://www.abc.es/espana/vox-rebaja-medidas-feminismo-cambio-sexo-violencia-20261112022026-nt.html",
@@ -2521,6 +2995,15 @@
       ]
     },
     {
+      "titulo": "El PSOE se aferra a sus 'trackings' para la campaña ajeno a los sobresaltos por la corrupción y sin Zapatero ni Puente, a los que sigue considerando \"un valor\"",
+      "medio": "El Mundo",
+      "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/13/6af598a221efa09a158b458b.html",
+      "fecha": "2026-11-12T23:00+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
       "titulo": "El PSOE encara una «campaña viva» sin Puente ni Zapatero",
       "medio": "ABC",
       "url": "https://www.abc.es/espana/psoe-encara-campana-viva-puente-zapatero-20261112120928-nt.html",
@@ -2538,6 +3021,33 @@
         "psoe",
         "bildu",
         "pnv"
+      ]
+    },
+    {
+      "titulo": "Abascal o la valentía de salir corriendo muerto de miedo",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/politica/abascal-jordi-wild-entrevista_129_13658176.html",
+      "fecha": "2026-11-12T21:57+00:00",
+      "partidos": [
+        "vox"
+      ]
+    },
+    {
+      "titulo": "El presidente de Vox en Tarragona exhibe el logo del grupo neonazi Núcleo Nacional",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/catalunya/presidente-vox-tarragona-exhibe-logo-grupo-neonazi-nucleo-nacional_1_13658004.html",
+      "fecha": "2026-11-12T21:57+00:00",
+      "partidos": [
+        "vox"
+      ]
+    },
+    {
+      "titulo": "Feijóo sigue la estela de Ayuso y se compromete a legislar para el 'no nacido': \"Buscan cambiar el imaginario\"",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/sociedad/feijoo-sigue-estela-ayuso-compromete-legislar-no-nacido-buscan-cambiar-imaginario_1_13658051.html",
+      "fecha": "2026-11-12T21:57+00:00",
+      "partidos": [
+        "pp"
       ]
     },
     {
@@ -2700,6 +3210,15 @@
       ]
     },
     {
+      "titulo": "Los partidos catalanes inician la campaña con el PSC en cabeza y Rufián y Colau peleando por el mismo espacio",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/catalunya/partidos-catalanes-inician-campana-psc-cabeza-rufian-colau-peleando-espacio_1_13659910.html",
+      "fecha": "2026-11-12T20:13+00:00",
+      "partidos": [
+        "sumar"
+      ]
+    },
+    {
       "titulo": "Sánchez apela a la movilización del voto de las mujeres para una \"remontada épica\" ante Feijóo y Abascal",
       "medio": "Europa Press",
       "url": "https://www.europapress.es/nacional/noticia-sanchez-apela-movilizacion-voto-mujeres-remontada-epica-feijoo-abascal-20261112210758.html",
@@ -2758,6 +3277,15 @@
       ]
     },
     {
+      "titulo": "Colau se lanza con la vivienda para reactivar a la izquierda: \"El siguiente gobierno será contra la especulación o no será\"",
+      "medio": "El Mundo",
+      "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/12/6af60f3c21efa059588b45b3.html",
+      "fecha": "2026-11-12T19:32+00:00",
+      "partidos": [
+        "sumar"
+      ]
+    },
+    {
       "titulo": "Vox denuncia a Silvia Intxaurrondo ante la Junta Electoral Central después de que RTVE la eligiera para entrevistar a los candidatos",
       "medio": "20minutos",
       "url": "https://www.20minutos.es/nacional/vox-denuncia-silvia-intxaurrondo-ante-junta-electoral-central-despues-que-rtve-eligiera-para-entrevistar-los-candidatos_7060494_0.html",
@@ -2782,6 +3310,16 @@
       "fecha": "2026-11-12T19:15+00:00",
       "partidos": [
         "sumar"
+      ]
+    },
+    {
+      "titulo": "El PP y Vox arrancan la campaña con una sólida mayoría absoluta y siguen sacando a votantes de la abstención",
+      "medio": "El Mundo",
+      "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/12/6af60b3ee4d4d8845c8b4577.html",
+      "fecha": "2026-11-12T19:14+00:00",
+      "partidos": [
+        "pp",
+        "vox"
       ]
     },
     {
@@ -3938,12 +4476,22 @@
       ]
     },
     {
+      "titulo": "Colau se abre paso en 'La Revuelta' entre las disculpas de Broncano",
+      "medio": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/politica/20261111/11681338/colau-abre-paso-revuelta-disculpas-broncano.html",
+      "fecha": "2026-11-10T23:14+00:00",
+      "partidos": [
+        "sumar"
+      ]
+    },
+    {
       "titulo": "Ada Colau, en el desquite de Broncano tras la entrevista de Abascal: \"Los impuestos son sexis\"",
       "medio": "El Mundo",
       "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/11/6af3a346fc6c83d16c8b4584.html",
       "fecha": "2026-11-10T23:07+00:00",
       "partidos": [
-        "vox"
+        "vox",
+        "sumar"
       ]
     },
     {
@@ -3952,7 +4500,8 @@
       "url": "https://www.eldiario.es/politica/colau-revuelta-prioridad-no-haya-gobierno-facha-psoe-no-tenga-connivencia-especulacion_1_13654090.html",
       "fecha": "2026-11-10T22:55+00:00",
       "partidos": [
-        "psoe"
+        "psoe",
+        "sumar"
       ]
     },
     {
@@ -4068,6 +4617,15 @@
       "fecha": "2026-11-10T19:12+00:00",
       "partidos": [
         "pp"
+      ]
+    },
+    {
+      "titulo": "Ada Colau en 'La Revuelta', hoy en directo | Última hora de la entrevista de David Broncano",
+      "medio": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/politica/20261110/11681084/entrevista-ada-colau-la-revuelta-david-broncano-ultima-hora-hoy-en-directo.html",
+      "fecha": "2026-11-10T19:00+00:00",
+      "partidos": [
+        "sumar"
       ]
     },
     {
@@ -4412,7 +4970,8 @@
       "fecha": "2026-11-10T12:34+00:00",
       "partidos": [
         "pp",
-        "vox"
+        "vox",
+        "sumar"
       ]
     },
     {
@@ -4439,7 +4998,8 @@
       "url": "https://www.europapress.es/nacional/noticia-colau-dice-diferencia-abascal-ira-revuelta-elegir-publico-defiende-tve-censura-20261110132434.html",
       "fecha": "2026-11-10T12:24+00:00",
       "partidos": [
-        "vox"
+        "vox",
+        "sumar"
       ]
     },
     {
@@ -4676,560 +5236,6 @@
         "pp",
         "psoe",
         "vox"
-      ]
-    },
-    {
-      "titulo": "PSOE y PP cierran el pulso por los debates electorales tras un mes de negociación",
-      "medio": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/politica/20261110/11680314/psoe-pp-cierran-pulso-debates-electorales-mes-negociacion.html",
-      "fecha": "2026-11-10T05:00+00:00",
-      "partidos": [
-        "pp",
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "Feijóo rebajará los impuestos a la luz y creará una tarifa social única si logra gobernar",
-      "medio": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/politica/20261110/11680282/feijoo-rebajara-impuestos-luz-creara-tarifa-social-unica.html",
-      "fecha": "2026-11-10T05:00+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Alberto Nadal (PP): \"Somos el penúltimo país europeo en inversión pública porque se ha gastado sin ton ni son\"",
-      "medio": "20minutos",
-      "url": "https://www.20minutos.es/lainformacion/economia-y-finanzas/alberto-nadal-entrevista-pp-penultimo-pais-inversion-publica-porque-se-ha-gastado-sin-ton-ni-son_7057978_0.html",
-      "fecha": "2026-11-10T04:00+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Bildu doblaría en escaños al PNV el 29N, que perdería su grupo en el Congreso",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/pais-vasco/bildu-doblaria-escanos-pnv-29n-perderia-grupo-20261110023010-nt.html",
-      "fecha": "2026-11-10T02:19+00:00",
-      "partidos": [
-        "bildu",
-        "pnv"
-      ]
-    },
-    {
-      "titulo": "Rufián situaría a ERC en 12 escaños el 29N y Vox se quedaría a solo uno del PP en Cataluña",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/cataluna/rufian-situaria-erc-escanos-29n-vox-quedaria-20261110023040-nt.html",
-      "fecha": "2026-11-10T02:00+00:00",
-      "partidos": [
-        "pp",
-        "vox",
-        "erc"
-      ]
-    },
-    {
-      "titulo": "Broncano se estrella en la entrevista a Abascal en La Revuelta",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/broncano-estrella-abascal-20261109005520-nt.html",
-      "fecha": "2026-11-10T01:34+00:00",
-      "partidos": [
-        "vox"
-      ]
-    },
-    {
-      "titulo": "El PP encabeza 31 circunscripciones y empata en nueve con el PSOE, que solo lidera dos",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/pp-encabeza-circunscripciones-empata-nueve-psoe-solo-20261109023029-nt.html",
-      "fecha": "2026-11-10T01:30+00:00",
-      "partidos": [
-        "pp",
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "La dana no pasa factura al PP en la provincia de Valencia ante el 29N",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/comunidad-valenciana/dana-pasa-factura-pp-provincia-valencia-20261110023023-nt.html",
-      "fecha": "2026-11-10T01:30+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Frente Amplio marca 15 provincias en rojo para dar un vuelco a las encuestas el 29N",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/frente-amplio-marca-provincias-rojo-dar-vuelco-20261109022354-nt.html",
-      "fecha": "2026-11-10T01:24+00:00",
-      "partidos": [
-        "sumar"
-      ]
-    },
-    {
-      "titulo": "Las 18 provincias \"clave\" donde el Frente Amplio fija la remontada: \"Con un 10% del voto se multiplican los escaños\"",
-      "medio": "El Mundo",
-      "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/10/6af1fe16fdddffcf658b4596.html",
-      "fecha": "2026-11-10T00:25+00:00",
-      "partidos": [
-        "sumar"
-      ]
-    },
-    {
-      "titulo": "El PP propone ampliar las competencias de la Audiencia Nacional frente al crimen organizado",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/pp-propone-ampliar-competencias-audiencia-nacional-frente-20261110012000-nt.html",
-      "fecha": "2026-11-10T00:20+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Feijóo someterá al Congreso las decisiones en política exterior que afecten a la soberanía y las fronteras",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/feijoo-sometera-congreso-decisiones-politica-exterior-afecten-20261109011947-nt.html",
-      "fecha": "2026-11-10T00:20+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "El PP quitará la nacionalidad a los extranjeros que tengan una condena firme por delitos muy graves",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/pp-regula-primera-vez-perdida-nacionalidad-extranjeros-20261110011930-nt.html",
-      "fecha": "2026-11-10T00:19+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Abascal y Broncano protagonizan un intenso debate sobre vivienda, clima e inmigración en una 'Revuelta' sin las preguntas clásicas",
-      "medio": "20minutos",
-      "url": "https://www.20minutos.es/nacional/abascal-broncano-protagonizan-un-intenso-debate-sobre-vivienda-clima-inmigracion-una-revuelta-sin-las-preguntas-clasicas_7059062_0.html",
-      "fecha": "2026-11-09T23:46+00:00",
-      "partidos": [
-        "vox"
-      ]
-    },
-    {
-      "titulo": "Broncano y Abascal, deconstrucción sin éxito",
-      "medio": "El País",
-      "url": "https://elpais.com/espana/2026-11-09/broncano-y-abascal-deconstruccion-sin-exito.html",
-      "fecha": "2026-11-09T23:21+00:00",
-      "partidos": [
-        "vox"
-      ]
-    },
-    {
-      "titulo": "Abascal califica a Sánchez de “dictador” en el programa estrella de la televisión pública",
-      "medio": "El País",
-      "url": "https://elpais.com/espana/elecciones-generales/2026-11-09/abascal-califica-a-sanchez-de-dictador-en-el-el-programa-estrella-de-la-television-publica.html",
-      "fecha": "2026-11-09T23:11+00:00",
-      "partidos": [
-        "vox"
-      ]
-    },
-    {
-      "titulo": "La entrevista con Abascal le estalla en la cara a Broncano",
-      "medio": "elDiario.es",
-      "url": "https://www.eldiario.es/politica/entrevista-abascal-le-estalla-cara-broncano_129_13650926.html",
-      "fecha": "2026-11-09T23:10+00:00",
-      "partidos": [
-        "vox"
-      ]
-    },
-    {
-      "titulo": "Abascal aboga por \"regular\" los fondos buitre para evitar la especulación con la vivienda",
-      "medio": "Europa Press",
-      "url": "https://www.europapress.es/nacional/noticia-abascal-aboga-regular-fondos-buitre-evitar-especulacion-vivienda-20261110000544.html",
-      "fecha": "2026-11-09T23:05+00:00",
-      "partidos": [
-        "vox"
-      ]
-    },
-    {
-      "titulo": "Abascal justifica ante Broncano llamar \"dictador\" a Pedro Sánchez y asegura que \"asaltó todas las instituciones\"",
-      "medio": "elDiario.es",
-      "url": "https://www.eldiario.es/politica/abascal-justifica-broncano-llamar-dictador-pedro-sanchez-asegura-asalto-instituciones_1_13649863.html",
-      "fecha": "2026-11-09T22:42+00:00",
-      "partidos": [
-        "psoe",
-        "vox"
-      ]
-    },
-    {
-      "titulo": "Abascal se despliega en inmigración y hace equilibrios sobre las mujeres y Gaza en 'La Revuelta'",
-      "medio": "El Mundo",
-      "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/09/6af21389e4d4d8c70e8b45a7.html",
-      "fecha": "2026-11-09T22:37+00:00",
-      "partidos": [
-        "vox"
-      ]
-    },
-    {
-      "titulo": "Pedro Sánchez anuncia consejos de ministros extraordinarios antes del 29-N con medidas sociales: “Hay temas que se nos han quedado pendientes”",
-      "medio": "El País",
-      "url": "https://elpais.com/espana/elecciones-generales/2026-11-09/pedro-sanchez-anuncia-consejos-de-ministros-extraordinarios-antes-de-las-elecciones-con-medidas-sociales-hay-temas-que-se-nos-han-quedado-pendientes.html",
-      "fecha": "2026-11-09T22:36+00:00",
-      "partidos": [
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "Sánchez ve evidencias para investigar la presunta reunión del abogado del PP con Koldo García",
-      "medio": "Europa Press",
-      "url": "https://www.europapress.es/nacional/noticia-sanchez-ve-evidencias-investigar-presunta-reunion-abogado-pp-koldo-garcia-20261109233326.html",
-      "fecha": "2026-11-09T22:33+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "La angustia de probar que Abascal no es un monstruo",
-      "medio": "El Mundo",
-      "url": "https://www.elmundo.es/espana/2026/11/09/6af2456bfc6c8308488b458a.html",
-      "fecha": "2026-11-09T22:27+00:00",
-      "partidos": [
-        "vox"
-      ]
-    },
-    {
-      "titulo": "El Frente Amplio centrará su campaña en 16 provincias para pelear por el último escaño",
-      "medio": "elDiario.es",
-      "url": "https://www.eldiario.es/politica/frente-amplio-centrara-campana-16-provincias-pelear-ultimo-escano_1_13650440.html",
-      "fecha": "2026-11-09T22:02+00:00",
-      "partidos": [
-        "sumar"
-      ]
-    },
-    {
-      "titulo": "La mayoría de los votantes del PSOE respalda la gestión del Gobierno del accidente de Urda",
-      "medio": "elDiario.es",
-      "url": "https://www.eldiario.es/politica/mayoria-votantes-psoe-respalda-gestion-gobierno-accidente-urda_1_13649244.html",
-      "fecha": "2026-11-09T22:02+00:00",
-      "partidos": [
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "El voto útil no compra todas las conciencias en Teruel: \"Yo no votaré al PSOE\"",
-      "medio": "El Mundo",
-      "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/09/6af1f5cde4d4d8c61f8b4579.html",
-      "fecha": "2026-11-09T21:42+00:00",
-      "partidos": [
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "Los alumnos no podrán pasar de curso con suspensos en la ESO y habrá nota mínima para estudiar Magisterio: así es el programa de Feijóo en Educación",
-      "medio": "El Mundo",
-      "url": "https://www.elmundo.es/espana/2026/11/09/6af1dc48fc6c835f188b4575.html",
-      "fecha": "2026-11-09T21:42+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Abascal se despide de Broncano deseándole suerte con 'La Revuelta': \"A veces me sale un punto de cómico que tú has perdido hoy\"",
-      "medio": "20minutos",
-      "url": "https://www.20minutos.es/nacional/santiago-abascal-revuelta-directo-broncano-entrevista-lider-vox-marcada-por-cambios-publico-previsto_7058937_6.html",
-      "fecha": "2026-11-09T20:15+00:00",
-      "partidos": [
-        "vox"
-      ]
-    },
-    {
-      "titulo": "Frente Amplio acepta que la Academia de TV organice los debates pero exige que incluyan a las cuatro candidaturas",
-      "medio": "Europa Press",
-      "url": "https://www.europapress.es/nacional/noticia-frente-amplio-acepta-academia-tv-organice-debates-exige-incluyan-cuatro-candidaturas-20261109210717.html",
-      "fecha": "2026-11-09T20:07+00:00",
-      "partidos": [
-        "sumar"
-      ]
-    },
-    {
-      "titulo": "Feijóo promete crear un plan de choque para proteger la frontera marítima y combatir a las mafias en la ruta Argelia-Baleares",
-      "medio": "El Mundo",
-      "url": "https://www.elmundo.es/baleares/2026/11/09/6af2070de4d4d804028b459a.html",
-      "fecha": "2026-11-09T20:01+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Feijóo agita el fantasma de la \"inseguridad\" y el \"desorden\" y promete blindar Balears frente a la inmigración",
-      "medio": "elDiario.es",
-      "url": "https://www.eldiario.es/illes-balears/politica/feijoo-agita-fantasma-inseguridad-desorden-promete-blindar-balears-frente-inmigracion_1_13650684.html",
-      "fecha": "2026-11-09T19:59+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Abascal hoy en 'La Revuelta', última hora en directo: a qué hora empieza la entrevista y qué se sabe del público",
-      "medio": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/politica/20261109/11680253/entrevista-santiago-abascal-la-revuelta-david-broncano-ultima-hora-hoy-en-directo.html",
-      "fecha": "2026-11-09T19:36+00:00",
-      "partidos": [
-        "vox"
-      ]
-    },
-    {
-      "titulo": "El PP acepta que la Academia de Televisión organice los debates electorales tras la propuesta del PSOE",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/pp-acepta-academia-television-organice-debates-electorales-20261109195130-nt.html",
-      "fecha": "2026-11-09T19:19+00:00",
-      "partidos": [
-        "pp",
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "Vivas condena la agresión a una ceutí musulmana y acusa al PSOE de utilizarla para dividir",
-      "medio": "elDiario.es",
-      "url": "https://www.eldiario.es/desalambre/vivas-condena-agresion-ceuti-musulmana-acusa-psoe-utilizarla-dividir_1_13650729.html",
-      "fecha": "2026-11-09T19:00+00:00",
-      "partidos": [
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "El PP acepta que la Academia de Televisión organice los debates y critica el \"veto\" del PSOE a los grupos privados",
-      "medio": "Europa Press",
-      "url": "https://www.europapress.es/nacional/noticia-pp-acepta-academia-television-organice-debates-critica-veto-psoe-grupos-privados-20261109194934.html",
-      "fecha": "2026-11-09T18:49+00:00",
-      "partidos": [
-        "pp",
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "Feijóo niega haber ofrecido dinero a Koldo para derrocar a Sánchez: \"En nombre del PP no se ha ofrecido un euro a nadie\"",
-      "medio": "20minutos",
-      "url": "https://www.20minutos.es/nacional/feijoo-niega-haber-ofrecido-dinero-koldo-para-derrocar-sanchez-nombre-pp-no-se-ha-ofrecido-un-euro-nadie_7059009_0.html",
-      "fecha": "2026-11-09T18:36+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "El PP acepta la propuesta del PSOE de que sea la Academia de Televisión la que organice el 'cara a cara' y el debate a cuatro",
-      "medio": "El Mundo",
-      "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/09/6af1c467fc6c830f048b458f.html",
-      "fecha": "2026-11-09T18:29+00:00",
-      "partidos": [
-        "pp",
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "El PP acepta que los debates electorales sean organizados por la Academia de Televisión",
-      "medio": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/politica/20261109/11680272/pp-acepta-debates-electorales-sean-organizados-academia-television.html",
-      "fecha": "2026-11-09T18:28+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "El BNG se autoproclama garantía para dar a los gallegos una «vida digna»",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/galicia/bng-autoproclama-garantia-dar-gallegos-vida-digna-20261109190708-nt.html",
-      "fecha": "2026-11-09T18:07+00:00",
-      "partidos": [
-        "bng"
-      ]
-    },
-    {
-      "titulo": "Puigdemont: \"Me violenta tener la nacionalidad española. Como quien se siente mujer atrapada en el cuerpo de un hombre\"",
-      "medio": "20minutos",
-      "url": "https://www.20minutos.es/nacional/puigdemont-me-violenta-tener-nacionalidad-espanola-como-quien-se-siente-mujer-atrapada-cuerpo-un-hombre_7058998_0.html",
-      "fecha": "2026-11-09T17:53+00:00",
-      "partidos": [
-        "junts"
-      ]
-    },
-    {
-      "titulo": "Podemos apoya que la Academia de Televisión organice el debate entre candidatos y defiende que esté Irene Montero",
-      "medio": "Europa Press",
-      "url": "https://www.europapress.es/nacional/noticia-podemos-apoya-academia-television-organice-debate-candidatos-defiende-irene-montero-20261109185153.html",
-      "fecha": "2026-11-09T17:51+00:00",
-      "partidos": [
-        "podemos"
-      ]
-    },
-    {
-      "titulo": "Junts aspira a retener la llave de las mayorías en el Congreso tras las elecciones para condicionar al gobierno",
-      "medio": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/politica/20261109/11680235/junts-aspira-retener-llave-mayorias-congreso-elecciones-condicionar-gobierno.html",
-      "fecha": "2026-11-09T17:27+00:00",
-      "partidos": [
-        "junts"
-      ]
-    },
-    {
-      "titulo": "El PP reconoce una reunión entre el abogado del partido y la letrada de Koldo",
-      "medio": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/politica/20261109/11680138/pp-reconoce-reunion-abogado-partido-letrada-koldo.html",
-      "fecha": "2026-11-09T15:54+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "El PSOE propone que la Academia de Televisión organice el cara a cara y el debate a cuatro si el PP mantiene su veto a RTVE",
-      "medio": "20minutos",
-      "url": "https://www.20minutos.es/nacional/psoe-propone-que-academia-television-organice-cara-cara-debate-cuatro-si-pp-mantiene-su-veto-rtve_7058940_0.html",
-      "fecha": "2026-11-09T15:42+00:00",
-      "partidos": [
-        "pp",
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "\"Un voto como una casa\", el lema del Frente Amplio para el 29 de noviembre",
-      "medio": "El Confidencial",
-      "url": "https://www.elconfidencial.com/espana/2026-11-09/frente-amplio-vivienda-campana-electoral-1tps_4461688/",
-      "fecha": "2026-11-09T14:37+00:00",
-      "partidos": [
-        "sumar"
-      ]
-    },
-    {
-      "titulo": "Frente Amplio lanza su lema para las elecciones del 29-N: \"Un voto como una casa\"",
-      "medio": "20minutos",
-      "url": "https://www.20minutos.es/nacional/frente-amplio-lanza-su-lema-para-las-elecciones-29-n-un-voto-como-una-casa_7058919_0.html",
-      "fecha": "2026-11-09T14:02+00:00",
-      "partidos": [
-        "sumar"
-      ]
-    },
-    {
-      "titulo": "El Frente Amplio convierte la campaña en un \"referéndum\" por la vivienda con el lema \"Un voto como una casa\"",
-      "medio": "El Mundo",
-      "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/09/6af1d23ae9cf4a85548b459c.html",
-      "fecha": "2026-11-09T14:01+00:00",
-      "partidos": [
-        "sumar"
-      ]
-    },
-    {
-      "titulo": "Feijóo promete un millón de viviendas nuevas y garantiza \"okupas fuera\" en 48 horas",
-      "medio": "20minutos",
-      "url": "https://www.20minutos.es/nacional/feijoo-promete-un-millon-viviendas-nuevas-garantiza-okupas-fuera-48-horas_7058916_0.html",
-      "fecha": "2026-11-09T13:52+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Feijóo niega haber ofrecido pagos a Koldo García para difamar a Sánchez: “Es absolutamente falso”",
-      "medio": "El País",
-      "url": "https://elpais.com/espana/elecciones-generales/2026-11-09/feijoo-niega-haber-ofrecido-pagos-a-koldo-garcia-para-difamar-a-sanchez-es-absolutamente-falso.html",
-      "fecha": "2026-11-09T13:50+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Feijóo afirma que la huelga general \"es un disparate\" que \"no existe\" en otros países de la Unión Europea",
-      "medio": "elDiario.es",
-      "url": "https://www.eldiario.es/politica/feijoo-afirma-huelga-general-disparate-no-existe-paises-union-europea_1_13649826.html",
-      "fecha": "2026-11-09T13:28+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "El Supremo rechaza la petición de Vox de impedir votar el 29N también a los hijos de los nacionalizados por la ley de nietos",
-      "medio": "elDiario.es",
-      "url": "https://www.eldiario.es/politica/supremo-rechaza-peticion-vox-impedir-votar-29n-hijos-nacionalizados-ley-nietos_1_13649698.html",
-      "fecha": "2026-11-09T13:26+00:00",
-      "partidos": [
-        "vox"
-      ]
-    },
-    {
-      "titulo": "El PP acepta que la Academia de la Televisión organice los debates electorales tras la propuesta del PSOE",
-      "medio": "elDiario.es",
-      "url": "https://www.eldiario.es/politica/psoe-propone-academia-television-organice-debates-electorales-si-pp-mantiene-veto-rtve_1_13649719.html",
-      "fecha": "2026-11-09T13:16+00:00",
-      "partidos": [
-        "pp",
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "Frente apunta a 15 provincias donde disputar escaños a PP y Vox el 29N: \"No nos dirigimos a la izquierda, sino a la gente trabajadora\"",
-      "medio": "20minutos",
-      "url": "https://www.20minutos.es/nacional/frente-apunta-15-provincias-donde-disputar-escanos-pp-vox-29n-no-nos-dirigimos-izquierda-sino-gente-trabajadora_7058899_0.html",
-      "fecha": "2026-11-09T13:10+00:00",
-      "partidos": [
-        "pp",
-        "vox"
-      ]
-    },
-    {
-      "titulo": "Feijóo derogará la Ley Trans: “Declararse hombre o mujer en el Registro Civil es una frivolidad del sanchismo”",
-      "medio": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/politica/20261109/11680033/feijoo-derogara-ley-trans-declararse-hombre-mujer-registro-civil-frivolidad-sanchismo.html",
-      "fecha": "2026-11-09T13:05+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "El PSOE propone que la Academia de Televisión organice los debates con Sánchez y Feijóo",
-      "medio": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/politica/20261109/11680031/psoe-propone-academia-television-organice-debates-sanchez-feijoo.html",
-      "fecha": "2026-11-09T13:05+00:00",
-      "partidos": [
-        "pp",
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "El Frente Amplio acusa al PSOE de hacer campaña con sus logros para aglutinar el voto de la izquierda",
-      "medio": "El Confidencial",
-      "url": "https://www.elconfidencial.com/espana/2026-11-09/el-frente-amplio-acusa-al-psoe-de-hacer-campana-con-sus-logros-para-aglutinar-el-voto-de-la-izquierda_4461614/",
-      "fecha": "2026-11-09T12:53+00:00",
-      "partidos": [
-        "psoe",
-        "sumar"
-      ]
-    },
-    {
-      "titulo": "Junqueras pone el 29-N como un nuevo ciclo con el objetivo que ERC sea primera fuerza en Catalunya",
-      "medio": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/politica/elecciones/20261109/11680015/junqueras-pone-29-n-nuevo-ciclo-objetivo-erc-sea-primera-fuerza-catalunya.html",
-      "fecha": "2026-11-09T12:47+00:00",
-      "partidos": [
-        "erc"
-      ]
-    },
-    {
-      "titulo": "Delcy Rodríguez se querella contra Aldama por injurias al vincularla a la financiación del PSOE",
-      "medio": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/politica/20261109/11680000/delcy-rodriguez-querella-aldama-injurias-vincularla-financiacion-psoe.html",
-      "fecha": "2026-11-09T12:36+00:00",
-      "partidos": [
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "Gamarra reconoce la reunión del abogado del PP con Koldo García pero dice que es \"mentira\" que le ofrecieran dinero",
-      "medio": "elDiario.es",
-      "url": "https://www.eldiario.es/politica/gamarra-reconoce-reunion-abogado-pp-koldo-garcia-dice-mentira-le-ofrecieran-dinero_1_13649435.html",
-      "fecha": "2026-11-09T12:34+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Gamarra denuncia su expulsión y la de parlamentarios del PP en la frontera de Melilla y responsabiliza de ello a la Delegación del Gobierno y a Interior",
-      "medio": "El Mundo",
-      "url": "https://www.elmundo.es/espana/2026/11/09/6af1bb8021efa0996a8b45a0.html",
-      "fecha": "2026-11-09T12:30+00:00",
-      "partidos": [
-        "pp"
       ]
     }
   ],
