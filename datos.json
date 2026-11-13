@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-13T12:43+00:00",
+  "actualizado": "2026-11-13T17:06+00:00",
   "temas": [
     {
       "id": "vivienda",
@@ -2440,6 +2440,230 @@
   ],
   "noticias": [
     {
+      "titulo": "Jordi Wild, obligado a interrumpir su entrevista a Pedro Sánchez por los datos sobre inmigración marroquí: «Pido verificación»",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/jordi-wild-obligado-interrumpir-entrevista-pedro-sanchez-20261113173038-nt.html",
+      "fecha": "2026-11-13T16:30+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "Colau afirma tener «tolerancia cero con la corrupción», pero justifica que Sumar siguiese en el Gobierno",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/colau-afirma-tener-tolerancia-cero-corrupcion-justifica-20261113100247-nt.html",
+      "fecha": "2026-11-13T16:27+00:00",
+      "partidos": [
+        "sumar"
+      ]
+    },
+    {
+      "titulo": "Feijóo, con Jordi Wild: «Yo no sé inglés, pero sé gobernar. Y no insulto en ningún idioma»",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/feijoo-jordi-wild-encabronaria-aliados-europeos-decir-20261113121544-nt.html",
+      "fecha": "2026-11-13T16:11+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "Iván Muñoz, el verificador de Jordi Wild: \"Me preparé más a Pedro Sánchez porque lleva ocho años gobernando y venía con muchos datos\"",
+      "medio": "El Confidencial",
+      "url": "https://www.elconfidencial.com/espana/2026-11-13/jordi-wild-quienes-son-verificadores-entrevista-sanchez-feijoo_4464672/",
+      "fecha": "2026-11-13T16:09+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "“Cruel”, “decepción” o “del siglo XX”: Así han definido Sánchez, Feijóo y Colau a sus rivales ante Jordi Wild",
+      "medio": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/politica/20261113/11683668/cruel-decepcion-siglo-xx-asi-han-definido-sanchez-feijoo-colau-rivales-jordi-wild.html",
+      "fecha": "2026-11-13T15:58+00:00",
+      "partidos": [
+        "pp",
+        "sumar"
+      ]
+    },
+    {
+      "titulo": "El cara a cara entre Sánchez y Feijóo será el próximo jueves y lo moderará María Casado",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/cara-cara-sanchez-feijoo-proximo-jueves-moderara-20261113164835-nt.html",
+      "fecha": "2026-11-13T15:48+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "Frente Amplio quiere \"extinguir\" los pisos turísticos en bloques residenciales y zonas tensionadas",
+      "medio": "20minutos",
+      "url": "https://www.20minutos.es/nacional/frente-amplio-quiere-extinguir-los-pisos-turisticos-bloques-residenciales-zonas-tensionadas_7060881_0.html",
+      "fecha": "2026-11-13T15:48+00:00",
+      "partidos": [
+        "sumar"
+      ]
+    },
+    {
+      "titulo": "El PP convierte a Feijóo en un superhéroe de anime que lucha contra Sánchez: \"No piensa echarse atrás\"",
+      "medio": "20minutos",
+      "url": "https://www.20minutos.es/nacional/pp-convierte-feijoo-un-superheroe-anime-que-lucha-contra-sanchez-no-piensa-echarse-atras_7060884_0.html",
+      "fecha": "2026-11-13T15:46+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "Sánchez y Feijóo debatirán cara a cara el 19 de noviembre en la Academia de Televisión",
+      "medio": "El Confidencial",
+      "url": "https://www.elconfidencial.com/espana/2026-11-13/debate-sanchez-feijoo-elecciones-gobierno-1hms_4464743/",
+      "fecha": "2026-11-13T15:38+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "El PSOE denuncia al PP tras asegurar Koldo que le ofrecieron dinero si mentía contra el Gobierno",
+      "medio": "El Confidencial",
+      "url": "https://www.elconfidencial.com/espana/2026-11-13/psoe-denuncia-pp-koldo-1hms_4464708/",
+      "fecha": "2026-11-13T15:33+00:00",
+      "partidos": [
+        "pp",
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "Encuestas elecciones generales 29N en Castilla y León: resultados de PSOE, PP y Vox y ganador según los sondeos",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/castilla-leon/encuestas-elecciones-generales-29n-castilla-leon-resultados-20261113051500-nt.html",
+      "fecha": "2026-11-13T15:30+00:00",
+      "partidos": [
+        "pp",
+        "psoe",
+        "vox"
+      ]
+    },
+    {
+      "titulo": "El consejo de Sánchez a Abascal durante su entrevista con Jordi Wild: \"Se pone unas chaquetas muy estrechas\"",
+      "medio": "20minutos",
+      "url": "https://www.20minutos.es/nacional/consejo-sanchez-abascal-durante-su-entrevista-con-jordi-wild-se-pone-unas-chaquetas-muy-estrechas_7060864_0.html",
+      "fecha": "2026-11-13T15:16+00:00",
+      "partidos": [
+        "vox"
+      ]
+    },
+    {
+      "titulo": "El cara a cara entre Pedro Sánchez y Alberto Núñez Feijóo será este jueves 19 de noviembre y estará moderado por María Casado",
+      "medio": "20minutos",
+      "url": "https://www.20minutos.es/nacional/cara-cara-entre-pedro-sanchez-alberto-nunez-feijoo-sera-este-jueves-19-noviembre-estara-moderado-por-maria-casado_7060853_0.html",
+      "fecha": "2026-11-13T15:04+00:00",
+      "partidos": [
+        "pp",
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "El cara a cara entre Sánchez y Feijóo será el próximo jueves, moderado por María Casado",
+      "medio": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/politica/20261113/11683641/cara-cara-sanchez-feijoo-sera-jueves-moderado-maria-casado.html",
+      "fecha": "2026-11-13T15:03+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "Abascal se reafirma en su plantón a Jordi Wild y la izquierda le llama \"cobarde\"",
+      "medio": "20minutos",
+      "url": "https://www.20minutos.es/nacional/abascal-se-reafirma-su-planton-jordi-wild-izquierda-le-llama-cobarde_7060854_0.html",
+      "fecha": "2026-11-13T14:59+00:00",
+      "partidos": [
+        "vox"
+      ]
+    },
+    {
+      "titulo": "El PSOE denuncia al PP a la Fiscalía por los pagos a la defensa de Koldo García",
+      "medio": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/politica/20261113/11683633/psoe-denuncia-pp-pagos-defensa-koldo-garcia.html",
+      "fecha": "2026-11-13T14:56+00:00",
+      "partidos": [
+        "pp",
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "Junts exige un concierto económico como el vasco tras el 29-N porque \"cada catalán paga por tres españoles\"",
+      "medio": "El Mundo",
+      "url": "https://www.elmundo.es/cataluna/2026/11/13/6af6f59221efa03f778b45a1.html",
+      "fecha": "2026-11-13T14:04+00:00",
+      "partidos": [
+        "junts"
+      ]
+    },
+    {
+      "titulo": "La Policía carga contra varios manifestantes que increpaban a Abascal en un acto de campaña en Toledo",
+      "medio": "20minutos",
+      "url": "https://www.20minutos.es/nacional/policia-carga-contra-varios-manifestantes-que-increpaban-abascal-un-acto-campana-toledo_7060805_0.html",
+      "fecha": "2026-11-13T13:30+00:00",
+      "partidos": [
+        "vox"
+      ]
+    },
+    {
+      "titulo": "Feijóo promete bajada de impuestos a los jóvenes: “No quiero ser vuestro influencer. Colaboraré para que crezcáis”",
+      "medio": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/politica/20261113/11683561/feijoo-promete-bajada-impuestos-jovenes-quiero-vuestro-influencer-colaborare-crezcais.html",
+      "fecha": "2026-11-13T13:18+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "ERC propone blindar por ley que se destine el 30% de la inversión ferroviaria a mantenimiento y seguridad",
+      "medio": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/politica/elecciones/20261113/11683554/erc-propone-blindar-ley-destine-30-inversion-ferroviaria-mantenimiento-seguridad.html",
+      "fecha": "2026-11-13T13:09+00:00",
+      "partidos": [
+        "erc"
+      ]
+    },
+    {
+      "titulo": "El PSOE denuncia al PP, Eduardo Inda y Okdiario por los pagos de la defensa de Koldo García",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/politica/psoe-querella-pp-eduardo-inda-okdiario-pagos-defensa-koldo-garcia_1_13661746.html",
+      "fecha": "2026-11-13T13:06+00:00",
+      "partidos": [
+        "pp",
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "Cargas en el mitin de Abascal en Toledo que avisa a Feijóo: “Es un error empezar a vestirse de presidente”",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/castilla-la-mancha/politica/abascal-rodea-simbologia-franquista-avisa-feijoo-error-empezar-vestirse-presidente_1_13661883.html",
+      "fecha": "2026-11-13T13:06+00:00",
+      "partidos": [
+        "pp",
+        "vox"
+      ]
+    },
+    {
+      "titulo": "Pedro Sánchez, frente a Jordi Wild: “No creo que las decisiones del ministro de Transportes hayan afectado directamente en la tragedia de Urda”",
+      "medio": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/politica/20261113/11683433/pedro-sanchez-frente-jordi-wild-creo-decisiones-ministro-transportes-hayan-afectado-directamente-tragedia-urda.html",
+      "fecha": "2026-11-13T12:57+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "Feijóo promete a los jóvenes rebajas fiscales en el primer sueldo, incentivos como autónomos y guarderías gratis",
+      "medio": "Europa Press",
+      "url": "https://www.europapress.es/nacional/noticia-feijoo-promete-jovenes-rebajas-fiscales-primer-sueldo-incentivos-autonomos-guarderias-gratis-20261113134312.html",
+      "fecha": "2026-11-13T12:43+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
       "titulo": "Vea las entrevistas de Jordi Wild a Sánchez, Feijóo y Colau",
       "medio": "El País",
       "url": "https://elpais.com/espana/elecciones-generales/2026-11-13/vea-la-entrevista-de-jordi-wild-a-ada-colau.html",
@@ -2454,6 +2678,15 @@
       "medio": "ABC",
       "url": "https://www.abc.es/espana/aragon/policia-acordona-calle-sede-psoearagon-amenaza-bomba-20261113133657-nt.html",
       "fecha": "2026-11-13T12:36+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "El Gobierno niega que Sánchez se reuniera en 2023 con Cristian Corvillo, su chófer en las primarias del PSOE",
+      "medio": "Europa Press",
+      "url": "https://www.europapress.es/nacional/noticia-gobierno-niega-sanchez-reuniera-2023-cristian-corvillo-chofer-primarias-20261113133533.html",
+      "fecha": "2026-11-13T12:35+00:00",
       "partidos": [
         "psoe"
       ]
@@ -2474,6 +2707,15 @@
       "fecha": "2026-11-13T12:31+00:00",
       "partidos": [
         "psoe"
+      ]
+    },
+    {
+      "titulo": "Frente Amplio plantea excluir de los contratos públicos durante 20 años a empresas ligadas a casos de corrupción",
+      "medio": "Europa Press",
+      "url": "https://www.europapress.es/nacional/noticia-frente-amplio-plante-excluir-contratos-publicos-20-anos-empresas-ligadas-casos-corrupcion-20261113132901.html",
+      "fecha": "2026-11-13T12:29+00:00",
+      "partidos": [
+        "sumar"
       ]
     },
     {
@@ -2611,12 +2853,31 @@
       ]
     },
     {
+      "titulo": "Colau tacha de \"cruel\" al ausente Abascal en su paso por el pódcast de Jordi Wild para buscar el voto joven: \"Las izquierdas hemos sido demasiado moralistas\"",
+      "medio": "El Mundo",
+      "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/13/6af6ef66e9cf4ad4438b4588.html",
+      "fecha": "2026-11-13T11:29+00:00",
+      "partidos": [
+        "vox",
+        "sumar"
+      ]
+    },
+    {
       "titulo": "Junts exige que el dinero de los catalanes se quede en Catalunya y salir de la Lofca",
       "medio": "La Vanguardia",
       "url": "https://www.lavanguardia.com/politica/20261113/11683377/junts-exige-dinero-catalanes-quede-catalunya-salir-lofca.html",
       "fecha": "2026-11-13T11:23+00:00",
       "partidos": [
         "junts"
+      ]
+    },
+    {
+      "titulo": "Feijóo confiesa a Wild que 'eliminará' Vivienda e Igualdad y responde por Dorado: \"Yo no tengo fotos con prostitutas\"",
+      "medio": "El Confidencial",
+      "url": "https://www.elconfidencial.com/espana/2026-11-13/feijoo-confiesa-a-wild-que-eliminara-vivienda-e-igualdad-y-responde-por-dorado_4464429/",
+      "fecha": "2026-11-13T11:12+00:00",
+      "partidos": [
+        "pp"
       ]
     },
     {
@@ -4972,270 +5233,6 @@
         "pp",
         "vox",
         "sumar"
-      ]
-    },
-    {
-      "titulo": "Sánchez sobre Abascal en 'La Revuelta': \"Amenazar sonriendo no es hacer humor, es degradar nuestra democracia\"",
-      "medio": "Europa Press",
-      "url": "https://www.europapress.es/sociedad/noticia-sanchez-abascal-revuelta-amenazar-sonriendo-no-hacer-humor-degradar-democracia-20261110133152.html",
-      "fecha": "2026-11-10T12:31+00:00",
-      "partidos": [
-        "vox"
-      ]
-    },
-    {
-      "titulo": "El PP ligará el IMV y los subsidios al empleo: retirará gradualmente las ayudas a quienes rechacen trabajos sin justificación",
-      "medio": "20minutos",
-      "url": "https://www.20minutos.es/nacional/pp-ligara-imv-los-subsidios-empleo-retirara-gradualmente-las-ayudas-quienes-rechacen-trabajos-sin-justificacion_7059295_0.html",
-      "fecha": "2026-11-10T12:27+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Colau dice que, a diferencia de Abascal, irá a 'La Revuelta' sin elegir al público y defiende una TVE \"sin censura\"",
-      "medio": "Europa Press",
-      "url": "https://www.europapress.es/nacional/noticia-colau-dice-diferencia-abascal-ira-revuelta-elegir-publico-defiende-tve-censura-20261110132434.html",
-      "fecha": "2026-11-10T12:24+00:00",
-      "partidos": [
-        "vox",
-        "sumar"
-      ]
-    },
-    {
-      "titulo": "Feijóo convierte su programa electoral en una enmienda a la totalidad a Sánchez",
-      "medio": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/politica/20261110/11680798/feijoo-convierte-programa-electoral-enmienda-totalidad-sanchez.html",
-      "fecha": "2026-11-10T12:22+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "El PP lleva a su programa al concebido no nacido y la “prioridad” para el acceso a ayudas basada en el arraigo",
-      "medio": "El País",
-      "url": "https://elpais.com/espana/elecciones-generales/2026-11-10/el-pp-lleva-a-su-programa-las-ayudas-al-concebido-no-nacido-y-sustituye-la-ley-de-eutanasia-por-una-de-cuidados-paliativos.html",
-      "fecha": "2026-11-10T12:22+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "María Jesús Montero confirma que el PSOE no irá al pleno de los presupuestos: «Iremos a la huelga»",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/andalucia/maria-jesus-montero-moreno-bonilla-mantiene-pleno-20261110130746-nts.html",
-      "fecha": "2026-11-10T12:09+00:00",
-      "partidos": [
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "PP y Vox pactan un presupuesto para Zaragoza que incluye la prioridad nacional",
-      "medio": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/politica/20261110/11680791/pp-vox-pactan-presupuesto-zaragoza-incluye-prioridad-nacional.html",
-      "fecha": "2026-11-10T12:08+00:00",
-      "partidos": [
-        "pp",
-        "vox"
-      ]
-    },
-    {
-      "titulo": "El Gobierno lleva al Constitucional la prioridad nacional del PP y Vox en Valencia",
-      "medio": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/local/valencia/20261110/11680732/gobierno-lleva-constitucional-prioridad-nacional-pp-vox-valencia.html",
-      "fecha": "2026-11-10T11:41+00:00",
-      "partidos": [
-        "pp",
-        "vox"
-      ]
-    },
-    {
-      "titulo": "El PP mantendría su ventaja en Andalucía, Vox crecería y Adelante entraría en el Congreso",
-      "medio": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/local/andalucia/20261110/11680717/pp-mantendria-ventaja-andalucia-vox-creceria-adelante-entraria-congreso.html",
-      "fecha": "2026-11-10T11:39+00:00",
-      "partidos": [
-        "pp",
-        "vox"
-      ]
-    },
-    {
-      "titulo": "Vox lamenta que se recortaron 40 minutos de la entrevista con Broncano en 'La Revuelta'",
-      "medio": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/politica/20261110/11680738/vox-queda-satisfecho-entrevista-broncano-critica-recortaron-40-minutos.html",
-      "fecha": "2026-11-10T11:31+00:00",
-      "partidos": [
-        "vox"
-      ]
-    },
-    {
-      "titulo": "El PSOE renuncia a defender su enmienda a la totalidad al primer Presupuesto de PP y Vox en Andalucía para ir a la huelga",
-      "medio": "elDiario.es",
-      "url": "https://www.eldiario.es/andalucia/psoe-renuncia-defender-enmienda-totalidad-primer-presupuesto-pp-vox-andalucia-huelga_1_13639918.html",
-      "fecha": "2026-11-10T11:23+00:00",
-      "partidos": [
-        "pp",
-        "psoe",
-        "vox"
-      ]
-    },
-    {
-      "titulo": "Tormenta política tras la visita de Abascal a Broncano en ‘La revuelta’: “Es terrible que TVE le diera espacio”",
-      "medio": "El País",
-      "url": "https://elpais.com/espana/elecciones-generales/2026-11-10/tormenta-politica-tras-la-visita-de-abascal-a-broncano-en-la-revuelta-es-terrible-que-tve-le-diera-espacio.html",
-      "fecha": "2026-11-10T11:00+00:00",
-      "partidos": [
-        "vox"
-      ]
-    },
-    {
-      "titulo": "Sassoli, Caballé, Vara... los actos católicos a los que sí acudió Pedro Sánchez pese a que dice ahora que no acude \"a oficios religiosos\"",
-      "medio": "20minutos",
-      "url": "https://www.20minutos.es/nacional/sassoli-caballe-vara-los-actos-catolicos-los-que-si-acudio-pedro-sanchez-pese-que-dice-ahora-que-no-acude-oficios-religiosos_7059185_0.html",
-      "fecha": "2026-11-10T10:59+00:00",
-      "partidos": [
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "Abascal cree que Broncano \"lo pasó mal\" en la entrevista debido a las presiones por 'blanquear el franquismo'",
-      "medio": "El Confidencial",
-      "url": "https://www.elconfidencial.com/espana/2026-11-10/figaredo-revuelta-entrevista-sanidad-1tps_4462029/",
-      "fecha": "2026-11-10T10:55+00:00",
-      "partidos": [
-        "vox"
-      ]
-    },
-    {
-      "titulo": "El Gobierno lleva al Constitucional la \"prioridad nacional\" de PP y Vox en la Comunitat Valenciana",
-      "medio": "elDiario.es",
-      "url": "https://www.eldiario.es/comunitat-valenciana/politica/gobierno-recurre-constitucional-prioridad-nacional-19-cambios-legislativos-perez-llorca-vox_1_13651593.html",
-      "fecha": "2026-11-10T10:46+00:00",
-      "partidos": [
-        "pp",
-        "vox"
-      ]
-    },
-    {
-      "titulo": "Ayuso respalda que Abascal llamase \"dictador\" a Sánchez en La Revuelta y carga contra Broncano: \"¿De qué vas?\"",
-      "medio": "elDiario.es",
-      "url": "https://www.eldiario.es/madrid/ayuso-respalda-abascal-llamase-dictador-sanchez-revuelta-carga-broncano-vas_1_13651336.html",
-      "fecha": "2026-11-10T10:33+00:00",
-      "partidos": [
-        "vox"
-      ]
-    },
-    {
-      "titulo": "Las mentiras de Abascal en 'La Revuelta'",
-      "medio": "elDiario.es",
-      "url": "https://www.eldiario.es/politica/mentiras-abascal-revuelta_1_13651203.html",
-      "fecha": "2026-11-10T10:31+00:00",
-      "partidos": [
-        "vox"
-      ]
-    },
-    {
-      "titulo": "El PP denuncia la “huelga electoral” de los sindicatos contra el PP",
-      "medio": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/politica/20261110/11680676/pp-denuncia-huelga-electoral-sindicatos-pp.html",
-      "fecha": "2026-11-10T10:20+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Abascal afirma que Broncano \"lo pasó mal\" en su entrevista en 'La Revuelta' por la presión \"inaceptable\" de la izquierda",
-      "medio": "20minutos",
-      "url": "https://www.20minutos.es/nacional/abascal-afirma-que-broncano-paso-mal-su-entrevista-revuelta-por-presion-inaceptable-izquierda_7059176_0.html",
-      "fecha": "2026-11-10T10:14+00:00",
-      "partidos": [
-        "vox"
-      ]
-    },
-    {
-      "titulo": "Abascal cree que la huelga general “no debería ser legal” y espera que tenga “muy poco respaldo”",
-      "medio": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/politica/20261110/11680660/abascal-cree-huelga-general-deberia-legal-espera-tenga-poco-respaldo.html",
-      "fecha": "2026-11-10T10:05+00:00",
-      "partidos": [
-        "vox"
-      ]
-    },
-    {
-      "titulo": "Ione Belarra, sobre Broncano y Abascal: \"No le habría entrevistado sin el visto bueno del PSOE, esto va de acabar con la izquierda\"",
-      "medio": "20minutos",
-      "url": "https://www.20minutos.es/nacional/ione-belarra-sobre-broncano-abascal-no-le-habria-entrevistado-sin-visto-bueno-psoe-esto-va-acabar-con-izquierda_7059157_0.html",
-      "fecha": "2026-11-10T09:40+00:00",
-      "partidos": [
-        "psoe",
-        "vox"
-      ]
-    },
-    {
-      "titulo": "Tellado denuncia la \"huelga electoral\" de los sindicatos contra el PP, \"el verdadero partido de los currantes\"",
-      "medio": "Europa Press",
-      "url": "https://www.europapress.es/nacional/noticia-tellado-denuncia-huelga-electoral-sindicatos-contra-pp-verdadero-partido-currantes-20261110103158.html",
-      "fecha": "2026-11-10T09:31+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "El PSPV denuncia a Pérez Llorca ante la Fiscalía por el contrato al bufete de un exdiputado del PP condenado en Gürtel",
-      "medio": "elDiario.es",
-      "url": "https://www.eldiario.es/comunitat-valenciana/pspv-denuncia-perez-llorca-fiscalia-contrato-bufete-exdiputado-pp-condenado-gurtel_1_13651288.html",
-      "fecha": "2026-11-10T09:27+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Abascal cree que Broncano \"lo pasó mal\" en su entrevista en 'La Revuelta' por la presión de la izquierda",
-      "medio": "Europa Press",
-      "url": "https://www.europapress.es/nacional/noticia-abascal-cree-broncano-paso-mal-entrevista-revuelta-presion-inaceptable-izquierda-20261110095928.html",
-      "fecha": "2026-11-10T08:59+00:00",
-      "partidos": [
-        "vox"
-      ]
-    },
-    {
-      "titulo": "PNV cree \"terrible\" que TVE \"diera espacio\" a Abascal, al que \"se le está poniendo cara de vicepresidente\"",
-      "medio": "Europa Press",
-      "url": "https://www.europapress.es/euskadi/noticia-pnv-cree-terrible-tve-diera-espacio-abascal-le-poniendo-cara-vicepresidente-20261110091733.html",
-      "fecha": "2026-11-10T08:17+00:00",
-      "partidos": [
-        "vox",
-        "pnv"
-      ]
-    },
-    {
-      "titulo": "El 53% de votantes del PSOE cree que el Gobierno tuvo responsabilidad en la tragedia de Urda y solo el 14% ve fallo humano",
-      "medio": "20minutos",
-      "url": "https://www.20minutos.es/nacional/53-votantes-psoe-cree-que-gobierno-tuvo-responsabilidad-tragedia-urda-solo-14-ve-fallo-humano_7058880_0.html",
-      "fecha": "2026-11-10T05:16+00:00",
-      "partidos": [
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "Los ciudadanos creen que el PSOE tomaría mejores decisiones en Educación y Sanidad y el PP en Economía y Vivienda",
-      "medio": "20minutos",
-      "url": "https://www.20minutos.es/nacional/los-ciudadanos-creen-que-psoe-tomaria-mejores-decisiones-educacion-sanidad-pp-economia-vivienda_7058822_0.html",
-      "fecha": "2026-11-10T05:16+00:00",
-      "partidos": [
-        "pp",
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "PP y Vox conservan la mayoría absoluta mientras el PSOE apenas se deja un punto tras la tragedia de Urda",
-      "medio": "20minutos",
-      "url": "https://www.20minutos.es/nacional/pp-vox-conservan-mayoria-absoluta-mientras-psoe-apenas-se-deja-un-punto-tras-tragedia-urda_7058765_0.html",
-      "fecha": "2026-11-10T05:15+00:00",
-      "partidos": [
-        "pp",
-        "psoe",
-        "vox"
       ]
     }
   ],
