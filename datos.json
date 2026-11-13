@@ -1656,6 +1656,452 @@
           "verificada": true
         }
       ]
+    },
+    "vox": {
+      "vivienda": [
+        {
+          "texto": "Dar acceso preferente a los españoles a vivienda pública, guarderías, ayudas y otros servicios sociales.",
+          "cita": "Acceso preferente de los españoles a vivienda pública",
+          "pagina": 19,
+          "fuente": "https://www.voxespana.es/wp-content/uploads/2026/11/Programa-completo-A5-1.pdf#page=19",
+          "fecha": "2026-11-13",
+          "verificada": true
+        },
+        {
+          "texto": "Reformar la Ley del Suelo para ampliar suelo disponible y agilizar procedimientos de construcción.",
+          "cita": "Reforma de la Ley del Suelo.",
+          "pagina": 23,
+          "fuente": "https://www.voxespana.es/wp-content/uploads/2026/11/Programa-completo-A5-1.pdf#page=23",
+          "fecha": "2026-11-13",
+          "verificada": true
+        },
+        {
+          "texto": "Ampliar la inversión pública en vivienda y aumentar la construcción de vivienda protegida con colaboración público-privada.",
+          "cita": "Aumentar con urgencia la construcción de vivienda protegida",
+          "pagina": 23,
+          "fuente": "https://www.voxespana.es/wp-content/uploads/2026/11/Programa-completo-A5-1.pdf#page=23",
+          "fecha": "2026-11-13",
+          "verificada": true
+        },
+        {
+          "texto": "Derogar la Ley de Vivienda.",
+          "cita": "Derogación de la Ley de Vivienda.",
+          "pagina": 23,
+          "fuente": "https://www.voxespana.es/wp-content/uploads/2026/11/Programa-completo-A5-1.pdf#page=23",
+          "fecha": "2026-11-13",
+          "verificada": true
+        },
+        {
+          "texto": "Desalojar la vivienda okupada en menos de 24 horas y endurecer el Código Penal.",
+          "cita": "Desalojo de la vivienda okupada en menos de 24",
+          "pagina": 24,
+          "fuente": "https://www.voxespana.es/wp-content/uploads/2026/11/Programa-completo-A5-1.pdf#page=24",
+          "fecha": "2026-11-13",
+          "verificada": true
+        },
+        {
+          "texto": "Prohibir el arrendamiento a inmigrantes ilegales exigiendo verificar la residencia legal en los contratos de alquiler.",
+          "cita": "Prohibición del arrendamiento a inmigrantes ilegales.",
+          "pagina": 24,
+          "fuente": "https://www.voxespana.es/wp-content/uploads/2026/11/Programa-completo-A5-1.pdf#page=24",
+          "fecha": "2026-11-13",
+          "verificada": true
+        },
+        {
+          "texto": "Aplicar IVA del 0% a la compra de primera vivienda habitual de nueva construcción y bonificar el 100% del ITP en la de segunda mano.",
+          "cita": "Tipo 0% de IVA para la compra de tu primera vivienda habitual -de nueva construcción-",
+          "pagina": 24,
+          "fuente": "https://www.voxespana.es/wp-content/uploads/2026/11/Programa-completo-A5-1.pdf#page=24",
+          "fecha": "2026-11-13",
+          "verificada": true
+        },
+        {
+          "texto": "Recuperar la deducción por inversión en vivienda habitual.",
+          "cita": "Recuperación de la deducción por inversión en vivienda habitual.",
+          "pagina": 24,
+          "fuente": "https://www.voxespana.es/wp-content/uploads/2026/11/Programa-completo-A5-1.pdf#page=24",
+          "fecha": "2026-11-13",
+          "verificada": true
+        },
+        {
+          "texto": "Aplicar fiscalidad agravada a compradores no comunitarios y destinar la recaudación a bonificaciones y vivienda protegida.",
+          "cita": "Fiscalidad agravada y disuasoria para compradores no comunitarios",
+          "pagina": 25,
+          "fuente": "https://www.voxespana.es/wp-content/uploads/2026/11/Programa-completo-A5-1.pdf#page=25",
+          "fecha": "2026-11-13",
+          "verificada": true
+        },
+        {
+          "texto": "Realizar una auditoría del patrimonio inmobiliario del Estado para destinarlo a las necesidades de vivienda o a la prestación de servicios públicos.",
+          "cita": "Los bienes inmuebles del Estado han de estar al servicio de las necesidades de la vivienda o de la mejor y más eficiente prestación de los servicios públicos de los españoles.",
+          "pagina": 57,
+          "fuente": "https://www.voxespana.es/wp-content/uploads/2026/11/Programa-completo-A5-1.pdf#page=57",
+          "fecha": "2026-11-13",
+          "verificada": false
+        }
+      ],
+      "economia": [
+        {
+          "texto": "Simplificar y bajar el IRPF, con reducción del tipo según el número de hijos de cada contribuyente o familia.",
+          "cita": "Simplificación y bajada del IRPF.",
+          "pagina": 9,
+          "fuente": "https://www.voxespana.es/wp-content/uploads/2026/11/Programa-completo-A5-1.pdf#page=9",
+          "fecha": "2026-11-13",
+          "verificada": true
+        },
+        {
+          "texto": "Rebajar el tipo reducido y el tipo general del IVA, priorizando los productos esenciales y de primera necesidad.",
+          "cita": "Rebaja del tipo reducido y del tipo general del IVA",
+          "pagina": 9,
+          "fuente": "https://www.voxespana.es/wp-content/uploads/2026/11/Programa-completo-A5-1.pdf#page=9",
+          "fecha": "2026-11-13",
+          "verificada": true
+        },
+        {
+          "texto": "Reducir el tipo del Impuesto de Sociedades.",
+          "cita": "Reducir el tipo del Impuesto de Sociedades",
+          "pagina": 9,
+          "fuente": "https://www.voxespana.es/wp-content/uploads/2026/11/Programa-completo-A5-1.pdf#page=9",
+          "fecha": "2026-11-13",
+          "verificada": true
+        },
+        {
+          "texto": "Establecer cuota de cero euros para autónomos con ingresos inferiores al SMI y cuota progresiva desde 50 euros por encima de ese umbral.",
+          "cita": "Cuota de cero euros si los ingresos no llegan al Salario Mínimo",
+          "pagina": 9,
+          "fuente": "https://www.voxespana.es/wp-content/uploads/2026/11/Programa-completo-A5-1.pdf#page=9",
+          "fecha": "2026-11-13",
+          "verificada": true
+        },
+        {
+          "texto": "Bajar los impuestos de la energía eléctrica a familias, empresas e industrias.",
+          "cita": "Bajada masiva de los impuestos de la energía",
+          "pagina": 11,
+          "fuente": "https://www.voxespana.es/wp-content/uploads/2026/11/Programa-completo-A5-1.pdf#page=11",
+          "fecha": "2026-11-13",
+          "verificada": true
+        },
+        {
+          "texto": "Aplicar tipos mínimos, bonificaciones y deducciones reforzadas a residentes en zonas en riesgo de despoblación.",
+          "cita": "Tipos mínimos y bonificaciones y deducciones reforzadas para los residentes españoles",
+          "pagina": 10,
+          "fuente": "https://www.voxespana.es/wp-content/uploads/2026/11/Programa-completo-A5-1.pdf#page=10",
+          "fecha": "2026-11-13",
+          "verificada": true
+        },
+        {
+          "texto": "Mejorar las ayudas al transporte a la Península para Baleares y Canarias.",
+          "cita": "Mejora de las ayudas al transporte a la Península.",
+          "pagina": 10,
+          "fuente": "https://www.voxespana.es/wp-content/uploads/2026/11/Programa-completo-A5-1.pdf#page=10",
+          "fecha": "2026-11-13",
+          "verificada": true
+        },
+        {
+          "texto": "Establecer un gravamen sobre las remesas al extranjero.",
+          "cita": "Gravamen sobre las remesas al extranjero.",
+          "pagina": 19,
+          "fuente": "https://www.voxespana.es/wp-content/uploads/2026/11/Programa-completo-A5-1.pdf#page=19",
+          "fecha": "2026-11-13",
+          "verificada": true
+        },
+        {
+          "texto": "Limitar el Ingreso Mínimo Vital a los españoles con menos recursos.",
+          "cita": "El Ingreso Mínimo Vital atenderá únicamente las",
+          "pagina": 19,
+          "fuente": "https://www.voxespana.es/wp-content/uploads/2026/11/Programa-completo-A5-1.pdf#page=19",
+          "fecha": "2026-11-13",
+          "verificada": true
+        },
+        {
+          "texto": "Aprobar una Ley de Unidad de Mercado para que lo legal en una región lo sea en toda España",
+          "cita": "Lo que es legal en una región de España, lo es en toda España.",
+          "pagina": 28,
+          "fuente": "https://www.voxespana.es/wp-content/uploads/2026/11/Programa-completo-A5-1.pdf#page=28",
+          "fecha": "2026-11-13",
+          "verificada": true
+        }
+      ],
+      "inmigracion": [
+        {
+          "texto": "Prohibir las regularizaciones masivas de inmigrantes.",
+          "cita": "Prohibición de las regularizaciones masivas.",
+          "pagina": 15,
+          "fuente": "https://www.voxespana.es/wp-content/uploads/2026/11/Programa-completo-A5-1.pdf#page=15",
+          "fecha": "2026-11-13",
+          "verificada": true
+        },
+        {
+          "texto": "Endurecer los requisitos para adquirir la nacionalidad española.",
+          "cita": "Endurecimiento de los requisitos de adquisición de la nacionalidad española.",
+          "pagina": 15,
+          "fuente": "https://www.voxespana.es/wp-content/uploads/2026/11/Programa-completo-A5-1.pdf#page=15",
+          "fecha": "2026-11-13",
+          "verificada": true
+        },
+        {
+          "texto": "Suprimir la figura del arraigo como vía de regularización.",
+          "cita": "Supresión de la institución del arraigo como forma de",
+          "pagina": 15,
+          "fuente": "https://www.voxespana.es/wp-content/uploads/2026/11/Programa-completo-A5-1.pdf#page=15",
+          "fecha": "2026-11-13",
+          "verificada": true
+        },
+        {
+          "texto": "Repatriar a quienes permanezcan en situación ilegal en España.",
+          "cita": "Repatriación de quienes permanezcan en situación",
+          "pagina": 15,
+          "fuente": "https://www.voxespana.es/wp-content/uploads/2026/11/Programa-completo-A5-1.pdf#page=15",
+          "fecha": "2026-11-13",
+          "verificada": true
+        },
+        {
+          "texto": "Crear un plan para facilitar el retorno a sus países de extranjeros que no contribuyan o vivan de subsidios.",
+          "cita": "Plan para facilitar el retorno a sus países",
+          "pagina": 15,
+          "fuente": "https://www.voxespana.es/wp-content/uploads/2026/11/Programa-completo-A5-1.pdf#page=15",
+          "fecha": "2026-11-13",
+          "verificada": true
+        },
+        {
+          "texto": "Deportar a quienes cometan delitos graves o hagan del delito leve su forma de vida.",
+          "cita": "Deportación de quienes cometan delitos graves",
+          "pagina": 15,
+          "fuente": "https://www.voxespana.es/wp-content/uploads/2026/11/Programa-completo-A5-1.pdf#page=15",
+          "fecha": "2026-11-13",
+          "verificada": true
+        },
+        {
+          "texto": "Eliminar subvenciones, ayudas y convenios con ONG vinculadas a la inmigración ilegal.",
+          "cita": "Eliminación de todas las subvenciones, ayudas, convenios y conciertos con ONG",
+          "pagina": 16,
+          "fuente": "https://www.voxespana.es/wp-content/uploads/2026/11/Programa-completo-A5-1.pdf#page=16",
+          "fecha": "2026-11-13",
+          "verificada": true
+        },
+        {
+          "texto": "Retirar la cooperación al desarrollo a países que no colaboren en la gestión de flujos migratorios.",
+          "cita": "Fin de la cooperación al desarrollo con los países que",
+          "pagina": 16,
+          "fuente": "https://www.voxespana.es/wp-content/uploads/2026/11/Programa-completo-A5-1.pdf#page=16",
+          "fecha": "2026-11-13",
+          "verificada": true
+        },
+        {
+          "texto": "Suprimir toda ayuda y beneficio social a los inmigrantes ilegales.",
+          "cita": "Suprimir toda ayuda y beneficio social a los",
+          "pagina": 19,
+          "fuente": "https://www.voxespana.es/wp-content/uploads/2026/11/Programa-completo-A5-1.pdf#page=19",
+          "fecha": "2026-11-13",
+          "verificada": true
+        },
+        {
+          "texto": "Militarizar la frontera de Ceuta y Melilla y reforzar la protección de sus fronteras terrestres, aguas y espacio aéreo.",
+          "cita": "Militarización de la frontera para repeler cualquier",
+          "pagina": 7,
+          "fuente": "https://www.voxespana.es/wp-content/uploads/2026/11/Programa-completo-A5-1.pdf#page=7",
+          "fecha": "2026-11-13",
+          "verificada": true
+        }
+      ],
+      "politica": [
+        {
+          "texto": "Suprimir la cita previa y garantizar la atención presencial inmediata en cualquier oficina pública",
+          "cita": "Fin de la cita previa.",
+          "pagina": 27,
+          "fuente": "https://www.voxespana.es/wp-content/uploads/2026/11/Programa-completo-A5-1.pdf#page=27",
+          "fecha": "2026-11-13",
+          "verificada": true
+        },
+        {
+          "texto": "Crear un expediente digital único y centralizado para los trámites de ciudadanos y empresas",
+          "cita": "Creación de un expediente digital único y centralizado que unifique la gestión de trámites para ciudadanos y empresas",
+          "pagina": 27,
+          "fuente": "https://www.voxespana.es/wp-content/uploads/2026/11/Programa-completo-A5-1.pdf#page=27",
+          "fecha": "2026-11-13",
+          "verificada": true
+        },
+        {
+          "texto": "Obligar a que cada ley nueva identifique las tres normas vigentes que deroga",
+          "cita": "Cada ley nueva tendrá que identificar, en su propio texto, qué tres normas vigentes deroga.",
+          "pagina": 28,
+          "fuente": "https://www.voxespana.es/wp-content/uploads/2026/11/Programa-completo-A5-1.pdf#page=28",
+          "fecha": "2026-11-13",
+          "verificada": true
+        },
+        {
+          "texto": "Reducir progresivamente hasta eliminar las subvenciones a partidos, sindicatos, patronales y ONG",
+          "cita": "las subvenciones a partidos, sindicatos, patronales, ONGs, observatorios y otros organismos ideológicos.",
+          "pagina": 29,
+          "fuente": "https://www.voxespana.es/wp-content/uploads/2026/11/Programa-completo-A5-1.pdf#page=29",
+          "fecha": "2026-11-13",
+          "verificada": true
+        },
+        {
+          "texto": "Agravar el tipo delictivo de la malversación de caudales públicos y recuperar el delito de sedición.",
+          "cita": "Recuperar el delito de sedición,",
+          "pagina": 55,
+          "fuente": "https://www.voxespana.es/wp-content/uploads/2026/11/Programa-completo-A5-1.pdf#page=55",
+          "fecha": "2026-11-13",
+          "verificada": true
+        },
+        {
+          "texto": "Aplicar como regla general el silencio administrativo positivo y la declaración responsable",
+          "cita": "Silencio administrativo positivo y declaración responsable como regla general.",
+          "pagina": 28,
+          "fuente": "https://www.voxespana.es/wp-content/uploads/2026/11/Programa-completo-A5-1.pdf#page=28",
+          "fecha": "2026-11-13",
+          "verificada": false
+        },
+        {
+          "texto": "Modificar la Ley Orgánica del Poder Judicial para que los doce vocales judiciales del CGPJ sean elegidos por los propios jueces y magistrados mediante voto directo y secreto.",
+          "cita": "Modificar la Ley Orgánica del Poder Judicial para que los doce vocales de procedencia judicial del Consejo General del Poder Judicial sean elegidos mediante voto personal, directo y secreto por y entre los propios jueces y magistrados",
+          "pagina": 55,
+          "fuente": "https://www.voxespana.es/wp-content/uploads/2026/11/Programa-completo-A5-1.pdf#page=55",
+          "fecha": "2026-11-13",
+          "verificada": false
+        },
+        {
+          "texto": "Prohibir los indultos para delitos relacionados con la corrupción política, la forma política del Estado o la integridad territorial.",
+          "cita": "prohibir los indultos para delitos relacionados con la corrupción política, la forma política del Estado o la integridad territorial.",
+          "pagina": 56,
+          "fuente": "https://www.voxespana.es/wp-content/uploads/2026/11/Programa-completo-A5-1.pdf#page=56",
+          "fecha": "2026-11-13",
+          "verificada": false
+        },
+        {
+          "texto": "Realizar una auditoría integral de todas las Administraciones para destapar indicios de corrupción y llevarlos ante la Justicia.",
+          "cita": "Auditoría integral de todas las Administraciones con el fin destapar cualquier indicio de corrupción y llevarlo ante la Justicia.",
+          "pagina": 57,
+          "fuente": "https://www.voxespana.es/wp-content/uploads/2026/11/Programa-completo-A5-1.pdf#page=57",
+          "fecha": "2026-11-13",
+          "verificada": false
+        },
+        {
+          "texto": "Reforzar la responsabilidad patrimonial personal de los cargos públicos condenados por corrupción, que responderán con sus bienes presentes y futuros hasta recuperar los fondos desviados.",
+          "cita": "Reforzaremos la responsabilidad patrimonial personal de los cargos públicos condenados por delitos de corrupción, garantizando que respondan con todos sus bienes presentes y futuros",
+          "pagina": 57,
+          "fuente": "https://www.voxespana.es/wp-content/uploads/2026/11/Programa-completo-A5-1.pdf#page=57",
+          "fecha": "2026-11-13",
+          "verificada": false
+        }
+      ],
+      "empleo": [
+        {
+          "texto": "Derogar la legislación laboral aprobada por el Gobierno de Sánchez.",
+          "cita": "Derogar la legislación laboral de Sánchez",
+          "pagina": 13,
+          "fuente": "https://www.voxespana.es/wp-content/uploads/2026/11/Programa-completo-A5-1.pdf#page=13",
+          "fecha": "2026-11-13",
+          "verificada": true
+        },
+        {
+          "texto": "Financiar por el Estado la cotización a la Seguridad Social de los españoles dedicados al cuidado de sus hijos.",
+          "cita": "Cotización a la Seguridad Social financiada por el Estado para los españoles dedicados al cuidado de sus hijos.",
+          "pagina": 51,
+          "fuente": "https://www.voxespana.es/wp-content/uploads/2026/11/Programa-completo-A5-1.pdf#page=51",
+          "fecha": "2026-11-13",
+          "verificada": true
+        },
+        {
+          "texto": "Combatir la brecha maternal facilitando formación, permanencia, promoción y reincorporación al trabajo de madres que interrumpieron su carrera.",
+          "cita": "Combatir la brecha maternal facilitando la formación, permanencia, promoción y reincorporación al trabajo de las madres que han interrumpido sus carreras por la maternidad o cuidado de familiares",
+          "pagina": 52,
+          "fuente": "https://www.voxespana.es/wp-content/uploads/2026/11/Programa-completo-A5-1.pdf#page=52",
+          "fecha": "2026-11-13",
+          "verificada": true
+        },
+        {
+          "texto": "Reforzar los derechos de conciliación de todos los trabajadores y dar incentivos a las empresas que favorezcan la conciliación.",
+          "cita": "Incentivos para las empresas que favorezcan la conciliación familiar y laboral.",
+          "pagina": 53,
+          "fuente": "https://www.voxespana.es/wp-content/uploads/2026/11/Programa-completo-A5-1.pdf#page=53",
+          "fecha": "2026-11-13",
+          "verificada": true
+        },
+        {
+          "texto": "Crear un Plan Nacional de Rehabilitación del Patrimonio Inmobiliario para la revitalización y creación de empleo.",
+          "cita": "Plan Nacional de Rehabilitación del Patrimonio Inmobiliario para la revitalización y creación de empleo.",
+          "pagina": 57,
+          "fuente": "https://www.voxespana.es/wp-content/uploads/2026/11/Programa-completo-A5-1.pdf#page=57",
+          "fecha": "2026-11-13",
+          "verificada": false
+        }
+      ],
+      "sanidad": [
+        {
+          "texto": "Excluir de la sanidad pública a extranjeros en situación ilegal salvo urgencia grave.",
+          "cita": "en situación ilegal salvo casos de urgencia grave.",
+          "pagina": 19,
+          "fuente": "https://www.voxespana.es/wp-content/uploads/2026/11/Programa-completo-A5-1.pdf#page=19",
+          "fecha": "2026-11-13",
+          "verificada": true
+        },
+        {
+          "texto": "Realizar una auditoría del coste de la inmigración en la sanidad pública.",
+          "cita": "Auditoría del coste de la inmigración masiva en la",
+          "pagina": 19,
+          "fuente": "https://www.voxespana.es/wp-content/uploads/2026/11/Programa-completo-A5-1.pdf#page=19",
+          "fecha": "2026-11-13",
+          "verificada": true
+        },
+        {
+          "texto": "Implantar una tarjeta sanitaria única con historia clínica compartida en todo el territorio",
+          "cita": "tarjeta sanitaria única con historia clínica compartida en todo el territorio nacional",
+          "pagina": 37,
+          "fuente": "https://www.voxespana.es/wp-content/uploads/2026/11/Programa-completo-A5-1.pdf#page=37",
+          "fecha": "2026-11-13",
+          "verificada": true
+        },
+        {
+          "texto": "Reforzar la atención primaria y pediátrica en todo el territorio nacional",
+          "cita": "Refuerzo de la atención primaria y pediátrica en todo el territorio nacional.",
+          "pagina": 37,
+          "fuente": "https://www.voxespana.es/wp-content/uploads/2026/11/Programa-completo-A5-1.pdf#page=37",
+          "fecha": "2026-11-13",
+          "verificada": true
+        },
+        {
+          "texto": "Aprobar un plan nacional de reducción de listas de espera",
+          "cita": "Plan nacional de reducción de listas de espera",
+          "pagina": 37,
+          "fuente": "https://www.voxespana.es/wp-content/uploads/2026/11/Programa-completo-A5-1.pdf#page=37",
+          "fecha": "2026-11-13",
+          "verificada": true
+        },
+        {
+          "texto": "Reforzar las plantillas médicas, de enfermería y de personal administrativo",
+          "cita": "Refuerzo de plantillas médicas, de enfermería y personal administrativo.",
+          "pagina": 38,
+          "fuente": "https://www.voxespana.es/wp-content/uploads/2026/11/Programa-completo-A5-1.pdf#page=38",
+          "fecha": "2026-11-13",
+          "verificada": true
+        },
+        {
+          "texto": "Poner fin al turismo sanitario",
+          "cita": "Fin del turismo sanitario.",
+          "pagina": 38,
+          "fuente": "https://www.voxespana.es/wp-content/uploads/2026/11/Programa-completo-A5-1.pdf#page=38",
+          "fecha": "2026-11-13",
+          "verificada": true
+        },
+        {
+          "texto": "Establecer incentivos económicos y profesionales para plazas rurales o de difícil cobertura",
+          "cita": "Incentivos económicos y profesionales para plazas rurales o de difícil cobertura",
+          "pagina": 37,
+          "fuente": "https://www.voxespana.es/wp-content/uploads/2026/11/Programa-completo-A5-1.pdf#page=37",
+          "fecha": "2026-11-13",
+          "verificada": false
+        },
+        {
+          "texto": "Reforzar la Estrategia Nacional del Cáncer y crear una Red de Centros Nacionales de Oncología",
+          "cita": "Refuerzo de la Estrategia Nacional del Cáncer y creación de una Red de Centros Nacionales de Oncología.",
+          "pagina": 38,
+          "fuente": "https://www.voxespana.es/wp-content/uploads/2026/11/Programa-completo-A5-1.pdf#page=38",
+          "fecha": "2026-11-13",
+          "verificada": false
+        }
+      ]
     }
   },
   "resumen": {},
@@ -4817,6 +5263,10 @@
         "cc": {
           "postura": "sin",
           "fecha": "2026-11-11"
+        },
+        "vox": {
+          "postura": "sin",
+          "fecha": "2026-11-13"
         }
       }
     },
@@ -4849,6 +5299,14 @@
         "cc": {
           "postura": "sin",
           "fecha": "2026-11-11"
+        },
+        "vox": {
+          "postura": "si",
+          "cita": "especulativas de fondos o sociedades.",
+          "pagina": 25,
+          "fuente": "https://www.voxespana.es/wp-content/uploads/2026/11/Programa-completo-A5-1.pdf#page=25",
+          "fecha": "2026-11-13",
+          "verificada": true
         }
       }
     },
@@ -4881,6 +5339,14 @@
         "cc": {
           "postura": "sin",
           "fecha": "2026-11-11"
+        },
+        "vox": {
+          "postura": "si",
+          "cita": "Simplificación y bajada del IRPF.",
+          "pagina": 9,
+          "fuente": "https://www.voxespana.es/wp-content/uploads/2026/11/Programa-completo-A5-1.pdf#page=9",
+          "fecha": "2026-11-13",
+          "verificada": true
         }
       }
     },
@@ -4913,6 +5379,10 @@
         "cc": {
           "postura": "sin",
           "fecha": "2026-11-11"
+        },
+        "vox": {
+          "postura": "sin",
+          "fecha": "2026-11-13"
         }
       }
     },
@@ -4945,6 +5415,14 @@
         "cc": {
           "postura": "sin",
           "fecha": "2026-11-11"
+        },
+        "vox": {
+          "postura": "no",
+          "cita": "Prohibición de las regularizaciones masivas.",
+          "pagina": 15,
+          "fuente": "https://www.voxespana.es/wp-content/uploads/2026/11/Programa-completo-A5-1.pdf#page=15",
+          "fecha": "2026-11-13",
+          "verificada": true
         }
       }
     },
@@ -4973,6 +5451,14 @@
         "cc": {
           "postura": "sin",
           "fecha": "2026-11-11"
+        },
+        "vox": {
+          "postura": "si",
+          "cita": "prohibir los indultos para delitos relacionados con la corrupción política, la forma política del Estado o la integridad territorial.",
+          "pagina": 56,
+          "fuente": "https://www.voxespana.es/wp-content/uploads/2026/11/Programa-completo-A5-1.pdf#page=56",
+          "fecha": "2026-11-13",
+          "verificada": false
         }
       }
     },
@@ -5005,6 +5491,10 @@
         "cc": {
           "postura": "sin",
           "fecha": "2026-11-11"
+        },
+        "vox": {
+          "postura": "sin",
+          "fecha": "2026-11-13"
         }
       }
     },
@@ -5029,6 +5519,10 @@
         "cc": {
           "postura": "sin",
           "fecha": "2026-11-11"
+        },
+        "vox": {
+          "postura": "sin",
+          "fecha": "2026-11-13"
         }
       }
     }
@@ -5053,6 +5547,11 @@
       "url": "https://coalicioncanaria.org/wp-content/uploads/2026/11/CCA-26-Programa_Electoral-29NOV.pdf",
       "fecha": "2026-11-11",
       "paginas": 23
+    },
+    "vox": {
+      "url": "https://www.voxespana.es/wp-content/uploads/2026/11/Programa-completo-A5-1.pdf",
+      "fecha": "2026-11-13",
+      "paginas": 66
     }
   },
   "debates": []
