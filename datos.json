@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-14T15:42+00:00",
+  "actualizado": "2026-11-14T21:17+00:00",
   "temas": [
     {
       "id": "vivienda",
@@ -2440,12 +2440,171 @@
   ],
   "noticias": [
     {
+      "titulo": "Podemos pide en Pamplona el voto para para la alianza con Rufián, pero ERC va en coalición con EH Bildu en Navarra",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/navarra/pide-pamplona-voto-alianza-rufian-erc-coalicion-eh-bildu-navarra_1_13664638.html",
+      "fecha": "2026-11-14T20:01+00:00",
+      "partidos": [
+        "erc",
+        "bildu",
+        "podemos"
+      ]
+    },
+    {
+      "titulo": "Abascal, en Murcia: \"La única elección que hay es o España o la mafia\"",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/murcia/politica/abascal-murcia-unica-eleccion-hay-espana-mafia_1_13664653.html",
+      "fecha": "2026-11-14T19:19+00:00",
+      "partidos": [
+        "vox"
+      ]
+    },
+    {
+      "titulo": "El PP cancela actos de campaña en Gipuzkoa por falta de seguridad tras sufrir incidentes en Hernani",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/euskadi/pp-cancela-actos-campana-gipuzkoa-falta-seguridad-sufrir-incidentes-hernani_1_13664677.html",
+      "fecha": "2026-11-14T19:15+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "El PSOE cancela el acto de Sánchez y Lula da Silva en Madrid por una afonía del presidente brasileño",
+      "medio": "Europa Press",
+      "url": "https://www.europapress.es/nacional/noticia-psoe-cancela-acto-sanchez-lula-da-silva-madrid-afonia-presidente-brasileno-20261114194841.html",
+      "fecha": "2026-11-14T18:48+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "Otegi se lanza a por «quienes no han votado a Bildu» para frenar a los «fascistas de PP y Vox»",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/pais-vasco/otegi-lanza-voto-votado-bildu-frenar-fascistas-20261114184637-nt.html",
+      "fecha": "2026-11-14T18:45+00:00",
+      "partidos": [
+        "pp",
+        "vox",
+        "bildu"
+      ]
+    },
+    {
+      "titulo": "Cuca Gamarra rechaza dar \"pábulo\" a Koldo García tras reconocer Feijóo que ella conocía las reuniones con el abogado del PP",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/la-rioja/cuca-rechaza-dar-pabulo-koldo-garcia-reconocer-feijoo-conocia-reuniones-abogado-pp_1_13664641.html",
+      "fecha": "2026-11-14T18:42+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "El PSOE denuncia a la editora de Okdiario ante la Agencia Tributaria",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/politica/psoe-denuncia-editora-okdiario-agencia-tributaria_1_13664622.html",
+      "fecha": "2026-11-14T18:37+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "El PSOE cancela el acto de campaña de Sánchez con Lula por una afonía del líder brasileño",
+      "medio": "20minutos",
+      "url": "https://www.20minutos.es/nacional/psoe-cancela-acto-campana-sanchez-con-lula-por-una-afonia-lider-brasileno_7061175_0.html",
+      "fecha": "2026-11-14T18:15+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "Pontón llama a concentrar el voto «inconformista» en el BNG",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/galicia/ponton-llama-concentrar-voto-inconformista-bng-20261114191304-nt.html",
+      "fecha": "2026-11-14T18:13+00:00",
+      "partidos": [
+        "bng"
+      ]
+    },
+    {
+      "titulo": "EH Bildu exhibe músculo en Bilbao y llama a “frenar el paso a la extrema derecha”",
+      "medio": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/local/paisvasco/20261114/11684371/eh-bildu-exhibe-musculo-bilbao-llama-frenar-paso-extrema-derecha.html",
+      "fecha": "2026-11-14T18:13+00:00",
+      "partidos": [
+        "bildu"
+      ]
+    },
+    {
+      "titulo": "Suspendido un acto del PSOE con Sánchez y Lula la Silva por la afonía del presidente de Brasil",
+      "medio": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/politica/20261114/11684360/suspendido-acto-psoe-sanchez-lula-silva-afonia-presidente-brasil.html",
+      "fecha": "2026-11-14T17:46+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "Isabel Rodríguez defiende ayudas de hasta 50.000 euros para vivienda rural y alerta de los recortes de PP y Vox",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/castilla-la-mancha/toledo/isabel-rodriguez-defiende-ayudas-50000-euros-vivienda-20261114184110-nt.html",
+      "fecha": "2026-11-14T17:42+00:00",
+      "partidos": [
+        "pp",
+        "vox"
+      ]
+    },
+    {
+      "titulo": "EH Bildu reúne a más de 40.000 personas en las calles de Bilbao: \"No habrá en esta campaña un acto con tanta gente\"",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/euskadi/eh-bildu-reune-40-000-personas-calles-bilbao-no-habra-campana-acto-gente_1_13664454.html",
+      "fecha": "2026-11-14T17:20+00:00",
+      "partidos": [
+        "bildu"
+      ]
+    },
+    {
+      "titulo": "Lanzan piedras y petardos en Hernani contra el candidato del PP de Guipúzcoa Jon Echeverría",
+      "medio": "20minutos",
+      "url": "https://www.20minutos.es/nacional/lanzan-piedras-petardos-hernani-contra-candidato-pp-guipuzcoa-jon-echeverria_7061141_0.html",
+      "fecha": "2026-11-14T16:27+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "Vivas insta a que el PP gane \"con fuerza\": \"La salvación de Ceuta y España dependen de que Feijóo sea presidente\"",
+      "medio": "20minutos",
+      "url": "https://www.20minutos.es/nacional/vivas-insta-que-pp-gane-con-fuerza-salvacion-ceuta-espana-dependen-que-feijoo-sea-presidente_7061145_0.html",
+      "fecha": "2026-11-14T16:07+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "Abascal defiende la prioridad nacional: “Nos presentamos a las elecciones para hacer legal lo que hoy nos dicen que es ilegal”",
+      "medio": "El País",
+      "url": "https://elpais.com/espana/elecciones-generales/2026-11-14/abascal-defiende-la-prioridad-nacional-nos-presentamos-a-las-elecciones-para-hacer-legal-lo-que-hoy-nos-dicen-que-es-ilegal.html",
+      "fecha": "2026-11-14T15:38+00:00",
+      "partidos": [
+        "vox"
+      ]
+    },
+    {
       "titulo": "Feijóo, en su gran mitin en Galicia: «A la Moncloa son 600 kilómetros y 15 días. Ayudadme a culminar este viaje»",
       "medio": "ABC",
       "url": "https://www.abc.es/espana/feijoo-gran-mitin-galicia-moncloa-600-kilometros-20261114135957-nt.html",
       "fecha": "2026-11-14T15:34+00:00",
       "partidos": [
         "pp"
+      ]
+    },
+    {
+      "titulo": "Illa desafía a Junts a aclarar si investirá a Sánchez o a Feijóo: \"Si estáis en medio, apartaos\"",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/catalunya/illa-desafia-junts-aclarar-si-investira-sanchez-feijoo-si-medio-apartaos_1_13664321.html",
+      "fecha": "2026-11-14T15:31+00:00",
+      "partidos": [
+        "pp",
+        "junts"
       ]
     },
     {
@@ -2483,6 +2642,15 @@
       "medio": "La Vanguardia",
       "url": "https://www.lavanguardia.com/politica/20261114/11684309/meloni-evita-atacar-sanchez-prudente-apoyo-vox.html",
       "fecha": "2026-11-14T15:12+00:00",
+      "partidos": [
+        "vox"
+      ]
+    },
+    {
+      "titulo": "Abascal: \"La gran estafa del año 2023 fue la de Sánchez, Ábalos y el resto de guarros a las mujeres españolas\"",
+      "medio": "20minutos",
+      "url": "https://www.20minutos.es/nacional/abascal-gran-estafa-ano-sanchez-abalos-guarros-mujeres-espanolas_7061136_0.html",
+      "fecha": "2026-11-14T15:10+00:00",
       "partidos": [
         "vox"
       ]
@@ -2985,6 +3153,25 @@
       "fecha": "2026-11-13T21:52+00:00",
       "partidos": [
         "vox"
+      ]
+    },
+    {
+      "titulo": "El Pedro Sánchez que votará a Feijóo: \"Estos socialistas no son de fiar\"",
+      "medio": "El Mundo",
+      "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/13/6af7462ffdddff31748b456e.html",
+      "fecha": "2026-11-13T21:43+00:00",
+      "partidos": [
+        "pp",
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "El otro Alberto Feijóo no sabe a quién votar: \"Lo decidiré a última hora\"",
+      "medio": "El Mundo",
+      "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/13/6af746efe9cf4a53428b459a.html",
+      "fecha": "2026-11-13T21:43+00:00",
+      "partidos": [
+        "pp"
       ]
     },
     {
@@ -5060,193 +5247,6 @@
       "fecha": "2026-11-11T20:39+00:00",
       "partidos": [
         "pp"
-      ]
-    },
-    {
-      "titulo": "Abascal entona el “visca Catalunya” en busca de triplicar escaños",
-      "medio": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/politica/20261111/11681824/abascal-entona-visca-catalunya-busca-triplicar-escanos.html",
-      "fecha": "2026-11-11T20:20+00:00",
-      "partidos": [
-        "vox"
-      ]
-    },
-    {
-      "titulo": "El Gobierno expresa máximo respeto por quienes han secundado el paro y condena la actitud del PP durante la jornada",
-      "medio": "Europa Press",
-      "url": "https://www.europapress.es/nacional/noticia-gobierno-expresa-maximo-respeto-quienes-secundado-paro-condena-actitud-pp-jornada-20261111211130.html",
-      "fecha": "2026-11-11T20:11+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Núñez sostiene que Feijóo devolverá a España «la decencia, el respeto a la ley y el sentido común»",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/castilla-la-mancha/nunez-sostiene-feijoo-devolvera-espana-decencia-respeto-20261111205901-nt.html",
-      "fecha": "2026-11-11T19:59+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Abascal sigue explotando el filón de La Revuelta: \"Broncano pide perdón porque al que iban a fusilar salió vivo\"",
-      "medio": "El Mundo",
-      "url": "https://www.elmundo.es/cataluna/2026/11/11/6af4c868fc6c83d6248b4590.html",
-      "fecha": "2026-11-11T19:58+00:00",
-      "partidos": [
-        "vox"
-      ]
-    },
-    {
-      "titulo": "PP y Vox acusan al Gobierno de haber promovido una \"huelga preventiva\": \"Es un instrumento electoral al servicio de Sánchez\"",
-      "medio": "El Mundo",
-      "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/11/6af4c60021efa0de228b4591.html",
-      "fecha": "2026-11-11T19:48+00:00",
-      "partidos": [
-        "pp",
-        "vox"
-      ]
-    },
-    {
-      "titulo": "Frente Amplio y Podemos reclaman a Sánchez el cese de Marlaska por las cargas policiales durante la huelga",
-      "medio": "20minutos",
-      "url": "https://www.20minutos.es/nacional/frente-amplio-podemos-reclaman-sanchez-cese-marlaska-por-las-cargas-policiales-durante-huelga_7059953_0.html",
-      "fecha": "2026-11-11T19:28+00:00",
-      "partidos": [
-        "sumar",
-        "podemos"
-      ]
-    },
-    {
-      "titulo": "El Frente Amplio se aferra a la huelga para \"movilizar a la izquierda\" en las elecciones: \"El PP está nervioso por los efectos\"",
-      "medio": "El Mundo",
-      "url": "https://www.elmundo.es/espana/2026/11/11/6af4aad2e9cf4af3268b45b6.html",
-      "fecha": "2026-11-11T19:17+00:00",
-      "partidos": [
-        "pp",
-        "sumar"
-      ]
-    },
-    {
-      "titulo": "Marta Bosquet, elegida como la primera mujer Defensora del Pueblo Andaluz con los votos de PP-A y Vox",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/andalucia/marta-bosquet-elegida-primera-mujer-defensora-pueblo-20261111201358-nts.html",
-      "fecha": "2026-11-11T19:16+00:00",
-      "partidos": [
-        "pp",
-        "vox"
-      ]
-    },
-    {
-      "titulo": "Sigue en directo, la entrevista de Núñez Feijóo en 'El Hormiguero' de Pablo Motos antes de las elecciones generales",
-      "medio": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/politica/20261111/11681496/entrevista-nunez-feijoo-el-hormiguero-pablo-motos-ultima-hora-hoy-en-directo.html",
-      "fecha": "2026-11-11T18:55+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Vox exige que los decretos leyes de vivienda no se debatan: «Es un fraude constitucional»",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/vox-exige-decretos-leyes-vivienda-debatan-fraude-20261111174738-nt.html",
-      "fecha": "2026-11-11T18:17+00:00",
-      "partidos": [
-        "vox"
-      ]
-    },
-    {
-      "titulo": "Feijóo capitaliza el \"error\" de Abascal con Jordi Wild y acudirá a más pódcast durante la campaña",
-      "medio": "El Confidencial",
-      "url": "https://www.elconfidencial.com/espana/2026-11-11/feijoo-error-abascal-jordi-wild-podcast-campana_4463060/",
-      "fecha": "2026-11-11T17:23+00:00",
-      "partidos": [
-        "pp",
-        "vox"
-      ]
-    },
-    {
-      "titulo": "El PP carga contra los sindicatos por la huelga general: «Su fracaso precede al electoral que sufrirá el PSOE»",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/pp-carga-sindicatos-huelga-general-fracaso-precede-20261111165024-nt.html",
-      "fecha": "2026-11-11T16:20+00:00",
-      "partidos": [
-        "pp",
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "Jordi Wild critica a Vox tras cancelar la entrevista a Abascal: \"¿Qué tiene que ver Broncano conmigo? Yo soy otro mundo\"",
-      "medio": "20minutos",
-      "url": "https://www.20minutos.es/nacional/jordi-wild-critica-vox-tras-cancelar-entrevista-abascal-que-tiene-que-ver-broncano-conmigo-yo-soy-otro-mundo_7059878_0.html",
-      "fecha": "2026-11-11T16:16+00:00",
-      "partidos": [
-        "vox"
-      ]
-    },
-    {
-      "titulo": "Unos manifestantes de la huelga general hacen un escrache al líder del PP en Barcelona",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/cataluna/manifestantes-huelga-general-escrache-lider-pp-barcelona-20261111161541-nt.html",
-      "fecha": "2026-11-11T16:13+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Abascal suspende su entrevista con Jordi Wild, que le acusa de no querer riesgos tras salir “reforzado” de 'La Revuelta'",
-      "medio": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/politica/20261111/11681773/abascal-suspende-entrevista-jordi-wild-le-acusa-querer-riesgos-salir-reforzado-revuelta.html",
-      "fecha": "2026-11-11T15:35+00:00",
-      "partidos": [
-        "vox"
-      ]
-    },
-    {
-      "titulo": "Jordi Wild da su versión sobre la negativa de Abascal a ser entrevistado: \"Venir aquí era un riesgo\"",
-      "medio": "El Confidencial",
-      "url": "https://www.elconfidencial.com/espana/2026-11-11/jordi-wild-version-negativa-abascal-entrevista-riesgo_4463044/",
-      "fecha": "2026-11-11T15:10+00:00",
-      "partidos": [
-        "vox"
-      ]
-    },
-    {
-      "titulo": "Abascal carga contra Sánchez por la huelga general: \"Envía a sus sindicatos mafiosos contra los trabajadores\"",
-      "medio": "Europa Press",
-      "url": "https://www.europapress.es/nacional/noticia-abascal-carga-contra-sanchez-huelga-general-envia-sindicatos-mafiosos-contra-trabajadores-20261111151834.html",
-      "fecha": "2026-11-11T14:18+00:00",
-      "partidos": [
-        "vox"
-      ]
-    },
-    {
-      "titulo": "El juez del 'caso Cloacas' detecta un pago de 105.000 euros entre un ex abogado del PSOE y el histórico socialista Gaspar Zarrías, imputados por financiar a la 'fontanera'",
-      "medio": "El Mundo",
-      "url": "https://www.elmundo.es/espana/2026/11/11/6af462a5e9cf4a0e668b4575.html",
-      "fecha": "2026-11-11T13:43+00:00",
-      "partidos": [
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "El PSOE critica que el PP se burle de la huelga con una imagen en redes de los sindicatos comiendo una mariscada",
-      "medio": "Europa Press",
-      "url": "https://www.europapress.es/nacional/noticia-11n-psoe-critica-pp-burle-huelga-imagen-redes-sindicatos-comiendo-mariscada-20261111143934.html",
-      "fecha": "2026-11-11T13:39+00:00",
-      "partidos": [
-        "pp",
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "Ortega-Smith ironiza sobre Santiago Abascal tras cancelar su entrevista con Jordi Wild: \"Sin miedo a nada ni nadie\"",
-      "medio": "20minutos",
-      "url": "https://www.20minutos.es/nacional/ortega-smith-ironiza-sobre-santiago-abascal-tras-cancelar-su-entrevista-con-jordi-wild-sin-miedo-nada-ni-nadie_7059801_0.html",
-      "fecha": "2026-11-11T13:00+00:00",
-      "partidos": [
-        "vox"
       ]
     }
   ],
