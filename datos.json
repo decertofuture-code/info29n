@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-14T01:23+00:00",
+  "actualizado": "2026-11-14T11:51+00:00",
   "temas": [
     {
       "id": "vivienda",
@@ -2440,6 +2440,158 @@
   ],
   "noticias": [
     {
+      "titulo": "Mitin del PSOE con Pedro Sánchez en Palma, en directo",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/mitin-psoe-pedro-sanchez-palma-directo-20261114113414-nt.html",
+      "fecha": "2026-11-14T11:04+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "Sánchez asegura que \"un futuro acuerdo de Gobierno\" entre EH Bildu y PSE en Euskadi \"no está sobre la mesa\"",
+      "medio": "20minutos",
+      "url": "https://www.20minutos.es/nacional/sanchez-asegura-que-un-futuro-acuerdo-gobierno-entre-eh-bildu-pse-euskadi-no-esta-sobre-mesa_7061072_0.html",
+      "fecha": "2026-11-14T10:58+00:00",
+      "partidos": [
+        "bildu"
+      ]
+    },
+    {
+      "titulo": "El PP exige a Morant que rectifique tras llamar «pecho paloma» al alcalde de Elche",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/comunidad-valenciana/pp-exige-morant-rectifique-tras-llamar-pecho-20261114111737-nt.html",
+      "fecha": "2026-11-14T10:17+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "El PP pide a Bruselas que verifique si Sánchez ejecuta las inversiones ferroviarias financiadas con fondos europeos",
+      "medio": "Europa Press",
+      "url": "https://www.europapress.es/nacional/noticia-pp-pide-bruselas-verifique-si-sanchez-ejecuta-inversiones-ferroviarias-financiadas-fondos-europeos-20261114102349.html",
+      "fecha": "2026-11-14T09:23+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "El PSOE admite que el gasto en pensiones necesita de revisiones: \"Hay que ver si hacemos bien los deberes\"",
+      "medio": "20minutos",
+      "url": "https://www.20minutos.es/nacional/psoe-admite-que-gasto-pensiones-necesita-revisiones-hay-que-ver-si-hacemos-bien-los-deberes_7061044_0.html",
+      "fecha": "2026-11-14T08:53+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "Colau busca rescatar este sábado en Sevilla el voto de la izquierda andaluza para Frente Amplio",
+      "medio": "El País",
+      "url": "https://elpais.com/espana/elecciones-generales/2026-11-14/colau-busca-rescatar-este-sabado-en-sevilla-el-voto-de-la-izquierda-andaluza-para-frente-amplio.html",
+      "fecha": "2026-11-14T08:12+00:00",
+      "partidos": [
+        "sumar"
+      ]
+    },
+    {
+      "titulo": "Imprecisiones sobre delincuencia, inseguridad y crecimiento económico: los ‘fact-checks’ de las entrevistas de Jordi Wild a Colau, Feijóo y Sánchez",
+      "medio": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/politica/20261114/11684132/imprecisiones-sobre-delincuencia-inseguridad-crecimiento-economico-fact-checks-entrevistas-jordi-wild-colau-feijoo-sanchez.html",
+      "fecha": "2026-11-14T07:41+00:00",
+      "partidos": [
+        "pp",
+        "sumar"
+      ]
+    },
+    {
+      "titulo": "Este vídeo de una mujer migrante diciendo que si Vox gana las elecciones vuelve a su país \"porque no trabaja y vive de las ayudas\" no es real",
+      "medio": "20minutos",
+      "url": "https://www.20minutos.es/nacional/este-video-una-mujer-migrante-diciendo-que-si-vox-gana-las-elecciones-vuelve-su-pais-porque-no-trabaja-vive-las-ayudas-no-es-real_7060857_0.html",
+      "fecha": "2026-11-14T06:54+00:00",
+      "partidos": [
+        "vox"
+      ]
+    },
+    {
+      "titulo": "PSOE y Frente Amplio defienden prórrogas de alquiler, el PP apuesta por construir y Vox por la \"reinmigración\"",
+      "medio": "20minutos",
+      "url": "https://www.20minutos.es/nacional/psoe-frente-amplio-defienden-prorrogas-alquiler-pp-apuesta-construir-vox-remigracion_7061029_0.html",
+      "fecha": "2026-11-14T06:47+00:00",
+      "partidos": [
+        "pp",
+        "psoe",
+        "vox",
+        "sumar"
+      ]
+    },
+    {
+      "titulo": "Feijóo adapta la campaña al mapa electoral: provincias para crecer, unas para movilizar y otras para confrontar",
+      "medio": "20minutos",
+      "url": "https://www.20minutos.es/nacional/feijoo-adapta-campana-mapa-electoral-provincias-para-crecer-unas-para-movilizar-otras-para-confrontar_7060716_0.html",
+      "fecha": "2026-11-14T06:32+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "Aitor Esteban: “Con el PP y Vox, los primeros meses serán una ofensiva total, en especial contra el PNV”",
+      "medio": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/politica/20261114/11683730/aitor-esteban-pp-vox-primeros-meses-seran-ofensiva-total-especial-pnv.html",
+      "fecha": "2026-11-14T05:00+00:00",
+      "partidos": [
+        "pp",
+        "vox",
+        "pnv"
+      ]
+    },
+    {
+      "titulo": "Vox quiere revisar la nacionalización de 300.000 españoles de origen marroquí",
+      "medio": "El País",
+      "url": "https://elpais.com/espana/elecciones-generales/2026-11-14/vox-considera-fraudulenta-la-nacionalizacion-de-mas-de-300000-espanoles-originarios-de-marruecos.html",
+      "fecha": "2026-11-14T04:30+00:00",
+      "partidos": [
+        "vox"
+      ]
+    },
+    {
+      "titulo": "La diferencia entre PP y PSOE se estrecha, según el ‘tracking’ diario de 40dB.",
+      "medio": "El País",
+      "url": "https://elpais.com/espana/elecciones-generales/2026-11-14/la-diferencia-entre-pp-y-psoe-se-estrecha-segun-el-tracking-diario-de-40db.html",
+      "fecha": "2026-11-14T04:30+00:00",
+      "partidos": [
+        "pp",
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "El PSOE pelea las elecciones en 18 provincias que tiene identificadas como prioritarias",
+      "medio": "El País",
+      "url": "https://elpais.com/espana/elecciones-generales/2026-11-14/el-psoe-pelea-las-elecciones-en-18-provincias-que-tiene-identificadas-como-prioritarias.html",
+      "fecha": "2026-11-14T04:30+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "Las elecciones miden el techo de la derecha en Andalucía y la fortaleza del PSOE en su bastión de Sevilla",
+      "medio": "El País",
+      "url": "https://elpais.com/espana/elecciones-generales/2026-11-14/las-elecciones-miden-el-techo-de-la-derecha-en-andalucia-y-la-fortaleza-del-psoe-en-su-bastion-de-sevilla.html",
+      "fecha": "2026-11-14T04:30+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "PP y Vox tiran de referentes nacionales en su campaña y Compromís tendrá apoyos puntuales",
+      "medio": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/local/valencia/20261114/11683418/pp-vox-tiran-referentes-nacionales-campana-compromis-tendra-apoyos-puntuales.html",
+      "fecha": "2026-11-14T04:30+00:00",
+      "partidos": [
+        "pp",
+        "vox"
+      ]
+    },
+    {
       "titulo": "Las mentiras de PP y Vox en el debate económico: de la inmigración al falso vaciado de las pensiones",
       "medio": "elDiario.es",
       "url": "https://www.eldiario.es/economia/mentiras-pp-vox-debate-economico-inmigracion-falso-vaciado-pensiones_1_13663511.html",
@@ -2489,6 +2641,46 @@
       ]
     },
     {
+      "titulo": "Sánchez busca una movilización histórica de la izquierda contra el PP y Vox que vuelva a echar por tierra los sondeos",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/politica/sanchez-busca-movilizacion-historica-izquierda-pp-vox-vuelva-echar-tierra-sondeos_1_13662791.html",
+      "fecha": "2026-11-13T21:53+00:00",
+      "partidos": [
+        "pp",
+        "vox"
+      ]
+    },
+    {
+      "titulo": "Sánchez, Feijóo y Colau se internan en el mundo no muy peligroso de Jordi Wild",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/politica/sanchez-feijoo-colau-internan-mundo-no-peligroso-jordi-wild_129_13662429.html",
+      "fecha": "2026-11-13T21:53+00:00",
+      "partidos": [
+        "pp",
+        "sumar"
+      ]
+    },
+    {
+      "titulo": "De qué se habló en las entrevistas de Jordi Wild: Ceuta con Sánchez, economía con Feijóo e inmigración con Colau",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/politica/hablo-entrevistas-jordi-wild-ceuta-sanchez-economia-feijoo-e-inmigracion-colau_1_13662907.html",
+      "fecha": "2026-11-13T21:53+00:00",
+      "partidos": [
+        "pp",
+        "sumar"
+      ]
+    },
+    {
+      "titulo": "¿Hay ideología en los programas del PP y Vox?",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/opinion/zona-critica/hay-ideologia-programas-pp-vox_129_13663038.html",
+      "fecha": "2026-11-13T21:53+00:00",
+      "partidos": [
+        "pp",
+        "vox"
+      ]
+    },
+    {
       "titulo": "Abascal pide un 29-N glorioso que recosa la unidad patriótica",
       "medio": "La Vanguardia",
       "url": "https://www.lavanguardia.com/politica/20261113/11683878/abascal-pide-29-n-glorioso-recosa-unidad-patriotica.html",
@@ -2522,6 +2714,17 @@
       "fecha": "2026-11-13T20:50+00:00",
       "partidos": [
         "pp"
+      ]
+    },
+    {
+      "titulo": "Oskar Matute: \"EH Bildu aspira a ser parte imprescindible del dique de contención de la ola reaccionaria de PP y Vox\"",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/euskadi/oskar-matute-eh-bildu-aspira-parte-imprescindible-dique-contencion-ola-reaccionaria-pp-vox_128_13657793.html",
+      "fecha": "2026-11-13T20:45+00:00",
+      "partidos": [
+        "pp",
+        "vox",
+        "bildu"
       ]
     },
     {
@@ -5035,202 +5238,6 @@
       "fecha": "2026-11-10T20:54+00:00",
       "partidos": [
         "pp"
-      ]
-    },
-    {
-      "titulo": "Encuesta elecciones generales en Córdoba: resultados de PSOE, PP, Vox y Frente Amplio y ganador según los sondeos el 29N",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/andalucia/cordoba/encuesta-elecciones-generales-cordoba-resultados-psoe-pp-20261110070058-nts.html",
-      "fecha": "2026-11-10T20:37+00:00",
-      "partidos": [
-        "pp",
-        "psoe",
-        "vox",
-        "sumar"
-      ]
-    },
-    {
-      "titulo": "Abascal llama a Sánchez «histérico» por comentar su entrevista con Broncano",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/cataluna/abascal-llama-sanchez-histerico-comentar-entrevista-broncano-20261110212645-nt.html",
-      "fecha": "2026-11-10T20:35+00:00",
-      "partidos": [
-        "vox"
-      ]
-    },
-    {
-      "titulo": "El PP se lanza con todo contra la huelga por la vivienda",
-      "medio": "elDiario.es",
-      "url": "https://www.eldiario.es/politica/pp-lanza-huelga-vivienda_1_13653785.html",
-      "fecha": "2026-11-10T20:28+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "La huelga que retrata a PP y Vox",
-      "medio": "elDiario.es",
-      "url": "https://www.eldiario.es/opinion/zona-critica/huelga-retrata-pp-vox_129_13653229.html",
-      "fecha": "2026-11-10T20:28+00:00",
-      "partidos": [
-        "pp",
-        "vox"
-      ]
-    },
-    {
-      "titulo": "El PP y Vox aprovechan la huelga general y la ausencia de Compromís en las Corts para avanzar en la polémica ley del suelo",
-      "medio": "elDiario.es",
-      "url": "https://www.eldiario.es/comunitat-valenciana/pp-vox-aprovechan-huelga-general-ausencia-compromis-corts-avanzar-polemica-ley-suelo_1_13653413.html",
-      "fecha": "2026-11-10T20:28+00:00",
-      "partidos": [
-        "pp",
-        "vox"
-      ]
-    },
-    {
-      "titulo": "Broncano en 'La Revuelta' sobre Abascal, en directo | Broncano: \"Yo no me lo traía todo preparado con datos porque no lo había hecho con otros políticos\"",
-      "medio": "20minutos",
-      "url": "https://www.20minutos.es/nacional/broncano-reacciona-entrevista-abascal-directo-presentador-revuelta-responde-las-criticas-por-visita-lider-vox_7059506_6.html",
-      "fecha": "2026-11-10T20:17+00:00",
-      "partidos": [
-        "vox"
-      ]
-    },
-    {
-      "titulo": "\"Prioridad\" para ayudas según el arraigo, ley del concebido no nacido y PAU común en todo el país: la parte social del programa del PP",
-      "medio": "20minutos",
-      "url": "https://www.20minutos.es/nacional/prioridad-para-ayudas-segun-arraigo-ley-concebido-no-nacido-pau-comun-todo-pais-parte-social-programa-pp_7059480_0.html",
-      "fecha": "2026-11-10T19:12+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Ada Colau en 'La Revuelta', hoy en directo | Última hora de la entrevista de David Broncano",
-      "medio": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/politica/20261110/11681084/entrevista-ada-colau-la-revuelta-david-broncano-ultima-hora-hoy-en-directo.html",
-      "fecha": "2026-11-10T19:00+00:00",
-      "partidos": [
-        "sumar"
-      ]
-    },
-    {
-      "titulo": "Así es el programa electoral del PP para el 29N: consulta las 249 medidas para la \"reconstrucción nacional\"",
-      "medio": "20minutos",
-      "url": "https://www.20minutos.es/nacional/programa-electoral-pp-consulta-medidas-reconstruccion-nacional_7059504_0.html",
-      "fecha": "2026-11-10T18:55+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "La abogada Leticia de la Hoz, imputada en el 'Caso cloacas' del PSOE, renuncia a continuar defendiendo a Koldo García",
-      "medio": "El Mundo",
-      "url": "https://www.elmundo.es/espana/2026/11/10/6af32af121efa002098b4587.html",
-      "fecha": "2026-11-10T18:01+00:00",
-      "partidos": [
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "Feijóo se reúne con los responsables de 'Maldita.es' tras destaparse más de mil vídeos de abuso sexual infantil en TikTok",
-      "medio": "20minutos",
-      "url": "https://www.20minutos.es/nacional/feijoo-se-reune-con-los-responsables-maldita-es-tras-destaparse-mas-mil-videos-abuso-sexual-infantil-tiktok_7059491_0.html",
-      "fecha": "2026-11-10T17:54+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "La denuncia contra Llorca pide que declare el socio ruso de su padre y apunta a contratos irregulares a un amigo del PP",
-      "medio": "elDiario.es",
-      "url": "https://www.eldiario.es/comunitat-valenciana/denuncia-llorca-pide-declare-socio-ruso-padre-apunta-contratos-irregulares-amigo-pp_1_13651525.html",
-      "fecha": "2026-11-10T17:07+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Feijóo presenta el programa del PP: «No haré un sanchismo de derechas ni vengo a administrar la decadencia»",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/feijoo-presenta-programa-pp-hare-sanchismo-derechas-20261110140530-nt.html",
-      "fecha": "2026-11-10T16:42+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Cómo responder a Abascal cuando miente sobre la violencia machista",
-      "medio": "elDiario.es",
-      "url": "https://www.eldiario.es/sociedad/responder-abascal-miente-violencia-machista_129_13652229.html",
-      "fecha": "2026-11-10T16:31+00:00",
-      "partidos": [
-        "vox"
-      ]
-    },
-    {
-      "titulo": "Un juzgado investiga al portavoz de Vox de Alcalá de Henares tras una denuncia de acoso",
-      "medio": "elDiario.es",
-      "url": "https://www.eldiario.es/madrid/juzgado-investiga-portavoz-vox-alcala-henares-denuncia-acoso_1_13653075.html",
-      "fecha": "2026-11-10T16:18+00:00",
-      "partidos": [
-        "vox"
-      ]
-    },
-    {
-      "titulo": "La entrevista a Abascal en 'La Revuelta' desata una pugna política de todos contra todos",
-      "medio": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/politica/20261110/11680992/entrevista-abascal-revuelta-desata-pugna-politica-todos-todos.html",
-      "fecha": "2026-11-10T16:16+00:00",
-      "partidos": [
-        "vox"
-      ]
-    },
-    {
-      "titulo": "El PP promete que los jóvenes no pagarán IRPF su primer año, 'cuota cero' para autónomos primerizos y \"atajar el absentismo\"",
-      "medio": "20minutos",
-      "url": "https://www.20minutos.es/lainformacion/economia-y-finanzas/pp-promete-que-los-jovenes-no-pagaran-irpf-su-primer-ano-cuota-cero-para-autonomos-primerizos-atajar-absentismo_7059395_0.html",
-      "fecha": "2026-11-10T16:16+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "El PP dará \"prioridad\" al mantenimiento de la red y postergará nuevas líneas de AVE hasta \"garantizar la seguridad\" de las existentes",
-      "medio": "20minutos",
-      "url": "https://www.20minutos.es/nacional/pp-dara-prioridad-mantenimiento-red-postergara-nuevas-lineas-ave-hasta-garantizar-seguridad-las-existentes_7059312_0.html",
-      "fecha": "2026-11-10T16:03+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "PP y Vox castigan a PSOE y FA en el primer debate por la ausencia del Gobierno: «Han sido ocho años en blanco para Córdoba»",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/andalucia/cordoba/pp-vox-castigan-psoe-primer-debate-ausencia-20261110164106-nts.html",
-      "fecha": "2026-11-10T15:50+00:00",
-      "partidos": [
-        "pp",
-        "psoe",
-        "vox"
-      ]
-    },
-    {
-      "titulo": "El PP reunirá a sus alcaldes andaluces para reclamar alternativas al corte del AVE",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/andalucia/malaga/pp-reunira-alcaldes-andaluces-reclamar-alternativas-corte-20261110163745-nts.html",
-      "fecha": "2026-11-10T15:45+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "El secretario autonómico del PSOE hará huelga este 11M porque se siente «trabajador»",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/castilla-leon/secretario-autonomico-psoe-hara-huelga-11m-siente-20261110164110-nt.html",
-      "fecha": "2026-11-10T15:42+00:00",
-      "partidos": [
-        "psoe"
       ]
     }
   ],
