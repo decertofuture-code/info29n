@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-13T17:06+00:00",
+  "actualizado": "2026-11-14T01:23+00:00",
   "temas": [
     {
       "id": "vivienda",
@@ -2440,6 +2440,202 @@
   ],
   "noticias": [
     {
+      "titulo": "Las mentiras de PP y Vox en el debate económico: de la inmigración al falso vaciado de las pensiones",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/economia/mentiras-pp-vox-debate-economico-inmigracion-falso-vaciado-pensiones_1_13663511.html",
+      "fecha": "2026-11-13T23:01+00:00",
+      "partidos": [
+        "pp",
+        "vox"
+      ]
+    },
+    {
+      "titulo": "Moncloa y Ferraz proyectan una campaña de golpes de efecto como Begoña o Lula que aísle al PSOE de la UCO: \"Habrá sorpresas\"",
+      "medio": "El Mundo",
+      "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/14/6af7685ae4d4d848758b4587.html",
+      "fecha": "2026-11-13T23:00+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "La Rinconada pone a prueba la fidelidad de Sevilla al PSOE: \"No hay que tenerle miedo a los cambios; en cuatro años volvemos a votar\"",
+      "medio": "El Mundo",
+      "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/14/6aeb0a42e9cf4a88038b4574.html",
+      "fecha": "2026-11-13T23:00+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "Abascal exhibe el respaldo de la ultraderecha internacional en su arranque de campaña",
+      "medio": "El País",
+      "url": "https://elpais.com/espana/elecciones-generales/2026-11-13/abascal-advierte-a-sus-votantes-de-que-su-mayor-enemigo-es-el-exceso-de-confianza.html",
+      "fecha": "2026-11-13T22:36+00:00",
+      "partidos": [
+        "vox"
+      ]
+    },
+    {
+      "titulo": "Primer debate electoral en campaña: PSOE y Frente Amplio prometen inversión en el tren, frente a PP y Vox que piden auditar la red",
+      "medio": "20minutos",
+      "url": "https://www.20minutos.es/nacional/primer-debate-electoral-campana-psoe-frente-amplio-prometen-inversion-tren-pp-vox-piden-auditar-red_7061028_0.html",
+      "fecha": "2026-11-13T22:27+00:00",
+      "partidos": [
+        "pp",
+        "psoe",
+        "vox",
+        "sumar"
+      ]
+    },
+    {
+      "titulo": "Abascal pide un 29-N glorioso que recosa la unidad patriótica",
+      "medio": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/politica/20261113/11683878/abascal-pide-29-n-glorioso-recosa-unidad-patriotica.html",
+      "fecha": "2026-11-13T21:52+00:00",
+      "partidos": [
+        "vox"
+      ]
+    },
+    {
+      "titulo": "Abascal se conjura con sus socios internacionales para el 29N: «Estas elecciones son existenciales para España»",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/abascal-conjura-socios-internacionales-29n-elecciones-existenciales-20261113220250-nt.html",
+      "fecha": "2026-11-13T21:33+00:00",
+      "partidos": [
+        "vox"
+      ]
+    },
+    {
+      "titulo": "Mañueco pide movilizar al PP para acabar con el Gobierno de Sánchez: \"El problema tiene nombre y apellidos\"",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/castilla-y-leon/politica/manueco-pide-movilizar-pp-acabar-gobierno-sanchez-problema-nombre-apellidos_1_13663382.html",
+      "fecha": "2026-11-13T20:55+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "Rueda llama a convertir el «enfado» con Sánchez en votos para Feijóo",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/galicia/rueda-llama-convertir-enfado-sanchez-votos-feijoo-20261113193653-nt.html",
+      "fecha": "2026-11-13T20:50+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "Feijóo se pone la capa de 'Anotop At' frente a Jordi Wild para conquistar a la Generación Z: \"Yo no sé inglés, pero sé gobernar\"",
+      "medio": "El Mundo",
+      "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/13/6af6e315fdddff705e8b4593.html",
+      "fecha": "2026-11-13T20:01+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "Ada Colau recoge el guante a Albiol y acepta un debate 'cara a cara' sobre vivienda",
+      "medio": "20minutos",
+      "url": "https://www.20minutos.es/nacional/ada-colau-recoge-guante-albiol-acepta-un-debate-cara-cara-sobre-vivienda_7061004_0.html",
+      "fecha": "2026-11-13T20:00+00:00",
+      "partidos": [
+        "sumar"
+      ]
+    },
+    {
+      "titulo": "Tellado amenaza con llevar al PSOE gallego a los tribunales por difundir una foto falsa suya con Koldo",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/galicia/tellado-amenaza-llevar-psoe-gallego-tribunales-difundir-20261113200822-nt.html",
+      "fecha": "2026-11-13T19:46+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "Rufián y Montero defienden en Palma una izquierda que no se someta al PSOE: \"El frente somos nosotros\"",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/catalunya/rufian-montero-defienden-palma-izquierda-no-someta-psoe-frente_1_13663237.html",
+      "fecha": "2026-11-13T19:39+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "Rufián se burla de Abascal: \"Si no se atreve con Jordi Wild, imaginadle con Mohamed VI\"",
+      "medio": "20minutos",
+      "url": "https://www.20minutos.es/nacional/rufian-se-burla-abascal-si-no-se-atreve-con-jordi-wild-imaginadle-con-mohamed-vi_7060999_0.html",
+      "fecha": "2026-11-13T19:28+00:00",
+      "partidos": [
+        "vox"
+      ]
+    },
+    {
+      "titulo": "El PP critica a los dirigentes socialistas de Castilla-La Mancha por hacer campaña para Pedro Sánchez",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/castilla-la-mancha/toledo/pp-critica-dirigentes-socialistas-castillala-mancha-campana-20261113200725-nt.html",
+      "fecha": "2026-11-13T19:07+00:00",
+      "partidos": [
+        "pp",
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "Besteiro cuestiona la fama de buen gestor de Feijóo y denuncia millones «dilapidados» en Lugo",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/galicia/besteiro-cuestiona-fama-buen-gestor-feijoo-denuncia-20261113200003-nt.html",
+      "fecha": "2026-11-13T19:00+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "El PSOE pide el voto frente a «dos partidos que no quieren ni el progreso ni mejorar la vida de las personas»",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/castilla-la-mancha/psoe-pide-voto-frente-dos-partidos-quieren-20261113195854-nt.html",
+      "fecha": "2026-11-13T18:58+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "La otra pelea de las izquierdas: dónde se puede romper el ascenso del PSOE",
+      "medio": "El Confidencial",
+      "url": "https://www.elconfidencial.com/espana/2026-11-13/izquierdas-psoe-pelea-voto-elecciones_4464934/",
+      "fecha": "2026-11-13T18:58+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "Colau rompe dos huevos, Feijóo no sabe inglés",
+      "medio": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/politica/20261113/11683785/colau-rompe-dos-huevos-feijoo-ingles.html",
+      "fecha": "2026-11-13T18:35+00:00",
+      "partidos": [
+        "pp",
+        "sumar"
+      ]
+    },
+    {
+      "titulo": "Sánchez pide una participación del 75% para \"una mayoría progresista\" el 29N y se mofa de Feijóo por su entrevista con Jordi Wild",
+      "medio": "20minutos",
+      "url": "https://www.20minutos.es/nacional/sanchez-pide-participacion-mayoria-progresista-mofa-feijoo-jordi-wild_7060966_0.html",
+      "fecha": "2026-11-13T18:31+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "El cara a cara entre Pedro Sánchez y Alberto Núñez Feijóo será el jueves 19 de noviembre",
+      "medio": "El País",
+      "url": "https://elpais.com/espana/elecciones-generales/2026-11-13/el-cara-a-cara-entre-pedro-sanchez-y-alberto-nunez-feijoo-sera-el-jueves-19-de-noviembre.html",
+      "fecha": "2026-11-13T18:21+00:00",
+      "partidos": [
+        "pp",
+        "psoe"
+      ]
+    },
+    {
       "titulo": "Jordi Wild, obligado a interrumpir su entrevista a Pedro Sánchez por los datos sobre inmigración marroquí: «Pido verificación»",
       "medio": "ABC",
       "url": "https://www.abc.es/espana/jordi-wild-obligado-interrumpir-entrevista-pedro-sanchez-20261113173038-nt.html",
@@ -2513,6 +2709,15 @@
       ]
     },
     {
+      "titulo": "La Policía carga contra manifestantes que increpaban a Abascal en un acto en Toledo",
+      "medio": "El Mundo",
+      "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/13/6af72fcfe4d4d8bc518b4594.html",
+      "fecha": "2026-11-13T15:42+00:00",
+      "partidos": [
+        "vox"
+      ]
+    },
+    {
       "titulo": "Sánchez y Feijóo debatirán cara a cara el 19 de noviembre en la Academia de Televisión",
       "medio": "El Confidencial",
       "url": "https://www.elconfidencial.com/espana/2026-11-13/debate-sanchez-feijoo-elecciones-gobierno-1hms_4464743/",
@@ -2540,6 +2745,16 @@
         "pp",
         "psoe",
         "vox"
+      ]
+    },
+    {
+      "titulo": "El PSOE presenta una denuncia contra ‘OkDiario’ y el PP por los pagos de la defensa de Koldo García",
+      "medio": "El País",
+      "url": "https://elpais.com/espana/2026-11-13/el-psoe-presenta-una-denuncia-contra-okdiario-y-el-pp-por-los-pagos-de-la-defensa-de-koldo-garcia.html",
+      "fecha": "2026-11-13T15:25+00:00",
+      "partidos": [
+        "pp",
+        "psoe"
       ]
     },
     {
@@ -2596,6 +2811,16 @@
       "fecha": "2026-11-13T14:04+00:00",
       "partidos": [
         "junts"
+      ]
+    },
+    {
+      "titulo": "Las seis horas de Jordi Wild con Sánchez, Feijóo, Colau (y el Fary) en su casa: “Esto es una vez en la vida”",
+      "medio": "El País",
+      "url": "https://elpais.com/espana/elecciones-generales/2026-11-13/las-seis-horas-de-jordi-wild-con-sanchez-feijoo-colau-y-el-fary-en-su-casa-esto-es-una-vez-en-la-vida.html",
+      "fecha": "2026-11-13T13:36+00:00",
+      "partidos": [
+        "pp",
+        "sumar"
       ]
     },
     {
@@ -5006,233 +5231,6 @@
       "fecha": "2026-11-10T15:42+00:00",
       "partidos": [
         "psoe"
-      ]
-    },
-    {
-      "titulo": "Koldo García se queda sin abogada tras su audio sobre la supuesta oferta del PP para pagarle",
-      "medio": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/politica/20261110/11680937/koldo-garcia-queda-abogada-audio-sobre-supeusta-oferta-pp-pagarle.html",
-      "fecha": "2026-11-10T15:36+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "El ministro Torres achaca a PP, Vox y Junts el \"malestar creciente\" que ha originado la huelga general",
-      "medio": "Europa Press",
-      "url": "https://www.europapress.es/nacional/noticia-ministro-torres-achaca-pp-vox-junts-malestar-creciente-originado-huelga-general-20261110162915.html",
-      "fecha": "2026-11-10T15:29+00:00",
-      "partidos": [
-        "pp",
-        "vox",
-        "junts"
-      ]
-    },
-    {
-      "titulo": "Albares acusa al PP de boicotear el acuerdo de Gibraltar en el Parlamento Europeo",
-      "medio": "elDiario.es",
-      "url": "https://www.eldiario.es/internacional/albares-acusa-pp-boicotear-acuerdo-gibraltar-parlamento-europeo_1_13652815.html",
-      "fecha": "2026-11-10T15:09+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Las medidas clave del PP: una \"renta de activación\" ligará el cobro del IMV y otros subsidios a la búsqueda de empleo",
-      "medio": "El Confidencial",
-      "url": "https://www.elconfidencial.com/espana/2026-11-10/medidas-clave-pp-renta-de-activacion-cobro-imv-empleo_4462240/",
-      "fecha": "2026-11-10T14:40+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Un marroquí que entró a nado en Ceuta explica a la juez Tardón que se decidió tras escuchar \"que Pedro Sánchez iba a regularizar a todo el que entrara\"",
-      "medio": "El Mundo",
-      "url": "https://www.elmundo.es/espana/2026/11/10/6af31d1ee4d4d8a03b8b4596.html",
-      "fecha": "2026-11-10T14:26+00:00",
-      "partidos": [
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "El Gobierno sale en defensa de Broncano y acusa a Abascal de \"amenazarle\": \"Merece toda nuestra condena\"",
-      "medio": "20minutos",
-      "url": "https://www.20minutos.es/nacional/gobierno-sale-defensa-broncano-acusa-abascal-amenazarle-merece-toda-nuestra-condena_7059372_0.html",
-      "fecha": "2026-11-10T14:19+00:00",
-      "partidos": [
-        "vox"
-      ]
-    },
-    {
-      "titulo": "La abogada de Koldo García renuncia a su defensa en plena polémica tras sus acusaciones contra el PP",
-      "medio": "El Confidencial",
-      "url": "https://www.elconfidencial.com/espana/2026-11-10/la-abogada-de-koldo-garcia-renuncia-a-su-defensa-por-motivos-profesionales_4462242/",
-      "fecha": "2026-11-10T13:59+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Feijóo reunirá el ingreso mínimo vital y subsidios en una \"renta de activación\" vinculada a la búsqueda de empleo",
-      "medio": "Europa Press",
-      "url": "https://www.europapress.es/nacional/noticia-feijoo-reunira-ingreso-minimo-vital-subsidios-renta-activacion-vinculada-busqueda-empleo-20261110143401.html",
-      "fecha": "2026-11-10T13:34+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Las respuestas de Abascal a las preguntas clásicas de Broncano que no se vieron en ‘La Revuelta’",
-      "medio": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/politica/20261110/11680863/respuestas-abascal-preguntas-clasicas-broncano-vieron-revuelta.html",
-      "fecha": "2026-11-10T13:25+00:00",
-      "partidos": [
-        "vox"
-      ]
-    },
-    {
-      "titulo": "Frente Amplio plantea gravar a los centros de datos en España y exige un registro público de algoritmos tras el escándalo de TikTok",
-      "medio": "20minutos",
-      "url": "https://www.20minutos.es/nacional/frente-amplio-plantea-gravar-los-centros-datos-espana-exige-un-registro-publico-algoritmos-tras-escandalo-tiktok_7059304_0.html",
-      "fecha": "2026-11-10T13:16+00:00",
-      "partidos": [
-        "sumar"
-      ]
-    },
-    {
-      "titulo": "El portavoz de Vox en Castilla-La Mancha exhibe el símbolo de Núcleo Nacional del que se desmarca Abascal",
-      "medio": "elDiario.es",
-      "url": "https://www.eldiario.es/castilla-la-mancha/politica/portavoz-vox-castilla-mancha-exhibe-simbolo-nucleo-nacional-desmarca-abascal_1_13652081.html",
-      "fecha": "2026-11-10T13:15+00:00",
-      "partidos": [
-        "vox"
-      ]
-    },
-    {
-      "titulo": "Vox replica a Sánchez que Abascal no amenazó a Broncano: \"Santiago sabe lo que es una amenaza, las recibió durante años\"",
-      "medio": "Europa Press",
-      "url": "https://www.europapress.es/nacional/noticia-vox-replica-sanchez-abascal-no-amenazo-broncano-santiago-sabe-amenaza-recibio-anos-20261110141452.html",
-      "fecha": "2026-11-10T13:14+00:00",
-      "partidos": [
-        "vox"
-      ]
-    },
-    {
-      "titulo": "El Gobierno recurrirá al Constitucional la prioridad nacional y 20 artículos de una ley valenciana pactada por el PP y Vox",
-      "medio": "El País",
-      "url": "https://elpais.com/espana/comunidad-valenciana/2026-11-10/el-gobierno-recurria-al-constitucional-la-prioridad-nacional-y-20-articulos-de-una-ley-valenciana-pactada-por-el-pp-y-vox.html",
-      "fecha": "2026-11-10T13:08+00:00",
-      "partidos": [
-        "pp",
-        "vox"
-      ]
-    },
-    {
-      "titulo": "El PP asume en su programa electoral la prioridad nacional de Vox, modificar el IMV y atajar el \"absentismo injustificado\"",
-      "medio": "elDiario.es",
-      "url": "https://www.eldiario.es/politica/pp-asume-programa-electoral-prioridad-nacional-vox-modificar-imv-atajar-absentismo-injustificado_1_13652361.html",
-      "fecha": "2026-11-10T13:05+00:00",
-      "partidos": [
-        "pp",
-        "vox"
-      ]
-    },
-    {
-      "titulo": "El Gobierno crea un Defensor de Víctimas mientras las de Adamuz esperan la firma de PSOE y PP a su propuesta de Pacto de Estado",
-      "medio": "20minutos",
-      "url": "https://www.20minutos.es/nacional/gobierno-crea-un-defensor-victimas-mientras-las-adamuz-esperan-firma-psoe-pp-su-propuesta-pacto-estado_7059286_0.html",
-      "fecha": "2026-11-10T12:56+00:00",
-      "partidos": [
-        "pp",
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "La Junta acusa al PP de plantear una bajada de impuestos «insostenible» y enmiendas «trampa» a los presupuestos",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/castilla-la-mancha/junta-acusa-pp-plantear-bajada-impuestos-insostenible-20261110133156-nt.html",
-      "fecha": "2026-11-10T12:54+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "PP y Vox sellan su alianza para prohibir el burka en los espacios públicos de Balears bajo multas de hasta 30.000 euros",
-      "medio": "elDiario.es",
-      "url": "https://www.eldiario.es/illes-balears/politica/pp-vox-sellan-alianza-prohibir-burka-espacios-publicos-balears-multas-30-000-euros_1_13652022.html",
-      "fecha": "2026-11-10T12:52+00:00",
-      "partidos": [
-        "pp",
-        "vox"
-      ]
-    },
-    {
-      "titulo": "ERC llevará como primera iniciativa tras el 29-N la ley 'una familia, una casa' sobre fiscalidad en vivienda",
-      "medio": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/politica/elecciones/20261110/11680843/erc-llevara-primera-iniciativa-29-n-ley-familia-casa-sobre-fiscalidad-vivienda.html",
-      "fecha": "2026-11-10T12:49+00:00",
-      "partidos": [
-        "erc"
-      ]
-    },
-    {
-      "titulo": "Sánchez acusa a Abascal de \"amenazar\" a Broncano por su frase en 'La Revuelta': \"Suerte, la vas a necesitar\"",
-      "medio": "20minutos",
-      "url": "https://www.20minutos.es/nacional/sanchez-acusa-abascal-amenazar-broncano-por-su-frase-revuelta-suerte-vas-necesitar_7059313_0.html",
-      "fecha": "2026-11-10T12:46+00:00",
-      "partidos": [
-        "vox"
-      ]
-    },
-    {
-      "titulo": "Feijóo pide una oportunidad para dar \"la vuelta\" a España: \"Mi programa es la cura para sanar una España herida\"",
-      "medio": "Europa Press",
-      "url": "https://www.europapress.es/nacional/noticia-feijoo-pide-oportunidad-dar-vuelta-espana-programa-cura-sanar-espana-herida-20261110134505.html",
-      "fecha": "2026-11-10T12:45+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Abascal en el salón de tu casa: la normalización de la extrema derecha",
-      "medio": "elDiario.es",
-      "url": "https://www.eldiario.es/opinion/zona-critica/abascal-salon-casa-normalizacion-extrema-derecha_129_13651918.html",
-      "fecha": "2026-11-10T12:39+00:00",
-      "partidos": [
-        "vox"
-      ]
-    },
-    {
-      "titulo": "Narciso Michavila, presidente de GAD3, sobre la entrevista de Broncano a Abascal: «El PSOE debería estar preocupado. Les está desmontando la campaña del miedo»",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/narciso-michavila-presidente-gad3-sobre-entrevista-broncano-20261110130620-nt.html",
-      "fecha": "2026-11-10T12:36+00:00",
-      "partidos": [
-        "psoe",
-        "vox"
-      ]
-    },
-    {
-      "titulo": "Encuesta de GAD3 de las elecciones generales en Galicia: ganador y resultados de PP, PSOE, VOX y BNG",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/galicia/encuesta-gad3-elecciones-generales-galicia-ganador-resultados-20261110131515-nt.html",
-      "fecha": "2026-11-10T12:35+00:00",
-      "partidos": [
-        "pp",
-        "psoe",
-        "bng"
-      ]
-    },
-    {
-      "titulo": "Elecciones generales del 29N, última hora: precampaña electoral de Sánchez, Feijóo, Colau, Abascal y resto de candidatos",
-      "medio": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/politica/20261110/11680069/elecciones-generales-29-n-ultima-hora-precampana-electoral-hoy-martes-10-noviembre.html",
-      "fecha": "2026-11-10T12:34+00:00",
-      "partidos": [
-        "pp",
-        "vox",
-        "sumar"
       ]
     }
   ],
