@@ -9,6 +9,12 @@
         {"texto": "Hemos añadido dos votaciones del Congreso: el decreto ómnibus que incluía la subida de las pensiones (enero de 2026) y la ley de la Agencia Estatal de Salud Pública (marzo de 2025). Puedes ver qué votó cada partido.", "seccion": "votaciones"},
         {"texto": "Y en «Cómo votar», una guía para comprobar el censo y tu mesa electoral. El plazo para consultarlo y reclamar errores termina el lunes 19 de octubre.", "seccion": "como-votar"}
       ]
+    },
+    {
+      "id": "entrevistas-wild-2026-11-14",
+      "hilo": [
+        {"texto": "Nuevo en info29n.com: las entrevistas de Jordi Wild a Ada Colau, Alberto Núñez Feijóo y Pedro Sánchez, con 5 frases de cada uno sobre vivienda, inmigración, economía y política, y el enlace a la entrevista completa.", "seccion": "inicio"}
+      ]
     }
   ]
 }
