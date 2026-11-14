@@ -339,6 +339,17 @@ body[data-tab="inicio"] .brand{color:var(--accent)}
 .deb-list{margin:0 0 .5rem}
 .deb-list .t b{display:block}
 .deb-pasado{opacity:.65}
+.ent-nota{color:var(--muted);margin:.25rem 0 1rem;max-width:48rem}
+.ent-list{display:grid;gap:1rem;max-width:48rem}
+.ent{background:var(--sheet);border:1px solid var(--line);border-radius:10px;box-shadow:var(--shadow);padding:.9rem 1rem}
+.ent h3{margin:0;font-size:1.1rem} .ent h3 a{color:inherit;text-decoration:none} .ent h3 a:hover{color:var(--accent);text-decoration:underline}
+.ent .meta{margin:.15rem 0 .6rem;color:var(--muted);font-size:.9rem}
+.ent ul{list-style:none;margin:0;padding:0}
+.ent li{padding:.6rem 0;border-top:1px solid var(--line)}
+.ent blockquote{margin:0;font-style:italic}
+.ent li small{display:block;color:var(--muted);font-size:.85rem;margin-top:.2rem}
+.ent li small a{color:inherit}
+.ent .ver{display:inline-flex;align-items:center;min-height:44px;font-weight:700;color:var(--accent);text-decoration:none}
 .idx p{margin:.35rem 0}
 </style>
 </head>
@@ -398,6 +409,9 @@ body[data-tab="inicio"] .brand{color:var(--accent)}
 
     <h2 id="debates-h" class="debates-h">Debates electorales</h2>
     <div id="debates"><p class="loading">Cargando…</p></div>
+
+    <h2 id="entrevistas-h" class="debates-h">Entrevistas a candidatos</h2>
+    <div id="entrevistas"><p class="loading">Cargando…</p></div>
 
     <div class="shortcuts">
       <a href="#partidos" data-go="partidos"><b>Partidos</b><span>Toda la información de cada partido en una sola página.</span></a>
@@ -530,6 +544,7 @@ body[data-tab="inicio"] .brand{color:var(--accent)}
     <p><b>Cómo se extraen.</b> Todos los programas pasan por el mismo proceso: una inteligencia artificial (Claude, de Anthropic) localiza las medidas de cada tema y copia la frase exacta del programa; un programa informático comprueba que esa frase aparece de verdad en la página indicada, y una persona lo revisa antes de publicarlo. Las medidas cuya cita no se ha podido comprobar no se publican. Si un tema tiene muchas medidas, se muestran hasta diez, priorizando las más concretas.</p>
     <p><b>Comparador.</b> Las preguntas son las mismas para todos los partidos. La postura se basa únicamente en lo que dice su programa: «Sí» o «No» si lo dice de forma explícita, «Con matices» si lo apoya solo en parte o con condiciones, y «No se pronuncia» si el programa no dice nada claro. No se deduce de declaraciones ni de votaciones anteriores.</p>
     <p><b>Casos de corrupción.</b> Solo procedimientos penales (no sanciones administrativas) por delitos de corrupción que afecten al partido o a personas que ocupaban un cargo en él o en su nombre, con alguna novedad judicial entre 2023 y 2026. Indicamos siempre el estado: investigación, pendiente de sentencia, condena no firme o condena firme. Incluimos los casos con más repercusión por el cargo de los implicados; la lista se irá ampliando, y que un partido no tenga casos aquí no certifica nada.</p>
+    <p><b>Entrevistas.</b> Recogemos las entrevistas largas a los candidatos a la Presidencia del Gobierno, con el mismo número de frases de cada uno y centradas en los temas que más preocupan según el CIS. Las frases son literales, tal como las recogen los medios enlazados, y se contrastan con el vídeo antes de publicarlas. Siempre enlazamos a la entrevista completa para que se pueda ver el contexto.</p>
     <p><b>Votaciones.</b> Datos del Pleno del Congreso. Cuando no podemos confirmar el voto de un grupo, lo indicamos como "sin dato" en lugar de suponerlo.</p>
     <p><b>Correcciones.</b> Si ves un error, escríbenos desde el <a href="#buzon" data-go="buzon">buzón de sugerencias</a> y lo revisaremos.</p>
   </section>
@@ -576,7 +591,7 @@ body[data-tab="inicio"] .brand{color:var(--accent)}
 </a>
 <script>
 // ---- DATOS: se cargan desde datos.json ----
-let DEBATES=[];
+let DEBATES=[],ENTREVISTAS={lista:[]};
 let TOPICS=[],PARTIES=[],MEASURES={},RESUMEN={},VOTES=[],STATUS={},CASES=[],NEWS=[],UPDATED=null,PROGRAMAS={},PREGUNTAS=[];
 // Medidas visibles: las no verificadas (cita sin comprobar) no se publican.
 const visibles = (pid,tid) => ((MEASURES[pid]||{})[tid]||[]).filter(x=>x.verificada!==false);
@@ -664,6 +679,7 @@ renderCases();
 
 renderNews();
   renderDebates();
+  renderEntrevistas();
   document.getElementById("idx").innerHTML=`<p><b>Por partido:</b> ${PARTIES.map(p=>`<a href="/partido/${p.id}/">${p.name}</a>`).join(" · ")}</p><p><b>Por tema:</b> ${TOPICS.map(t=>`<a href="/tema/${t.id}/">${t.name}</a>`).join(" · ")}</p>`;
   renderComparador();
   irAPregunta();
@@ -744,6 +760,19 @@ function renderDebates(){
     return `<li class="${pasado?"deb-pasado":""}"><span class="t"><b>${esc(x.titulo)}</b><small>${cuando}${x.cadenas?` · ${esc(x.cadenas)}`:""}</small>${x.participantes?`<small>${esc(x.participantes)}</small>`:""}${x.fuente?`<small><a class="src" href="${x.fuente}" target="_blank" rel="noopener">Fuente</a></small>`:""}</span><span class="v ${esHoy?"si":pasado?"nd":""}">${esHoy?"Hoy":pasado?"Celebrado":"Próximo"}</span></li>`;}).join("")}</ul>`;
 }
 
+// ---- ENTREVISTAS ----
+const temaNombre = id => (TOPICS.find(t=>t.id===id)||{}).name||"";
+const citaEntHTML = q => `<li><blockquote>«${esc(q.texto)}»</blockquote><small>${temaNombre(q.tema)?`${temaNombre(q.tema)} · `:""}${q.contexto?esc(q.contexto)+" · ":""}${q.minuto?`Minuto ${esc(q.minuto)} · `:""}Recogida por <a href="${q.fuente.url}" target="_blank" rel="noopener">${esc(q.fuente.medio)}</a></small></li>`;
+const entHTML = (e,conPartido) => `<article class="ent" id="entrevista-${e.id}"><h3>${conPartido?`<a href="#partido-${e.partido}">${esc(e.candidato)}</a>`:esc(e.candidato)}</h3>
+  <p class="meta">${conPartido?`${pname(e.partido)} · `:""}${esc(e.programa)} · ${fdate(e.fecha)}</p>
+  <ul>${e.citas.map(citaEntHTML).join("")}</ul>
+  <a class="ver" href="${e.video}" target="_blank" rel="noopener">Ver la entrevista completa</a></article>`;
+function renderEntrevistas(){
+  const el=document.getElementById("entrevistas"), L=ENTREVISTAS.lista||[];
+  if(!L.length){ el.innerHTML='<p class="pv-empty">Todavía no hay entrevistas recogidas.</p>'; return; }
+  el.innerHTML=`${ENTREVISTAS.nota?`<p class="ent-nota">${esc(ENTREVISTAS.nota)}${ENTREVISTAS.ausencias?" "+esc(ENTREVISTAS.ausencias):""}</p>`:""}<div class="ent-list">${L.map(e=>entHTML(e,true)).join("")}</div>`;
+}
+
 // ---- VISTA POR PARTIDO ----
 let currentParty=null;
 const VOTE_TXT={si:"A favor",no:"En contra",nd:"Sin dato"};
@@ -771,15 +800,17 @@ function renderPartyView(){
       <span class="status st-${c.status}">${STATUS[c.status]}</span> <span class="who">(${c.dateLabel||fdate(c.date)})</span>
       <p>${c.what}</p><p class="srcs">Fuentes: ${c.src.map(([n,u])=>`<a href="${u}" target="_blank" rel="noopener">${n}</a>`).join("")}</p></article>`).join("")}</div>`
     :'<p class="pv-empty">No hay casos recogidos en esta web para este partido. Que no aparezcan aquí no certifica que no tenga ninguno.</p>';
+  const ents=(ENTREVISTAS.lista||[]).filter(e=>e.partido===p.id);
   const news=NEWS.filter(n=>(n.partidos||[]).includes(p.id)).slice(0,8);
   const newsHTML=news.length?`<ul class="news-list">${news.map(n=>`<li><a href="${n.url}" target="_blank" rel="noopener">${esc(n.titulo)}</a>
       <span class="news-meta">${esc(n.medio)} · ${fdatetime(n.fecha)}</span></li>`).join("")}</ul>`:'<p class="pv-empty">No hay noticias recientes que lo mencionen.</p>';
   v.innerHTML=`<header class="pv-head"><h3>${p.name}</h3><p>${p.lead}</p>
-      <nav class="pv-jump" aria-label="Secciones de ${p.name}"><a href="#pv-propuestas">Propuestas</a><a href="#pv-comparador">Comparador</a><a href="#pv-votaciones">Votaciones</a><a href="#pv-casos">Casos judiciales</a><a href="#pv-noticias">Noticias</a></nav></header>
+      <nav class="pv-jump" aria-label="Secciones de ${p.name}"><a href="#pv-propuestas">Propuestas</a><a href="#pv-comparador">Comparador</a><a href="#pv-votaciones">Votaciones</a><a href="#pv-casos">Casos judiciales</a>${ents.length?'<a href="#pv-entrevistas">Entrevistas</a>':""}<a href="#pv-noticias">Noticias</a></nav></header>
     <section class="pv-block" id="pv-propuestas"><h4>Propuestas</h4>${topics}${(g=>g?`<p class="prog-link"><a href="${g.url}" target="_blank" rel="noopener">Leer el programa electoral completo (PDF)</a><span>${g.paginas?`${g.paginas} páginas · `:""}Documento oficial publicado por el partido</span></p>`:"")(progInfo(p.id))}</section>
     <section class="pv-block" id="pv-comparador"><h4>Su postura en el comparador</h4>${partyStances(p.id)}</section>
     <section class="pv-block" id="pv-votaciones"><h4>Qué votó en esta legislatura</h4>${votes}</section>
     <section class="pv-block" id="pv-casos"><h4>Casos judiciales</h4>${cases}</section>
+    ${ents.length?`<section class="pv-block" id="pv-entrevistas"><h4>Entrevistas</h4><div class="ent-list">${ents.map(e=>entHTML(e,false)).join("")}</div></section>`:""}
     <section class="pv-block" id="pv-noticias"><h4>Últimas noticias</h4>${newsHTML}
       ${news.length?`<a class="pv-more" href="#medios" data-news-party="${p.id}">Ver todas sus noticias →</a>`:""}</section>`;
 }
@@ -865,7 +896,7 @@ async function cargarDatos(){
 }
 cargarDatos().then(d=>{
   TOPICS=d.temas; PARTIES=d.partidos.map(p=>({...p,lead:`Se presenta en: ${p.scope}. ${p.candidato?`Candidato: ${p.candidato}.`:"Candidatura por confirmar."}`}));
-  PROGRAMAS=d.programas||{}; PREGUNTAS=d.preguntas||[]; DEBATES=(d.debates||[]).slice().sort((a,b)=>(a.fecha+(a.hora||"")).localeCompare(b.fecha+(b.hora||"")));
+  PROGRAMAS=d.programas||{}; PREGUNTAS=d.preguntas||[]; ENTREVISTAS=d.entrevistas||{lista:[]}; DEBATES=(d.debates||[]).slice().sort((a,b)=>(a.fecha+(a.hora||"")).localeCompare(b.fecha+(b.hora||"")));
   MEASURES=d.medidas||{}; RESUMEN=d.resumen||{}; VOTES=d.votaciones||[]; STATUS=d.estados||{}; CASES=d.casos||[];
   NEWS=(d.noticias||[]).sort((a,b)=>b.fecha.localeCompare(a.fecha)); UPDATED=d.actualizado;
   iniciar();

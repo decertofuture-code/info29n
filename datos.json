@@ -5571,5 +5571,191 @@
       "paginas": 66
     }
   },
-  "debates": []
+  "debates": [],
+  "entrevistas": {
+    "nota": "Entrevistas largas publicadas a los candidatos a la Presidencia del Gobierno. Recogemos el mismo número de frases de cada candidato, centradas en los temas que más preocupan según el CIS, con enlace a la entrevista completa. Que un partido no aparezca no implica nada sobre él.",
+    "lista": [
+      {
+        "id": "wild-colau",
+        "programa": "The Wild Project (Jordi Wild)",
+        "fecha": "2026-11-13",
+        "partido": "sumar",
+        "candidato": "Ada Colau",
+        "video": "https://www.youtube.com/watch?v=-ESmAhdixfo",
+        "citas": [
+          {
+            "texto": "Las leyes tienen que proteger al pequeño propietario",
+            "tema": "vivienda",
+            "contexto": "Sobre la regulación del alquiler.",
+            "minuto": null,
+            "fuente": {
+              "medio": "elDiario.es",
+              "url": "https://www.eldiario.es/politica/colau-jordi-wild-migrantes-delinquen-mayoria-no-suponen-problema_1_13660988.html"
+            }
+          },
+          {
+            "texto": "Prohibiremos la compra de casas para alquilar por encima de precios asequibles",
+            "tema": "vivienda",
+            "contexto": "Sobre su propuesta de vivienda.",
+            "minuto": null,
+            "fuente": {
+              "medio": "Diario de Pontevedra (agencias)",
+              "url": "https://www.diariodepontevedra.es/articulo/elecciones-generales-29n/asi-han-sido-entrevistas-jordi-wild-colau-feijoo-sanchez-candidatos-elecciones-generales-29n/202611131459511476899.html"
+            }
+          },
+          {
+            "texto": "Creo que la afirmación de la derecha de asociar inmigración con delincuencia es falsa",
+            "tema": "inmigracion",
+            "contexto": "Preguntada por inmigración y seguridad.",
+            "minuto": null,
+            "fuente": {
+              "medio": "elDiario.es",
+              "url": "https://www.eldiario.es/politica/colau-jordi-wild-migrantes-delinquen-mayoria-no-suponen-problema_1_13660988.html"
+            }
+          },
+          {
+            "texto": "Pedro Sánchez es un hombre que habla bien pero que, si no tiene presión, no hace suficientes políticas progresistas",
+            "tema": "politica",
+            "contexto": "Sobre su relación con el PSOE.",
+            "minuto": null,
+            "fuente": {
+              "medio": "elDiario.es",
+              "url": "https://www.eldiario.es/politica/colau-jordi-wild-migrantes-delinquen-mayoria-no-suponen-problema_1_13660988.html"
+            }
+          },
+          {
+            "texto": "Ahí sí romperíamos",
+            "tema": "politica",
+            "contexto": "Sobre qué haría si se demostrara que el PSOE se benefició de la corrupción.",
+            "minuto": null,
+            "fuente": {
+              "medio": "elDiario.es",
+              "url": "https://www.eldiario.es/politica/colau-jordi-wild-migrantes-delinquen-mayoria-no-suponen-problema_1_13660988.html"
+            }
+          }
+        ]
+      },
+      {
+        "id": "wild-feijoo",
+        "programa": "The Wild Project (Jordi Wild)",
+        "fecha": "2026-11-13",
+        "partido": "pp",
+        "candidato": "Alberto Núñez Feijóo",
+        "video": "https://www.youtube.com/watch?v=1YlGArMx_N4",
+        "citas": [
+          {
+            "texto": "No va a haber un Ministerio de Igualdad; tampoco va a haber un Ministerio de Vivienda y la vivienda es la primera prioridad",
+            "tema": "vivienda",
+            "contexto": "Sobre la estructura de su posible Gobierno.",
+            "minuto": null,
+            "fuente": {
+              "medio": "Diario de Pontevedra (agencias)",
+              "url": "https://www.diariodepontevedra.es/articulo/elecciones-generales-29n/asi-han-sido-entrevistas-jordi-wild-colau-feijoo-sanchez-candidatos-elecciones-generales-29n/202611131459511476899.html"
+            }
+          },
+          {
+            "texto": "hay medio millón de inmigrantes cobrando el ingreso mínimo vital sin trabajar una hora en el último año",
+            "tema": "inmigracion",
+            "contexto": "Sobre las ayudas sociales.",
+            "minuto": null,
+            "fuente": {
+              "medio": "OKDIARIO",
+              "url": "https://okdiario.com/espana/feijoo-jordi-wild-hay-medio-millon-inmigrantes-cobrando-ingreso-minimo-vital-sin-trabajar-20848385"
+            }
+          },
+          {
+            "texto": "exigir la nacionalidad como único requisito para una ayuda social es ilegal",
+            "tema": "inmigracion",
+            "contexto": "Sobre las ayudas sociales.",
+            "minuto": null,
+            "fuente": {
+              "medio": "OKDIARIO",
+              "url": "https://okdiario.com/espana/feijoo-jordi-wild-hay-medio-millon-inmigrantes-cobrando-ingreso-minimo-vital-sin-trabajar-20848385"
+            }
+          },
+          {
+            "texto": "Haré la auditoría de gasto, explicaré cuál es el gasto en mi país y diré exactamente a qué gasto en Defensa podemos llegar",
+            "tema": "economia",
+            "contexto": "Sobre el gasto público y en Defensa.",
+            "minuto": null,
+            "fuente": {
+              "medio": "OKDIARIO",
+              "url": "https://okdiario.com/espana/feijoo-jordi-wild-hay-medio-millon-inmigrantes-cobrando-ingreso-minimo-vital-sin-trabajar-20848385"
+            }
+          },
+          {
+            "texto": "Yo soy responsable de mi biografía, respondo por ella",
+            "tema": "politica",
+            "contexto": "Preguntado por fotografías de su pasado.",
+            "minuto": null,
+            "fuente": {
+              "medio": "Diario de Pontevedra (agencias)",
+              "url": "https://www.diariodepontevedra.es/articulo/elecciones-generales-29n/asi-han-sido-entrevistas-jordi-wild-colau-feijoo-sanchez-candidatos-elecciones-generales-29n/202611131459511476899.html"
+            }
+          }
+        ]
+      },
+      {
+        "id": "wild-sanchez",
+        "programa": "The Wild Project (Jordi Wild)",
+        "fecha": "2026-11-13",
+        "partido": "psoe",
+        "candidato": "Pedro Sánchez",
+        "video": "https://www.youtube.com/watch?v=mStOFBvToUI",
+        "citas": [
+          {
+            "texto": "Es difícil",
+            "tema": "vivienda",
+            "contexto": "Preguntado por cómo puede independizarse un joven de 25 años que cobra 1.300 euros al mes.",
+            "minuto": null,
+            "fuente": {
+              "medio": "El Diario de Madrid",
+              "url": "https://www.eldiariodemadrid.es/articulo/politica/pedro-sanchez-jordi-wild-entrevista-trenes-corrupcion-vivienda/20261113141905146845.html"
+            }
+          },
+          {
+            "texto": "el migrante es de la población que menos utiliza esos servicios públicos",
+            "tema": "inmigracion",
+            "contexto": "Sobre inmigración y servicios públicos.",
+            "minuto": null,
+            "fuente": {
+              "medio": "Diario de Pontevedra (agencias)",
+              "url": "https://www.diariodepontevedra.es/articulo/elecciones-generales-29n/asi-han-sido-entrevistas-jordi-wild-colau-feijoo-sanchez-candidatos-elecciones-generales-29n/202611131459511476899.html"
+            }
+          },
+          {
+            "texto": "500.000 personas ya está trabajando y cotizando. No nos quitan el puesto de trabajo",
+            "tema": "empleo",
+            "contexto": "Sobre la regularización de migrantes y el empleo.",
+            "minuto": null,
+            "fuente": {
+              "medio": "Diario de Pontevedra (agencias)",
+              "url": "https://www.diariodepontevedra.es/articulo/elecciones-generales-29n/asi-han-sido-entrevistas-jordi-wild-colau-feijoo-sanchez-candidatos-elecciones-generales-29n/202611131459511476899.html"
+            }
+          },
+          {
+            "texto": "No es asumible para un país como España el sufrir dos accidentes de estas características en la alta velocidad",
+            "tema": "politica",
+            "contexto": "Sobre los accidentes ferroviarios.",
+            "minuto": null,
+            "fuente": {
+              "medio": "El Español",
+              "url": "https://www.elespanol.com/sociedad/20261113/pedro-sanchez-entrevista-jordi-wild-trenes-pese-dificultades-sistema-espana-seguro/1003744457988_0.html"
+            }
+          },
+          {
+            "texto": "Es momento de dar un paso al frente, no un paso al lado",
+            "tema": "politica",
+            "contexto": "Sobre por qué vuelve a presentarse.",
+            "minuto": null,
+            "fuente": {
+              "medio": "El Diario de Madrid",
+              "url": "https://www.eldiariodemadrid.es/articulo/politica/pedro-sanchez-jordi-wild-entrevista-trenes-corrupcion-vivienda/20261113141905146845.html"
+            }
+          }
+        ]
+      }
+    ],
+    "ausencias": "Vox también fue invitado; su candidato canceló la entrevista el 11 de noviembre."
+  }
 }
