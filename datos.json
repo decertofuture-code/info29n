@@ -3018,6 +3018,468 @@
           "verificada": true
         }
       ]
+    },
+    "psoe": {
+      "vivienda": [
+        {
+          "texto": "Reformar la Constitución para que la vivienda se considere un derecho fundamental exigible a los poderes públicos.",
+          "cita": "37. Reformar la Constitución Española para que la vivienda se considere un",
+          "pagina": 27,
+          "fuente": "https://www.psoe.es/media-content/2026/11/PROGRAMAPSOE29N26.pdf#page=27",
+          "fecha": "2026-11-15",
+          "verificada": true
+        },
+        {
+          "texto": "Movilizar cada año un 1% del PIB para garantizar el acceso a la vivienda.",
+          "cita": "38. Movilizar anualmente un 1% del PIB para garantizar el acceso a la vivienda.",
+          "pagina": 27,
+          "fuente": "https://www.psoe.es/media-content/2026/11/PROGRAMAPSOE29N26.pdf#page=27",
+          "fecha": "2026-11-15",
+          "verificada": true
+        },
+        {
+          "texto": "Constituir un parque público estatal de 100.000 viviendas mediante construcción y adquisición.",
+          "cita": "42. Constituir un parque público estatal de 100.000 viviendas mediante la",
+          "pagina": 28,
+          "fuente": "https://www.psoe.es/media-content/2026/11/PROGRAMAPSOE29N26.pdf#page=28",
+          "fecha": "2026-11-15",
+          "verificada": true
+        },
+        {
+          "texto": "Aprobar la Ley de proveedores sociales de vivienda para crear una red social de provisión de vivienda asequible.",
+          "cita": "45. Aprobar la Ley de proveedores sociales de vivienda, en línea con los sistemas",
+          "pagina": 28,
+          "fuente": "https://www.psoe.es/media-content/2026/11/PROGRAMAPSOE29N26.pdf#page=28",
+          "fecha": "2026-11-15",
+          "verificada": true
+        },
+        {
+          "texto": "Fijar un impuesto sobre los solares residenciales ociosos para movilizar suelo.",
+          "cita": "53. Movilizar suelo para construir vivienda fijando un impuesto sobre los solares",
+          "pagina": 30,
+          "fuente": "https://www.psoe.es/media-content/2026/11/PROGRAMAPSOE29N26.pdf#page=30",
+          "fecha": "2026-11-15",
+          "verificada": true
+        },
+        {
+          "texto": "Disponer más de 25.000 millones de euros a través del ICO para avales, préstamos y financiación de vivienda asequible.",
+          "cita": "55. Disponer más de 25.000 millones de euros, a través del ICO, para avales,",
+          "pagina": 30,
+          "fuente": "https://www.psoe.es/media-content/2026/11/PROGRAMAPSOE29N26.pdf#page=30",
+          "fecha": "2026-11-15",
+          "verificada": true
+        },
+        {
+          "texto": "Congelar temporalmente las rentas de alquiler que superen los índices de referencia en mercados tensionados.",
+          "cita": "62. Congelar temporalmente las rentas que superen los índices de referencia, evitando incrementos abusivos en los mercados tensionados.",
+          "pagina": 30,
+          "fuente": "https://www.psoe.es/media-content/2026/11/PROGRAMAPSOE29N26.pdf#page=30",
+          "fecha": "2026-11-15",
+          "verificada": true
+        },
+        {
+          "texto": "Crear una garantía pública de acceso al alquiler para jóvenes en forma de seguros de impago.",
+          "cita": "64. Crear la garantía pública de acceso al alquiler para jóvenes, en forma de seguros de",
+          "pagina": 31,
+          "fuente": "https://www.psoe.es/media-content/2026/11/PROGRAMAPSOE29N26.pdf#page=31",
+          "fecha": "2026-11-15",
+          "verificada": true
+        },
+        {
+          "texto": "Desplegar el Programa TUCASA y ampliar su dotación si se agotan los 10.000 millones de la línea de préstamos sin intereses de hasta 50.000 euros.",
+          "cita": "67. Desplegar el Programa TUCASA y ampliar su dotación en caso de que se agoten",
+          "pagina": 31,
+          "fuente": "https://www.psoe.es/media-content/2026/11/PROGRAMAPSOE29N26.pdf#page=31",
+          "fecha": "2026-11-15",
+          "verificada": true
+        },
+        {
+          "texto": "Gravar con un impuesto progresivo las viviendas de grandes propietarios y fondos que no se destinen a alquiler residencial asequible.",
+          "cita": "Se gravará con un impuesto progresivo la posesión de todas aquellas viviendas de",
+          "pagina": 31,
+          "fuente": "https://www.psoe.es/media-content/2026/11/PROGRAMAPSOE29N26.pdf#page=31",
+          "fecha": "2026-11-15",
+          "verificada": true
+        }
+      ],
+      "economia": [
+        {
+          "texto": "Movilizar 120.000 millones de euros mediante el Fondo España Crece para mantener la inversión productiva más allá de los fondos europeos.",
+          "cita": "instrumentos como el Fondo España Crece, que movilizará 120.000 millones de euros para asegurar que la modernización continúe más allá de los fondos europeos",
+          "pagina": 13,
+          "fuente": "https://www.psoe.es/media-content/2026/11/PROGRAMAPSOE29N26.pdf#page=13",
+          "fecha": "2026-11-15",
+          "verificada": true
+        },
+        {
+          "texto": "Aprobar una nueva Ley de Industria y Autonomía Estratégica.",
+          "cita": "Aprobaremos una nueva Ley de Industria y Autonomía Estratégica",
+          "pagina": 14,
+          "fuente": "https://www.psoe.es/media-content/2026/11/PROGRAMAPSOE29N26.pdf#page=14",
+          "fecha": "2026-11-15",
+          "verificada": true
+        },
+        {
+          "texto": "Poner en marcha la Cuenta de Ahorro e Inversión Financia Europa con incentivos para canalizar el ahorro hacia la inversión productiva.",
+          "cita": "Poner en marcha la Cuenta de Ahorro e Inversión Financia Europa, con incentivos para canalizar el ahorro desde el ladrillo hasta inversión productiva más beneficiosa",
+          "pagina": 15,
+          "fuente": "https://www.psoe.es/media-content/2026/11/PROGRAMAPSOE29N26.pdf#page=15",
+          "fecha": "2026-11-15",
+          "verificada": true
+        },
+        {
+          "texto": "Blindar por ley el SMI por encima del 60% del salario medio y actualizarlo periódicamente.",
+          "cita": "87. Blindar por ley un SMI digno. Blindar por ley el SMI por encima del 60% del salario",
+          "pagina": 37,
+          "fuente": "https://www.psoe.es/media-content/2026/11/PROGRAMAPSOE29N26.pdf#page=37",
+          "fecha": "2026-11-15",
+          "verificada": true
+        },
+        {
+          "texto": "Crear un mecanismo para activar una deducción en el IRPF progresiva cuando suban los precios.",
+          "cita": "88. Deducción estatal en el IRPF condicional a la evolución de los precios.",
+          "pagina": 37,
+          "fuente": "https://www.psoe.es/media-content/2026/11/PROGRAMAPSOE29N26.pdf#page=37",
+          "fecha": "2026-11-15",
+          "verificada": true
+        },
+        {
+          "texto": "Crear un bono social único y automático que integre varias ayudas y se reconozca de oficio.",
+          "cita": "93. Crear un bono social único y automático.",
+          "pagina": 38,
+          "fuente": "https://www.psoe.es/media-content/2026/11/PROGRAMAPSOE29N26.pdf#page=38",
+          "fecha": "2026-11-15",
+          "verificada": true
+        },
+        {
+          "texto": "Crear la Autoridad de Defensa del Cliente Financiero para atender reclamaciones bancarias gratis en máximo 90 días.",
+          "cita": "97. Autoridad de Defensa del Cliente Financiero: Los ciudadanos podrán presentar",
+          "pagina": 39,
+          "fuente": "https://www.psoe.es/media-content/2026/11/PROGRAMAPSOE29N26.pdf#page=39",
+          "fecha": "2026-11-15",
+          "verificada": true
+        },
+        {
+          "texto": "Elevar progresivamente hasta un 35% el tipo máximo sobre rentas del capital superiores a 300.000 euros.",
+          "cita": "llegando progresivamente a un tipo máximo del 35% para rentas del capital superiores a",
+          "pagina": 48,
+          "fuente": "https://www.psoe.es/media-content/2026/11/PROGRAMAPSOE29N26.pdf#page=48",
+          "fecha": "2026-11-15",
+          "verificada": true
+        },
+        {
+          "texto": "Crear una prestación estatal por crianza para todos los hogares con menores, con protección adicional para hogares de renta baja.",
+          "cita": "Prestación estatal por crianza para todos los hogares con menores de edad, con un diseño fiscal redistributivo y una protección adicional para los hogares de renta baja",
+          "pagina": 56,
+          "fuente": "https://www.psoe.es/media-content/2026/11/PROGRAMAPSOE29N26.pdf#page=56",
+          "fecha": "2026-11-15",
+          "verificada": true
+        },
+        {
+          "texto": "Crear una Cuenta de Futuro: una cuenta pública de 1.000 euros para cada recién nacido, disponible a partir de los 18 años.",
+          "cita": "Asignar al nacer a cada niño o niña una cuenta pública de 1.000 euros invertida en fondos públicos",
+          "pagina": 56,
+          "fuente": "https://www.psoe.es/media-content/2026/11/PROGRAMAPSOE29N26.pdf#page=56",
+          "fecha": "2026-11-15",
+          "verificada": true
+        }
+      ],
+      "inmigracion": [
+        {
+          "texto": "Crear una Unidad de Apoyo a la Infancia Migrante con equipos multidisciplinares para asistir a las comunidades autónomas en emergencias.",
+          "cita": "Crear una Unidad de Apoyo a la Infancia Migrante, con equipos multidisciplinares especializados en protección infantil, atención psicosocial, mediación intercultural y asesoramiento jurídico",
+          "pagina": 57,
+          "fuente": "https://www.psoe.es/media-content/2026/11/PROGRAMAPSOE29N26.pdf#page=57",
+          "fecha": "2026-11-15",
+          "verificada": true
+        },
+        {
+          "texto": "Desplegar el Plan de Integración y Ciudadanía 2026-2030 con una dotación inicial de 500 millones de euros.",
+          "cita": "Desplegar el Plan de Integración y Ciudadanía 2026-2030, con una dotación inicial de 500 millones de euros",
+          "pagina": 92,
+          "fuente": "https://www.psoe.es/media-content/2026/11/PROGRAMAPSOE29N26.pdf#page=92",
+          "fecha": "2026-11-15",
+          "verificada": true
+        },
+        {
+          "texto": "Simplificar trámites, impulsar la contratación en origen y agilizar la homologación de títulos de personas migrantes.",
+          "cita": "simplificar los trámites, dar seguridad jurídica, impulsar la contratación en origen, agilizar la homologación de títulos y facilitar el acceso al empleo",
+          "pagina": 92,
+          "fuente": "https://www.psoe.es/media-content/2026/11/PROGRAMAPSOE29N26.pdf#page=92",
+          "fecha": "2026-11-15",
+          "verificada": true
+        },
+        {
+          "texto": "Ampliar las vías legales de protección internacional y reforzar el sistema público de acogida y asilo, con reasentamiento y visados humanitarios.",
+          "cita": "Ampliar las vías legales y seguras de protección internacional y reforzar el sistema público de acogida y asilo, con mecanismos para el reasentamiento y visados humanitarios,",
+          "pagina": 92,
+          "fuente": "https://www.psoe.es/media-content/2026/11/PROGRAMAPSOE29N26.pdf#page=92",
+          "fecha": "2026-11-15",
+          "verificada": true
+        },
+        {
+          "texto": "Reforzar la protección de los menores migrantes que lleguen solos dentro del sistema de acogida.",
+          "cita": "reforzando la protección especialmente de los niños, niñas y adolescentes que lleguen solos, situando siempre el interés superior del menor en el centro de nuestra política.",
+          "pagina": 93,
+          "fuente": "https://www.psoe.es/media-content/2026/11/PROGRAMAPSOE29N26.pdf#page=93",
+          "fecha": "2026-11-15",
+          "verificada": true
+        },
+        {
+          "texto": "Defender una política migratoria europea que combine lucha contra las mafias, gestión del asilo y las fronteras y vías legales y seguras de migración.",
+          "cita": "Defender una política migratoria europea ordenada, basada en la solidaridad, la responsabilidad, las necesidades del mercado de trabajo europeo y el respeto de los derechos humanos",
+          "pagina": 110,
+          "fuente": "https://www.psoe.es/media-content/2026/11/PROGRAMAPSOE29N26.pdf#page=110",
+          "fecha": "2026-11-15",
+          "verificada": true
+        }
+      ],
+      "politica": [
+        {
+          "texto": "Impulsar un supervisor independiente de las cargas administrativas que evalúe el impacto regulatorio de las nuevas normas.",
+          "cita": "impulsaremos un supervisor independiente de las cargas administrativas que evalúe el impacto regulatorio de nuevas normas, identifique duplicidades",
+          "pagina": 15,
+          "fuente": "https://www.psoe.es/media-content/2026/11/PROGRAMAPSOE29N26.pdf#page=15",
+          "fecha": "2026-11-15",
+          "verificada": true
+        },
+        {
+          "texto": "Crear una ventanilla digital única para que ciudadanía y empresas realicen trámites y accedan a ayudas.",
+          "cita": "Crearemos una ventanilla digital única para que la ciudadanía y las empresas puedan realizar trámites, acceder a ayudas y relacionarse con las administraciones",
+          "pagina": 17,
+          "fuente": "https://www.psoe.es/media-content/2026/11/PROGRAMAPSOE29N26.pdf#page=17",
+          "fecha": "2026-11-15",
+          "verificada": true
+        },
+        {
+          "texto": "Crear la Agencia Estatal de Protección Civil y Emergencias para mejorar la coordinación ante riesgos y catástrofes.",
+          "cita": "Crear la Agencia Estatal de Protección Civil y Emergencias para mejorar la coordinación y la capacidad de respuesta ante riesgos y catástrofes, en colaboración con las comunidades autónomas.",
+          "pagina": 67,
+          "fuente": "https://www.psoe.es/media-content/2026/11/PROGRAMAPSOE29N26.pdf#page=67",
+          "fecha": "2026-11-15",
+          "verificada": true
+        },
+        {
+          "texto": "Crear un escaño ciudadano sin voto en Congreso y Senado y reducir las firmas necesarias para la iniciativa legislativa popular.",
+          "cita": "Crear un escaño ciudadano en el Congreso y en el Senado, sin voto, para que la sociedad civil pueda preguntar al Gobierno y presentar iniciativas y enmiendas, y reducir las firmas necesarias para la iniciativa legislativa popular.",
+          "pagina": 90,
+          "fuente": "https://www.psoe.es/media-content/2026/11/PROGRAMAPSOE29N26.pdf#page=90",
+          "fecha": "2026-11-15",
+          "verificada": true
+        },
+        {
+          "texto": "Suprimir los aforamientos de los cargos públicos para los delitos ajenos al ejercicio de su cargo.",
+          "cita": "Suprimir los aforamientos de los cargos públicos para los delitos ajenos al ejercicio de su cargo.",
+          "pagina": 90,
+          "fuente": "https://www.psoe.es/media-content/2026/11/PROGRAMAPSOE29N26.pdf#page=90",
+          "fecha": "2026-11-15",
+          "verificada": true
+        },
+        {
+          "texto": "Reformar el Senado como Cámara de representación territorial con circunscripciones coincidentes con el ámbito autonómico.",
+          "cita": "Reformar el Senado para convertirlo en una auténtica Cámara de representación territorial, haciendo coincidir sus circunscripciones con el ámbito autonómico.",
+          "pagina": 91,
+          "fuente": "https://www.psoe.es/media-content/2026/11/PROGRAMAPSOE29N26.pdf#page=91",
+          "fecha": "2026-11-15",
+          "verificada": true
+        },
+        {
+          "texto": "Institucionalizar la Conferencia de Presidentes con periodicidad fija y reglamento que garantice el seguimiento de sus acuerdos.",
+          "cita": "Institucionalizar la Conferencia de Presidentes. La convocaremos con una periodicidad fija y un reglamento que garantice el seguimiento de sus acuerdos,",
+          "pagina": 91,
+          "fuente": "https://www.psoe.es/media-content/2026/11/PROGRAMAPSOE29N26.pdf#page=91",
+          "fecha": "2026-11-15",
+          "verificada": true
+        },
+        {
+          "texto": "Reforzar la autonomía del Ministerio Fiscal con mandato de cinco años del Fiscal General y aprobar una nueva Ley de Enjuiciamiento Criminal.",
+          "cita": "Reforzar la autonomía del Ministerio Fiscal, con un mandato de cinco años para la Fiscalía General del Estado desvinculado de la legislatura y la prohibición de instrucciones del Gobierno sobre casos concretos,",
+          "pagina": 100,
+          "fuente": "https://www.psoe.es/media-content/2026/11/PROGRAMAPSOE29N26.pdf#page=100",
+          "fecha": "2026-11-15",
+          "verificada": true
+        },
+        {
+          "texto": "Aprobar una Ley Orgánica de Integridad Pública y una Estrategia Nacional Anticorrupción, y crear una Agencia Independiente de Integridad Pública que coordine los organismos de supervisión.",
+          "cita": "Aprobar una Ley Orgánica de Integridad Pública y una Estrategia Nacional Anticorrupción con mapas de riesgos en todas las administraciones, y crear una Agencia Independiente de Integridad Pública",
+          "pagina": 102,
+          "fuente": "https://www.psoe.es/media-content/2026/11/PROGRAMAPSOE29N26.pdf#page=102",
+          "fecha": "2026-11-15",
+          "verificada": true
+        },
+        {
+          "texto": "Aprobar una ley de grupos de interés con registro obligatorio, publicidad de reuniones y huella normativa, y ampliar la transparencia del patrimonio de los cargos públicos.",
+          "cita": "Aprobar una ley de grupos de interés, con registro obligatorio, publicidad de sus reuniones y huella normativa",
+          "pagina": 102,
+          "fuente": "https://www.psoe.es/media-content/2026/11/PROGRAMAPSOE29N26.pdf#page=102",
+          "fecha": "2026-11-15",
+          "verificada": true
+        }
+      ],
+      "empleo": [
+        {
+          "texto": "Completar la reducción de la jornada laboral a 37,5 horas e incentivar la negociación colectiva hacia las 35 horas.",
+          "cita": "108. Completar la reducción de la jornada a 37,5 horas e incentivar los avances en",
+          "pagina": 41,
+          "fuente": "https://www.psoe.es/media-content/2026/11/PROGRAMAPSOE29N26.pdf#page=41",
+          "fecha": "2026-11-15",
+          "verificada": true
+        },
+        {
+          "texto": "Implantar un registro horario digital fiable y reforzar la Inspección de Trabajo contra las horas extra ilegales.",
+          "cita": "109. Erradicar las horas extra ilegales y no remuneradas. Implantar un registro horario",
+          "pagina": 41,
+          "fuente": "https://www.psoe.es/media-content/2026/11/PROGRAMAPSOE29N26.pdf#page=41",
+          "fecha": "2026-11-15",
+          "verificada": true
+        },
+        {
+          "texto": "Reformar el despido improcedente para garantizar una reparación efectiva, proporcionada y disuasoria.",
+          "cita": "110. Reformar el despido improcedente para garantizar una reparación efectiva,",
+          "pagina": 41,
+          "fuente": "https://www.psoe.es/media-content/2026/11/PROGRAMAPSOE29N26.pdf#page=41",
+          "fecha": "2026-11-15",
+          "verificada": true
+        },
+        {
+          "texto": "Reconocer el derecho a la protección por desempleo de los becarios en prácticas curriculares y extracurriculares.",
+          "cita": "113. Avanzar en la protección social de los becarios. Reconoceremos su derecho a la",
+          "pagina": 42,
+          "fuente": "https://www.psoe.es/media-content/2026/11/PROGRAMAPSOE29N26.pdf#page=42",
+          "fecha": "2026-11-15",
+          "verificada": true
+        },
+        {
+          "texto": "Incentivar la contratación de mayores de 45 años con el Plan Nuevo Rumbo.",
+          "cita": "119. Incentivar la contratación de personas mayores de 45 años con el Plan Nuevo",
+          "pagina": 43,
+          "fuente": "https://www.psoe.es/media-content/2026/11/PROGRAMAPSOE29N26.pdf#page=43",
+          "fecha": "2026-11-15",
+          "verificada": true
+        },
+        {
+          "texto": "Aprobar una Ley de Negociación Colectiva que refuerce a sindicatos y organizaciones empresariales.",
+          "cita": "121. Reforzar la negociación colectiva. Aprobar una Ley de Negociación Colectiva que",
+          "pagina": 43,
+          "fuente": "https://www.psoe.es/media-content/2026/11/PROGRAMAPSOE29N26.pdf#page=43",
+          "fecha": "2026-11-15",
+          "verificada": true
+        },
+        {
+          "texto": "Considerar a jornada completa el contrato a tiempo parcial cuando la jornada pactada supere el 80% de la ordinaria.",
+          "cita": "123. Combatir la parcialidad involuntaria. Reformar la regulación del contrato a tiempo",
+          "pagina": 43,
+          "fuente": "https://www.psoe.es/media-content/2026/11/PROGRAMAPSOE29N26.pdf#page=43",
+          "fecha": "2026-11-15",
+          "verificada": true
+        },
+        {
+          "texto": "Garantizar el cumplimiento de la cuota de reserva del 2% de empleo para personas con discapacidad.",
+          "cita": "el cumplimiento efectivo de la cuota de reserva del 2% de empleo para personas con discapacidad en las empresas y sector público,",
+          "pagina": 43,
+          "fuente": "https://www.psoe.es/media-content/2026/11/PROGRAMAPSOE29N26.pdf#page=43",
+          "fecha": "2026-11-15",
+          "verificada": true
+        },
+        {
+          "texto": "Formar y recualificar a trabajadores para empleos verdes, reforzando la FP Dual y la capacitación permanente.",
+          "cita": "Formar y recualificar a las personas trabajadoras para los empleos verdes del futuro, reforzando la FP Dual y los programas de capacitación permanente.",
+          "pagina": 66,
+          "fuente": "https://www.psoe.es/media-content/2026/11/PROGRAMAPSOE29N26.pdf#page=66",
+          "fecha": "2026-11-15",
+          "verificada": true
+        },
+        {
+          "texto": "Reforzar la transparencia retributiva y la igualdad salarial, revisando categorías profesionales y reforzando la Inspección de Trabajo y los planes de igualdad.",
+          "cita": "Reforzar la transparencia retributiva y la igualdad salarial, revisando categorías profesionales y complementos que infravaloran los trabajos feminizados,",
+          "pagina": 78,
+          "fuente": "https://www.psoe.es/media-content/2026/11/PROGRAMAPSOE29N26.pdf#page=78",
+          "fecha": "2026-11-15",
+          "verificada": true
+        }
+      ],
+      "sanidad": [
+        {
+          "texto": "Acabar con las listas de espera con una financiación pública de la sanidad en torno al 7% del PIB.",
+          "cita": "136. Acabar con las listas de espera, consolidando una financiación pública de la",
+          "pagina": 49,
+          "fuente": "https://www.psoe.es/media-content/2026/11/PROGRAMAPSOE29N26.pdf#page=49",
+          "fecha": "2026-11-15",
+          "verificada": true
+        },
+        {
+          "texto": "Incorporar progresivamente tratamientos dentales básicos a la sanidad pública y crear una ayuda de hasta 200 euros anuales.",
+          "cita": "Incorporaremos progresivamente a la sanidad pública los tratamientos básicos para toda la población",
+          "pagina": 49,
+          "fuente": "https://www.psoe.es/media-content/2026/11/PROGRAMAPSOE29N26.pdf#page=49",
+          "fecha": "2026-11-15",
+          "verificada": true
+        },
+        {
+          "texto": "Establecer la gestión directa como modalidad preferente en la sanidad y aprobar una Ley de Buen Gobierno del SNS.",
+          "cita": "138. Limitar la privatización de la sanidad estableciendo la gestión directa como",
+          "pagina": 49,
+          "fuente": "https://www.psoe.es/media-content/2026/11/PROGRAMAPSOE29N26.pdf#page=49",
+          "fecha": "2026-11-15",
+          "verificada": true
+        },
+        {
+          "texto": "Reforzar la atención primaria desarrollando el Plan de Acción de Atención Primaria y Comunitaria más allá de 2027.",
+          "cita": "141. Reforzar la atención primaria y garantizar su continuidad asistencial,",
+          "pagina": 50,
+          "fuente": "https://www.psoe.es/media-content/2026/11/PROGRAMAPSOE29N26.pdf#page=50",
+          "fecha": "2026-11-15",
+          "verificada": true
+        },
+        {
+          "texto": "Garantizar atención psicológica gratuita en la sanidad pública con primera consulta en un máximo de 30 días.",
+          "cita": "143. Garantizar el derecho a la atención psicológica gratuita en la sanidad pública, con",
+          "pagina": 50,
+          "fuente": "https://www.psoe.es/media-content/2026/11/PROGRAMAPSOE29N26.pdf#page=50",
+          "fecha": "2026-11-15",
+          "verificada": true
+        },
+        {
+          "texto": "Impulsar una estrategia integral de prevención y abordaje del cáncer, con cribados, diagnóstico precoz, Registro Estatal de Cáncer y derecho al olvido oncológico.",
+          "cita": "Impulsar una estrategia integral de prevención y abordaje del cáncer, reforzando la prevención, los cribados, el diagnóstico precoz, el Registro Estatal de Cáncer y el derecho al olvido oncológico.",
+          "pagina": 51,
+          "fuente": "https://www.psoe.es/media-content/2026/11/PROGRAMAPSOE29N26.pdf#page=51",
+          "fecha": "2026-11-15",
+          "verificada": true
+        },
+        {
+          "texto": "Reforzar la prevención del tabaquismo y del alcohol, regulando vapeadores y bolsas de nicotina con límites de dosis y prohibición de sabores agradables.",
+          "cita": "Reforzar las políticas de prevención frente al tabaquismo, el consumo de alcohol y otros factores de riesgo para la salud",
+          "pagina": 51,
+          "fuente": "https://www.psoe.es/media-content/2026/11/PROGRAMAPSOE29N26.pdf#page=51",
+          "fecha": "2026-11-15",
+          "verificada": true
+        },
+        {
+          "texto": "Impulsar una estrategia de salud sexual y reproductiva con prevención de ITS y VIH, acceso a PrEP y PEP y accesibilidad económica a productos esenciales.",
+          "cita": "Impulsar una estrategia integral de salud sexual y reproductiva, reforzando la educación afectivo-sexual, la prevención de las ITS y del VIH, el acceso a la PrEP y la PEP",
+          "pagina": 51,
+          "fuente": "https://www.psoe.es/media-content/2026/11/PROGRAMAPSOE29N26.pdf#page=51",
+          "fecha": "2026-11-15",
+          "verificada": true
+        },
+        {
+          "texto": "Crear un registro estatal de pacientes electrodependientes y compensar el sobrecoste energético de equipos médicos y soportes vitales.",
+          "cita": "creando un registro estatal, garantizando una respuesta adecuada a sus necesidades y compensando el sobrecoste energético derivado del uso de equipos médicos y soportes vitales",
+          "pagina": 58,
+          "fuente": "https://www.psoe.es/media-content/2026/11/PROGRAMAPSOE29N26.pdf#page=58",
+          "fecha": "2026-11-15",
+          "verificada": true
+        },
+        {
+          "texto": "Establecer desde los 80 años una visita periódica a domicilio de enfermería o trabajo social para detectar fragilidad y soledad.",
+          "cita": "A partir de los 80 años, una visita periódica a domicilio de enfermería o trabajo social para detectar a tiempo la fragilidad y la soledad.",
+          "pagina": 58,
+          "fuente": "https://www.psoe.es/media-content/2026/11/PROGRAMAPSOE29N26.pdf#page=58",
+          "fecha": "2026-11-15",
+          "verificada": true
+        }
+      ]
     }
   },
   "resumen": {},
@@ -6215,6 +6677,14 @@
         "pacma": {
           "postura": "sin",
           "fecha": "2026-11-15"
+        },
+        "psoe": {
+          "postura": "si",
+          "cita": "62. Congelar temporalmente las rentas que superen los índices de referencia, evitando incrementos abusivos en los mercados tensionados.",
+          "pagina": 30,
+          "fuente": "https://www.psoe.es/media-content/2026/11/PROGRAMAPSOE29N26.pdf#page=30",
+          "fecha": "2026-11-15",
+          "verificada": true
         }
       }
     },
@@ -6267,6 +6737,14 @@
           "fuente": "https://pacma.es/wp-content/uploads/2026/11/PE_GENERALES_29N26.pdf#page=70",
           "fecha": "2026-11-15",
           "verificada": true
+        },
+        "psoe": {
+          "postura": "si",
+          "cita": "71. Mantener y garantizar la limitación de la compra de viviendas por fondos",
+          "pagina": 32,
+          "fuente": "https://www.psoe.es/media-content/2026/11/PROGRAMAPSOE29N26.pdf#page=32",
+          "fecha": "2026-11-15",
+          "verificada": true
         }
       }
     },
@@ -6315,6 +6793,10 @@
         "pacma": {
           "postura": "sin",
           "fecha": "2026-11-15"
+        },
+        "psoe": {
+          "postura": "sin",
+          "fecha": "2026-11-15"
         }
       }
     },
@@ -6359,6 +6841,14 @@
         "pacma": {
           "postura": "sin",
           "fecha": "2026-11-15"
+        },
+        "psoe": {
+          "postura": "si",
+          "cita": "Impulsar la creación de un impuesto mínimo global sobre las grandes fortunas, como pieza central de una fiscalidad internacional más justa",
+          "pagina": 107,
+          "fuente": "https://www.psoe.es/media-content/2026/11/PROGRAMAPSOE29N26.pdf#page=107",
+          "fecha": "2026-11-15",
+          "verificada": true
         }
       }
     },
@@ -6411,6 +6901,10 @@
         "pacma": {
           "postura": "sin",
           "fecha": "2026-11-15"
+        },
+        "psoe": {
+          "postura": "sin",
+          "fecha": "2026-11-15"
         }
       }
     },
@@ -6453,6 +6947,10 @@
           "fecha": "2026-11-15"
         },
         "pacma": {
+          "postura": "sin",
+          "fecha": "2026-11-15"
+        },
+        "psoe": {
           "postura": "sin",
           "fecha": "2026-11-15"
         }
@@ -6499,6 +6997,14 @@
         "pacma": {
           "postura": "sin",
           "fecha": "2026-11-15"
+        },
+        "psoe": {
+          "postura": "si",
+          "cita": "108. Completar la reducción de la jornada a 37,5 horas e incentivar los avances en",
+          "pagina": 41,
+          "fuente": "https://www.psoe.es/media-content/2026/11/PROGRAMAPSOE29N26.pdf#page=41",
+          "fecha": "2026-11-15",
+          "verificada": true
         }
       }
     },
@@ -6535,6 +7041,14 @@
         "pacma": {
           "postura": "sin",
           "fecha": "2026-11-15"
+        },
+        "psoe": {
+          "postura": "matiz",
+          "cita": "143. Garantizar el derecho a la atención psicológica gratuita en la sanidad pública, con",
+          "pagina": 50,
+          "fuente": "https://www.psoe.es/media-content/2026/11/PROGRAMAPSOE29N26.pdf#page=50",
+          "fecha": "2026-11-15",
+          "verificada": true
         }
       }
     }
@@ -6574,6 +7088,11 @@
       "url": "https://pacma.es/wp-content/uploads/2026/11/PE_GENERALES_29N26.pdf",
       "fecha": "2026-11-15",
       "paginas": 82
+    },
+    "psoe": {
+      "url": "https://www.psoe.es/media-content/2026/11/PROGRAMAPSOE29N26.pdf",
+      "fecha": "2026-11-15",
+      "paginas": 114
     }
   },
   "debates": [],
