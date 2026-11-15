@@ -129,7 +129,11 @@ def main():
     ids_preg = {q["id"] for q in preguntas}
 
     print(f"Descargando {url}")
-    pdf_bytes = urlopen(Request(url, headers={"User-Agent": "info29n.com"}), timeout=120).read()
+    cab = {"User-Agent": "Mozilla/5.0 (compatible; info29n.com; +https://info29n.com)", "Accept": "application/pdf,*/*"}
+    with urlopen(Request(url, headers=cab), timeout=120) as r:
+        tipo, pdf_bytes = r.headers.get("Content-Type", ""), r.read()
+    if not pdf_bytes.lstrip()[:5].startswith(b"%PDF"):
+        sys.exit(f"La dirección no devuelve un PDF (tipo: {tipo}, {len(pdf_bytes)} bytes, empieza por {pdf_bytes[:60]!r}).")
     lector = PdfReader(io.BytesIO(pdf_bytes))
     textos = [(pg.extract_text() or "") for pg in lector.pages]
     n = len(textos)
