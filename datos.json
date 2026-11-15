@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-15T16:13+00:00",
+  "actualizado": "2026-11-15T21:37+00:00",
   "temas": [
     {
       "id": "vivienda",
@@ -4304,12 +4304,150 @@
   ],
   "noticias": [
     {
+      "titulo": "Rueda llama a convertir Galicia en el «motor» de la victoria de Feijóo el 29N",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/galicia/rueda-llama-convertir-galicia-motor-victoria-feijoo-20261115211514-nt.html",
+      "fecha": "2026-11-15T20:15+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "La campaña electoral toma velocidad en Córdoba: Pedro Sánchez dará un mitin en el Centro de Ferias el viernes",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/andalucia/cordoba/campana-electoral-toma-velocidad-cordoba-pedro-sanchez-20261115211302-nts.html",
+      "fecha": "2026-11-15T20:13+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "Pontón carga contra la «milonga de gran gestor» de Feijóo",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/galicia/ponton-carga-milonga-gran-gestor-feijoo-20261115200722-nt.html",
+      "fecha": "2026-11-15T20:03+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "Sánchez reivindica a Carlos Cuerpo frente al \"equipo contrario\" de Feijóo y Abascal: \"Vamos a ganar las elecciones\"",
+      "medio": "Europa Press",
+      "url": "https://www.europapress.es/nacional/noticia-sanchez-reivindica-carlos-cuerpo-frente-equipo-contrario-feijoo-abascal-vamos-ganar-elecciones-20261115203237.html",
+      "fecha": "2026-11-15T19:32+00:00",
+      "partidos": [
+        "pp",
+        "vox"
+      ]
+    },
+    {
+      "titulo": "Bellido defiende que un Gobierno central del PP supondría una oportunidad para Córdoba",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/andalucia/cordoba/bellido-defiende-gobierno-central-pp-supondria-oportunidad-20261115183410-nts.html",
+      "fecha": "2026-11-15T18:56+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "Besteiro pide a los votantes del BNG y Sumar que no «tiren su voto a la basura»",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/galicia/besteiro-pide-votantes-bng-sumar-tiren-voto-20261115194609-nt.html",
+      "fecha": "2026-11-15T18:46+00:00",
+      "partidos": [
+        "sumar",
+        "bng"
+      ]
+    },
+    {
+      "titulo": "El PSOE mete en campaña a la reina Isabel la Católica para defender su feminismo",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/castilla-leon/psoe-mete-campana-reina-isabel-catolica-defender-20261115184141-nt.html",
+      "fecha": "2026-11-15T18:43+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "Nueva protesta contra Vox en Galicia: la Guardia Civil separa a los manifestantes de José María Figaredo en Cee",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/galicia/nueva-protesta-vox-galicia-guardia-civil-separa-20261115193451-nt.html",
+      "fecha": "2026-11-15T18:34+00:00",
+      "partidos": [
+        "vox"
+      ]
+    },
+    {
+      "titulo": "Colau pide permisos retribuidos para la “familia escogida”, para vecinos y amigos, si hay cuidados",
+      "medio": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/politica/20261115/11684858/colau-pide-permisos-retribuidos-familia-escogida-vecinos-amigos-hay-cuidados.html",
+      "fecha": "2026-11-15T17:25+00:00",
+      "partidos": [
+        "sumar"
+      ]
+    },
+    {
+      "titulo": "El PP de reclama el despliegue \"urgente\" del Frontex ante una situación \"insostenible\" en El Hierro",
+      "medio": "20minutos",
+      "url": "https://www.20minutos.es/nacional/pp-reclama-despliegue-urgente-frontex-ante-una-situacion-insostenible-hierro_7061347_0.html",
+      "fecha": "2026-11-15T17:13+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "Plan Sonríe: qué es la ayuda de hasta 200 euros para ir al dentista que promete el PSOE en su programa electoral",
+      "medio": "El Confidencial",
+      "url": "https://www.elconfidencial.com/espana/2026-11-15/plan-sonrie-ayuda-200-euros-dentista-psoe_4465465/",
+      "fecha": "2026-11-15T17:04+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "Sánchez quiere llevar la amistad al Código Civil: así sería la 'unión de amistad' que propone el PSOE",
+      "medio": "El Confidencial",
+      "url": "https://www.elconfidencial.com/espana/2026-11-15/que-es-union-de-amistad-psoe-codigo-civil_4465452/",
+      "fecha": "2026-11-15T16:37+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
       "titulo": "Feijóo anuncia un acto en Guipúzcoa con Jon Echeverría: «Son el ejemplo de la libertad y de un partido democrático»",
       "medio": "ABC",
       "url": "https://www.abc.es/espana/pais-vasco/feijoo-anuncia-acto-guipuzcoa-jon-echeverria-ejemplo-20261115134405-nt.html",
       "fecha": "2026-11-15T16:07+00:00",
       "partidos": [
         "pp"
+      ]
+    },
+    {
+      "titulo": "Horario y dónde ver el debate electoral entre Pedro Sánchez y Alberto Núñez Feijóo del 19 de noviembre",
+      "medio": "20minutos",
+      "url": "https://www.20minutos.es/nacional/horario-donde-ver-debate-electoral-entre-pedro-sanchez-alberto-nunez-feijoo-19-noviembre_7061066_0.html",
+      "fecha": "2026-11-15T16:01+00:00",
+      "partidos": [
+        "pp",
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "El PSOE promete dedicar el 1% del PIB a vivienda y alargar la duración de los contratos de alquiler",
+      "medio": "20minutos",
+      "url": "https://www.20minutos.es/nacional/psoe-promete-dedicar-1-pib-vivienda-alargar-duracion-los-contratos-alquiler_7061322_0.html",
+      "fecha": "2026-11-15T15:52+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "El PSOE promete \"blindar\" el mantenimiento de vías de tren con 19.000 millones y un Pacto de Estado por la seguridad ferroviaria",
+      "medio": "20minutos",
+      "url": "https://www.20minutos.es/nacional/psoe-promete-blindar-mantenimiento-vias-tren-con-19-000-millones-un-pacto-estado-por-seguridad-ferroviaria_7061321_0.html",
+      "fecha": "2026-11-15T15:50+00:00",
+      "partidos": [
+        "psoe"
       ]
     },
     {
@@ -4391,6 +4529,15 @@
       "fecha": "2026-11-15T14:13+00:00",
       "partidos": [
         "sumar"
+      ]
+    },
+    {
+      "titulo": "Abascal vincula inmigración y delincuencia con datos falsos sobre la población extranjera de Cornellà",
+      "medio": "El País",
+      "url": "https://elpais.com/espana/elecciones-generales/2026-11-15/abascal-vincula-inmigracion-y-delincuencia-con-datos-falsos-sobre-la-poblacion-extranjera-de-cornella.html",
+      "fecha": "2026-11-15T14:10+00:00",
+      "partidos": [
+        "vox"
       ]
     },
     {
@@ -5820,6 +5967,15 @@
       ]
     },
     {
+      "titulo": "Condenan a Alvise y a OK Diario por publicar una noticia falsa de un hombre con explosivos",
+      "medio": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/politica/20261113/11683639/condenan-alvise-ok-diario-publicar-noticia-falsa-hombre-explosivos.html",
+      "fecha": "2026-11-13T15:36+00:00",
+      "partidos": [
+        "salf"
+      ]
+    },
+    {
       "titulo": "El PSOE denuncia al PP tras asegurar Koldo que le ofrecieron dinero si mentía contra el Gobierno",
       "medio": "El Confidencial",
       "url": "https://www.elconfidencial.com/espana/2026-11-13/psoe-denuncia-pp-koldo-1hms_4464708/",
@@ -6953,171 +7109,6 @@
       "fecha": "2026-11-12T18:54+00:00",
       "partidos": [
         "sumar"
-      ]
-    },
-    {
-      "titulo": "Vox promete “derogar tres normas por cada una que se apruebe” y militarizar la frontera de Ceuta",
-      "medio": "El País",
-      "url": "https://elpais.com/espana/elecciones-generales/2026-11-12/vox-derogar-tres-normas-por-cada-una-que-se-apruebe-y-militarizar-la-frontera-de-ceuta.html",
-      "fecha": "2026-11-12T17:35+00:00",
-      "partidos": [
-        "vox"
-      ]
-    },
-    {
-      "titulo": "La Junta Electoral Central avisa de que no aceptará las papeletas del PSOE por Valladolid con el nombre de Puente tachado",
-      "medio": "20minutos",
-      "url": "https://www.20minutos.es/nacional/junta-electoral-central-avisa-que-no-aceptara-las-papeletas-psoe-por-valladolid-con-nombre-puente-tachado_7060441_0.html",
-      "fecha": "2026-11-12T17:30+00:00",
-      "partidos": [
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "PP y Vox tumban las enmiendas totales al presupuesto de la oposición en clave electoral",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/castilla-leon/pp-vox-tumban-enmiendas-totales-presupuesto-oposicion-20261112161308-nt.html",
-      "fecha": "2026-11-12T17:24+00:00",
-      "partidos": [
-        "pp",
-        "vox"
-      ]
-    },
-    {
-      "titulo": "La UCO requiere más información al Tribunal de Cuentas sobre la pieza secreta de la financiación del PSOE",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/uco-requiere-informacion-tribunal-cuentas-sobre-pieza-20261112115444-nt.html",
-      "fecha": "2026-11-12T17:23+00:00",
-      "partidos": [
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "PP y Vox critican la tramitación de la Ley de Acompañamiento y el PSOE defiende su urgencia",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/castilla-la-mancha/pp-vox-critican-tramitacion-ley-acompanamiento-psoe-20261112182314-nt.html",
-      "fecha": "2026-11-12T17:23+00:00",
-      "partidos": [
-        "pp",
-        "psoe",
-        "vox"
-      ]
-    },
-    {
-      "titulo": "La música de Serrat no logra allanar el camino: el PSOE saca en solitario su ley de dependencia",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/castilla-la-mancha/musica-serrat-logra-allanar-camino-dependencia-psoe-20261112182240-nt.html",
-      "fecha": "2026-11-12T17:22+00:00",
-      "partidos": [
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "La UCO ve \"vinculación\" entre el PSOE y el exchófer de Sánchez detenido: \"Viene el presidente y tengo reunión con él\"",
-      "medio": "Europa Press",
-      "url": "https://www.europapress.es/nacional/noticia-uco-ve-vinculacion-psoe-exchofer-sanchez-detenido-viene-presidente-tengo-reunion-20261112181938.html",
-      "fecha": "2026-11-12T17:19+00:00",
-      "partidos": [
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "Vox propone para el 29N rebajas fiscales, EVAU y tarjeta sanitaria únicas y repatriar inmigrantes ilegales o que \"no contribuyan\"",
-      "medio": "20minutos",
-      "url": "https://www.20minutos.es/nacional/vox-propone-para-29n-rebajas-fiscales-evau-tarjeta-sanitaria-unicas-repatriar-inmigrantes-ilegales-que-no-contribuyan_7060426_0.html",
-      "fecha": "2026-11-12T17:19+00:00",
-      "partidos": [
-        "vox"
-      ]
-    },
-    {
-      "titulo": "La Junta Electoral Central corrige a la de Valladolid y declara nulos los votos al PSOE con el nombre de Óscar Puente tachado",
-      "medio": "elDiario.es",
-      "url": "https://www.eldiario.es/castilla-y-leon/politica/junta-electoral-central-corrige-valladolid-declara-nulos-votos-psoe-nombre-oscar-puente-tachado_1_13659364.html",
-      "fecha": "2026-11-12T17:06+00:00",
-      "partidos": [
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "Precampaña elecciones generales en España, en directo: última hora de Pedro Sánchez (PSOE), Feijóo (PP), Abascal (Vox), Ada Colau (Frente Amplio) y resto de candidatos hoy",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/decretos-vivienda-directo-resultado-votacion-medidas-ultima-20261112085110-di.html",
-      "fecha": "2026-11-12T17:04+00:00",
-      "partidos": [
-        "pp",
-        "psoe",
-        "vox",
-        "sumar"
-      ]
-    },
-    {
-      "titulo": "El CIS preelectoral de Tezanos infla al PSOE con hasta 143 escaños y hunde al PP",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/cis-preelectoral-tezanos-infla-psoe-143-escanos-20261112174821-nt.html",
-      "fecha": "2026-11-12T17:00+00:00",
-      "partidos": [
-        "pp",
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "El CIS de Tezanos da ganador al PSOE en Castilla y León",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/castilla-leon/cis-tezanos-ganador-psoe-castilla-leon-20261112175311-nt.html",
-      "fecha": "2026-11-12T16:54+00:00",
-      "partidos": [
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "El CIS de Tezanos coloca al PSOE en primer lugar y con ocho puntos sobre el PP en una encuesta que apenas recoge el efecto de Urda",
-      "medio": "20minutos",
-      "url": "https://www.20minutos.es/nacional/cis-tezanos-coloca-psoe-primer-lugar-con-ocho-puntos-sobre-pp-una-encuesta-que-apenas-recoge-efecto-urda_7060413_0.html",
-      "fecha": "2026-11-12T16:45+00:00",
-      "partidos": [
-        "pp",
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "Encuestas elecciones generales 29N: resultados de PSOE, PP, Vox y Frente Amplio y ganador según los sondeos",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/encuestas-elecciones-generales-29n-resultados-psoe-pp-20261112050000-nt.html",
-      "fecha": "2026-11-12T16:35+00:00",
-      "partidos": [
-        "pp",
-        "psoe",
-        "vox",
-        "sumar"
-      ]
-    },
-    {
-      "titulo": "Los jóvenes del PP intentan aupar a Feijóo tras la polémica de Jordi Wild y les sale mal: \"No es guay chicos, da vergüenza ajena\"",
-      "medio": "elDiario.es",
-      "url": "https://www.eldiario.es/rastreador/jovenes-pp-aupar-feijoo-polemica-jordi-wild-les-sale-mal-no-guay-chicos-da-verguenza_132_13659024.html",
-      "fecha": "2026-11-12T16:34+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Sánchez augura una \"remontada épica\" el 29N y Feijóo promete \"una auditoría del saqueo\" para ver dónde ha ido cada euro",
-      "medio": "20minutos",
-      "url": "https://www.20minutos.es/nacional/inicio-campana-electoral-directo-candidatos-29n_7060386_6.html",
-      "fecha": "2026-11-12T16:28+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "El CIS deja a PP y Vox sin opciones de gobernar, al inicio de la campaña",
-      "medio": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/politica/20261112/11682736/cis-deja-pp-vox-opciones-gobernar-inicio-campana.html",
-      "fecha": "2026-11-12T16:20+00:00",
-      "partidos": [
-        "pp",
-        "vox"
       ]
     }
   ],
