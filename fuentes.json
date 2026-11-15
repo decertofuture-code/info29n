@@ -90,6 +90,23 @@
     "upn": [
       "UPN",
       "Unión del Pueblo Navarro"
+    ],
+    "fo": [
+      "Frente Obrero",
+      "Roberto Vaquero"
+    ],
+    "salf": [
+      "SALF",
+      "Se Acabó La Fiesta",
+      "Alvise"
+    ],
+    "pcte": [
+      "PCTE",
+      "Partido Comunista de los Trabajadores"
+    ],
+    "pacma": [
+      "PACMA",
+      "Partido Animalista"
     ]
   },
   "revisar": [
@@ -166,6 +183,7 @@
       "https://ehbildu.eus/"
     ],
     "pnv": [
+      "https://www.eaj-pnv.eus/es/programa-elecciones-generales-2026/",
       "https://www.eaj-pnv.eus/"
     ],
     "podemos": [
@@ -179,6 +197,19 @@
     ],
     "upn": [
       "https://upn.org/"
+    ],
+    "fo": [
+      "https://frenteobrero.es/"
+    ],
+    "salf": [
+      "https://www.seacabolafiesta.com/"
+    ],
+    "pcte": [
+      "https://www.pcte.es/"
+    ],
+    "pacma": [
+      "https://pacma.es/programa-electoral/",
+      "https://pacma.es/"
     ]
   }
 }

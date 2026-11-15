@@ -143,14 +143,17 @@ def paginas_partido():
             comp = f'<section><h2>Su postura en el comparador</h2><ul class="rows">{filas}</ul></section>'
         else:
             comp = ""
-        vot = "".join(fila_voto(v, pid) for v in VOTOS)
+        if p.get("sin_escano"):
+            vot = '<p class="muted">No tenía diputados en el Congreso en esta legislatura, así que no hay votaciones suyas.</p>'
+        else:
+            vot = '<ul class="rows">' + "".join(fila_voto(v, pid) for v in VOTOS) + "</ul>"
         cs = [c for c in CASOS if c["party"] == pid]
         casos = "".join(caso_html(c) for c in cs) if cs else '<p class="muted">No hay casos recogidos en esta web para este partido. Que no aparezcan aquí no certifica que no tenga ninguno.</p>'
         cuerpo = f"""<header class="head"><p class="kicker">Elecciones generales del 29 de noviembre</p><h1>{e(n)}</h1>
 <p class="muted">Se presenta en: {e(p.get("scope", ""))}. {cand}</p></header>
 <section><h2>Propuestas</h2>{prop}</section>
 {comp}
-<section><h2>Qué votó en esta legislatura</h2><ul class="rows">{vot}</ul></section>
+<section><h2>Qué votó en esta legislatura</h2>{vot}</section>
 <section><h2>Casos judiciales</h2><p class="note">Toda persona investigada o con condena recurrida es inocente mientras no haya sentencia firme.</p>{casos}</section>"""
         desc = f"Qué propone {n} para las elecciones del 29 de noviembre, qué ha votado en el Congreso y qué casos judiciales le afectan. Con fuentes."
         urls.append(pagina(f"partido/{pid}/", f"{n}: programa, votaciones y casos judiciales · 29N", desc, cuerpo, f"#partido-{pid}"))
@@ -176,7 +179,7 @@ def paginas_tema():
         for v in vs:
             si = ", ".join(NOMBRE.get(x, x) for x in v.get("si", []))
             no = ", ".join(NOMBRE.get(x, x) for x in v.get("no", []))
-            nd = ", ".join(p["name"] for p in PARTIDOS if p["id"] not in v.get("si", []) + v.get("no", []))
+            nd = ", ".join(p["name"] for p in PARTIDOS if not p.get("sin_escano") and p["id"] not in v.get("si", []) + v.get("no", []))
             vot += f"""<article class="card"><h3>{e(v["title"])}</h3><p class="muted">{fecha(v["date"])}</p><p>{e(v["what"])}</p><p><b>{e(v["result"])}</b></p>
 <dl class="dl"><dt class="v-si">{e(v.get("yesLabel","A favor"))}</dt><dd>{e(si)}</dd><dt class="v-no">{e(v.get("noLabel","En contra"))}</dt><dd>{e(no)}</dd>{f'<dt class="v-nd">Sin dato</dt><dd>{e(nd)}</dd>' if nd else ''}</dl>
 <p class="srcs"><a href="{e(v["src"])}" rel="noopener">Ver la noticia de la votación</a></p></article>"""
@@ -196,7 +199,7 @@ def fuente(bold, size):
     return ImageFont.truetype(str(RAIZ / f"Atkinson-{'Bold' if bold else 'Regular'}.ttf"), size)
 
 COLOR = {"si": "#1E7B4C", "no": "#B3261E", "matiz": "#8A6D1F", "sin": "#5A6678", "pend": "#8A93A3"}
-CORTO = {"pp": "PP", "cc": "CC", "bildu": "EH Bildu"}
+CORTO = {"pp": "PP", "cc": "CC", "bildu": "EH Bildu", "salf": "SALF", "fo": "F. Obrero", "sumar": "F. Amplio"}
 TIRA = ["#2457C5", "#7C3AED", "#0E7C7B", "#7C5E3C", "#B45F06", "#8E2D5A", "#4B53BC", "#C2410C"]
 
 def partir(draw, texto, f, ancho):

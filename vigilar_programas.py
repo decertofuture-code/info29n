@@ -73,7 +73,19 @@ def oficial(u, dominios):
 
 
 def es_pdf(u):
-    return urlparse(u).path.lower().endswith(".pdf")
+    """PDF por la dirección: termina en .pdf o tiene un tramo /pdf/ (p. ej. «/adjuntos-documentos/123/pdf/programa»)."""
+    ruta = urlparse(u).path.lower()
+    return ruta.endswith(".pdf") or "/pdf/" in ruta or ruta.endswith("/pdf")
+
+
+def sirve_pdf(u):
+    """Comprueba el tipo de archivo que devuelve el servidor, para enlaces sin .pdf en la dirección."""
+    try:
+        req = Request(u, headers={"User-Agent": UA, "Range": "bytes=0-1023"})
+        with urlopen(req, timeout=20) as r:
+            return "pdf" in r.headers.get("Content-Type", "").lower()
+    except Exception:
+        return False
 
 
 def candidatos(paginas):
@@ -88,7 +100,7 @@ def candidatos(paginas):
             for u, txt in enlaces(pag):
                 if not oficial(u, dominios):
                     continue
-                if es_pdf(u):
+                if es_pdf(u) or (PISTAS.search(u + " " + txt) and re.search(r"descarga|download|deskarga|pdf|programa", txt, re.I) and sirve_pdf(u)):
                     pdfs.setdefault(u, {"url": u, "texto": txt, "pagina": pag})
                 elif nivel == 0 and PISTAS.search(u + " " + txt):
                     siguiente.append(u.split("#")[0])

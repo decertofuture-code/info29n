@@ -110,6 +110,38 @@
       "name": "UPN",
       "scope": "Navarra",
       "candidato": null
+    },
+    {
+      "id": "fo",
+      "name": "Frente Obrero",
+      "scope": "Toda España",
+      "candidato": null,
+      "sin_escano": true,
+      "nacional": true
+    },
+    {
+      "id": "salf",
+      "name": "Se Acabó La Fiesta (SALF)",
+      "scope": "46 circunscripciones",
+      "candidato": "Alvise Pérez",
+      "sin_escano": true,
+      "nacional": true
+    },
+    {
+      "id": "pcte",
+      "name": "PCTE",
+      "scope": "39 circunscripciones",
+      "candidato": null,
+      "sin_escano": true,
+      "nacional": true
+    },
+    {
+      "id": "pacma",
+      "name": "PACMA",
+      "scope": "30 circunscripciones",
+      "candidato": "Asier Esparza",
+      "sin_escano": true,
+      "nacional": true
     }
   ],
   "medidas": {

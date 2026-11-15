@@ -538,7 +538,7 @@ body[data-tab="inicio"] .brand{color:var(--accent)}
       <p><b>Financiada por su responsable.</b> Todos los costes (dominio, alojamiento y herramientas) los paga de su bolsillo su responsable, Cristian Duarte Iglesias. La web no recibe dinero de partidos, empresas ni instituciones.</p>
       <p><b>Neutral por principio.</b> Aplicamos los mismos criterios a todos los partidos, no valoramos sus propuestas y no pedimos ni recomendamos el voto. Si crees que algo no es neutral, escríbenos y lo revisaremos.</p>
     </div>
-    <p><b>Qué partidos aparecen.</b> Los que tienen diputados en el Congreso al final de la legislatura, ordenados por número de diputados. Cuando se cierren las listas se añadirán las candidaturas nuevas que se presenten en toda España.</p>
+    <p><b>Qué partidos aparecen.</b> Los que tienen diputados en el Congreso al final de la legislatura, ordenados por número de diputados. Después, los partidos sin diputados que se presentan al Congreso en al menos 30 de las 52 circunscripciones según las candidaturas proclamadas en el BOE, ordenados por número de circunscripciones. Como no tenían diputados, no tienen votaciones en esta legislatura.</p>
     <p><b>Qué temas.</b> Los que más citan los españoles como principal problema del país en el último barómetro del CIS, en ese orden.</p>
     <p><b>Qué medidas.</b> Solo las que aparecen en el programa electoral oficial de cada partido, con la cita literal y la página. No resumimos con adjetivos ni valoramos si una medida es buena o mala.</p>
     <p><b>Cómo se extraen.</b> Todos los programas pasan por el mismo proceso: una inteligencia artificial (Claude, de Anthropic) localiza las medidas de cada tema y copia la frase exacta del programa; un programa informático comprueba que esa frase aparece de verdad en la página indicada, y una persona lo revisa antes de publicarlo. Las medidas cuya cita no se ha podido comprobar no se publican. Si un tema tiene muchas medidas, se muestran hasta diez, priorizando las más concretas.</p>
@@ -579,7 +579,7 @@ body[data-tab="inicio"] .brand{color:var(--accent)}
   </section>
 
   <footer>
-    <p>Última actualización: <span class="js-updated">—</span>. Partidos con representación en el Congreso, ordenados por número de diputados al final de la legislatura; las candidaturas definitivas se conocerán al cerrarse las listas. Cada medida enlaza a su fuente. Sin publicidad y financiada por su responsable. Esta web no pide ni recomienda el voto.</p>
+    <p>Última actualización: <span class="js-updated">—</span>. Partidos con representación en el Congreso, ordenados por número de diputados al final de la legislatura, y partidos sin diputados que se presentan en al menos 30 circunscripciones. Cada medida enlaza a su fuente. Sin publicidad y financiada por su responsable. Esta web no pide ni recomienda el voto.</p>
     <nav class="idx" id="idx" aria-label="Páginas por partido y tema"></nav>
     <p><a href="#metodo" data-go="metodo">Cómo hacemos esta web</a> · <a href="#buzon" data-go="buzon">Buzón de sugerencias</a> · <a href="privacidad.html">Política de privacidad</a></p>
   </footer>
@@ -626,7 +626,7 @@ function render(){
   const t=TOPICS.find(x=>x.id===current);
   document.getElementById("topic-head").innerHTML=`<h3>${t.name}</h3><p>${t.desc}</p>`;
   document.getElementById("parties").dataset.tema=current;
-  document.getElementById("parties").innerHTML=PARTIES.filter(p=>scope==="all"||p.scope==="Toda España").map(p=>{
+  document.getElementById("parties").innerHTML=PARTIES.filter(p=>scope==="all"||p.scope==="Toda España"||p.nacional).map(p=>{
     const m=visibles(p.id,current);
     const body=m.length
       ? `<ul class="medidas">${m.map(medidaHTML).join("")}</ul>`
@@ -634,16 +634,16 @@ function render(){
     const g=progInfo(p.id);
     const prog=g?`<p class="prog-mini"><a href="${g.url}" target="_blank" rel="noopener">Programa completo (PDF${g.paginas?`, ${g.paginas} págs.`:""})</a></p>`:"";
     const easy=(RESUMEN[p.id]||{})[current];
-    const votes=VOTES.filter(v=>v.topic===current).map(v=>{const [c,l]=voteOf(v,p.id);
+    const votes=p.sin_escano?"":VOTES.filter(v=>v.topic===current).map(v=>{const [c,l]=voteOf(v,p.id);
       return `<p class="vote-line">${v.title} (${fdate(v.date)}): <span class="v ${c}">${l}</span></p>`;}).join("");
-    return `<article class="party${p.scope==="Toda España"?"":" terr"}" aria-label="${p.name}"><h4><a href="#partido-${p.id}">${p.name}</a></h4><p class="lead">${p.lead}</p>${easy?`<p class="easy">${easy}</p>`:""}${body}${votes}${prog}</article>`;
+    return `<article class="party${p.scope==="Toda España"||p.nacional?"":" terr"}" aria-label="${p.name}"><h4><a href="#partido-${p.id}">${p.name}</a></h4><p class="lead">${p.lead}</p>${easy?`<p class="easy">${easy}</p>`:""}${body}${votes}${prog}</article>`;
   }).join("");
 }
 render();
 
 document.getElementById("votes").innerHTML=VOTES.map(v=>{
   const t=TOPICS.find(x=>x.id===v.topic);
-  const nd=PARTIES.filter(p=>!v.si.includes(p.id)&&!v.no.includes(p.id)).map(p=>p.name);
+  const nd=PARTIES.filter(p=>!p.sin_escano&&!v.si.includes(p.id)&&!v.no.includes(p.id)).map(p=>p.name);
   return `<article class="vote"><h3>${v.title}</h3><p class="meta">${t.name}. ${fdate(v.date)}</p>
   <p>${v.what}</p><p><b>${v.result}</b></p>
   <dl class="groups"><div><dt class="v si">${v.yesLabel}</dt><dd>${v.si.map(pname).join(", ")}</dd></div>
@@ -793,7 +793,7 @@ function renderPartyView(){
           ?`<ul class="medidas">${m.map(medidaHTML).join("")}</ul>`
           :'<p class="pending">Sin medidas sobre este tema en su programa.</p>'}</article>`;}).join("")}</div>`
     : '<p class="pv-empty">Su programa electoral aún no se ha publicado. Cuando lo haga, aquí verás sus medidas ordenadas por tema.</p>';
-  const votes=VOTES.length?`<ul class="pv-votes">${VOTES.map(x=>{const [c]=voteOf(x,p.id);const lbl=c==="si"?x.yesLabel:c==="no"?x.noLabel:"Sin dato";
+  const votes=p.sin_escano?'<p class="pv-empty">No tenía diputados en el Congreso en esta legislatura, así que no hay votaciones suyas.</p>':VOTES.length?`<ul class="pv-votes">${VOTES.map(x=>{const [c]=voteOf(x,p.id);const lbl=c==="si"?x.yesLabel:c==="no"?x.noLabel:"Sin dato";
       return `<li><span class="t">${x.title}<small>${fdate(x.date)} · ${x.result}</small></span><span class="v ${c}">${lbl}</span></li>`;}).join("")}</ul>`:"";
   const cs=CASES.filter(c=>c.party===p.id);
   const cases=cs.length?`<div class="pv-cases">${cs.map(c=>`<article class="case"><h4>${c.title}</h4><p class="who">${c.who}</p>
