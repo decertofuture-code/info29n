@@ -2134,6 +2134,1344 @@
           "verificada": false
         }
       ]
+    },
+    "pnv": {
+      "vivienda": [
+        {
+          "texto": "Agilizar los trámites urbanísticos para facilitar la construcción de nuevas viviendas, con plazos razonables y garantías legales.",
+          "cita": "Agilizar los trámites urbanísticos para facilitar la construcción de nuevas viviendas, con plazos razonables y garantías legales.",
+          "pagina": 7,
+          "fuente": "https://www.eaj-pnv.eus/es/adjuntos-documentos/21765/pdf/programa-electoral-29n#page=7",
+          "fecha": "2026-11-15",
+          "verificada": true
+        },
+        {
+          "texto": "Movilizar viviendas vacías y rehabilitar edificios para aumentar la oferta residencial.",
+          "cita": "Movilizar viviendas vacías y rehabilitar edificios para aumentar la oferta residencial.",
+          "pagina": 7,
+          "fuente": "https://www.eaj-pnv.eus/es/adjuntos-documentos/21765/pdf/programa-electoral-29n#page=7",
+          "fecha": "2026-11-15",
+          "verificada": true
+        },
+        {
+          "texto": "Evitar que los contratos de temporada se utilicen para eludir las garantías del alquiler de vivienda habitual.",
+          "cita": "Evitar que los contratos de temporada se utilicen fraudulentamente para eludir las garantías del alquiler de vivienda habitual.",
+          "pagina": 8,
+          "fuente": "https://www.eaj-pnv.eus/es/adjuntos-documentos/21765/pdf/programa-electoral-29n#page=8",
+          "fecha": "2026-11-15",
+          "verificada": true
+        },
+        {
+          "texto": "Regular los alquileres de temporada y turísticos para que no resten viviendas al alquiler residencial.",
+          "cita": "Regular los alquileres de temporada y turísticos para que no resten viviendas al alquiler residencial.",
+          "pagina": 8,
+          "fuente": "https://www.eaj-pnv.eus/es/adjuntos-documentos/21765/pdf/programa-electoral-29n#page=8",
+          "fecha": "2026-11-15",
+          "verificada": true
+        },
+        {
+          "texto": "Reducir las prácticas especulativas que encarecen la vivienda y dificultan el acceso al alquiler y la compra.",
+          "cita": "Reducir las prácticas especulativas que encarecen la vivienda y dificultan el acceso al alquiler y la compra.",
+          "pagina": 8,
+          "fuente": "https://www.eaj-pnv.eus/es/adjuntos-documentos/21765/pdf/programa-electoral-29n#page=8",
+          "fecha": "2026-11-15",
+          "verificada": true
+        },
+        {
+          "texto": "Promover medidas específicas para facilitar el acceso de las personas jóvenes a su primera vivienda, en alquiler y en propiedad.",
+          "cita": "Promover medidas específicas para facilitar el acceso de las personas jóvenes a su primera vivienda, tanto en régimen de alquiler como en propiedad.",
+          "pagina": 8,
+          "fuente": "https://www.eaj-pnv.eus/es/adjuntos-documentos/21765/pdf/programa-electoral-29n#page=8",
+          "fecha": "2026-11-15",
+          "verificada": true
+        }
+      ],
+      "economia": [
+        {
+          "texto": "Reducir de forma permanente el Impuesto Especial sobre la Electricidad al 0,5 %, dentro de los límites de la normativa europea.",
+          "cita": "Reducir de forma permanente el Impuesto Especial sobre la Electricidad al 0,5 %, dentro de los límites permitidos por la normativa europea.",
+          "pagina": 16,
+          "fuente": "https://www.eaj-pnv.eus/es/adjuntos-documentos/21765/pdf/programa-electoral-29n#page=16",
+          "fecha": "2026-11-15",
+          "verificada": true
+        },
+        {
+          "texto": "Estudiar tipos de IVA cero o superreducidos para alimentos básicos y revisar la tributación de suministros esenciales y transporte público.",
+          "cita": "Favorecer una reforma integral del IVA de los bienes y servicios esenciales, estudiando la aplicación de tipos cero o superreducidos a determinados alimentos básicos",
+          "pagina": 21,
+          "fuente": "https://www.eaj-pnv.eus/es/adjuntos-documentos/21765/pdf/programa-electoral-29n#page=21",
+          "fecha": "2026-11-15",
+          "verificada": true
+        },
+        {
+          "texto": "Ampliar la capacidad normativa de las Haciendas Forales en el IVA y los Impuestos Especiales mediante la actualización del Concierto Económico.",
+          "cita": "Ampliar la capacidad normativa de las Haciendas Forales en el IVA y los Impuestos Especiales.",
+          "pagina": 21,
+          "fuente": "https://www.eaj-pnv.eus/es/adjuntos-documentos/21765/pdf/programa-electoral-29n#page=21",
+          "fecha": "2026-11-15",
+          "verificada": true
+        },
+        {
+          "texto": "Facilitar que administraciones vascas usen sus superávits para inversiones prioritarias, revisando la normativa de estabilidad presupuestaria.",
+          "cita": "Facilitar que los ayuntamientos, las diputaciones forales y el Gobierno Vasco puedan utilizar sus superávits para inversiones prioritarias",
+          "pagina": 21,
+          "fuente": "https://www.eaj-pnv.eus/es/adjuntos-documentos/21765/pdf/programa-electoral-29n#page=21",
+          "fecha": "2026-11-15",
+          "verificada": true
+        },
+        {
+          "texto": "Reclamar la competencia plena para establecer un salario mínimo propio en Euskadi, siempre por encima del mínimo estatal.",
+          "cita": "la competencia plena para establecer un salario mínimo propio, adaptado al coste de vida y siempre por encima del mínimo estatal.",
+          "pagina": 9,
+          "fuente": "https://www.eaj-pnv.eus/es/adjuntos-documentos/21765/pdf/programa-electoral-29n#page=9",
+          "fecha": "2026-11-15",
+          "verificada": true
+        },
+        {
+          "texto": "Mejorar el acceso de pymes y autónomos a financiación reforzando las líneas del Instituto de Crédito Oficial y los instrumentos públicos de garantía.",
+          "cita": "reforzando las líneas del Instituto de Crédito Oficial y los instrumentos públicos de garantía para invertir, modernizar instalaciones y ampliar la actividad.",
+          "pagina": 14,
+          "fuente": "https://www.eaj-pnv.eus/es/adjuntos-documentos/21765/pdf/programa-electoral-29n#page=14",
+          "fecha": "2026-11-15",
+          "verificada": true
+        },
+        {
+          "texto": "Revalorizar anualmente las pensiones conforme al IPC para proteger su poder adquisitivo frente al aumento del coste de la vida.",
+          "cita": "Evitar que las pensiones pierdan poder adquisitivo: revalorizarlas anualmente conforme al IPC, protegiendo su poder adquisitivo frente al incremento del coste de la vida.",
+          "pagina": 31,
+          "fuente": "https://www.eaj-pnv.eus/es/adjuntos-documentos/21765/pdf/programa-electoral-29n#page=31",
+          "fecha": "2026-11-15",
+          "verificada": true
+        },
+        {
+          "texto": "Eliminar las penalizaciones de la jubilación anticipada para las personas trabajadoras con más de 40 años cotizados.",
+          "cita": "Eliminar las penalizaciones de la jubilación anticipada para las personas trabajadoras con más de 40 años cotizados",
+          "pagina": 31,
+          "fuente": "https://www.eaj-pnv.eus/es/adjuntos-documentos/21765/pdf/programa-electoral-29n#page=31",
+          "fecha": "2026-11-15",
+          "verificada": true
+        },
+        {
+          "texto": "Mejorar progresivamente las pensiones mínimas y no contributivas, con especial atención a las personas con menores ingresos.",
+          "cita": "Mejorar progresivamente las pensiones mínimas y no contributivas, prestando especial atención a las personas con menores ingresos y en situación de vulnerabilidad.",
+          "pagina": 31,
+          "fuente": "https://www.eaj-pnv.eus/es/adjuntos-documentos/21765/pdf/programa-electoral-29n#page=31",
+          "fecha": "2026-11-15",
+          "verificada": true
+        },
+        {
+          "texto": "Modificar la Ley 35/2006 del IRPF para declarar exentas las indemnizaciones del Fondo de Compensación para las Víctimas del Amianto.",
+          "cita": "Modificar la Ley 35/2006 del IRPF para declarar exentas de tributación las indemnizaciones reconocidas por el Fondo de Compensación para las Víctimas del Amianto",
+          "pagina": 34,
+          "fuente": "https://www.eaj-pnv.eus/es/adjuntos-documentos/21765/pdf/programa-electoral-29n#page=34",
+          "fecha": "2026-11-15",
+          "verificada": true
+        }
+      ],
+      "inmigracion": [
+        {
+          "texto": "Promover mayores competencias para Euskadi en migración y extranjería, con gestión integral de llegada, acogida, residencia, trabajo e integración.",
+          "cita": "Promover mayores competencias para Euskadi en materia de migración y extranjería, avanzando hacia una gestión integral",
+          "pagina": 24,
+          "fuente": "https://www.eaj-pnv.eus/es/adjuntos-documentos/21765/pdf/programa-electoral-29n#page=24",
+          "fecha": "2026-11-15",
+          "verificada": true
+        },
+        {
+          "texto": "Reclamar un acuerdo Estado-instituciones vascas sobre acogida descentralizada y rechazar el gran centro previsto en Arana, Vitoria-Gasteiz.",
+          "cita": "rechazando la implantación de grandes centros como el previsto en Arana, Vitoria-Gasteiz.",
+          "pagina": 25,
+          "fuente": "https://www.eaj-pnv.eus/es/adjuntos-documentos/21765/pdf/programa-electoral-29n#page=25",
+          "fecha": "2026-11-15",
+          "verificada": true
+        },
+        {
+          "texto": "Favorecer la contratación en origen vinculada a las necesidades del mercado laboral vasco.",
+          "cita": "Favorecer la contratación en origen, vinculada a las necesidades del mercado laboral vasco y con garantías para las personas trabajadoras.",
+          "pagina": 25,
+          "fuente": "https://www.eaj-pnv.eus/es/adjuntos-documentos/21765/pdf/programa-electoral-29n#page=25",
+          "fecha": "2026-11-15",
+          "verificada": true
+        },
+        {
+          "texto": "Avanzar en los procesos de regularización previstos en la legislación para quienes cumplen los requisitos.",
+          "cita": "Avanzar en los procesos de regularización previstos en la legislación, facilitando la integración social y laboral de las personas que cumplen los requisitos establecidos.",
+          "pagina": 25,
+          "fuente": "https://www.eaj-pnv.eus/es/adjuntos-documentos/21765/pdf/programa-electoral-29n#page=25",
+          "fecha": "2026-11-15",
+          "verificada": true
+        },
+        {
+          "texto": "Agilizar la homologación de titulaciones y cualificaciones profesionales extranjeras.",
+          "cita": "Agilizar la homologación y el reconocimiento de titulaciones y cualificaciones profesionales extranjeras",
+          "pagina": 25,
+          "fuente": "https://www.eaj-pnv.eus/es/adjuntos-documentos/21765/pdf/programa-electoral-29n#page=25",
+          "fecha": "2026-11-15",
+          "verificada": true
+        },
+        {
+          "texto": "Ampliar la capacidad de gestión de Euskadi en los procedimientos de residencia y trabajo para reducir plazos.",
+          "cita": "Ampliar la capacidad de gestión de Euskadi en los procedimientos de residencia y trabajo, para reducir los plazos de tramitación",
+          "pagina": 25,
+          "fuente": "https://www.eaj-pnv.eus/es/adjuntos-documentos/21765/pdf/programa-electoral-29n#page=25",
+          "fecha": "2026-11-15",
+          "verificada": true
+        },
+        {
+          "texto": "Impulsar una política europea común de migración y asilo con distribución equilibrada de solicitantes y menores no acompañados.",
+          "cita": "Impulsar una política europea común de migración y asilo basada en la solidaridad y la responsabilidad compartida",
+          "pagina": 25,
+          "fuente": "https://www.eaj-pnv.eus/es/adjuntos-documentos/21765/pdf/programa-electoral-29n#page=25",
+          "fecha": "2026-11-15",
+          "verificada": true
+        },
+        {
+          "texto": "Avanzar en la asunción de competencias de extranjería por parte de la Ertzaintza.",
+          "cita": "Avanzar en la asunción de competencias de extranjería por parte de la Ertzaintza",
+          "pagina": 24,
+          "fuente": "https://www.eaj-pnv.eus/es/adjuntos-documentos/21765/pdf/programa-electoral-29n#page=24",
+          "fecha": "2026-11-15",
+          "verificada": true
+        },
+        {
+          "texto": "Reforzar las garantías de migrantes y solicitantes de asilo en fronteras y promover alternativas a la privación de libertad en los CIE.",
+          "cita": "Reforzar las garantías de las personas migrantes y solicitantes de asilo en las fronteras, promoviendo alternativas a la privación de libertad en los Centros de Internamiento de Extranjeros",
+          "pagina": 28,
+          "fuente": "https://www.eaj-pnv.eus/es/adjuntos-documentos/21765/pdf/programa-electoral-29n#page=28",
+          "fecha": "2026-11-15",
+          "verificada": true
+        },
+        {
+          "texto": "Asegurar el desarrollo reglamentario del artículo 50 de la Ley 4/2023 para adecuar la documentación de personas extranjeras trans a su identidad de género.",
+          "cita": "Asegurar el desarrollo reglamentario del artículo 50 de la Ley 4/2023, garantizando procedimientos claros para adecuar la documentación expedida en España a la identidad de género de las personas extranjeras trans.",
+          "pagina": 27,
+          "fuente": "https://www.eaj-pnv.eus/es/adjuntos-documentos/21765/pdf/programa-electoral-29n#page=27",
+          "fecha": "2026-11-15",
+          "verificada": true
+        }
+      ],
+      "politica": [
+        {
+          "texto": "Defender el reconocimiento de la Ertzaintza como policía integral de Euskadi.",
+          "cita": "Defender el reconocimiento efectivo de la Ertzaintza como policía integral de Euskadi",
+          "pagina": 24,
+          "fuente": "https://www.eaj-pnv.eus/es/adjuntos-documentos/21765/pdf/programa-electoral-29n#page=24",
+          "fecha": "2026-11-15",
+          "verificada": true
+        },
+        {
+          "texto": "Aprobar una nueva Ley de Secretos Oficiales con criterios objetivos de clasificación y plazos de desclasificación automática.",
+          "cita": "Asegurar la aprobación de una nueva Ley de Secretos Oficiales, que sustituya la legislación vigente, establezca criterios objetivos de clasificación y fije plazos concretos de desclasificación automática.",
+          "pagina": 40,
+          "fuente": "https://www.eaj-pnv.eus/es/adjuntos-documentos/21765/pdf/programa-electoral-29n#page=40",
+          "fecha": "2026-11-15",
+          "verificada": true
+        },
+        {
+          "texto": "Reforzar la transparencia y la rendición de cuentas de las administraciones públicas con información comprensible sobre decisiones, presupuestos y resultados.",
+          "cita": "Reforzar la transparencia y la rendición de cuentas de las administraciones públicas, garantizando el acceso de la ciudadanía a información comprensible sobre sus decisiones, presupuestos y resultados.",
+          "pagina": 40,
+          "fuente": "https://www.eaj-pnv.eus/es/adjuntos-documentos/21765/pdf/programa-electoral-29n#page=40",
+          "fecha": "2026-11-15",
+          "verificada": true
+        },
+        {
+          "texto": "Impulsar la reforma de la llamada «ley mordaza» eliminando restricciones desproporcionadas a derechos y libertades.",
+          "cita": "Impulsar la reforma de la legislación conocida como «ley mordaza», eliminando las restricciones desproporcionadas al ejercicio de derechos y libertades.",
+          "pagina": 27,
+          "fuente": "https://www.eaj-pnv.eus/es/adjuntos-documentos/21765/pdf/programa-electoral-29n#page=27",
+          "fecha": "2026-11-15",
+          "verificada": true
+        },
+        {
+          "texto": "Crear un Consejo Vasco de Justicia con funciones de gobierno del Poder Judicial en Euskadi.",
+          "cita": "Impulsar la creación de un Consejo Vasco de Justicia, con capacidad para ejercer las funciones de gobierno del Poder Judicial en Euskadi que le atribuya el nuevo marco jurídico.",
+          "pagina": 39,
+          "fuente": "https://www.eaj-pnv.eus/es/adjuntos-documentos/21765/pdf/programa-electoral-29n#page=39",
+          "fecha": "2026-11-15",
+          "verificada": true
+        },
+        {
+          "texto": "Reformar la organización judicial para que el Tribunal Superior de Justicia del País Vasco agote las instancias procesales, salvo la jurisdicción del Tribunal Supremo.",
+          "cita": "Favorecer las reformas necesarias para que la organización judicial culmine en el Tribunal Superior de Justicia del País Vasco",
+          "pagina": 39,
+          "fuente": "https://www.eaj-pnv.eus/es/adjuntos-documentos/21765/pdf/programa-electoral-29n#page=39",
+          "fecha": "2026-11-15",
+          "verificada": true
+        },
+        {
+          "texto": "Culminar todas las transferencias pendientes del Estatuto de Gernika.",
+          "cita": "Asegurar el cumplimiento íntegro del Estatuto de Gernika y la culminación de todas las transferencias pendientes",
+          "pagina": 38,
+          "fuente": "https://www.eaj-pnv.eus/es/adjuntos-documentos/21765/pdf/programa-electoral-29n#page=38",
+          "fecha": "2026-11-15",
+          "verificada": true
+        },
+        {
+          "texto": "Establecer mecanismos bilaterales de negociación y seguimiento de los acuerdos entre Euskadi y el Estado.",
+          "cita": "Establecer mecanismos bilaterales de negociación y seguimiento de los acuerdos entre Euskadi y el Estado, que permitan verificar su cumplimiento y resolver las diferencias institucionales.",
+          "pagina": 38,
+          "fuente": "https://www.eaj-pnv.eus/es/adjuntos-documentos/21765/pdf/programa-electoral-29n#page=38",
+          "fecha": "2026-11-15",
+          "verificada": true
+        },
+        {
+          "texto": "Promover la oficialidad del euskera, el catalán y el gallego en la Unión Europea.",
+          "cita": "Promover la oficialidad del euskera, el catalán y el gallego en la Unión Europea",
+          "pagina": 41,
+          "fuente": "https://www.eaj-pnv.eus/es/adjuntos-documentos/21765/pdf/programa-electoral-29n#page=41",
+          "fecha": "2026-11-15",
+          "verificada": true
+        },
+        {
+          "texto": "Impulsar la presencia de Euskadi con voz propia en el Consejo de la UE, en particular ECOFIN y Justicia y Asuntos de Interior.",
+          "cita": "Impulsar la presencia con voz propia de Euskadi en las distintas formaciones del Consejo de la Unión Europea, particularmente en el Consejo ECOFIN y en el Consejo de Justicia y Asuntos de Interior",
+          "pagina": 41,
+          "fuente": "https://www.eaj-pnv.eus/es/adjuntos-documentos/21765/pdf/programa-electoral-29n#page=41",
+          "fecha": "2026-11-15",
+          "verificada": true
+        }
+      ],
+      "empleo": [
+        {
+          "texto": "Reforzar la Inspección de Trabajo para combatir el fraude laboral, la contratación irregular, las falsas personas autónomas y la economía sumergida.",
+          "cita": "reforzando la Inspección de Trabajo para combatir el fraude laboral, la contratación irregular, las falsas personas autónomas, la economía sumergida",
+          "pagina": 9,
+          "fuente": "https://www.eaj-pnv.eus/es/adjuntos-documentos/21765/pdf/programa-electoral-29n#page=9",
+          "fecha": "2026-11-15",
+          "verificada": true
+        },
+        {
+          "texto": "Ampliar la cobertura de la prestación por desempleo hasta un máximo de 36 meses, vinculada a la mejora de la empleabilidad.",
+          "cita": "Ampliar la cobertura de la prestación por desempleo hasta un máximo de 36 meses, vinculándola a procesos de mejora de la empleabilidad",
+          "pagina": 9,
+          "fuente": "https://www.eaj-pnv.eus/es/adjuntos-documentos/21765/pdf/programa-electoral-29n#page=9",
+          "fecha": "2026-11-15",
+          "verificada": true
+        },
+        {
+          "texto": "Asegurar la aplicación de la normativa europea sobre transparencia retributiva para corregir desigualdades salariales entre mujeres y hombres.",
+          "cita": "Asegurar la aplicación de la normativa europea sobre transparencia retributiva, para detectar y corregir las desigualdades salariales entre mujeres y hombres.",
+          "pagina": 9,
+          "fuente": "https://www.eaj-pnv.eus/es/adjuntos-documentos/21765/pdf/programa-electoral-29n#page=9",
+          "fecha": "2026-11-15",
+          "verificada": true
+        },
+        {
+          "texto": "Proteger la prevalencia de los convenios colectivos vascos cuando establezcan condiciones más favorables para las personas trabajadoras.",
+          "cita": "Proteger un marco propio de relaciones laborales y la prevalencia de los convenios colectivos vascos",
+          "pagina": 9,
+          "fuente": "https://www.eaj-pnv.eus/es/adjuntos-documentos/21765/pdf/programa-electoral-29n#page=9",
+          "fecha": "2026-11-15",
+          "verificada": true
+        },
+        {
+          "texto": "Mejorar la protección de autónomos en cese de actividad, aproximándola a la prestación por desempleo.",
+          "cita": "Mejorar la protección de las personas autónomas cuando cesa su actividad, aproximándola progresivamente a la prestación por desempleo",
+          "pagina": 15,
+          "fuente": "https://www.eaj-pnv.eus/es/adjuntos-documentos/21765/pdf/programa-electoral-29n#page=15",
+          "fecha": "2026-11-15",
+          "verificada": true
+        },
+        {
+          "texto": "Facilitar que las plantillas asuman empresas viables como cooperativas o sociedades laborales mediante la capitalización del desempleo.",
+          "cita": "utilizando para ello la capitalización de la prestación por desempleo.",
+          "pagina": 15,
+          "fuente": "https://www.eaj-pnv.eus/es/adjuntos-documentos/21765/pdf/programa-electoral-29n#page=15",
+          "fecha": "2026-11-15",
+          "verificada": true
+        },
+        {
+          "texto": "Impulsar una regulación de las prácticas formativas que garantice los derechos del alumnado y preserve su carácter educativo.",
+          "cita": "Impulsar una regulación de las prácticas formativas que garantice los derechos del alumnado y preserve su carácter educativo",
+          "pagina": 9,
+          "fuente": "https://www.eaj-pnv.eus/es/adjuntos-documentos/21765/pdf/programa-electoral-29n#page=9",
+          "fecha": "2026-11-15",
+          "verificada": true
+        },
+        {
+          "texto": "Favorecer una prestación económica para cuidadores no profesionales que hayan dejado su empleo o reducido jornada, tomando como referencia el salario mínimo.",
+          "cita": "Favorecer una prestación económica digna para las personas cuidadoras no profesionales que hayan abandonado su actividad laboral o reducido su jornada para atender a familiares dependientes, tomando como referencia el salario mínimo",
+          "pagina": 33,
+          "fuente": "https://www.eaj-pnv.eus/es/adjuntos-documentos/21765/pdf/programa-electoral-29n#page=33",
+          "fecha": "2026-11-15",
+          "verificada": true
+        },
+        {
+          "texto": "Favorecer la extensión de los sistemas de previsión social de empleo mediante la negociación colectiva, como complemento de las pensiones públicas.",
+          "cita": "Favorecer la extensión de los sistemas de previsión social de empleo, especialmente mediante la negociación colectiva",
+          "pagina": 31,
+          "fuente": "https://www.eaj-pnv.eus/es/adjuntos-documentos/21765/pdf/programa-electoral-29n#page=31",
+          "fecha": "2026-11-15",
+          "verificada": true
+        }
+      ],
+      "sanidad": [
+        {
+          "texto": "Adaptar el sistema MIR para ajustar la oferta de plazas a las necesidades de profesionales, evitar vacantes y agilizar la acreditación de unidades docentes.",
+          "cita": "Formar más especialistas sanitarios donde se necesitan, adaptando el sistema MIR para adecuar la oferta de plazas a las necesidades reales de profesionales, evitar que queden vacantes y agilizar la acreditación de nuevas unidades docentes.",
+          "pagina": 32,
+          "fuente": "https://www.eaj-pnv.eus/es/adjuntos-documentos/21765/pdf/programa-electoral-29n#page=32",
+          "fecha": "2026-11-15",
+          "verificada": true
+        },
+        {
+          "texto": "Permitir valorar el conocimiento de las lenguas oficiales en el acceso a la formación sanitaria especializada en territorios con más de una lengua oficial.",
+          "cita": "Permitir la valoración del conocimiento de las lenguas oficiales en el acceso a la formación sanitaria especializada, en los territorios con más de una lengua oficial.",
+          "pagina": 32,
+          "fuente": "https://www.eaj-pnv.eus/es/adjuntos-documentos/21765/pdf/programa-electoral-29n#page=32",
+          "fecha": "2026-11-15",
+          "verificada": true
+        },
+        {
+          "texto": "Asegurar la participación permanente de los Gobiernos Vasco y Navarro en los órganos estatales que autorizan y fijan precios de medicamentos.",
+          "cita": "Asegurar la participación permanente de los Gobiernos Vasco y Navarro en los órganos estatales encargados de autorizar, registrar y fijar los precios de los medicamentos",
+          "pagina": 32,
+          "fuente": "https://www.eaj-pnv.eus/es/adjuntos-documentos/21765/pdf/programa-electoral-29n#page=32",
+          "fecha": "2026-11-15",
+          "verificada": true
+        },
+        {
+          "texto": "Favorecer la regulación del uso medicinal del cannabis, fijando condiciones sanitarias y de seguridad para su uso terapéutico.",
+          "cita": "Favorecer la regulación del uso medicinal del cannabis, estableciendo las condiciones sanitarias y de seguridad necesarias para su utilización terapéutica.",
+          "pagina": 32,
+          "fuente": "https://www.eaj-pnv.eus/es/adjuntos-documentos/21765/pdf/programa-electoral-29n#page=32",
+          "fecha": "2026-11-15",
+          "verificada": true
+        },
+        {
+          "texto": "Culminar las transferencias sanitarias pendientes a Euskadi en formación especializada, acreditación de plazas, control de incapacidades laborales y sanidad exterior.",
+          "cita": "Culminar las transferencias sanitarias pendientes a Euskadi, especialmente en formación sanitaria especializada, acreditación de plazas, control sanitario de las incapacidades laborales y sanidad exterior.",
+          "pagina": 32,
+          "fuente": "https://www.eaj-pnv.eus/es/adjuntos-documentos/21765/pdf/programa-electoral-29n#page=32",
+          "fecha": "2026-11-15",
+          "verificada": true
+        },
+        {
+          "texto": "Impulsar que la reforma del Estatuto Marco de las profesiones sanitarias se negocie con profesionales, sindicatos y comunidades autónomas, con memoria económica.",
+          "cita": "Impulsar que la reforma del Estatuto Marco de las profesiones sanitarias se negocie con profesionales, sindicatos y comunidades autónomas",
+          "pagina": 32,
+          "fuente": "https://www.eaj-pnv.eus/es/adjuntos-documentos/21765/pdf/programa-electoral-29n#page=32",
+          "fecha": "2026-11-15",
+          "verificada": true
+        },
+        {
+          "texto": "Promover la aprobación de un Real Decreto de Electrodependencia para personas que usan dispositivos médicos eléctricos esenciales.",
+          "cita": "Promover la aprobación de un Real Decreto de Electrodependencia, que reconozca las necesidades de las personas que utilizan dispositivos médicos eléctricos esenciales para su supervivencia.",
+          "pagina": 33,
+          "fuente": "https://www.eaj-pnv.eus/es/adjuntos-documentos/21765/pdf/programa-electoral-29n#page=33",
+          "fecha": "2026-11-15",
+          "verificada": true
+        },
+        {
+          "texto": "Asegurar el cumplimiento íntegro y la financiación suficiente de la Ley ELA.",
+          "cita": "Asegurar el cumplimiento íntegro y la financiación suficiente de la Ley ELA",
+          "pagina": 33,
+          "fuente": "https://www.eaj-pnv.eus/es/adjuntos-documentos/21765/pdf/programa-electoral-29n#page=33",
+          "fecha": "2026-11-15",
+          "verificada": true
+        }
+      ]
+    },
+    "salf": {
+      "vivienda": [
+        {
+          "texto": "Garantizar por ley que el comprador de primera vivienda pague al menos un 35 % menos, con ITP y AJD al 0 %, IVA al 4 % devuelto en la renta, licencia en plazo y suelo público sin coste.",
+          "cita": "Tu primera vivienda, un 35 % más barata. Por ley.",
+          "pagina": 5,
+          "fuente": "https://www.seacabolafiesta.com/SALF_Contrato_Electoral_29N.pdf?v=073425b9522d#page=5",
+          "fecha": "2026-11-15",
+          "verificada": true
+        },
+        {
+          "texto": "Desalojar okupas en 48 horas con denuncia y título de propiedad, y resolver los impagos de alquiler con juicio verbal y lanzamiento en 30 días.",
+          "cita": "Okupa fuera en 48 horas. Inquiokupa, en 30 días.",
+          "pagina": 5,
+          "fuente": "https://www.seacabolafiesta.com/SALF_Contrato_Electoral_29N.pdf?v=073425b9522d#page=5",
+          "fecha": "2026-11-15",
+          "verificada": true
+        },
+        {
+          "texto": "Sacar a concurso todo el suelo de la Sareb y del Estado en 12 meses para construir vivienda protegida en propiedad a precio tasado.",
+          "cita": "Suelo público gratis y vivienda en propiedad.",
+          "pagina": 6,
+          "fuente": "https://www.seacabolafiesta.com/SALF_Contrato_Electoral_29N.pdf?v=073425b9522d#page=6",
+          "fecha": "2026-11-15",
+          "verificada": true
+        },
+        {
+          "texto": "Conceder la licencia en un mes (obra menor), dos (obra mayor) o tres (grandes desarrollos), con silencio positivo y retraso pagado por el ayuntamiento.",
+          "cita": "Licencia en un mes o silencio positivo.",
+          "pagina": 6,
+          "fuente": "https://www.seacabolafiesta.com/SALF_Contrato_Electoral_29N.pdf?v=073425b9522d#page=6",
+          "fecha": "2026-11-15",
+          "verificada": true
+        },
+        {
+          "texto": "Hacer tributar al 25 % a las SOCIMI con más de 100 viviendas en alquiler y dejar de contratar a los fondos desde el Estado.",
+          "cita": "Las SOCIMI con más de 100 viviendas en alquiler tributan al 25 %, como cualquier empresa.",
+          "pagina": 6,
+          "fuente": "https://www.seacabolafiesta.com/SALF_Contrato_Electoral_29N.pdf?v=073425b9522d#page=6",
+          "fecha": "2026-11-15",
+          "verificada": true
+        },
+        {
+          "texto": "Avalar con dinero público el 20 % de la entrada a menores de 40 años en su primera vivienda, con garantía de 2.000 M€.",
+          "cita": "Hipoteca joven: el Estado avala tu entrada.",
+          "pagina": 6,
+          "fuente": "https://www.seacabolafiesta.com/SALF_Contrato_Electoral_29N.pdf?v=073425b9522d#page=6",
+          "fecha": "2026-11-15",
+          "verificada": true
+        },
+        {
+          "texto": "Crear un seguro público de impago del alquiler que garantice doce meses de renta y daños al propietario, con prioridad a menores de 45 años y familias con hijos.",
+          "cita": "Aval del Estado para que el casero no tenga miedo.",
+          "pagina": 7,
+          "fuente": "https://www.seacabolafiesta.com/SALF_Contrato_Electoral_29N.pdf?v=073425b9522d#page=7",
+          "fecha": "2026-11-15",
+          "verificada": true
+        },
+        {
+          "texto": "Establecer licencia automática en 15 días para vivienda industrializada en suelo público y urbano consolidado, con estándar técnico único y registro único de alquiler turístico.",
+          "cita": "Construir rápido: licencia automática en 15 días.",
+          "pagina": 7,
+          "fuente": "https://www.seacabolafiesta.com/SALF_Contrato_Electoral_29N.pdf?v=073425b9522d#page=7",
+          "fecha": "2026-11-15",
+          "verificada": true
+        },
+        {
+          "texto": "Eliminar por completo el IBI para todos los contribuyentes, sin compensaciones a los ayuntamientos.",
+          "cita": "El IBI se elimina por completo, para todos.",
+          "pagina": 7,
+          "fuente": "https://www.seacabolafiesta.com/SALF_Contrato_Electoral_29N.pdf?v=073425b9522d#page=7",
+          "fecha": "2026-11-15",
+          "verificada": true
+        }
+      ],
+      "economia": [
+        {
+          "texto": "Elevar el mínimo exento del IRPF de 5.550 a 35.000 euros de forma gradual entre 2027 y 2030, con reducción gradual hasta 50.000 euros.",
+          "cita": "35.000 euros libres de IRPF para todos.",
+          "pagina": 12,
+          "fuente": "https://www.seacabolafiesta.com/SALF_Contrato_Electoral_29N.pdf?v=073425b9522d#page=12",
+          "fecha": "2026-11-15",
+          "verificada": true
+        },
+        {
+          "texto": "Sumar 5.000 euros al mínimo exento del IRPF de cada progenitor por cada hijo.",
+          "cita": "5.000 euros más por cada hijo, para el padre y para la madre.",
+          "pagina": 12,
+          "fuente": "https://www.seacabolafiesta.com/SALF_Contrato_Electoral_29N.pdf?v=073425b9522d#page=12",
+          "fecha": "2026-11-15",
+          "verificada": true
+        },
+        {
+          "texto": "Actualizar cada año con el IPC, por ley, la tarifa, los mínimos y las deducciones del IRPF.",
+          "cita": "Fin de la subida de impuestos por inflación.",
+          "pagina": 12,
+          "fuente": "https://www.seacabolafiesta.com/SALF_Contrato_Electoral_29N.pdf?v=073425b9522d#page=12",
+          "fecha": "2026-11-15",
+          "verificada": true
+        },
+        {
+          "texto": "Bajar el Impuesto de Sociedades del 25 al 20 % en dos años, con 15 % sobre el beneficio reinvertido y 10 % para empresas nuevas durante tres años.",
+          "cita": "Sociedades: 20 %. 15 % si reinviertes. 10 % startups.",
+          "pagina": 13,
+          "fuente": "https://www.seacabolafiesta.com/SALF_Contrato_Electoral_29N.pdf?v=073425b9522d#page=13",
+          "fecha": "2026-11-15",
+          "verificada": true
+        },
+        {
+          "texto": "Suprimir los impuestos de Sucesiones, Donaciones y Patrimonio, así como el impuesto a las grandes fortunas.",
+          "cita": "Sucesiones, Donaciones y Patrimonio: suprimidos.",
+          "pagina": 13,
+          "fuente": "https://www.seacabolafiesta.com/SALF_Contrato_Electoral_29N.pdf?v=073425b9522d#page=13",
+          "fecha": "2026-11-15",
+          "verificada": true
+        },
+        {
+          "texto": "Bajar el IVA de la luz del 21 al 4 % y el del agua del 10 al 4 %, y suprimir el impuesto a la producción eléctrica.",
+          "cita": "Luz y agua al 4 % de IVA para siempre.",
+          "pagina": 13,
+          "fuente": "https://www.seacabolafiesta.com/SALF_Contrato_Electoral_29N.pdf?v=073425b9522d#page=13",
+          "fecha": "2026-11-15",
+          "verificada": true
+        },
+        {
+          "texto": "Condicionar cada rebaja fiscal a un ahorro estructural certificado por la AIReF y fijar déficit cero en 2030.",
+          "cita": "Regla de oro: un euro de rebaja, un euro de ahorro certificado.",
+          "pagina": 13,
+          "fuente": "https://www.seacabolafiesta.com/SALF_Contrato_Electoral_29N.pdf?v=073425b9522d#page=13",
+          "fecha": "2026-11-15",
+          "verificada": true
+        },
+        {
+          "texto": "Exigir tres quintos del Congreso, mediante reforma constitucional, para toda subida de impuestos.",
+          "cita": "Toda subida de impuestos exigirá tres quintos del Congreso",
+          "pagina": 13,
+          "fuente": "https://www.seacabolafiesta.com/SALF_Contrato_Electoral_29N.pdf?v=073425b9522d#page=13",
+          "fecha": "2026-11-15",
+          "verificada": true
+        },
+        {
+          "texto": "Garantizar el derecho a pagar y cobrar en efectivo sin límite de importe, derogando el tope de 1.000 euros.",
+          "cita": "Derecho a pagar y cobrar en efectivo sin límite de importe:",
+          "pagina": 15,
+          "fuente": "https://www.seacabolafiesta.com/SALF_Contrato_Electoral_29N.pdf?v=073425b9522d#page=15",
+          "fecha": "2026-11-15",
+          "verificada": true
+        },
+        {
+          "texto": "Derogar dos regulaciones por cada nueva regulación que afecte a empresas.",
+          "cita": "Por cada regulación nueva que afecte a empresas, dos de‐\nrogadas.",
+          "pagina": 31,
+          "fuente": "https://www.seacabolafiesta.com/SALF_Contrato_Electoral_29N.pdf?v=073425b9522d#page=31",
+          "fecha": "2026-11-15",
+          "verificada": true
+        }
+      ],
+      "inmigracion": [
+        {
+          "texto": "Ejecutar las órdenes de expulsión en 48 horas desde la identificación y el 100 % de ellas en 90 días, con internamiento hasta la expulsión.",
+          "cita": "Orden de expulsión = expulsión. En 48 horas.",
+          "pagina": 17,
+          "fuente": "https://www.seacabolafiesta.com/SALF_Contrato_Electoral_29N.pdf?v=073425b9522d#page=17",
+          "fecha": "2026-11-15",
+          "verificada": true
+        },
+        {
+          "texto": "Derogar la regularización de 2026 y prohibir por ley orgánica cualquier regularización masiva.",
+          "cita": "Fin de las regularizaciones.",
+          "pagina": 17,
+          "fuente": "https://www.seacabolafiesta.com/SALF_Contrato_Electoral_29N.pdf?v=073425b9522d#page=17",
+          "fecha": "2026-11-15",
+          "verificada": true
+        },
+        {
+          "texto": "Condicionar visados, ayudas y preferencias comerciales a que Marruecos, Argelia, Senegal y Mauritania readmitan a sus nacionales en 72 horas.",
+          "cita": "Readmisión o nada.",
+          "pagina": 17,
+          "fuente": "https://www.seacabolafiesta.com/SALF_Contrato_Electoral_29N.pdf?v=073425b9522d#page=17",
+          "fecha": "2026-11-15",
+          "verificada": true
+        },
+        {
+          "texto": "Aplicar una moratoria a la inmigración de países que no colaboran contra las mafias ni readmiten, y exigir contrato previo y cupo anual votado en el Congreso para el resto.",
+          "cita": "Moratoria total, durante toda la legislatura, a la inmigración",
+          "pagina": 18,
+          "fuente": "https://www.seacabolafiesta.com/SALF_Contrato_Electoral_29N.pdf?v=073425b9522d#page=18",
+          "fecha": "2026-11-15",
+          "verificada": true
+        },
+        {
+          "texto": "Exigir diez años de residencia legal, examen de cultura y Constitución y ausencia de antecedentes para obtener la nacionalidad, con cupos preferentes para Hispanoamérica.",
+          "cita": "Nacionalidad: diez años de residencia legal, examen de cultura y Constitución,",
+          "pagina": 18,
+          "fuente": "https://www.seacabolafiesta.com/SALF_Contrato_Electoral_29N.pdf?v=073425b9522d#page=18",
+          "fecha": "2026-11-15",
+          "verificada": true
+        },
+        {
+          "texto": "Retirar la residencia a quien tenga una condena de más de un año y la nacionalidad a dobles nacionales condenados por delitos graves.",
+          "cita": "Condena de más de un año: pérdida de la residencia.",
+          "pagina": 18,
+          "fuente": "https://www.seacabolafiesta.com/SALF_Contrato_Electoral_29N.pdf?v=073425b9522d#page=18",
+          "fecha": "2026-11-15",
+          "verificada": true
+        },
+        {
+          "texto": "Hacer prueba radiológica y dental obligatoria antes del ingreso de menores en centros de menores.",
+          "cita": "Prueba radiológica y dental obligatoria antes de entrar en",
+          "pagina": 18,
+          "fuente": "https://www.seacabolafiesta.com/SALF_Contrato_Electoral_29N.pdf?v=073425b9522d#page=18",
+          "fecha": "2026-11-15",
+          "verificada": true
+        },
+        {
+          "texto": "Negar prestaciones no contributivas, ayudas al alquiler y vivienda pública sin cinco años de residencia legal y cotización, y gravar con 2 % las remesas a países que no readmiten.",
+          "cita": "Sin papeles, sin ayudas.",
+          "pagina": 19,
+          "fuente": "https://www.seacabolafiesta.com/SALF_Contrato_Electoral_29N.pdf?v=073425b9522d#page=19",
+          "fecha": "2026-11-15",
+          "verificada": true
+        },
+        {
+          "texto": "Firmar convenios con terceros países para que los extranjeros condenados cumplan la pena allí, con veto de por vida de acceso a España.",
+          "cita": "Extranjero condenado: cumple la pena fuera.",
+          "pagina": 9,
+          "fuente": "https://www.seacabolafiesta.com/SALF_Contrato_Electoral_29N.pdf?v=073425b9522d#page=9",
+          "fecha": "2026-11-15",
+          "verificada": true
+        },
+        {
+          "texto": "Condicionar la ayuda exterior a la readmisión de nacionales en 72 horas.",
+          "cita": "readmisión de nacionales en 72 horas,",
+          "pagina": 39,
+          "fuente": "https://www.seacabolafiesta.com/SALF_Contrato_Electoral_29N.pdf?v=073425b9522d#page=39",
+          "fecha": "2026-11-15",
+          "verificada": true
+        }
+      ],
+      "politica": [
+        {
+          "texto": "Reducir de 22 a 10 los ministerios, de 3 a 1 las vicepresidencias, de 823 a 450 los altos cargos y de 1.255 a 400 los asesores.",
+          "cita": "Doce ministerios desaparecen el primer día; sus funciones útiles pasan a los diez que quedan.",
+          "pagina": 3,
+          "fuente": "https://www.seacabolafiesta.com/SALF_Contrato_Electoral_29N.pdf?v=073425b9522d#page=3",
+          "fecha": "2026-11-15",
+          "verificada": true
+        },
+        {
+          "texto": "Defender una financiación autonómica con criterios objetivos iguales para todas las comunidades y oponerse a las condonaciones de deuda entre administraciones, salvo catástrofe.",
+          "cita": "Financiación autonómica justa, solidaria y responsable.",
+          "pagina": 14,
+          "fuente": "https://www.seacabolafiesta.com/SALF_Contrato_Electoral_29N.pdf?v=073425b9522d#page=14",
+          "fecha": "2026-11-15",
+          "verificada": true
+        },
+        {
+          "texto": "Triplicar la UCO, la UDEF y la UDYCO con 3.000 investigadores más y blindar por ley su partida presupuestaria.",
+          "cita": "Triplicar la UCO, la UDEF y la UDYCO: 3.000 investigadores más.",
+          "pagina": 10,
+          "fuente": "https://www.seacabolafiesta.com/SALF_Contrato_Electoral_29N.pdf?v=073425b9522d#page=10",
+          "fecha": "2026-11-15",
+          "verificada": true
+        },
+        {
+          "texto": "Incorporar 2.000 jueces y 1.500 fiscales más, con juicios rápidos en 72 horas para multirreincidentes y delitos flagrantes y expediente digital único.",
+          "cita": "2.000 jueces y 1.500 fiscales más.",
+          "pagina": 10,
+          "fuente": "https://www.seacabolafiesta.com/SALF_Contrato_Electoral_29N.pdf?v=073425b9522d#page=10",
+          "fecha": "2026-11-15",
+          "verificada": true
+        },
+        {
+          "texto": "Suprimir las diputaciones provinciales como fuente de ahorro (1.500 M€ al año).",
+          "cita": "Supresión de las diputaciones provinciales",
+          "pagina": 16,
+          "fuente": "https://www.seacabolafiesta.com/SALF_Contrato_Electoral_29N.pdf?v=073425b9522d#page=16",
+          "fecha": "2026-11-15",
+          "verificada": true
+        },
+        {
+          "texto": "Declarar imprescriptibles el cohecho, la malversación, la prevaricación, el tráfico de influencias y la financiación ilegal cometidos por cargos públicos.",
+          "cita": "La corrupción no prescribe.",
+          "pagina": 25,
+          "fuente": "https://www.seacabolafiesta.com/SALF_Contrato_Electoral_29N.pdf?v=073425b9522d#page=25",
+          "fecha": "2026-11-15",
+          "verificada": true
+        },
+        {
+          "texto": "Prohibir por ley el indulto y exigir cumplimiento íntegro de la pena a los condenados por corrupción.",
+          "cita": "Cumplimiento íntegro para condenados por corrupción y prohibición legal de indulto.",
+          "pagina": 25,
+          "fuente": "https://www.seacabolafiesta.com/SALF_Contrato_Electoral_29N.pdf?v=073425b9522d#page=25",
+          "fecha": "2026-11-15",
+          "verificada": true
+        },
+        {
+          "texto": "Elegir al Fiscal General por tres quintos del Congreso entre fiscales con 25 años de carrera, con mandato de seis años.",
+          "cita": "Elegido por tres quintos del Congreso entre fiscales con\n25 años de carrera, mandato de seis años no coincidente\ncon la legislatura.",
+          "pagina": 27,
+          "fuente": "https://www.seacabolafiesta.com/SALF_Contrato_Electoral_29N.pdf?v=073425b9522d#page=27",
+          "fecha": "2026-11-15",
+          "verificada": true
+        },
+        {
+          "texto": "Suprimir los aforamientos mediante reforma constitucional presentada el primer día.",
+          "cita": "Los 17.621 aforados, juzgados por el mismo juez que tú.\nReforma constitucional presentada el primer día.",
+          "pagina": 28,
+          "fuente": "https://www.seacabolafiesta.com/SALF_Contrato_Electoral_29N.pdf?v=073425b9522d#page=28",
+          "fecha": "2026-11-15",
+          "verificada": true
+        },
+        {
+          "texto": "Publicar en 24 horas todo gasto superior a 1.000 euros en un portal único de todas las administraciones.",
+          "cita": "Todo gasto mayor de 1.000 euros, publicado en 24 horas.",
+          "pagina": 29,
+          "fuente": "https://www.seacabolafiesta.com/SALF_Contrato_Electoral_29N.pdf?v=073425b9522d#page=29",
+          "fecha": "2026-11-15",
+          "verificada": true
+        }
+      ],
+      "empleo": [
+        {
+          "texto": "Eliminar por completo la cuota de los autónomos y aplicar IVA de caja.",
+          "cita": "Autónomos: eliminación total de la cuota.",
+          "pagina": 12,
+          "fuente": "https://www.seacabolafiesta.com/SALF_Contrato_Electoral_29N.pdf?v=073425b9522d#page=12",
+          "fecha": "2026-11-15",
+          "verificada": true
+        },
+        {
+          "texto": "Reducir la cuña fiscal del 41 al 29 % y crear un contrato único con mochila.",
+          "cita": "Cuña fiscal del 41 al 29 %. Contrato único con mochila.",
+          "pagina": 4,
+          "fuente": "https://www.seacabolafiesta.com/SALF_Contrato_Electoral_29N.pdf?v=073425b9522d#page=4",
+          "fecha": "2026-11-15",
+          "verificada": true
+        },
+        {
+          "texto": "Ingresar el 1,53 % del salario, a cargo de la empresa, en una cuenta individual del trabajador que se lleva al cambiar de empleo.",
+          "cita": "Mochila austriaca.",
+          "pagina": 20,
+          "fuente": "https://www.seacabolafiesta.com/SALF_Contrato_Electoral_29N.pdf?v=073425b9522d#page=20",
+          "fecha": "2026-11-15",
+          "verificada": true
+        },
+        {
+          "texto": "Crear un contrato indefinido único con indemnización creciente de 12 a 33 días y mochila del 1,53 %.",
+          "cita": "Un solo contrato indefinido con indemnización creciente de\n12 a 33 días, más la mochila del 1,53 %.",
+          "pagina": 30,
+          "fuente": "https://www.seacabolafiesta.com/SALF_Contrato_Electoral_29N.pdf?v=073425b9522d#page=30",
+          "fecha": "2026-11-15",
+          "verificada": true
+        },
+        {
+          "texto": "Hacer que las mutuas den el alta en contingencias comunes a los 15 días, con revisión del INSS en 72 horas.",
+          "cita": "Las mutuas dan el alta en contingencias comunes a los\n15 días, con revisión del INSS en 72 horas.",
+          "pagina": 30,
+          "fuente": "https://www.seacabolafiesta.com/SALF_Contrato_Electoral_29N.pdf?v=073425b9522d#page=30",
+          "fecha": "2026-11-15",
+          "verificada": true
+        },
+        {
+          "texto": "Crear FP dual con contrato y salario del 50 % del convenio y cotización cero dos años por contratar a menores de 30 y mayores de 50.",
+          "cita": "Cotización cero durante\ndos años por contratar a menores de 30 y mayores de 50.",
+          "pagina": 31,
+          "fuente": "https://www.seacabolafiesta.com/SALF_Contrato_Electoral_29N.pdf?v=073425b9522d#page=31",
+          "fecha": "2026-11-15",
+          "verificada": true
+        },
+        {
+          "texto": "Pasar a la Seguridad Social el pago de las bajas por enfermedad desde el primer día y crear un fondo público de impago de salarios.",
+          "cita": "Las bajas por enfermedad las paga la Seguridad Social des‐\nde el primer día, no la empresa",
+          "pagina": 31,
+          "fuente": "https://www.seacabolafiesta.com/SALF_Contrato_Electoral_29N.pdf?v=073425b9522d#page=31",
+          "fecha": "2026-11-15",
+          "verificada": true
+        },
+        {
+          "texto": "Contabilizar como parados a los fijos discontinuos cuando no trabajan.",
+          "cita": "Un fijo discontinuo cuenta como tra‐\nbajador solo cuando trabaja; el resto del tiempo, como lo\nque es: un parado.",
+          "pagina": 32,
+          "fuente": "https://www.seacabolafiesta.com/SALF_Contrato_Electoral_29N.pdf?v=073425b9522d#page=32",
+          "fecha": "2026-11-15",
+          "verificada": true
+        },
+        {
+          "texto": "Hacer anónimas y digitales todas las oposiciones y concursos, con tribunales sorteados y grabados.",
+          "cita": "Todas las oposiciones y concursos 100 % anónimos y digi‐\ntales, con tribunales sorteados y grabados.",
+          "pagina": 32,
+          "fuente": "https://www.seacabolafiesta.com/SALF_Contrato_Electoral_29N.pdf?v=073425b9522d#page=32",
+          "fecha": "2026-11-15",
+          "verificada": true
+        },
+        {
+          "texto": "Retirar la prestación tras rechazar dos ofertas adecuadas y reducir el Ingreso Mínimo 50 céntimos por cada euro ganado.",
+          "cita": "Rechazar dos ofertas adecuadas: fin de la prestación.",
+          "pagina": 32,
+          "fuente": "https://www.seacabolafiesta.com/SALF_Contrato_Electoral_29N.pdf?v=073425b9522d#page=32",
+          "fecha": "2026-11-15",
+          "verificada": true
+        }
+      ],
+      "sanidad": [
+        {
+          "texto": "Crear una central de compras sanitarias única en lugar de diecisiete, con un ahorro del 15 % destinado a sueldos y plazas.",
+          "cita": "Una sola central de compras, no diecisiete.",
+          "pagina": 22,
+          "fuente": "https://www.seacabolafiesta.com/SALF_Contrato_Electoral_29N.pdf?v=073425b9522d#page=22",
+          "fecha": "2026-11-15",
+          "verificada": true
+        },
+        {
+          "texto": "Garantizar plazos máximos de 60 días para cirugía, 30 para especialista y 7 para pruebas prioritarias, con derecho a elegir centro público o privado si se superan.",
+          "cita": "60 días para cirugía, 30 para especialista, 7 para pruebas prioritarias.",
+          "pagina": 22,
+          "fuente": "https://www.seacabolafiesta.com/SALF_Contrato_Electoral_29N.pdf?v=073425b9522d#page=22",
+          "fecha": "2026-11-15",
+          "verificada": true
+        },
+        {
+          "texto": "Subir un 20 % el sueldo de los médicos y un 10 % el de enfermería y resto de profesionales en cuatro años, con 30.000 euros de complemento en plazas rurales.",
+          "cita": "Médicos y profesionales de la salud pagados como en Europa.",
+          "pagina": 22,
+          "fuente": "https://www.seacabolafiesta.com/SALF_Contrato_Electoral_29N.pdf?v=073425b9522d#page=22",
+          "fecha": "2026-11-15",
+          "verificada": true
+        },
+        {
+          "texto": "Implantar una tarjeta sanitaria, una historia clínica y una receta válidas en toda España.",
+          "cita": "Una tarjeta, una historia clínica, una receta.",
+          "pagina": 23,
+          "fuente": "https://www.seacabolafiesta.com/SALF_Contrato_Electoral_29N.pdf?v=073425b9522d#page=23",
+          "fecha": "2026-11-15",
+          "verificada": true
+        },
+        {
+          "texto": "Aumentar en 10.000 las camas hospitalarias y en 1.500 las plazas de UCI.",
+          "cita": "10.000 camas y 1.500 UCI más.",
+          "pagina": 23,
+          "fuente": "https://www.seacabolafiesta.com/SALF_Contrato_Electoral_29N.pdf?v=073425b9522d#page=23",
+          "fecha": "2026-11-15",
+          "verificada": true
+        },
+        {
+          "texto": "Garantizar cita con el médico de familia en 48 horas, con consulta privada pagada por el sistema si no la hay.",
+          "cita": "Cita con tu médico en 48 horas.",
+          "pagina": 23,
+          "fuente": "https://www.seacabolafiesta.com/SALF_Contrato_Electoral_29N.pdf?v=073425b9522d#page=23",
+          "fecha": "2026-11-15",
+          "verificada": true
+        },
+        {
+          "texto": "Limitar la tarjeta sanitaria a españoles y residentes legales con cotización o cobertura, manteniendo urgencias para todos y facturando a terceros países y aseguradoras.",
+          "cita": "La sanidad española es para los españoles.",
+          "pagina": 23,
+          "fuente": "https://www.seacabolafiesta.com/SALF_Contrato_Electoral_29N.pdf?v=073425b9522d#page=23",
+          "fecha": "2026-11-15",
+          "verificada": true
+        },
+        {
+          "texto": "Hacer subasta nacional de genéricos y biosimilares y eliminar el copago para pensiones mínimas y enfermos crónicos.",
+          "cita": "Subasta nacional de genéricos y biosimilares.",
+          "pagina": 23,
+          "fuente": "https://www.seacabolafiesta.com/SALF_Contrato_Electoral_29N.pdf?v=073425b9522d#page=23",
+          "fecha": "2026-11-15",
+          "verificada": true
+        },
+        {
+          "texto": "Dotar un psicólogo clínico por cada 10.000 habitantes en los centros de salud y atender en un máximo de 15 días.",
+          "cita": "Salud mental sin lista de espera.",
+          "pagina": 24,
+          "fuente": "https://www.seacabolafiesta.com/SALF_Contrato_Electoral_29N.pdf?v=073425b9522d#page=24",
+          "fecha": "2026-11-15",
+          "verificada": true
+        },
+        {
+          "texto": "Nombrar a los gerentes de hospital por concurso de méritos con mandato de cinco años y publicar en tiempo real cuentas, listas de espera y resultados.",
+          "cita": "Gerentes por concurso, no por carné.",
+          "pagina": 24,
+          "fuente": "https://www.seacabolafiesta.com/SALF_Contrato_Electoral_29N.pdf?v=073425b9522d#page=24",
+          "fecha": "2026-11-15",
+          "verificada": true
+        }
+      ]
+    },
+    "pacma": {
+      "vivienda": [
+        {
+          "texto": "Construir vivienda pública de forma masiva y adquirir viviendas vacías para destinarlas a compra y alquiler social.",
+          "cita": "La solución real pasa por la construcción masiva de vivienda pública, así como por la adquisición de viviendas vacías, para destinarlas tanto a compra como a alquiler social.",
+          "pagina": 69,
+          "fuente": "https://pacma.es/wp-content/uploads/2026/11/PE_GENERALES_29N26.pdf#page=69",
+          "fecha": "2026-11-15",
+          "verificada": true
+        },
+        {
+          "texto": "Ofrecer bonificaciones del 100% en el IRPF o exenciones del IBI a pequeños propietarios que alquilen un 10% o 15% por debajo del precio medio de la zona.",
+          "cita": "Incentivos fiscales, ofreciendo bonificaciones del 100% en el IRPF o exenciones del IBI a los pequeños propietarios/as que pongan su vivienda en el mercado un 10% o 15% por debajo del precio medio de la zona",
+          "pagina": 70,
+          "fuente": "https://pacma.es/wp-content/uploads/2026/11/PE_GENERALES_29N26.pdf#page=70",
+          "fecha": "2026-11-15",
+          "verificada": true
+        },
+        {
+          "texto": "Reducir temporalmente el ITP en vivienda de segunda mano y el IVA en obra nueva para compradores de primera vivienda habitual.",
+          "cita": "reduciendo temporalmente el Impuesto de Transmisiones Patrimoniales en viviendas de segunda mano y el IVA en viviendas de obra nueva, para compradores de primera vivienda habitual.",
+          "pagina": 70,
+          "fuente": "https://pacma.es/wp-content/uploads/2026/11/PE_GENERALES_29N26.pdf#page=70",
+          "fecha": "2026-11-15",
+          "verificada": true
+        },
+        {
+          "texto": "Crear seguros o avales públicos para dar seguridad jurídica a los propietarios ante impagos de alquiler.",
+          "cita": "Seguridad jurídica ante impagos, mediante seguros o avales públicos.",
+          "pagina": 70,
+          "fuente": "https://pacma.es/wp-content/uploads/2026/11/PE_GENERALES_29N26.pdf#page=70",
+          "fecha": "2026-11-15",
+          "verificada": true
+        },
+        {
+          "texto": "Establecer un registro obligatorio para el alquiler por habitaciones y de temporada, para evitar el fraude a la Ley de Vivienda.",
+          "cita": "blindando legalmente el uso del alquiler por habitaciones y de temporada mediante un registro obligatorio, evitando que se utilicen de forma fraudulenta para sortear la Ley de Vivienda.",
+          "pagina": 70,
+          "fuente": "https://pacma.es/wp-content/uploads/2026/11/PE_GENERALES_29N26.pdf#page=70",
+          "fecha": "2026-11-15",
+          "verificada": true
+        },
+        {
+          "texto": "Aplicar recargos fiscales a la compra de viviendas por fondos de inversión y no residentes.",
+          "cita": "Desincentivar la compra especulativa, aplicando recargos fiscales a la compra de viviendas por parte de fondos de inversión y no residentes.",
+          "pagina": 70,
+          "fuente": "https://pacma.es/wp-content/uploads/2026/11/PE_GENERALES_29N26.pdf#page=70",
+          "fecha": "2026-11-15",
+          "verificada": true
+        },
+        {
+          "texto": "Restringir las licencias de pisos turísticos en cascos históricos y barrios tensionados.",
+          "cita": "Restringir las licencias de pisos turísticos en cascos históricos y barrios tensionados.",
+          "pagina": 70,
+          "fuente": "https://pacma.es/wp-content/uploads/2026/11/PE_GENERALES_29N26.pdf#page=70",
+          "fecha": "2026-11-15",
+          "verificada": true
+        },
+        {
+          "texto": "Reformar la Ley de Arrendamientos Urbanos para declarar nulas las cláusulas que prohíban animales de compañía en contratos de alquiler.",
+          "cita": "impulsaremos una reforma de la Ley Arrendamientos Urbanos que, de manera expresa, declare nulas las cláusulas que prohíban la tenencia de animales de compañía en los contratos.",
+          "pagina": 70,
+          "fuente": "https://pacma.es/wp-content/uploads/2026/11/PE_GENERALES_29N26.pdf#page=70",
+          "fecha": "2026-11-15",
+          "verificada": true
+        },
+        {
+          "texto": "Buscar acuerdos con entidades financieras para destinar sus viviendas deshabitadas al alquiler a precios sociales.",
+          "cita": "se deben perseguir acuerdos con las entidades financieras que dispongan de viviendas deshabitadas para destinarlas también al alquiler a precios sociales.",
+          "pagina": 70,
+          "fuente": "https://pacma.es/wp-content/uploads/2026/11/PE_GENERALES_29N26.pdf#page=70",
+          "fecha": "2026-11-15",
+          "verificada": true
+        }
+      ],
+      "economia": [
+        {
+          "texto": "Reducir el IVA de los servicios veterinarios al tipo superreducido del 4% o eximirlos del impuesto.",
+          "cita": "Este reconocimiento permitiría una necesaria reducción del IVA de los servicios veterinarios, no al tipo reducido del 10%, sino al tipo superreducido del 4% e, incluso, a su exención.",
+          "pagina": 31,
+          "fuente": "https://pacma.es/wp-content/uploads/2026/11/PE_GENERALES_29N26.pdf#page=31",
+          "fecha": "2026-11-15",
+          "verificada": true
+        },
+        {
+          "texto": "Crear una deducción en el IRPF de hasta el 10% de los gastos veterinarios, con un ahorro máximo de 500 € anuales y un límite de renta.",
+          "cita": "de manera que las familias interespecie se puedan deducir hasta un 10% de los gastos veterinarios, con un ahorro máximo de hasta 500€ anuales.",
+          "pagina": 31,
+          "fuente": "https://pacma.es/wp-content/uploads/2026/11/PE_GENERALES_29N26.pdf#page=31",
+          "fecha": "2026-11-15",
+          "verificada": true
+        },
+        {
+          "texto": "Aplicar un impuesto climático a los productos de origen animal, calculado según las emisiones asociadas a la producción de cada alimento.",
+          "cita": "Mayor carga impositiva a los productos de origen animal, aplicando un impuesto climático, cuyo gravamen se calcule en función de las emisiones generadas asociadas a la producción de",
+          "pagina": 37,
+          "fuente": "https://pacma.es/wp-content/uploads/2026/11/PE_GENERALES_29N26.pdf#page=37",
+          "fecha": "2026-11-15",
+          "verificada": true
+        },
+        {
+          "texto": "Subvencionar los alimentos vegetales saludables como frutas, verduras, legumbres, semillas, cereales o algas.",
+          "cita": "Subvenciones a los alimentos vegetales saludables, cuya producción es más respetuosa con el medio ambiente, como frutas, verduras, legumbres, semillas, cereales o algas.",
+          "pagina": 38,
+          "fuente": "https://pacma.es/wp-content/uploads/2026/11/PE_GENERALES_29N26.pdf#page=38",
+          "fecha": "2026-11-15",
+          "verificada": true
+        },
+        {
+          "texto": "Subir el tipo impositivo de los lácteos de origen animal y bajar el de sus equivalentes de origen vegetal.",
+          "cita": "Mayor tipo impositivo a las leches, yogures, quesos y demás productos lácteos de origen animal y menor a sus equivalentes de origen vegetal",
+          "pagina": 38,
+          "fuente": "https://pacma.es/wp-content/uploads/2026/11/PE_GENERALES_29N26.pdf#page=38",
+          "fecha": "2026-11-15",
+          "verificada": true
+        },
+        {
+          "texto": "Establecer un impuesto climático a las explotaciones ganaderas y avícolas según las emisiones de su producción.",
+          "cita": "Impuesto climático a las explotaciones ganaderas y avícolas, cuyo gravamen se calcule en función de las emisiones generadas asociadas a su producción",
+          "pagina": 39,
+          "fuente": "https://pacma.es/wp-content/uploads/2026/11/PE_GENERALES_29N26.pdf#page=39",
+          "fecha": "2026-11-15",
+          "verificada": true
+        },
+        {
+          "texto": "Incrementar las subvenciones a la agricultura en detrimento de las que recibe la ganadería.",
+          "cita": "Incrementar las subvenciones a la agricultura en detrimento de las que recibe la ganadería.",
+          "pagina": 43,
+          "fuente": "https://pacma.es/wp-content/uploads/2026/11/PE_GENERALES_29N26.pdf#page=43",
+          "fecha": "2026-11-15",
+          "verificada": true
+        },
+        {
+          "texto": "Reforzar los controles fiscales y usar tecnología avanzada para combatir el fraude fiscal.",
+          "cita": "proponemos la implementación de controles fiscales más rigurosos, el uso de tecnología avanzada para detectar actividades sospechosas",
+          "pagina": 72,
+          "fuente": "https://pacma.es/wp-content/uploads/2026/11/PE_GENERALES_29N26.pdf#page=72",
+          "fecha": "2026-11-15",
+          "verificada": true
+        },
+        {
+          "texto": "Aplicar mayores bonificaciones fiscales a emprendedores, startups y empresas innovadoras.",
+          "cita": "Política de mayores bonificaciones fiscales para emprendedores/as, startups y empresas innovadoras.",
+          "pagina": 69,
+          "fuente": "https://pacma.es/wp-content/uploads/2026/11/PE_GENERALES_29N26.pdf#page=69",
+          "fecha": "2026-11-15",
+          "verificada": true
+        },
+        {
+          "texto": "Establecer un mínimo vital de agua para garantizar su acceso a personas vulnerables.",
+          "cita": "mediante el establecimiento de un mínimo vital de agua.",
+          "pagina": 54,
+          "fuente": "https://pacma.es/wp-content/uploads/2026/11/PE_GENERALES_29N26.pdf#page=54",
+          "fecha": "2026-11-15",
+          "verificada": true
+        }
+      ],
+      "inmigracion": [
+        {
+          "texto": "Garantizar el acceso unificado a derechos como educación, sanidad y alojamiento a las personas migrantes.",
+          "cita": "Acceso unificado a todos los derechos, como la educación, la sanidad y el alojamiento para una inclusión efectiva.",
+          "pagina": 81,
+          "fuente": "https://pacma.es/wp-content/uploads/2026/11/PE_GENERALES_29N26.pdf#page=81",
+          "fecha": "2026-11-15",
+          "verificada": true
+        },
+        {
+          "texto": "Aumentar las plazas en los centros de acogida, con atención especial a menores migrantes no acompañados.",
+          "cita": "Aumento del número de plazas en los centros de acogida, con especial atención a la situación de los niños y niñas migrantes no acompañados.",
+          "pagina": 81,
+          "fuente": "https://pacma.es/wp-content/uploads/2026/11/PE_GENERALES_29N26.pdf#page=81",
+          "fecha": "2026-11-15",
+          "verificada": true
+        },
+        {
+          "texto": "Impulsar equipos técnicos multidisciplinares en los centros de acogida, coordinados con equipos de inclusión y jurídicos.",
+          "cita": "Impulso de equipos técnicos multidisciplinares en los centros de acogida, que trabajen en coordinación con equipos de inclusión y jurídicos.",
+          "pagina": 81,
+          "fuente": "https://pacma.es/wp-content/uploads/2026/11/PE_GENERALES_29N26.pdf#page=81",
+          "fecha": "2026-11-15",
+          "verificada": true
+        },
+        {
+          "texto": "Poner en marcha programas y campañas contra la xenofobia, el racismo y la exclusión social.",
+          "cita": "Puesta en marcha de programas y campañas contra la xenofobia, el racismo y la exclusión social.",
+          "pagina": 81,
+          "fuente": "https://pacma.es/wp-content/uploads/2026/11/PE_GENERALES_29N26.pdf#page=81",
+          "fecha": "2026-11-15",
+          "verificada": true
+        }
+      ],
+      "politica": [
+        {
+          "texto": "Eliminar los aforamientos.",
+          "cita": "Eliminación de los aforamientos.",
+          "pagina": 72,
+          "fuente": "https://pacma.es/wp-content/uploads/2026/11/PE_GENERALES_29N26.pdf#page=72",
+          "fecha": "2026-11-15",
+          "verificada": true
+        },
+        {
+          "texto": "Obligar a los partidos a publicar la liquidación de gastos e ingresos electorales en los tres meses siguientes a las elecciones.",
+          "cita": "Publicación por parte de los partidos políticos de la liquidación de gastos e ingresos electorales, en los tres meses siguientes a las elecciones.",
+          "pagina": 73,
+          "fuente": "https://pacma.es/wp-content/uploads/2026/11/PE_GENERALES_29N26.pdf#page=73",
+          "fecha": "2026-11-15",
+          "verificada": true
+        },
+        {
+          "texto": "Aprobar una Ley de Transparencia efectiva con pleno acceso de la ciudadanía a la información.",
+          "cita": "Ley de Transparencia efectiva, que prevea una transparencia en la actuación pública y mecanismo que garanticen el pleno acceso de la ciudadanía a la información.",
+          "pagina": 73,
+          "fuente": "https://pacma.es/wp-content/uploads/2026/11/PE_GENERALES_29N26.pdf#page=73",
+          "fecha": "2026-11-15",
+          "verificada": true
+        },
+        {
+          "texto": "Aumentar la transparencia y el control en la contratación pública, incluidos los sobrecostes.",
+          "cita": "Mayor transparencia y control en la contratación pública, uno de los principales focos de la corrupción.",
+          "pagina": 73,
+          "fuente": "https://pacma.es/wp-content/uploads/2026/11/PE_GENERALES_29N26.pdf#page=73",
+          "fecha": "2026-11-15",
+          "verificada": true
+        },
+        {
+          "texto": "Reformar la Ley de Iniciativa Legislativa Popular: menos firmas, más plazo y toma en consideración obligatoria por el Congreso.",
+          "cita": "Reducción del número de firmas necesarias.",
+          "pagina": 74,
+          "fuente": "https://pacma.es/wp-content/uploads/2026/11/PE_GENERALES_29N26.pdf#page=74",
+          "fecha": "2026-11-15",
+          "verificada": true
+        },
+        {
+          "texto": "Cambiar a un sistema electoral de circunscripción única, sin barrera electoral y con reparto proporcional de escaños.",
+          "cita": "Cambio a un sistema electoral de circunscripción única, sin barrera electoral y con un reparto de escaños proporcional al número de votos.",
+          "pagina": 74,
+          "fuente": "https://pacma.es/wp-content/uploads/2026/11/PE_GENERALES_29N26.pdf#page=74",
+          "fecha": "2026-11-15",
+          "verificada": true
+        },
+        {
+          "texto": "Elegir los consejos de administración de las radiotelevisiones públicas mediante concursos públicos basados en méritos.",
+          "cita": "se debe garantizar que los consejos de administración y la dirección de las radiotelevisiones públicas se elijan mediante concursos públicos basados en méritos profesionales",
+          "pagina": 75,
+          "fuente": "https://pacma.es/wp-content/uploads/2026/11/PE_GENERALES_29N26.pdf#page=75",
+          "fecha": "2026-11-15",
+          "verificada": true
+        },
+        {
+          "texto": "Prohibir el reparto discrecional de campañas pagadas por instituciones o empresas públicas a medios privados.",
+          "cita": "se debe prohibir el reparto discrecional de campañas pagadas por instituciones o empresas públicas.",
+          "pagina": 75,
+          "fuente": "https://pacma.es/wp-content/uploads/2026/11/PE_GENERALES_29N26.pdf#page=75",
+          "fecha": "2026-11-15",
+          "verificada": true
+        },
+        {
+          "texto": "Reformar la Constitución para blindar las pensiones, garantizando que el sistema público no pueda recortarse ni privatizarse.",
+          "cita": "es inaplazable reformar la Constitución para blindar las pensiones, garantizando que el sistema público no pueda recortarse, ni privatizarse.",
+          "pagina": 80,
+          "fuente": "https://pacma.es/wp-content/uploads/2026/11/PE_GENERALES_29N26.pdf#page=80",
+          "fecha": "2026-11-15",
+          "verificada": true
+        }
+      ],
+      "empleo": [
+        {
+          "texto": "Fomentar el teletrabajo con incentivos fiscales, ayudas directas a la contratación y al equipamiento, y un servicio de intermediación entre empresas y personas trabajadoras.",
+          "cita": "apostamos por el fomento del teletrabajo, con medidas que faciliten, incentiven y promuevan esta modalidad laboral",
+          "pagina": 36,
+          "fuente": "https://pacma.es/wp-content/uploads/2026/11/PE_GENERALES_29N26.pdf#page=36",
+          "fecha": "2026-11-15",
+          "verificada": true
+        },
+        {
+          "texto": "Crear centros de trabajo intermedios en forma de coworking públicos en zonas que necesiten revitalización económica.",
+          "cita": "Otra de nuestras propuestas es el impulso para la creación de centros de trabajo intermedios, en forma de coworking públicos",
+          "pagina": 36,
+          "fuente": "https://pacma.es/wp-content/uploads/2026/11/PE_GENERALES_29N26.pdf#page=36",
+          "fecha": "2026-11-15",
+          "verificada": true
+        },
+        {
+          "texto": "Impulsar un Pacto de Estado por la Igualdad en el Empleo contra la discriminación laboral y salarial.",
+          "cita": "es necesario un Pacto de Estado por la Igualdad en el Empleo, a través del cual se pueda combatir la discriminación laboral y salarial todavía existente",
+          "pagina": 64,
+          "fuente": "https://pacma.es/wp-content/uploads/2026/11/PE_GENERALES_29N26.pdf#page=64",
+          "fecha": "2026-11-15",
+          "verificada": true
+        },
+        {
+          "texto": "Actualizar la Ley para promover la conciliación de la vida familiar y laboral de las personas trabajadoras.",
+          "cita": "Es necesaria una actualización de la Ley para promover la conciliación de la vida familiar y laboral de las personas trabajadoras",
+          "pagina": 65,
+          "fuente": "https://pacma.es/wp-content/uploads/2026/11/PE_GENERALES_29N26.pdf#page=65",
+          "fecha": "2026-11-15",
+          "verificada": true
+        },
+        {
+          "texto": "Elaborar un Plan nacional de formación, empleo y accesibilidad universal de las personas con discapacidad.",
+          "cita": "Elaboración y puesta en marcha de un Plan nacional para promover la formación, el empleo y la accesibilidad universal de las personas con discapacidad.",
+          "pagina": 66,
+          "fuente": "https://pacma.es/wp-content/uploads/2026/11/PE_GENERALES_29N26.pdf#page=66",
+          "fecha": "2026-11-15",
+          "verificada": true
+        },
+        {
+          "texto": "Crear un fondo de financiación con créditos a interés cero para autónomos y pymes que creen empleo estable u otros fines sostenibles.",
+          "cita": "proponemos la creación de un fondo de financiación destinado a facilitar el acceso de autónomos/as y pymes a líneas de crédito a interés cero",
+          "pagina": 68,
+          "fuente": "https://pacma.es/wp-content/uploads/2026/11/PE_GENERALES_29N26.pdf#page=68",
+          "fecha": "2026-11-15",
+          "verificada": true
+        },
+        {
+          "texto": "Ampliar plazas de Formación Profesional para el Empleo en construcción y fomentar la rehabilitación energética de edificios.",
+          "cita": "impulsar la oferta y el número de plazas de las acciones formativas de Formación Profesional para el Empleo en las diferentes ramas de la construcción",
+          "pagina": 68,
+          "fuente": "https://pacma.es/wp-content/uploads/2026/11/PE_GENERALES_29N26.pdf#page=68",
+          "fecha": "2026-11-15",
+          "verificada": true
+        },
+        {
+          "texto": "Crear una oferta turística alternativa para reducir la estacionalidad del empleo.",
+          "cita": "Desde PACMA proponemos la creación de un tejido de oferta turística alternativa al modelo actual",
+          "pagina": 67,
+          "fuente": "https://pacma.es/wp-content/uploads/2026/11/PE_GENERALES_29N26.pdf#page=67",
+          "fecha": "2026-11-15",
+          "verificada": true
+        }
+      ],
+      "sanidad": [
+        {
+          "texto": "Reintegrar al sistema sanitario público los servicios privatizados.",
+          "cita": "Reintegración al sistema sanitario público los servicios privatizados.",
+          "pagina": 56,
+          "fuente": "https://pacma.es/wp-content/uploads/2026/11/PE_GENERALES_29N26.pdf#page=56",
+          "fecha": "2026-11-15",
+          "verificada": true
+        },
+        {
+          "texto": "Reforzar la atención primaria y su conexión con el sistema sanitario.",
+          "cita": "Refuerzo de la atención primaria y de su conexión con el sistema sanitario.",
+          "pagina": 56,
+          "fuente": "https://pacma.es/wp-content/uploads/2026/11/PE_GENERALES_29N26.pdf#page=56",
+          "fecha": "2026-11-15",
+          "verificada": true
+        },
+        {
+          "texto": "Elaborar planes de mejora de las listas de espera para consultas, pruebas diagnósticas e intervenciones quirúrgicas.",
+          "cita": "Elaboración de planes de mejora de las listas de espera para consultas, pruebas diagnósticas e intervenciones quirúrgicas.",
+          "pagina": 56,
+          "fuente": "https://pacma.es/wp-content/uploads/2026/11/PE_GENERALES_29N26.pdf#page=56",
+          "fecha": "2026-11-15",
+          "verificada": true
+        },
+        {
+          "texto": "Desarrollar planes de atención sanitaria domiciliaria.",
+          "cita": "Desarrollo de planes de atención sanitaria domiciliaria.",
+          "pagina": 56,
+          "fuente": "https://pacma.es/wp-content/uploads/2026/11/PE_GENERALES_29N26.pdf#page=56",
+          "fecha": "2026-11-15",
+          "verificada": true
+        },
+        {
+          "texto": "Incrementar el número de especialistas en psiquiatría y psicología en la sanidad pública.",
+          "cita": "Incrementar el número de especialistas en psiquiatría y psicología en la sanidad pública.",
+          "pagina": 58,
+          "fuente": "https://pacma.es/wp-content/uploads/2026/11/PE_GENERALES_29N26.pdf#page=58",
+          "fecha": "2026-11-15",
+          "verificada": true
+        },
+        {
+          "texto": "Impulsar una atención bucodental gratuita con asistencia dental básica para todas las personas.",
+          "cita": "Desde PACMA defendemos el impulso de una atención bucodental gratuita, con una asistencia dental básica para todas las personas",
+          "pagina": 59,
+          "fuente": "https://pacma.es/wp-content/uploads/2026/11/PE_GENERALES_29N26.pdf#page=59",
+          "fecha": "2026-11-15",
+          "verificada": true
+        },
+        {
+          "texto": "Oponerse al copago sanitario.",
+          "cita": "3.2.2.Oposición al copago",
+          "pagina": 56,
+          "fuente": "https://pacma.es/wp-content/uploads/2026/11/PE_GENERALES_29N26.pdf#page=56",
+          "fecha": "2026-11-15",
+          "verificada": true
+        },
+        {
+          "texto": "Incorporar más dietistas-nutricionistas a la sanidad pública.",
+          "cita": "Desde PACMA llevamos años reivindicando una mayor presencia de la figura del dietista-\nnutricionista",
+          "pagina": 56,
+          "fuente": "https://pacma.es/wp-content/uploads/2026/11/PE_GENERALES_29N26.pdf#page=56",
+          "fecha": "2026-11-15",
+          "verificada": true
+        },
+        {
+          "texto": "Implantar protocolos de detección precoz de violencia machista en el ámbito sanitario, con formación especializada para el personal sanitario.",
+          "cita": "Protocolos de detección precoz en el ámbito sanitario, con formación especializada para el personal sanitario.",
+          "pagina": 76,
+          "fuente": "https://pacma.es/wp-content/uploads/2026/11/PE_GENERALES_29N26.pdf#page=76",
+          "fecha": "2026-11-15",
+          "verificada": true
+        },
+        {
+          "texto": "Fortalecer los servicios de urgencias y transporte sanitario para las personas mayores.",
+          "cita": "Fortalecimiento de los servicios de urgencias y transporte sanitario.",
+          "pagina": 79,
+          "fuente": "https://pacma.es/wp-content/uploads/2026/11/PE_GENERALES_29N26.pdf#page=79",
+          "fecha": "2026-11-15",
+          "verificada": true
+        }
+      ]
     }
   },
   "resumen": {},
@@ -5323,6 +6661,18 @@
         "vox": {
           "postura": "sin",
           "fecha": "2026-11-13"
+        },
+        "pnv": {
+          "postura": "sin",
+          "fecha": "2026-11-15"
+        },
+        "salf": {
+          "postura": "sin",
+          "fecha": "2026-11-15"
+        },
+        "pacma": {
+          "postura": "sin",
+          "fecha": "2026-11-15"
         }
       }
     },
@@ -5362,6 +6712,22 @@
           "pagina": 25,
           "fuente": "https://www.voxespana.es/wp-content/uploads/2026/11/Programa-completo-A5-1.pdf#page=25",
           "fecha": "2026-11-13",
+          "verificada": true
+        },
+        "pnv": {
+          "postura": "sin",
+          "fecha": "2026-11-15"
+        },
+        "salf": {
+          "postura": "sin",
+          "fecha": "2026-11-15"
+        },
+        "pacma": {
+          "postura": "matiz",
+          "cita": "Desincentivar la compra especulativa, aplicando recargos fiscales a la compra de viviendas por parte de fondos de inversión y no residentes.",
+          "pagina": 70,
+          "fuente": "https://pacma.es/wp-content/uploads/2026/11/PE_GENERALES_29N26.pdf#page=70",
+          "fecha": "2026-11-15",
           "verificada": true
         }
       }
@@ -5403,6 +6769,22 @@
           "fuente": "https://www.voxespana.es/wp-content/uploads/2026/11/Programa-completo-A5-1.pdf#page=9",
           "fecha": "2026-11-13",
           "verificada": true
+        },
+        "pnv": {
+          "postura": "sin",
+          "fecha": "2026-11-15"
+        },
+        "salf": {
+          "postura": "si",
+          "cita": "35.000 euros libres de IRPF para todos.",
+          "pagina": 12,
+          "fuente": "https://www.seacabolafiesta.com/SALF_Contrato_Electoral_29N.pdf?v=073425b9522d#page=12",
+          "fecha": "2026-11-15",
+          "verificada": true
+        },
+        "pacma": {
+          "postura": "sin",
+          "fecha": "2026-11-15"
         }
       }
     },
@@ -5439,6 +6821,22 @@
         "vox": {
           "postura": "sin",
           "fecha": "2026-11-13"
+        },
+        "pnv": {
+          "postura": "sin",
+          "fecha": "2026-11-15"
+        },
+        "salf": {
+          "postura": "no",
+          "cita": "Fuera también el impuesto a las grandes fortunas.",
+          "pagina": 13,
+          "fuente": "https://www.seacabolafiesta.com/SALF_Contrato_Electoral_29N.pdf?v=073425b9522d#page=13",
+          "fecha": "2026-11-15",
+          "verificada": true
+        },
+        "pacma": {
+          "postura": "sin",
+          "fecha": "2026-11-15"
         }
       }
     },
@@ -5479,6 +6877,22 @@
           "fuente": "https://www.voxespana.es/wp-content/uploads/2026/11/Programa-completo-A5-1.pdf#page=15",
           "fecha": "2026-11-13",
           "verificada": true
+        },
+        "pnv": {
+          "postura": "sin",
+          "fecha": "2026-11-15"
+        },
+        "salf": {
+          "postura": "no",
+          "cita": "Fin de las regularizaciones.",
+          "pagina": 17,
+          "fuente": "https://www.seacabolafiesta.com/SALF_Contrato_Electoral_29N.pdf?v=073425b9522d#page=17",
+          "fecha": "2026-11-15",
+          "verificada": true
+        },
+        "pacma": {
+          "postura": "sin",
+          "fecha": "2026-11-15"
         }
       }
     },
@@ -5515,6 +6929,22 @@
           "fuente": "https://www.voxespana.es/wp-content/uploads/2026/11/Programa-completo-A5-1.pdf#page=56",
           "fecha": "2026-11-13",
           "verificada": false
+        },
+        "pnv": {
+          "postura": "sin",
+          "fecha": "2026-11-15"
+        },
+        "salf": {
+          "postura": "si",
+          "cita": "Cumplimiento íntegro para condenados por corrupción y prohibición legal de indulto.",
+          "pagina": 25,
+          "fuente": "https://www.seacabolafiesta.com/SALF_Contrato_Electoral_29N.pdf?v=073425b9522d#page=25",
+          "fecha": "2026-11-15",
+          "verificada": true
+        },
+        "pacma": {
+          "postura": "sin",
+          "fecha": "2026-11-15"
         }
       }
     },
@@ -5551,6 +6981,18 @@
         "vox": {
           "postura": "sin",
           "fecha": "2026-11-13"
+        },
+        "pnv": {
+          "postura": "sin",
+          "fecha": "2026-11-15"
+        },
+        "salf": {
+          "postura": "sin",
+          "fecha": "2026-11-15"
+        },
+        "pacma": {
+          "postura": "sin",
+          "fecha": "2026-11-15"
         }
       }
     },
@@ -5579,6 +7021,22 @@
         "vox": {
           "postura": "sin",
           "fecha": "2026-11-13"
+        },
+        "pnv": {
+          "postura": "sin",
+          "fecha": "2026-11-15"
+        },
+        "salf": {
+          "postura": "si",
+          "cita": "60 días para cirugía, 30 para especialista, 7 para pruebas prioritarias.",
+          "pagina": 22,
+          "fuente": "https://www.seacabolafiesta.com/SALF_Contrato_Electoral_29N.pdf?v=073425b9522d#page=22",
+          "fecha": "2026-11-15",
+          "verificada": true
+        },
+        "pacma": {
+          "postura": "sin",
+          "fecha": "2026-11-15"
         }
       }
     }
@@ -5608,6 +7066,21 @@
       "url": "https://www.voxespana.es/wp-content/uploads/2026/11/Programa-completo-A5-1.pdf",
       "fecha": "2026-11-13",
       "paginas": 66
+    },
+    "pnv": {
+      "url": "https://www.eaj-pnv.eus/es/adjuntos-documentos/21765/pdf/programa-electoral-29n",
+      "fecha": "2026-11-15",
+      "paginas": 43
+    },
+    "salf": {
+      "url": "https://www.seacabolafiesta.com/SALF_Contrato_Electoral_29N.pdf?v=073425b9522d",
+      "fecha": "2026-11-15",
+      "paginas": 40
+    },
+    "pacma": {
+      "url": "https://pacma.es/wp-content/uploads/2026/11/PE_GENERALES_29N26.pdf",
+      "fecha": "2026-11-15",
+      "paginas": 82
     }
   },
   "debates": [],
