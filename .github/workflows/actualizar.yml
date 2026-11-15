@@ -20,7 +20,9 @@ permissions:
   issues: write
 
 concurrency:
-  group: actualizar
+  # Los avisos tras editar datos.json van cada uno en su grupo: si se aprueban varios cambios seguidos,
+  # GitHub no cancela los que esperan (solo deja uno en cola por grupo) y no se pierde ningún post en X.
+  group: actualizar-${{ github.event_name == 'push' && github.sha || 'programado' }}
   cancel-in-progress: false
 
 jobs:
