@@ -2134,6 +2134,460 @@
           "verificada": false
         }
       ]
+    },
+    "pacma": {
+      "vivienda": [
+        {
+          "texto": "Construir vivienda pública de forma masiva y adquirir viviendas vacías para destinarlas a compra y alquiler social.",
+          "cita": "La solución real pasa por la construcción masiva de vivienda pública, así como por la adquisición de viviendas vacías, para destinarlas tanto a compra como a alquiler social.",
+          "pagina": 69,
+          "fuente": "https://pacma.es/wp-content/uploads/2026/11/PE_GENERALES_29N26.pdf#page=69",
+          "fecha": "2026-11-15",
+          "verificada": true
+        },
+        {
+          "texto": "Ofrecer bonificaciones del 100% en el IRPF o exenciones del IBI a pequeños propietarios que alquilen un 10% o 15% por debajo del precio medio de la zona.",
+          "cita": "ofreciendo bonificaciones del 100% en el IRPF o exenciones del IBI a los pequeños propietarios/as que pongan su vivienda en el mercado un 10% o 15% por debajo del precio medio de la zona",
+          "pagina": 70,
+          "fuente": "https://pacma.es/wp-content/uploads/2026/11/PE_GENERALES_29N26.pdf#page=70",
+          "fecha": "2026-11-15",
+          "verificada": true
+        },
+        {
+          "texto": "Reducir temporalmente el ITP en vivienda de segunda mano y el IVA en obra nueva para compradores de primera vivienda habitual.",
+          "cita": "reduciendo temporalmente el Impuesto de Transmisiones Patrimoniales en viviendas de segunda mano y el IVA en viviendas de obra nueva, para compradores de primera vivienda habitual.",
+          "pagina": 70,
+          "fuente": "https://pacma.es/wp-content/uploads/2026/11/PE_GENERALES_29N26.pdf#page=70",
+          "fecha": "2026-11-15",
+          "verificada": true
+        },
+        {
+          "texto": "Crear seguros o avales públicos para dar seguridad jurídica a los propietarios ante impagos de alquiler.",
+          "cita": "Seguridad jurídica ante impagos, mediante seguros o avales públicos.",
+          "pagina": 70,
+          "fuente": "https://pacma.es/wp-content/uploads/2026/11/PE_GENERALES_29N26.pdf#page=70",
+          "fecha": "2026-11-15",
+          "verificada": true
+        },
+        {
+          "texto": "Establecer un registro obligatorio para el alquiler por habitaciones y de temporada.",
+          "cita": "blindando legalmente el uso del alquiler por habitaciones y de temporada mediante un registro obligatorio",
+          "pagina": 70,
+          "fuente": "https://pacma.es/wp-content/uploads/2026/11/PE_GENERALES_29N26.pdf#page=70",
+          "fecha": "2026-11-15",
+          "verificada": true
+        },
+        {
+          "texto": "Aplicar recargos fiscales a la compra de viviendas por fondos de inversión y no residentes.",
+          "cita": "Desincentivar la compra especulativa, aplicando recargos fiscales a la compra de viviendas por parte de fondos de inversión y no residentes.",
+          "pagina": 70,
+          "fuente": "https://pacma.es/wp-content/uploads/2026/11/PE_GENERALES_29N26.pdf#page=70",
+          "fecha": "2026-11-15",
+          "verificada": true
+        },
+        {
+          "texto": "Restringir las licencias de pisos turísticos en cascos históricos y barrios tensionados.",
+          "cita": "Restringir las licencias de pisos turísticos en cascos históricos y barrios tensionados.",
+          "pagina": 70,
+          "fuente": "https://pacma.es/wp-content/uploads/2026/11/PE_GENERALES_29N26.pdf#page=70",
+          "fecha": "2026-11-15",
+          "verificada": true
+        },
+        {
+          "texto": "Reformar la Ley de Arrendamientos Urbanos para declarar nulas las cláusulas que prohíban animales de compañía en los contratos.",
+          "cita": "impulsaremos una reforma de la Ley Arrendamientos Urbanos que, de manera expresa, declare nulas las cláusulas que prohíban la tenencia de animales de compañía en los contratos.",
+          "pagina": 70,
+          "fuente": "https://pacma.es/wp-content/uploads/2026/11/PE_GENERALES_29N26.pdf#page=70",
+          "fecha": "2026-11-15",
+          "verificada": true
+        }
+      ],
+      "economia": [
+        {
+          "texto": "Reducir el IVA de los servicios veterinarios al tipo superreducido del 4% o a su exención, tras reconocer las clínicas veterinarias como centros sanitarios",
+          "cita": "Este reconocimiento permitiría una necesaria reducción del IVA de los servicios veterinarios, no al tipo reducido del 10%, sino al tipo superreducido del 4% e, incluso, a su exención.",
+          "pagina": 31,
+          "fuente": "https://pacma.es/wp-content/uploads/2026/11/PE_GENERALES_29N26.pdf#page=31",
+          "fecha": "2026-11-15",
+          "verificada": true
+        },
+        {
+          "texto": "Introducir en el IRPF una deducción de hasta el 10% de los gastos veterinarios, con límite de renta y un ahorro máximo de 500 € anuales",
+          "cita": "de manera que las familias interespecie se puedan deducir hasta un 10% de los gastos veterinarios, con un ahorro máximo de hasta 500€ anuales.",
+          "pagina": 31,
+          "fuente": "https://pacma.es/wp-content/uploads/2026/11/PE_GENERALES_29N26.pdf#page=31",
+          "fecha": "2026-11-15",
+          "verificada": true
+        },
+        {
+          "texto": "Aplicar un impuesto climático a los productos de origen animal, calculado según las emisiones asociadas a la producción de cada alimento",
+          "cita": "Mayor carga impositiva a los productos de origen animal, aplicando un impuesto climático, cuyo gravamen se calcule en función de las emisiones generadas asociadas a la producción de cada alimento",
+          "pagina": 37,
+          "fuente": "https://pacma.es/wp-content/uploads/2026/11/PE_GENERALES_29N26.pdf#page=37",
+          "fecha": "2026-11-15",
+          "verificada": true
+        },
+        {
+          "texto": "Aplicar mayor tipo de IVA a los lácteos de origen animal y menor a sus equivalentes vegetales",
+          "cita": "Mayor tipo impositivo a las leches, yogures, quesos y demás productos lácteos de origen animal y menor a sus equivalentes de origen vegetal",
+          "pagina": 38,
+          "fuente": "https://pacma.es/wp-content/uploads/2026/11/PE_GENERALES_29N26.pdf#page=38",
+          "fecha": "2026-11-15",
+          "verificada": true
+        },
+        {
+          "texto": "Subvencionar los alimentos vegetales saludables como frutas, verduras, legumbres, semillas, cereales o algas",
+          "cita": "Subvenciones a los alimentos vegetales saludables, cuya producción es más respetuosa con el medio ambiente, como frutas, verduras, legumbres, semillas, cereales o algas.",
+          "pagina": 38,
+          "fuente": "https://pacma.es/wp-content/uploads/2026/11/PE_GENERALES_29N26.pdf#page=38",
+          "fecha": "2026-11-15",
+          "verificada": true
+        },
+        {
+          "texto": "Exigir por ley a los fabricantes ampliar las garantías y facilitar la reparación de dispositivos para combatir la obsolescencia programada",
+          "cita": "la legislación debe exigir a los fabricantes que amplíen las garantías, permitan extraer y sustituir piezas fácilmente para reparar los dispositivos",
+          "pagina": 45,
+          "fuente": "https://pacma.es/wp-content/uploads/2026/11/PE_GENERALES_29N26.pdf#page=45",
+          "fecha": "2026-11-15",
+          "verificada": true
+        },
+        {
+          "texto": "Crear una Estrategia Nacional de Seguridad Alimentaria con economatos sociales y comercios locales con precios bonificados según la renta.",
+          "cita": "el establecimiento de economatos sociales y el desarrollo de acuerdos con los comercios locales para garantizar el acceso a productos de alimentación con precios bonificados en función de la renta disponible",
+          "pagina": 54,
+          "fuente": "https://pacma.es/wp-content/uploads/2026/11/PE_GENERALES_29N26.pdf#page=54",
+          "fecha": "2026-11-15",
+          "verificada": true
+        },
+        {
+          "texto": "Establecer un mínimo vital de agua para garantizar su acceso a las personas vulnerables.",
+          "cita": "mediante el establecimiento de un mínimo vital de agua.",
+          "pagina": 54,
+          "fuente": "https://pacma.es/wp-content/uploads/2026/11/PE_GENERALES_29N26.pdf#page=54",
+          "fecha": "2026-11-15",
+          "verificada": true
+        },
+        {
+          "texto": "Facilitar el acceso al bono social eléctrico mediante comunicación entre beneficiarios, servicios sociales y suministradoras.",
+          "cita": "otras medidas que faciliten el acceso al bono social eléctrico",
+          "pagina": 55,
+          "fuente": "https://pacma.es/wp-content/uploads/2026/11/PE_GENERALES_29N26.pdf#page=55",
+          "fecha": "2026-11-15",
+          "verificada": true
+        },
+        {
+          "texto": "Crear un fondo de financiación con créditos a interés cero para autónomos y pymes que generen empleo estable o reduzcan su impacto ambiental.",
+          "cita": "proponemos la creación de un fondo de financiación destinado a facilitar el acceso de autónomos/as y pymes a líneas de crédito a interés cero",
+          "pagina": 68,
+          "fuente": "https://pacma.es/wp-content/uploads/2026/11/PE_GENERALES_29N26.pdf#page=68",
+          "fecha": "2026-11-15",
+          "verificada": true
+        }
+      ],
+      "inmigracion": [
+        {
+          "texto": "Reformular los criterios de matriculación para evitar la concentración excesiva de alumnado extranjero en determinados centros públicos.",
+          "cita": "reformulando los algoritmos y criterios de matriculación y reparto de plazas para evitar la concentración excesiva de alumnado extranjero en determinados centros públicos",
+          "pagina": 67,
+          "fuente": "https://pacma.es/wp-content/uploads/2026/11/PE_GENERALES_29N26.pdf#page=67",
+          "fecha": "2026-11-15",
+          "verificada": true
+        },
+        {
+          "texto": "Incorporar mediadores interculturales a las plantillas de colegios e institutos.",
+          "cita": "Incorporación a las plantillas de los colegios e institutos de mediadores interculturales que compartan el idioma y contexto de las comunidades mayoritarias del barrio",
+          "pagina": 67,
+          "fuente": "https://pacma.es/wp-content/uploads/2026/11/PE_GENERALES_29N26.pdf#page=67",
+          "fecha": "2026-11-15",
+          "verificada": true
+        },
+        {
+          "texto": "Agilizar la homologación de títulos para convalidar los estudios realizados por jóvenes en sus países de origen.",
+          "cita": "Agilización en la homologación de títulos, flexibilizando y acelerando la burocracia para convalidar los estudios que los/as jóvenes hayan realizado en sus países de origen",
+          "pagina": 67,
+          "fuente": "https://pacma.es/wp-content/uploads/2026/11/PE_GENERALES_29N26.pdf#page=67",
+          "fecha": "2026-11-15",
+          "verificada": true
+        },
+        {
+          "texto": "Garantizar el acceso unificado a derechos como la educación, la sanidad y el alojamiento para las personas migrantes.",
+          "cita": "Acceso unificado a todos los derechos, como la educación, la sanidad y el alojamiento para una inclusión efectiva.",
+          "pagina": 81,
+          "fuente": "https://pacma.es/wp-content/uploads/2026/11/PE_GENERALES_29N26.pdf#page=81",
+          "fecha": "2026-11-15",
+          "verificada": true
+        },
+        {
+          "texto": "Aumentar el número de plazas en los centros de acogida, con especial atención a los menores migrantes no acompañados.",
+          "cita": "Aumento del número de plazas en los centros de acogida, con especial atención a la situación de los niños y niñas migrantes no acompañados.",
+          "pagina": 81,
+          "fuente": "https://pacma.es/wp-content/uploads/2026/11/PE_GENERALES_29N26.pdf#page=81",
+          "fecha": "2026-11-15",
+          "verificada": true
+        },
+        {
+          "texto": "Impulsar equipos técnicos multidisciplinares en los centros de acogida, coordinados con equipos de inclusión y jurídicos.",
+          "cita": "Impulso de equipos técnicos multidisciplinares en los centros de acogida, que trabajen en coordinación con equipos de inclusión y jurídicos.",
+          "pagina": 81,
+          "fuente": "https://pacma.es/wp-content/uploads/2026/11/PE_GENERALES_29N26.pdf#page=81",
+          "fecha": "2026-11-15",
+          "verificada": true
+        },
+        {
+          "texto": "Poner en marcha programas y campañas contra la xenofobia, el racismo y la exclusión social.",
+          "cita": "Puesta en marcha de programas y campañas contra la xenofobia, el racismo y la exclusión social.",
+          "pagina": 81,
+          "fuente": "https://pacma.es/wp-content/uploads/2026/11/PE_GENERALES_29N26.pdf#page=81",
+          "fecha": "2026-11-15",
+          "verificada": true
+        },
+        {
+          "texto": "Fomentar programas de acogida con condiciones dignas para potenciar la autonomía y el bienestar de las personas refugiadas.",
+          "cita": "Fomento de programas de acogida que garanticen unas condiciones dignas y comprendan actuaciones dirigidas a potenciar la autonomía y el bienestar de las personas refugiadas.",
+          "pagina": 81,
+          "fuente": "https://pacma.es/wp-content/uploads/2026/11/PE_GENERALES_29N26.pdf#page=81",
+          "fecha": "2026-11-15",
+          "verificada": true
+        },
+        {
+          "texto": "Mejorar la atención a inmigrantes y refugiados con asesoramiento sobre inmigración, refugio y retorno voluntario.",
+          "cita": "Mejora en la atención a personas inmigrantes y refugiadas, con asesoramiento sobre inmigración, refugio y retorno voluntario",
+          "pagina": 81,
+          "fuente": "https://pacma.es/wp-content/uploads/2026/11/PE_GENERALES_29N26.pdf#page=81",
+          "fecha": "2026-11-15",
+          "verificada": true
+        }
+      ],
+      "politica": [
+        {
+          "texto": "Eliminar los aforamientos.",
+          "cita": "Eliminación de los aforamientos.",
+          "pagina": 72,
+          "fuente": "https://pacma.es/wp-content/uploads/2026/11/PE_GENERALES_29N26.pdf#page=72",
+          "fecha": "2026-11-15",
+          "verificada": true
+        },
+        {
+          "texto": "Obligar a los partidos a publicar la liquidación de gastos e ingresos electorales en los tres meses posteriores a las elecciones.",
+          "cita": "Publicación por parte de los partidos políticos de la liquidación de gastos e ingresos electorales, en los tres meses siguientes a las elecciones.",
+          "pagina": 73,
+          "fuente": "https://pacma.es/wp-content/uploads/2026/11/PE_GENERALES_29N26.pdf#page=73",
+          "fecha": "2026-11-15",
+          "verificada": true
+        },
+        {
+          "texto": "Aumentar la transparencia y el control en la contratación pública y en la aprobación de sobrecostes.",
+          "cita": "Mayor transparencia y control en la contratación pública, uno de los principales focos de la corrupción.",
+          "pagina": 73,
+          "fuente": "https://pacma.es/wp-content/uploads/2026/11/PE_GENERALES_29N26.pdf#page=73",
+          "fecha": "2026-11-15",
+          "verificada": true
+        },
+        {
+          "texto": "Limitar los cargos de libre designación al nivel superior de cada administración y exigir idoneidad técnica.",
+          "cita": "reservando los cargos de libre designación al nivel superior de cada administración, limitando su número y exigiendo requisitos de idoneidad técnica.",
+          "pagina": 73,
+          "fuente": "https://pacma.es/wp-content/uploads/2026/11/PE_GENERALES_29N26.pdf#page=73",
+          "fecha": "2026-11-15",
+          "verificada": true
+        },
+        {
+          "texto": "Reformar la Ley de Iniciativa Legislativa Popular reduciendo el número de firmas necesarias.",
+          "cita": "Reducción del número de firmas necesarias.",
+          "pagina": 74,
+          "fuente": "https://pacma.es/wp-content/uploads/2026/11/PE_GENERALES_29N26.pdf#page=74",
+          "fecha": "2026-11-15",
+          "verificada": true
+        },
+        {
+          "texto": "Cambiar a un sistema electoral de circunscripción única, sin barrera electoral y con reparto proporcional de escaños.",
+          "cita": "Cambio a un sistema electoral de circunscripción única, sin barrera electoral y con un reparto de escaños proporcional al número de votos.",
+          "pagina": 74,
+          "fuente": "https://pacma.es/wp-content/uploads/2026/11/PE_GENERALES_29N26.pdf#page=74",
+          "fecha": "2026-11-15",
+          "verificada": true
+        },
+        {
+          "texto": "Suprimir el requisito de firmas para avalar las candidaturas de partidos sin representación.",
+          "cita": "Supresión del requisito de presentación de firmas para avalar las candidaturas de los partidos que aún no tengan representación.",
+          "pagina": 74,
+          "fuente": "https://pacma.es/wp-content/uploads/2026/11/PE_GENERALES_29N26.pdf#page=74",
+          "fecha": "2026-11-15",
+          "verificada": true
+        },
+        {
+          "texto": "Elegir los consejos de administración y direcciones de las radiotelevisiones públicas mediante concursos públicos por méritos profesionales.",
+          "cita": "se debe garantizar que los consejos de administración y la dirección de las radiotelevisiones públicas se elijan mediante concursos públicos basados en méritos profesionales",
+          "pagina": 75,
+          "fuente": "https://pacma.es/wp-content/uploads/2026/11/PE_GENERALES_29N26.pdf#page=75",
+          "fecha": "2026-11-15",
+          "verificada": true
+        },
+        {
+          "texto": "Prohibir el reparto discrecional de campañas pagadas por instituciones o empresas públicas a medios privados.",
+          "cita": "se debe prohibir el reparto discrecional de campañas pagadas por instituciones o empresas públicas.",
+          "pagina": 75,
+          "fuente": "https://pacma.es/wp-content/uploads/2026/11/PE_GENERALES_29N26.pdf#page=75",
+          "fecha": "2026-11-15",
+          "verificada": true
+        },
+        {
+          "texto": "Reformar la Constitución para blindar las pensiones públicas frente a recortes y privatización.",
+          "cita": "es inaplazable reformar la Constitución para blindar las pensiones, garantizando que el sistema público no pueda recortarse, ni privatizarse.",
+          "pagina": 80,
+          "fuente": "https://pacma.es/wp-content/uploads/2026/11/PE_GENERALES_29N26.pdf#page=80",
+          "fecha": "2026-11-15",
+          "verificada": true
+        }
+      ],
+      "empleo": [
+        {
+          "texto": "Fomentar el teletrabajo con incentivos fiscales, ayudas directas a la contratación y al equipamiento de puestos remotos y un servicio de intermediación",
+          "cita": "mediante un sistema de incentivos fiscales, ayudas directas para la contratación y/o el equipamiento de los puestos remotos, así como de un servicio de intermediación, entre empresas y personas trabajadoras.",
+          "pagina": 36,
+          "fuente": "https://pacma.es/wp-content/uploads/2026/11/PE_GENERALES_29N26.pdf#page=36",
+          "fecha": "2026-11-15",
+          "verificada": true
+        },
+        {
+          "texto": "Impulsar centros de trabajo intermedios en forma de coworking públicos en zonas que necesiten revitalización económica",
+          "cita": "el impulso para la creación de centros de trabajo intermedios, en forma de coworking públicos, que se proyecten en zonas que necesiten ser revitalizadas y reactivadas económicamente",
+          "pagina": 36,
+          "fuente": "https://pacma.es/wp-content/uploads/2026/11/PE_GENERALES_29N26.pdf#page=36",
+          "fecha": "2026-11-15",
+          "verificada": true
+        },
+        {
+          "texto": "Ampliar las competencias de los delegados y miembros de los comités de prevención de riesgos laborales.",
+          "cita": "la ampliación de las competencias de los delegados y delegadas, y miembros de los comités de prevención de riesgos laborales en las empresas",
+          "pagina": 57,
+          "fuente": "https://pacma.es/wp-content/uploads/2026/11/PE_GENERALES_29N26.pdf#page=57",
+          "fecha": "2026-11-15",
+          "verificada": true
+        },
+        {
+          "texto": "Aprobar un Pacto de Estado por la Igualdad en el Empleo contra la discriminación laboral y salarial.",
+          "cita": "es necesario un Pacto de Estado por la Igualdad en el Empleo, a través del cual se pueda combatir la discriminación laboral y salarial todavía existente",
+          "pagina": 64,
+          "fuente": "https://pacma.es/wp-content/uploads/2026/11/PE_GENERALES_29N26.pdf#page=64",
+          "fecha": "2026-11-15",
+          "verificada": true
+        },
+        {
+          "texto": "Fomentar que las empresas permitan adaptar duración y distribución de la jornada y el teletrabajo por motivos familiares.",
+          "cita": "como permitir a sus trabajadores adaptar la duración y distribución de la jornada laboral en función de sus circunstancias personales y familiares, o ejercer el teletrabajo.",
+          "pagina": 65,
+          "fuente": "https://pacma.es/wp-content/uploads/2026/11/PE_GENERALES_29N26.pdf#page=65",
+          "fecha": "2026-11-15",
+          "verificada": true
+        },
+        {
+          "texto": "Elaborar un Plan nacional de formación, empleo y accesibilidad universal para personas con discapacidad.",
+          "cita": "Elaboración y puesta en marcha de un Plan nacional para promover la formación, el empleo y la accesibilidad universal de las personas con discapacidad.",
+          "pagina": 66,
+          "fuente": "https://pacma.es/wp-content/uploads/2026/11/PE_GENERALES_29N26.pdf#page=66",
+          "fecha": "2026-11-15",
+          "verificada": true
+        },
+        {
+          "texto": "Crear una oferta turística alternativa para combatir la estacionalidad del empleo.",
+          "cita": "Desde PACMA proponemos la creación de un tejido de oferta turística alternativa al modelo actual",
+          "pagina": 67,
+          "fuente": "https://pacma.es/wp-content/uploads/2026/11/PE_GENERALES_29N26.pdf#page=67",
+          "fecha": "2026-11-15",
+          "verificada": true
+        },
+        {
+          "texto": "Aumentar la oferta y las plazas de Formación Profesional para el Empleo en las ramas de la construcción.",
+          "cita": "impulsar la oferta y el número de plazas de las acciones formativas de Formación Profesional para el Empleo en las diferentes ramas de la construcción",
+          "pagina": 68,
+          "fuente": "https://pacma.es/wp-content/uploads/2026/11/PE_GENERALES_29N26.pdf#page=68",
+          "fecha": "2026-11-15",
+          "verificada": true
+        }
+      ],
+      "sanidad": [
+        {
+          "texto": "Reintegrar al sistema sanitario público los servicios privatizados.",
+          "cita": "Reintegración al sistema sanitario público los servicios privatizados.",
+          "pagina": 56,
+          "fuente": "https://pacma.es/wp-content/uploads/2026/11/PE_GENERALES_29N26.pdf#page=56",
+          "fecha": "2026-11-15",
+          "verificada": true
+        },
+        {
+          "texto": "Reforzar la atención primaria y su conexión con el resto del sistema sanitario.",
+          "cita": "Refuerzo de la atención primaria y de su conexión con el sistema sanitario.",
+          "pagina": 56,
+          "fuente": "https://pacma.es/wp-content/uploads/2026/11/PE_GENERALES_29N26.pdf#page=56",
+          "fecha": "2026-11-15",
+          "verificada": true
+        },
+        {
+          "texto": "Elaborar planes de mejora de las listas de espera para consultas, pruebas diagnósticas e intervenciones quirúrgicas.",
+          "cita": "Elaboración de planes de mejora de las listas de espera para consultas, pruebas diagnósticas e intervenciones quirúrgicas.",
+          "pagina": 56,
+          "fuente": "https://pacma.es/wp-content/uploads/2026/11/PE_GENERALES_29N26.pdf#page=56",
+          "fecha": "2026-11-15",
+          "verificada": true
+        },
+        {
+          "texto": "Rechazar el copago sanitario y garantizar una sanidad pública sin costes adicionales.",
+          "cita": "Un sistema de salud pública, por definición, debe garantizar una sanidad de calidad y sin costes adicionales para una ciudadanía que ya la financia a través de sus impuestos",
+          "pagina": 56,
+          "fuente": "https://pacma.es/wp-content/uploads/2026/11/PE_GENERALES_29N26.pdf#page=56",
+          "fecha": "2026-11-15",
+          "verificada": true
+        },
+        {
+          "texto": "Incrementar el número de especialistas en psiquiatría y psicología en la sanidad pública.",
+          "cita": "Incrementar el número de especialistas en psiquiatría y psicología en la sanidad pública.",
+          "pagina": 58,
+          "fuente": "https://pacma.es/wp-content/uploads/2026/11/PE_GENERALES_29N26.pdf#page=58",
+          "fecha": "2026-11-15",
+          "verificada": true
+        },
+        {
+          "texto": "Impulsar una atención bucodental gratuita con asistencia dental básica para todas las personas.",
+          "cita": "Desde PACMA defendemos el impulso de una atención bucodental gratuita, con una asistencia dental básica para todas las personas",
+          "pagina": 59,
+          "fuente": "https://pacma.es/wp-content/uploads/2026/11/PE_GENERALES_29N26.pdf#page=59",
+          "fecha": "2026-11-15",
+          "verificada": true
+        },
+        {
+          "texto": "Implantar protocolos de detección precoz de violencia machista en el ámbito sanitario, con formación especializada para el personal sanitario.",
+          "cita": "Protocolos de detección precoz en el ámbito sanitario, con formación especializada para el personal sanitario.",
+          "pagina": 76,
+          "fuente": "https://pacma.es/wp-content/uploads/2026/11/PE_GENERALES_29N26.pdf#page=76",
+          "fecha": "2026-11-15",
+          "verificada": true
+        },
+        {
+          "texto": "Fortalecer los servicios de urgencias y transporte sanitario para las personas mayores.",
+          "cita": "Fortalecimiento de los servicios de urgencias y transporte sanitario.",
+          "pagina": 79,
+          "fuente": "https://pacma.es/wp-content/uploads/2026/11/PE_GENERALES_29N26.pdf#page=79",
+          "fecha": "2026-11-15",
+          "verificada": true
+        },
+        {
+          "texto": "Reconocer y garantizar condiciones dignas para el personal sanitario y asistencial.",
+          "cita": "Reconocimiento y condiciones dignas para el personal sanitario y asistencial.",
+          "pagina": 79,
+          "fuente": "https://pacma.es/wp-content/uploads/2026/11/PE_GENERALES_29N26.pdf#page=79",
+          "fecha": "2026-11-15",
+          "verificada": true
+        },
+        {
+          "texto": "Incrementar los recursos para ofrecer un tratamiento domiciliario adecuado a las personas mayores.",
+          "cita": "Incremento de los recursos para ofrecer un tratamiento domiciliario adecuado.",
+          "pagina": 79,
+          "fuente": "https://pacma.es/wp-content/uploads/2026/11/PE_GENERALES_29N26.pdf#page=79",
+          "fecha": "2026-11-15",
+          "verificada": true
+        }
+      ]
     }
   },
   "resumen": {},
@@ -5323,6 +5777,10 @@
         "vox": {
           "postura": "sin",
           "fecha": "2026-11-13"
+        },
+        "pacma": {
+          "postura": "sin",
+          "fecha": "2026-11-15"
         }
       }
     },
@@ -5362,6 +5820,14 @@
           "pagina": 25,
           "fuente": "https://www.voxespana.es/wp-content/uploads/2026/11/Programa-completo-A5-1.pdf#page=25",
           "fecha": "2026-11-13",
+          "verificada": true
+        },
+        "pacma": {
+          "postura": "si",
+          "cita": "Desincentivar la compra especulativa, aplicando recargos fiscales a la compra de viviendas por parte de fondos de inversión y no residentes.",
+          "pagina": 70,
+          "fuente": "https://pacma.es/wp-content/uploads/2026/11/PE_GENERALES_29N26.pdf#page=70",
+          "fecha": "2026-11-15",
           "verificada": true
         }
       }
@@ -5403,6 +5869,10 @@
           "fuente": "https://www.voxespana.es/wp-content/uploads/2026/11/Programa-completo-A5-1.pdf#page=9",
           "fecha": "2026-11-13",
           "verificada": true
+        },
+        "pacma": {
+          "postura": "sin",
+          "fecha": "2026-11-15"
         }
       }
     },
@@ -5439,6 +5909,10 @@
         "vox": {
           "postura": "sin",
           "fecha": "2026-11-13"
+        },
+        "pacma": {
+          "postura": "sin",
+          "fecha": "2026-11-15"
         }
       }
     },
@@ -5479,6 +5953,10 @@
           "fuente": "https://www.voxespana.es/wp-content/uploads/2026/11/Programa-completo-A5-1.pdf#page=15",
           "fecha": "2026-11-13",
           "verificada": true
+        },
+        "pacma": {
+          "postura": "sin",
+          "fecha": "2026-11-15"
         }
       }
     },
@@ -5515,6 +5993,10 @@
           "fuente": "https://www.voxespana.es/wp-content/uploads/2026/11/Programa-completo-A5-1.pdf#page=56",
           "fecha": "2026-11-13",
           "verificada": false
+        },
+        "pacma": {
+          "postura": "sin",
+          "fecha": "2026-11-15"
         }
       }
     },
@@ -5551,6 +6033,10 @@
         "vox": {
           "postura": "sin",
           "fecha": "2026-11-13"
+        },
+        "pacma": {
+          "postura": "sin",
+          "fecha": "2026-11-15"
         }
       }
     },
@@ -5579,6 +6065,10 @@
         "vox": {
           "postura": "sin",
           "fecha": "2026-11-13"
+        },
+        "pacma": {
+          "postura": "sin",
+          "fecha": "2026-11-15"
         }
       }
     }
@@ -5608,6 +6098,11 @@
       "url": "https://www.voxespana.es/wp-content/uploads/2026/11/Programa-completo-A5-1.pdf",
       "fecha": "2026-11-13",
       "paginas": 66
+    },
+    "pacma": {
+      "url": "https://pacma.es/wp-content/uploads/2026/11/PE_GENERALES_29N26.pdf",
+      "fecha": "2026-11-15",
+      "paginas": 82
     }
   },
   "debates": [],
