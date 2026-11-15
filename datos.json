@@ -2135,6 +2135,436 @@
         }
       ]
     },
+    "pnv": {
+      "vivienda": [
+        {
+          "texto": "Agilizar los trámites urbanísticos para facilitar la construcción de nuevas viviendas, con plazos razonables y garantías legales.",
+          "cita": "Agilizar los trámites urbanísticos para facilitar la construcción de nuevas viviendas, con plazos razonables y garantías legales.",
+          "pagina": 7,
+          "fuente": "https://www.eaj-pnv.eus/es/adjuntos-documentos/21765/pdf/programa-electoral-29n#page=7",
+          "fecha": "2026-11-15",
+          "verificada": true
+        },
+        {
+          "texto": "Movilizar viviendas vacías y rehabilitar edificios para aumentar la oferta residencial.",
+          "cita": "Movilizar viviendas vacías y rehabilitar edificios para aumentar la oferta residencial.",
+          "pagina": 7,
+          "fuente": "https://www.eaj-pnv.eus/es/adjuntos-documentos/21765/pdf/programa-electoral-29n#page=7",
+          "fecha": "2026-11-15",
+          "verificada": true
+        },
+        {
+          "texto": "Evitar que los contratos de temporada se utilicen para eludir las garantías del alquiler de vivienda habitual.",
+          "cita": "Evitar que los contratos de temporada se utilicen fraudulentamente para eludir las garantías del alquiler de vivienda habitual.",
+          "pagina": 8,
+          "fuente": "https://www.eaj-pnv.eus/es/adjuntos-documentos/21765/pdf/programa-electoral-29n#page=8",
+          "fecha": "2026-11-15",
+          "verificada": true
+        },
+        {
+          "texto": "Regular los alquileres de temporada y turísticos para que no resten viviendas al alquiler residencial.",
+          "cita": "Regular los alquileres de temporada y turísticos para que no resten viviendas al alquiler residencial.",
+          "pagina": 8,
+          "fuente": "https://www.eaj-pnv.eus/es/adjuntos-documentos/21765/pdf/programa-electoral-29n#page=8",
+          "fecha": "2026-11-15",
+          "verificada": true
+        },
+        {
+          "texto": "Reducir las prácticas especulativas que encarecen la vivienda y dificultan el acceso al alquiler y la compra.",
+          "cita": "Reducir las prácticas especulativas que encarecen la vivienda y dificultan el acceso al alquiler y la compra.",
+          "pagina": 8,
+          "fuente": "https://www.eaj-pnv.eus/es/adjuntos-documentos/21765/pdf/programa-electoral-29n#page=8",
+          "fecha": "2026-11-15",
+          "verificada": true
+        },
+        {
+          "texto": "Promover medidas específicas para facilitar a las personas jóvenes el acceso a su primera vivienda, en alquiler y en propiedad.",
+          "cita": "Promover medidas específicas para facilitar el acceso de las personas jóvenes a su primera vivienda, tanto en régimen de alquiler como en propiedad.",
+          "pagina": 8,
+          "fuente": "https://www.eaj-pnv.eus/es/adjuntos-documentos/21765/pdf/programa-electoral-29n#page=8",
+          "fecha": "2026-11-15",
+          "verificada": true
+        }
+      ],
+      "economia": [
+        {
+          "texto": "Reclamar la competencia plena para establecer un salario mínimo propio de Euskadi, siempre por encima del mínimo estatal, mediante diálogo social.",
+          "cita": "Reclamar, en el marco de un nuevo estatus político para Euskadi, la competencia plena para establecer un salario mínimo propio, adaptado al coste de vida y siempre por encima del mínimo estatal.",
+          "pagina": 9,
+          "fuente": "https://www.eaj-pnv.eus/es/adjuntos-documentos/21765/pdf/programa-electoral-29n#page=9",
+          "fecha": "2026-11-15",
+          "verificada": true
+        },
+        {
+          "texto": "Reducir de forma permanente el Impuesto Especial sobre la Electricidad al 0,5 %, dentro de los límites de la normativa europea.",
+          "cita": "Reducir de forma permanente el Impuesto Especial sobre la Electricidad al 0,5 %, dentro de los límites permitidos por la normativa europea.",
+          "pagina": 16,
+          "fuente": "https://www.eaj-pnv.eus/es/adjuntos-documentos/21765/pdf/programa-electoral-29n#page=16",
+          "fecha": "2026-11-15",
+          "verificada": true
+        },
+        {
+          "texto": "Estudiar tipos cero o superreducidos de IVA para alimentos básicos y revisar la tributación de suministros esenciales y transporte público.",
+          "cita": "Favorecer una reforma integral del IVA de los bienes y servicios esenciales, estudiando la aplicación de tipos cero o superreducidos a determinados alimentos básicos",
+          "pagina": 21,
+          "fuente": "https://www.eaj-pnv.eus/es/adjuntos-documentos/21765/pdf/programa-electoral-29n#page=21",
+          "fecha": "2026-11-15",
+          "verificada": true
+        },
+        {
+          "texto": "Ampliar la capacidad normativa de las Haciendas Forales en el IVA y los Impuestos Especiales mediante la actualización del Concierto Económico.",
+          "cita": "Ampliar la capacidad normativa de las Haciendas Forales en el IVA y los Impuestos Especiales.",
+          "pagina": 21,
+          "fuente": "https://www.eaj-pnv.eus/es/adjuntos-documentos/21765/pdf/programa-electoral-29n#page=21",
+          "fecha": "2026-11-15",
+          "verificada": true
+        },
+        {
+          "texto": "Permitir a ayuntamientos, diputaciones y Gobierno Vasco usar sus superávits para inversiones prioritarias.",
+          "cita": "Facilitar que los ayuntamientos, las diputaciones forales y el Gobierno Vasco puedan utilizar sus superávits para inversiones prioritarias",
+          "pagina": 21,
+          "fuente": "https://www.eaj-pnv.eus/es/adjuntos-documentos/21765/pdf/programa-electoral-29n#page=21",
+          "fecha": "2026-11-15",
+          "verificada": true
+        },
+        {
+          "texto": "Mejorar el acceso de pymes y autónomos a la financiación reforzando las líneas del Instituto de Crédito Oficial.",
+          "cita": "Mejorar el acceso de pymes y personas autónomas a la financiación, reforzando las líneas del Instituto de Crédito Oficial",
+          "pagina": 14,
+          "fuente": "https://www.eaj-pnv.eus/es/adjuntos-documentos/21765/pdf/programa-electoral-29n#page=14",
+          "fecha": "2026-11-15",
+          "verificada": true
+        },
+        {
+          "texto": "Revalorizar anualmente las pensiones conforme al IPC para evitar la pérdida de poder adquisitivo.",
+          "cita": "Evitar que las pensiones pierdan poder adquisitivo: revalorizarlas anualmente conforme al IPC, protegiendo su poder adquisitivo frente al incremento del coste de la vida.",
+          "pagina": 31,
+          "fuente": "https://www.eaj-pnv.eus/es/adjuntos-documentos/21765/pdf/programa-electoral-29n#page=31",
+          "fecha": "2026-11-15",
+          "verificada": true
+        },
+        {
+          "texto": "Eliminar las penalizaciones de la jubilación anticipada para quienes tengan más de 40 años cotizados.",
+          "cita": "Eliminar las penalizaciones de la jubilación anticipada para las personas trabajadoras con más de 40 años cotizados",
+          "pagina": 31,
+          "fuente": "https://www.eaj-pnv.eus/es/adjuntos-documentos/21765/pdf/programa-electoral-29n#page=31",
+          "fecha": "2026-11-15",
+          "verificada": true
+        },
+        {
+          "texto": "Modificar la Ley 35/2006 del IRPF para declarar exentas las indemnizaciones del Fondo de Compensación para las Víctimas del Amianto.",
+          "cita": "Modificar la Ley 35/2006 del IRPF para declarar exentas de tributación las indemnizaciones reconocidas por el Fondo de Compensación para las Víctimas del Amianto",
+          "pagina": 34,
+          "fuente": "https://www.eaj-pnv.eus/es/adjuntos-documentos/21765/pdf/programa-electoral-29n#page=34",
+          "fecha": "2026-11-15",
+          "verificada": true
+        },
+        {
+          "texto": "Reformar el Real Decreto 483/2025 para garantizar el acceso al fondo del amianto a todos los colectivos previstos en la Ley 21/2022.",
+          "cita": "Reformar el Real Decreto 483/2025 para corregir las dificultades de acceso al fondo, garantizando su aplicación a todos los colectivos beneficiarios previstos en la Ley 21/2022.",
+          "pagina": 34,
+          "fuente": "https://www.eaj-pnv.eus/es/adjuntos-documentos/21765/pdf/programa-electoral-29n#page=34",
+          "fecha": "2026-11-15",
+          "verificada": true
+        }
+      ],
+      "inmigracion": [
+        {
+          "texto": "Promover mayores competencias para Euskadi en migración y extranjería, con gestión integral de llegada, acogida, residencia, trabajo e integración.",
+          "cita": "Promover mayores competencias para Euskadi en materia de migración y extranjería, avanzando hacia una gestión integral que abarque la llegada, la acogida, la residencia, el trabajo y la integración.",
+          "pagina": 24,
+          "fuente": "https://www.eaj-pnv.eus/es/adjuntos-documentos/21765/pdf/programa-electoral-29n#page=24",
+          "fecha": "2026-11-15",
+          "verificada": true
+        },
+        {
+          "texto": "Rechazar la implantación de grandes centros de acogida como el previsto en Arana, Vitoria-Gasteiz, y priorizar un modelo descentralizado.",
+          "cita": "priorizando un modelo de acogida descentralizado y rechazando la implantación de grandes centros como el previsto en Arana, Vitoria-Gasteiz.",
+          "pagina": 25,
+          "fuente": "https://www.eaj-pnv.eus/es/adjuntos-documentos/21765/pdf/programa-electoral-29n#page=25",
+          "fecha": "2026-11-15",
+          "verificada": true
+        },
+        {
+          "texto": "Ampliar la capacidad de gestión de Euskadi en los procedimientos de residencia y trabajo para reducir plazos de tramitación.",
+          "cita": "Ampliar la capacidad de gestión de Euskadi en los procedimientos de residencia y trabajo, para reducir los plazos de tramitación",
+          "pagina": 25,
+          "fuente": "https://www.eaj-pnv.eus/es/adjuntos-documentos/21765/pdf/programa-electoral-29n#page=25",
+          "fecha": "2026-11-15",
+          "verificada": true
+        },
+        {
+          "texto": "Favorecer la contratación en origen vinculada a las necesidades del mercado laboral vasco.",
+          "cita": "Favorecer la contratación en origen, vinculada a las necesidades del mercado laboral vasco y con garantías para las personas trabajadoras.",
+          "pagina": 25,
+          "fuente": "https://www.eaj-pnv.eus/es/adjuntos-documentos/21765/pdf/programa-electoral-29n#page=25",
+          "fecha": "2026-11-15",
+          "verificada": true
+        },
+        {
+          "texto": "Avanzar en los procesos de regularización previstos en la legislación para quienes cumplen los requisitos.",
+          "cita": "Avanzar en los procesos de regularización previstos en la legislación, facilitando la integración social y laboral de las personas que cumplen los requisitos establecidos.",
+          "pagina": 25,
+          "fuente": "https://www.eaj-pnv.eus/es/adjuntos-documentos/21765/pdf/programa-electoral-29n#page=25",
+          "fecha": "2026-11-15",
+          "verificada": true
+        },
+        {
+          "texto": "Agilizar la homologación de titulaciones y cualificaciones profesionales extranjeras.",
+          "cita": "Agilizar la homologación y el reconocimiento de titulaciones y cualificaciones profesionales extranjeras",
+          "pagina": 25,
+          "fuente": "https://www.eaj-pnv.eus/es/adjuntos-documentos/21765/pdf/programa-electoral-29n#page=25",
+          "fecha": "2026-11-15",
+          "verificada": true
+        },
+        {
+          "texto": "Impulsar una política europea común de migración y asilo con distribución equilibrada de solicitantes y menores migrantes no acompañados.",
+          "cita": "Impulsar una política europea común de migración y asilo basada en la solidaridad y la responsabilidad compartida",
+          "pagina": 25,
+          "fuente": "https://www.eaj-pnv.eus/es/adjuntos-documentos/21765/pdf/programa-electoral-29n#page=25",
+          "fecha": "2026-11-15",
+          "verificada": true
+        },
+        {
+          "texto": "Reforzar las garantías de migrantes y solicitantes de asilo en fronteras y promover alternativas a la privación de libertad en los CIE.",
+          "cita": "Reforzar las garantías de las personas migrantes y solicitantes de asilo en las fronteras, promoviendo alternativas a la privación de libertad en los Centros de Internamiento de Extranjeros",
+          "pagina": 28,
+          "fuente": "https://www.eaj-pnv.eus/es/adjuntos-documentos/21765/pdf/programa-electoral-29n#page=28",
+          "fecha": "2026-11-15",
+          "verificada": true
+        },
+        {
+          "texto": "Desarrollar reglamentariamente el artículo 50 de la Ley 4/2023 para adecuar la documentación de personas extranjeras trans a su identidad de género.",
+          "cita": "Asegurar el desarrollo reglamentario del artículo 50 de la Ley 4/2023, garantizando procedimientos claros para adecuar la documentación expedida en España a la identidad de género de las personas extranjeras trans.",
+          "pagina": 27,
+          "fuente": "https://www.eaj-pnv.eus/es/adjuntos-documentos/21765/pdf/programa-electoral-29n#page=27",
+          "fecha": "2026-11-15",
+          "verificada": true
+        }
+      ],
+      "politica": [
+        {
+          "texto": "Impulsar reformas legales para combatir la multirreincidencia con una respuesta judicial ágil y proporcionada.",
+          "cita": "Combatir la multirreincidencia y proteger a las víctimas. Impulsar las reformas legales necesarias para garantizar una respuesta judicial ágil, eficaz y proporcionada",
+          "pagina": 24,
+          "fuente": "https://www.eaj-pnv.eus/es/adjuntos-documentos/21765/pdf/programa-electoral-29n#page=24",
+          "fecha": "2026-11-15",
+          "verificada": true
+        },
+        {
+          "texto": "Aprobar una nueva Ley de Secretos Oficiales con criterios objetivos de clasificación y plazos de desclasificación automática.",
+          "cita": "Asegurar la aprobación de una nueva Ley de Secretos Oficiales, que sustituya la legislación vigente, establezca criterios objetivos de clasificación y fije plazos concretos de desclasificación automática.",
+          "pagina": 40,
+          "fuente": "https://www.eaj-pnv.eus/es/adjuntos-documentos/21765/pdf/programa-electoral-29n#page=40",
+          "fecha": "2026-11-15",
+          "verificada": true
+        },
+        {
+          "texto": "Impulsar la creación de un Consejo Vasco de Justicia con funciones de gobierno del Poder Judicial en Euskadi.",
+          "cita": "Impulsar la creación de un Consejo Vasco de Justicia, con capacidad para ejercer las funciones de gobierno del Poder Judicial en Euskadi que le atribuya el nuevo marco jurídico.",
+          "pagina": 39,
+          "fuente": "https://www.eaj-pnv.eus/es/adjuntos-documentos/21765/pdf/programa-electoral-29n#page=39",
+          "fecha": "2026-11-15",
+          "verificada": true
+        },
+        {
+          "texto": "Reconocer a la Ertzaintza como Policía judicial en el ámbito vasco con capacidad plena.",
+          "cita": "Promover el reconocimiento de la Ertzaintza como Policía judicial en el ámbito vasco, con capacidad plena para ejercer las funciones correspondientes.",
+          "pagina": 39,
+          "fuente": "https://www.eaj-pnv.eus/es/adjuntos-documentos/21765/pdf/programa-electoral-29n#page=39",
+          "fecha": "2026-11-15",
+          "verificada": true
+        },
+        {
+          "texto": "Reformar la organización judicial para que el Tribunal Superior de Justicia del País Vasco agote las instancias procesales, salvo la jurisdicción del Tribunal Supremo.",
+          "cita": "Favorecer las reformas necesarias para que la organización judicial culmine en el Tribunal Superior de Justicia del País Vasco",
+          "pagina": 39,
+          "fuente": "https://www.eaj-pnv.eus/es/adjuntos-documentos/21765/pdf/programa-electoral-29n#page=39",
+          "fecha": "2026-11-15",
+          "verificada": true
+        },
+        {
+          "texto": "Asegurar el cumplimiento íntegro del Estatuto de Gernika y culminar todas las transferencias pendientes.",
+          "cita": "Asegurar el cumplimiento íntegro del Estatuto de Gernika y la culminación de todas las transferencias pendientes",
+          "pagina": 38,
+          "fuente": "https://www.eaj-pnv.eus/es/adjuntos-documentos/21765/pdf/programa-electoral-29n#page=38",
+          "fecha": "2026-11-15",
+          "verificada": true
+        },
+        {
+          "texto": "Establecer mecanismos bilaterales de negociación y seguimiento de los acuerdos entre Euskadi y el Estado.",
+          "cita": "Establecer mecanismos bilaterales de negociación y seguimiento de los acuerdos entre Euskadi y el Estado",
+          "pagina": 38,
+          "fuente": "https://www.eaj-pnv.eus/es/adjuntos-documentos/21765/pdf/programa-electoral-29n#page=38",
+          "fecha": "2026-11-15",
+          "verificada": true
+        },
+        {
+          "texto": "Impulsar la reforma de la «ley mordaza» para eliminar restricciones desproporcionadas a derechos y libertades.",
+          "cita": "Impulsar la reforma de la legislación conocida como «ley mordaza», eliminando las restricciones desproporcionadas al ejercicio de derechos y libertades.",
+          "pagina": 27,
+          "fuente": "https://www.eaj-pnv.eus/es/adjuntos-documentos/21765/pdf/programa-electoral-29n#page=27",
+          "fecha": "2026-11-15",
+          "verificada": true
+        },
+        {
+          "texto": "Avanzar hacia un Concierto Político que traslade los principios de pacto y bilateralidad al ámbito institucional.",
+          "cita": "Avanzar hacia un Concierto Político que traslade los principios de pacto y bilateralidad al ámbito institucional.",
+          "pagina": 39,
+          "fuente": "https://www.eaj-pnv.eus/es/adjuntos-documentos/21765/pdf/programa-electoral-29n#page=39",
+          "fecha": "2026-11-15",
+          "verificada": true
+        },
+        {
+          "texto": "Promover la oficialidad del euskera, el catalán y el gallego en la Unión Europea.",
+          "cita": "Promover la oficialidad del euskera, el catalán y el gallego en la Unión Europea",
+          "pagina": 41,
+          "fuente": "https://www.eaj-pnv.eus/es/adjuntos-documentos/21765/pdf/programa-electoral-29n#page=41",
+          "fecha": "2026-11-15",
+          "verificada": true
+        }
+      ],
+      "empleo": [
+        {
+          "texto": "Reforzar la Inspección de Trabajo para combatir el fraude laboral, la contratación irregular, las falsas personas autónomas y la economía sumergida.",
+          "cita": "Detectar y sancionar mejor los abusos laborales reforzando la Inspección de Trabajo para combatir el fraude laboral, la contratación irregular, las falsas personas autónomas, la economía sumergida",
+          "pagina": 9,
+          "fuente": "https://www.eaj-pnv.eus/es/adjuntos-documentos/21765/pdf/programa-electoral-29n#page=9",
+          "fecha": "2026-11-15",
+          "verificada": true
+        },
+        {
+          "texto": "Asegurar la aplicación de la normativa europea sobre transparencia retributiva para corregir desigualdades salariales entre mujeres y hombres.",
+          "cita": "Asegurar la aplicación de la normativa europea sobre transparencia retributiva, para detectar y corregir las desigualdades salariales entre mujeres y hombres.",
+          "pagina": 9,
+          "fuente": "https://www.eaj-pnv.eus/es/adjuntos-documentos/21765/pdf/programa-electoral-29n#page=9",
+          "fecha": "2026-11-15",
+          "verificada": true
+        },
+        {
+          "texto": "Ampliar la cobertura de la prestación por desempleo hasta un máximo de 36 meses, vinculada a la mejora de la empleabilidad.",
+          "cita": "Ampliar la cobertura de la prestación por desempleo hasta un máximo de 36 meses, vinculándola a procesos de mejora de la empleabilidad",
+          "pagina": 9,
+          "fuente": "https://www.eaj-pnv.eus/es/adjuntos-documentos/21765/pdf/programa-electoral-29n#page=9",
+          "fecha": "2026-11-15",
+          "verificada": true
+        },
+        {
+          "texto": "Impulsar una regulación de las prácticas formativas que garantice los derechos del alumnado y preserve su carácter educativo.",
+          "cita": "Impulsar una regulación de las prácticas formativas que garantice los derechos del alumnado y preserve su carácter educativo",
+          "pagina": 9,
+          "fuente": "https://www.eaj-pnv.eus/es/adjuntos-documentos/21765/pdf/programa-electoral-29n#page=9",
+          "fecha": "2026-11-15",
+          "verificada": true
+        },
+        {
+          "texto": "Mejorar la protección de las personas autónomas en el cese de actividad, aproximándola a la prestación por desempleo.",
+          "cita": "Mejorar la protección de las personas autónomas cuando cesa su actividad, aproximándola progresivamente a la prestación por desempleo, simplificando los requisitos",
+          "pagina": 15,
+          "fuente": "https://www.eaj-pnv.eus/es/adjuntos-documentos/21765/pdf/programa-electoral-29n#page=15",
+          "fecha": "2026-11-15",
+          "verificada": true
+        },
+        {
+          "texto": "Permitir la compatibilidad temporal de la prestación por cese de actividad con el inicio de un nuevo proyecto empresarial.",
+          "cita": "Permitir la compatibilidad temporal de la prestación por cese de actividad con el inicio de un nuevo proyecto empresarial",
+          "pagina": 15,
+          "fuente": "https://www.eaj-pnv.eus/es/adjuntos-documentos/21765/pdf/programa-electoral-29n#page=15",
+          "fecha": "2026-11-15",
+          "verificada": true
+        },
+        {
+          "texto": "Facilitar que las plantillas asuman empresas viables como cooperativas o sociedades laborales mediante la capitalización de la prestación por desempleo.",
+          "cita": "Facilitar que las plantillas puedan hacerse cargo de empresas viables mediante cooperativas o sociedades laborales, utilizando para ello la capitalización de la prestación por desempleo.",
+          "pagina": 15,
+          "fuente": "https://www.eaj-pnv.eus/es/adjuntos-documentos/21765/pdf/programa-electoral-29n#page=15",
+          "fecha": "2026-11-15",
+          "verificada": true
+        },
+        {
+          "texto": "Favorecer la extensión de los sistemas de previsión social de empleo mediante la negociación colectiva, como complemento de las pensiones públicas.",
+          "cita": "Favorecer la extensión de los sistemas de previsión social de empleo, especialmente mediante la negociación colectiva y con participación de empresas y personas trabajadoras",
+          "pagina": 31,
+          "fuente": "https://www.eaj-pnv.eus/es/adjuntos-documentos/21765/pdf/programa-electoral-29n#page=31",
+          "fecha": "2026-11-15",
+          "verificada": true
+        },
+        {
+          "texto": "Compensar en las pensiones las interrupciones laborales, reducciones de jornada y lagunas de cotización por cuidados para reducir la brecha de género.",
+          "cita": "Reducir la brecha de género en las pensiones, compensando las interrupciones laborales, las reducciones de jornada y las lagunas de cotización derivadas del cuidado de descendientes y familiares dependientes.",
+          "pagina": 31,
+          "fuente": "https://www.eaj-pnv.eus/es/adjuntos-documentos/21765/pdf/programa-electoral-29n#page=31",
+          "fecha": "2026-11-15",
+          "verificada": true
+        }
+      ],
+      "sanidad": [
+        {
+          "texto": "Formar más especialistas sanitarios adaptando el sistema MIR a las necesidades reales de profesionales, evitando vacantes y agilizando la acreditación de unidades docentes.",
+          "cita": "Formar más especialistas sanitarios donde se necesitan, adaptando el sistema MIR para adecuar la oferta de plazas a las necesidades reales de profesionales, evitar que queden vacantes",
+          "pagina": 32,
+          "fuente": "https://www.eaj-pnv.eus/es/adjuntos-documentos/21765/pdf/programa-electoral-29n#page=32",
+          "fecha": "2026-11-15",
+          "verificada": true
+        },
+        {
+          "texto": "Reforzar la planificación de profesionales sanitarios coordinando la oferta de formación especializada con las necesidades de los sistemas públicos de salud.",
+          "cita": "Reforzar la planificación de profesionales sanitarios, mejorando la coordinación entre la oferta de formación especializada y las necesidades de los sistemas públicos de salud.",
+          "pagina": 32,
+          "fuente": "https://www.eaj-pnv.eus/es/adjuntos-documentos/21765/pdf/programa-electoral-29n#page=32",
+          "fecha": "2026-11-15",
+          "verificada": true
+        },
+        {
+          "texto": "Culminar las transferencias sanitarias pendientes a Euskadi, en especial formación sanitaria especializada, acreditación de plazas, control de incapacidades laborales y sanidad exterior.",
+          "cita": "Culminar las transferencias sanitarias pendientes a Euskadi, especialmente en formación sanitaria especializada, acreditación de plazas, control sanitario de las incapacidades laborales y sanidad exterior.",
+          "pagina": 32,
+          "fuente": "https://www.eaj-pnv.eus/es/adjuntos-documentos/21765/pdf/programa-electoral-29n#page=32",
+          "fecha": "2026-11-15",
+          "verificada": true
+        },
+        {
+          "texto": "Impulsar que la reforma del Estatuto Marco de las profesiones sanitarias se negocie con profesionales, sindicatos y comunidades autónomas, con memoria económica.",
+          "cita": "Impulsar que la reforma del Estatuto Marco de las profesiones sanitarias se negocie con profesionales, sindicatos y comunidades autónomas",
+          "pagina": 32,
+          "fuente": "https://www.eaj-pnv.eus/es/adjuntos-documentos/21765/pdf/programa-electoral-29n#page=32",
+          "fecha": "2026-11-15",
+          "verificada": true
+        },
+        {
+          "texto": "Favorecer la regulación del uso medicinal del cannabis, fijando las condiciones sanitarias y de seguridad para su uso terapéutico.",
+          "cita": "Favorecer la regulación del uso medicinal del cannabis, estableciendo las condiciones sanitarias y de seguridad necesarias para su utilización terapéutica.",
+          "pagina": 32,
+          "fuente": "https://www.eaj-pnv.eus/es/adjuntos-documentos/21765/pdf/programa-electoral-29n#page=32",
+          "fecha": "2026-11-15",
+          "verificada": true
+        },
+        {
+          "texto": "Asegurar la participación permanente de los Gobiernos Vasco y Navarro en los órganos estatales que autorizan y fijan los precios de los medicamentos.",
+          "cita": "Asegurar la participación permanente de los Gobiernos Vasco y Navarro en los órganos estatales encargados de autorizar, registrar y fijar los precios de los medicamentos",
+          "pagina": 32,
+          "fuente": "https://www.eaj-pnv.eus/es/adjuntos-documentos/21765/pdf/programa-electoral-29n#page=32",
+          "fecha": "2026-11-15",
+          "verificada": true
+        },
+        {
+          "texto": "Asegurar el cumplimiento íntegro y la financiación suficiente de la Ley ELA.",
+          "cita": "Asegurar el cumplimiento íntegro y la financiación suficiente de la Ley ELA",
+          "pagina": 33,
+          "fuente": "https://www.eaj-pnv.eus/es/adjuntos-documentos/21765/pdf/programa-electoral-29n#page=33",
+          "fecha": "2026-11-15",
+          "verificada": true
+        },
+        {
+          "texto": "Promover la aprobación de un Real Decreto de Electrodependencia para personas que usan dispositivos médicos eléctricos esenciales.",
+          "cita": "Promover la aprobación de un Real Decreto de Electrodependencia, que reconozca las necesidades de las personas que utilizan dispositivos médicos eléctricos esenciales para su supervivencia.",
+          "pagina": 33,
+          "fuente": "https://www.eaj-pnv.eus/es/adjuntos-documentos/21765/pdf/programa-electoral-29n#page=33",
+          "fecha": "2026-11-15",
+          "verificada": true
+        }
+      ]
+    },
     "pacma": {
       "vivienda": [
         {
@@ -5778,6 +6208,10 @@
           "postura": "sin",
           "fecha": "2026-11-13"
         },
+        "pnv": {
+          "postura": "sin",
+          "fecha": "2026-11-15"
+        },
         "pacma": {
           "postura": "sin",
           "fecha": "2026-11-15"
@@ -5821,6 +6255,10 @@
           "fuente": "https://www.voxespana.es/wp-content/uploads/2026/11/Programa-completo-A5-1.pdf#page=25",
           "fecha": "2026-11-13",
           "verificada": true
+        },
+        "pnv": {
+          "postura": "sin",
+          "fecha": "2026-11-15"
         },
         "pacma": {
           "postura": "si",
@@ -5870,6 +6308,10 @@
           "fecha": "2026-11-13",
           "verificada": true
         },
+        "pnv": {
+          "postura": "sin",
+          "fecha": "2026-11-15"
+        },
         "pacma": {
           "postura": "sin",
           "fecha": "2026-11-15"
@@ -5909,6 +6351,10 @@
         "vox": {
           "postura": "sin",
           "fecha": "2026-11-13"
+        },
+        "pnv": {
+          "postura": "sin",
+          "fecha": "2026-11-15"
         },
         "pacma": {
           "postura": "sin",
@@ -5954,6 +6400,14 @@
           "fecha": "2026-11-13",
           "verificada": true
         },
+        "pnv": {
+          "postura": "matiz",
+          "cita": "Avanzar en los procesos de regularización previstos en la legislación, facilitando la integración social y laboral de las personas que cumplen los requisitos establecidos.",
+          "pagina": 25,
+          "fuente": "https://www.eaj-pnv.eus/es/adjuntos-documentos/21765/pdf/programa-electoral-29n#page=25",
+          "fecha": "2026-11-15",
+          "verificada": true
+        },
         "pacma": {
           "postura": "sin",
           "fecha": "2026-11-15"
@@ -5993,6 +6447,10 @@
           "fuente": "https://www.voxespana.es/wp-content/uploads/2026/11/Programa-completo-A5-1.pdf#page=56",
           "fecha": "2026-11-13",
           "verificada": false
+        },
+        "pnv": {
+          "postura": "sin",
+          "fecha": "2026-11-15"
         },
         "pacma": {
           "postura": "sin",
@@ -6034,6 +6492,10 @@
           "postura": "sin",
           "fecha": "2026-11-13"
         },
+        "pnv": {
+          "postura": "sin",
+          "fecha": "2026-11-15"
+        },
         "pacma": {
           "postura": "sin",
           "fecha": "2026-11-15"
@@ -6065,6 +6527,10 @@
         "vox": {
           "postura": "sin",
           "fecha": "2026-11-13"
+        },
+        "pnv": {
+          "postura": "sin",
+          "fecha": "2026-11-15"
         },
         "pacma": {
           "postura": "sin",
@@ -6098,6 +6564,11 @@
       "url": "https://www.voxespana.es/wp-content/uploads/2026/11/Programa-completo-A5-1.pdf",
       "fecha": "2026-11-13",
       "paginas": 66
+    },
+    "pnv": {
+      "url": "https://www.eaj-pnv.eus/es/adjuntos-documentos/21765/pdf/programa-electoral-29n",
+      "fecha": "2026-11-15",
+      "paginas": 43
     },
     "pacma": {
       "url": "https://pacma.es/wp-content/uploads/2026/11/PE_GENERALES_29N26.pdf",
