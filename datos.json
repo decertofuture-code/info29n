@@ -3981,6 +3981,500 @@
           "verificada": true
         }
       ]
+    },
+    "adelante": {
+      "vivienda": [
+        {
+          "texto": "Crear un parque público de al menos el 9 % del total de viviendas en alquiler accesible a partir de las viviendas de bancos y fondos.",
+          "cita": "Desprivatización de todas las viviendas de bancos y fondos de inversión para la creación de un parque público de al menos el 9 % del total en régimen de alquiler accesible.",
+          "pagina": 4,
+          "fuente": "https://programa.adelanteandalucia.org/programa-29n-adelante-andalucia.pdf#page=4",
+          "fecha": "2026-11-16",
+          "verificada": true
+        },
+        {
+          "texto": "Reformar la Ley de Enjuiciamiento Civil para paralizar los desahucios de hogares vulnerables mientras no haya alternativa.",
+          "cita": "Reforma de la Ley de Enjuiciamiento Civil para paralizar los lanzamientos de hogares vulnerables mientras no haya alternativa,",
+          "pagina": 49,
+          "fuente": "https://programa.adelanteandalucia.org/programa-29n-adelante-andalucia.pdf#page=49",
+          "fecha": "2026-11-16",
+          "verificada": true
+        },
+        {
+          "texto": "Crear un índice estatal de referencia para que ningún alquiler supere el 20 % de la renta media de la zona.",
+          "cita": "Índice estatal de referencia por barrio o municipio para que ningún alquiler supere el 20 % de la renta media de la zona.",
+          "pagina": 49,
+          "fuente": "https://programa.adelanteandalucia.org/programa-29n-adelante-andalucia.pdf#page=49",
+          "fecha": "2026-11-16",
+          "verificada": true
+        },
+        {
+          "texto": "Considerar gran tenedor desde cinco viviendas en todo el Estado, con límites a sus nuevas compras en zonas tensionadas.",
+          "cita": "En todo el Estado, con límites a sus nuevas compras en zonas tensionadas.",
+          "pagina": 49,
+          "fuente": "https://programa.adelanteandalucia.org/programa-29n-adelante-andalucia.pdf#page=49",
+          "fecha": "2026-11-16",
+          "verificada": true
+        },
+        {
+          "texto": "Aumentar el parque público de alquiler hasta la media europea, con un gasto del 1,5 % del PIB.",
+          "cita": "Llevar el parque público en alquiler a la media europea, hasta el 20 % en las zonas de más demanda, con un gasto del 1,5 % del PIB.",
+          "pagina": 49,
+          "fuente": "https://programa.adelanteandalucia.org/programa-29n-adelante-andalucia.pdf#page=49",
+          "fecha": "2026-11-16",
+          "verificada": true
+        },
+        {
+          "texto": "Destinar el 100 % de las viviendas y suelos de la Sareb al alquiler asequible con gestión pública.",
+          "cita": "El 100 % de sus viviendas y suelos al alquiler asequible, con gestión pública.",
+          "pagina": 49,
+          "fuente": "https://programa.adelanteandalucia.org/programa-29n-adelante-andalucia.pdf#page=49",
+          "fecha": "2026-11-16",
+          "verificada": true
+        },
+        {
+          "texto": "Alquilar a precio limitado o destinar al parque público las viviendas de grandes tenedores vacías más de un año.",
+          "cita": "Las de grandes tenedores vacías más de un año, alquiladas a precio limitado o al parque público.",
+          "pagina": 50,
+          "fuente": "https://programa.adelanteandalucia.org/programa-29n-adelante-andalucia.pdf#page=50",
+          "fecha": "2026-11-16",
+          "verificada": true
+        },
+        {
+          "texto": "Aplicar una moratoria de licencias de pisos turísticos en zonas tensionadas y cerrar los que funcionan sin licencia.",
+          "cita": "Ninguna licencia nueva en zonas tensionadas, retirada progresiva y cierre de los que funcionan sin licencia.",
+          "pagina": 50,
+          "fuente": "https://programa.adelanteandalucia.org/programa-29n-adelante-andalucia.pdf#page=50",
+          "fecha": "2026-11-16",
+          "verificada": true
+        },
+        {
+          "texto": "Prohibir la compra de vivienda residencial por fondos de inversión y sociedades mercantiles, con excepción de cooperativas y entidades sin ánimo de lucro.",
+          "cita": "Prohibición de la compra de vivienda residencial por fondos de inversión y sociedades mercantiles, salvo cooperativas y entidades sin ánimo de lucro, y de toda compra especulativa.",
+          "pagina": 51,
+          "fuente": "https://programa.adelanteandalucia.org/programa-29n-adelante-andalucia.pdf#page=51",
+          "fecha": "2026-11-16",
+          "verificada": true
+        },
+        {
+          "texto": "Crear un préstamo sin intereses para la fianza, un aval público gratuito y un seguro público de impago para quien alquile a precio de referencia.",
+          "cita": "Préstamo sin intereses para la fianza y aval público gratuito ante la propiedad, como el sistema francés, con seguro público de impago para quien alquile a precio de referencia.",
+          "pagina": 51,
+          "fuente": "https://programa.adelanteandalucia.org/programa-29n-adelante-andalucia.pdf#page=51",
+          "fecha": "2026-11-16",
+          "verificada": true
+        }
+      ],
+      "economia": [
+        {
+          "texto": "Ligar por ley los salarios y el salario mínimo a la inflación.",
+          "cita": "Salarios y salario mínimo ligados a la inflación por ley.",
+          "pagina": 9,
+          "fuente": "https://programa.adelanteandalucia.org/programa-29n-adelante-andalucia.pdf#page=9",
+          "fecha": "2026-11-16",
+          "verificada": true
+        },
+        {
+          "texto": "Crear un impuesto a las grandes fortunas y a los terratenientes.",
+          "cita": "Impuesto a las grandes fortunas y a los terratenientes;",
+          "pagina": 10,
+          "fuente": "https://programa.adelanteandalucia.org/programa-29n-adelante-andalucia.pdf#page=10",
+          "fecha": "2026-11-16",
+          "verificada": true
+        },
+        {
+          "texto": "Reformar el IRPF para bajarlo a las rentas más bajas y subirlo a partir de 100.000 euros anuales.",
+          "cita": "un IRPF que baje a las rentas más bajas y suba con fuerza a partir de 100.000 euros al año,",
+          "pagina": 10,
+          "fuente": "https://programa.adelanteandalucia.org/programa-29n-adelante-andalucia.pdf#page=10",
+          "fecha": "2026-11-16",
+          "verificada": true
+        },
+        {
+          "texto": "Establecer impuestos permanentes a los beneficios extraordinarios de la banca y las eléctricas.",
+          "cita": "e impuestos permanentes a los beneficios extraordinarios de la banca y las eléctricas.",
+          "pagina": 10,
+          "fuente": "https://programa.adelanteandalucia.org/programa-29n-adelante-andalucia.pdf#page=10",
+          "fecha": "2026-11-16",
+          "verificada": true
+        },
+        {
+          "texto": "Crear una red de supermercados públicos que garanticen precios asequibles en productos de primera necesidad.",
+          "cita": "Creación de supermercados públicos que paguen precios justos a \nagricultores/as y ganaderos/as, potencien las cadenas cortas de \ndistribución y garanticen precios asequibles",
+          "pagina": 12,
+          "fuente": "https://programa.adelanteandalucia.org/programa-29n-adelante-andalucia.pdf#page=12",
+          "fecha": "2026-11-16",
+          "verificada": true
+        },
+        {
+          "texto": "Revalorizar las pensiones con el IPC real por ley y equiparar las mínimas y no contributivas al salario mínimo neto.",
+          "cita": "revalorizado con \nel IPC real por ley; pensiones mínimas y no contributivas iguales al \nsalario mínimo neto;",
+          "pagina": 13,
+          "fuente": "https://programa.adelanteandalucia.org/programa-29n-adelante-andalucia.pdf#page=13",
+          "fecha": "2026-11-16",
+          "verificada": true
+        },
+        {
+          "texto": "Eliminar las exenciones fiscales a SOCIMI y fondos y gravar el alquiler caro, dejando exento el asequible.",
+          "cita": "Sin exenciones a SOCIMI y fondos, y fiscalidad del alquiler según su precio: exento el asequible y gravado el caro.",
+          "pagina": 50,
+          "fuente": "https://programa.adelanteandalucia.org/programa-29n-adelante-andalucia.pdf#page=50",
+          "fecha": "2026-11-16",
+          "verificada": true
+        },
+        {
+          "texto": "Aplicar IVA superreducido a electricidad, agua, alimentos básicos, productos menstruales y cultura.",
+          "cita": "Electricidad, agua, alimentos básicos, productos menstruales y cultura.",
+          "pagina": 58,
+          "fuente": "https://programa.adelanteandalucia.org/programa-29n-adelante-andalucia.pdf#page=58",
+          "fecha": "2026-11-16",
+          "verificada": true
+        },
+        {
+          "texto": "Establecer un impuesto de Sociedades progresivo con tipo reducido para pymes pequeñas y tipos crecientes para grandes empresas.",
+          "cita": "Tipo reducido para las pymes pequeñas, tipos crecientes para las grandes empresas y fin de las deducciones salvo la reinversión ecosocial.",
+          "pagina": 58,
+          "fuente": "https://programa.adelanteandalucia.org/programa-29n-adelante-andalucia.pdf#page=58",
+          "fecha": "2026-11-16",
+          "verificada": true
+        },
+        {
+          "texto": "Crear una banca pública con control democrático que dé crédito a pymes, autónomos, cooperativas y vivienda pública.",
+          "cita": "Entidad pública con control democrático que dé crédito a pymes, personas autónomas, cooperativas y vivienda pública, con cuentas básicas gratuitas.",
+          "pagina": 61,
+          "fuente": "https://programa.adelanteandalucia.org/programa-29n-adelante-andalucia.pdf#page=61",
+          "fecha": "2026-11-16",
+          "verificada": true
+        }
+      ],
+      "inmigracion": [
+        {
+          "texto": "Derogar la Ley de Extranjería, hacer una regularización extraordinaria y cerrar los CIE, empezando por Algeciras.",
+          "cita": "Derogación de la Ley de Extranjería, regularización extraordinaria y cierre de los CIE, empezando por Algeciras.",
+          "pagina": 28,
+          "fuente": "https://programa.adelanteandalucia.org/programa-29n-adelante-andalucia.pdf#page=28",
+          "fecha": "2026-11-16",
+          "verificada": true
+        },
+        {
+          "texto": "Dotar de personal de aulas de acogida lingüística a todos los centros con alumnado extranjero.",
+          "cita": "Personal en todos los centros con alumnado extranjero para que quien llega sin español pueda seguir las clases.",
+          "pagina": 44,
+          "fuente": "https://programa.adelanteandalucia.org/programa-29n-adelante-andalucia.pdf#page=44",
+          "fecha": "2026-11-16",
+          "verificada": true
+        },
+        {
+          "texto": "Crear vías legales y seguras: visados humanitarios, asilo en embajadas y consulados y retirada de las concertinas de Ceuta y Melilla.",
+          "cita": "visados humanitarios, asilo solicitable en embajadas y consulados, cooperación con el Mediterráneo y el Sahel, y retirada de las concertinas de Ceuta y Melilla.",
+          "pagina": 106,
+          "fuente": "https://programa.adelanteandalucia.org/programa-29n-adelante-andalucia.pdf#page=106",
+          "fecha": "2026-11-16",
+          "verificada": true
+        },
+        {
+          "texto": "Suprimir la disposición que ampara las devoluciones en caliente y garantizar la no devolución.",
+          "cita": "Supresión de la disposición que las ampara y garantía de no devolución.",
+          "pagina": 106,
+          "fuente": "https://programa.adelanteandalucia.org/programa-29n-adelante-andalucia.pdf#page=106",
+          "fecha": "2026-11-16",
+          "verificada": true
+        },
+        {
+          "texto": "Garantizar el empadronamiento efectivo sin discriminación, ligando la financiación local a su cumplimiento.",
+          "cita": "Empadronamiento efectivo sin discriminación, con la financiación local ligada a su cumplimiento.",
+          "pagina": 106,
+          "fuente": "https://programa.adelanteandalucia.org/programa-29n-adelante-andalucia.pdf#page=106",
+          "fecha": "2026-11-16",
+          "verificada": true
+        },
+        {
+          "texto": "Aprobar un pacto de Estado con financiación estatal para acoger a menores migrantes sin familia, con reparto entre comunidades y permiso de residencia y trabajo al cumplir 18 años.",
+          "cita": "Tutela automática; pacto de Estado con financiación estatal para acoger a la infancia y adolescencia que llega sin familia, con reparto solidario entre comunidades;",
+          "pagina": 106,
+          "fuente": "https://programa.adelanteandalucia.org/programa-29n-adelante-andalucia.pdf#page=106",
+          "fecha": "2026-11-16",
+          "verificada": true
+        },
+        {
+          "texto": "Impedir expedientes sancionadores a quien denuncia un delito en situación irregular y separar los datos de extranjería de los policiales.",
+          "cita": "Ningún expediente sancionador a quien denuncia un delito estando en situación irregular, y los datos de extranjería separados de los policiales.",
+          "pagina": 106,
+          "fuente": "https://programa.adelanteandalucia.org/programa-29n-adelante-andalucia.pdf#page=106",
+          "fecha": "2026-11-16",
+          "verificada": true
+        },
+        {
+          "texto": "Dotar a las oficinas de extranjería de plantilla suficiente, plazos públicos, atención presencial e información en varios idiomas.",
+          "cita": "Plantilla suficiente, plazos públicos, atención presencial e información en varios idiomas.",
+          "pagina": 107,
+          "fuente": "https://programa.adelanteandalucia.org/programa-29n-adelante-andalucia.pdf#page=107",
+          "fecha": "2026-11-16",
+          "verificada": true
+        },
+        {
+          "texto": "Conceder autorización de residencia a víctimas de violencia machista sin esperar sentencia firme y a víctimas de explotación sin depender del explotador.",
+          "cita": "Autorización de residencia para las víctimas de violencia machista sin esperar a sentencia firme, y para las de explotación sin depender del explotador ni de colaborar con la investigación.",
+          "pagina": 107,
+          "fuente": "https://programa.adelanteandalucia.org/programa-29n-adelante-andalucia.pdf#page=107",
+          "fecha": "2026-11-16",
+          "verificada": true
+        },
+        {
+          "texto": "Prohibir expresamente en la ley los controles por perfil racial y crear un mecanismo independiente de quejas.",
+          "cita": "Prohibición expresa en la ley, formularios de identificación con datos públicos y un mecanismo independiente de quejas.",
+          "pagina": 107,
+          "fuente": "https://programa.adelanteandalucia.org/programa-29n-adelante-andalucia.pdf#page=107",
+          "fecha": "2026-11-16",
+          "verificada": true
+        }
+      ],
+      "politica": [
+        {
+          "texto": "Acabar con los privilegios políticos: sin pagas vitalicias y con una autoridad independiente contra la corrupción.",
+          "cita": "Cobrarán lo que cobraban, sin pagas vitalicias y con una autoridad independiente contra la corrupción.",
+          "pagina": 26,
+          "fuente": "https://programa.adelanteandalucia.org/programa-29n-adelante-andalucia.pdf#page=26",
+          "fecha": "2026-11-16",
+          "verificada": true
+        },
+        {
+          "texto": "Reformar la financiación autonómica: al menos el 55 % del IRPF y el 70 % del IVA e impuestos especiales para las comunidades.",
+          "cita": "Al menos el 55 % del IRPF y el 70 % del IVA y de los impuestos especiales para las comunidades, todo en el fondo de garantía.",
+          "pagina": 72,
+          "fuente": "https://programa.adelanteandalucia.org/programa-29n-adelante-andalucia.pdf#page=72",
+          "fecha": "2026-11-16",
+          "verificada": true
+        },
+        {
+          "texto": "Derogar la Ley de Racionalización y Sostenibilidad de la Administración Local de 2013 y flexibilizar la regla de gasto de los ayuntamientos.",
+          "cita": "Derogar la Ley de Racionalización y Sostenibilidad de la Administración Local de 2013 y flexibilizar la regla de gasto",
+          "pagina": 76,
+          "fuente": "https://programa.adelanteandalucia.org/programa-29n-adelante-andalucia.pdf#page=76",
+          "fecha": "2026-11-16",
+          "verificada": true
+        },
+        {
+          "texto": "Suprimir los aforamientos de parlamentarios, Gobierno y Corona mediante reforma constitucional.",
+          "cita": "Para quienes ocupan escaño en el Congreso y el Senado, el Gobierno y la Corona, mediante reforma constitucional.",
+          "pagina": 90,
+          "fuente": "https://programa.adelanteandalucia.org/programa-29n-adelante-andalucia.pdf#page=90",
+          "fecha": "2026-11-16",
+          "verificada": true
+        },
+        {
+          "texto": "Limitar los mandatos y establecer la revocación de los cargos públicos.",
+          "cita": "Limitación de mandatos y revocación de los cargos públicos.",
+          "pagina": 90,
+          "fuente": "https://programa.adelanteandalucia.org/programa-29n-adelante-andalucia.pdf#page=90",
+          "fecha": "2026-11-16",
+          "verificada": true
+        },
+        {
+          "texto": "Crear una autoridad independiente contra la corrupción con protección legal para el personal público que denuncie.",
+          "cita": "Independiente y con protección legal para el personal público que denuncie.",
+          "pagina": 91,
+          "fuente": "https://programa.adelanteandalucia.org/programa-29n-adelante-andalucia.pdf#page=91",
+          "fecha": "2026-11-16",
+          "verificada": true
+        },
+        {
+          "texto": "Inhabilitar 15 años a condenados por corrupción y prohibir contratar con la Administración a empresas condenadas.",
+          "cita": "Inhabilitación de 15 años para condenados por corrupción y prohibición de contratar con la Administración para las empresas condenadas.",
+          "pagina": 91,
+          "fuente": "https://programa.adelanteandalucia.org/programa-29n-adelante-andalucia.pdf#page=91",
+          "fecha": "2026-11-16",
+          "verificada": true
+        },
+        {
+          "texto": "Aprobar una ley de grupos de interés con registro obligatorio y agenda pública de reuniones.",
+          "cita": "Ley de grupos de interés con agenda pública de reuniones.",
+          "pagina": 91,
+          "fuente": "https://programa.adelanteandalucia.org/programa-29n-adelante-andalucia.pdf#page=91",
+          "fecha": "2026-11-16",
+          "verificada": true
+        },
+        {
+          "texto": "Prohibir el indulto en los delitos de corrupción.",
+          "cita": "Prohibir el indulto en los delitos de corrupción.",
+          "pagina": 91,
+          "fuente": "https://programa.adelanteandalucia.org/programa-29n-adelante-andalucia.pdf#page=91",
+          "fecha": "2026-11-16",
+          "verificada": true
+        },
+        {
+          "texto": "Reformar la ley electoral para permitir votar desde los 16 años.",
+          "cita": "Reforma de la ley electoral para que la juventud pueda votar desde los 16 años.",
+          "pagina": 92,
+          "fuente": "https://programa.adelanteandalucia.org/programa-29n-adelante-andalucia.pdf#page=92",
+          "fecha": "2026-11-16",
+          "verificada": true
+        }
+      ],
+      "empleo": [
+        {
+          "texto": "Establecer la jornada laboral de 32 horas sin rebaja de sueldo.",
+          "cita": "Jornada laboral de 32 horas",
+          "pagina": 7,
+          "fuente": "https://programa.adelanteandalucia.org/programa-29n-adelante-andalucia.pdf#page=7",
+          "fecha": "2026-11-16",
+          "verificada": true
+        },
+        {
+          "texto": "Calcular la cuota de autónomos según los ingresos reales y no por tramos, con bonificaciones y 100 % en permisos por nacimiento y cuidado.",
+          "cita": "Cuota según los ingresos reales y no por tramos; cuota bonificada \nen vacaciones y al 100 % durante los permisos por nacimiento y \ncuidado;",
+          "pagina": 11,
+          "fuente": "https://programa.adelanteandalucia.org/programa-29n-adelante-andalucia.pdf#page=11",
+          "fecha": "2026-11-16",
+          "verificada": true
+        },
+        {
+          "texto": "Fijar la jubilación a los 64 años, desde los 55 con contrato de relevo, y jubilación completa con 40 años cotizados.",
+          "cita": "jubilación a los 64 años, desde los 55 con \ncontrato de relevo, y jubilación completa con 40 años cotizados.",
+          "pagina": 13,
+          "fuente": "https://programa.adelanteandalucia.org/programa-29n-adelante-andalucia.pdf#page=13",
+          "fecha": "2026-11-16",
+          "verificada": true
+        },
+        {
+          "texto": "Remunerar las prácticas de FP con al menos el SMI proporcional a las horas y con alta y cotización desde el primer día.",
+          "cita": "Al menos el SMI en proporción a las horas, con alta y cotización desde el primer día,",
+          "pagina": 45,
+          "fuente": "https://programa.adelanteandalucia.org/programa-29n-adelante-andalucia.pdf#page=45",
+          "fecha": "2026-11-16",
+          "verificada": true
+        },
+        {
+          "texto": "Encarecer el despido: 50 días por año en indefinidos y 60 en temporales, con autorización de la Inspección.",
+          "cita": "50 días por año en el indefinido y 60 en el temporal, con autorización de la Inspección y límites a los despidos colectivos en empresas con beneficios.",
+          "pagina": 63,
+          "fuente": "https://programa.adelanteandalucia.org/programa-29n-adelante-andalucia.pdf#page=63",
+          "fecha": "2026-11-16",
+          "verificada": true
+        },
+        {
+          "texto": "Prohibir las horas extra salvo emergencia o fuerza mayor, con registro horario real.",
+          "cita": "Prohibidas salvo emergencia o fuerza mayor, con registro horario real.",
+          "pagina": 63,
+          "fuente": "https://programa.adelanteandalucia.org/programa-29n-adelante-andalucia.pdf#page=63",
+          "fecha": "2026-11-16",
+          "verificada": true
+        },
+        {
+          "texto": "Limitar el abanico salarial en la empresa a un máximo de cinco veces el salario más bajo.",
+          "cita": "Nadie cobrará en una empresa más de cinco veces el salario más bajo.",
+          "pagina": 63,
+          "fuente": "https://programa.adelanteandalucia.org/programa-29n-adelante-andalucia.pdf#page=63",
+          "fecha": "2026-11-16",
+          "verificada": true
+        },
+        {
+          "texto": "Establecer presunción de relación laboral cuando el 70 % de la facturación proceda de un solo cliente.",
+          "cita": "Presunción de relación laboral cuando el 70 % de la facturación venga de un solo cliente e inspecciones masivas.",
+          "pagina": 63,
+          "fuente": "https://programa.adelanteandalucia.org/programa-29n-adelante-andalucia.pdf#page=63",
+          "fecha": "2026-11-16",
+          "verificada": true
+        },
+        {
+          "texto": "Pagar la incapacidad temporal al 100 % desde el primer día, sin depender del convenio.",
+          "cita": "Incapacidad temporal pagada al 100 % desde el primer día, sin depender del convenio.",
+          "pagina": 66,
+          "fuente": "https://programa.adelanteandalucia.org/programa-29n-adelante-andalucia.pdf#page=66",
+          "fecha": "2026-11-16",
+          "verificada": true
+        },
+        {
+          "texto": "Establecer una cuota de reserva del 10 % en el empleo público para personas con discapacidad.",
+          "cita": "Ajustes de puesto obligatorios, empleo con apoyo y cuota de reserva del 10 % en el empleo público.",
+          "pagina": 52,
+          "fuente": "https://programa.adelanteandalucia.org/programa-29n-adelante-andalucia.pdf#page=52",
+          "fecha": "2026-11-16",
+          "verificada": true
+        }
+      ],
+      "sanidad": [
+        {
+          "texto": "Fijar por ley un gasto sanitario mínimo del 8 % del PIB, derogar la Ley 15/1997 y acabar con conciertos y externalizaciones.",
+          "cita": "Sanidad 100 % pública, con un suelo de gasto del 8 % del PIB \nfijado por ley, derogación de la Ley 15/1997 y fin de los conciertos y \nexternalizaciones",
+          "pagina": 14,
+          "fuente": "https://programa.adelanteandalucia.org/programa-29n-adelante-andalucia.pdf#page=14",
+          "fecha": "2026-11-16",
+          "verificada": true
+        },
+        {
+          "texto": "Crear un impuesto sobre los beneficios que la sanidad privada obtiene de los conciertos, destinado a investigación pública contra el cáncer.",
+          "cita": "Un impuesto sobre los beneficios que la sanidad privada obtiene \nde los conciertos, destinado íntegramente a la investigación \npública contra el cáncer.",
+          "pagina": 15,
+          "fuente": "https://programa.adelanteandalucia.org/programa-29n-adelante-andalucia.pdf#page=15",
+          "fecha": "2026-11-16",
+          "verificada": true
+        },
+        {
+          "texto": "Incorporar psicología en atención primaria y garantizar cita en salud mental en un máximo de 15 días desde la derivación.",
+          "cita": "Psicología en atención primaria y cita en salud mental en un máximo de 15 días desde la derivación.",
+          "pagina": 16,
+          "fuente": "https://programa.adelanteandalucia.org/programa-29n-adelante-andalucia.pdf#page=16",
+          "fecha": "2026-11-16",
+          "verificada": true
+        },
+        {
+          "texto": "Integrar progresivamente MUFACE, ISFAS y MUGEJU en el Sistema Nacional de Salud.",
+          "cita": "Integración progresiva de MUFACE, ISFAS y MUGEJU en el Sistema Nacional de Salud;",
+          "pagina": 36,
+          "fuente": "https://programa.adelanteandalucia.org/programa-29n-adelante-andalucia.pdf#page=36",
+          "fecha": "2026-11-16",
+          "verificada": true
+        },
+        {
+          "texto": "Aprobar una ley de garantías de atención primaria: cita en 48 horas, 10 minutos por consulta y máximo de 1.500 pacientes por profesional.",
+          "cita": "Cita en un máximo de 48 horas, presencial si se pide; al menos 10 minutos por consulta; 1.500 pacientes como máximo por profesional de medicina y de enfermería de familia;",
+          "pagina": 36,
+          "fuente": "https://programa.adelanteandalucia.org/programa-29n-adelante-andalucia.pdf#page=36",
+          "fecha": "2026-11-16",
+          "verificada": true
+        },
+        {
+          "texto": "Destinar por ley el 25 % del presupuesto sanitario a atención primaria y el 2 % a salud pública.",
+          "cita": "Suelos de inversión fijados por ley sobre el presupuesto sanitario total.",
+          "pagina": 36,
+          "fuente": "https://programa.adelanteandalucia.org/programa-29n-adelante-andalucia.pdf#page=36",
+          "fecha": "2026-11-16",
+          "verificada": true
+        },
+        {
+          "texto": "Garantizar en todo el Estado 30 días para primera consulta con especialista, 15 para pruebas diagnósticas y 120 para operarse.",
+          "cita": "En todo el Estado: 30 días para la primera consulta con especialista, 15 para una prueba diagnóstica y 120 para operarse,",
+          "pagina": 37,
+          "fuente": "https://programa.adelanteandalucia.org/programa-29n-adelante-andalucia.pdf#page=37",
+          "fecha": "2026-11-16",
+          "verificada": true
+        },
+        {
+          "texto": "Limitar a 12 horas la suma de jornada ordinaria y guardia, con la hora de guardia nunca por debajo de la ordinaria.",
+          "cita": "Jornada ordinaria y guardia sumadas, nunca más de 12 horas;",
+          "pagina": 37,
+          "fuente": "https://programa.adelanteandalucia.org/programa-29n-adelante-andalucia.pdf#page=37",
+          "fecha": "2026-11-16",
+          "verificada": true
+        },
+        {
+          "texto": "Suprimir la tasa de reposición en sanidad, garantizando por ley al menos el 100 % de reposición y cubriendo todas las ausencias.",
+          "cita": "Un hueco, un contrato de larga duración; supresión de la tasa de reposición, con al menos el 100 % de reposición garantizado por ley y todas las ausencias cubiertas.",
+          "pagina": 37,
+          "fuente": "https://programa.adelanteandalucia.org/programa-29n-adelante-andalucia.pdf#page=37",
+          "fecha": "2026-11-16",
+          "verificada": true
+        },
+        {
+          "texto": "Aprobar una ley estatal contra el cáncer con tratamiento en 21 días como máximo y reconstrucción mamaria en 90 días.",
+          "cita": "Tratamiento en 21 días como máximo, reconstrucción mamaria en 90 días y apoyo social, laboral y psicológico hasta la recuperación completa.",
+          "pagina": 38,
+          "fuente": "https://programa.adelanteandalucia.org/programa-29n-adelante-andalucia.pdf#page=38",
+          "fecha": "2026-11-16",
+          "verificada": true
+        }
+      ]
     }
   },
   "resumen": {},
@@ -7181,6 +7675,14 @@
           "fuente": "https://www.psoe.es/media-content/2026/11/PROGRAMAPSOE29N26.pdf#page=30",
           "fecha": "2026-11-15",
           "verificada": true
+        },
+        "adelante": {
+          "postura": "si",
+          "cita": "Índice estatal de referencia por barrio o municipio para que ningún alquiler supere el 20 % de la renta media de la zona.",
+          "pagina": 49,
+          "fuente": "https://programa.adelanteandalucia.org/programa-29n-adelante-andalucia.pdf#page=49",
+          "fecha": "2026-11-16",
+          "verificada": true
         }
       }
     },
@@ -7245,6 +7747,14 @@
           "fuente": "https://www.psoe.es/media-content/2026/11/PROGRAMAPSOE29N26.pdf#page=32",
           "fecha": "2026-11-15",
           "verificada": true
+        },
+        "adelante": {
+          "postura": "si",
+          "cita": "Prohibición de la compra especulativa y de que los fondos compren vivienda.",
+          "pagina": 4,
+          "fuente": "https://programa.adelanteandalucia.org/programa-29n-adelante-andalucia.pdf#page=4",
+          "fecha": "2026-11-16",
+          "verificada": true
         }
       }
     },
@@ -7305,6 +7815,14 @@
         "psoe": {
           "postura": "sin",
           "fecha": "2026-11-15"
+        },
+        "adelante": {
+          "postura": "matiz",
+          "cita": "un IRPF \nque baje a las rentas más bajas y suba con fuerza a partir de \n100.000 euros al año",
+          "pagina": 10,
+          "fuente": "https://programa.adelanteandalucia.org/programa-29n-adelante-andalucia.pdf#page=10",
+          "fecha": "2026-11-16",
+          "verificada": true
         }
       }
     },
@@ -7364,6 +7882,14 @@
           "pagina": 107,
           "fuente": "https://www.psoe.es/media-content/2026/11/PROGRAMAPSOE29N26.pdf#page=107",
           "fecha": "2026-11-15",
+          "verificada": true
+        },
+        "adelante": {
+          "postura": "si",
+          "cita": "Impuesto a las grandes fortunas y a los terratenientes;",
+          "pagina": 10,
+          "fuente": "https://programa.adelanteandalucia.org/programa-29n-adelante-andalucia.pdf#page=10",
+          "fecha": "2026-11-16",
           "verificada": true
         }
       }
@@ -7429,6 +7955,14 @@
         "psoe": {
           "postura": "sin",
           "fecha": "2026-11-15"
+        },
+        "adelante": {
+          "postura": "si",
+          "cita": "Derogación de la Ley de Extranjería, regularización extraordinaria y cierre de los CIE, empezando por Algeciras.",
+          "pagina": 28,
+          "fuente": "https://programa.adelanteandalucia.org/programa-29n-adelante-andalucia.pdf#page=28",
+          "fecha": "2026-11-16",
+          "verificada": true
         }
       }
     },
@@ -7485,6 +8019,14 @@
         "psoe": {
           "postura": "sin",
           "fecha": "2026-11-15"
+        },
+        "adelante": {
+          "postura": "si",
+          "cita": "Prohibir el indulto en los delitos de corrupción.",
+          "pagina": 91,
+          "fuente": "https://programa.adelanteandalucia.org/programa-29n-adelante-andalucia.pdf#page=91",
+          "fecha": "2026-11-16",
+          "verificada": true
         }
       }
     },
@@ -7541,6 +8083,14 @@
           "fuente": "https://www.psoe.es/media-content/2026/11/PROGRAMAPSOE29N26.pdf#page=41",
           "fecha": "2026-11-15",
           "verificada": true
+        },
+        "adelante": {
+          "postura": "si",
+          "cita": "Jornada laboral de 32 horas",
+          "pagina": 7,
+          "fuente": "https://programa.adelanteandalucia.org/programa-29n-adelante-andalucia.pdf#page=7",
+          "fecha": "2026-11-16",
+          "verificada": true
         }
       }
     },
@@ -7593,6 +8143,14 @@
           "fuente": "https://www.psoe.es/media-content/2026/11/PROGRAMAPSOE29N26.pdf#page=50",
           "fecha": "2026-11-15",
           "verificada": true
+        },
+        "adelante": {
+          "postura": "si",
+          "cita": "En todo el Estado: 30 días para la primera consulta con especialista, 15 para una prueba diagnóstica y 120 para operarse,",
+          "pagina": 37,
+          "fuente": "https://programa.adelanteandalucia.org/programa-29n-adelante-andalucia.pdf#page=37",
+          "fecha": "2026-11-16",
+          "verificada": true
         }
       }
     }
@@ -7642,6 +8200,11 @@
       "url": "https://www.psoe.es/media-content/2026/11/PROGRAMAPSOE29N26.pdf",
       "fecha": "2026-11-15",
       "paginas": 114
+    },
+    "adelante": {
+      "url": "https://programa.adelanteandalucia.org/programa-29n-adelante-andalucia.pdf",
+      "fecha": "2026-11-16",
+      "paginas": 134
     }
   },
   "debates": [],
