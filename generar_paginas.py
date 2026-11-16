@@ -144,7 +144,7 @@ def paginas_partido():
         else:
             comp = ""
         if p.get("sin_escano"):
-            vot = '<p class="muted">No tenía diputados en el Congreso en esta legislatura, así que no hay votaciones suyas.</p>'
+            vot = f'<p class="muted">{e(p.get("votos_nota") or "No tenía diputados en el Congreso en esta legislatura, así que no hay votaciones suyas.")}</p>'
         else:
             vot = '<ul class="rows">' + "".join(fila_voto(v, pid) for v in VOTOS) + "</ul>"
         cs = [c for c in CASOS if c["party"] == pid]
@@ -199,7 +199,7 @@ def fuente(bold, size):
     return ImageFont.truetype(str(RAIZ / f"Atkinson-{'Bold' if bold else 'Regular'}.ttf"), size)
 
 COLOR = {"si": "#1E7B4C", "no": "#B3261E", "matiz": "#8A6D1F", "sin": "#5A6678", "pend": "#8A93A3"}
-CORTO = {"pp": "PP", "cc": "CC", "bildu": "EH Bildu", "salf": "SALF", "fo": "F. Obrero", "sumar": "F. Amplio"}
+CORTO = {"pp": "PP", "cc": "CC", "bildu": "EH Bildu", "salf": "SALF", "fo": "F. Obrero", "sumar": "F. Amplio", "adelante": "Adelante"}
 TIRA = ["#2457C5", "#7C3AED", "#0E7C7B", "#7C5E3C", "#B45F06", "#8E2D5A", "#4B53BC", "#C2410C"]
 
 def partir(draw, texto, f, ancho):
