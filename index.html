@@ -598,7 +598,7 @@ const visibles = (pid,tid) => ((MEASURES[pid]||{})[tid]||[]).filter(x=>x.verific
 const citaLimpia = c => (c||"").replace(/(\p{L})-\s*\n\s*(\p{L})/gu,"$1$2").replace(/\s*\n\s*/g," ");
 const medidaHTML = x => `<li>${x.texto}<div class="med-meta"><a class="src" href="${x.fuente}" target="_blank" rel="noopener">${x.pagina?`Programa, pág. ${x.pagina}`:"Fuente"}</a>${x.cita?`<details class="cita"><summary>Ver cita</summary><blockquote>«${esc(citaLimpia(x.cita))}»</blockquote></details>`:""}</div></li>`;
 const progInfo = pid => { const g=PROGRAMAS[pid]; return g&&g.url ? g : null; };
-const sinMedidas = pid => PROGRAMAS[pid] ? "Su programa no incluye medidas sobre este tema." : "Programa aún no publicado.";
+const sinMedidas = pid => PROGRAMAS[pid] ? "Su programa no incluye medidas sobre este tema." : "Programa aún no incorporado a esta web.";
 const pname = id => (PARTIES.find(p=>p.id===id)||{}).name||id;
 const fdate = d => new Date(d+"T00:00:00").toLocaleDateString("es-ES",{day:"numeric",month:"long",year:"numeric"});
 function voteOf(v,id){ return v.si.includes(id)?["si",v.yesLabel]:v.no.includes(id)?["no",v.noLabel]:["nd","Sin dato"]; }
@@ -704,7 +704,7 @@ document.getElementById("sug-form").addEventListener("submit",async e=>{
 // ---- COMPARADOR "¿QUIÉN PROPONE QUÉ?" ----
 let pendingPregunta=null;
 function irAPregunta(){ if(!pendingPregunta) return; const el=document.getElementById(pendingPregunta); if(el){ setTimeout(()=>el.scrollIntoView({block:"start"}),60); pendingPregunta=null; } }
-const POSTURA={si:["si","Sí"],no:["no","No"],matiz:["matiz","Con matices"],sin:["sin","No se pronuncia"],pend:["pend","Sin programa aún"]};
+const POSTURA={si:["si","Sí"],no:["no","No"],matiz:["matiz","Con matices"],sin:["sin","No se pronuncia"],pend:["pend","Programa pendiente"]};
 function postura(q,pid){
   const x=(q.posturas||{})[pid];
   if(!PROGRAMAS[pid]) return {k:"pend"};
@@ -792,7 +792,7 @@ function renderPartyView(){
         return `<article class="pv-topic" data-tema="${t.id}"><h5><span class="nm">${t.name}</span>${m.length?`<span class="n">${m.length} ${m.length===1?"medida":"medidas"}</span>`:""}</h5>${easy?`<p class="easy">${easy}</p>`:""}${m.length
           ?`<ul class="medidas">${m.map(medidaHTML).join("")}</ul>`
           :'<p class="pending">Sin medidas sobre este tema en su programa.</p>'}</article>`;}).join("")}</div>`
-    : '<p class="pv-empty">Su programa electoral aún no se ha publicado. Cuando lo haga, aquí verás sus medidas ordenadas por tema.</p>';
+    : '<p class="pv-empty">Aún no hemos incorporado su programa electoral a esta web. Cuando lo hagamos, aquí verás sus medidas ordenadas por tema. Si ya lo ha publicado y no lo tenemos, avísanos en el buzón.</p>';
   const votes=p.sin_escano?`<p class="pv-empty">${p.votos_nota||"No tenía diputados en el Congreso en esta legislatura, así que no hay votaciones suyas."}</p>`:VOTES.length?`<ul class="pv-votes">${VOTES.map(x=>{const [c]=voteOf(x,p.id);const lbl=c==="si"?x.yesLabel:c==="no"?x.noLabel:"Sin dato";
       return `<li><span class="t">${x.title}<small>${fdate(x.date)} · ${x.result}</small></span><span class="v ${c}">${lbl}</span></li>`;}).join("")}</ul>`:"";
   const cs=CASES.filter(c=>c.party===p.id);
