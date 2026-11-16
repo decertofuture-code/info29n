@@ -8,7 +8,7 @@ on:
         type: choice
         options: [pp, psoe, vox, sumar, erc, junts, bildu, pnv, podemos, bng, cc, upn, fo, salf, pcte, pacma, compromis, adelante]
       url_pdf:
-        description: "Enlace directo al PDF del programa (en la web oficial del partido)"
+        description: "Enlace directo al PDF del programa, o a la página web del programa si no hay PDF (en la web oficial del partido)"
         type: string
         required: true
 

@@ -632,7 +632,7 @@ function render(){
       ? `<ul class="medidas">${m.map(medidaHTML).join("")}</ul>`
       : `<p class="pending">${sinMedidas(p.id)}</p>`;
     const g=progInfo(p.id);
-    const prog=g?`<p class="prog-mini"><a href="${g.url}" target="_blank" rel="noopener">Programa completo (PDF${g.paginas?`, ${g.paginas} págs.`:""})</a></p>`:"";
+    const prog=g?`<p class="prog-mini"><a href="${g.url}" target="_blank" rel="noopener">Programa completo (${g.formato==="web"?"web":`PDF${g.paginas?`, ${g.paginas} págs.`:""}`})</a></p>`:"";
     const easy=(RESUMEN[p.id]||{})[current];
     const votes=p.sin_escano?"":VOTES.filter(v=>v.topic===current).map(v=>{const [c,l]=voteOf(v,p.id);
       return `<p class="vote-line">${v.title} (${fdate(v.date)}): <span class="v ${c}">${l}</span></p>`;}).join("");
@@ -713,7 +713,7 @@ function postura(q,pid){
 }
 function stanceCell(q,pid,showName){
   const {k,x}=postura(q,pid); const [cls,lbl]=POSTURA[k];
-  return `<li class="cmp-row">${showName?`<a class="cmp-party" href="#partido-${pid}">${pname(pid)}</a>`:""}<span class="cmp-badge cmp-${cls}">${lbl}</span>${x&&x.cita?`<details class="cita"><summary>Cita, pág. ${x.pagina}</summary><blockquote>«${esc(x.cita)}»</blockquote><a class="src" href="${x.fuente}" target="_blank" rel="noopener">Ver en el programa</a></details>`:""}</li>`;
+  return `<li class="cmp-row">${showName?`<a class="cmp-party" href="#partido-${pid}">${pname(pid)}</a>`:""}<span class="cmp-badge cmp-${cls}">${lbl}</span>${x&&x.cita?`<details class="cita"><summary>${x.pagina?`Cita, pág. ${x.pagina}`:"Cita"}</summary><blockquote>«${esc(x.cita)}»</blockquote><a class="src" href="${x.fuente}" target="_blank" rel="noopener">Ver en el programa</a></details>`:""}</li>`;
 }
 let cmpTopic="all";
 function renderComparador(){
@@ -737,7 +737,7 @@ function partyStances(pid){
   if(!PREGUNTAS.length) return "";
   if(!PROGRAMAS[pid]) return '<p class="pv-empty">Disponible cuando el partido publique su programa.</p>';
   return `<ul class="pv-votes">${PREGUNTAS.map(q=>{const {k,x}=postura(q,pid);const [cls,lbl]=POSTURA[k];
-    return `<li><span class="t">${q.pregunta}${x&&x.cita?`<small>«${esc(x.cita)}» (pág. ${x.pagina})</small>`:""}</span><span class="cmp-badge cmp-${cls}">${lbl}</span></li>`;}).join("")}</ul>`;
+    return `<li><span class="t">${q.pregunta}${x&&x.cita?`<small>«${esc(x.cita)}»${x.pagina?` (pág. ${x.pagina})`:""}</small>`:""}</span><span class="cmp-badge cmp-${cls}">${lbl}</span></li>`;}).join("")}</ul>`;
 }
 document.getElementById("cmp-filter").addEventListener("click",e=>{
   const b=e.target.closest("button"); if(!b) return; cmpTopic=b.dataset.t; renderComparador();
@@ -806,7 +806,7 @@ function renderPartyView(){
       <span class="news-meta">${esc(n.medio)} · ${fdatetime(n.fecha)}</span></li>`).join("")}</ul>`:'<p class="pv-empty">No hay noticias recientes que lo mencionen.</p>';
   v.innerHTML=`<header class="pv-head"><h3>${p.name}</h3><p>${p.lead}</p>
       <nav class="pv-jump" aria-label="Secciones de ${p.name}"><a href="#pv-propuestas">Propuestas</a><a href="#pv-comparador">Comparador</a><a href="#pv-votaciones">Votaciones</a><a href="#pv-casos">Casos judiciales</a>${ents.length?'<a href="#pv-entrevistas">Entrevistas</a>':""}<a href="#pv-noticias">Noticias</a></nav></header>
-    <section class="pv-block" id="pv-propuestas"><h4>Propuestas</h4>${topics}${(g=>g?`<p class="prog-link"><a href="${g.url}" target="_blank" rel="noopener">Leer el programa electoral completo (PDF)</a><span>${g.paginas?`${g.paginas} páginas · `:""}Documento oficial publicado por el partido</span></p>`:"")(progInfo(p.id))}</section>
+    <section class="pv-block" id="pv-propuestas"><h4>Propuestas</h4>${topics}${(g=>g?`<p class="prog-link"><a href="${g.url}" target="_blank" rel="noopener">Leer el programa electoral completo (${g.formato==="web"?"web":"PDF"})</a><span>${g.paginas&&g.formato!=="web"?`${g.paginas} páginas · `:""}${g.formato==="web"?"Publicado por el partido en su web oficial":"Documento oficial publicado por el partido"}</span></p>`:"")(progInfo(p.id))}</section>
     <section class="pv-block" id="pv-comparador"><h4>Su postura en el comparador</h4>${partyStances(p.id)}</section>
     <section class="pv-block" id="pv-votaciones"><h4>Qué votó en esta legislatura</h4>${votes}</section>
     <section class="pv-block" id="pv-casos"><h4>Casos judiciales</h4>${cases}</section>

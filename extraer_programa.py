@@ -1,12 +1,13 @@
 #!/usr/bin/env python3
 """
-Extrae las medidas de un programa electoral (PDF) con la API de Claude y prepara un borrador en datos.json.
+Extrae las medidas de un programa electoral (PDF o página web) con la API de Claude y prepara un borrador en datos.json.
 
 Uso (normalmente desde GitHub Actions, workflow "Procesar programa"):
   PARTIDO=pp URL_PDF=https://... ANTHROPIC_API_KEY=... python extraer_programa.py
 
 Qué hace:
-  1. Descarga el PDF y lee el texto de cada página.
+  1. Descarga el PDF y lee el texto de cada página. Si la dirección es una página web, lee esa página
+     y las que cuelgan de la misma sección del sitio (cada página web cuenta como una «página»).
   2. Lo envía a Claude por bloques de páginas y pide, para cada uno de los temas de la web,
      las medidas concretas con una CITA LITERAL y su NÚMERO DE PÁGINA, y la postura del partido
      en las preguntas del comparador si el texto la expresa claramente.
@@ -18,7 +19,9 @@ Qué hace:
 """
 import base64, io, json, os, re, sys, time, unicodedata
 from datetime import datetime
+from html.parser import HTMLParser
 from pathlib import Path
+from urllib.parse import urljoin, urldefrag, urlparse
 from urllib.request import Request, urlopen
 from urllib.error import HTTPError
 from zoneinfo import ZoneInfo
@@ -31,6 +34,8 @@ INFORME = RAIZ / "informe_programa.md"
 MODELO = os.getenv("MODELO", "claude-sonnet-5-5")
 PAGINAS_POR_BLOQUE = int(os.getenv("PAGINAS_POR_BLOQUE", "25"))
 MAX_POR_TEMA = int(os.getenv("MAX_POR_TEMA", "10"))
+MAX_PAGINAS_WEB = int(os.getenv("MAX_PAGINAS_WEB", "80"))
+CAB = {"User-Agent": "Mozilla/5.0 (compatible; info29n.com; +https://info29n.com)", "Accept": "application/pdf,text/html,*/*"}
 HOY = datetime.now(ZoneInfo("Europe/Madrid")).date().isoformat()
 
 # ------------------------------------------------------------------ utilidades
@@ -116,6 +121,71 @@ Devuelve exactamente este JSON:
 {{"medidas":[{{"tema":"...","texto":"...","cita":"...","pagina":0}}],
   "posturas":[{{"pregunta":"...","postura":"si|no|matiz","cita":"...","pagina":0}}]}}"""
 
+
+# ------------------------------------------------------------------ programas publicados como web
+BLOQUES = {"p", "div", "li", "ul", "ol", "section", "article", "br", "tr", "table", "blockquote",
+           "h1", "h2", "h3", "h4", "h5", "h6", "header", "main", "dd", "dt"}
+IGNORAR = {"script", "style", "noscript", "svg", "nav", "footer", "form", "iframe", "template"}
+
+class LectorHTML(HTMLParser):
+    """Saca el texto visible y los enlaces de una página HTML (solo con la librería estándar)."""
+    def __init__(self):
+        super().__init__(convert_charrefs=True)
+        self.partes, self.enlaces, self.oculto = [], [], 0
+    def handle_starttag(self, tag, attrs):
+        if tag in IGNORAR:
+            self.oculto += 1
+        elif tag == "a":
+            href = dict(attrs).get("href")
+            if href:
+                self.enlaces.append(href)
+        if tag in BLOQUES:
+            self.partes.append("\n")
+    def handle_endtag(self, tag):
+        if tag in IGNORAR and self.oculto:
+            self.oculto -= 1
+        if tag in BLOQUES:
+            self.partes.append("\n")
+    def handle_data(self, data):
+        if not self.oculto:
+            self.partes.append(data)
+    def texto(self):
+        t = re.sub(r"[ \t\r\f\v]+", " ", "".join(self.partes))
+        return re.sub(r"\n\s*\n+", "\n", t).strip()
+
+def leer_web(url_inicio, html_inicio):
+    """Recorre las páginas del programa: la inicial y las enlazadas que cuelgan de la misma sección del sitio
+    (por ejemplo, todo lo que está bajo /programa/). Devuelve dos listas paralelas: textos y direcciones."""
+    base = urlparse(url_inicio)
+    ruta = base.path if base.path.endswith("/") else base.path.rsplit("/", 1)[0] + "/"
+    partes = [x for x in ruta.split("/") if x]
+    # Si la dirección es una subpágina (p. ej. /programa/todas/), la sección es su primer nivel (/programa/).
+    prefijo = "/" + partes[0] + "/" if partes else "/"
+    textos, urls, vistos, cola = [], [], {urldefrag(url_inicio)[0]}, [(url_inicio, html_inicio)]
+    while cola and len(urls) < MAX_PAGINAS_WEB:
+        url, html = cola.pop(0)
+        if html is None:
+            try:
+                with urlopen(Request(url, headers=CAB), timeout=60) as r:
+                    if "html" not in r.headers.get("Content-Type", ""):
+                        continue
+                    html = r.read().decode(r.headers.get_content_charset() or "utf-8", "replace")
+                time.sleep(0.5)
+            except Exception as e:
+                print(f"    no se pudo leer {url}: {e}")
+                continue
+        lector = LectorHTML(); lector.feed(html)
+        texto = lector.texto()
+        if len(texto) > 80 and texto not in textos:
+            textos.append(texto); urls.append(url)
+        for href in lector.enlaces:
+            u = urldefrag(urljoin(url, href))[0]
+            p = urlparse(u)
+            if p.netloc == base.netloc and p.path.startswith(prefijo) and u not in vistos \
+                    and not re.search(r"\.(pdf|jpe?g|png|gif|svg|webp|zip|docx?)$", p.path, re.I):
+                vistos.add(u); cola.append((u, None))
+    return textos, urls
+
 # ------------------------------------------------------------------ programa
 def main():
     partido = os.environ["PARTIDO"].strip()
@@ -129,17 +199,34 @@ def main():
     ids_preg = {q["id"] for q in preguntas}
 
     print(f"Descargando {url}")
-    cab = {"User-Agent": "Mozilla/5.0 (compatible; info29n.com; +https://info29n.com)", "Accept": "application/pdf,*/*"}
-    with urlopen(Request(url, headers=cab), timeout=120) as r:
-        tipo, pdf_bytes = r.headers.get("Content-Type", ""), r.read()
-    if not pdf_bytes.lstrip()[:5].startswith(b"%PDF"):
-        sys.exit(f"La dirección no devuelve un PDF (tipo: {tipo}, {len(pdf_bytes)} bytes, empieza por {pdf_bytes[:60]!r}).")
-    lector = PdfReader(io.BytesIO(pdf_bytes))
-    textos = [(pg.extract_text() or "") for pg in lector.pages]
-    n = len(textos)
-    media = sum(len(t) for t in textos) / max(n, 1)
-    modo_pdf = media < 300   # PDF escaneado o con poco texto: se envía el PDF a Claude en lugar del texto
-    print(f"{n} páginas, {int(media)} caracteres por página de media. Modo: {'PDF' if modo_pdf else 'texto'}")
+    with urlopen(Request(url, headers=CAB), timeout=120) as r:
+        tipo, contenido_url = r.headers.get("Content-Type", ""), r.read()
+        juego = r.headers.get_content_charset() or "utf-8"
+    es_web = not contenido_url.lstrip()[:5].startswith(b"%PDF")
+    lector, modo_pdf, urls_pag = None, False, []
+    if es_web:
+        # Programa publicado como páginas web en lugar de PDF: cada página web cuenta como una «página».
+        if "html" not in tipo and not contenido_url.lstrip()[:1] == b"<":
+            sys.exit(f"La dirección no devuelve un PDF ni una página web (tipo: {tipo}, {len(contenido_url)} bytes).")
+        textos, urls_pag = leer_web(url, contenido_url.decode(juego, "replace"))
+        n = len(textos)
+        if not n:
+            sys.exit("No se ha encontrado texto en la página web del programa.")
+        print(f"{n} páginas web leídas, {int(sum(len(t) for t in textos) / n)} caracteres por página de media. Modo: web")
+        for u in urls_pag:
+            print(f"    {u}")
+    else:
+        lector = PdfReader(io.BytesIO(contenido_url))
+        textos = [(pg.extract_text() or "") for pg in lector.pages]
+        n = len(textos)
+        media = sum(len(t) for t in textos) / max(n, 1)
+        modo_pdf = media < 300   # PDF escaneado o con poco texto: se envía el PDF a Claude en lugar del texto
+        print(f"{n} páginas, {int(media)} caracteres por página de media. Modo: {'PDF' if modo_pdf else 'texto'}")
+
+    def fuente(pag):
+        if es_web:
+            return urls_pag[pag - 1] if 1 <= pag <= n else url
+        return f"{url}#page={pag}" if pag else url
 
     medidas, posturas = [], []
     pendientes = [(ini, min(ini + PAGINAS_POR_BLOQUE, n)) for ini in range(0, n, PAGINAS_POR_BLOQUE)]
@@ -157,7 +244,9 @@ def main():
                                                   f"numera las páginas a partir de ahí.\n\n" + instrucciones(temas, preguntas, ini+1, fin)}]
         else:
             bloque = "\n\n".join(f"=== Página {i+1} ===\n{textos[i]}" for i in range(ini, fin))
-            contenido = instrucciones(temas, preguntas, ini+1, fin) + "\n\nTEXTO:\n" + bloque
+            aviso = ("Este programa está publicado como páginas web: cada «Página N» es una página web distinta del "
+                     "programa (puede haber páginas de índice que repiten resúmenes de otras).\n\n") if es_web else ""
+            contenido = aviso + instrucciones(temas, preguntas, ini+1, fin) + "\n\nTEXTO:\n" + bloque
         try:
             r = claude(SYSTEM, contenido)
         except RespuestaNoValida as e:
@@ -194,8 +283,8 @@ Devuelve exactamente este JSON: {{"elegidas":[índices]}}
 {opciones}""", max_tokens=1000)
             idx = [i for i in r.get("elegidas", []) if isinstance(i, int) and 0 <= i < len(lista)][:MAX_POR_TEMA]
             lista = [lista[i] for i in sorted(set(idx))] or lista[:MAX_POR_TEMA]
-        final[t["id"]] = [{"texto": m["texto"].strip(), "cita": m["cita"].strip(), "pagina": m["pagina"],
-                           "fuente": f"{url}#page={m['pagina']}" if m["pagina"] else url,
+        final[t["id"]] = [{"texto": m["texto"].strip(), "cita": m["cita"].strip(), "pagina": 0 if es_web else m["pagina"],
+                           "fuente": fuente(m["pagina"]),
                            "fecha": HOY, "verificada": m["verificada"]} for m in lista]
 
     # Comparador: una postura por pregunta (prioridad a las verificadas); se señalan las contradicciones
@@ -208,13 +297,14 @@ Devuelve exactamente este JSON: {{"elegidas":[índices]}}
         if len({p["postura"] for p in ps}) > 1:
             conflictos.append((q, ps))
         p = ps[0]
-        pos_final[q["id"]] = {"postura": p["postura"], "cita": p["cita"].strip(), "pagina": p["pagina"],
-                              "fuente": f"{url}#page={p['pagina']}" if p["pagina"] else url,
+        pos_final[q["id"]] = {"postura": p["postura"], "cita": p["cita"].strip(), "pagina": 0 if es_web else p["pagina"],
+                              "fuente": fuente(p["pagina"]),
                               "fecha": HOY, "verificada": p["verificada"]}
 
     # Guardar en datos.json
     datos.setdefault("medidas", {})[partido] = final
-    datos.setdefault("programas", {})[partido] = {"url": url, "fecha": HOY, "paginas": n}
+    datos.setdefault("programas", {})[partido] = ({"url": url, "fecha": HOY, "formato": "web", "paginas": None}
+                                                  if es_web else {"url": url, "fecha": HOY, "paginas": n})
     for q in datos.get("preguntas", []):
         q.setdefault("posturas", {})[partido] = pos_final[q["id"]]
     DATOS.write_text(json.dumps(datos, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
@@ -224,7 +314,8 @@ Devuelve exactamente este JSON: {{"elegidas":[índices]}}
     sin_verificar = [(t, m) for t, ms in final.items() for m in ms if not m["verificada"]]
     nombre_tema = {t["id"]: t["name"] for t in temas}
     L = [f"## Programa de {nombres[partido]}", "",
-         f"- PDF: {url} ({n} páginas, modo {'PDF' if modo_pdf else 'texto'})",
+         (f"- Web: {url} ({n} páginas web leídas; cada medida enlaza a la página donde está su cita)" if es_web
+          else f"- PDF: {url} ({n} páginas, modo {'PDF' if modo_pdf else 'texto'})"),
          f"- Medidas extraídas: **{total}** · sin verificar: **{len(sin_verificar)}**",
          f"- Modelo: `{MODELO}`", "",
          "Al aprobar (Merge) este cambio, las medidas se publican en la web y se anuncia en X.",
@@ -234,7 +325,8 @@ Devuelve exactamente este JSON: {{"elegidas":[índices]}}
         L.append(f"### {t['name']} ({len(final[t['id']])})")
         for m in final[t["id"]]:
             marca = "✅" if m["verificada"] else "⚠️ **sin verificar**"
-            L.append(f"- {marca} {m['texto']} — pág. {m['pagina']}\n  > {m['cita']}")
+            donde = m["fuente"] if es_web else f"pág. {m['pagina']}"
+            L.append(f"- {marca} {m['texto']} — {donde}\n  > {m['cita']}")
         L.append("")
     L.append("### Comparador")
     for q in preguntas:
@@ -242,7 +334,8 @@ Devuelve exactamente este JSON: {{"elegidas":[índices]}}
         etiqueta = {"si": "Sí", "no": "No", "matiz": "Con matices", "sin": "No se pronuncia"}[p["postura"]]
         linea = f"- {q['pregunta']} → **{etiqueta}**"
         if p["postura"] != "sin":
-            linea += f" (pág. {p['pagina']}{'' if p['verificada'] else ', ⚠️ sin verificar'})\n  > {p['cita']}"
+            donde = p["fuente"] if es_web else f"pág. {p['pagina']}"
+            linea += f" ({donde}{'' if p['verificada'] else ', ⚠️ sin verificar'})\n  > {p['cita']}"
         L.append(linea)
     if conflictos:
         L += ["", "### ⚠️ Posturas contradictorias detectadas (revisar a mano)"]

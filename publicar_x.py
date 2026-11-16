@@ -145,8 +145,9 @@ def cambios():
     nuevos_programas = [pid for pid in prog_n if pid not in prog_v]
     for pid in nuevos_programas:
         visibles = sum(1 for ms in nuevo.get("medidas", {}).get(pid, {}).values() for m in ms if m.get("verificada", True))
+        donde = "el enlace a su fuente" if prog_n[pid].get("formato") == "web" else "la página del programa"
         avisos.append((f"Ya puedes consultar el programa electoral de {nombre.get(pid, pid)}: {visibles} medidas ordenadas por tema, "
-                       "cada una con su cita literal y la página del programa.", f"partido-{pid}"))
+                       f"cada una con su cita literal y {donde}.", f"partido-{pid}"))
 
     # Medidas de los programas
     mv, mn = viejo.get("medidas", {}), nuevo.get("medidas", {})
