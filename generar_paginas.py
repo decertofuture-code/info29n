@@ -25,7 +25,7 @@ ESTADOS, PREGUNTAS, PROGRAMAS = d.get("estados", {}), d.get("preguntas", []), d.
 NOMBRE = {p["id"]: p["name"] for p in PARTIDOS}
 TEMA = {t["id"]: t["name"] for t in TEMAS}
 MESES = ["enero", "febrero", "marzo", "abril", "mayo", "junio", "julio", "agosto", "septiembre", "octubre", "noviembre", "diciembre"]
-POSTURA = {"si": ("si", "Sí"), "no": ("no", "No"), "matiz": ("matiz", "Con matices"), "sin": ("sin", "No se pronuncia"), "pend": ("pend", "Programa no publicado")}
+POSTURA = {"si": ("si", "Sí"), "no": ("no", "No"), "matiz": ("matiz", "Con matices"), "sin": ("sin", "No se pronuncia"), "pend": ("pend", "Programa pendiente de incorporar")}
 
 e = lambda t: html.escape(str(t or ""), quote=True)
 
@@ -137,7 +137,7 @@ def paginas_partido():
                 "</section>" for t in TEMAS)
             prop = f'<div class="grid">{prop}</div>'
         else:
-            prop = '<p class="muted">Su programa electoral para el 29N aún no se ha publicado. Cuando lo haga, aquí estarán sus medidas por tema, cada una con su cita literal y la página del programa.</p>'
+            prop = '<p class="muted">Aún no hemos incorporado a esta web su programa electoral para el 29N. Cuando lo hagamos, aquí estarán sus medidas por tema, cada una con su cita literal y la página del programa.</p>'
         if pid in PROGRAMAS and PREGUNTAS:
             filas = "".join(fila_postura(q, pid) for q in PREGUNTAS)
             comp = f'<section><h2>Su postura en el comparador</h2><ul class="rows">{filas}</ul></section>'
@@ -172,7 +172,7 @@ def paginas_tema():
             elif p["id"] in PROGRAMAS:
                 cont = '<p class="muted">Su programa no incluye medidas sobre este tema.</p>'
             else:
-                cont = '<p class="muted">Programa aún no publicado.</p>'
+                cont = '<p class="muted">Programa aún no incorporado a esta web.</p>'
             bloques.append(f'<section class="card"><h3><a href="/partido/{p["id"]}/">{e(p["name"])}</a></h3>{cont}</section>')
         vs = [v for v in VOTOS if v["topic"] == tid]
         vot = ""
@@ -235,7 +235,7 @@ def imagen_pregunta(q):
         x0, y0 = 60 + (i % cols) * cw, y + (i // cols) * rh
         nombre = CORTO.get(p["id"], p["name"])
         dr.text((x0, y0 + 8), nombre, font=fn, fill="#1B2A41")
-        lab = POSTURA[k][1] if k != "pend" else "Sin programa"
+        lab = POSTURA[k][1] if k != "pend" else "Pendiente"
         tw = dr.textlength(lab, font=fb)
         bx1 = x0 + cw - 24; bx0 = bx1 - tw - 28
         if k == "pend":
