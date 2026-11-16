@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-15T21:37+00:00",
+  "actualizado": "2026-11-16T13:14+00:00",
   "temas": [
     {
       "id": "vivienda",
@@ -4813,6 +4813,393 @@
   ],
   "noticias": [
     {
+      "titulo": "Frente Amplio plantea limitar las herencias, recortar la jornada laboral e impulsar las bajas autojustificadas",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/frente-amplio-plantea-limitar-herencias-rebajar-anos-20261116122400-nt.html",
+      "fecha": "2026-11-16T13:01+00:00",
+      "partidos": [
+        "sumar"
+      ]
+    },
+    {
+      "titulo": "El PSOE acusa a Núñez de difundir bulos sobre los impuestos que se pagan en la región para comprar vivienda",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/castilla-la-mancha/psoe-acusa-nunez-difundir-bulos-sobre-impuestos-20261116140003-nt.html",
+      "fecha": "2026-11-16T13:00+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "El Frente Amplio exige al PSOE aprobar ya la prestación por crianza dado que ahora la incluye en su programa",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/politica/frente-amplio-exige-psoe-aprobar-prestacion-crianza-dado-ahora-incluye-programa_1_13667569.html",
+      "fecha": "2026-11-16T12:59+00:00",
+      "partidos": [
+        "psoe",
+        "sumar"
+      ]
+    },
+    {
+      "titulo": "El PSOE apuesta por rebajar la edad de voto a los 16 años y crear un escaño ciudadano en el Congreso y el Senado",
+      "medio": "Europa Press",
+      "url": "https://www.europapress.es/nacional/noticia-psoe-apuesta-rebajar-edad-voto-16-anos-crear-escano-ciudadano-congreso-senado-20261116135359.html",
+      "fecha": "2026-11-16T12:53+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "Elecciones generales 29-N | Encuestas, candidatos y última hora del cuarto día de campaña del PP, PSOE y Vox, hoy en directo",
+      "medio": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/politica/20261116/11683294/elecciones-generales-campana-electoral-candidatos-ultima-hora-en-directo.html",
+      "fecha": "2026-11-16T12:43+00:00",
+      "partidos": [
+        "pp",
+        "psoe",
+        "vox"
+      ]
+    },
+    {
+      "titulo": "Programa electoral del PSOE para el 29N: de mejorar la red ferroviaria a facilitar el acceso a una vivienda, consulta las 500 medidas",
+      "medio": "20minutos",
+      "url": "https://www.20minutos.es/nacional/programa-electoral-psoe-29n-mejorar-red-ferroviarias-facilitar-acceso-vivienda-500-medidas_7061522_0.html",
+      "fecha": "2026-11-16T12:36+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "Juanma Moreno en El Ejido: «Cada uno puede votar lo que quiera el 29N, pero la columna vertebral debe ser el PP»",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/andalucia/almeria/juanma-moreno-ejido-puede-votar-quiera-29n-20261116122556-nts.html",
+      "fecha": "2026-11-16T12:34+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "María Jesús Montero: «Si alguien está sufriendo violencia política ese es Pedro Sánchez»",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/andalucia/maria-jesus-montero-alguien-sufriendo-violencia-politica-20261116132944-nts.html",
+      "fecha": "2026-11-16T12:31+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "Feijóo irá con Jon Echeverría a Eibar y Bilbao tras la agresión al candidato del PP en Hernani",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/pais-vasco/feijoo-reordena-campana-viaja-jon-echeverria-eibar-20261116124658-nt.html",
+      "fecha": "2026-11-16T12:28+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "El Frente Amplio denuncia la vandalización de su sede de campaña en Valladolid",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/castilla-y-leon/politica/frente-amplio-denuncia-vandalizacion-sede-campana-valladolid_1_13667468.html",
+      "fecha": "2026-11-16T12:13+00:00",
+      "partidos": [
+        "sumar"
+      ]
+    },
+    {
+      "titulo": "El secretario de Organización de Podemos Aragón acude a un mitin de Chunta y el Frente Amplio en plena crisis interna",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/aragon/politica/secretario-organizacion-aragon-acude-mitin-cha-frente-amplio-plena-crisis-interna_1_13667166.html",
+      "fecha": "2026-11-16T12:02+00:00",
+      "partidos": [
+        "sumar",
+        "podemos"
+      ]
+    },
+    {
+      "titulo": "Ángel Gaitán, el mecánico más famoso de España, entrevista a Abascal tras el plantón a Jordi Wild: “Tienes mi voto”",
+      "medio": "El País",
+      "url": "https://elpais.com/espana/elecciones-generales/2026-11-16/angel-gaitan-el-mecanico-mas-famoso-de-espana-entrevista-a-abascal-tras-el-planton-a-jordi-wild-tienes-mi-voto.html",
+      "fecha": "2026-11-16T11:58+00:00",
+      "partidos": [
+        "vox"
+      ]
+    },
+    {
+      "titulo": "Frente Amplio propone limitar las herencias de los \"ultrarricos\", jornada laboral de 32 horas y comedores gratuitos",
+      "medio": "20minutos",
+      "url": "https://www.20minutos.es/nacional/frente-propone-limitar-las-herencias-los-ultrarricos-una-prestacion-universal-por-crianza-200-euros-comedores-gratuitos_7061498_0.html",
+      "fecha": "2026-11-16T11:34+00:00",
+      "partidos": [
+        "sumar"
+      ]
+    },
+    {
+      "titulo": "Frente Amplio apuesta por una jornada laboral de 32 horas y jubilación a los 65 años",
+      "medio": "El País",
+      "url": "https://elpais.com/espana/elecciones-generales/2026-11-16/frente-amplio-apuesta-por-una-jornada-laboral-de-32-horas-y-jubilacion-a-los-65-anos.html",
+      "fecha": "2026-11-16T11:31+00:00",
+      "partidos": [
+        "sumar"
+      ]
+    },
+    {
+      "titulo": "Lula y el general de sus brigadas digitales entran en la campaña electoral de España con su visita a Pedro Sánchez",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/internacional/lula-general-brigadas-digitales-entran-campana-electoral-espana-visita-pedro-sanchez_1_13662847.html",
+      "fecha": "2026-11-16T10:50+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "Elisa Garrido, candidata del PSOE: \"El candidato de Vox me llama asesina y hay grupos que llevan esa violencia a lo cotidiano\"",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/la-rioja/elisa-garrido-candidata-psoe-candidato-vox-llama-asesina-hay-grupos-llevan-violencia-cotidiano_1_13666721.html",
+      "fecha": "2026-11-16T10:45+00:00",
+      "partidos": [
+        "psoe",
+        "vox"
+      ]
+    },
+    {
+      "titulo": "El PP propone una ‘ley de nietos’ para que los exiliados vascos por terrorismo de ETA puedan votar en las elecciones autonómicas",
+      "medio": "El País",
+      "url": "https://elpais.com/espana/elecciones-generales/2026-11-16/el-pp-propone-una-ley-de-nietos-para-que-los-exiliados-vascos-por-terrorismo-de-eta-puedan-votar-en-las-elecciones-autonomicas.html",
+      "fecha": "2026-11-16T10:30+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "Feijóo propone una 'ley de nietos' vasca para que puedan votar los exiliados por ETA",
+      "medio": "20minutos",
+      "url": "https://www.20minutos.es/nacional/feijoo-propone-una-ley-nietos-vasca-para-que-puedan-votar-los-exiliados-por-eta_7061515_0.html",
+      "fecha": "2026-11-16T10:18+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "La candidata de Compromís-Front Valencià denuncia con una camiseta que \"la dirección de À Punt manipula\" en su entrevista en la televisión pública",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/comunitat-valenciana/politica/candidata-compromis-front-valencia-denuncia-camiseta-direccion-punt-manipula-entrevista-television-publica_1_13666802.html",
+      "fecha": "2026-11-16T10:09+00:00",
+      "partidos": [
+        "compromis"
+      ]
+    },
+    {
+      "titulo": "Feijóo propone una 'ley de nietos vasca' para que los exiliados por ETA puedan votar en Euskadi y Navarra",
+      "medio": "Europa Press",
+      "url": "https://www.europapress.es/nacional/noticia-feijoo-propone-ley-nietos-vasca-expulsados-terrorismo-eta-puedan-votar-euskadi-20261116110857.html",
+      "fecha": "2026-11-16T10:08+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "Feijóo propondrá en Pamplona una ley de nietos vasca para reparar a los “expulsados” por ETA",
+      "medio": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/politica/20261116/11685266/feijoo-propondra-pamplona-ley-nietos-vasca.html",
+      "fecha": "2026-11-16T09:59+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "Frente Amplio quiere limitar las herencias de ultrarricos a un máximo de 10 millones por heredero",
+      "medio": "Europa Press",
+      "url": "https://www.europapress.es/nacional/noticia-frente-amplio-propone-limitar-herencias-ultrarricos-maximo-10-millones-euros-heredero-20261116105438.html",
+      "fecha": "2026-11-16T09:54+00:00",
+      "partidos": [
+        "sumar"
+      ]
+    },
+    {
+      "titulo": "El Frente Amplio lanza una ofensiva fiscal contra las herencias de más de 10 millones de euros",
+      "medio": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/politica/20261116/11685244/frente-amplio-ofensiva-fiscal-herencias-10-millones-euros.html",
+      "fecha": "2026-11-16T09:43+00:00",
+      "partidos": [
+        "sumar"
+      ]
+    },
+    {
+      "titulo": "Junts llama a no aceptar una agenda “secuestrada” por dos bloques que no ponen Catalunya en el centro",
+      "medio": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/politica/20261116/11685189/junts-llama-aceptar-agenda-secuestrada-dos-bloques-ponen-catalunya-centro.html",
+      "fecha": "2026-11-16T09:22+00:00",
+      "partidos": [
+        "junts"
+      ]
+    },
+    {
+      "titulo": "El Frente Amplio propone un límite de 10 millones de euros a las herencias",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/politica/frente-amplio-propone-limite-10-millones-euros-herencias_1_13666594.html",
+      "fecha": "2026-11-16T09:03+00:00",
+      "partidos": [
+        "sumar"
+      ]
+    },
+    {
+      "titulo": "Colau afirma que la OIT pierde a la mejor aspirante tras retirar Yolanda Díaz su candidata para dirigir el organismo",
+      "medio": "Europa Press",
+      "url": "https://www.europapress.es/nacional/noticia-colau-afirma-oit-pierde-mejor-aspirante-retirar-yolanda-diaz-candidata-dirigir-organismo-20261116094456.html",
+      "fecha": "2026-11-16T08:44+00:00",
+      "partidos": [
+        "sumar"
+      ]
+    },
+    {
+      "titulo": "El Frente Amplio le canta a los que no llegan a fin de mes en su spot para el 29-N",
+      "medio": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/politica/20261116/11685190/frente-amplio-cancion-videoclip-maria-arnal-spot-elecciones-29n.html",
+      "fecha": "2026-11-16T08:37+00:00",
+      "partidos": [
+        "sumar"
+      ]
+    },
+    {
+      "titulo": "Abascal apela en Cornellà a la defensa de la “identidad” amenazada por la inmigración",
+      "medio": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/politica/20261116/11684956/abascal-apela-cornella-defensa-identidad-amenazada-inmigracion.html",
+      "fecha": "2026-11-16T08:28+00:00",
+      "partidos": [
+        "vox"
+      ]
+    },
+    {
+      "titulo": "El PP cambia la agenda de campaña e incorpora una visita sorpresa de Núñez Feijóo a Gipuzkoa este martes",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/euskadi/pp-cambia-agenda-campana-e-incorpora-visita-sorpresa-nunez-feijoo-gipuzkoa-martes_1_13666490.html",
+      "fecha": "2026-11-16T07:55+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "Feijóo acentúa su ofensiva contra el PSOE por el voto femenino",
+      "medio": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/politica/20261116/11684938/feijoo-acentua-ofensiva-psoe-voto-femenino.html",
+      "fecha": "2026-11-16T05:00+00:00",
+      "partidos": [
+        "pp",
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "Vox se queda a medias en sus esfuerzos por suavizar su discurso para no dar miedo",
+      "medio": "El País",
+      "url": "https://elpais.com/espana/2026-11-16/vox-se-queda-a-medias-en-sus-esfuerzos-por-suavizar-su-discurso-para-no-dar-miedo.html",
+      "fecha": "2026-11-16T04:30+00:00",
+      "partidos": [
+        "vox"
+      ]
+    },
+    {
+      "titulo": "El PSOE remonta pero no altera la mayoría de la derecha",
+      "medio": "El País",
+      "url": "https://elpais.com/espana/elecciones-generales/2026-11-16/el-psoe-remonta-pero-no-altera-la-mayoria-de-la-derecha.html",
+      "fecha": "2026-11-16T04:30+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "Sánchez reproduce en su programa medidas de Sumar y se envuelve en la bandera para intentar pescar votos a izquierda y derecha",
+      "medio": "20minutos",
+      "url": "https://www.20minutos.es/nacional/sanchez-reproduce-su-programa-medidas-sumar-se-envuelve-bandera-para-intentar-pescar-votos-izquierda-derecha_7061354_0.html",
+      "fecha": "2026-11-16T04:00+00:00",
+      "partidos": [
+        "sumar"
+      ]
+    },
+    {
+      "titulo": "Feijóo asegura que el partido de las elecciones lo va \"ganando el PP\" aunque todo se resuelve \"en el minuto 90\"",
+      "medio": "Europa Press",
+      "url": "https://www.europapress.es/nacional/noticia-feijoo-asegura-partido-elecciones-va-ganando-pp-todo-resuelve-minuto-90-20261116020226.html",
+      "fecha": "2026-11-16T01:02+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "Causa de la financiación irregular del PSOE: las explicaciones de los técnicos del Tribunal de Cuentas no convencen a la UCO",
+      "medio": "El Mundo",
+      "url": "https://www.elmundo.es/espana/2026/11/16/6afa0cf3fc6c83a70f8b456e.html",
+      "fecha": "2026-11-16T00:01+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "María José Catalá: \"Feijóo está ante el reto de su vida y le costará sangre, sudor y lágrimas\"",
+      "medio": "El Mundo",
+      "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/16/6af9e07ee9cf4a2f498b457f.html",
+      "fecha": "2026-11-15T23:10+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "Sánchez se vuelca con Madrid para dar munición al PSOE frente a Ayuso ante \"la increíble fuga\" de voto del PP a Vox",
+      "medio": "El Mundo",
+      "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/16/6afa00f4e4d4d88a2b8b457e.html",
+      "fecha": "2026-11-15T23:10+00:00",
+      "partidos": [
+        "pp",
+        "psoe",
+        "vox"
+      ]
+    },
+    {
+      "titulo": "Tellado pide a votantes socialistas que \"se queden en casa\" para \"no ser cómplices\" de PSOE y su corrupción",
+      "medio": "20minutos",
+      "url": "https://www.20minutos.es/nacional/tellado-pide-votantes-socialistas-queden-casa-no-complices-corrupcion-psoe_7061384_0.html",
+      "fecha": "2026-11-15T21:18+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "Figaredo insiste en que Vox y BNG pelean un escaño por A Coruña y bromea con que no hay protestas por ser domingo",
+      "medio": "20minutos",
+      "url": "https://www.20minutos.es/nacional/figaredo-insiste-vox-bng-pelean-escano-coruna_7061380_0.html",
+      "fecha": "2026-11-15T20:59+00:00",
+      "partidos": [
+        "vox",
+        "bng"
+      ]
+    },
+    {
+      "titulo": "El PP agita el discurso de la inseguridad pese a los bajos niveles de criminalidad y azuza el miedo a la inmigración",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/politica/pp-agita-discurso-inseguridad-pese-bajos-niveles-criminalidad-azuza-miedo-inmigracion_1_13663991.html",
+      "fecha": "2026-11-15T20:56+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "El PP cuestiona a la AIReF y al Banco de España y esconde sus planes hasta tener una auditoría “independiente” del Estado",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/economia/pp-cuestiona-airef-banco-espana-esconde-planes-auditoria-independiente_1_13658352.html",
+      "fecha": "2026-11-15T20:56+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "Antifraude investiga una plaza de alto funcionario en la Diputación de Valencia ocupada por un histórico del PP",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/comunitat-valenciana/politica/antifraude-investiga-plaza-alto-funcionario-diputacion-valencia-ocupada-historico-pp_1_13661325.html",
+      "fecha": "2026-11-15T20:56+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
       "titulo": "Rueda llama a convertir Galicia en el «motor» de la victoria de Feijóo el 29N",
       "medio": "ABC",
       "url": "https://www.abc.es/espana/galicia/rueda-llama-convertir-galicia-motor-victoria-feijoo-20261115211514-nt.html",
@@ -4875,6 +5262,15 @@
       "fecha": "2026-11-15T18:43+00:00",
       "partidos": [
         "psoe"
+      ]
+    },
+    {
+      "titulo": "Feijóo se dirige a Sánchez tras la agresión al candidato del PP en Guipúzcoa: \"Dígales a sus socios que no violenten la campaña\"",
+      "medio": "El Mundo",
+      "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/15/6af98b45fdddff16668b457e.html",
+      "fecha": "2026-11-15T18:36+00:00",
+      "partidos": [
+        "pp"
       ]
     },
     {
@@ -5394,6 +5790,15 @@
       ]
     },
     {
+      "titulo": "Compromís ante su oportunidad: formar grupo parlamentario y ser de los partidos 'influyentes'",
+      "medio": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/local/valencia/20261115/11682723/compromis-oportunidad-formar-grupo-parlamentario-partidos-influyentes.html",
+      "fecha": "2026-11-15T04:30+00:00",
+      "partidos": [
+        "compromis"
+      ]
+    },
+    {
       "titulo": "El Consejo de Estado cuestiona la \"prioridad nacional\" de Valencia y augura un pulso legal si PP y Vox la aplican tras el 29-N",
       "medio": "El Confidencial",
       "url": "https://www.elconfidencial.com/espana/comunidad-valenciana/2026-11-15/consejo-estado-prioridad-nacional-valencia-pulso-pp-vox_4464966/",
@@ -5458,7 +5863,8 @@
       "fecha": "2026-11-14T19:53+00:00",
       "partidos": [
         "pp",
-        "vox"
+        "vox",
+        "adelante"
       ]
     },
     {
@@ -6103,7 +6509,8 @@
       "fecha": "2026-11-14T04:30+00:00",
       "partidos": [
         "pp",
-        "vox"
+        "vox",
+        "compromis"
       ]
     },
     {
@@ -6769,7 +7176,8 @@
       "partidos": [
         "pp",
         "psoe",
-        "vox"
+        "vox",
+        "compromis"
       ]
     },
     {
@@ -7209,415 +7617,6 @@
       "fecha": "2026-11-12T23:28+00:00",
       "partidos": [
         "vox"
-      ]
-    },
-    {
-      "titulo": "Manuel Gavira arranca la campaña en Jerez pidiendo el voto masivo a Vox",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/andalucia/cadiz/manuel-gavira-arranca-campana-jerez-pidiendo-voto-20261112001028-nts.html",
-      "fecha": "2026-11-12T23:10+00:00",
-      "partidos": [
-        "vox"
-      ]
-    },
-    {
-      "titulo": "Sánchez o Feijóo: última oportunidad",
-      "medio": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/politica/20261113/11682906/sanchez-feijoo-ultima-oportunidad.html",
-      "fecha": "2026-11-12T23:05+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Vox sale en busca de un voto transversal: primera parada, las plazas donde pugna por el 'sorpasso'",
-      "medio": "El Mundo",
-      "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/13/6af62a0b21efa00c2b8b45a9.html",
-      "fecha": "2026-11-12T23:00+00:00",
-      "partidos": [
-        "vox"
-      ]
-    },
-    {
-      "titulo": "El PSOE se aferra a sus 'trackings' para la campaña ajeno a los sobresaltos por la corrupción y sin Zapatero ni Puente, a los que sigue considerando \"un valor\"",
-      "medio": "El Mundo",
-      "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/13/6af598a221efa09a158b458b.html",
-      "fecha": "2026-11-12T23:00+00:00",
-      "partidos": [
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "El PSOE encara una «campaña viva» sin Puente ni Zapatero",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/psoe-encara-campana-viva-puente-zapatero-20261112120928-nt.html",
-      "fecha": "2026-11-12T22:31+00:00",
-      "partidos": [
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "Otegi coloca a Bildu como 'muleta vasca' del PSOE mientras el PNV intenta alejarse de Sánchez tras ocho años de apoyo",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/pais-vasco/otegi-coloca-bildu-muleta-vasca-psoe-pnv-20261112223723-nt.html",
-      "fecha": "2026-11-12T21:57+00:00",
-      "partidos": [
-        "psoe",
-        "bildu",
-        "pnv"
-      ]
-    },
-    {
-      "titulo": "Abascal o la valentía de salir corriendo muerto de miedo",
-      "medio": "elDiario.es",
-      "url": "https://www.eldiario.es/politica/abascal-jordi-wild-entrevista_129_13658176.html",
-      "fecha": "2026-11-12T21:57+00:00",
-      "partidos": [
-        "vox"
-      ]
-    },
-    {
-      "titulo": "El presidente de Vox en Tarragona exhibe el logo del grupo neonazi Núcleo Nacional",
-      "medio": "elDiario.es",
-      "url": "https://www.eldiario.es/catalunya/presidente-vox-tarragona-exhibe-logo-grupo-neonazi-nucleo-nacional_1_13658004.html",
-      "fecha": "2026-11-12T21:57+00:00",
-      "partidos": [
-        "vox"
-      ]
-    },
-    {
-      "titulo": "Feijóo sigue la estela de Ayuso y se compromete a legislar para el 'no nacido': \"Buscan cambiar el imaginario\"",
-      "medio": "elDiario.es",
-      "url": "https://www.eldiario.es/sociedad/feijoo-sigue-estela-ayuso-compromete-legislar-no-nacido-buscan-cambiar-imaginario_1_13658051.html",
-      "fecha": "2026-11-12T21:57+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "El juez da 10 días al Tribunal de Cuentas para emitir un nuevo informe sobre las donaciones del PSOE que aclare los descuadres bancarios",
-      "medio": "El Mundo",
-      "url": "https://www.elmundo.es/espana/2026/11/12/6af62498e85ece93128b45a9.html",
-      "fecha": "2026-11-12T21:49+00:00",
-      "partidos": [
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "Feijóo se presenta como “gestor” para “resolver los problemas” frente al “saqueo” de Sánchez",
-      "medio": "El País",
-      "url": "https://elpais.com/espana/2026-11-12/feijoo-se-presenta-como-gestor-para-resolver-los-problemas-frente-al-saqueo-de-sanchez.html",
-      "fecha": "2026-11-12T21:26+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Pedro Sánchez vuelve a bailar en Sevilla y se agarra a Begoña Gómez para pedir el voto de la mujer",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/andalucia/pedro-sanchez-vuelve-bailar-sevilla-reclama-voto-20261112211051-nts.html",
-      "fecha": "2026-11-12T21:07+00:00",
-      "partidos": [
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "Los 'candidatos' por Valladolid, Puente y Redondo, un filón para el PP en el arranque de la campaña",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/castilla-leon/lista-psoe-valladolid-puente-redondo-filon-pp-20261112193851-nt.html",
-      "fecha": "2026-11-12T21:07+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Rufián acusa a Junts de ser \"colaboracionista de Abascal\" por no posicionarse contra PP y Vox",
-      "medio": "Europa Press",
-      "url": "https://www.europapress.es/catalunya/noticia-rufian-acusa-junts-ser-colaboracionista-abascal-no-posicionarse-contra-pp-vox-20261112220637.html",
-      "fecha": "2026-11-12T21:06+00:00",
-      "partidos": [
-        "pp",
-        "vox",
-        "junts"
-      ]
-    },
-    {
-      "titulo": "Podemos termina su precampaña con cargas contra el PSOE y el Frente Amplio: “Tienen como proyecto que las cosas sigan como están”",
-      "medio": "El País",
-      "url": "https://elpais.com/espana/elecciones-generales/2026-11-12/podemos-termina-su-precampana-con-cargas-contra-el-psoe-y-el-frente-amplio-tienen-como-proyecto-que-las-cosas-sigan-como-estan.html",
-      "fecha": "2026-11-12T20:50+00:00",
-      "partidos": [
-        "psoe",
-        "sumar",
-        "podemos"
-      ]
-    },
-    {
-      "titulo": "29N: Abascal despide la precampaña con debates menos «absurdos» que el de La Revuelta: «Si ganan, se considerarán impunes»",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/aragon/29n-abascal-despide-precampana-huesca-debates-esteriles-20261112204017-nt.html",
-      "fecha": "2026-11-12T20:47+00:00",
-      "partidos": [
-        "vox"
-      ]
-    },
-    {
-      "titulo": "Begoña Gómez se estrena en un mitin del PSOE para captar el voto de las mujeres",
-      "medio": "El País",
-      "url": "https://elpais.com/espana/elecciones-generales/2026-11-12/begona-gomez-se-estrena-en-un-mitin-del-psoe-para-captar-el-voto-de-las-mujeres.html",
-      "fecha": "2026-11-12T20:44+00:00",
-      "partidos": [
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "Abascal arranca la campaña con ataques a Pedro Sánchez y Begoña Gómez: \"Debería sentarse en el banquillo y está paseando a la señora\"",
-      "medio": "elDiario.es",
-      "url": "https://www.eldiario.es/aragon/politica/abascal-arranca-campana-ataques-pedro-sanchez-begona-gomez-deberia-sentarse-banquillo-paseando-senora_1_13660090.html",
-      "fecha": "2026-11-12T20:33+00:00",
-      "partidos": [
-        "psoe",
-        "vox"
-      ]
-    },
-    {
-      "titulo": "Rufián ironiza sobre un posible gobierno de PP y Vox: \"Viene Figo de ministro de deportes e Iker Jiménez en el telediario\"",
-      "medio": "elDiario.es",
-      "url": "https://www.eldiario.es/catalunya/rufian-ironiza-posible-gobierno-pp-vox-viene-figo-ministro-deportes-e-iker-jimenez-telediario_1_13659975.html",
-      "fecha": "2026-11-12T20:33+00:00",
-      "partidos": [
-        "pp",
-        "vox"
-      ]
-    },
-    {
-      "titulo": "Feijóo abre su campaña en Catalunya, clave en la ruta para llegar a la Moncloa",
-      "medio": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/politica/20261112/11682913/feijoo-abre-campana-catalunya-clave-ruta-llegar-moncloa.html",
-      "fecha": "2026-11-12T20:25+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Abascal culmina la precampaña con 22 provincias visitadas y 25 actos en dos semanas",
-      "medio": "El País",
-      "url": "https://elpais.com/espana/elecciones-generales/2026-11-12/abascal-culmina-la-precampana-con-22-provincias-visitadas-y-25-actos-en-dos-semanas.html",
-      "fecha": "2026-11-12T20:24+00:00",
-      "partidos": [
-        "vox"
-      ]
-    },
-    {
-      "titulo": "Feijóo lanza la campaña del PP desacreditando la huelga: \"España va a cambiar y vamos a abrir una nueva etapa\"",
-      "medio": "elDiario.es",
-      "url": "https://www.eldiario.es/politica/feijoo-lanza-campana-pp-desacreditando-huelga-espana-cambiar-abrir-nueva-etapa_1_13660163.html",
-      "fecha": "2026-11-12T20:23+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Abascal carga contra la intervención de Begoña Gómez en campaña: “No tienen vergüenza”",
-      "medio": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/politica/20261112/11682914/abascal-carga-intervencion-begona-gomez-campana-vergueenza.html",
-      "fecha": "2026-11-12T20:23+00:00",
-      "partidos": [
-        "vox"
-      ]
-    },
-    {
-      "titulo": "Junts quiere aglutinar el voto catalán para volver a influir en Madrid tras las elecciones del 29-N",
-      "medio": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/politica/20261112/11682905/junts-quiere-aglutinar-voto-catalan-volver-influir-madrid-elecciones-29-n.html",
-      "fecha": "2026-11-12T20:19+00:00",
-      "partidos": [
-        "junts"
-      ]
-    },
-    {
-      "titulo": "Nogueras erige a Junts como los únicos que priorizan a Catalunya: \"No nos apartaremos\"",
-      "medio": "Europa Press",
-      "url": "https://www.europapress.es/catalunya/noticia-nogueras-erige-junts-unicos-priorizan-catalunya-no-nos-apartaremos-20261112211949.html",
-      "fecha": "2026-11-12T20:19+00:00",
-      "partidos": [
-        "junts"
-      ]
-    },
-    {
-      "titulo": "ERC se erige en el freno a la derecha para disputar la hegemonía al PSC",
-      "medio": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/politica/elecciones/20261112/11682864/erc-erige-freno-derecha-disputar-hegemonia-psc.html",
-      "fecha": "2026-11-12T20:16+00:00",
-      "partidos": [
-        "erc"
-      ]
-    },
-    {
-      "titulo": "Los partidos catalanes inician la campaña con el PSC en cabeza y Rufián y Colau peleando por el mismo espacio",
-      "medio": "elDiario.es",
-      "url": "https://www.eldiario.es/catalunya/partidos-catalanes-inician-campana-psc-cabeza-rufian-colau-peleando-espacio_1_13659910.html",
-      "fecha": "2026-11-12T20:13+00:00",
-      "partidos": [
-        "sumar"
-      ]
-    },
-    {
-      "titulo": "Sánchez apela a la movilización del voto de las mujeres para una \"remontada épica\" ante Feijóo y Abascal",
-      "medio": "Europa Press",
-      "url": "https://www.europapress.es/nacional/noticia-sanchez-apela-movilizacion-voto-mujeres-remontada-epica-feijoo-abascal-20261112210758.html",
-      "fecha": "2026-11-12T20:07+00:00",
-      "partidos": [
-        "pp",
-        "vox"
-      ]
-    },
-    {
-      "titulo": "Maíllo llama a \"la remontada\" el 29N y destaca \"la valentía\" del Frente Amplio: \"Somos la izquierda que se arremanga\"",
-      "medio": "Europa Press",
-      "url": "https://www.europapress.es/andalucia/noticia-maillo-llama-remontada-29n-destaca-valentia-frente-amplio-somos-izquierda-arremanga-20261112210458.html",
-      "fecha": "2026-11-12T20:04+00:00",
-      "partidos": [
-        "sumar"
-      ]
-    },
-    {
-      "titulo": "Illa escolta a Hereu en el inicio de campaña para movilizar el voto socialista que sostiene al PSOE",
-      "medio": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/politica/20261112/11682902/illa-escolta-hereu-inicio-campana-movilizar-voto-socialista-sostiene-psoe.html",
-      "fecha": "2026-11-12T19:58+00:00",
-      "partidos": [
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "Feijóo promete desde Cataluña una \"auditoría del saqueo\" de Sánchez: \"Vengo a ofrecer un Gobierno que no robe\"",
-      "medio": "Europa Press",
-      "url": "https://www.europapress.es/nacional/noticia-feijoo-promete-cataluna-auditoria-saqueo-vengo-ofrecer-gobierno-no-robe-20261112205006.html",
-      "fecha": "2026-11-12T19:50+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Un cálculo alternativo del CIS preelectoral da la mayoría absoluta a PP y Vox aunque el PSOE sería primera fuerza",
-      "medio": "elDiario.es",
-      "url": "https://www.eldiario.es/politica/calculo-alternativo-cis-preelectoral-da-mayoria-absoluta-pp-vox-psoe-seria-primera-fuerza_1_13659317.html",
-      "fecha": "2026-11-12T19:48+00:00",
-      "partidos": [
-        "pp",
-        "psoe",
-        "vox"
-      ]
-    },
-    {
-      "titulo": "Abascal carga contra el PSOE por la intervención de Begoña Gómez en el arranque de campaña: \"No tienen vergüenza\"",
-      "medio": "Europa Press",
-      "url": "https://www.europapress.es/nacional/noticia-abascal-carga-contra-psoe-intervencion-begona-gomez-arranque-campana-no-tienen-verguenza-20261112204214.html",
-      "fecha": "2026-11-12T19:42+00:00",
-      "partidos": [
-        "psoe",
-        "vox"
-      ]
-    },
-    {
-      "titulo": "Colau se lanza con la vivienda para reactivar a la izquierda: \"El siguiente gobierno será contra la especulación o no será\"",
-      "medio": "El Mundo",
-      "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/12/6af60f3c21efa059588b45b3.html",
-      "fecha": "2026-11-12T19:32+00:00",
-      "partidos": [
-        "sumar"
-      ]
-    },
-    {
-      "titulo": "Vox denuncia a Silvia Intxaurrondo ante la Junta Electoral Central después de que RTVE la eligiera para entrevistar a los candidatos",
-      "medio": "20minutos",
-      "url": "https://www.20minutos.es/nacional/vox-denuncia-silvia-intxaurrondo-ante-junta-electoral-central-despues-que-rtve-eligiera-para-entrevistar-los-candidatos_7060494_0.html",
-      "fecha": "2026-11-12T19:25+00:00",
-      "partidos": [
-        "vox"
-      ]
-    },
-    {
-      "titulo": "Vox plantea imponer un límite de alumnos \"de otras culturas\" por aula en su programa electoral",
-      "medio": "elDiario.es",
-      "url": "https://www.eldiario.es/politica/vox-pide-limitar-aula-numero-alumnos-culturas-programa-electoral_1_13659842.html",
-      "fecha": "2026-11-12T19:20+00:00",
-      "partidos": [
-        "vox"
-      ]
-    },
-    {
-      "titulo": "El Frente Amplio arranca la campaña apelando a la remontada: \"Si llegamos a un 10%, se les acaba la fiesta\"",
-      "medio": "elDiario.es",
-      "url": "https://www.eldiario.es/politica/frente-amplio-arranca-campana-apelando-remontada-si-llegamos-10-les-acaba-fiesta_1_13659726.html",
-      "fecha": "2026-11-12T19:15+00:00",
-      "partidos": [
-        "sumar"
-      ]
-    },
-    {
-      "titulo": "El PP y Vox arrancan la campaña con una sólida mayoría absoluta y siguen sacando a votantes de la abstención",
-      "medio": "El Mundo",
-      "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/12/6af60b3ee4d4d8845c8b4577.html",
-      "fecha": "2026-11-12T19:14+00:00",
-      "partidos": [
-        "pp",
-        "vox"
-      ]
-    },
-    {
-      "titulo": "Begoña Gómez entra de lleno en campaña e interviene por primera vez en un mitin del PSOE",
-      "medio": "Europa Press",
-      "url": "https://www.europapress.es/nacional/noticia-begona-gomez-entra-lleno-campana-interviene-primera-vez-mitin-psoe-20261112200930.html",
-      "fecha": "2026-11-12T19:09+00:00",
-      "partidos": [
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "Irene Montero carga contra la idea del \"voto útil\": \"Para frenar a la extrema derecha, hace falta votar a Podemos\"",
-      "medio": "elDiario.es",
-      "url": "https://www.eldiario.es/politica/irene-montero-carga-idea-voto-util-frenar-extrema-derecha-falta-votar_1_13659936.html",
-      "fecha": "2026-11-12T19:08+00:00",
-      "partidos": [
-        "podemos"
-      ]
-    },
-    {
-      "titulo": "Feijóo sube a las redes la primera imagen de avance de su entrevista con Jordi Wild que se emite este viernes: \"Mañana...\"",
-      "medio": "20minutos",
-      "url": "https://www.20minutos.es/nacional/feijoo-sube-las-redes-primera-imagen-avance-su-entrevista-con-jordi-wild-que-se-emite-este-viernes-manana_7060500_0.html",
-      "fecha": "2026-11-12T19:07+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Begoña Gómez interviene por primera vez en un mitin del PSOE: \"Me habéis dado la mano y el aliento para continuar\"",
-      "medio": "20minutos",
-      "url": "https://www.20minutos.es/nacional/begona-gomez-participa-por-primera-vez-un-mitin-psoe-me-habeis-dado-mano-aliento-para-continuar_7060497_0.html",
-      "fecha": "2026-11-12T19:02+00:00",
-      "partidos": [
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "Begoña Gómez toma la palabra en el arranque de campaña del PSOE: \"Gracias por darme aliento para continuar\"",
-      "medio": "elDiario.es",
-      "url": "https://www.eldiario.es/politica/begona-gomez-toma-palabra-arranque-campana-psoe-gracias-haberme-dado-aliento-continuar_1_13659951.html",
-      "fecha": "2026-11-12T18:54+00:00",
-      "partidos": [
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "El Frente Amplio arranca la campaña en Vallecas al calor de la victoria del 'decreto Maricarmen'",
-      "medio": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/politica/20261112/11682867/frente-amplio-arranca-campana-vallecas-calor-victoria-decreto-maricarmen.html",
-      "fecha": "2026-11-12T18:54+00:00",
-      "partidos": [
-        "sumar"
       ]
     }
   ],
