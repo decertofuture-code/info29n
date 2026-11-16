@@ -8219,11 +8219,15 @@
           "verificada": true
         },
         "pcte": {
-          "postura": "sin",
-          "fecha": "2026-11-17"
+          "postura": "matiz",
+          "cita": "Expropiación sin indemnización de las viviendas vacías y de uso especulativo de bancos, fondos y grandes tenedores para incorporarlas al parque público.",
+          "pagina": 12,
+          "fuente": "https://oposicionobrera.pcte.es/assets/docs/CAS-Programa-de-lucha-PCTE-d.pdf#page=12",
+          "fecha": "2026-11-17",
+          "verificada": true
         },
         "sumar": {
-          "postura": "si",
+          "postura": "matiz",
           "cita": "Proponemos una ley estatal para expropiar viviendas de fondos de inversión y grandes propietarios corporativos e incorporarlas al parque público de alquiler social.",
           "pagina": 0,
           "fuente": "https://frenteamplio.info/programa/expropiacion-fondos-buitre/",
