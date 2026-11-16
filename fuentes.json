@@ -107,6 +107,14 @@
     "pacma": [
       "PACMA",
       "Partido Animalista"
+    ],
+    "compromis": [
+      "Compromís",
+      "Compromis"
+    ],
+    "adelante": [
+      "Adelante Andalucía",
+      "José Ignacio García"
     ]
   },
   "revisar": [
@@ -210,6 +218,12 @@
     "pacma": [
       "https://pacma.es/programa-electoral/",
       "https://pacma.es/"
+    ],
+    "compromis": [
+      "https://compromis.net/"
+    ],
+    "adelante": [
+      "https://adelanteandalucia.org/"
     ]
   }
 }

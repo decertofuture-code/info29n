@@ -538,7 +538,7 @@ body[data-tab="inicio"] .brand{color:var(--accent)}
       <p><b>Financiada por su responsable.</b> Todos los costes (dominio, alojamiento y herramientas) los paga de su bolsillo su responsable, Cristian Duarte Iglesias. La web no recibe dinero de partidos, empresas ni instituciones.</p>
       <p><b>Neutral por principio.</b> Aplicamos los mismos criterios a todos los partidos, no valoramos sus propuestas y no pedimos ni recomendamos el voto. Si crees que algo no es neutral, escríbenos y lo revisaremos.</p>
     </div>
-    <p><b>Qué partidos aparecen.</b> Los que tienen diputados en el Congreso al final de la legislatura, ordenados por número de diputados. Después, los partidos sin diputados que se presentan al Congreso en al menos 30 de las 52 circunscripciones según las candidaturas proclamadas en el BOE, ordenados por número de circunscripciones. Como no tenían diputados, no tienen votaciones en esta legislatura.</p>
+    <p><b>Qué partidos aparecen.</b> Los que tienen diputados en el Congreso al final de la legislatura, ordenados por número de diputados. Después, los partidos sin diputados que se presentan al Congreso en al menos 30 de las 52 circunscripciones según las candidaturas proclamadas en el BOE, ordenados por número de circunscripciones. Por último, otros partidos a los que el último estudio preelectoral del CIS (<a href="https://www.cis.es/documents/d/guest/3584_estimacion-pdf" target="_blank" rel="noopener">estudio 3584</a>, publicado el 12 de noviembre de 2026) da al menos un escaño incluso en su estimación más baja, ordenados por escaños estimados. Los partidos sin diputados propios en esta legislatura no tienen votaciones.</p>
     <p><b>Qué temas.</b> Los que más citan los españoles como principal problema del país en el último barómetro del CIS, en ese orden.</p>
     <p><b>Qué medidas.</b> Solo las que aparecen en el programa electoral oficial de cada partido, con la cita literal y la página. No resumimos con adjetivos ni valoramos si una medida es buena o mala.</p>
     <p><b>Cómo se extraen.</b> Todos los programas pasan por el mismo proceso: una inteligencia artificial (Claude, de Anthropic) localiza las medidas de cada tema y copia la frase exacta del programa; un programa informático comprueba que esa frase aparece de verdad en la página indicada, y una persona lo revisa antes de publicarlo. Las medidas cuya cita no se ha podido comprobar no se publican. Si un tema tiene muchas medidas, se muestran hasta diez, priorizando las más concretas.</p>
@@ -579,7 +579,7 @@ body[data-tab="inicio"] .brand{color:var(--accent)}
   </section>
 
   <footer>
-    <p>Última actualización: <span class="js-updated">—</span>. Partidos con representación en el Congreso, ordenados por número de diputados al final de la legislatura, y partidos sin diputados que se presentan en al menos 30 circunscripciones. Cada medida enlaza a su fuente. Sin publicidad y financiada por su responsable. Esta web no pide ni recomienda el voto.</p>
+    <p>Última actualización: <span class="js-updated">—</span>. Partidos con representación en el Congreso, ordenados por número de diputados al final de la legislatura, partidos sin diputados que se presentan en al menos 30 circunscripciones y otros partidos a los que el CIS da al menos un escaño. Cada medida enlaza a su fuente. Sin publicidad y financiada por su responsable. Esta web no pide ni recomienda el voto.</p>
     <nav class="idx" id="idx" aria-label="Páginas por partido y tema"></nav>
     <p><a href="#metodo" data-go="metodo">Cómo hacemos esta web</a> · <a href="#buzon" data-go="buzon">Buzón de sugerencias</a> · <a href="privacidad.html">Política de privacidad</a></p>
   </footer>
@@ -793,7 +793,7 @@ function renderPartyView(){
           ?`<ul class="medidas">${m.map(medidaHTML).join("")}</ul>`
           :'<p class="pending">Sin medidas sobre este tema en su programa.</p>'}</article>`;}).join("")}</div>`
     : '<p class="pv-empty">Su programa electoral aún no se ha publicado. Cuando lo haga, aquí verás sus medidas ordenadas por tema.</p>';
-  const votes=p.sin_escano?'<p class="pv-empty">No tenía diputados en el Congreso en esta legislatura, así que no hay votaciones suyas.</p>':VOTES.length?`<ul class="pv-votes">${VOTES.map(x=>{const [c]=voteOf(x,p.id);const lbl=c==="si"?x.yesLabel:c==="no"?x.noLabel:"Sin dato";
+  const votes=p.sin_escano?`<p class="pv-empty">${p.votos_nota||"No tenía diputados en el Congreso en esta legislatura, así que no hay votaciones suyas."}</p>`:VOTES.length?`<ul class="pv-votes">${VOTES.map(x=>{const [c]=voteOf(x,p.id);const lbl=c==="si"?x.yesLabel:c==="no"?x.noLabel:"Sin dato";
       return `<li><span class="t">${x.title}<small>${fdate(x.date)} · ${x.result}</small></span><span class="v ${c}">${lbl}</span></li>`;}).join("")}</ul>`:"";
   const cs=CASES.filter(c=>c.party===p.id);
   const cases=cs.length?`<div class="pv-cases">${cs.map(c=>`<article class="case"><h4>${c.title}</h4><p class="who">${c.who}</p>

@@ -142,6 +142,21 @@
       "candidato": "Asier Esparza",
       "sin_escano": true,
       "nacional": true
+    },
+    {
+      "id": "compromis",
+      "name": "Compromís",
+      "scope": "Comunitat Valenciana",
+      "candidato": null,
+      "sin_escano": true,
+      "votos_nota": "Sus diputados de esta legislatura fueron elegidos en la lista de Sumar, así que esta web no recoge sus votaciones por separado."
+    },
+    {
+      "id": "adelante",
+      "name": "Adelante Andalucía",
+      "scope": "Andalucía",
+      "candidato": null,
+      "sin_escano": true
     }
   ],
   "medidas": {

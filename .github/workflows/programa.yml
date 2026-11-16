@@ -6,7 +6,7 @@ on:
       partido:
         description: "Partido"
         type: choice
-        options: [pp, psoe, vox, sumar, erc, junts, bildu, pnv, podemos, bng, cc, upn, fo, salf, pcte, pacma]
+        options: [pp, psoe, vox, sumar, erc, junts, bildu, pnv, podemos, bng, cc, upn, fo, salf, pcte, pacma, compromis, adelante]
       url_pdf:
         description: "Enlace directo al PDF del programa (en la web oficial del partido)"
         type: string
