@@ -4769,6 +4769,162 @@
           "verificada": true
         }
       ]
+    },
+    "sumar": {
+      "vivienda": [
+        {
+          "texto": "Aprobar una ley estatal para expropiar viviendas de fondos de inversión y grandes propietarios corporativos e incorporarlas al parque público de alquiler social, con pago de precio justo.",
+          "cita": "Proponemos una ley estatal para expropiar viviendas de fondos de inversión y grandes propietarios corporativos e incorporarlas al parque público de alquiler social.",
+          "pagina": 0,
+          "fuente": "https://frenteamplio.info/programa/expropiacion-fondos-buitre/",
+          "fecha": "2026-11-17",
+          "verificada": true
+        },
+        {
+          "texto": "Crear un impuesto estatal del 10% sobre el valor de las viviendas, para empresas desde el primer inmueble y para particulares desde el cuarto si superan 800.000 euros, con exención para alquiler asequible.",
+          "cita": "un impuesto estatal del 10% sobre el valor de las viviendas, que se aplicará a las empresas desde el primer inmueble y a los particulares a partir del cuarto, cuando el valor conjunto de sus propiedades supere los 800.000 euros.",
+          "pagina": 0,
+          "fuente": "https://frenteamplio.info/programa/impuesto-antiespeculacion/",
+          "fecha": "2026-11-17",
+          "verificada": true
+        },
+        {
+          "texto": "Reformar la Ley de Arrendamientos Urbanos para garantizar alquileres comerciales de al menos cinco años, límites a las subidas anuales y derecho a renovar el contrato.",
+          "cita": "Queremos garantizar contratos de alquiler comercial de al menos cinco años, establecer límites legales a las subidas anuales y reconocer el derecho a renovar el contrato.",
+          "pagina": 0,
+          "fuente": "https://frenteamplio.info/programa/proteccion-autonomos-pequeno-comercio/",
+          "fecha": "2026-11-17",
+          "verificada": true
+        },
+        {
+          "texto": "Establecer un índice de precios de referencia para grandes tenedores de locales comerciales en zonas tensionadas por el turismo.",
+          "cita": "proponemos establecer un índice de precios de referencia para los grandes tenedores de locales comerciales en zonas tensionadas por el turismo.",
+          "pagina": 0,
+          "fuente": "https://frenteamplio.info/programa/proteccion-autonomos-pequeno-comercio/",
+          "fecha": "2026-11-17",
+          "verificada": true
+        }
+      ],
+      "economia": [
+        {
+          "texto": "Reformar el impuesto sobre las grandes fortunas con una tributación mínima del 2% desde un millón de euros y una tasa del 3% anual para patrimonios superiores a 50 millones.",
+          "cita": "Reformaremos el impuesto sobre las grandes fortunas para garantizar una tributación mínima del 2% a partir de un millón de euros y estableceremos una tasa del 3% anual para los patrimonios superiores a 50 millones.",
+          "pagina": 0,
+          "fuente": "https://frenteamplio.info/programa/tax-the-rich/",
+          "fecha": "2026-11-17",
+          "verificada": true
+        },
+        {
+          "texto": "Establecer un tipo efectivo mínimo del 20% en el Impuesto sobre Sociedades para grandes empresas y grupos corporativos, sobre su resultado contable ajustado.",
+          "cita": "proponemos establecer un tipo efectivo mínimo del 20% en el Impuesto sobre Sociedades para las grandes empresas y los grupos corporativos, calculado sobre su resultado contable ajustado.",
+          "pagina": 0,
+          "fuente": "https://frenteamplio.info/programa/impuesto-grandes-empresas/",
+          "fecha": "2026-11-17",
+          "verificada": true
+        },
+        {
+          "texto": "Garantizar que ninguna pensión, contributiva o no contributiva, sea inferior al salario mínimo interprofesional y que las pensiones mínimas suban al ritmo del SMI.",
+          "cita": "garantizar que ninguna pensión, contributiva o no contributiva, sea inferior al salario mínimo interprofesional (SMI) y recuperar la jubilación a los 65 años.",
+          "pagina": 0,
+          "fuente": "https://frenteamplio.info/programa/pension-minima-garantizada/",
+          "fecha": "2026-11-17",
+          "verificada": true
+        },
+        {
+          "texto": "Recuperar la edad legal de jubilación a los 65 años de forma efectiva.",
+          "cita": "Queremos fijar de forma efectiva los 65 años como edad legal de jubilación.",
+          "pagina": 0,
+          "fuente": "https://frenteamplio.info/programa/pension-minima-garantizada/",
+          "fecha": "2026-11-17",
+          "verificada": true
+        },
+        {
+          "texto": "Reforzar la financiación de las pensiones aumentando progresivamente las bases máximas de cotización y con una aportación adicional de las empresas más automatizadas.",
+          "cita": "reforzar su financiación mediante el aumento progresivo de las bases máximas de cotización y una aportación adicional de las empresas más automatizadas al Mecanismo de Equidad Intergeneracional.",
+          "pagina": 0,
+          "fuente": "https://frenteamplio.info/programa/pension-minima-garantizada/",
+          "fecha": "2026-11-17",
+          "verificada": true
+        },
+        {
+          "texto": "Aplicar el régimen europeo de IVA franquiciado a autónomos y pequeñas empresas que facturen menos de 85.000 euros al año, con una declaración informativa anual.",
+          "cita": "Proponemos aplicar el régimen europeo de IVA franquiciado para que los autónomos y pequeñas empresas que facturen menos de 85.000 euros al año queden exentos de las liquidaciones periódicas del IVA",
+          "pagina": 0,
+          "fuente": "https://frenteamplio.info/programa/proteccion-autonomos-pequeno-comercio/",
+          "fecha": "2026-11-17",
+          "verificada": true
+        },
+        {
+          "texto": "Reformar la Ley de Segunda Oportunidad y combatir la morosidad comercial de grandes empresas y administraciones públicas.",
+          "cita": "combatir la morosidad comercial de grandes empresas y administraciones públicas.",
+          "pagina": 0,
+          "fuente": "https://frenteamplio.info/programa/proteccion-autonomos-pequeno-comercio/",
+          "fecha": "2026-11-17",
+          "verificada": true
+        }
+      ],
+      "inmigracion": [],
+      "politica": [],
+      "empleo": [
+        {
+          "texto": "Establecer una cotización fija bonificada para autónomos con ingresos reales inferiores al SMI anual por causas objetivas.",
+          "cita": "puedan acogerse a una cotización fija bonificada sin perder derechos de protección social.",
+          "pagina": 0,
+          "fuente": "https://frenteamplio.info/programa/proteccion-autonomos-pequeno-comercio/",
+          "fecha": "2026-11-17",
+          "verificada": true
+        },
+        {
+          "texto": "Ampliar los permisos laborales retribuidos a personas designadas como referentes, sin necesidad de parentesco ni convivencia.",
+          "cita": "Proponemos ampliar los permisos laborales retribuidos para que las personas designadas como referentes puedan ejercer derechos por enfermedad, hospitalización, fallecimiento y cuidados",
+          "pagina": 0,
+          "fuente": "https://frenteamplio.info/programa/reconocimiento-familias-elegidas/",
+          "fecha": "2026-11-17",
+          "verificada": true
+        }
+      ],
+      "sanidad": [
+        {
+          "texto": "Incorporar progresivamente la salud bucodental, visual y auditiva a la sanidad pública, con ayudas universales para gafas y lentillas y financiación de audífonos.",
+          "cita": "proponemos incorporar progresivamente la salud bucodental, visual y auditiva a la sanidad pública, universalizando las ayudas para gafas y lentillas, financiando los audífonos y ampliando la atención odontológica pública.",
+          "pagina": 0,
+          "fuente": "https://frenteamplio.info/programa/gafas-audifonos-dentista-publicos/",
+          "fecha": "2026-11-17",
+          "verificada": true
+        },
+        {
+          "texto": "Ampliar la cobertura odontológica pública hasta alcanzar como mínimo al 50% de la población en cuatro años.",
+          "cita": "ampliar la cobertura odontológica hasta alcanzar, como mínimo, al 50% de la población en cuatro años.",
+          "pagina": 0,
+          "fuente": "https://frenteamplio.info/programa/gafas-audifonos-dentista-publicos/",
+          "fecha": "2026-11-17",
+          "verificada": true
+        },
+        {
+          "texto": "Ampliar a todas las edades el Plan VEO de ayudas para gafas y lentillas.",
+          "cita": "proponemos ampliar a todas las edades el Plan VEO, impulsado desde el Ministerio de Sanidad",
+          "pagina": 0,
+          "fuente": "https://frenteamplio.info/programa/gafas-audifonos-dentista-publicos/",
+          "fecha": "2026-11-17",
+          "verificada": true
+        },
+        {
+          "texto": "Incorporar la atención integral a la menopausia y el climaterio como derecho garantizado por la sanidad pública.",
+          "cita": "Proponemos incorporar la atención integral al climaterio y la menopausia como un derecho garantizado por la sanidad pública.",
+          "pagina": 0,
+          "fuente": "https://frenteamplio.info/programa/gafas-audifonos-dentista-publicos/",
+          "fecha": "2026-11-17",
+          "verificada": true
+        },
+        {
+          "texto": "Establecer mecanismos de control de los precios de los medicamentos para evitar desabastecimientos y subidas especulativas.",
+          "cita": "También planteamos establecer mecanismos de control de los precios de los medicamentos para evitar desabastecimientos y subidas especulativas.",
+          "pagina": 0,
+          "fuente": "https://frenteamplio.info/programa/gafas-audifonos-dentista-publicos/",
+          "fecha": "2026-11-17",
+          "verificada": true
+        }
+      ]
     }
   },
   "resumen": {},
@@ -7985,6 +8141,10 @@
           "fuente": "https://oposicionobrera.pcte.es/assets/docs/CAS-Programa-de-lucha-PCTE-d.pdf#page=11",
           "fecha": "2026-11-17",
           "verificada": true
+        },
+        "sumar": {
+          "postura": "sin",
+          "fecha": "2026-11-17"
         }
       }
     },
@@ -8061,6 +8221,14 @@
         "pcte": {
           "postura": "sin",
           "fecha": "2026-11-17"
+        },
+        "sumar": {
+          "postura": "si",
+          "cita": "Proponemos una ley estatal para expropiar viviendas de fondos de inversión y grandes propietarios corporativos e incorporarlas al parque público de alquiler social.",
+          "pagina": 0,
+          "fuente": "https://frenteamplio.info/programa/expropiacion-fondos-buitre/",
+          "fecha": "2026-11-17",
+          "verificada": true
         }
       }
     },
@@ -8131,6 +8299,10 @@
           "verificada": true
         },
         "pcte": {
+          "postura": "sin",
+          "fecha": "2026-11-17"
+        },
+        "sumar": {
           "postura": "sin",
           "fecha": "2026-11-17"
         }
@@ -8205,6 +8377,14 @@
         "pcte": {
           "postura": "sin",
           "fecha": "2026-11-17"
+        },
+        "sumar": {
+          "postura": "si",
+          "cita": "Reformaremos el impuesto sobre las grandes fortunas para garantizar una tributación mínima del 2% a partir de un millón de euros",
+          "pagina": 0,
+          "fuente": "https://frenteamplio.info/programa/tax-the-rich/",
+          "fecha": "2026-11-17",
+          "verificada": true
         }
       }
     },
@@ -8285,6 +8465,10 @@
           "fuente": "https://oposicionobrera.pcte.es/assets/docs/CAS-Programa-de-lucha-PCTE-d.pdf#page=20",
           "fecha": "2026-11-17",
           "verificada": true
+        },
+        "sumar": {
+          "postura": "sin",
+          "fecha": "2026-11-17"
         }
       }
     },
@@ -8351,6 +8535,10 @@
           "verificada": true
         },
         "pcte": {
+          "postura": "sin",
+          "fecha": "2026-11-17"
+        },
+        "sumar": {
           "postura": "sin",
           "fecha": "2026-11-17"
         }
@@ -8425,6 +8613,10 @@
           "fuente": "https://oposicionobrera.pcte.es/assets/docs/CAS-Programa-de-lucha-PCTE-d.pdf#page=7",
           "fecha": "2026-11-17",
           "verificada": true
+        },
+        "sumar": {
+          "postura": "sin",
+          "fecha": "2026-11-17"
         }
       }
     },
@@ -8489,6 +8681,10 @@
         "pcte": {
           "postura": "sin",
           "fecha": "2026-11-17"
+        },
+        "sumar": {
+          "postura": "sin",
+          "fecha": "2026-11-17"
         }
       }
     }
@@ -8548,6 +8744,12 @@
       "url": "https://oposicionobrera.pcte.es/assets/docs/CAS-Programa-de-lucha-PCTE-d.pdf",
       "fecha": "2026-11-17",
       "paginas": 24
+    },
+    "sumar": {
+      "url": "https://frenteamplio.info/programa/todas/",
+      "fecha": "2026-11-17",
+      "formato": "web",
+      "paginas": null
     }
   },
   "debates": [],
