@@ -260,7 +260,7 @@ def paginas_comparador():
             k, x = postura(q, p["id"])
             cita = ""
             if x and x.get("cita"):
-                enlace = f' <a class="src" href="{e(x.get("fuente"))}" rel="noopener">Programa, pág. {x.get("pagina")}</a>' if x.get("fuente") else ""
+                enlace = f' <a class="src" href="{e(x.get("fuente"))}" rel="noopener">{"Programa, pág. " + str(x.get("pagina")) if x.get("pagina") else "Fuente"}</a>' if x.get("fuente") else ""
                 cita = f'<blockquote>«{e(x["cita"])}»{enlace}</blockquote>'
 
             filas += f'<li><span><a href="/partido/{p["id"]}/">{e(p["name"])}</a>{cita}</span><span class="badge p-{k}">{POSTURA[k][1]}</span></li>'
