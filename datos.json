@@ -5231,6 +5231,500 @@
           "verificada": true
         }
       ]
+    },
+    "sumar": {
+      "vivienda": [
+        {
+          "texto": "Destinar de forma permanente el 1 % del PIB anual (unos 17.000 M€) a crear un parque público de vivienda.",
+          "cita": "Asignación presupuestaria permanente del 1 % del PIB anual",
+          "pagina": 10,
+          "fuente": "https://frenteamplio.info/pdf/ProgramaFrenteAmplio.pdf#page=10",
+          "fecha": "2026-11-17",
+          "verificada": true
+        },
+        {
+          "texto": "Incorporar 1,5 millones de viviendas públicas en 12 años mediante construcción, tanteo y retracto, expropiación y otras vías.",
+          "cita": "1,5 millones de viviendas públicas en 12 años",
+          "pagina": 10,
+          "fuente": "https://frenteamplio.info/pdf/ProgramaFrenteAmplio.pdf#page=10",
+          "fecha": "2026-11-17",
+          "verificada": true
+        },
+        {
+          "texto": "Reservar para vivienda protegida al menos el 40 % de la edificabilidad residencial mediante la reforma de la Ley del Suelo.",
+          "cita": "Reservaremos para vivienda protegida al menos el 40 % de la edificabilidad",
+          "pagina": 10,
+          "fuente": "https://frenteamplio.info/pdf/ProgramaFrenteAmplio.pdf#page=10",
+          "fecha": "2026-11-17",
+          "verificada": true
+        },
+        {
+          "texto": "Prohibir por ley que personas jurídicas con ánimo de lucro, incluidos fondos y bancos, compren vivienda residencial para fines distintos de residencia habitual o alquiler asequible.",
+          "cita": "Esta prohibición alcanzará de forma absoluta a cualquier persona jurídica con ánimo de lucro",
+          "pagina": 11,
+          "fuente": "https://frenteamplio.info/pdf/ProgramaFrenteAmplio.pdf#page=11",
+          "fecha": "2026-11-17",
+          "verificada": true
+        },
+        {
+          "texto": "Extinguir en un máximo de 3 años las licencias de viviendas de uso turístico y los alquileres de temporada fraudulentos en zonas tensionadas.",
+          "cita": "Tramitaremos la extinción progresiva y definitiva de todas las licencias de",
+          "pagina": 12,
+          "fuente": "https://frenteamplio.info/pdf/ProgramaFrenteAmplio.pdf#page=12",
+          "fecha": "2026-11-17",
+          "verificada": true
+        },
+        {
+          "texto": "Crear la Agencia Estatal de la Vivienda con inspección y capacidad sancionadora de hasta 1.000.000 € por infracciones graves.",
+          "cita": "Constituiremos la Agencia Estatal de la Vivienda (AEV)",
+          "pagina": 12,
+          "fuente": "https://frenteamplio.info/pdf/ProgramaFrenteAmplio.pdf#page=12",
+          "fecha": "2026-11-17",
+          "verificada": true
+        },
+        {
+          "texto": "Limitar por ley el alquiler en zonas tensionadas con un techo basado en el 25 % de la renta neta media del hogar o el índice SERPAVI, el menor de ambos.",
+          "cita": "Limitaremos por ley el precio del alquiler residencial en todas las zonas",
+          "pagina": 13,
+          "fuente": "https://frenteamplio.info/pdf/ProgramaFrenteAmplio.pdf#page=13",
+          "fecha": "2026-11-17",
+          "verificada": true
+        },
+        {
+          "texto": "Convertir el contrato de alquiler residencial en indefinido por defecto, con prórrogas obligatorias de 5 años (7 si el casero es persona jurídica) durante la transición.",
+          "cita": "El contrato de arrendamiento residencial pasará a tener carácter indefinido por defecto.",
+          "pagina": 14,
+          "fuente": "https://frenteamplio.info/pdf/ProgramaFrenteAmplio.pdf#page=14",
+          "fecha": "2026-11-17",
+          "verificada": true
+        },
+        {
+          "texto": "Prohibir por ley los desahucios de familias vulnerables sin alternativa habitacional previa proporcionada por la administración.",
+          "cita": "Prohibiremos de forma permanente y con rango de ley la ejecución de",
+          "pagina": 15,
+          "fuente": "https://frenteamplio.info/pdf/ProgramaFrenteAmplio.pdf#page=15",
+          "fecha": "2026-11-17",
+          "verificada": true
+        },
+        {
+          "texto": "Crear un escudo hipotecario con impuesto negativo en el IRPF de hasta 300 € al mes para familias con ingresos bajos y cuota hipotecaria elevada.",
+          "cita": "Crearemos un escudo hipotecario de protección que otorgará una deducción en el IRPF en forma de impuesto negativo de hasta 300 € al mes",
+          "pagina": 15,
+          "fuente": "https://frenteamplio.info/pdf/ProgramaFrenteAmplio.pdf#page=15",
+          "fecha": "2026-11-17",
+          "verificada": true
+        }
+      ],
+      "economia": [
+        {
+          "texto": "Bajar el IRPF a los salarios más bajos y reducir el IVA de los bienes básicos y la energía.",
+          "cita": "mientras bajamos el IRPF a los salarios más bajos y reducimos el IVA de los bienes básicos y la energía",
+          "pagina": 8,
+          "fuente": "https://frenteamplio.info/pdf/ProgramaFrenteAmplio.pdf#page=8",
+          "fecha": "2026-11-17",
+          "verificada": true
+        },
+        {
+          "texto": "Aprobar una Prestación Universal por Crianza de 200 € al mes por cada menor de 18 años a cargo.",
+          "cita": "Aprobaremos la Ley de Prestación Universal por Crianza que concederá 200 € al mes por cada menor de 18 años a cargo.",
+          "pagina": 21,
+          "fuente": "https://frenteamplio.info/pdf/ProgramaFrenteAmplio.pdf#page=21",
+          "fecha": "2026-11-17",
+          "verificada": true
+        },
+        {
+          "texto": "Elevar el IPREM hasta 700 € mensuales y actualizarlo cada año según el IPC acumulado.",
+          "cita": "Elevaremos de inmediato el Indicador Público de Renta de Efectos Múltiples (IPREM) en 100 € iniciales hasta situarlo en un suelo de 700 € mensuales.",
+          "pagina": 21,
+          "fuente": "https://frenteamplio.info/pdf/ProgramaFrenteAmplio.pdf#page=21",
+          "fecha": "2026-11-17",
+          "verificada": true
+        },
+        {
+          "texto": "Imponer un tipo mínimo efectivo del 20 % en el Impuesto sobre Sociedades a grandes empresas y grupos.",
+          "cita": "Impondremos un tipo mínimo efectivo del 20 % sobre el resultado contable ajustado para las grandes empresas y grupos corporativos",
+          "pagina": 44,
+          "fuente": "https://frenteamplio.info/pdf/ProgramaFrenteAmplio.pdf#page=44",
+          "fecha": "2026-11-17",
+          "verificada": true
+        },
+        {
+          "texto": "Subir el Impuesto sobre Depósitos Bancarios del 0,03 % al 1 % en un tramo estatal.",
+          "cita": "Incrementaremos el Impuesto sobre Depósitos Bancarios desde el 0,03 % actual hasta el 1 % en un tramo estatal",
+          "pagina": 44,
+          "fuente": "https://frenteamplio.info/pdf/ProgramaFrenteAmplio.pdf#page=44",
+          "fecha": "2026-11-17",
+          "verificada": true
+        },
+        {
+          "texto": "Reformar el Impuesto de Solidaridad de las Grandes Fortunas para que patrimonios de más de un millón paguen al menos el 2 %.",
+          "cita": "Garantizaremos que todos los patrimonios de más de un millón de euros tributen como mínimo un 2 %.",
+          "pagina": 45,
+          "fuente": "https://frenteamplio.info/pdf/ProgramaFrenteAmplio.pdf#page=45",
+          "fecha": "2026-11-17",
+          "verificada": true
+        },
+        {
+          "texto": "Implantar la Tasa Zucman, un impuesto estatal del 3 % anual sobre patrimonios netos superiores a 50 millones.",
+          "cita": "finalista del 3 % anual sobre el patrimonio neto individual que supere los 50 millones de euros",
+          "pagina": 45,
+          "fuente": "https://frenteamplio.info/pdf/ProgramaFrenteAmplio.pdf#page=45",
+          "fecha": "2026-11-17",
+          "verificada": true
+        },
+        {
+          "texto": "Bajar el IRPF a las rentas del trabajo de hasta 27.000 euros, sin IRPF para quien cobre el salario mínimo.",
+          "cita": "Bajaremos el IRPF a las rentas del trabajo de hasta 27.000 euros (1,5 veces el SMI).",
+          "pagina": 46,
+          "fuente": "https://frenteamplio.info/pdf/ProgramaFrenteAmplio.pdf#page=46",
+          "fecha": "2026-11-17",
+          "verificada": true
+        },
+        {
+          "texto": "Elevar progresivamente los tipos marginales del IRPF hasta el 52 % para rentas desde 300.000 euros.",
+          "cita": "elevaremos progresivamente los tipos marginales hasta alcanzar el 52 % para rentas a partir de 300.000 euros.",
+          "pagina": 46,
+          "fuente": "https://frenteamplio.info/pdf/ProgramaFrenteAmplio.pdf#page=46",
+          "fecha": "2026-11-17",
+          "verificada": true
+        },
+        {
+          "texto": "Duplicar en cuatro años la plantilla de la Agencia Tributaria.",
+          "cita": "Duplicaremos en cuatro años la plantilla de la Agencia Tributaria",
+          "pagina": 48,
+          "fuente": "https://frenteamplio.info/pdf/ProgramaFrenteAmplio.pdf#page=48",
+          "fecha": "2026-11-17",
+          "verificada": true
+        }
+      ],
+      "inmigracion": [
+        {
+          "texto": "Reformar la Ley de Extranjería para que la residencia y protección de víctimas de trata no dependa de colaborar con la policía.",
+          "cita": "Desvinculación de la denuncia policial (Ley de Extranjería)",
+          "pagina": 39,
+          "fuente": "https://frenteamplio.info/pdf/ProgramaFrenteAmplio.pdf#page=39",
+          "fecha": "2026-11-17",
+          "verificada": true
+        },
+        {
+          "texto": "Aprobar un Plan Integral de la Infancia Migrante con reparto vinculante entre comunidades autónomas.",
+          "cita": "Aprobaremos el Plan Integral de Atención, Protección e Inclusión de la Infancia Migrante",
+          "pagina": 41,
+          "fuente": "https://frenteamplio.info/pdf/ProgramaFrenteAmplio.pdf#page=41",
+          "fecha": "2026-11-17",
+          "verificada": true
+        },
+        {
+          "texto": "Reformar la Ley de Extranjería para instaurar un procedimiento estable, permanente y reglado de regularización administrativa.",
+          "cita": "Reformaremos de forma integral la Ley de Extranjería para instaurar un procedimiento estable, permanente y reglado de regularización administrativa.",
+          "pagina": 126,
+          "fuente": "https://frenteamplio.info/pdf/ProgramaFrenteAmplio.pdf#page=126",
+          "fecha": "2026-11-17",
+          "verificada": true
+        },
+        {
+          "texto": "Resolver todas las solicitudes de la regularización extraordinaria de 2026 con medios suficientes.",
+          "cita": "Resolveremos todas las solicitudes con medios suficientes, de modo que ninguna persona quede fuera por retrasos de la Administración.",
+          "pagina": 126,
+          "fuente": "https://frenteamplio.info/pdf/ProgramaFrenteAmplio.pdf#page=126",
+          "fecha": "2026-11-17",
+          "verificada": true
+        },
+        {
+          "texto": "Establecer un plazo máximo de siete días naturales para obtener cita en las Oficinas de Extranjería.",
+          "cita": "Estableceremos un plazo máximo de siete días naturales para la obtención de citas en las Oficinas de Extranjería.",
+          "pagina": 126,
+          "fuente": "https://frenteamplio.info/pdf/ProgramaFrenteAmplio.pdf#page=126",
+          "fecha": "2026-11-17",
+          "verificada": true
+        },
+        {
+          "texto": "Derogar la disposición adicional décima de la Ley de Extranjería sobre el rechazo en frontera y crear un mecanismo independiente de control en la Frontera Sur.",
+          "cita": "Derogaremos formalmente la disposición adicional décima de la Ley de Extranjería (relativa al «re -chazo en frontera»)",
+          "pagina": 126,
+          "fuente": "https://frenteamplio.info/pdf/ProgramaFrenteAmplio.pdf#page=126",
+          "fecha": "2026-11-17",
+          "verificada": true
+        },
+        {
+          "texto": "Cerrar los Centros de Internamiento de Extranjeros (CIE).",
+          "cita": "Cerraremos los Centros de Internamiento de Extranjeros (CIE).",
+          "pagina": 127,
+          "fuente": "https://frenteamplio.info/pdf/ProgramaFrenteAmplio.pdf#page=127",
+          "fecha": "2026-11-17",
+          "verificada": true
+        },
+        {
+          "texto": "Crear una Agencia de Asilo dependiente de la Presidencia del Gobierno que unifique las competencias en protección internacional.",
+          "cita": "Crearemos una Agencia de Asilo dependiente direc -tamente de la Presidencia del Gobierno para unificar las competencias en materia de protección internacional",
+          "pagina": 128,
+          "fuente": "https://frenteamplio.info/pdf/ProgramaFrenteAmplio.pdf#page=128",
+          "fecha": "2026-11-17",
+          "verificada": true
+        },
+        {
+          "texto": "Fijar plazos máximos de 5 días para registrar y 21 días para formalizar la solicitud de protección internacional, con documento automático si se exceden.",
+          "cita": "registro obligatorio de la solicitud en un plazo máximo de 5 días desde la manifestación de voluntad y de 21 días para la formalización mediante entrevista.",
+          "pagina": 128,
+          "fuente": "https://frenteamplio.info/pdf/ProgramaFrenteAmplio.pdf#page=128",
+          "fecha": "2026-11-17",
+          "verificada": true
+        },
+        {
+          "texto": "Resolver las solicitudes de reagrupación familiar en tres meses, con silencio administrativo positivo.",
+          "cita": "la obligación de resolver las solicitudes en un plazo máximo de tres meses, aplicando el silencio administrativo positivo en caso de falta de resolución.",
+          "pagina": 128,
+          "fuente": "https://frenteamplio.info/pdf/ProgramaFrenteAmplio.pdf#page=128",
+          "fecha": "2026-11-17",
+          "verificada": true
+        }
+      ],
+      "politica": [
+        {
+          "texto": "Reconocer por ley el derecho al voto a partir de los 16 años.",
+          "cita": "Reconoceremos por ley el derecho al voto a partir de los 16 años.",
+          "pagina": 42,
+          "fuente": "https://frenteamplio.info/pdf/ProgramaFrenteAmplio.pdf#page=42",
+          "fecha": "2026-11-17",
+          "verificada": true
+        },
+        {
+          "texto": "Modificar la normativa electoral para aplicar el formato cremallera como garantía mínima de paridad en las listas.",
+          "cita": "Proponemos un modelo de listas en el que el formato cremallera se aplique como garantía mínima",
+          "pagina": 37,
+          "fuente": "https://frenteamplio.info/pdf/ProgramaFrenteAmplio.pdf#page=37",
+          "fecha": "2026-11-17",
+          "verificada": true
+        },
+        {
+          "texto": "Reformar el sistema electoral para lograr la proporcionalidad directa a nivel nacional.",
+          "cita": "Reformaremos el sistema electoral para lograr la proporcionalidad directa a nivel nacional.",
+          "pagina": 141,
+          "fuente": "https://frenteamplio.info/pdf/ProgramaFrenteAmplio.pdf#page=141",
+          "fecha": "2026-11-17",
+          "verificada": true
+        },
+        {
+          "texto": "Rebajar de 500.000 a 250.000 las firmas necesarias para la iniciativa legislativa popular.",
+          "cita": "Rebajaremos a la mitad las firmas necesarias para la iniciativa legislativa popular. Supondrá pasar de las 500.000 en la actualidad a 250.000",
+          "pagina": 141,
+          "fuente": "https://frenteamplio.info/pdf/ProgramaFrenteAmplio.pdf#page=141",
+          "fecha": "2026-11-17",
+          "verificada": true
+        },
+        {
+          "texto": "Aprobar una Ley de Integridad Pública con inscripción obligatoria en el Registro Mercantil de los cambios de propiedad de sociedades no cotizadas.",
+          "cita": "Aprobaremos una Ley de Integridad Pública que cierre las vías de ocultación del poder económico.",
+          "pagina": 141,
+          "fuente": "https://frenteamplio.info/pdf/ProgramaFrenteAmplio.pdf#page=141",
+          "fecha": "2026-11-17",
+          "verificada": true
+        },
+        {
+          "texto": "Crear una Oficina Independiente contra la Corrupción con capacidad para investigar y sancionar.",
+          "cita": "Crearemos una Oficina Independiente contra la Corrupción, dotada con recursos suficientes y plena capacidad para investigar y sancionar.",
+          "pagina": 142,
+          "fuente": "https://frenteamplio.info/pdf/ProgramaFrenteAmplio.pdf#page=142",
+          "fecha": "2026-11-17",
+          "verificada": true
+        },
+        {
+          "texto": "Impedir durante veinte años la contratación pública a empresas y personas condenadas por corrupción.",
+          "cita": "para que las empresas y personas condenadas no puedan contratar con el sector público durante veinte años.",
+          "pagina": 142,
+          "fuente": "https://frenteamplio.info/pdf/ProgramaFrenteAmplio.pdf#page=142",
+          "fecha": "2026-11-17",
+          "verificada": true
+        },
+        {
+          "texto": "Reformar la LOPJ para desbloquear la renovación del CGPJ: mayoría absoluta en segunda votación si en dos meses no hay acuerdo.",
+          "cita": "si en dos meses no hay acuerdo, las Cámaras podrán elegirlos en segunda votación por mayoría absoluta.",
+          "pagina": 148,
+          "fuente": "https://frenteamplio.info/pdf/ProgramaFrenteAmplio.pdf#page=148",
+          "fecha": "2026-11-17",
+          "verificada": true
+        },
+        {
+          "texto": "Aprobar un plan plurianual para alcanzar en dos legislaturas la media europea de jueces y fiscales por habitante.",
+          "cita": "Aprobaremos un plan plurianual de plazas para que España alcance en dos legislaturas la media europea de jueces y fiscales por habitante",
+          "pagina": 149,
+          "fuente": "https://frenteamplio.info/pdf/ProgramaFrenteAmplio.pdf#page=149",
+          "fecha": "2026-11-17",
+          "verificada": true
+        },
+        {
+          "texto": "Crear un órgano independiente, fuera de la cadena de mando, que investigue denuncias de malos tratos y abusos policiales.",
+          "cita": "Crearemos un organismo independiente, fuera de la cadena de mando, que investigue las denuncias de malos tratos y abusos.",
+          "pagina": 145,
+          "fuente": "https://frenteamplio.info/pdf/ProgramaFrenteAmplio.pdf#page=145",
+          "fecha": "2026-11-17",
+          "verificada": true
+        }
+      ],
+      "empleo": [
+        {
+          "texto": "Avanzar hacia la jornada máxima de 32 horas semanales sin reducción salarial, empezando de inmediato por 37,5 horas.",
+          "cita": "Avanzaremos hacia la jornada laboral máxima de 32 horas semanales sin reducción salarial —empezando por las 37,5 horas de forma inmediata—",
+          "pagina": 7,
+          "fuente": "https://frenteamplio.info/pdf/ProgramaFrenteAmplio.pdf#page=7",
+          "fecha": "2026-11-17",
+          "verificada": true
+        },
+        {
+          "texto": "Fijar por ley un Salario Mínimo Interprofesional equivalente al 60 % del salario medio neto.",
+          "cita": "blindaremos por ley un Salario Mínimo Interprofesional equivalente al 60 % del salario medio neto",
+          "pagina": 7,
+          "fuente": "https://frenteamplio.info/pdf/ProgramaFrenteAmplio.pdf#page=7",
+          "fecha": "2026-11-17",
+          "verificada": true
+        },
+        {
+          "texto": "Igualar las retribuciones del personal de contratas y subcontratas con las de la empresa principal en tareas similares.",
+          "cita": "Igualación de las retribuciones de las personas trabajadoras de contratas y subcontratas con las que perciben en la empresa principal quienes realizan tareas similares.",
+          "pagina": 51,
+          "fuente": "https://frenteamplio.info/pdf/ProgramaFrenteAmplio.pdf#page=51",
+          "fecha": "2026-11-17",
+          "verificada": true
+        },
+        {
+          "texto": "Implantar un registro horario digital e interoperable, con acceso remoto en tiempo real para la Inspección de Trabajo.",
+          "cita": "Implantaremos un registro horario digital, fiable e interoperable que recoja la jornada real y sus interrupciones,",
+          "pagina": 52,
+          "fuente": "https://frenteamplio.info/pdf/ProgramaFrenteAmplio.pdf#page=52",
+          "fecha": "2026-11-17",
+          "verificada": true
+        },
+        {
+          "texto": "Establecer la presunción de laboralidad por cuenta ajena para todo el trabajo en plataformas digitales (Ley Rider universal).",
+          "cita": "Presunción de laboralidad por cuenta ajena para todo el trabajo en plataformas digitales,",
+          "pagina": 52,
+          "fuente": "https://frenteamplio.info/pdf/ProgramaFrenteAmplio.pdf#page=52",
+          "fecha": "2026-11-17",
+          "verificada": true
+        },
+        {
+          "texto": "Recuperar la autorización administrativa previa para los despidos colectivos o la devolución de ayudas públicas en empresas con beneficios.",
+          "cita": "Recuperaremos la autorización administrativa previa para despidos colectivos (o devolución de ayudas públicas en empresas con beneficios)",
+          "pagina": 53,
+          "fuente": "https://frenteamplio.info/pdf/ProgramaFrenteAmplio.pdf#page=53",
+          "fecha": "2026-11-17",
+          "verificada": true
+        },
+        {
+          "texto": "Elevar la prestación contributiva por desempleo al 80 % de la base reguladora los primeros seis meses y subir un 25 % los topes máximos.",
+          "cita": "Elevaremos el porcentaje de la prestación contributiva por desempleo del 70 % al 80 % de la base reguladora durante los primeros seis meses (y 70 % el resto) y subiremos un 25 % los topes máximos.",
+          "pagina": 53,
+          "fuente": "https://frenteamplio.info/pdf/ProgramaFrenteAmplio.pdf#page=53",
+          "fecha": "2026-11-17",
+          "verificada": true
+        },
+        {
+          "texto": "Fijar como objetivo de la legislatura converger con la tasa de paro europea (7 %) y superar el 70 % de tasa de empleo.",
+          "cita": "El objetivo de la legislatura será converger con esta tasa de paro, que se sitúa en el 7 %, y alcanzar una tasa de empleo superior",
+          "pagina": 53,
+          "fuente": "https://frenteamplio.info/pdf/ProgramaFrenteAmplio.pdf#page=53",
+          "fecha": "2026-11-17",
+          "verificada": true
+        },
+        {
+          "texto": "Aprobar en un máximo de seis meses el reglamento de riesgos psicosociales.",
+          "cita": "Aprobación en máximo seis meses del reglamento de riesgos psicosociales",
+          "pagina": 54,
+          "fuente": "https://frenteamplio.info/pdf/ProgramaFrenteAmplio.pdf#page=54",
+          "fecha": "2026-11-17",
+          "verificada": true
+        },
+        {
+          "texto": "Reforzar la Inspección de Trabajo y Seguridad Social con más plantilla y un nuevo plan estratégico.",
+          "cita": "Reforzaremos la Inspección de Trabajo y Seguridad Social.",
+          "pagina": 100,
+          "fuente": "https://frenteamplio.info/pdf/ProgramaFrenteAmplio.pdf#page=100",
+          "fecha": "2026-11-17",
+          "verificada": true
+        }
+      ],
+      "sanidad": [
+        {
+          "texto": "Establecer una sanidad 100 % pública, universal y de gestión directa con un suelo de gasto del 8 % del PIB.",
+          "cita": "100 % pública, universal y de gestión directa con un suelo del 8 % del PIB",
+          "pagina": 7,
+          "fuente": "https://frenteamplio.info/pdf/ProgramaFrenteAmplio.pdf#page=7",
+          "fecha": "2026-11-17",
+          "verificada": true
+        },
+        {
+          "texto": "Aumentar los fondos finalistas a Atención Primaria hasta destinarle el 25 % del presupuesto sanitario.",
+          "cita": "cumplir la recomendación de la OMS de destinar el 25 % del presupuesto sanitario a Atención Primaria.",
+          "pagina": 26,
+          "fuente": "https://frenteamplio.info/pdf/ProgramaFrenteAmplio.pdf#page=26",
+          "fecha": "2026-11-17",
+          "verificada": true
+        },
+        {
+          "texto": "Derogar la Ley 15/1997 y hacer de la gestión pública directa la vía general en el Sistema Nacional de Salud.",
+          "cita": "Derogaremos expresamente la Ley 15/1997, sobre habilitación de nuevas formas de gestión del SNS",
+          "pagina": 26,
+          "fuente": "https://frenteamplio.info/pdf/ProgramaFrenteAmplio.pdf#page=26",
+          "fecha": "2026-11-17",
+          "verificada": true
+        },
+        {
+          "texto": "Blindar por ley la universalidad de la atención sanitaria para residentes, con independencia de su estatus administrativo.",
+          "cita": "Blindaremos por ley la universalidad de la atención sanitaria para residentes en España, independientemente de su estatus administrativo.",
+          "pagina": 26,
+          "fuente": "https://frenteamplio.info/pdf/ProgramaFrenteAmplio.pdf#page=26",
+          "fecha": "2026-11-17",
+          "verificada": true
+        },
+        {
+          "texto": "Integrar definitivamente las mutuas de funcionarios (MUFACE, MUGEJU, ISFAS) en el Sistema Nacional de Salud.",
+          "cita": "la integración definitiva de todas las mutuas de funcionarios al Sistema Nacional de Salud.",
+          "pagina": 27,
+          "fuente": "https://frenteamplio.info/pdf/ProgramaFrenteAmplio.pdf#page=27",
+          "fecha": "2026-11-17",
+          "verificada": true
+        },
+        {
+          "texto": "Ampliar la cobertura bucodental pública hasta alcanzar al menos al 50 % de la población residente al final de la legislatura.",
+          "cita": "hasta alcanzar al menos el 50 % de la población residente al final de la legislatura.",
+          "pagina": 27,
+          "fuente": "https://frenteamplio.info/pdf/ProgramaFrenteAmplio.pdf#page=27",
+          "fecha": "2026-11-17",
+          "verificada": true
+        },
+        {
+          "texto": "Crear un fondo para la Red de Salud Mental Comunitaria y subir los profesionales de salud mental a un mínimo de 10 por cada 100.000 habitantes.",
+          "cita": "hasta un mínimo de 10 por cada 100.000 habitantes.",
+          "pagina": 28,
+          "fuente": "https://frenteamplio.info/pdf/ProgramaFrenteAmplio.pdf#page=28",
+          "fecha": "2026-11-17",
+          "verificada": true
+        },
+        {
+          "texto": "Garantizar la interrupción voluntaria del embarazo en centros públicos de todas las comunidades autónomas, incluidos los gastos de desplazamiento.",
+          "cita": "Estrategia para garantizar la IVE en centros públicos en todas las comunidades autónomas y ciudades autónomas",
+          "pagina": 28,
+          "fuente": "https://frenteamplio.info/pdf/ProgramaFrenteAmplio.pdf#page=28",
+          "fecha": "2026-11-17",
+          "verificada": true
+        },
+        {
+          "texto": "Aprobar el Real Decreto de listas de espera que prohíbe las listas paralelas e incluye por primera vez tiempos de Atención Primaria y Salud Mental.",
+          "cita": "prohíba las listas paralelas o de «paso B»",
+          "pagina": 29,
+          "fuente": "https://frenteamplio.info/pdf/ProgramaFrenteAmplio.pdf#page=29",
+          "fecha": "2026-11-17",
+          "verificada": true
+        },
+        {
+          "texto": "Establecer por ley que el control de las altas y bajas médicas corresponda en exclusiva a los médicos del SNS.",
+          "cita": "Blindaje por ley para que el control de las altas/bajas médicas corresponda en exclusiva a los médicos del SNS",
+          "pagina": 30,
+          "fuente": "https://frenteamplio.info/pdf/ProgramaFrenteAmplio.pdf#page=30",
+          "fecha": "2026-11-17",
+          "verificada": true
+        }
+      ]
     }
   },
   "resumen": {},
@@ -8295,6 +8789,14 @@
           "fuente": "https://frontvalencia.org/programa-compromis-front-valencia.pdf#page=4",
           "fecha": "2026-11-17",
           "verificada": true
+        },
+        "sumar": {
+          "postura": "si",
+          "cita": "Limitaremos por ley el precio del alquiler residencial en todas las zonas",
+          "pagina": 13,
+          "fuente": "https://frenteamplio.info/pdf/ProgramaFrenteAmplio.pdf#page=13",
+          "fecha": "2026-11-17",
+          "verificada": true
         }
       }
     },
@@ -8379,6 +8881,14 @@
           "fuente": "https://frontvalencia.org/programa-compromis-front-valencia.pdf#page=4",
           "fecha": "2026-11-17",
           "verificada": true
+        },
+        "sumar": {
+          "postura": "si",
+          "cita": "Prohibiremos por ley la compra de viviendas residenciales para cualquier fin que no sea la residencia habitual y permanente de la persona compradora",
+          "pagina": 11,
+          "fuente": "https://frenteamplio.info/pdf/ProgramaFrenteAmplio.pdf#page=11",
+          "fecha": "2026-11-17",
+          "verificada": true
         }
       }
     },
@@ -8459,6 +8969,14 @@
           "fuente": "https://frontvalencia.org/programa-compromis-front-valencia.pdf#page=18",
           "fecha": "2026-11-17",
           "verificada": true
+        },
+        "sumar": {
+          "postura": "matiz",
+          "cita": "mientras bajamos el IRPF a los salarios más bajos y reducimos el IVA de los bienes básicos y la energía",
+          "pagina": 8,
+          "fuente": "https://frenteamplio.info/pdf/ProgramaFrenteAmplio.pdf#page=8",
+          "fecha": "2026-11-17",
+          "verificada": true
         }
       }
     },
@@ -8537,6 +9055,14 @@
           "cita": "Mantindrem i ampliarem l’Impost a les Grans Fortunes",
           "pagina": 18,
           "fuente": "https://frontvalencia.org/programa-compromis-front-valencia.pdf#page=18",
+          "fecha": "2026-11-17",
+          "verificada": true
+        },
+        "sumar": {
+          "postura": "si",
+          "cita": "El impuesto mantendrá su carácter estatal y complementario del Impuesto sobre el Patrimonio",
+          "pagina": 45,
+          "fuente": "https://frenteamplio.info/pdf/ProgramaFrenteAmplio.pdf#page=45",
           "fecha": "2026-11-17",
           "verificada": true
         }
@@ -8627,6 +9153,14 @@
           "fuente": "https://frontvalencia.org/programa-compromis-front-valencia.pdf#page=64",
           "fecha": "2026-11-17",
           "verificada": true
+        },
+        "sumar": {
+          "postura": "si",
+          "cita": "Reformaremos de forma integral la Ley de Extranjería para instaurar un procedimiento estable, permanente y reglado de regularización administrativa.",
+          "pagina": 126,
+          "fuente": "https://frenteamplio.info/pdf/ProgramaFrenteAmplio.pdf#page=126",
+          "fecha": "2026-11-17",
+          "verificada": true
         }
       }
     },
@@ -8697,6 +9231,10 @@
           "fecha": "2026-11-17"
         },
         "compromis": {
+          "postura": "sin",
+          "fecha": "2026-11-17"
+        },
+        "sumar": {
           "postura": "sin",
           "fecha": "2026-11-17"
         }
@@ -8779,6 +9317,14 @@
           "fuente": "https://frontvalencia.org/programa-compromis-front-valencia.pdf#page=6",
           "fecha": "2026-11-17",
           "verificada": true
+        },
+        "sumar": {
+          "postura": "si",
+          "cita": "Avanzaremos hacia la jornada laboral máxima de 32 horas semanales sin reducción salarial —empezando por las 37,5 horas de forma inmediata—",
+          "pagina": 7,
+          "fuente": "https://frenteamplio.info/pdf/ProgramaFrenteAmplio.pdf#page=7",
+          "fecha": "2026-11-17",
+          "verificada": true
         }
       }
     },
@@ -8851,6 +9397,10 @@
           "fuente": "https://frontvalencia.org/programa-compromis-front-valencia.pdf#page=9",
           "fecha": "2026-11-17",
           "verificada": true
+        },
+        "sumar": {
+          "postura": "sin",
+          "fecha": "2026-11-17"
         }
       }
     }
@@ -8915,6 +9465,11 @@
       "url": "https://frontvalencia.org/programa-compromis-front-valencia.pdf",
       "fecha": "2026-11-17",
       "paginas": 64
+    },
+    "sumar": {
+      "url": "https://frenteamplio.info/pdf/ProgramaFrenteAmplio.pdf",
+      "fecha": "2026-11-17",
+      "paginas": 151
     }
   },
   "debates": [],
