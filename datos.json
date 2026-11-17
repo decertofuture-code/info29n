@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-16T19:29+00:00",
+  "actualizado": "2026-11-17T03:39+00:00",
   "temas": [
     {
       "id": "vivienda",
@@ -5569,6 +5569,171 @@
   ],
   "noticias": [
     {
+      "titulo": "Un asesor del Gobierno pide «como periodista particular» los contratos con los medios de las instituciones andaluzas del PP",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/andalucia/asesor-gobierno-pide-periodista-particular-contratos-medios-20261117023011-nts.html",
+      "fecha": "2026-11-17T01:30+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "El PSOE ya se opuso en 2021 a una ley de Ciudadanos que pedía recuperar el voto para los exiliados por ETA",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/psoe-opuso-2021-ley-ciudadanos-pedia-recuperar-20261117021118-nt.html",
+      "fecha": "2026-11-17T01:11+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "La Rioja, la tierra de la 'Marca España' que recela de Abascal: \"Me da igual que me muerda perro o perra, pero a Vox no lo quiero\"",
+      "medio": "El Mundo",
+      "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/16/6afb51e1e85ecee51b8b4572.html",
+      "fecha": "2026-11-16T21:43+00:00",
+      "partidos": [
+        "vox"
+      ]
+    },
+    {
+      "titulo": "Abascal aterriza en Canarias en plena oleada migratoria y entona su discurso contra la \"invasión\": \"Aquí no caben, es nuestra tierra\"",
+      "medio": "El Mundo",
+      "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/16/6afb5a78e9cf4a3c4b8b4595.html",
+      "fecha": "2026-11-16T21:07+00:00",
+      "partidos": [
+        "vox"
+      ]
+    },
+    {
+      "titulo": "UPN se mete de lleno en la campaña de Feijóo, al que agasaja en Pamplona, pero avisan de que van a \"ser exigentes\"",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/navarra/upn-mete-lleno-campana-feijoo-agasaja-pamplona-le-advierten-exigentes_1_13668682.html",
+      "fecha": "2026-11-16T20:58+00:00",
+      "partidos": [
+        "pp",
+        "upn"
+      ]
+    },
+    {
+      "titulo": "Abascal califica en Canarias de “invasión planificada” la llegada de cayucos",
+      "medio": "El País",
+      "url": "https://elpais.com/espana/elecciones-generales/2026-11-16/abascal-califica-en-canarias-de-invasion-planificada-la-llega-de-cayucos.html",
+      "fecha": "2026-11-16T20:50+00:00",
+      "partidos": [
+        "vox"
+      ]
+    },
+    {
+      "titulo": "Feijóo: «Quiero saldar una deuda con los españoles a los que ETA no doblegó, pero echó de su tierra»",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/feijoo-quiero-saldar-deuda-espanoles-eta-doblego-20261116202421-nt.html",
+      "fecha": "2026-11-16T20:46+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "Abascal arranca su gira por Canarias en pleno repunte migratorio: «Ni un cayuco más»",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/canarias/abascal-arranca-gira-canarias-pleno-repunte-migratorio-20261116210101-nt.html",
+      "fecha": "2026-11-16T20:43+00:00",
+      "partidos": [
+        "vox"
+      ]
+    },
+    {
+      "titulo": "Abascal rechaza las acusaciones de Sánchez de racismo: \"Me da igual que el fundamentalista sea pelirrojo\"",
+      "medio": "Europa Press",
+      "url": "https://www.europapress.es/nacional/noticia-abascal-rechaza-acusaciones-sanchez-racismo-me-da-igual-fundamentalista-sea-pelirrojo-20261116214339.html",
+      "fecha": "2026-11-16T20:43+00:00",
+      "partidos": [
+        "vox"
+      ]
+    },
+    {
+      "titulo": "Rueda pide concentrar el voto en el PP para darle a Feijóo «manos libres» en la reconstrucción de España",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/galicia/rueda-pide-concentrar-voto-pp-darle-feijoo-20261116213204-nt.html",
+      "fecha": "2026-11-16T20:32+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "EH Bildu dice que vencerá \"con una sonrisa\" a los \"nubarrones fascistas que hay en el horizonte\"",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/euskadi/eh-bildu-dice-vencera-sonrisa-nubarrones-fascistas-hay-horizonte_1_13669018.html",
+      "fecha": "2026-11-16T20:22+00:00",
+      "partidos": [
+        "bildu"
+      ]
+    },
+    {
+      "titulo": "Vox propone militarizar las fronteras en el arranque de la gira canaria de Abascal",
+      "medio": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/politica/20261116/11685906/vox-propone-militarizar-fronteras-arranque-gira-canaria-abascal.html",
+      "fecha": "2026-11-16T20:14+00:00",
+      "partidos": [
+        "vox"
+      ]
+    },
+    {
+      "titulo": "Juanma Moreno alerta de que Almería puede decidir un diputado entre el PP y el PSOE: «Esta provincia es estratégica»",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/andalucia/almeria/juanma-moreno-alerta-almeria-puede-decidir-diputado-20261116205250-nts.html",
+      "fecha": "2026-11-16T20:08+00:00",
+      "partidos": [
+        "pp",
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "El PP mantiene su mayoría absoluta en el Senado, pero no llega a los tres quintos con Vox",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/pp-mantiene-mayoria-absoluta-senado-llega-tres-20261116010020-nt.html",
+      "fecha": "2026-11-16T20:08+00:00",
+      "partidos": [
+        "pp",
+        "vox"
+      ]
+    },
+    {
+      "titulo": "Feijóo propone una 'ley de nietos' vasca para que voten los exiliados del terrorismo de ETA",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/feijoo-propone-ley-nietos-vasca-voten-exiliados-20261116093459-nt.html",
+      "fecha": "2026-11-16T20:04+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "Feijóo: “Quiero saldar una deuda con los españoles a los que ETA expulsó”",
+      "medio": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/politica/20261116/11685898/feijoo-cambiara-ley-expulsados-eta-puedan-votar-municipios-quiero-saldar-deuda.html",
+      "fecha": "2026-11-16T19:53+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "Frente Amplio propone la creación de una farmacéutica pública ligada a la USC",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/galicia/frente-amplio-propone-creacion-farmaceutica-publica-ligada-20261116204105-nt.html",
+      "fecha": "2026-11-16T19:52+00:00",
+      "partidos": [
+        "sumar"
+      ]
+    },
+    {
+      "titulo": "ERC se lanza a por el voto socialista y Rufián pide un cara a cara a Hereu: “Esto va del PSC o nosotros”",
+      "medio": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/politica/elecciones/20261116/11685886/erc-lanza-voto-socialista-rufian-pide-cara-cara-hereu-esto-psc.html",
+      "fecha": "2026-11-16T19:47+00:00",
+      "partidos": [
+        "erc"
+      ]
+    },
+    {
       "titulo": "Colau condiciona un futuro Gobierno con Sánchez a que la primera medida sea un decreto para bajar el alquiler",
       "medio": "Europa Press",
       "url": "https://www.europapress.es/nacional/noticia-colau-condiciona-futuro-gobierno-sanchez-primera-medida-sea-decreto-bajar-alquiler-20261116200020.html",
@@ -5963,6 +6128,15 @@
       "fecha": "2026-11-16T09:43+00:00",
       "partidos": [
         "sumar"
+      ]
+    },
+    {
+      "titulo": "El PP promete una 'ley de nietos' para que los exiliados por el terrorismo de ETA puedan votar en el País Vasco y en Navarra",
+      "medio": "El Mundo",
+      "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/16/6afac98afdddffc5528b457c.html",
+      "fecha": "2026-11-16T09:33+00:00",
+      "partidos": [
+        "pp"
       ]
     },
     {
@@ -8200,180 +8374,6 @@
       "fecha": "2026-11-13T11:33+00:00",
       "partidos": [
         "pp"
-      ]
-    },
-    {
-      "titulo": "Colau tacha de \"cruel\" al ausente Abascal en su paso por el pódcast de Jordi Wild para buscar el voto joven: \"Las izquierdas hemos sido demasiado moralistas\"",
-      "medio": "El Mundo",
-      "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/13/6af6ef66e9cf4ad4438b4588.html",
-      "fecha": "2026-11-13T11:29+00:00",
-      "partidos": [
-        "vox",
-        "sumar"
-      ]
-    },
-    {
-      "titulo": "Junts exige que el dinero de los catalanes se quede en Catalunya y salir de la Lofca",
-      "medio": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/politica/20261113/11683377/junts-exige-dinero-catalanes-quede-catalunya-salir-lofca.html",
-      "fecha": "2026-11-13T11:23+00:00",
-      "partidos": [
-        "junts"
-      ]
-    },
-    {
-      "titulo": "Feijóo confiesa a Wild que 'eliminará' Vivienda e Igualdad y responde por Dorado: \"Yo no tengo fotos con prostitutas\"",
-      "medio": "El Confidencial",
-      "url": "https://www.elconfidencial.com/espana/2026-11-13/feijoo-confiesa-a-wild-que-eliminara-vivienda-e-igualdad-y-responde-por-dorado_4464429/",
-      "fecha": "2026-11-13T11:12+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Programa electoral de Vox para el 29N: de la prioridad nacional o la inmigración a los impuestos, consulta las 115 medidas",
-      "medio": "20minutos",
-      "url": "https://www.20minutos.es/nacional/programa-electoral-vox-para-29n-consulta-las-115-medidas-sobre-impuestos-inmigracion-prioridad-nacional_7060601_0.html",
-      "fecha": "2026-11-13T10:52+00:00",
-      "partidos": [
-        "vox"
-      ]
-    },
-    {
-      "titulo": "Colau, con Jordi Wild: \"Algunos migrantes delinquen, pero la mayoría no suponen ningún problema\"",
-      "medio": "elDiario.es",
-      "url": "https://www.eldiario.es/politica/colau-jordi-wild-migrantes-delinquen-mayoria-no-suponen-problema_1_13660988.html",
-      "fecha": "2026-11-13T10:38+00:00",
-      "partidos": [
-        "sumar"
-      ]
-    },
-    {
-      "titulo": "Alberto Núñez Feijóo, presidente del PP, sobre la inmigración: \"Si tiene permiso de trabajo, tiene permiso de residencia; si entra de forma irregular, se tiene que ir\"",
-      "medio": "El Confidencial",
-      "url": "https://www.elconfidencial.com/espana/2026-11-13/feijoo-inmigracion-jordi-wild-elecciones-generales_4464382/",
-      "fecha": "2026-11-13T10:36+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Feijóo supedita el gasto en Defensa a auditoría de gasto previa: \"Si no puedo llegar al 2,4%, me quedaré en 2,3%\"",
-      "medio": "Europa Press",
-      "url": "https://www.europapress.es/nacional/noticia-feijoo-supedita-gasto-defensa-auditoria-gasto-previa-si-no-puedo-llegar-24-me-quedare-23-20261113112859.html",
-      "fecha": "2026-11-13T10:28+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Albiol propone a Colau un cara a cara sobre políticas de vivienda",
-      "medio": "elDiario.es",
-      "url": "https://www.eldiario.es/catalunya/albiol-propone-colau-cara-cara-politicas-vivienda_1_13661103.html",
-      "fecha": "2026-11-13T10:25+00:00",
-      "partidos": [
-        "sumar"
-      ]
-    },
-    {
-      "titulo": "Colau, ante Jordi Wild, reprocha a Sánchez su gestión inicial de la crisis de Ceuta",
-      "medio": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/politica/20261113/11683358/colau-jordi-wild-reprocha-sanchez-gestion-inicial-crisis-ceuta.html",
-      "fecha": "2026-11-13T10:22+00:00",
-      "partidos": [
-        "sumar"
-      ]
-    },
-    {
-      "titulo": "Alberto Núñez Feijóo, en la entrevista con Jordi Wild, sobre el IMV: \"500.000 inmigrantes cobrándolo sin haber trabajado 1 hora en el último año\"",
-      "medio": "El Confidencial",
-      "url": "https://www.elconfidencial.com/espana/2026-11-13/alberto-nunez-feijo-entrevista-jordi-wild-imv-inmigrantes_4464365/",
-      "fecha": "2026-11-13T10:15+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Elecciones generales del 29N, en directo: última hora del arranque de la campaña electoral con los primeros mítines de Sánchez, Feijóo y otros candidatos",
-      "medio": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/politica/20261113/11682241/elecciones-generales-campana-electoral-candidatos-ultima-hora-en-directo.html",
-      "fecha": "2026-11-13T10:14+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Vox propone cuotas para alumnos “de otras culturas” en las aulas y excluir a los indocumentados del sistema sanitario",
-      "medio": "El País",
-      "url": "https://elpais.com/sociedad/2026-11-12/vox-propone-cuotas-para-alumnos-de-otras-culturas-en-las-aulas-y-excluir-a-los-indocumentados-del-sistema-sanitario.html",
-      "fecha": "2026-11-13T10:08+00:00",
-      "partidos": [
-        "vox"
-      ]
-    },
-    {
-      "titulo": "Alberto Núñez Feijóo, en la entrevista con Jordi Wild, sobre los autónomos y el pago de la cuota: \"No les hemos cuidado nunca de forma adecuada\"",
-      "medio": "El Confidencial",
-      "url": "https://www.elconfidencial.com/espana/2026-11-13/feijoo-entrevista-jordi-wild-autonomos-elecciones-generales_4464351/",
-      "fecha": "2026-11-13T10:04+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Vea las entrevistas de Jordi Wild a Colau, Feijóo y Sánchez",
-      "medio": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/politica/20261113/11683342/vea-entrevistas-jordi-wild-colau-feijoo-sanchez.html",
-      "fecha": "2026-11-13T09:58+00:00",
-      "partidos": [
-        "pp",
-        "sumar"
-      ]
-    },
-    {
-      "titulo": "Alberto Núñez Feijóo, en la entrevista con Jordi Wild, sobre el absentismo laboral: \"¿Por qué el lunes y el viernes son los días con mayor absentismo?\"",
-      "medio": "El Confidencial",
-      "url": "https://www.elconfidencial.com/espana/2026-11-13/feijoo-absentismo-laboral-jordi-wild-elecciones-generales_4464330/",
-      "fecha": "2026-11-13T09:51+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Leire Díez, sobre la oferta de dos millones que recibió del entorno del PP: “Si hubiese aceptado hubieran vencido”",
-      "medio": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/politica/20261113/11683262/leire-diez-sobre-oferta-dos-millones-recibio-entorno-pp-hubiese-aceptado-hubieran-vencido.html",
-      "fecha": "2026-11-13T09:38+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "La media de encuestas en el arranque de la campaña: el PSOE crece, pero la derecha mantiene una amplia ventaja",
-      "medio": "elDiario.es",
-      "url": "https://www.eldiario.es/politica/media-encuestas-arranque-campana-psoe-crece-derecha-mantiene-amplia-ventaja_1_13660672.html",
-      "fecha": "2026-11-13T09:36+00:00",
-      "partidos": [
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "Alberto Núñez Feijóo, en la entrevista con Jordi Wild, sobre un posible pacto con Vox y el reparto de ministerios: \"Tendré 14 o 15 ministerios. Y algunos deben tener preponderancia del presidente del Gobierno\"",
-      "medio": "El Confidencial",
-      "url": "https://www.elconfidencial.com/espana/2026-11-13/feijoo-entrevista-jordi-wild-ministerios-vox_4464295/",
-      "fecha": "2026-11-13T09:36+00:00",
-      "partidos": [
-        "pp",
-        "vox"
-      ]
-    },
-    {
-      "titulo": "Así fue la comentada actuación de una rapera con el rostro cubierto en el arranque de campaña del PSOE: \"A saco Paco\"",
-      "medio": "20minutos",
-      "url": "https://www.20minutos.es/nacional/asi-fue-comentada-actuacion-una-rapera-con-rostro-cubierto-arranque-campana-psoe-saco-paco_7060609_0.html",
-      "fecha": "2026-11-13T09:27+00:00",
-      "partidos": [
-        "psoe"
       ]
     }
   ],
