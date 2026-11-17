@@ -11,7 +11,7 @@ Formato de anuncios.json:
     ]}
   ]}
 "seccion" es la pestaña a la que enlaza el post (inicio, partidos, programas, comparador, votaciones,
-corrupcion, medios, como-votar, metodo, buzon) o "" para enlazar a la portada.
+medios, como-votar, metodo, buzon) o "" para enlazar a la portada.
 Si un hilo se corta a medias, la siguiente ejecución lo continúa donde se quedó.
 """
 import json, os, sys

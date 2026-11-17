@@ -161,7 +161,7 @@ def main():
     lineas = []
     if para_revisar:
         lineas.append("## Titulares que pueden afectar a programas, listas o casos judiciales\n")
-        lineas.append("Ya están publicados en Noticias. Revisa si hay que actualizar Propuestas o Corrupción.\n")
+        lineas.append("Ya están publicados en Noticias. Revisa si hay que actualizar Propuestas.\n")
         for n in para_revisar:
             ps = ", ".join(pid2name.get(p, p) for p in n["partidos"])
             lineas.append(f"- [ ] [{n['titulo']}]({n['url']}) · {n['medio']} · {ps}")

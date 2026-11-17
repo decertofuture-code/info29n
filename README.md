@@ -7,7 +7,7 @@ Web informativa sobre las elecciones generales del 29 de noviembre de 2026.
 ```
 site/                 Lo que se publica en Netlify
   index.html          Diseño y funcionamiento de la web (casi nunca hay que tocarlo)
-  datos.json          TODO el contenido: temas, partidos, medidas, votaciones, casos y noticias
+  datos.json          TODO el contenido: temas, partidos, medidas, votaciones y noticias
   og-image.png        Imagen de la vista previa en redes
 scripts/
   actualizar.py       Recoge titulares y prepara el informe diario
@@ -26,7 +26,7 @@ netlify.toml          Le dice a Netlify qué carpeta publicar
   Si encuentra uno nuevo, extrae las medidas con Claude y abre una propuesta de cambio
   («Programas electorales: …»). No se publica nada hasta que la apruebas (Merge). Si un partido
   bloquea la búsqueda, se puede lanzar el workflow a mano con el enlace al PDF.
-- **Nunca solo:** medidas de los programas y casos de corrupción. Cada mañana se crea un
+- **Nunca solo:** medidas de los programas. Cada mañana se crea un
   *issue* en GitHub ("Revisión del dd/mm/aaaa") con lo que conviene revisar. GitHub te lo
   manda por correo.
 

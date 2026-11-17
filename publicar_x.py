@@ -95,7 +95,7 @@ def diario():
         posts.append((f"cal:{clave}", CALENDARIO[clave], SECCION_CALENDARIO.get(clave, "como-votar")))
     faltan = (ELECCIONES - HOY).days
     if faltan in CUENTA_ATRAS and f"cuenta:{faltan}" not in hechos:
-        posts.append((f"cuenta:{faltan}", f"Faltan {faltan} días para las elecciones generales del 29 de noviembre. Propuestas, votaciones y casos judiciales de cada partido, con fuentes:", "inicio"))
+        posts.append((f"cuenta:{faltan}", f"Faltan {faltan} días para las elecciones generales del 29 de noviembre. Propuestas y votaciones de cada partido, con fuentes:", "inicio"))
 
     for deb in datos.get("debates", []):
         if deb.get("fecha") == HOY.isoformat() and f"debate:{deb.get('id', deb.get('titulo'))}" not in hechos:
@@ -173,16 +173,6 @@ def cambios():
         if v["title"] not in vistas:
             avisos.append((f"Nueva votación en la web: {v['title']}. Puedes ver qué votó cada partido.", "votaciones"))
 
-    # Casos judiciales
-    antes = {(c["party"], c["title"]): c for c in viejo.get("casos", [])}
-    for c in nuevo.get("casos", []):
-        k = (c["party"], c["title"])
-        if k not in antes:
-            avisos.append((f"Nuevo caso en la sección de corrupción: {c['title']} ({nombre.get(c['party'], c['party'])}). "
-                           f"Estado: {estados.get(c['status'], c['status']).lower()}.", "corrupcion"))
-        elif antes[k].get("status") != c.get("status"):
-            avisos.append((f"Actualizado el estado del caso {c['title']}: {estados.get(c['status'], c['status']).lower()}.", "corrupcion"))
-
     # Debates confirmados
     vistos_deb = {x.get("id", x.get("titulo")) for x in viejo.get("debates", [])}
     for deb in nuevo.get("debates", []):
@@ -199,7 +189,7 @@ def cambios():
         print("Sin cambios que anunciar (las noticias no se anuncian una a una).")
         return
     if len(avisos) > MAX_POSTS_POR_EJECUCION:
-        publicar(f"Hemos actualizado la web con {len(avisos)} cambios en propuestas, votaciones o casos judiciales. Todo, con sus fuentes:")
+        publicar(f"Hemos actualizado la web con {len(avisos)} cambios en propuestas, votaciones o debates. Todo, con sus fuentes:")
     else:
         for texto, seccion in avisos:
             publicar(texto, seccion)

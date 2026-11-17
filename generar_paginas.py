@@ -20,7 +20,7 @@ RAIZ = Path(__file__).resolve().parent
 WEB = "https://info29n.com"
 d = json.loads((RAIZ / "datos.json").read_text(encoding="utf-8"))
 PARTIDOS, TEMAS = d["partidos"], d["temas"]
-MEDIDAS, VOTOS, CASOS = d.get("medidas", {}), d.get("votaciones", []), d.get("casos", [])
+MEDIDAS, VOTOS = d.get("medidas", {}), d.get("votaciones", [])
 ESTADOS, PREGUNTAS, PROGRAMAS = d.get("estados", {}), d.get("preguntas", []), d.get("programas", {})
 NOMBRE = {p["id"]: p["name"] for p in PARTIDOS}
 TEMA = {t["id"]: t["name"] for t in TEMAS}
@@ -83,7 +83,7 @@ def pagina(ruta, titulo, descripcion, cuerpo, interactiva, imagen="/og-image.png
 {cuerpo}
 </main>
 <footer>
-  <p>info29n.com reúne qué propone cada partido, qué ha votado y qué casos judiciales le afectan, con enlace a la fuente de cada dato. Sin publicidad y financiada por su responsable. Esta web no pide ni recomienda el voto.</p>
+  <p>info29n.com reúne qué propone cada partido, qué ha votado y las últimas noticias sobre él, con enlace a la fuente de cada dato. Sin publicidad y financiada por su responsable. Esta web no pide ni recomienda el voto.</p>
   <nav class="idx" aria-label="Más páginas">{indice()}</nav>
   <p><a href="/#metodo">Cómo hacemos esta web</a> · <a href="/#buzon">Buzón de sugerencias</a> · <a href="/privacidad.html">Política de privacidad</a></p>
 </footer>
@@ -105,12 +105,6 @@ def medida_li(m):
     pag = f"Programa, pág. {m['pagina']}" if m.get("pagina") else "Fuente"
     cita = f'<blockquote>«{e(m["cita"])}»</blockquote>' if m.get("cita") else ""
     return f'<li>{e(m["texto"])} <a class="src" href="{e(m["fuente"])}" rel="noopener">{pag}</a>{cita}</li>'
-
-def caso_html(c):
-    fuentes = "".join(f'<a href="{e(u)}" rel="noopener">{e(n)}</a>' for n, u in c.get("src", []))
-    return f"""<article class="card"><h3>{e(c["title"])}</h3><p class="muted">{e(c["who"])}</p>
-<p><span class="badge st-{e(c["status"])}">{e(ESTADOS.get(c["status"], c["status"]))}</span> <span class="muted">({e(c.get("dateLabel") or fecha(c["date"]))})</span></p>
-<p>{e(c["what"])}</p><p class="srcs">Fuentes: {fuentes}</p></article>"""
 
 def fila_postura(q, pid):
     k, x = postura(q, pid)
@@ -147,16 +141,13 @@ def paginas_partido():
             vot = f'<p class="muted">{e(p.get("votos_nota") or "No tenía diputados en el Congreso en esta legislatura, así que no hay votaciones suyas.")}</p>'
         else:
             vot = '<ul class="rows">' + "".join(fila_voto(v, pid) for v in VOTOS) + "</ul>"
-        cs = [c for c in CASOS if c["party"] == pid]
-        casos = "".join(caso_html(c) for c in cs) if cs else '<p class="muted">No hay casos recogidos en esta web para este partido. Que no aparezcan aquí no certifica que no tenga ninguno.</p>'
         cuerpo = f"""<header class="head"><p class="kicker">Elecciones generales del 29 de noviembre</p><h1>{e(n)}</h1>
 <p class="muted">Se presenta en: {e(p.get("scope", ""))}. {cand}</p></header>
 <section><h2>Propuestas</h2>{prop}</section>
 {comp}
-<section><h2>Qué votó en esta legislatura</h2>{vot}</section>
-<section><h2>Casos judiciales</h2><p class="note">Toda persona investigada o con condena recurrida es inocente mientras no haya sentencia firme.</p>{casos}</section>"""
-        desc = f"Qué propone {n} para las elecciones del 29 de noviembre, qué ha votado en el Congreso y qué casos judiciales le afectan. Con fuentes."
-        urls.append(pagina(f"partido/{pid}/", f"{n}: programa, votaciones y casos judiciales · 29N", desc, cuerpo, f"#partido-{pid}"))
+<section><h2>Qué votó en esta legislatura</h2>{vot}</section>"""
+        desc = f"Qué propone {n} para las elecciones del 29 de noviembre, qué ha votado en el Congreso y su postura en las cuestiones clave. Con fuentes."
+        urls.append(pagina(f"partido/{pid}/", f"{n}: programa, propuestas y votaciones · 29N", desc, cuerpo, f"#partido-{pid}"))
     return urls
 
 # ------------------------------------------------------------------ páginas por tema
