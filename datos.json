@@ -4769,6 +4769,468 @@
           "verificada": true
         }
       ]
+    },
+    "compromis": {
+      "vivienda": [
+        {
+          "texto": "Prohibir que sociedades especulativas y fondos buitre compren viviendas, incluyendo las sociedades interpuestas que eludan la prohibición.",
+          "cita": "Prohibirem que societats especulatives i fons voltor puguen comprar habitatges al nostre País",
+          "pagina": 4,
+          "fuente": "https://frontvalencia.org/programa-compromis-front-valencia.pdf#page=4",
+          "fecha": "2026-11-17",
+          "verificada": true
+        },
+        {
+          "texto": "Aprobar una ley de expropiación de grandes fondos y sociedades tenedoras para ampliar el parque público de vivienda.",
+          "cita": "Aprovarem una nova Llei d’Expropiació de Grans Fons i Societat Tenidores per a ampliar el parc públic d’habitatge",
+          "pagina": 4,
+          "fuente": "https://frontvalencia.org/programa-compromis-front-valencia.pdf#page=4",
+          "fecha": "2026-11-17",
+          "verificada": true
+        },
+        {
+          "texto": "Destinar el 1% del PIB anual a adquisición de viviendas o promoción de vivienda protegida.",
+          "cita": "Destinarem l’ 1% del PIB anual a programes d’adquisició d’habitatges o de promoció d’habitatge protegit",
+          "pagina": 4,
+          "fuente": "https://frontvalencia.org/programa-compromis-front-valencia.pdf#page=4",
+          "fecha": "2026-11-17",
+          "verificada": true
+        },
+        {
+          "texto": "Prohibir temporalmente la compraventa de viviendas a población no residente en las zonas tensionadas.",
+          "cita": "Prohibirem temporalment la compravenda d’habitatges a població no-resident en les zones tensionades.",
+          "pagina": 4,
+          "fuente": "https://frontvalencia.org/programa-compromis-front-valencia.pdf#page=4",
+          "fecha": "2026-11-17",
+          "verificada": true
+        },
+        {
+          "texto": "Impedir los algoritmos y programas de fijación de precios de alquiler, con multas de hasta el 10% de los beneficios mundiales.",
+          "cita": "Impedirem el desenvolupament i ús d’algoritmes immobiliaris i programaris de fixació de preus",
+          "pagina": 4,
+          "fuente": "https://frontvalencia.org/programa-compromis-front-valencia.pdf#page=4",
+          "fecha": "2026-11-17",
+          "verificada": true
+        },
+        {
+          "texto": "Dar competencias a los ayuntamientos para declarar zonas tensionadas y controlar los precios del alquiler.",
+          "cita": "Donarem competències als Ajuntaments perquè puguen declarar zones tensionades",
+          "pagina": 4,
+          "fuente": "https://frontvalencia.org/programa-compromis-front-valencia.pdf#page=4",
+          "fecha": "2026-11-17",
+          "verificada": true
+        },
+        {
+          "texto": "Crear un Registro Estatal de Arrendamientos Urbanos obligatorio para controlar precios en tiempo real.",
+          "cita": "Crearem el Registre Estatal d’Arrendaments Urbans obligatori",
+          "pagina": 5,
+          "fuente": "https://frontvalencia.org/programa-compromis-front-valencia.pdf#page=5",
+          "fecha": "2026-11-17",
+          "verificada": true
+        },
+        {
+          "texto": "Abolir los privilegios fiscales de las SOCIMI y las EDAV.",
+          "cita": "Abolirem els privilegis fiscals de les SOCIMIS i les EDAV com a vehicles d’especulació financera.",
+          "pagina": 5,
+          "fuente": "https://frontvalencia.org/programa-compromis-front-valencia.pdf#page=5",
+          "fecha": "2026-11-17",
+          "verificada": true
+        },
+        {
+          "texto": "Crear un Fondo de Inversión Estatal que capte 18.000 millones de euros para programas de vivienda asequible.",
+          "cita": "Fons d’Inversió Estatal que capte 18.000M€ destinats a programes d’habitatge assequible",
+          "pagina": 5,
+          "fuente": "https://frontvalencia.org/programa-compromis-front-valencia.pdf#page=5",
+          "fecha": "2026-11-17",
+          "verificada": true
+        },
+        {
+          "texto": "Prohibir por ley los desahucios sin alternativa habitacional, especialmente los promovidos por grandes tenedores y fondos.",
+          "cita": "Prohibirem legalment els desnonaments sense alternativa habitacional",
+          "pagina": 6,
+          "fuente": "https://frontvalencia.org/programa-compromis-front-valencia.pdf#page=6",
+          "fecha": "2026-11-17",
+          "verificada": true
+        }
+      ],
+      "economia": [
+        {
+          "texto": "Aumentar las pensiones no contributivas hasta los 800 euros.",
+          "cita": "Augmentarem les pensions no contributives fins els 800€",
+          "pagina": 8,
+          "fuente": "https://frontvalencia.org/programa-compromis-front-valencia.pdf#page=8",
+          "fecha": "2026-11-17",
+          "verificada": true
+        },
+        {
+          "texto": "Deflactar el IRPF en las rentas inferiores a 30.000 euros para ajustarlo a la inflación.",
+          "cita": "Deflactarem l’IRPF en les rendes inferiors a 30.000€ per tal d’ajustar-lo a la inflació.",
+          "pagina": 18,
+          "fuente": "https://frontvalencia.org/programa-compromis-front-valencia.pdf#page=18",
+          "fecha": "2026-11-17",
+          "verificada": true
+        },
+        {
+          "texto": "Mantener y ampliar el Impuesto a las Grandes Fortunas, aproximándolo a propuestas como la tasa Zucman.",
+          "cita": "Mantindrem i ampliarem l’Impost a les Grans Fortunes per a aproximar-la a propostes internacionals de tributació progressiva al patrimoni com la taxa Zucman.",
+          "pagina": 18,
+          "fuente": "https://frontvalencia.org/programa-compromis-front-valencia.pdf#page=18",
+          "fecha": "2026-11-17",
+          "verificada": true
+        },
+        {
+          "texto": "Crear un impuesto sobre el beneficio de las empresas oligopolísticas.",
+          "cita": "Crearem un impost sobre el benefici de les empreses oligopolístiques.",
+          "pagina": 18,
+          "fuente": "https://frontvalencia.org/programa-compromis-front-valencia.pdf#page=18",
+          "fecha": "2026-11-17",
+          "verificada": true
+        },
+        {
+          "texto": "Implantar una tasa de 2 euros por pernoctación en viviendas de uso turístico.",
+          "cita": "Implantarem una taxa de 2€ per pernoctació en habitatges d’ús turístics.",
+          "pagina": 18,
+          "fuente": "https://frontvalencia.org/programa-compromis-front-valencia.pdf#page=18",
+          "fecha": "2026-11-17",
+          "verificada": true
+        },
+        {
+          "texto": "Reducir el IVA de productos de cuidado de la salud, higiene femenina, peluquería y servicios culturales.",
+          "cita": "Reduirem l’IVA dels productes utilitzats per a la cura de la salut, higiene femenina, serveis de perruqueria",
+          "pagina": 19,
+          "fuente": "https://frontvalencia.org/programa-compromis-front-valencia.pdf#page=19",
+          "fecha": "2026-11-17",
+          "verificada": true
+        },
+        {
+          "texto": "Crear una banca pública de inversión y crédito para garantizar el acceso al crédito de pymes, cooperativas y familias.",
+          "cita": "Crearem una banca pública d’inversió i crèdit per a garantir l’accés al crèdit de les PIMES, les cooperatives, l’economia social i les famílies",
+          "pagina": 20,
+          "fuente": "https://frontvalencia.org/programa-compromis-front-valencia.pdf#page=20",
+          "fecha": "2026-11-17",
+          "verificada": true
+        },
+        {
+          "texto": "Sacar de la factura eléctrica el impuesto eléctrico y los cargos de política energética y financiarlos con los Presupuestos Generales del Estado.",
+          "cita": "Traurem de la factura l’impost elèctric i els càrrecs de política energètica i els finançarem via Pressupostos Generals de l’Estat",
+          "pagina": 29,
+          "fuente": "https://frontvalencia.org/programa-compromis-front-valencia.pdf#page=29",
+          "fecha": "2026-11-17",
+          "verificada": true
+        },
+        {
+          "texto": "Crear una empresa pública de generación, distribución y comercialización de energía.",
+          "cita": "Crearem una empresa pública de generació, distribució i comercialització",
+          "pagina": 29,
+          "fuente": "https://frontvalencia.org/programa-compromis-front-valencia.pdf#page=29",
+          "fecha": "2026-11-17",
+          "verificada": true
+        },
+        {
+          "texto": "Implantar una prestación universal por crianza de 200 euros mensuales por hijo o hija, con incremento para familias monoparentales y discapacidad superior al 60%.",
+          "cita": "Implementarem una prestació universal per criança de 200 euros mensuals per fill o filla",
+          "pagina": 46,
+          "fuente": "https://frontvalencia.org/programa-compromis-front-valencia.pdf#page=46",
+          "fecha": "2026-11-17",
+          "verificada": true
+        }
+      ],
+      "inmigracion": [
+        {
+          "texto": "Ampliar el derecho al sufragio activo a las personas migrantes.",
+          "cita": "Ampliarem el dret al sufragi actiu per a les persones migrants.",
+          "pagina": 51,
+          "fuente": "https://frontvalencia.org/programa-compromis-front-valencia.pdf#page=51",
+          "fecha": "2026-11-17",
+          "verificada": true
+        },
+        {
+          "texto": "Garantizar protección y alternativas a las mujeres migrantes en situación administrativa irregular para que accedan a los servicios públicos.",
+          "cita": "Garantirem protecció i alternatives a les dones migrants en situació administrativa irregular, evitant que la por a l’expulsió impedisca accedir als serveis públics.",
+          "pagina": 55,
+          "fuente": "https://frontvalencia.org/programa-compromis-front-valencia.pdf#page=55",
+          "fecha": "2026-11-17",
+          "verificada": true
+        },
+        {
+          "texto": "Pedir que el Gobierno español lleve al TJUE los reglamentos y directivas del Pacto Europeo de Migración y Asilo.",
+          "cita": "Demanarem que el govern espanyol trasllade al TJUE els acords comercials que desprotegeixen els nostres sectors i el medi ambient, així com els reglaments i directives del Pacte Europeu de Migració i Asil.",
+          "pagina": 64,
+          "fuente": "https://frontvalencia.org/programa-compromis-front-valencia.pdf#page=64",
+          "fecha": "2026-11-17",
+          "verificada": true
+        },
+        {
+          "texto": "Exigir la eliminación de los CIE.",
+          "cita": "Exigirem l’eliminació dels CIES.",
+          "pagina": 64,
+          "fuente": "https://frontvalencia.org/programa-compromis-front-valencia.pdf#page=64",
+          "fecha": "2026-11-17",
+          "verificada": true
+        },
+        {
+          "texto": "Impulsar vías de regularización y reformas que faciliten la documentación y la autorización de trabajo de personas migrantes.",
+          "cita": "Impulsarem vies de regularització i reformes que faciliten la documentació i autorització de treball, amb procediments clars i garanties.",
+          "pagina": 64,
+          "fuente": "https://frontvalencia.org/programa-compromis-front-valencia.pdf#page=64",
+          "fecha": "2026-11-17",
+          "verificada": true
+        },
+        {
+          "texto": "Prohibir las devoluciones ilegales encubiertas como retornos voluntarios y garantizar información veraz en un idioma comprensible.",
+          "cita": "Prohibirem radicalment les devolucions il·legals encobertes sota retorns voluntaris",
+          "pagina": 64,
+          "fuente": "https://frontvalencia.org/programa-compromis-front-valencia.pdf#page=64",
+          "fecha": "2026-11-17",
+          "verificada": true
+        }
+      ],
+      "politica": [
+        {
+          "texto": "Implantar la rendición de cuentas anual ante el Parlamento de los titulares de todas las carteras ministeriales.",
+          "cita": "Implantarem la rendició de comptes anual de tots el titulars de totes les carteres ministerials",
+          "pagina": 37,
+          "fuente": "https://frontvalencia.org/programa-compromis-front-valencia.pdf#page=37",
+          "fecha": "2026-11-17",
+          "verificada": true
+        },
+        {
+          "texto": "Reformar la Ley de Transparencia eliminando excepciones poco justificadas y garantizando un Consejo de Transparencia independiente.",
+          "cita": "Promourem la reforma de la Llei de Transparència eliminant excepcions poc justificades",
+          "pagina": 37,
+          "fuente": "https://frontvalencia.org/programa-compromis-front-valencia.pdf#page=37",
+          "fecha": "2026-11-17",
+          "verificada": true
+        },
+        {
+          "texto": "Eliminar el aforamiento parlamentario y judicial.",
+          "cita": "Eliminarem l'aforament parlamentari i judicial",
+          "pagina": 40,
+          "fuente": "https://frontvalencia.org/programa-compromis-front-valencia.pdf#page=40",
+          "fecha": "2026-11-17",
+          "verificada": true
+        },
+        {
+          "texto": "Reformar el artículo 135 de la Constitución para suprimir la prioridad absoluta del pago de la deuda pública.",
+          "cita": "Reformarem l'article 135 de la Constitució Espanyola per suprimir la prioritat absoluta atorgada al pagament del deute públic",
+          "pagina": 40,
+          "fuente": "https://frontvalencia.org/programa-compromis-front-valencia.pdf#page=40",
+          "fecha": "2026-11-17",
+          "verificada": true
+        },
+        {
+          "texto": "Derogar la ley franquista de secretos oficiales y aprobar otra acorde a estándares europeos.",
+          "cita": "Derogarem la llei franquista de secrets oficials",
+          "pagina": 40,
+          "fuente": "https://frontvalencia.org/programa-compromis-front-valencia.pdf#page=40",
+          "fecha": "2026-11-17",
+          "verificada": true
+        },
+        {
+          "texto": "Crear una oficina antifraude que persiga la ilegalidad en la administración pública.",
+          "cita": "Crearem una oficina antifrau que perseguisca qualsevol tipus d'il·legalitat en l'àmbit de l'administració pública",
+          "pagina": 40,
+          "fuente": "https://frontvalencia.org/programa-compromis-front-valencia.pdf#page=40",
+          "fecha": "2026-11-17",
+          "verificada": true
+        },
+        {
+          "texto": "Garantizar por ley el anonimato y la protección de los denunciantes de corrupción.",
+          "cita": "Garantirem l'anonimat i protecció de les persones denunciants de casos de corrupció per llei",
+          "pagina": 41,
+          "fuente": "https://frontvalencia.org/programa-compromis-front-valencia.pdf#page=41",
+          "fecha": "2026-11-17",
+          "verificada": true
+        },
+        {
+          "texto": "Derogar la Ley de Protección de la Seguridad Ciudadana, conocida como ley mordaza.",
+          "cita": "Derogarem la Llei de Protecció de la Seguretat Ciutadana, coneguda com a llei mordassa.",
+          "pagina": 43,
+          "fuente": "https://frontvalencia.org/programa-compromis-front-valencia.pdf#page=43",
+          "fecha": "2026-11-17",
+          "verificada": true
+        },
+        {
+          "texto": "Reformar el sistema de financiación autonómica según criterios poblacionales y de prestación de servicios para acabar con la infrafinanciación valenciana.",
+          "cita": "Reformarem el sistema de finançament autonòmic per a que atenga a criteris poblacionals i de prestació dels serveis públics i desenvolupament competencial",
+          "pagina": 57,
+          "fuente": "https://frontvalencia.org/programa-compromis-front-valencia.pdf#page=57",
+          "fecha": "2026-11-17",
+          "verificada": true
+        },
+        {
+          "texto": "Traspasar a la Generalitat Valenciana competencias como costas, puertos, aeropuertos, rodalies, Ingreso Mínimo Vital e inspección de trabajo.",
+          "cita": "Avançarem en el desplegament de l’autogovern i en el traspàs a la Generalitat Valenciana de les competències",
+          "pagina": 59,
+          "fuente": "https://frontvalencia.org/programa-compromis-front-valencia.pdf#page=59",
+          "fecha": "2026-11-17",
+          "verificada": true
+        }
+      ],
+      "empleo": [
+        {
+          "texto": "Reducir la jornada laboral a cuatro días (32 horas semanales) sin disminución del sueldo.",
+          "cita": "Reduirem la jornada laboral a quatre dies (trenta-dues hores) setmanals, sense disminució del sou.",
+          "pagina": 6,
+          "fuente": "https://frontvalencia.org/programa-compromis-front-valencia.pdf#page=6",
+          "fecha": "2026-11-17",
+          "verificada": true
+        },
+        {
+          "texto": "Garantizar por ley que el SMI llegue al 60% del salario medio.",
+          "cita": "Garantirem per llei que l’SMI arribe al 60% del salari mitjà",
+          "pagina": 6,
+          "fuente": "https://frontvalencia.org/programa-compromis-front-valencia.pdf#page=6",
+          "fecha": "2026-11-17",
+          "verificada": true
+        },
+        {
+          "texto": "Recuperar los salarios de tramitación y la indemnización por despido de 45 días por año trabajado.",
+          "cita": "Modificarem la normativa laboral sobre acomiadaments recuperant els salaris de tramitació (en el cas d’acomiadament improcedent indemnitzat) i la indemnització de 45 dies per any treballat.",
+          "pagina": 6,
+          "fuente": "https://frontvalencia.org/programa-compromis-front-valencia.pdf#page=6",
+          "fecha": "2026-11-17",
+          "verificada": true
+        },
+        {
+          "texto": "Reducir un 50% los domingos y festivos laborables y restringir las Zonas de Gran Afluencia Turística.",
+          "cita": "Reduirem un 50% els diumenges o festius laborables",
+          "pagina": 6,
+          "fuente": "https://frontvalencia.org/programa-compromis-front-valencia.pdf#page=6",
+          "fecha": "2026-11-17",
+          "verificada": true
+        },
+        {
+          "texto": "Reforzar la Inspección de Trabajo contra el fraude en la contratación y las horas extra no declaradas.",
+          "cita": "Reforçarem la Inspecció de Treball per a detectar i sancionar el frau en la contractació",
+          "pagina": 7,
+          "fuente": "https://frontvalencia.org/programa-compromis-front-valencia.pdf#page=7",
+          "fecha": "2026-11-17",
+          "verificada": true
+        },
+        {
+          "texto": "Exigir solo un año de pérdidas a los autónomos para acceder a la prestación por cese de actividad.",
+          "cita": "només hagen d’acreditar un any de pèrdues",
+          "pagina": 7,
+          "fuente": "https://frontvalencia.org/programa-compromis-front-valencia.pdf#page=7",
+          "fecha": "2026-11-17",
+          "verificada": true
+        },
+        {
+          "texto": "Modificar el artículo 42 del Estatuto de los Trabajadores para impedir que los hoteles subcontraten la limpieza de habitaciones a empresas multiservicios.",
+          "cita": "Modificarem l'article 42 de l'Estatut dels Treballadors per a impedir que els hotels subcontracten el servei de neteja d'habitacions a empreses multiserveis",
+          "pagina": 26,
+          "fuente": "https://frontvalencia.org/programa-compromis-front-valencia.pdf#page=26",
+          "fecha": "2026-11-17",
+          "verificada": true
+        },
+        {
+          "texto": "Crear planes de formación, subsidio y reciclaje profesional para trabajadores de sectores descarbonizados y colectivos vulnerables.",
+          "cita": "plans de formació, subsidi i reciclatge professional per a col·lectius vulnerables i treballadors dels sectors descarbonitzats",
+          "pagina": 28,
+          "fuente": "https://frontvalencia.org/programa-compromis-front-valencia.pdf#page=28",
+          "fecha": "2026-11-17",
+          "verificada": true
+        },
+        {
+          "texto": "Centrar la Garantía Juvenil en ayudas a la contratación a tiempo completo e indefinida mediante un nuevo decreto con las comunidades autónomas.",
+          "cita": "centrant els esforços econòmics en afavorir les ajudes a la contractació a temps complet i indefinida",
+          "pagina": 48,
+          "fuente": "https://frontvalencia.org/programa-compromis-front-valencia.pdf#page=48",
+          "fecha": "2026-11-17",
+          "verificada": true
+        },
+        {
+          "texto": "Remunerar de forma progresiva las ocho semanas de permiso por cuidado de hijos e hijas.",
+          "cita": "Implantarem progressivament la remuneració de les huit setmanes de permís per cura de fills i filles.",
+          "pagina": 47,
+          "fuente": "https://frontvalencia.org/programa-compromis-front-valencia.pdf#page=47",
+          "fecha": "2026-11-17",
+          "verificada": true
+        }
+      ],
+      "sanidad": [
+        {
+          "texto": "Derogar la Ley 15/1997 para blindar la gestión pública de la sanidad e impedir su privatización.",
+          "cita": "Blindarem la gestió pública de la sanitat i impedirem la mercantilització de l’atenció sanitària i la privatització de la gestió dels serveis públics a través de la derogació de la Llei 15/1997.",
+          "pagina": 9,
+          "fuente": "https://frontvalencia.org/programa-compromis-front-valencia.pdf#page=9",
+          "fecha": "2026-11-17",
+          "verificada": true
+        },
+        {
+          "texto": "Garantizar el acceso universal a la atención sanitaria pública sin discriminación por origen o situación administrativa.",
+          "cita": "Garantirem l’accés universal a l’atenció sanitària pública, sense discriminacions per origen o situació administrativa.",
+          "pagina": 9,
+          "fuente": "https://frontvalencia.org/programa-compromis-front-valencia.pdf#page=9",
+          "fecha": "2026-11-17",
+          "verificada": true
+        },
+        {
+          "texto": "Reforzar la atención primaria fijando por ley financiación mínima, ratios poblacionales y listas de espera máximas.",
+          "cita": "Reforçarem l’atenció primària, la salut comunitària i la prevenció, fixant per llei bàsica un finançament mínim així com unes ràtios poblacionals i llistes d’espera màxims",
+          "pagina": 9,
+          "fuente": "https://frontvalencia.org/programa-compromis-front-valencia.pdf#page=9",
+          "fecha": "2026-11-17",
+          "verificada": true
+        },
+        {
+          "texto": "Aprobar un Pacto estatal por la salud mental con financiación para ampliar plantillas y mejorar la atención psicológica.",
+          "cita": "Aprovarem un Pacte estatal per la salut mental amb finançament suficient per a ampliar les plantilles de professionals",
+          "pagina": 9,
+          "fuente": "https://frontvalencia.org/programa-compromis-front-valencia.pdf#page=9",
+          "fecha": "2026-11-17",
+          "verificada": true
+        },
+        {
+          "texto": "Suprimir el copago farmacéutico de pensionistas y hacer más progresivas las aportaciones del resto.",
+          "cita": "Suprimirem el copagament farmacèutic de pensionistes",
+          "pagina": 9,
+          "fuente": "https://frontvalencia.org/programa-compromis-front-valencia.pdf#page=9",
+          "fecha": "2026-11-17",
+          "verificada": true
+        },
+        {
+          "texto": "Incluir en el catálogo del Sistema Nacional de Salud oftalmología, podología, nutrición y odontología.",
+          "cita": "Inclourem en el catàleg del Sistema Nacional de Salut les especialitats i prestacions d’oftalmologia, podologia, nutrició, odontologia i estomatologia.",
+          "pagina": 9,
+          "fuente": "https://frontvalencia.org/programa-compromis-front-valencia.pdf#page=9",
+          "fecha": "2026-11-17",
+          "verificada": true
+        },
+        {
+          "texto": "Crear una industria farmacéutica pública para producir medicamentos esenciales, genéricos y productos sanitarios estratégicos.",
+          "cita": "Crearem una indústria farmacèutica pública per a investigar, produir i comercialitzar medicaments essencials",
+          "pagina": 9,
+          "fuente": "https://frontvalencia.org/programa-compromis-front-valencia.pdf#page=9",
+          "fecha": "2026-11-17",
+          "verificada": true
+        },
+        {
+          "texto": "Crear un Plan estatal de investigación en salud de las mujeres con financiación específica y estable.",
+          "cita": "Crearem un Pla estatal d’investigació en salut de les dones, amb finançament específic i estable",
+          "pagina": 51,
+          "fuente": "https://frontvalencia.org/programa-compromis-front-valencia.pdf#page=51",
+          "fecha": "2026-11-17",
+          "verificada": true
+        },
+        {
+          "texto": "Garantizar la interrupción voluntaria del embarazo gratuita y accesible dentro de la red sanitaria pública.",
+          "cita": "Garantirem la interrupció voluntària de l’embaràs gratuïta, segura i accessible dins de la xarxa sanitària pública",
+          "pagina": 52,
+          "fuente": "https://frontvalencia.org/programa-compromis-front-valencia.pdf#page=52",
+          "fecha": "2026-11-17",
+          "verificada": true
+        },
+        {
+          "texto": "Desarrollar el Fondo de Garantía Asistencial (FOGA) y el Fondo de Cohesión Sanitaria, garantizando la liquidación de los importes pendientes.",
+          "cita": "Desenvoluparem adequadament el Fons de Garantia Assistencial (FOGA) i el Fons de Cohesió Sanitària",
+          "pagina": 57,
+          "fuente": "https://frontvalencia.org/programa-compromis-front-valencia.pdf#page=57",
+          "fecha": "2026-11-17",
+          "verificada": true
+        }
+      ]
     }
   },
   "resumen": {},
@@ -7985,6 +8447,14 @@
           "fuente": "https://oposicionobrera.pcte.es/assets/docs/CAS-Programa-de-lucha-PCTE-d.pdf#page=11",
           "fecha": "2026-11-17",
           "verificada": true
+        },
+        "compromis": {
+          "postura": "si",
+          "cita": "Donarem competències als Ajuntaments perquè puguen declarar zones tensionades, d’acord amb la Llei estatal de Vivienda, als seus municipis per impulsar el control efectiu de preus de lloguer.",
+          "pagina": 4,
+          "fuente": "https://frontvalencia.org/programa-compromis-front-valencia.pdf#page=4",
+          "fecha": "2026-11-17",
+          "verificada": true
         }
       }
     },
@@ -8061,6 +8531,14 @@
         "pcte": {
           "postura": "sin",
           "fecha": "2026-11-17"
+        },
+        "compromis": {
+          "postura": "si",
+          "cita": "Limitarem les compres d'habitatges destinades a l'acumulació especulativa de propietats, tant per part de persones físiques com jurídiques",
+          "pagina": 4,
+          "fuente": "https://frontvalencia.org/programa-compromis-front-valencia.pdf#page=4",
+          "fecha": "2026-11-17",
+          "verificada": true
         }
       }
     },
@@ -8133,6 +8611,14 @@
         "pcte": {
           "postura": "sin",
           "fecha": "2026-11-17"
+        },
+        "compromis": {
+          "postura": "matiz",
+          "cita": "Deflactarem l’IRPF en les rendes inferiors a 30.000€ per tal d’ajustar-lo a la inflació.",
+          "pagina": 18,
+          "fuente": "https://frontvalencia.org/programa-compromis-front-valencia.pdf#page=18",
+          "fecha": "2026-11-17",
+          "verificada": true
         }
       }
     },
@@ -8205,6 +8691,14 @@
         "pcte": {
           "postura": "sin",
           "fecha": "2026-11-17"
+        },
+        "compromis": {
+          "postura": "si",
+          "cita": "Mantindrem i ampliarem l’Impost a les Grans Fortunes",
+          "pagina": 18,
+          "fuente": "https://frontvalencia.org/programa-compromis-front-valencia.pdf#page=18",
+          "fecha": "2026-11-17",
+          "verificada": true
         }
       }
     },
@@ -8285,6 +8779,14 @@
           "fuente": "https://oposicionobrera.pcte.es/assets/docs/CAS-Programa-de-lucha-PCTE-d.pdf#page=20",
           "fecha": "2026-11-17",
           "verificada": true
+        },
+        "compromis": {
+          "postura": "si",
+          "cita": "Regularitzarem i donarem drets per als qui viuen ací. Impulsarem vies de regularització i reformes que faciliten la documentació i autorització de treball, amb procediments clars i garanties.",
+          "pagina": 64,
+          "fuente": "https://frontvalencia.org/programa-compromis-front-valencia.pdf#page=64",
+          "fecha": "2026-11-17",
+          "verificada": true
         }
       }
     },
@@ -8351,6 +8853,10 @@
           "verificada": true
         },
         "pcte": {
+          "postura": "sin",
+          "fecha": "2026-11-17"
+        },
+        "compromis": {
           "postura": "sin",
           "fecha": "2026-11-17"
         }
@@ -8425,6 +8931,14 @@
           "fuente": "https://oposicionobrera.pcte.es/assets/docs/CAS-Programa-de-lucha-PCTE-d.pdf#page=7",
           "fecha": "2026-11-17",
           "verificada": true
+        },
+        "compromis": {
+          "postura": "si",
+          "cita": "Reduirem la jornada laboral a quatre dies (trenta-dues hores) setmanals, sense disminució del sou.",
+          "pagina": 6,
+          "fuente": "https://frontvalencia.org/programa-compromis-front-valencia.pdf#page=6",
+          "fecha": "2026-11-17",
+          "verificada": true
         }
       }
     },
@@ -8489,6 +9003,14 @@
         "pcte": {
           "postura": "sin",
           "fecha": "2026-11-17"
+        },
+        "compromis": {
+          "postura": "si",
+          "cita": "fixant per llei bàsica un finançament mínim així com unes ràtios poblacionals i llistes d’espera màxims",
+          "pagina": 9,
+          "fuente": "https://frontvalencia.org/programa-compromis-front-valencia.pdf#page=9",
+          "fecha": "2026-11-17",
+          "verificada": true
         }
       }
     }
@@ -8548,6 +9070,11 @@
       "url": "https://oposicionobrera.pcte.es/assets/docs/CAS-Programa-de-lucha-PCTE-d.pdf",
       "fecha": "2026-11-17",
       "paginas": 24
+    },
+    "compromis": {
+      "url": "https://frontvalencia.org/programa-compromis-front-valencia.pdf",
+      "fecha": "2026-11-17",
+      "paginas": 64
     }
   },
   "debates": [],
