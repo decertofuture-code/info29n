@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-17T13:58+00:00",
+  "actualizado": "2026-11-17T18:23+00:00",
   "temas": [
     {
       "id": "vivienda",
@@ -5903,6 +5903,104 @@
   ],
   "noticias": [
     {
+      "titulo": "El PSOE se persona en la causa contra Núcleo Nacional porque su líder manifestó que quería disparar a Sánchez",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/psoe-persona-causa-nucleo-nacional-lider-manifesto-20261117182542-nt.html",
+      "fecha": "2026-11-17T17:55+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "Colau pide que Frente Amplio entre en el Gobierno para «obligar» al PSOE a hacer cosas tras el 29N",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/aragon/colau-pide-frente-amplio-gobierno-obligar-psoe-20261115132516-nt.html",
+      "fecha": "2026-11-17T17:54+00:00",
+      "partidos": [
+        "psoe",
+        "sumar"
+      ]
+    },
+    {
+      "titulo": "Vox renuncia a la 'prioridad nacional' en las pagas a menores tutelados en Aragón y las reduce a incentivos por objetivos",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/aragon/politica/vox-renuncia-prioridad-nacional-pagas-menores-tutelados-aragon-reduce-incentivos-objetivos_1_13671670.html",
+      "fecha": "2026-11-17T17:44+00:00",
+      "partidos": [
+        "vox"
+      ]
+    },
+    {
+      "titulo": "Así es el programa electoral de Podemos para el 29N: de bajar los alquileres un 40 % a la jornada de 30 horas, consulta las 442 medidas",
+      "medio": "20minutos",
+      "url": "https://www.20minutos.es/nacional/programa-electoral-podemos-29n-bajar-alquileres-jornada-30-horas-consulta-442-medidas_7062203_0.html",
+      "fecha": "2026-11-17T17:08+00:00",
+      "partidos": [
+        "podemos"
+      ]
+    },
+    {
+      "titulo": "Pedro Sánchez, portada de 'Lecturas': “No imagino mi vida sin Begoña”",
+      "medio": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/politica/20261117/11686731/pedro-sanchez-portada-lecturas-imagino-mi-vida-begona.html",
+      "fecha": "2026-11-17T16:35+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "El PP se descuelga del pacto de Estado que piden víctimas de Adamuz y que apoyan PSOE, Vox, Podemos, ERC o Frente Amplio",
+      "medio": "20minutos",
+      "url": "https://www.20minutos.es/nacional/pp-se-descuelga-pacto-estado-que-piden-victimas-adamuz-que-apoyan-psoe-vox-podemos-erc-frente-amplio_7062192_0.html",
+      "fecha": "2026-11-17T14:38+00:00",
+      "partidos": [
+        "pp",
+        "psoe",
+        "vox",
+        "sumar",
+        "erc",
+        "podemos"
+      ]
+    },
+    {
+      "titulo": "Abascal advierte de que él no pide el voto al Senado para el PP en Canarias",
+      "medio": "El País",
+      "url": "https://elpais.com/espana/elecciones-generales/2026-11-17/abascal-advierte-de-que-el-no-pide-el-voto-al-senado-para-el-pp-en-canarias.html",
+      "fecha": "2026-11-17T14:09+00:00",
+      "partidos": [
+        "pp",
+        "vox"
+      ]
+    },
+    {
+      "titulo": "PSOE y Sumar libran sus últimos pulsos internos por los decretos que se aprobarán antes del 29-N",
+      "medio": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/politica/20261117/11686555/psoe-sumar-libran-ultimos-pulsos-internos-decretos-aprobaran-29-n.html",
+      "fecha": "2026-11-17T14:06+00:00",
+      "partidos": [
+        "psoe",
+        "sumar"
+      ]
+    },
+    {
+      "titulo": "La Audiencia Provincial ordena reabrir la causa contra el director general de la Policía por coacciones y acoso a un portavoz de Vox",
+      "medio": "El Mundo",
+      "url": "https://www.elmundo.es/espana/2026/11/17/6afc5413fdddffb3438b45a8.html",
+      "fecha": "2026-11-17T13:58+00:00",
+      "partidos": [
+        "vox"
+      ]
+    },
+    {
+      "titulo": "Abascal apoya crear \"centros de deportación\" en terceros países para llevar a quienes \"entren ilegalmente\"",
+      "medio": "El Mundo",
+      "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/17/6afc3eafe9cf4a26318b45a7.html",
+      "fecha": "2026-11-17T13:46+00:00",
+      "partidos": [
+        "vox"
+      ]
+    },
+    {
       "titulo": "Manuel Gavira, contra Adelante Andalucía: «Es exactamente lo mismo que Bildu y Esquerra Republicana»",
       "medio": "ABC",
       "url": "https://www.abc.es/espana/andalucia/gavira-adelante-exactamente-bildu-esquerra-republicana-20261117122347-nts.html",
@@ -5931,6 +6029,17 @@
         "pp",
         "psoe",
         "vox"
+      ]
+    },
+    {
+      "titulo": "Feijóo pide el voto \"prestado\" de descontentos del PNV y de \"los socialistas vascos de verdad\"",
+      "medio": "Europa Press",
+      "url": "https://www.europapress.es/euskadi/noticia-feijoo-compromete-poner-fin-descontrol-migratorio-pide-voto-prestado-descontentos-pnv-pse-20261117142305.html",
+      "fecha": "2026-11-17T13:23+00:00",
+      "partidos": [
+        "pp",
+        "psoe",
+        "pnv"
       ]
     },
     {
@@ -6303,6 +6412,24 @@
       "fecha": "2026-11-16T22:00+00:00",
       "partidos": [
         "compromis"
+      ]
+    },
+    {
+      "titulo": "El ocaso definitivo de Yolanda Díaz: portazo de la OIT mientras su 'creación' se hunde absorbida por el PSOE",
+      "medio": "El Mundo",
+      "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/16/6afb4c49e85eceda428b45a4.html",
+      "fecha": "2026-11-16T21:44+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "Así es la propuesta del PP para que 150.000 'exiliados' por ETA puedan votar en el País Vasco: \"Se restablece la igualdad violada\"",
+      "medio": "El Mundo",
+      "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/16/6afb4ba7e85ececc148b459b.html",
+      "fecha": "2026-11-16T21:44+00:00",
+      "partidos": [
+        "pp"
       ]
     },
     {
@@ -8587,126 +8714,6 @@
       "fecha": "2026-11-13T20:01+00:00",
       "partidos": [
         "pp"
-      ]
-    },
-    {
-      "titulo": "Ada Colau recoge el guante a Albiol y acepta un debate 'cara a cara' sobre vivienda",
-      "medio": "20minutos",
-      "url": "https://www.20minutos.es/nacional/ada-colau-recoge-guante-albiol-acepta-un-debate-cara-cara-sobre-vivienda_7061004_0.html",
-      "fecha": "2026-11-13T20:00+00:00",
-      "partidos": [
-        "sumar"
-      ]
-    },
-    {
-      "titulo": "Tellado amenaza con llevar al PSOE gallego a los tribunales por difundir una foto falsa suya con Koldo",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/galicia/tellado-amenaza-llevar-psoe-gallego-tribunales-difundir-20261113200822-nt.html",
-      "fecha": "2026-11-13T19:46+00:00",
-      "partidos": [
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "Rufián y Montero defienden en Palma una izquierda que no se someta al PSOE: \"El frente somos nosotros\"",
-      "medio": "elDiario.es",
-      "url": "https://www.eldiario.es/catalunya/rufian-montero-defienden-palma-izquierda-no-someta-psoe-frente_1_13663237.html",
-      "fecha": "2026-11-13T19:39+00:00",
-      "partidos": [
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "Rufián se burla de Abascal: \"Si no se atreve con Jordi Wild, imaginadle con Mohamed VI\"",
-      "medio": "20minutos",
-      "url": "https://www.20minutos.es/nacional/rufian-se-burla-abascal-si-no-se-atreve-con-jordi-wild-imaginadle-con-mohamed-vi_7060999_0.html",
-      "fecha": "2026-11-13T19:28+00:00",
-      "partidos": [
-        "vox"
-      ]
-    },
-    {
-      "titulo": "El PP critica a los dirigentes socialistas de Castilla-La Mancha por hacer campaña para Pedro Sánchez",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/castilla-la-mancha/toledo/pp-critica-dirigentes-socialistas-castillala-mancha-campana-20261113200725-nt.html",
-      "fecha": "2026-11-13T19:07+00:00",
-      "partidos": [
-        "pp",
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "Besteiro cuestiona la fama de buen gestor de Feijóo y denuncia millones «dilapidados» en Lugo",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/galicia/besteiro-cuestiona-fama-buen-gestor-feijoo-denuncia-20261113200003-nt.html",
-      "fecha": "2026-11-13T19:00+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "El PSOE pide el voto frente a «dos partidos que no quieren ni el progreso ni mejorar la vida de las personas»",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/castilla-la-mancha/psoe-pide-voto-frente-dos-partidos-quieren-20261113195854-nt.html",
-      "fecha": "2026-11-13T18:58+00:00",
-      "partidos": [
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "La otra pelea de las izquierdas: dónde se puede romper el ascenso del PSOE",
-      "medio": "El Confidencial",
-      "url": "https://www.elconfidencial.com/espana/2026-11-13/izquierdas-psoe-pelea-voto-elecciones_4464934/",
-      "fecha": "2026-11-13T18:58+00:00",
-      "partidos": [
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "Colau rompe dos huevos, Feijóo no sabe inglés",
-      "medio": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/politica/20261113/11683785/colau-rompe-dos-huevos-feijoo-ingles.html",
-      "fecha": "2026-11-13T18:35+00:00",
-      "partidos": [
-        "pp",
-        "sumar"
-      ]
-    },
-    {
-      "titulo": "Sánchez pide una participación del 75% para \"una mayoría progresista\" el 29N y se mofa de Feijóo por su entrevista con Jordi Wild",
-      "medio": "20minutos",
-      "url": "https://www.20minutos.es/nacional/sanchez-pide-participacion-mayoria-progresista-mofa-feijoo-jordi-wild_7060966_0.html",
-      "fecha": "2026-11-13T18:31+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "El cara a cara entre Pedro Sánchez y Alberto Núñez Feijóo será el jueves 19 de noviembre",
-      "medio": "El País",
-      "url": "https://elpais.com/espana/elecciones-generales/2026-11-13/el-cara-a-cara-entre-pedro-sanchez-y-alberto-nunez-feijoo-sera-el-jueves-19-de-noviembre.html",
-      "fecha": "2026-11-13T18:21+00:00",
-      "partidos": [
-        "pp",
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "Jordi Wild, obligado a interrumpir su entrevista a Pedro Sánchez por los datos sobre inmigración marroquí: «Pido verificación»",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/jordi-wild-obligado-interrumpir-entrevista-pedro-sanchez-20261113173038-nt.html",
-      "fecha": "2026-11-13T16:30+00:00",
-      "partidos": [
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "Colau afirma tener «tolerancia cero con la corrupción», pero justifica que Sumar siguiese en el Gobierno",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/colau-afirma-tener-tolerancia-cero-corrupcion-justifica-20261113100247-nt.html",
-      "fecha": "2026-11-13T16:27+00:00",
-      "partidos": [
-        "sumar"
       ]
     }
   ],
