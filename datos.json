@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-17T18:23+00:00",
+  "actualizado": "2026-11-18T02:49+00:00",
   "temas": [
     {
       "id": "vivienda",
@@ -5903,6 +5903,173 @@
   ],
   "noticias": [
     {
+      "titulo": "Sánchez busca retener al más de medio millón de votantes que se va al PP",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/sanchez-busca-retener-medio-millon-votantes-pp-20261117013708-nt.html",
+      "fecha": "2026-11-18T00:37+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "El candidato de la coalición del PSOE en Ceuta tachó el feminismo de «odio al hombre» y pidió implantar el islam como «modo de vida»",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/candidato-coalicion-psoe-ceuta-tacho-feminismo-odio-20261117013421-nt.html",
+      "fecha": "2026-11-18T00:34+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "Abascal se vuelca en Canarias, consciente de que su discurso cala ante el caos migratorio",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/discurso-abascal-sobre-inmigracion-impulsa-plena-crisis-20261117013409-nt.html",
+      "fecha": "2026-11-18T00:34+00:00",
+      "partidos": [
+        "vox"
+      ]
+    },
+    {
+      "titulo": "Vox aparca la tregua con Ayuso y rechaza sus Presupuestos: «Ni rastro de prioridad nacional»",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/madrid/vox-aparca-tregua-ayuso-rechaza-presupuestos-rastro-20261117010041-nt.html",
+      "fecha": "2026-11-18T00:00+00:00",
+      "partidos": [
+        "vox"
+      ]
+    },
+    {
+      "titulo": "Vox denuncia que un grupo de magrebíes ha tratado de boicotear una rueda de prensa en Fuensalida",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/castilla-la-mancha/toledo/vox-denuncia-grupo-magrebies-tratado-boicotear-rueda-20261117232255-nt.html",
+      "fecha": "2026-11-17T22:25+00:00",
+      "partidos": [
+        "vox"
+      ]
+    },
+    {
+      "titulo": "Por qué el PSOE no puede bajar en votos",
+      "medio": "El Mundo",
+      "url": "https://www.elmundo.es/espana/2026/11/17/6afca97521efa01c438b45ba.html",
+      "fecha": "2026-11-17T21:50+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "Abascal compara el «rictus» de Pedro Sánchez con el de José Bretón: «Está desesperado»",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/canarias/abascal-compara-rictus-pedro-sanchez-jose-breton-20261117221114-nt.html",
+      "fecha": "2026-11-17T21:28+00:00",
+      "partidos": [
+        "psoe",
+        "vox"
+      ]
+    },
+    {
+      "titulo": "Alberto Núñez Feijóo, sobre el sanchismo: «Se ha cargado a España y al Partido Socialista»",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/alberto-nunez-feijoo-sobre-sanchismo-cargado-espana-20261117215250-nt.html",
+      "fecha": "2026-11-17T21:23+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "Campaña electoral 29N, en directo: última hora de los mítines de Feijóo, Sánchez, Vox y el Frente Amplio hoy",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/campana-elecciones-generales-espana-29n-directo-sanchez-feijoo-abascal-20261113162908-di.html",
+      "fecha": "2026-11-17T21:03+00:00",
+      "partidos": [
+        "pp",
+        "vox",
+        "sumar"
+      ]
+    },
+    {
+      "titulo": "Rueda incita a transformar «el enfado» con Sánchez en votos para «el cambio» de Feijóo",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/galicia/rueda-incita-transformar-enfado-sanchez-votos-cambio-20261117220015-nt.html",
+      "fecha": "2026-11-17T21:00+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "Pedro Sánchez se aferra de nuevo a la bandera: “Estamos muy orgullosos de España”",
+      "medio": "El País",
+      "url": "https://elpais.com/espana/elecciones-generales/2026-11-17/pedro-sanchez-se-aferra-de-nuevo-a-la-bandera-estamos-muy-orgullosos-de-espana.html",
+      "fecha": "2026-11-17T20:38+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "Sánchez dice que el \"cambio\" no puede ser volver al \"pasado\" y alerta frente a Vox: \"No es que sea facha, es pura fachada\"",
+      "medio": "20minutos",
+      "url": "https://www.20minutos.es/nacional/sanchez-dice-que-cambio-no-puede-ser-volver-pasado-alerta-frente-vox-no-es-que-sea-facha-es-pura-fachada_7062363_0.html",
+      "fecha": "2026-11-17T20:30+00:00",
+      "partidos": [
+        "vox"
+      ]
+    },
+    {
+      "titulo": "Abascal compara el \"rictus\" de Sánchez con el de José Bretón y la risa del presidente con la del Joker",
+      "medio": "Europa Press",
+      "url": "https://www.europapress.es/nacional/noticia-abascal-compara-rictus-sanchez-jose-breton-risa-presidente-joker-20261117211747.html",
+      "fecha": "2026-11-17T20:17+00:00",
+      "partidos": [
+        "vox"
+      ]
+    },
+    {
+      "titulo": "Feijóo pide el voto a indecisos y abstencionistas para un cambio: \"El país no está para equidistancias\"",
+      "medio": "Europa Press",
+      "url": "https://www.europapress.es/nacional/noticia-feijoo-pide-voto-indecisos-abstencionistas-haya-cambio-pais-no-equidistancias-20261117211336.html",
+      "fecha": "2026-11-17T20:13+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "Illa rechaza el \"Govern de concentración\" que propone Rufián en Cataluña frente a PP-Vox: \"Lo que hay que conseguir es que Sánchez siga gobernando\"",
+      "medio": "El Mundo",
+      "url": "https://www.elmundo.es/cataluna/2026/11/17/6afc82f1e4d4d8b81f8b459f.html",
+      "fecha": "2026-11-17T18:56+00:00",
+      "partidos": [
+        "pp",
+        "vox"
+      ]
+    },
+    {
+      "titulo": "Pedro Sánchez da una entrevista a Lecturas: “No imagino mi vida sin Begoña”",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/rastreador/pedro-sanchez-da-entrevista-lecturas-no-imagino-vida-begona_132_13672091.html",
+      "fecha": "2026-11-17T18:52+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "El test antidopaje de Abascal y el Sánchez más rosa",
+      "medio": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/politica/20261117/11686798/test-antidopaje-abascal-sanchez-mas-rosa.html",
+      "fecha": "2026-11-17T18:35+00:00",
+      "partidos": [
+        "vox"
+      ]
+    },
+    {
+      "titulo": "La media de encuestas: la izquierda recorta distancias pero todavía está a 14 puntos de la suma de PP y Vox",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/politica/media-encuestas-izquierda-recorta-distancias-todavia-14-puntos-suma-pp-vox_1_13670652.html",
+      "fecha": "2026-11-17T18:21+00:00",
+      "partidos": [
+        "pp",
+        "vox"
+      ]
+    },
+    {
       "titulo": "El PSOE se persona en la causa contra Núcleo Nacional porque su líder manifestó que quería disparar a Sánchez",
       "medio": "ABC",
       "url": "https://www.abc.es/espana/psoe-persona-causa-nucleo-nacional-lider-manifesto-20261117182542-nt.html",
@@ -5949,6 +6116,16 @@
       ]
     },
     {
+      "titulo": "Feijóo arropa a Echeverría tras la agresión en Hernani y pide el voto a los socialistas vascos \"de verdad\" en su recorrido por Euskadi",
+      "medio": "20minutos",
+      "url": "https://www.20minutos.es/pais-vasco/feijoo-arropa-echeverria-tras-agresion-hernani-pide-voto-los-socialistas-vascos-verdad-su-recorrido-por-euskadi_7062197_0.html",
+      "fecha": "2026-11-17T15:46+00:00",
+      "partidos": [
+        "pp",
+        "psoe"
+      ]
+    },
+    {
       "titulo": "El PP se descuelga del pacto de Estado que piden víctimas de Adamuz y que apoyan PSOE, Vox, Podemos, ERC o Frente Amplio",
       "medio": "20minutos",
       "url": "https://www.20minutos.es/nacional/pp-se-descuelga-pacto-estado-que-piden-victimas-adamuz-que-apoyan-psoe-vox-podemos-erc-frente-amplio_7062192_0.html",
@@ -5980,6 +6157,15 @@
       "partidos": [
         "psoe",
         "sumar"
+      ]
+    },
+    {
+      "titulo": "El alcalde de Eibar recuerda a Feijóo que en su pueblo llegó a haber 2.000 gallegos después de su broma sobre el idioma",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/euskadi/alcalde-eibar-recuerda-feijoo-pueblo-llego-haber-2-000-gallegos-despues-broma-idioma_1_13671170.html",
+      "fecha": "2026-11-17T14:02+00:00",
+      "partidos": [
+        "pp"
       ]
     },
     {
@@ -6134,6 +6320,15 @@
       "fecha": "2026-11-17T12:26+00:00",
       "partidos": [
         "vox"
+      ]
+    },
+    {
+      "titulo": "Feijóo se planta entre gritos e insultos ante los violentos en Guipúzcoa: \"¡Ni un paso atrás!\"",
+      "medio": "El Mundo",
+      "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/17/6afc3a88e85ece1a3b8b458b.html",
+      "fecha": "2026-11-17T12:12+00:00",
+      "partidos": [
+        "pp"
       ]
     },
     {
@@ -8509,211 +8704,6 @@
       "partidos": [
         "pp",
         "psoe"
-      ]
-    },
-    {
-      "titulo": "El PSOE pelea las elecciones en 18 provincias que tiene identificadas como prioritarias",
-      "medio": "El País",
-      "url": "https://elpais.com/espana/elecciones-generales/2026-11-14/el-psoe-pelea-las-elecciones-en-18-provincias-que-tiene-identificadas-como-prioritarias.html",
-      "fecha": "2026-11-14T04:30+00:00",
-      "partidos": [
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "Las elecciones miden el techo de la derecha en Andalucía y la fortaleza del PSOE en su bastión de Sevilla",
-      "medio": "El País",
-      "url": "https://elpais.com/espana/elecciones-generales/2026-11-14/las-elecciones-miden-el-techo-de-la-derecha-en-andalucia-y-la-fortaleza-del-psoe-en-su-bastion-de-sevilla.html",
-      "fecha": "2026-11-14T04:30+00:00",
-      "partidos": [
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "PP y Vox tiran de referentes nacionales en su campaña y Compromís tendrá apoyos puntuales",
-      "medio": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/local/valencia/20261114/11683418/pp-vox-tiran-referentes-nacionales-campana-compromis-tendra-apoyos-puntuales.html",
-      "fecha": "2026-11-14T04:30+00:00",
-      "partidos": [
-        "pp",
-        "vox",
-        "compromis"
-      ]
-    },
-    {
-      "titulo": "PSOE y Frente Amplio cierran filas en el primer debate a cuatro ante la crítica del PP a la gestión del Gobierno y un Vox centrado en la inmigración",
-      "medio": "El País",
-      "url": "https://elpais.com/espana/2026-11-13/psoe-y-frente-amplio-cierran-filas-en-el-primer-debate-a-cuatro-ante-la-critica-del-pp-a-la-gestion-del-gobierno-y-un-vox-centrado-en-la-inmigracion.html",
-      "fecha": "2026-11-13T23:19+00:00",
-      "partidos": [
-        "pp",
-        "psoe",
-        "vox",
-        "sumar"
-      ]
-    },
-    {
-      "titulo": "Las mentiras de PP y Vox en el debate económico: de la inmigración al falso vaciado de las pensiones",
-      "medio": "elDiario.es",
-      "url": "https://www.eldiario.es/economia/mentiras-pp-vox-debate-economico-inmigracion-falso-vaciado-pensiones_1_13663511.html",
-      "fecha": "2026-11-13T23:01+00:00",
-      "partidos": [
-        "pp",
-        "vox"
-      ]
-    },
-    {
-      "titulo": "Moncloa y Ferraz proyectan una campaña de golpes de efecto como Begoña o Lula que aísle al PSOE de la UCO: \"Habrá sorpresas\"",
-      "medio": "El Mundo",
-      "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/14/6af7685ae4d4d848758b4587.html",
-      "fecha": "2026-11-13T23:00+00:00",
-      "partidos": [
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "La Rinconada pone a prueba la fidelidad de Sevilla al PSOE: \"No hay que tenerle miedo a los cambios; en cuatro años volvemos a votar\"",
-      "medio": "El Mundo",
-      "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/14/6aeb0a42e9cf4a88038b4574.html",
-      "fecha": "2026-11-13T23:00+00:00",
-      "partidos": [
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "Abascal exhibe el respaldo de la ultraderecha internacional en su arranque de campaña",
-      "medio": "El País",
-      "url": "https://elpais.com/espana/elecciones-generales/2026-11-13/abascal-advierte-a-sus-votantes-de-que-su-mayor-enemigo-es-el-exceso-de-confianza.html",
-      "fecha": "2026-11-13T22:36+00:00",
-      "partidos": [
-        "vox"
-      ]
-    },
-    {
-      "titulo": "Primer debate electoral en campaña: PSOE y Frente Amplio prometen inversión en el tren, frente a PP y Vox que piden auditar la red",
-      "medio": "20minutos",
-      "url": "https://www.20minutos.es/nacional/primer-debate-electoral-campana-psoe-frente-amplio-prometen-inversion-tren-pp-vox-piden-auditar-red_7061028_0.html",
-      "fecha": "2026-11-13T22:27+00:00",
-      "partidos": [
-        "pp",
-        "psoe",
-        "vox",
-        "sumar"
-      ]
-    },
-    {
-      "titulo": "Sánchez busca una movilización histórica de la izquierda contra el PP y Vox que vuelva a echar por tierra los sondeos",
-      "medio": "elDiario.es",
-      "url": "https://www.eldiario.es/politica/sanchez-busca-movilizacion-historica-izquierda-pp-vox-vuelva-echar-tierra-sondeos_1_13662791.html",
-      "fecha": "2026-11-13T21:53+00:00",
-      "partidos": [
-        "pp",
-        "vox"
-      ]
-    },
-    {
-      "titulo": "Sánchez, Feijóo y Colau se internan en el mundo no muy peligroso de Jordi Wild",
-      "medio": "elDiario.es",
-      "url": "https://www.eldiario.es/politica/sanchez-feijoo-colau-internan-mundo-no-peligroso-jordi-wild_129_13662429.html",
-      "fecha": "2026-11-13T21:53+00:00",
-      "partidos": [
-        "pp",
-        "sumar"
-      ]
-    },
-    {
-      "titulo": "De qué se habló en las entrevistas de Jordi Wild: Ceuta con Sánchez, economía con Feijóo e inmigración con Colau",
-      "medio": "elDiario.es",
-      "url": "https://www.eldiario.es/politica/hablo-entrevistas-jordi-wild-ceuta-sanchez-economia-feijoo-e-inmigracion-colau_1_13662907.html",
-      "fecha": "2026-11-13T21:53+00:00",
-      "partidos": [
-        "pp",
-        "sumar"
-      ]
-    },
-    {
-      "titulo": "¿Hay ideología en los programas del PP y Vox?",
-      "medio": "elDiario.es",
-      "url": "https://www.eldiario.es/opinion/zona-critica/hay-ideologia-programas-pp-vox_129_13663038.html",
-      "fecha": "2026-11-13T21:53+00:00",
-      "partidos": [
-        "pp",
-        "vox"
-      ]
-    },
-    {
-      "titulo": "Abascal pide un 29-N glorioso que recosa la unidad patriótica",
-      "medio": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/politica/20261113/11683878/abascal-pide-29-n-glorioso-recosa-unidad-patriotica.html",
-      "fecha": "2026-11-13T21:52+00:00",
-      "partidos": [
-        "vox"
-      ]
-    },
-    {
-      "titulo": "El Pedro Sánchez que votará a Feijóo: \"Estos socialistas no son de fiar\"",
-      "medio": "El Mundo",
-      "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/13/6af7462ffdddff31748b456e.html",
-      "fecha": "2026-11-13T21:43+00:00",
-      "partidos": [
-        "pp",
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "El otro Alberto Feijóo no sabe a quién votar: \"Lo decidiré a última hora\"",
-      "medio": "El Mundo",
-      "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/13/6af746efe9cf4a53428b459a.html",
-      "fecha": "2026-11-13T21:43+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Abascal se conjura con sus socios internacionales para el 29N: «Estas elecciones son existenciales para España»",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/abascal-conjura-socios-internacionales-29n-elecciones-existenciales-20261113220250-nt.html",
-      "fecha": "2026-11-13T21:33+00:00",
-      "partidos": [
-        "vox"
-      ]
-    },
-    {
-      "titulo": "Mañueco pide movilizar al PP para acabar con el Gobierno de Sánchez: \"El problema tiene nombre y apellidos\"",
-      "medio": "elDiario.es",
-      "url": "https://www.eldiario.es/castilla-y-leon/politica/manueco-pide-movilizar-pp-acabar-gobierno-sanchez-problema-nombre-apellidos_1_13663382.html",
-      "fecha": "2026-11-13T20:55+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Rueda llama a convertir el «enfado» con Sánchez en votos para Feijóo",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/galicia/rueda-llama-convertir-enfado-sanchez-votos-feijoo-20261113193653-nt.html",
-      "fecha": "2026-11-13T20:50+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Oskar Matute: \"EH Bildu aspira a ser parte imprescindible del dique de contención de la ola reaccionaria de PP y Vox\"",
-      "medio": "elDiario.es",
-      "url": "https://www.eldiario.es/euskadi/oskar-matute-eh-bildu-aspira-parte-imprescindible-dique-contencion-ola-reaccionaria-pp-vox_128_13657793.html",
-      "fecha": "2026-11-13T20:45+00:00",
-      "partidos": [
-        "pp",
-        "vox",
-        "bildu"
-      ]
-    },
-    {
-      "titulo": "Feijóo se pone la capa de 'Anotop At' frente a Jordi Wild para conquistar a la Generación Z: \"Yo no sé inglés, pero sé gobernar\"",
-      "medio": "El Mundo",
-      "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/13/6af6e315fdddff705e8b4593.html",
-      "fecha": "2026-11-13T20:01+00:00",
-      "partidos": [
-        "pp"
       ]
     }
   ],
