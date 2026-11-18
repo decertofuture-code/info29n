@@ -5725,6 +5725,404 @@
           "verificada": true
         }
       ]
+    },
+    "bildu": {
+      "vivienda": [
+        {
+          "texto": "Establecer contratos de alquiler ordinarios con prórroga automática para dar estabilidad a inquilinos y pequeños propietarios.",
+          "cita": "Errentamendu-kontratu arruntak ezartzea, automatikoki luzatuko direnak, maizterrei eta jabe txikiei egonkortasuna eta segurtasuna eskaintzeko mekanismo gisa.",
+          "pagina": 5,
+          "fuente": "https://posibleegin.ehbildu.eus/wp-content/uploads/2026/11/PROGRAMA-EUS.pdf#page=5",
+          "fecha": "2026-11-18",
+          "verificada": true
+        },
+        {
+          "texto": "Prohibir de forma permanente los desahucios de personas y familias vulnerables sin alternativa habitacional.",
+          "cita": "Bizitoki-alternatibarik ez duten pertsona eta familia kalteberak etxegabetzeko debekua",
+          "pagina": 5,
+          "fuente": "https://posibleegin.ehbildu.eus/wp-content/uploads/2026/11/PROGRAMA-EUS.pdf#page=5",
+          "fecha": "2026-11-18",
+          "verificada": true
+        },
+        {
+          "texto": "Crear un mecanismo estatal de financiación para los municipios que declaren zonas de alta tensión residencial.",
+          "cita": "Tentsio handiko eremu izendatu eta deklaratu dituzten udalentzako Estatuko finantzaketa-mekanismo berezi bat sortzea",
+          "pagina": 5,
+          "fuente": "https://posibleegin.ehbildu.eus/wp-content/uploads/2026/11/PROGRAMA-EUS.pdf#page=5",
+          "fecha": "2026-11-18",
+          "verificada": true
+        },
+        {
+          "texto": "Prohibir la compra especulativa de viviendas por personas jurídicas con ánimo de lucro, fondos de inversión y grandes propietarios.",
+          "cita": "Etxebizitzen erosketa espekulatiboa debekatzea",
+          "pagina": 5,
+          "fuente": "https://posibleegin.ehbildu.eus/wp-content/uploads/2026/11/PROGRAMA-EUS.pdf#page=5",
+          "fecha": "2026-11-18",
+          "verificada": true
+        },
+        {
+          "texto": "Exigir a grandes propietarios extranjeros dos años de empadronamiento previo para comprar una vivienda, que deberá ser residencia habitual o alquiler regulado.",
+          "cita": "Atzerriko etxebizitza-jabe handiei etxebizitza bat erosteko baldintza gisa ezartzea erosketa egin aurreko gutxienez bi urteetan udal-erroldan izena emanda egon izana.",
+          "pagina": 5,
+          "fuente": "https://posibleegin.ehbildu.eus/wp-content/uploads/2026/11/PROGRAMA-EUS.pdf#page=5",
+          "fecha": "2026-11-18",
+          "verificada": true
+        },
+        {
+          "texto": "Condicionar la compra de edificios completos a destinar las viviendas a alquiler regulado según índices de precios de referencia.",
+          "cita": "Eraikin osoak erosteko baldintza izango da etxebizitzak prezio-indizeen araberako alokairu arautuan jartzea.",
+          "pagina": 5,
+          "fuente": "https://posibleegin.ehbildu.eus/wp-content/uploads/2026/11/PROGRAMA-EUS.pdf#page=5",
+          "fecha": "2026-11-18",
+          "verificada": true
+        },
+        {
+          "texto": "Fijar de forma permanente un tope del 2% a la actualización anual de la renta de alquiler cuando el IPC interanual la supere.",
+          "cita": "Errentamendu-kontratuetako errentaren urteko eguneratzean % 2ko gehieneko igoera-muga ezartzea, modu iraunkorrean",
+          "pagina": 5,
+          "fuente": "https://posibleegin.ehbildu.eus/wp-content/uploads/2026/11/PROGRAMA-EUS.pdf#page=5",
+          "fecha": "2026-11-18",
+          "verificada": true
+        },
+        {
+          "texto": "Aplicar un IVA del 21% a los servicios de alojamiento turístico de corta duración.",
+          "cita": "Epe laburreko turismo-ostatuen zerbitzuei % 21eko BEZ tasa aplikatzea.",
+          "pagina": 6,
+          "fuente": "https://posibleegin.ehbildu.eus/wp-content/uploads/2026/11/PROGRAMA-EUS.pdf#page=6",
+          "fecha": "2026-11-18",
+          "verificada": true
+        },
+        {
+          "texto": "Eliminar la figura de las SOCIMI como promotoras de vivienda y revocar sus ventajas fiscales.",
+          "cita": "Higiezinen Merkatuan Inbertitzeko Sozietate Anonimo Kotizatuak etxebizitza-sustatzaile gisa jarduteko figura juridikoa ezabatzea.",
+          "pagina": 6,
+          "fuente": "https://posibleegin.ehbildu.eus/wp-content/uploads/2026/11/PROGRAMA-EUS.pdf#page=6",
+          "fecha": "2026-11-18",
+          "verificada": true
+        }
+      ],
+      "economia": [
+        {
+          "texto": "Establecer un mecanismo de intervención extraordinaria en los márgenes de las grandes empresas de energía y alimentación.",
+          "cita": "Energia eta elikadura sektoreetako enpresa handien marjinetan ezohiko esku hartzeko mekanismo bat ezartzea.",
+          "pagina": 8,
+          "fuente": "https://posibleegin.ehbildu.eus/wp-content/uploads/2026/11/PROGRAMA-EUS.pdf#page=8",
+          "fecha": "2026-11-18",
+          "verificada": true
+        },
+        {
+          "texto": "Recuperar el mecanismo de intervención en el precio del gas para generar electricidad, tomando como referencia la excepción ibérica.",
+          "cita": "Gaur egungoa bezalako ezohiko garestitze-egoeretan elektrizitatea sortzeko erabilitako gasaren prezioan esku hartzeko mekanismoa berreskuratzea",
+          "pagina": 8,
+          "fuente": "https://posibleegin.ehbildu.eus/wp-content/uploads/2026/11/PROGRAMA-EUS.pdf#page=8",
+          "fecha": "2026-11-18",
+          "verificada": true
+        },
+        {
+          "texto": "Fijar límites temporales a los precios de bienes y servicios esenciales en situaciones de emergencia o subidas injustificadas.",
+          "cita": "Denborazko mugak ezartzea funtsezko ondasun eta zerbitzuen prezioei",
+          "pagina": 8,
+          "fuente": "https://posibleegin.ehbildu.eus/wp-content/uploads/2026/11/PROGRAMA-EUS.pdf#page=8",
+          "fecha": "2026-11-18",
+          "verificada": true
+        },
+        {
+          "texto": "Desarrollar el Observatorio de la Cadena Alimentaria para seguir precios, costes y márgenes comerciales.",
+          "cita": "Elikagaien Katearen Behatokia garatzea",
+          "pagina": 9,
+          "fuente": "https://posibleegin.ehbildu.eus/wp-content/uploads/2026/11/PROGRAMA-EUS.pdf#page=9",
+          "fecha": "2026-11-18",
+          "verificada": true
+        },
+        {
+          "texto": "Mantener y ampliar los descuentos y bonos subvencionados del transporte público, con financiación estatal.",
+          "cita": "Ohiko bidaiarientzako egungo tarifen beherapenak eta diruz lagundutako bonuak mantentzea eta zabaltzea",
+          "pagina": 9,
+          "fuente": "https://posibleegin.ehbildu.eus/wp-content/uploads/2026/11/PROGRAMA-EUS.pdf#page=9",
+          "fecha": "2026-11-18",
+          "verificada": true
+        },
+        {
+          "texto": "Ampliar y automatizar el acceso al bono social eléctrico y térmico.",
+          "cita": "Bono sozial elektrikoa eta termikoa eskuratzeko aukera zabaltzea eta automatizatzea",
+          "pagina": 9,
+          "fuente": "https://posibleegin.ehbildu.eus/wp-content/uploads/2026/11/PROGRAMA-EUS.pdf#page=9",
+          "fecha": "2026-11-18",
+          "verificada": true
+        },
+        {
+          "texto": "Subir el IPREM conforme al IPC con un aumento extraordinario que compense la pérdida de poder adquisitivo.",
+          "cita": "KPIaren arabera IPREMa igotzea",
+          "pagina": 13,
+          "fuente": "https://posibleegin.ehbildu.eus/wp-content/uploads/2026/11/PROGRAMA-EUS.pdf#page=13",
+          "fecha": "2026-11-18",
+          "verificada": true
+        },
+        {
+          "texto": "Recuperar de forma permanente el impuesto a las empresas energéticas, concertado con las haciendas forales.",
+          "cita": "PNVk, PPk, VOXek, UPNk eta JUNTSek atzera bota zuten energia-enpresen gaineko zerga berreskuratzea eta iraunkor bihurtzea.",
+          "pagina": 13,
+          "fuente": "https://posibleegin.ehbildu.eus/wp-content/uploads/2026/11/PROGRAMA-EUS.pdf#page=13",
+          "fecha": "2026-11-18",
+          "verificada": true
+        },
+        {
+          "texto": "Aumentar la carga fiscal del impuesto sobre bancos y grandes fortunas.",
+          "cita": "Bankuen eta fortuna handien gaineko zergaren karga fiskala handitzea.",
+          "pagina": 13,
+          "fuente": "https://posibleegin.ehbildu.eus/wp-content/uploads/2026/11/PROGRAMA-EUS.pdf#page=13",
+          "fecha": "2026-11-18",
+          "verificada": true
+        },
+        {
+          "texto": "Aprobar un nuevo impuesto especial sobre los beneficios de las grandes empresas de distribución de alimentos.",
+          "cita": "Elikagaiak banatzen dituzten enpresa handien irabazien gaineko zerga berezi berri bat onartzea",
+          "pagina": 13,
+          "fuente": "https://posibleegin.ehbildu.eus/wp-content/uploads/2026/11/PROGRAMA-EUS.pdf#page=13",
+          "fecha": "2026-11-18",
+          "verificada": true
+        }
+      ],
+      "inmigracion": [
+        {
+          "texto": "Garantizar una regularización efectiva, accesible y estable, con concesión de permisos de residencia y trabajo.",
+          "cita": "Erregularizazio eraginkorra, irisgarria eta egonkorra bermatzea. Bizileku- eta lan-baimenak ematea",
+          "pagina": 20,
+          "fuente": "https://posibleegin.ehbildu.eus/wp-content/uploads/2026/11/PROGRAMA-EUS.pdf#page=20",
+          "fecha": "2026-11-18",
+          "verificada": true
+        },
+        {
+          "texto": "Garantizar el derecho de asilo y acabar con las políticas migratorias que vulneran derechos, incluidos los CIE.",
+          "cita": "Asilo-eskubidea bermatzea eta eskubideak urratzen dituzten migrazio-politikekin amaitzea",
+          "pagina": 20,
+          "fuente": "https://posibleegin.ehbildu.eus/wp-content/uploads/2026/11/PROGRAMA-EUS.pdf#page=20",
+          "fecha": "2026-11-18",
+          "verificada": true
+        },
+        {
+          "texto": "Garantizar un sistema público de acogida integral con apoyo social, jurídico y laboral.",
+          "cita": "Harrera integraleko sistema publiko bat bermatzea",
+          "pagina": 20,
+          "fuente": "https://posibleegin.ehbildu.eus/wp-content/uploads/2026/11/PROGRAMA-EUS.pdf#page=20",
+          "fecha": "2026-11-18",
+          "verificada": true
+        },
+        {
+          "texto": "Impulsar reformas para ampliar el derecho de voto y la representación política de residentes de origen extranjero.",
+          "cita": "Atzerritar jatorriko egoiliarren boto-eskubidea eta ordezkaritza politikorako eskubidea zabaltzeko beharrezko erreformak bultzatzea",
+          "pagina": 20,
+          "fuente": "https://posibleegin.ehbildu.eus/wp-content/uploads/2026/11/PROGRAMA-EUS.pdf#page=20",
+          "fecha": "2026-11-18",
+          "verificada": true
+        },
+        {
+          "texto": "Dotar de recursos humanos suficientes a las oficinas de extranjería de Navarra y la Comunidad Autónoma Vasca.",
+          "cita": "Nafarroako eta Euskal Autonomia Erkidegoko atzerritartasun-bulegoei giza baliabide nahikoak ematea",
+          "pagina": 20,
+          "fuente": "https://posibleegin.ehbildu.eus/wp-content/uploads/2026/11/PROGRAMA-EUS.pdf#page=20",
+          "fecha": "2026-11-18",
+          "verificada": true
+        },
+        {
+          "texto": "Transferir las competencias en migración para desarrollar un modelo propio de acogida.",
+          "cita": "Euskal harrera-eredu propioa garatzea ahalbidetzen diguten migrazio-eskumenen transferentzia",
+          "pagina": 20,
+          "fuente": "https://posibleegin.ehbildu.eus/wp-content/uploads/2026/11/PROGRAMA-EUS.pdf#page=20",
+          "fecha": "2026-11-18",
+          "verificada": true
+        }
+      ],
+      "politica": [
+        {
+          "texto": "Derogar la reforma del artículo 135 de la Constitución que prioriza el pago de la deuda.",
+          "cita": "PPk eta PSOEk egindako Espainiako Konstituzioaren 135. artikuluaren aldaketa indargabetzea",
+          "pagina": 13,
+          "fuente": "https://posibleegin.ehbildu.eus/wp-content/uploads/2026/11/PROGRAMA-EUS.pdf#page=13",
+          "fecha": "2026-11-18",
+          "verificada": true
+        },
+        {
+          "texto": "Garantizar canales de atención presencial obligatorios en la administración pública mientras persista la brecha digital.",
+          "cita": "arrakala digitala errealitatea den bitartean, aurrez aurreko kanalak ezarri beharko dira nahitaez",
+          "pagina": 12,
+          "fuente": "https://posibleegin.ehbildu.eus/wp-content/uploads/2026/11/PROGRAMA-EUS.pdf#page=12",
+          "fecha": "2026-11-18",
+          "verificada": true
+        },
+        {
+          "texto": "Acabar con la llamada Ley Mordaza volviendo a presentar la proposición de ley de protección de la libertad y seguridad ciudadanas.",
+          "cita": "Mozal legearekin amaitzea.",
+          "pagina": 22,
+          "fuente": "https://posibleegin.ehbildu.eus/wp-content/uploads/2026/11/PROGRAMA-EUS.pdf#page=22",
+          "fecha": "2026-11-18",
+          "verificada": true
+        },
+        {
+          "texto": "Proponer la despenalización de delitos que limitan la libertad de expresión, como las injurias a la Corona o la exaltación del terrorismo.",
+          "cita": "Adierazpen eta iritzi askatasuna murrizten duten delituak zigor kodetik ezabatzea proposatuko dugu.",
+          "pagina": 22,
+          "fuente": "https://posibleegin.ehbildu.eus/wp-content/uploads/2026/11/PROGRAMA-EUS.pdf#page=22",
+          "fecha": "2026-11-18",
+          "verificada": true
+        },
+        {
+          "texto": "Reformar la ley de publicidad y comunicación institucional para evitar financiar prácticas de desinformación.",
+          "cita": "Publizitate eta Komunikazio Instituzionalari buruzko Legearen erreforma bultzatzea",
+          "pagina": 22,
+          "fuente": "https://posibleegin.ehbildu.eus/wp-content/uploads/2026/11/PROGRAMA-EUS.pdf#page=22",
+          "fecha": "2026-11-18",
+          "verificada": true
+        },
+        {
+          "texto": "Reconocer el derecho a decidir de Euskal Herria como mecanismo democrático para resolver el conflicto político.",
+          "cita": "Euskal Herriaren erabakitzeko eskubidea aitortzea, konponbide horretarako mekanismo demokratiko eta legitimo gisa",
+          "pagina": 23,
+          "fuente": "https://posibleegin.ehbildu.eus/wp-content/uploads/2026/11/PROGRAMA-EUS.pdf#page=23",
+          "fecha": "2026-11-18",
+          "verificada": true
+        }
+      ],
+      "empleo": [
+        {
+          "texto": "Reducir la jornada a 32 horas semanales o cuatro días sin recorte salarial mediante reforma del Estatuto de los Trabajadores, con transición para pymes.",
+          "cita": "Lanaldia astean 32 ordura edo lau lan-eguneko astera murriztea, soldata-murrizketarik gabe, Langileen Estatutuaren Legearen erreformaren bidez.",
+          "pagina": 6,
+          "fuente": "https://posibleegin.ehbildu.eus/wp-content/uploads/2026/11/PROGRAMA-EUS.pdf#page=6",
+          "fecha": "2026-11-18",
+          "verificada": true
+        },
+        {
+          "texto": "Reformar el Estatuto de los Trabajadores para que las comunidades autónomas puedan fijar su propio salario mínimo.",
+          "cita": "Langileen Estatutua aldatzea, autonomia-erkidegoek beren LGS propioa ezarri ahal izan dezaten",
+          "pagina": 6,
+          "fuente": "https://posibleegin.ehbildu.eus/wp-content/uploads/2026/11/PROGRAMA-EUS.pdf#page=6",
+          "fecha": "2026-11-18",
+          "verificada": true
+        },
+        {
+          "texto": "Fijar la indemnización por despido improcedente en al menos 45 días de salario.",
+          "cita": "Bidegabeko kaleratzeagatiko kalte-ordaina gutxienez 45 eguneko soldatakoa izatea",
+          "pagina": 6,
+          "fuente": "https://posibleegin.ehbildu.eus/wp-content/uploads/2026/11/PROGRAMA-EUS.pdf#page=6",
+          "fecha": "2026-11-18",
+          "verificada": true
+        },
+        {
+          "texto": "Restablecer los salarios de tramitación.",
+          "cita": "Izapidetze-aldiko soldatak berrezartzea.",
+          "pagina": 6,
+          "fuente": "https://posibleegin.ehbildu.eus/wp-content/uploads/2026/11/PROGRAMA-EUS.pdf#page=6",
+          "fecha": "2026-11-18",
+          "verificada": true
+        },
+        {
+          "texto": "Aplicar medidas específicas para reducir la precariedad, la temporalidad y el tiempo parcial, en especial entre mujeres y jóvenes.",
+          "cita": "Prekarietatea, behin-behinekotasuna eta lanaldi partziala murrizteko neurri espezifikoak ezartzea",
+          "pagina": 6,
+          "fuente": "https://posibleegin.ehbildu.eus/wp-content/uploads/2026/11/PROGRAMA-EUS.pdf#page=6",
+          "fecha": "2026-11-18",
+          "verificada": true
+        },
+        {
+          "texto": "Acabar con el abuso de horas extraordinarias mediante registro horario digital obligatorio y recargo legal.",
+          "cita": "Aparteko orduen gehiegizko erabileraren praktikarekin amaitzea",
+          "pagina": 7,
+          "fuente": "https://posibleegin.ehbildu.eus/wp-content/uploads/2026/11/PROGRAMA-EUS.pdf#page=7",
+          "fecha": "2026-11-18",
+          "verificada": true
+        },
+        {
+          "texto": "Controlar las extinciones de contrato por no superar el periodo de prueba para evitar su uso fraudulento.",
+          "cita": "Probaldia ez gainditzeagatiko kontratu-amaieren kontrola",
+          "pagina": 7,
+          "fuente": "https://posibleegin.ehbildu.eus/wp-content/uploads/2026/11/PROGRAMA-EUS.pdf#page=7",
+          "fecha": "2026-11-18",
+          "verificada": true
+        },
+        {
+          "texto": "Convocar ofertas públicas de empleo para aumentar la plantilla de la Inspección de Trabajo hasta que se transfiera la competencia.",
+          "cita": "Behin-behinean, eta eskualdaketa gauzatu arte, Lan ikuskaritzarako langile kopurua handitzeko lan eskaintza publikoak egitea.",
+          "pagina": 7,
+          "fuente": "https://posibleegin.ehbildu.eus/wp-content/uploads/2026/11/PROGRAMA-EUS.pdf#page=7",
+          "fecha": "2026-11-18",
+          "verificada": true
+        },
+        {
+          "texto": "Equiparar las condiciones laborales de las empleadas del hogar con las del resto de trabajadores.",
+          "cita": "Etxeko langileen lan-baldintzak hobetzea, gainerako langileekin erabat parekatzeko",
+          "pagina": 7,
+          "fuente": "https://posibleegin.ehbildu.eus/wp-content/uploads/2026/11/PROGRAMA-EUS.pdf#page=7",
+          "fecha": "2026-11-18",
+          "verificada": true
+        },
+        {
+          "texto": "Agilizar la homologación y equivalencia de titulaciones extranjeras.",
+          "cita": "Atzerriko titulazioen homologazio- eta baliokidetasun-izapideak arintzea",
+          "pagina": 7,
+          "fuente": "https://posibleegin.ehbildu.eus/wp-content/uploads/2026/11/PROGRAMA-EUS.pdf#page=7",
+          "fecha": "2026-11-18",
+          "verificada": true
+        }
+      ],
+      "sanidad": [
+        {
+          "texto": "Ampliar la cartera común de servicios con salud bucodental, productos ópticos y salud visual para colectivos vulnerables.",
+          "cita": "Oinarrizko kartera komuna zabaltzea, aho-hortzen osasun eta produktu optikoak eta ikusmen-osasun prestazioekin",
+          "pagina": 10,
+          "fuente": "https://posibleegin.ehbildu.eus/wp-content/uploads/2026/11/PROGRAMA-EUS.pdf#page=10",
+          "fecha": "2026-11-18",
+          "verificada": true
+        },
+        {
+          "texto": "Dispensar gratuitamente productos de higiene menstrual a través de farmacias.",
+          "cita": "Higiene menstrualeko produktuen doakotasuna onartzea, farmazia-banaketaren bidez",
+          "pagina": 10,
+          "fuente": "https://posibleegin.ehbildu.eus/wp-content/uploads/2026/11/PROGRAMA-EUS.pdf#page=10",
+          "fecha": "2026-11-18",
+          "verificada": true
+        },
+        {
+          "texto": "Priorizar y asegurar la especialidad de familia y comunidad para reforzar la atención primaria.",
+          "cita": "Lehen mailako arreta indartzeko helburuarekin, familia eta komunitateko espezialitatea lehenetsi eta ziurtatzea.",
+          "pagina": 10,
+          "fuente": "https://posibleegin.ehbildu.eus/wp-content/uploads/2026/11/PROGRAMA-EUS.pdf#page=10",
+          "fecha": "2026-11-18",
+          "verificada": true
+        },
+        {
+          "texto": "Proponer la creación de la especialidad de enfermedades infecciosas.",
+          "cita": "Gainera, gaixotasun infekziosoen espezialitatea sortzea proposatuko dugu.",
+          "pagina": 10,
+          "fuente": "https://posibleegin.ehbildu.eus/wp-content/uploads/2026/11/PROGRAMA-EUS.pdf#page=10",
+          "fecha": "2026-11-18",
+          "verificada": true
+        },
+        {
+          "texto": "Avanzar, junto con las comunidades autónomas, hacia la creación de una farmacia pública.",
+          "cita": "Autonomia-erkidegoekin batera, farmazia publiko bat sortzeko bidean aurrera egitea.",
+          "pagina": 11,
+          "fuente": "https://posibleegin.ehbildu.eus/wp-content/uploads/2026/11/PROGRAMA-EUS.pdf#page=11",
+          "fecha": "2026-11-18",
+          "verificada": true
+        },
+        {
+          "texto": "Establecer la distribución gratuita en farmacias de preservativos y kits básicos de detección de ITS.",
+          "cita": "Emakumeen eta gizonen preserbatiboen eta STIak detektatzeko oinarrizko kiten doako farmazia-banaketa ezartzea.",
+          "pagina": 10,
+          "fuente": "https://posibleegin.ehbildu.eus/wp-content/uploads/2026/11/PROGRAMA-EUS.pdf#page=10",
+          "fecha": "2026-11-18",
+          "verificada": false
+        },
+        {
+          "texto": "Derogar la Ley 15/1997 sobre gestión del sistema sanitario, que permite privatizar servicios sanitarios.",
+          "cita": "PPk onartutako Osasun Sistema Kudeatzeko 15/1997 Legea indargabetzea, zeinak osasun-zerbitzuak pribatizatzea ahalbidetzen duen.",
+          "pagina": 11,
+          "fuente": "https://posibleegin.ehbildu.eus/wp-content/uploads/2026/11/PROGRAMA-EUS.pdf#page=11",
+          "fecha": "2026-11-18",
+          "verificada": false
+        }
+      ]
     }
   },
   "resumen": {},
@@ -8793,6 +9191,14 @@
           "fuente": "https://frenteamplio.info/pdf/ProgramaFrenteAmplio.pdf#page=13",
           "fecha": "2026-11-17",
           "verificada": true
+        },
+        "bildu": {
+          "postura": "si",
+          "cita": "prezioak erregulatu eta mugatu",
+          "pagina": 5,
+          "fuente": "https://posibleegin.ehbildu.eus/wp-content/uploads/2026/11/PROGRAMA-EUS.pdf#page=5",
+          "fecha": "2026-11-18",
+          "verificada": true
         }
       }
     },
@@ -8885,6 +9291,14 @@
           "fuente": "https://frenteamplio.info/pdf/ProgramaFrenteAmplio.pdf#page=11",
           "fecha": "2026-11-17",
           "verificada": true
+        },
+        "bildu": {
+          "postura": "si",
+          "cita": "Etxebizitzen erosketa espekulatiboa debekatzea",
+          "pagina": 5,
+          "fuente": "https://posibleegin.ehbildu.eus/wp-content/uploads/2026/11/PROGRAMA-EUS.pdf#page=5",
+          "fecha": "2026-11-18",
+          "verificada": true
         }
       }
     },
@@ -8973,6 +9387,10 @@
           "fuente": "https://frenteamplio.info/pdf/ProgramaFrenteAmplio.pdf#page=8",
           "fecha": "2026-11-17",
           "verificada": true
+        },
+        "bildu": {
+          "postura": "sin",
+          "fecha": "2026-11-18"
         }
       }
     },
@@ -9060,6 +9478,14 @@
           "pagina": 45,
           "fuente": "https://frenteamplio.info/pdf/ProgramaFrenteAmplio.pdf#page=45",
           "fecha": "2026-11-17",
+          "verificada": true
+        },
+        "bildu": {
+          "postura": "si",
+          "cita": "Bankuen eta fortuna handien gaineko zergaren karga fiskala handitzea.",
+          "pagina": 13,
+          "fuente": "https://posibleegin.ehbildu.eus/wp-content/uploads/2026/11/PROGRAMA-EUS.pdf#page=13",
+          "fecha": "2026-11-18",
           "verificada": true
         }
       }
@@ -9157,6 +9583,14 @@
           "fuente": "https://frenteamplio.info/pdf/ProgramaFrenteAmplio.pdf#page=126",
           "fecha": "2026-11-17",
           "verificada": true
+        },
+        "bildu": {
+          "postura": "si",
+          "cita": "Erregularizazio eraginkorra, irisgarria eta egonkorra bermatzea. Bizileku- eta lan-baimenak ematea",
+          "pagina": 20,
+          "fuente": "https://posibleegin.ehbildu.eus/wp-content/uploads/2026/11/PROGRAMA-EUS.pdf#page=20",
+          "fecha": "2026-11-18",
+          "verificada": true
         }
       }
     },
@@ -9233,6 +9667,10 @@
         "sumar": {
           "postura": "sin",
           "fecha": "2026-11-17"
+        },
+        "bildu": {
+          "postura": "sin",
+          "fecha": "2026-11-18"
         }
       }
     },
@@ -9321,6 +9759,14 @@
           "fuente": "https://frenteamplio.info/pdf/ProgramaFrenteAmplio.pdf#page=7",
           "fecha": "2026-11-17",
           "verificada": true
+        },
+        "bildu": {
+          "postura": "si",
+          "cita": "Lanaldia astean 32 ordura edo lau lan-eguneko astera murriztea, soldata-murrizketarik gabe",
+          "pagina": 6,
+          "fuente": "https://posibleegin.ehbildu.eus/wp-content/uploads/2026/11/PROGRAMA-EUS.pdf#page=6",
+          "fecha": "2026-11-18",
+          "verificada": true
         }
       }
     },
@@ -9397,6 +9843,10 @@
         "sumar": {
           "postura": "sin",
           "fecha": "2026-11-17"
+        },
+        "bildu": {
+          "postura": "sin",
+          "fecha": "2026-11-18"
         }
       }
     }
@@ -9466,6 +9916,11 @@
       "url": "https://frenteamplio.info/pdf/ProgramaFrenteAmplio.pdf",
       "fecha": "2026-11-17",
       "paginas": 151
+    },
+    "bildu": {
+      "url": "https://posibleegin.ehbildu.eus/wp-content/uploads/2026/11/PROGRAMA-EUS.pdf",
+      "fecha": "2026-11-18",
+      "paginas": 30
     }
   },
   "debates": [],
