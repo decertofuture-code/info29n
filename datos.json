@@ -5725,6 +5725,500 @@
           "verificada": true
         }
       ]
+    },
+    "podemos": {
+      "vivienda": [
+        {
+          "texto": "Reducir por ley un 40% los precios del alquiler en contratos vigentes, renovaciones y nuevos contratos, con un suelo del 60% del precio medio de la zona.",
+          "cita": "Bajar los alquileres un 40% por ley.",
+          "pagina": 8,
+          "fuente": "https://podemos.info/wp-content/uploads/2026/11/29N-programa-Podemos.-Paz-casa-y-trabajo.pdf#page=8",
+          "fecha": "2026-11-19",
+          "verificada": true
+        },
+        {
+          "texto": "Convertir todos los contratos de alquiler de vivienda habitual en contratos de duración indefinida por defecto.",
+          "cita": "Convertiremos todos los contratos de alquiler de vivienda habitual en contratos de duración indefinida por defecto",
+          "pagina": 8,
+          "fuente": "https://podemos.info/wp-content/uploads/2026/11/29N-programa-Podemos.-Paz-casa-y-trabajo.pdf#page=8",
+          "fecha": "2026-11-19",
+          "verificada": true
+        },
+        {
+          "texto": "Prohibir la compra de viviendas que no sean residencia habitual, de un familiar hasta segundo grado o segunda residencia de uso propio, con un uso obligatorio de cuatro años.",
+          "cita": "Las viviendas deberán destinarse efectivamente a estos usos durante los cuatro años posteriores a la compra, sin poder permanecer vacías ni ponerse en alquiler durante ese periodo",
+          "pagina": 8,
+          "fuente": "https://podemos.info/wp-content/uploads/2026/11/29N-programa-Podemos.-Paz-casa-y-trabajo.pdf#page=8",
+          "fecha": "2026-11-19",
+          "verificada": true
+        },
+        {
+          "texto": "Expropiar el uso de las viviendas que superen las diez en manos de grandes tenedores, fondos y bancos para ampliar el parque público de alquiler social.",
+          "cita": "Expropiación de uso de viviendas de grandes tenedores para ampliar el parque público de alquiler.",
+          "pagina": 8,
+          "fuente": "https://podemos.info/wp-content/uploads/2026/11/29N-programa-Podemos.-Paz-casa-y-trabajo.pdf#page=8",
+          "fecha": "2026-11-19",
+          "verificada": true
+        },
+        {
+          "texto": "Prohibir los desahucios de personas vulnerables sin alternativa habitacional digna y adecuada, con suspensión indefinida.",
+          "cita": "Prohibiremos los desahucios y lanzamientos de personas en situación de vulnerabilidad sin alternativa habitacional digna y adecuada",
+          "pagina": 9,
+          "fuente": "https://podemos.info/wp-content/uploads/2026/11/29N-programa-Podemos.-Paz-casa-y-trabajo.pdf#page=9",
+          "fecha": "2026-11-19",
+          "verificada": true
+        },
+        {
+          "texto": "Prohibir los pisos turísticos mediante la eliminación progresiva de autorizaciones y la prohibición de nuevas licencias mientras dure la emergencia habitacional.",
+          "cita": "Prohibición de los pisos turísticos.",
+          "pagina": 9,
+          "fuente": "https://podemos.info/wp-content/uploads/2026/11/29N-programa-Podemos.-Paz-casa-y-trabajo.pdf#page=9",
+          "fecha": "2026-11-19",
+          "verificada": true
+        },
+        {
+          "texto": "Crear una inmobiliaria pública que intermedie entre propietarios e inquilinos y gestione los arrendamientos con una renta máxima del 30% de la renta media del municipio.",
+          "cita": "Crearemos una inmobiliaria pública que actúe como intermediaria entre propietarios e inquilinos",
+          "pagina": 10,
+          "fuente": "https://podemos.info/wp-content/uploads/2026/11/29N-programa-Podemos.-Paz-casa-y-trabajo.pdf#page=10",
+          "fecha": "2026-11-19",
+          "verificada": true
+        },
+        {
+          "texto": "Incorporar al parque público de vivienda todas las viviendas vacías y en construcción de la SAREB, así como su suelo edificable, para alquiler social.",
+          "cita": "Incorporaremos al parque público de vivienda la totalidad de las viviendas vacías y en construcción propiedad de la SAREB",
+          "pagina": 10,
+          "fuente": "https://podemos.info/wp-content/uploads/2026/11/29N-programa-Podemos.-Paz-casa-y-trabajo.pdf#page=10",
+          "fecha": "2026-11-19",
+          "verificada": true
+        },
+        {
+          "texto": "Obligar a reservar al menos el 50% de las nuevas viviendas previstas en los planes urbanísticos al alquiler social.",
+          "cita": "estableceremos la obligación de reservar al menos el 50% de las nuevas viviendas previstas en los planes urbanísticos al alquiler social.",
+          "pagina": 11,
+          "fuente": "https://podemos.info/wp-content/uploads/2026/11/29N-programa-Podemos.-Paz-casa-y-trabajo.pdf#page=11",
+          "fecha": "2026-11-19",
+          "verificada": true
+        },
+        {
+          "texto": "Crear un impuesto estatal a las viviendas vacías de igual cuantía que el IBI con recargo de los ayuntamientos.",
+          "cita": "estableceremos un impuesto estatal a las viviendas vacías de igual cuantía que el IBI con recargo",
+          "pagina": 22,
+          "fuente": "https://podemos.info/wp-content/uploads/2026/11/29N-programa-Podemos.-Paz-casa-y-trabajo.pdf#page=22",
+          "fecha": "2026-11-19",
+          "verificada": true
+        }
+      ],
+      "economia": [
+        {
+          "texto": "Crear un cheque energético anual de 300 euros para hogares con ingresos no superiores al SMI multiplicado por el número de miembros.",
+          "cita": "Crearemos un cheque energético anual de 300 euros",
+          "pagina": 13,
+          "fuente": "https://podemos.info/wp-content/uploads/2026/11/29N-programa-Podemos.-Paz-casa-y-trabajo.pdf#page=13",
+          "fecha": "2026-11-19",
+          "verificada": true
+        },
+        {
+          "texto": "Ampliar el impuesto a las grandes fortunas a todos los obligados del Impuesto del Patrimonio y configurarlo como impuesto estatal permanente.",
+          "cita": "Ampliaremos el impuesto a las grandes fortunas a todos los obligados tributarios del Impuesto del Patrimonio, para evitar que las Comunidades Autónomas lo eliminen.",
+          "pagina": 17,
+          "fuente": "https://podemos.info/wp-content/uploads/2026/11/29N-programa-Podemos.-Paz-casa-y-trabajo.pdf#page=17",
+          "fecha": "2026-11-19",
+          "verificada": true
+        },
+        {
+          "texto": "Establecer un impuesto permanente sobre los beneficios extraordinarios de la gran banca para que al menos el 50% de sus beneficios revierta en las arcas públicas.",
+          "cita": "de forma que al menos el 50 % de sus beneficios revierta en las arcas públicas.",
+          "pagina": 17,
+          "fuente": "https://podemos.info/wp-content/uploads/2026/11/29N-programa-Podemos.-Paz-casa-y-trabajo.pdf#page=17",
+          "fecha": "2026-11-19",
+          "verificada": true
+        },
+        {
+          "texto": "Establecer topes a los precios de la electricidad, el gas y los carburantes, con tarifas domésticas que no superen en más de un 5% la media del periodo anterior.",
+          "cita": "Topes a la electricidad, el gas y los carburantes.",
+          "pagina": 18,
+          "fuente": "https://podemos.info/wp-content/uploads/2026/11/29N-programa-Podemos.-Paz-casa-y-trabajo.pdf#page=18",
+          "fecha": "2026-11-19",
+          "verificada": true
+        },
+        {
+          "texto": "Garantizar la gratuidad de todo el transporte público de viajeros y crear una tarjeta única de transporte.",
+          "cita": "Garantizaremos la gratuidad de todo el transporte público de viajeros",
+          "pagina": 19,
+          "fuente": "https://podemos.info/wp-content/uploads/2026/11/29N-programa-Podemos.-Paz-casa-y-trabajo.pdf#page=19",
+          "fecha": "2026-11-19",
+          "verificada": true
+        },
+        {
+          "texto": "Elevar el tipo efectivo mínimo general del impuesto de sociedades del 15% al 19%, con un tipo del 29% para oligopolios.",
+          "cita": "Elevaremos el tipo efectivo mínimo general del 15 % al 19 %",
+          "pagina": 21,
+          "fuente": "https://podemos.info/wp-content/uploads/2026/11/29N-programa-Podemos.-Paz-casa-y-trabajo.pdf#page=21",
+          "fecha": "2026-11-19",
+          "verificada": true
+        },
+        {
+          "texto": "Reducir el tipo mínimo del IRPF del 9,5% al 9% y elevar los tipos para bases imponibles superiores a 60.000 euros anuales.",
+          "cita": "reduciremos el tipo mínimo del 9,5 % actual al 9 %",
+          "pagina": 21,
+          "fuente": "https://podemos.info/wp-content/uploads/2026/11/29N-programa-Podemos.-Paz-casa-y-trabajo.pdf#page=21",
+          "fecha": "2026-11-19",
+          "verificada": true
+        },
+        {
+          "texto": "Equiparar progresivamente en una legislatura los tipos del IRPF de las rentas del capital a los de las rentas del trabajo.",
+          "cita": "Equiparación fiscal de las rentas del capital y del trabajo.",
+          "pagina": 21,
+          "fuente": "https://podemos.info/wp-content/uploads/2026/11/29N-programa-Podemos.-Paz-casa-y-trabajo.pdf#page=21",
+          "fecha": "2026-11-19",
+          "verificada": true
+        },
+        {
+          "texto": "Subir el SMI hasta 1.800 euros mensuales en una legislatura.",
+          "cita": "Aumentaremos el SMI hasta los 1.800 euros al mes en una legislatura para garantizar salarios dignos",
+          "pagina": 41,
+          "fuente": "https://podemos.info/wp-content/uploads/2026/11/29N-programa-Podemos.-Paz-casa-y-trabajo.pdf#page=41",
+          "fecha": "2026-11-19",
+          "verificada": true
+        },
+        {
+          "texto": "Establecer una prestación mensual por hijo o hija hasta los 21 años equivalente al 15 % del SMI.",
+          "cita": "Establecer una prestación mensual por cada hija o hijo, desde el nacimiento hasta los 21 años, equivalente al 15 % del Salario Mínimo Interprofesional (SMI)",
+          "pagina": 60,
+          "fuente": "https://podemos.info/wp-content/uploads/2026/11/29N-programa-Podemos.-Paz-casa-y-trabajo.pdf#page=60",
+          "fecha": "2026-11-19",
+          "verificada": true
+        }
+      ],
+      "inmigracion": [
+        {
+          "texto": "Impugnar ante el Tribunal de Justicia de la UE el Reglamento europeo de retornos.",
+          "cita": "Impugnaremos judicialmente el Reglamento europeo de retornos ante el Tribunal de Justicia de la Unión Europea y solicitaremos medidas provisionales para suspender sus disposiciones.",
+          "pagina": 32,
+          "fuente": "https://podemos.info/wp-content/uploads/2026/11/29N-programa-Podemos.-Paz-casa-y-trabajo.pdf#page=32",
+          "fecha": "2026-11-19",
+          "verificada": true
+        },
+        {
+          "texto": "Implantar una nueva política de visados, incluido un visado de búsqueda de empleo con estancia temporal y posibilidad de regreso sin prohibición de nueva entrada.",
+          "cita": "Implantaremos una nueva política de visados con distinta tipología, como por ejemplo el de búsqueda de empleo, que permita la estancia temporal en España y el regreso al país de origen si no se ha logrado encontrar un trabajo",
+          "pagina": 32,
+          "fuente": "https://podemos.info/wp-content/uploads/2026/11/29N-programa-Podemos.-Paz-casa-y-trabajo.pdf#page=32",
+          "fecha": "2026-11-19",
+          "verificada": true
+        },
+        {
+          "texto": "Desvincular la renovación de las autorizaciones de residencia de la posesión de un contrato o una oferta de empleo.",
+          "cita": "La renovación de las autorizaciones de residencia no se vinculará exclusivamente a la posesión de un contrato en vigor o una oferta de empleo",
+          "pagina": 32,
+          "fuente": "https://podemos.info/wp-content/uploads/2026/11/29N-programa-Podemos.-Paz-casa-y-trabajo.pdf#page=32",
+          "fecha": "2026-11-19",
+          "verificada": true
+        },
+        {
+          "texto": "Publicar los acuerdos migratorios con Marruecos, Mauritania y Senegal y poner fin a la condicionalidad migratoria de los acuerdos de vigilancia fronteriza.",
+          "cita": "Publicaremos las condiciones de los acuerdos actuales con Marruecos, Mauritania y Senegal y pondremos fin a la condicionalidad migratoria de los acuerdos de vigilancia fronteriza.",
+          "pagina": 33,
+          "fuente": "https://podemos.info/wp-content/uploads/2026/11/29N-programa-Podemos.-Paz-casa-y-trabajo.pdf#page=33",
+          "fecha": "2026-11-19",
+          "verificada": true
+        },
+        {
+          "texto": "Derogar la Ley Orgánica 4/2000 de Extranjería y aprobar una nueva Ley Integral centrada en derechos humanos, igualdad de trato e inclusión.",
+          "cita": "Acabar con la Ley Orgánica 4/2000 y aprobar una nueva Ley Integral que sitúe los derechos humanos, la igualdad de trato y la inclusión en el centro de la política pública",
+          "pagina": 65,
+          "fuente": "https://podemos.info/wp-content/uploads/2026/11/29N-programa-Podemos.-Paz-casa-y-trabajo.pdf#page=65",
+          "fecha": "2026-11-19",
+          "verificada": true
+        },
+        {
+          "texto": "Cerrar todos los Centros de Internamiento de Extranjeros y sustituirlos por alternativas comunitarias.",
+          "cita": "Procederemos al cierre de todos los Centros de Internamiento de Extranjeros",
+          "pagina": 65,
+          "fuente": "https://podemos.info/wp-content/uploads/2026/11/29N-programa-Podemos.-Paz-casa-y-trabajo.pdf#page=65",
+          "fecha": "2026-11-19",
+          "verificada": true
+        },
+        {
+          "texto": "Reducir a un año el plazo de residencia para acceder a la nacionalidad a quienes acrediten arraigo efectivo y continuado.",
+          "cita": "El plazo se reducirá a un año el plazo para las personas que acrediten arraigo efectivo y continuado, sin discriminaciones por origen",
+          "pagina": 66,
+          "fuente": "https://podemos.info/wp-content/uploads/2026/11/29N-programa-Podemos.-Paz-casa-y-trabajo.pdf#page=66",
+          "fecha": "2026-11-19",
+          "verificada": true
+        },
+        {
+          "texto": "Reconocer como españoles de origen a los nacidos en España mediante la modificación del artículo 17.1 c) del Código Civil (ius soli).",
+          "cita": "Ius soli: Los nacidos en España son españoles.",
+          "pagina": 66,
+          "fuente": "https://podemos.info/wp-content/uploads/2026/11/29N-programa-Podemos.-Paz-casa-y-trabajo.pdf#page=66",
+          "fecha": "2026-11-19",
+          "verificada": true
+        },
+        {
+          "texto": "Establecer un procedimiento permanente de regularización basado en el arraigo, sin depender solo de un contrato de trabajo.",
+          "cita": "Siguiendo el método que impulsamos en el proceso de la regularización extraordinaria para personas migrantes en el año 2026",
+          "pagina": 67,
+          "fuente": "https://podemos.info/wp-content/uploads/2026/11/29N-programa-Podemos.-Paz-casa-y-trabajo.pdf#page=67",
+          "fecha": "2026-11-19",
+          "verificada": true
+        },
+        {
+          "texto": "Establecer un sistema estatal obligatorio de distribución de menores migrantes no acompañados entre comunidades autónomas.",
+          "cita": "Estableceremos un sistema estatal obligatorio de distribución de menores migrantes no acompañados",
+          "pagina": 69,
+          "fuente": "https://podemos.info/wp-content/uploads/2026/11/29N-programa-Podemos.-Paz-casa-y-trabajo.pdf#page=69",
+          "fecha": "2026-11-19",
+          "verificada": true
+        }
+      ],
+      "politica": [
+        {
+          "texto": "Derogar la reforma constitucional del artículo 135 de la Constitución.",
+          "cita": "Derogaremos la reforma constitucional que afectó al artículo 135 de la Constitución",
+          "pagina": 23,
+          "fuente": "https://podemos.info/wp-content/uploads/2026/11/29N-programa-Podemos.-Paz-casa-y-trabajo.pdf#page=23",
+          "fecha": "2026-11-19",
+          "verificada": true
+        },
+        {
+          "texto": "Reformar la Constitución para incorporar el rechazo expreso a la guerra como principio de la política exterior y de seguridad.",
+          "cita": "Promoveremos una reforma de la Constitución española para incorporar el rechazo expreso a la guerra",
+          "pagina": 28,
+          "fuente": "https://podemos.info/wp-content/uploads/2026/11/29N-programa-Podemos.-Paz-casa-y-trabajo.pdf#page=28",
+          "fecha": "2026-11-19",
+          "verificada": true
+        },
+        {
+          "texto": "Impulsar una constitución republicana y un referéndum en el que la ciudadanía decida directamente entre monarquía y república.",
+          "cita": "Impulsaremos la aprobación de una constitución republicana que incorpore los avances democráticos previstos en este capítulo.",
+          "pagina": 128,
+          "fuente": "https://podemos.info/wp-content/uploads/2026/11/29N-programa-Podemos.-Paz-casa-y-trabajo.pdf#page=128",
+          "fecha": "2026-11-19",
+          "verificada": true
+        },
+        {
+          "texto": "Someter a la Casa Real a las obligaciones de transparencia de las instituciones públicas y hacer público el patrimonio de sus miembros.",
+          "cita": "Someteremos a la Casa Real a las mismas obligaciones de transparencia que al resto de las instituciones públicas, haciendo público el patrimonio de todos sus miembros y sus actividades económicas.",
+          "pagina": 128,
+          "fuente": "https://podemos.info/wp-content/uploads/2026/11/29N-programa-Podemos.-Paz-casa-y-trabajo.pdf#page=128",
+          "fecha": "2026-11-19",
+          "verificada": true
+        },
+        {
+          "texto": "Suprimir los aforamientos y reducir el peso político del Tribunal Supremo.",
+          "cita": "Supresión de los aforamientos y reducción del peso político del Tribunal Supremo.",
+          "pagina": 128,
+          "fuente": "https://podemos.info/wp-content/uploads/2026/11/29N-programa-Podemos.-Paz-casa-y-trabajo.pdf#page=128",
+          "fecha": "2026-11-19",
+          "verificada": true
+        },
+        {
+          "texto": "Sustituir la fórmula D’Hondt por el método Sainte-Laguë en el sistema electoral del Congreso.",
+          "cita": "Sustituiremos la fórmula D’Hondt por el método Sainte-Laguë",
+          "pagina": 129,
+          "fuente": "https://podemos.info/wp-content/uploads/2026/11/29N-programa-Podemos.-Paz-casa-y-trabajo.pdf#page=129",
+          "fecha": "2026-11-19",
+          "verificada": true
+        },
+        {
+          "texto": "Reconocer el derecho de voto a partir de los 16 años.",
+          "cita": "Reconoceremos el derecho al sufragio a partir de los 16 años",
+          "pagina": 129,
+          "fuente": "https://podemos.info/wp-content/uploads/2026/11/29N-programa-Podemos.-Paz-casa-y-trabajo.pdf#page=129",
+          "fecha": "2026-11-19",
+          "verificada": true
+        },
+        {
+          "texto": "Encomendar la instrucción de las causas penales al Ministerio Fiscal bajo supervisión de un juez de garantías.",
+          "cita": "Impulsaremos una reforma procesal que encomiende al Ministerio Fiscal la instrucción de las causas penales bajo la supervisión de un juez o jueza de garantías",
+          "pagina": 130,
+          "fuente": "https://podemos.info/wp-content/uploads/2026/11/29N-programa-Podemos.-Paz-casa-y-trabajo.pdf#page=130",
+          "fecha": "2026-11-19",
+          "verificada": true
+        },
+        {
+          "texto": "Aprobar una nueva Ley de Secretos Oficiales con desclasificación automática de documentos en un máximo de 20 años.",
+          "cita": "La nueva ley establecerá plazos mucho más cortos para la desclasificación automática de cualquier documento secreto en cualquiera de los niveles de clasificación, un máximo de 20 años",
+          "pagina": 133,
+          "fuente": "https://podemos.info/wp-content/uploads/2026/11/29N-programa-Podemos.-Paz-casa-y-trabajo.pdf#page=133",
+          "fecha": "2026-11-19",
+          "verificada": true
+        },
+        {
+          "texto": "Derogar la Ley Mordaza (Ley de seguridad ciudadana) y aprobar una nueva regulación garantista.",
+          "cita": "Derogaremos la Ley de Reforma de la Ley Orgánica de protección de la seguridad ciudadana",
+          "pagina": 133,
+          "fuente": "https://podemos.info/wp-content/uploads/2026/11/29N-programa-Podemos.-Paz-casa-y-trabajo.pdf#page=133",
+          "fecha": "2026-11-19",
+          "verificada": true
+        }
+      ],
+      "empleo": [
+        {
+          "texto": "Aprobar una Ley de Empresas en Crisis que facilite convertir en cooperativas de trabajo las empresas en riesgo de cierre.",
+          "cita": "Aprobaremos una Ley de Empresas en Crisis que facilite la conversión en cooperativas de trabajo de aquellas",
+          "pagina": 24,
+          "fuente": "https://podemos.info/wp-content/uploads/2026/11/29N-programa-Podemos.-Paz-casa-y-trabajo.pdf#page=24",
+          "fecha": "2026-11-19",
+          "verificada": true
+        },
+        {
+          "texto": "Reducir la jornada laboral a 30 horas semanales durante la legislatura, comenzando por 35 horas, sin reducir salarios.",
+          "cita": "la jornada laboral a 30 horas semanales durante la legislatura, comenzando con una bajada a 35 horas",
+          "pagina": 41,
+          "fuente": "https://podemos.info/wp-content/uploads/2026/11/29N-programa-Podemos.-Paz-casa-y-trabajo.pdf#page=41",
+          "fecha": "2026-11-19",
+          "verificada": true
+        },
+        {
+          "texto": "Convertir en fijos a los trabajadores públicos en fraude de ley o abuso de temporalidad.",
+          "cita": "en fraude de ley o abuso de temporalidad, de acuerdo a las exigencias de la Unión Europea convirtiéndolos en trabajadores y trabajadoras fijas",
+          "pagina": 41,
+          "fuente": "https://podemos.info/wp-content/uploads/2026/11/29N-programa-Podemos.-Paz-casa-y-trabajo.pdf#page=41",
+          "fecha": "2026-11-19",
+          "verificada": true
+        },
+        {
+          "texto": "Elaborar un nuevo Estatuto de los Trabajadores que derogue los efectos de las reformas laborales de 2010 y 2012.",
+          "cita": "Elaboraremos un nuevo Estatuto de los Trabajadores y Trabajadoras para derogar los efectos de las reformas laborales de 2010 y 2012",
+          "pagina": 42,
+          "fuente": "https://podemos.info/wp-content/uploads/2026/11/29N-programa-Podemos.-Paz-casa-y-trabajo.pdf#page=42",
+          "fecha": "2026-11-19",
+          "verificada": true
+        },
+        {
+          "texto": "Restablecer la indemnización por despido ilegal de 45 días por año trabajado.",
+          "cita": "Restableceremos la indemnización de 45 días por año trabajado en los despidos ilegales",
+          "pagina": 42,
+          "fuente": "https://podemos.info/wp-content/uploads/2026/11/29N-programa-Podemos.-Paz-casa-y-trabajo.pdf#page=42",
+          "fecha": "2026-11-19",
+          "verificada": true
+        },
+        {
+          "texto": "Recuperar la autorización administrativa previa para los expedientes de regulación de empleo (ERE).",
+          "cita": "recuperaremos la autorización administrativa previa para los expedientes de regulación de empleo (ERE)",
+          "pagina": 42,
+          "fuente": "https://podemos.info/wp-content/uploads/2026/11/29N-programa-Podemos.-Paz-casa-y-trabajo.pdf#page=42",
+          "fecha": "2026-11-19",
+          "verificada": true
+        },
+        {
+          "texto": "Extender las condiciones de trabajo de la empresa principal a las plantillas de contratistas y subcontratistas mediante la \"Ley Kellys\".",
+          "cita": "extender las condiciones de trabajo de la empresa principal a las personas trabajadoras de las empresas contratistas y subcontratistas",
+          "pagina": 43,
+          "fuente": "https://podemos.info/wp-content/uploads/2026/11/29N-programa-Podemos.-Paz-casa-y-trabajo.pdf#page=43",
+          "fecha": "2026-11-19",
+          "verificada": true
+        },
+        {
+          "texto": "Aprobar una Ley Orgánica del Derecho a la Huelga que derogue el Real Decreto 17/1977.",
+          "cita": "Aprobaremos una Ley Orgánica del Derecho a la Huelga que derogue el Real Decreto 17/1977",
+          "pagina": 43,
+          "fuente": "https://podemos.info/wp-content/uploads/2026/11/29N-programa-Podemos.-Paz-casa-y-trabajo.pdf#page=43",
+          "fecha": "2026-11-19",
+          "verificada": true
+        },
+        {
+          "texto": "Exigir que las prácticas externas sean retribuidas al menos conforme al SMI y con jornadas máximas de cinco horas.",
+          "cita": "sean retribuidas al menos conforme al SMI según el número de horas cotizadas y con jornadas máximas de cinco horas",
+          "pagina": 45,
+          "fuente": "https://podemos.info/wp-content/uploads/2026/11/29N-programa-Podemos.-Paz-casa-y-trabajo.pdf#page=45",
+          "fecha": "2026-11-19",
+          "verificada": true
+        },
+        {
+          "texto": "Ampliar los permisos por nacimiento, adopción y acogimiento a 26 semanas por progenitor, intransferibles y remunerados.",
+          "cita": "Ampliaremos los permisos por nacimiento, adopción y acogimiento a 26 semanas por progenitor, con carácter intransferible y remunerado",
+          "pagina": 60,
+          "fuente": "https://podemos.info/wp-content/uploads/2026/11/29N-programa-Podemos.-Paz-casa-y-trabajo.pdf#page=60",
+          "fecha": "2026-11-19",
+          "verificada": true
+        }
+      ],
+      "sanidad": [
+        {
+          "texto": "Financiar todos los anticonceptivos, incluidos los de urgencia, de forma gratuita en centros públicos y farmacias.",
+          "cita": "Todos los anticonceptivos, también los de urgencia, serán gratuitos, en los centros públicos y en la farmacia",
+          "pagina": 57,
+          "fuente": "https://podemos.info/wp-content/uploads/2026/11/29N-programa-Podemos.-Paz-casa-y-trabajo.pdf#page=57",
+          "fecha": "2026-11-19",
+          "verificada": true
+        },
+        {
+          "texto": "Crear un servicio de salud mental asociado a la atención primaria con contratación de psicólogos.",
+          "cita": "Crear un nuevo servicio de salud mental asociado a la atención primaria a través de la contratación de psicólogos/as",
+          "pagina": 64,
+          "fuente": "https://podemos.info/wp-content/uploads/2026/11/29N-programa-Podemos.-Paz-casa-y-trabajo.pdf#page=64",
+          "fecha": "2026-11-19",
+          "verificada": true
+        },
+        {
+          "texto": "Derogar la Ley 15/1997 y los artículos 66, 67 y 90 de la Ley General de Sanidad, y blindar la gestión pública directa en el Sistema Nacional de Salud.",
+          "cita": "derogaremos la Ley 15/1997, los artículos 66, 67 y 90 de la Ley General de Sanidad",
+          "pagina": 88,
+          "fuente": "https://podemos.info/wp-content/uploads/2026/11/29N-programa-Podemos.-Paz-casa-y-trabajo.pdf#page=88",
+          "fecha": "2026-11-19",
+          "verificada": true
+        },
+        {
+          "texto": "Asegurar asistencia sanitaria pública directa, sin conciertos privados, al personal de nuevo ingreso de MUFACE, ISFAS y MUGEJU.",
+          "cita": "El personal de nuevo ingreso de MUFACE, ISFAS y MUGEJU recibirá asistencia sanitaria directamente a través de los servicios públicos de salud",
+          "pagina": 88,
+          "fuente": "https://podemos.info/wp-content/uploads/2026/11/29N-programa-Podemos.-Paz-casa-y-trabajo.pdf#page=88",
+          "fecha": "2026-11-19",
+          "verificada": true
+        },
+        {
+          "texto": "Crear una empresa farmacéutica pública a partir del Centro Militar de Farmacia de la Defensa de Colmenar Viejo.",
+          "cita": "crearemos una empresa farmacéutica pública a partir de la ampliación y el refuerzo del Centro Militar de Farmacia de la Defensa de Colmenar Viejo",
+          "pagina": 88,
+          "fuente": "https://podemos.info/wp-content/uploads/2026/11/29N-programa-Podemos.-Paz-casa-y-trabajo.pdf#page=88",
+          "fecha": "2026-11-19",
+          "verificada": true
+        },
+        {
+          "texto": "Aumentar la financiación del Sistema Nacional de Salud hasta un mínimo de 2.900 euros por habitante y año.",
+          "cita": "progresivamente la financiación del Sistema Nacional de Salud hasta alcanzar una dotación mínima de 2.900 euros",
+          "pagina": 89,
+          "fuente": "https://podemos.info/wp-content/uploads/2026/11/29N-programa-Podemos.-Paz-casa-y-trabajo.pdf#page=89",
+          "fecha": "2026-11-19",
+          "verificada": true
+        },
+        {
+          "texto": "Destinar al menos el 25% del presupuesto sanitario a Atención Primaria mediante una ley integral.",
+          "cita": "al menos el 25% del presupuesto sanitario se destine efectivamente a Atención Primaria",
+          "pagina": 90,
+          "fuente": "https://podemos.info/wp-content/uploads/2026/11/29N-programa-Podemos.-Paz-casa-y-trabajo.pdf#page=90",
+          "fecha": "2026-11-19",
+          "verificada": true
+        },
+        {
+          "texto": "Garantizar cita en Atención Primaria en un máximo de 48 horas hábiles.",
+          "cita": "garantizará una cita en un máximo de 48 horas hábiles",
+          "pagina": 90,
+          "fuente": "https://podemos.info/wp-content/uploads/2026/11/29N-programa-Podemos.-Paz-casa-y-trabajo.pdf#page=90",
+          "fecha": "2026-11-19",
+          "verificada": true
+        },
+        {
+          "texto": "Establecer por ley ratios mínimas de psiquiatras, psicólogos clínicos y enfermeros especialistas en salud mental por cada 100.000 habitantes.",
+          "cita": "ratios mínimas de 18 psiquiatras, 18 psicólogos y psicólogas clínicas y 23 enfermeros y enfermeras especialistas por cada 100.000 habitantes",
+          "pagina": 91,
+          "fuente": "https://podemos.info/wp-content/uploads/2026/11/29N-programa-Podemos.-Paz-casa-y-trabajo.pdf#page=91",
+          "fecha": "2026-11-19",
+          "verificada": true
+        },
+        {
+          "texto": "Ampliar al 100% la cobertura de salud bucodental, oftalmológica y auditiva en la sanidad pública.",
+          "cita": "Aumentaremos hasta el 100% la cobertura de la cartera de servicios de salud bucodental, oftalmológica y auditiva",
+          "pagina": 91,
+          "fuente": "https://podemos.info/wp-content/uploads/2026/11/29N-programa-Podemos.-Paz-casa-y-trabajo.pdf#page=91",
+          "fecha": "2026-11-19",
+          "verificada": true
+        }
+      ]
     }
   },
   "resumen": {},
@@ -8777,6 +9271,14 @@
           "fuente": "https://frenteamplio.info/pdf/ProgramaFrenteAmplio.pdf#page=13",
           "fecha": "2026-11-17",
           "verificada": true
+        },
+        "podemos": {
+          "postura": "si",
+          "cita": "Bajar los alquileres un 40% por ley.",
+          "pagina": 8,
+          "fuente": "https://podemos.info/wp-content/uploads/2026/11/29N-programa-Podemos.-Paz-casa-y-trabajo.pdf#page=8",
+          "fecha": "2026-11-19",
+          "verificada": true
         }
       }
     },
@@ -8869,6 +9371,14 @@
           "fuente": "https://frenteamplio.info/pdf/ProgramaFrenteAmplio.pdf#page=11",
           "fecha": "2026-11-17",
           "verificada": true
+        },
+        "podemos": {
+          "postura": "si",
+          "cita": "Prohibición de la compra de casas que no sean para vivir",
+          "pagina": 8,
+          "fuente": "https://podemos.info/wp-content/uploads/2026/11/29N-programa-Podemos.-Paz-casa-y-trabajo.pdf#page=8",
+          "fecha": "2026-11-19",
+          "verificada": true
         }
       }
     },
@@ -8957,6 +9467,14 @@
           "fuente": "https://frenteamplio.info/pdf/ProgramaFrenteAmplio.pdf#page=8",
           "fecha": "2026-11-17",
           "verificada": true
+        },
+        "podemos": {
+          "postura": "matiz",
+          "cita": "reduciremos el tipo mínimo del 9,5 % actual al 9 %",
+          "pagina": 21,
+          "fuente": "https://podemos.info/wp-content/uploads/2026/11/29N-programa-Podemos.-Paz-casa-y-trabajo.pdf#page=21",
+          "fecha": "2026-11-19",
+          "verificada": true
         }
       }
     },
@@ -9044,6 +9562,14 @@
           "pagina": 45,
           "fuente": "https://frenteamplio.info/pdf/ProgramaFrenteAmplio.pdf#page=45",
           "fecha": "2026-11-17",
+          "verificada": true
+        },
+        "podemos": {
+          "postura": "si",
+          "cita": "Ampliaremos el impuesto a las grandes fortunas a todos los obligados tributarios del Impuesto del Patrimonio, para evitar que las Comunidades Autónomas lo eliminen.",
+          "pagina": 17,
+          "fuente": "https://podemos.info/wp-content/uploads/2026/11/29N-programa-Podemos.-Paz-casa-y-trabajo.pdf#page=17",
+          "fecha": "2026-11-19",
           "verificada": true
         }
       }
@@ -9141,6 +9667,14 @@
           "fuente": "https://frenteamplio.info/pdf/ProgramaFrenteAmplio.pdf#page=126",
           "fecha": "2026-11-17",
           "verificada": true
+        },
+        "podemos": {
+          "postura": "si",
+          "cita": "Siguiendo el método que impulsamos en el proceso de la regularización extraordinaria para personas migrantes en el año 2026",
+          "pagina": 67,
+          "fuente": "https://podemos.info/wp-content/uploads/2026/11/29N-programa-Podemos.-Paz-casa-y-trabajo.pdf#page=67",
+          "fecha": "2026-11-19",
+          "verificada": true
         }
       }
     },
@@ -9217,6 +9751,10 @@
         "sumar": {
           "postura": "sin",
           "fecha": "2026-11-17"
+        },
+        "podemos": {
+          "postura": "sin",
+          "fecha": "2026-11-19"
         }
       }
     },
@@ -9305,6 +9843,14 @@
           "fuente": "https://frenteamplio.info/pdf/ProgramaFrenteAmplio.pdf#page=7",
           "fecha": "2026-11-17",
           "verificada": true
+        },
+        "podemos": {
+          "postura": "si",
+          "cita": "la jornada laboral a 30 horas semanales durante la legislatura, comenzando con una bajada a 35 horas",
+          "pagina": 41,
+          "fuente": "https://podemos.info/wp-content/uploads/2026/11/29N-programa-Podemos.-Paz-casa-y-trabajo.pdf#page=41",
+          "fecha": "2026-11-19",
+          "verificada": true
         }
       }
     },
@@ -9381,6 +9927,14 @@
         "sumar": {
           "postura": "sin",
           "fecha": "2026-11-17"
+        },
+        "podemos": {
+          "postura": "si",
+          "cita": "la cartera mínima de servicios y los tiempos máximos de espera para cada servicio",
+          "pagina": 89,
+          "fuente": "https://podemos.info/wp-content/uploads/2026/11/29N-programa-Podemos.-Paz-casa-y-trabajo.pdf#page=89",
+          "fecha": "2026-11-19",
+          "verificada": true
         }
       }
     }
@@ -9450,6 +10004,11 @@
       "url": "https://frenteamplio.info/pdf/ProgramaFrenteAmplio.pdf",
       "fecha": "2026-11-17",
       "paginas": 151
+    },
+    "podemos": {
+      "url": "https://podemos.info/wp-content/uploads/2026/11/29N-programa-Podemos.-Paz-casa-y-trabajo.pdf",
+      "fecha": "2026-11-19",
+      "paginas": 141
     }
   },
   "debates": [],
