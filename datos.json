@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-18T17:55+00:00",
+  "actualizado": "2026-11-19T02:27+00:00",
   "temas": [
     {
       "id": "vivienda",
@@ -5903,6 +5903,197 @@
   ],
   "noticias": [
     {
+      "titulo": "El Gobierno de Pedro Sánchez cobra alquileres sociales que superan sus propios topes legales",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/andalucia/malaga/gobierno-pedro-sanchez-cobra-alquileres-sociales-familias-20261119020836-nts.html",
+      "fecha": "2026-11-19T01:08+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "La Ertzaintza identificó a 50 cachorros de Bildu en el apedreamiento a Echeverría",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/pais-vasco/cincuenta-cachorros-bildu-perfectamente-organizados-concentraron-hernani-20261119020059-nt.html",
+      "fecha": "2026-11-19T01:00+00:00",
+      "partidos": [
+        "bildu"
+      ]
+    },
+    {
+      "titulo": "En la aldea natal de Feijóo: «Alberto nunca se olvidó de donde viene»",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/galicia/alberto-nunca-olvido-viene-20261116015825-nt.html",
+      "fecha": "2026-11-19T00:58+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "Feijóo llega al debate con «tranquilidad absoluta» y mira a Sánchez: «Él es quien necesita remontar»",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/feijoo-despeja-horas-agenda-cara-cara-traslada-20261119015735-nt.html",
+      "fecha": "2026-11-19T00:57+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "Puigdemont: \"Aproveché la ambición desmedida de Sánchez para derrotar a España\"",
+      "medio": "El Mundo",
+      "url": "https://www.elmundo.es/espana/2026/11/18/6afde4a4fc6c8315138b45b0.html",
+      "fecha": "2026-11-18T21:52+00:00",
+      "partidos": [
+        "junts"
+      ]
+    },
+    {
+      "titulo": "Vox busca su primer diputado gallego desde la ciudad de Tellado y Yolanda Díaz: \"Es la única alternativa\"",
+      "medio": "El Mundo",
+      "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/18/6afdef92fc6c83e8358b4592.html",
+      "fecha": "2026-11-18T21:51+00:00",
+      "partidos": [
+        "vox"
+      ]
+    },
+    {
+      "titulo": "Guerra de sexos entre los socialistas: \"Las 'charos' siguen votando a Pedro, pero a sus maridos les tienta la derecha\"",
+      "medio": "El Mundo",
+      "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/18/6afc9de2e4d4d8b66f8b45a6.html",
+      "fecha": "2026-11-18T21:51+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "Garriga define la identidad catalana como una forma de ser español frente a las críticas del PP",
+      "medio": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/politica/20261118/11687606/garriga-define-identidad-catalana-forma-espanol-frente-criticas-pp.html",
+      "fecha": "2026-11-18T21:10+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "Rufián busca el voto desencantado del PSC: \"Si dudas de Hereu, aquí está ERC\"",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/catalunya/rufian-busca-voto-desencantado-psc-si-dudas-hereu-erc_1_13675504.html",
+      "fecha": "2026-11-18T21:00+00:00",
+      "partidos": [
+        "erc"
+      ]
+    },
+    {
+      "titulo": "Sánchez asegura que ha \"asumido\" responsabilidades por la corrupción y Feijóo le replica que él \"no ha pagado\"",
+      "medio": "20minutos",
+      "url": "https://www.20minutos.es/nacional/sanchez-asegura-que-ha-asumido-responsabilidades-por-corrupcion-feijoo-le-replica-que-no-ha-pagado_7062880_0.html",
+      "fecha": "2026-11-18T20:39+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "Colau acusa a Sánchez de «polarizar» a la sociedad con la excusa del «voto útil»",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/colau-acusa-sanchez-polarizar-sociedad-excusa-voto-20261118210506-nt.html",
+      "fecha": "2026-11-18T20:35+00:00",
+      "partidos": [
+        "sumar"
+      ]
+    },
+    {
+      "titulo": "Vox lanza el videojuego del \"sentido común\" para explicar sus propuestas con \"minijuegos\" repartidos por España",
+      "medio": "Europa Press",
+      "url": "https://www.europapress.es/nacional/noticia-vox-lanza-videojuego-sentido-comun-explicar-propuestas-minijuegos-repartidos-espana-20261118213444.html",
+      "fecha": "2026-11-18T20:34+00:00",
+      "partidos": [
+        "vox"
+      ]
+    },
+    {
+      "titulo": "Rueda apela al «sentidiño» de Feijóo frente al «sinsentido» de Sánchez",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/galicia/rueda-apela-sentidino-feijoo-frente-sinsentido-sanchez-20261118213138-nt.html",
+      "fecha": "2026-11-18T20:32+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "ERC carga contra Hereu y Urtasun por ser “poco útiles” con Catalunya: “Han sido invisibles”",
+      "medio": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/politica/elecciones/20261118/11687575/erc-carga-hereu-urtasun-poco-utiles-catalunya-han-sido-invisibles.html",
+      "fecha": "2026-11-18T19:55+00:00",
+      "partidos": [
+        "erc"
+      ]
+    },
+    {
+      "titulo": "La candidata del PP al Congreso por Valladolid defiende que la cultura \"no admite censuras ni en positivo ni en negativo\"",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/castilla-y-leon/politica/candidata-pp-congreso-valladolid-defiende-cultura-no-admite-censuras-positivo-negativo_1_13675287.html",
+      "fecha": "2026-11-18T18:50+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "Sánchez, en Antena 3: “Absoluta tranquilidad, el PSOE no se ha financiado irregularmente”",
+      "medio": "El País",
+      "url": "https://elpais.com/espana/elecciones-generales/2026-11-18/sanchez-en-antena-3-absoluta-tranquilidad-el-psoe-no-se-ha-financiado-irregularmente.html",
+      "fecha": "2026-11-18T18:34+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "La media de las encuestas: caída mínima del Frente Amplio que no altera la diferencia entre bloques",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/politica/media-encuestas-caida-minima-frente-amplio-no-altera-diferencia-bloques_1_13675156.html",
+      "fecha": "2026-11-18T18:33+00:00",
+      "partidos": [
+        "sumar"
+      ]
+    },
+    {
+      "titulo": "Sánchez y Feijóo llegan este jueves al 'cara a cara' en un clima de crispación, enfrentamientos y falta de diálogo",
+      "medio": "Europa Press",
+      "url": "https://www.europapress.es/nacional/noticia-sanchez-feijoo-llegan-manana-cara-cara-clima-crispacion-enfrentamientos-falta-dialogo-20261118192926.html",
+      "fecha": "2026-11-18T18:29+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "Irene Montero, la última gran carta de Podemos para el 29N que busca que la política vuelva a preocuparse de \"lo básico\"",
+      "medio": "20minutos",
+      "url": "https://www.20minutos.es/nacional/irene-montero-ultima-gran-carta-podemos-para-29n-que-busca-que-politica-vuelva-preocuparse-basico_7054127_0.html",
+      "fecha": "2026-11-18T18:25+00:00",
+      "partidos": [
+        "podemos"
+      ]
+    },
+    {
+      "titulo": "Los cálculos del Frente Amplio para la campaña: a menos de dos puntos de arrebatar cinco escaños a PP o Vox",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/politica/cuentas-frente-amplio-campana-puntos-arrebatar-cinco-escanos-pp-vox_1_13673928.html",
+      "fecha": "2026-11-18T18:17+00:00",
+      "partidos": [
+        "pp",
+        "vox",
+        "sumar"
+      ]
+    },
+    {
+      "titulo": "Alberto Núñez Feijóo, el gallego de las mayorías que reunificó al PP y aspira a conquistar la Moncloa a la segunda",
+      "medio": "20minutos",
+      "url": "https://www.20minutos.es/nacional/alberto-nunez-feijoo-gallego-las-mayorias-que-reunifico-pp-aspira-conquistar-moncloa-segunda_7059827_0.html",
+      "fecha": "2026-11-18T18:11+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
       "titulo": "Sánchez quiere medir su capacidad para gobernar con la de Feijóo y espera \"juego sucio\" del PP en el debate",
       "medio": "Europa Press",
       "url": "https://www.europapress.es/nacional/noticia-sanchez-quiere-medir-capacidad-gobernar-feijoo-espera-juego-sucio-pp-debate-20261118182320.html",
@@ -6231,6 +6422,15 @@
         "pp",
         "psoe",
         "vox"
+      ]
+    },
+    {
+      "titulo": "El PP dice que Feijóo afronta tranquilo el 'cara a cara' porque es Sánchez \"el que se la juega\": \"Saldrá a ganar\"",
+      "medio": "Europa Press",
+      "url": "https://www.europapress.es/nacional/noticia-pp-dice-feijoo-afronta-tranquilo-cara-cara-porque-sanchez-juega-saldra-ganar-20261118124943.html",
+      "fecha": "2026-11-18T11:49+00:00",
+      "partidos": [
+        "pp"
       ]
     },
     {
@@ -8488,211 +8688,6 @@
       "fecha": "2026-11-15T13:56+00:00",
       "partidos": [
         "psoe"
-      ]
-    },
-    {
-      "titulo": "Feijóo visitará a Guipúzcoa tras la agresión a su candidato y pide a Sánchez que diga a sus socios de Bildu que \"no violenten la campaña\"",
-      "medio": "20minutos",
-      "url": "https://www.20minutos.es/nacional/feijoo-visitara-guipuzcoa-tras-agresion-candidato-pide-sanchez-diga-socios-bildu-no-violenten-campana_7061296_0.html",
-      "fecha": "2026-11-15T13:50+00:00",
-      "partidos": [
-        "pp",
-        "bildu"
-      ]
-    },
-    {
-      "titulo": "Feijóo hará campaña en Guipuzkoa tras la agresión a jóvenes de Nuevas Generaciones en Hernani",
-      "medio": "El País",
-      "url": "https://elpais.com/espana/elecciones-generales/2026-11-15/feijoo-hara-campana-en-guipuzcoa-tras-la-agresion-a-jovenes-de-nuevas-generaciones-en-hernani.html",
-      "fecha": "2026-11-15T13:45+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "El PSOE propone destinar el 1% del PIB a vivienda social y crear una prestación estatal por crianza",
-      "medio": "El País",
-      "url": "https://elpais.com/espana/elecciones-generales/2026-11-15/el-psoe-propone-destinar-el-1-del-pib-a-vivienda-social-y-crear-una-prestacion-estatal-por-crianza.html",
-      "fecha": "2026-11-15T13:44+00:00",
-      "partidos": [
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "Núñez: «Castilla-La Mancha pierde 1.000 millones de euros cada año por el sistema de financiación del PSOE»",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/castilla-la-mancha/toledo/nunez-castillala-mancha-pierde-1000-millones-euros-20261115143536-nt.html",
-      "fecha": "2026-11-15T13:39+00:00",
-      "partidos": [
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "Feijóo anuncia que hará campaña en Guipúzcoa tras el ataque al PP en Hernani: \"La calle no es vuestra\"",
-      "medio": "El Confidencial",
-      "url": "https://www.elconfidencial.com/espana/2026-11-15/feijoo-campana-elecciones-generales-pp-sanchez_4465397/",
-      "fecha": "2026-11-15T13:30+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "La coalición Frente Amplio cree que el PNV \"pone Euskadi en venta\" al no apoyar el segundo decreto de vivienda",
-      "medio": "elDiario.es",
-      "url": "https://www.eldiario.es/euskadi/coalicion-frente-amplio-cree-pnv-pone-euskadi-venta-no-apoyar-segundo-decreto-vivienda_1_13665590.html",
-      "fecha": "2026-11-15T13:14+00:00",
-      "partidos": [
-        "sumar",
-        "pnv"
-      ]
-    },
-    {
-      "titulo": "Feijóo llama \"gentuza\" a EH Bildu y pide a Sánchez que diga a \"sus socios que no violenten la campaña\"",
-      "medio": "elDiario.es",
-      "url": "https://www.eldiario.es/politica/feijoo-llama-gentuza-eh-bildu-pide-sanchez-diga-socios-no-violenten-campana_1_13665372.html",
-      "fecha": "2026-11-15T13:07+00:00",
-      "partidos": [
-        "pp",
-        "bildu"
-      ]
-    },
-    {
-      "titulo": "Feijóo pide concentrar el voto en PP para \"abrir un tiempo nuevo\" y acusa a Sánchez de liderar \"con incompetencia\"",
-      "medio": "Europa Press",
-      "url": "https://www.europapress.es/cantabria/noticia-feijoo-pide-concentrar-voto-pp-abrir-tiempo-nuevo-acusa-sanchez-liderar-incompetencia-20261115140501.html",
-      "fecha": "2026-11-15T13:05+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Ada Colau propone reconocer legalmente a la familia elegida a través de \"permisos retribuidos\" a amigos",
-      "medio": "El Mundo",
-      "url": "https://www.elmundo.es/espana/2026/11/15/6af990c1e9cf4a301c8b4585.html",
-      "fecha": "2026-11-15T12:54+00:00",
-      "partidos": [
-        "sumar"
-      ]
-    },
-    {
-      "titulo": "Feijóo anuncia un acto en Gipuzkoa para arropar a su candidato tras ser agredido en Hernani",
-      "medio": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/politica/20261115/11684790/feijoo-anuncia-acto-gipuzkoa-arropar-jon-echeverria-agredido-hernani.html",
-      "fecha": "2026-11-15T12:43+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Irene Montero, en Sevilla: PP y Vox quieren tener esclavos \"negros, latinos y andaluces trabajadores\"",
-      "medio": "20minutos",
-      "url": "https://www.20minutos.es/nacional/irene-montero-sevilla-pp-vox-quieren-tener-esclavos-negros-latinos-andaluces-trabajadores_7061289_0.html",
-      "fecha": "2026-11-15T12:21+00:00",
-      "partidos": [
-        "pp",
-        "vox"
-      ]
-    },
-    {
-      "titulo": "Junts volverá a exigir el traspaso de las competencias de inmigración: “Es innegociable”",
-      "medio": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/politica/20261115/11684750/junts-volvera-exigir-traspaso-competencias-inmigracion-innegociable.html",
-      "fecha": "2026-11-15T12:14+00:00",
-      "partidos": [
-        "junts"
-      ]
-    },
-    {
-      "titulo": "Feijóo prioriza una nueva financiación valenciana y el PSOE le reprocha que no aporte cifras",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/comunidad-valenciana/feijoo-prioriza-nueva-financiacion-valenciana-psoe-reprocha-20261115123613-nt.html",
-      "fecha": "2026-11-15T12:12+00:00",
-      "partidos": [
-        "pp",
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "Feijóo pide el voto en Castilla-La Mancha: «Los intereses de la región no estarán supeditados a ninguna minoria radical»",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/castilla-la-mancha/toledo/feijoo-pide-voto-castillala-mancha-intereses-region-20261115110845-nt.html",
-      "fecha": "2026-11-15T11:57+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "García Albiol, sobre la relación de España con Marruecos: «El Gobierno de Pedro Sánchez destina 750 millones de euros a mejorar sus trenes mientras nuestra red ferroviaria se cae a pedazos»",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/cataluna/garcia-albiol-sobre-relacion-espana-marruecos-gobierno-20261115120226-nt.html",
-      "fecha": "2026-11-15T11:56+00:00",
-      "partidos": [
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "Frente Amplio plantea permisos por cuidados a \"la familia elegida\" y una tarifa plana para autónomos que cobren menos del SMI",
-      "medio": "20minutos",
-      "url": "https://www.20minutos.es/nacional/frente-amplio-propone-que-familia-elegida-pueda-tener-permisos-retribuidos-por-cuidados_7061277_0.html",
-      "fecha": "2026-11-15T11:51+00:00",
-      "partidos": [
-        "sumar"
-      ]
-    },
-    {
-      "titulo": "En directo, acto de campaña de Feijóo en Santander",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/directo-acto-campana-feijoo-santander-20261115120427-nt.html",
-      "fecha": "2026-11-15T11:34+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Irene Montero aspira a «cambios radicales» y reprocha a Sánchez y Frente Amplio «36.000 millones para armas»",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/andalucia/irene-montero-promete-cambios-radicales-reprocha-sanchez-20261115122939-nts.html",
-      "fecha": "2026-11-15T11:32+00:00",
-      "partidos": [
-        "sumar"
-      ]
-    },
-    {
-      "titulo": "Frente Amplio propone que la \"familia elegida\" pueda tener permisos retribuidos por cuidados",
-      "medio": "Europa Press",
-      "url": "https://www.europapress.es/nacional/noticia-frente-amplio-propone-familia-elegida-pueda-tener-permisos-retribuidos-cuidados-20261115121612.html",
-      "fecha": "2026-11-15T11:16+00:00",
-      "partidos": [
-        "sumar"
-      ]
-    },
-    {
-      "titulo": "Feijóo, sobre la relación de España con Marruecos: «No podemos considerarlo un aliado. Si no nos respeta, aplicaría la Constitución para desplegar el Ejército en la frontera»",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/feijoo-sobre-relacion-espana-marruecos-podemos-considerarlo-20261113050000-nt.html",
-      "fecha": "2026-11-15T11:09+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "García Albiol se encuentra a inmigrantes irregulares procedentes de Canarias alojados en un hotel de tres estrellas en Cataluña: «Pedro Sánchez los ha colocado aquí a pensión completa pagándoles todo»",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/cataluna/garcia-albiol-hotel-inmigrantes-irregulares-cataluna-20261115060000-nt.html",
-      "fecha": "2026-11-15T11:06+00:00",
-      "partidos": [
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "¿Puedo votar a Gabriel Rufián (ERC), EH Bildu o PNV... en las elecciones generales si vivo en Madrid?",
-      "medio": "20minutos",
-      "url": "https://www.20minutos.es/nacional/puedo-votar-gabriel-rufian-erc-eh-bildu-pnv-elecciones-generales-madrid_5149744_0.html",
-      "fecha": "2026-11-15T10:23+00:00",
-      "partidos": [
-        "erc",
-        "bildu",
-        "pnv"
       ]
     }
   ],
