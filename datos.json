@@ -109,7 +109,10 @@
       "id": "upn",
       "name": "UPN",
       "scope": "Navarra",
-      "candidato": null
+      "candidato": null,
+      "programa_de": "pp",
+      "programa_nota": "Se presenta en Navarra en coalición con el PP y comparte su programa electoral. Sus medidas son las del PP.",
+      "programa_de_nombre": "PP"
     },
     {
       "id": "fo",

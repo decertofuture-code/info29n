@@ -36,6 +36,14 @@ def fecha(iso):
 def visibles(pid, tid):
     return [m for m in MEDIDAS.get(pid, {}).get(tid, []) if m.get("verificada", True) is not False]
 
+PROG_DE = {p["id"]: p["programa_de"] for p in PARTIDOS if p.get("programa_de")}
+PROG_DE_N = {p["id"]: p.get("programa_de_nombre") or NOMBRE.get(p["programa_de"], p["programa_de"]) for p in PARTIDOS if p.get("programa_de")}
+
+def etiqueta(k, pid, corta=False):
+    if k == "pend" and pid in PROG_DE:
+        return f"Con el {PROG_DE_N[pid]}" if corta else f"Programa del {PROG_DE_N[pid]}"
+    return POSTURA[k][1]
+
 def postura(q, pid):
     if pid not in PROGRAMAS:
         return "pend", None
@@ -111,7 +119,7 @@ def fila_postura(q, pid):
     cita = ""
     if x and x.get("cita"):
         cita = f'<small>«{e(x["cita"])}»' + (f' (pág. {x["pagina"]})' if x.get("pagina") else "") + "</small>"
-    return f'<li><span>{e(q["pregunta"])}{cita}</span><span class="badge p-{k}">{POSTURA[k][1]}</span></li>'
+    return f'<li><span>{e(q["pregunta"])}{cita}</span><span class="badge p-{k}">{etiqueta(k, pid)}</span></li>'
 
 def fila_voto(v, pid):
     c, l = voto(v, pid)
@@ -130,6 +138,9 @@ def paginas_partido():
                 (f'<ul>{"".join(medida_li(m) for m in visibles(pid, t["id"]))}</ul>' if visibles(pid, t["id"]) else '<p class="muted">Su programa no incluye medidas sobre este tema.</p>') +
                 "</section>" for t in TEMAS)
             prop = f'<div class="grid">{prop}</div>'
+        elif p.get("programa_nota") and pid not in PROGRAMAS:
+            de = p.get("programa_de", "")
+            prop = f'<p class="muted">{e(p["programa_nota"])} <a href="/partido/{de}/">Ver las propuestas del {e(p.get("programa_de_nombre") or NOMBRE.get(de, de))}</a>.</p>'
         else:
             prop = '<p class="muted">Aún no hemos incorporado a esta web su programa electoral para el 29N. Cuando lo hagamos, aquí estarán sus medidas por tema, cada una con su cita literal y la página del programa.</p>'
         if pid in PROGRAMAS and PREGUNTAS:
@@ -162,6 +173,9 @@ def paginas_tema():
                 cont = f'<ul>{"".join(medida_li(m) for m in ms)}</ul>'
             elif p["id"] in PROGRAMAS:
                 cont = '<p class="muted">Su programa no incluye medidas sobre este tema.</p>'
+            elif p.get("programa_de"):
+                de = p["programa_de"]
+                cont = f'<p class="muted">Comparte el programa del {e(p.get("programa_de_nombre") or NOMBRE.get(de, de))}: <a href="/partido/{de}/">ver sus medidas</a>.</p>'
             else:
                 cont = '<p class="muted">Programa aún no incorporado a esta web.</p>'
             bloques.append(f'<section class="card"><h3><a href="/partido/{p["id"]}/">{e(p["name"])}</a></h3>{cont}</section>')
@@ -226,7 +240,7 @@ def imagen_pregunta(q):
         x0, y0 = 60 + (i % cols) * cw, y + (i // cols) * rh
         nombre = CORTO.get(p["id"], p["name"])
         dr.text((x0, y0 + 8), nombre, font=fn, fill="#1B2A41")
-        lab = POSTURA[k][1] if k != "pend" else "Pendiente"
+        lab = POSTURA[k][1] if k != "pend" else (etiqueta(k, p["id"], True) if p["id"] in PROG_DE else "Pendiente")
         tw = dr.textlength(lab, font=fb)
         bx1 = x0 + cw - 24; bx0 = bx1 - tw - 28
         if k == "pend":
@@ -254,7 +268,7 @@ def paginas_comparador():
                 enlace = f' <a class="src" href="{e(x.get("fuente"))}" rel="noopener">{"Programa, pág. " + str(x.get("pagina")) if x.get("pagina") else "Fuente"}</a>' if x.get("fuente") else ""
                 cita = f'<blockquote>«{e(x["cita"])}»{enlace}</blockquote>'
 
-            filas += f'<li><span><a href="/partido/{p["id"]}/">{e(p["name"])}</a>{cita}</span><span class="badge p-{k}">{POSTURA[k][1]}</span></li>'
+            filas += f'<li><span><a href="/partido/{p["id"]}/">{e(p["name"])}</a>{cita}</span><span class="badge p-{k}">{etiqueta(k, p["id"])}</span></li>'
         n = len(PROGRAMAS)
         estado = f"Programas analizados: {n} de {len(PARTIDOS)}." if n else "Todavía no se ha publicado ningún programa. Las posturas aparecerán a medida que los partidos los presenten."
         cuerpo = f"""<header class="head"><p class="kicker">Comparador · <a href="/tema/{q["tema"]}/">{e(TEMA.get(q["tema"], ""))}</a></p><h1>{e(q["pregunta"])}</h1>
