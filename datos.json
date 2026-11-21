@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-20T17:41+00:00",
+  "actualizado": "2026-11-21T02:04+00:00",
   "temas": [
     {
       "id": "vivienda",
@@ -7730,6 +7730,233 @@
   ],
   "noticias": [
     {
+      "titulo": "El ‘momentum’ Puigdemont",
+      "medio": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/politica/20261121/11689362/momentum-puigdemont.html",
+      "fecha": "2026-11-20T23:05+00:00",
+      "partidos": [
+        "junts"
+      ]
+    },
+    {
+      "titulo": "Sánchez receta \"buena educación\" a Feijóo desde Galicia tras su cara a cara: \"La ventaja de dejarle hablar es que acaba retratándose\"",
+      "medio": "El Mundo",
+      "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/20/6b007d60fdddffa1598b45a1.html",
+      "fecha": "2026-11-20T22:23+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "Abascal advierte al PP de que van a tener que negociar \"muy duramente\" y duda de su \"colaboración\" con Vox",
+      "medio": "Europa Press",
+      "url": "https://www.europapress.es/nacional/noticia-abascal-advierte-pp-van-tener-negociar-muy-duramente-duda-colaboracion-vox-20261120224541.html",
+      "fecha": "2026-11-20T21:45+00:00",
+      "partidos": [
+        "pp",
+        "vox"
+      ]
+    },
+    {
+      "titulo": "Montero y Rufián agitan el fantasma del fascismo y reivindican a Podemos frente a la izquierda de Colau",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/montero-rufian-agitan-fantasma-fascismo-reivindican-podemos-20261120205351-nt.html",
+      "fecha": "2026-11-20T21:00+00:00",
+      "partidos": [
+        "sumar",
+        "podemos"
+      ]
+    },
+    {
+      "titulo": "Pedro Sánchez dice que Feijóo acabó \"retratándose\" en el debate porque \"no tiene nada que ofrecer más que los insultos\"",
+      "medio": "20minutos",
+      "url": "https://www.20minutos.es/nacional/pedro-sanchez-dice-que-feijoo-acabo-retratandose-debate-porque-no-tiene-nada-que-ofrecer-mas-que-los-insultos_7063935_0.html",
+      "fecha": "2026-11-20T20:52+00:00",
+      "partidos": [
+        "pp",
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "Sánchez se mide con Feijóo tras el debate y le supera en aforo en su plaza talismán en Galicia",
+      "medio": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/politica/20261120/11689512/sanchez-mide-feijoo-debate-le-supera-aforo-plaza-talisman-galicia.html",
+      "fecha": "2026-11-20T20:50+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "Besteiro cuestiona al «Feijóo gestor, vago, acomplejado, machista y desorientado»",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/galicia/besteiro-cuestiona-feijoo-gestor-vago-acomplejado-machista-20261120213542-nt.html",
+      "fecha": "2026-11-20T20:35+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "El cara a cara impulsa a Feijóo en la recta final: «Ahora a por el siguiente debate»",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/cara-cara-impulsa-feijoo-recta-final-siguiente-20261120183822-nt.html",
+      "fecha": "2026-11-20T20:33+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "Feijóo promete acabar con el negocio de las mafias migratorias y reforzar las fronteras: «España no está condenada al sanchismo»",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/canarias/feijoo-promete-acabar-negocio-mafias-migratorias-reforzar-20261120202904-nt.html",
+      "fecha": "2026-11-20T20:22+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "Sánchez se desquita del debate con un mitin masivo en la capital de la Galicia de Feijóo",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/galicia/sanchez-desquita-debate-mitin-masivo-capital-galicia-20261120205922-nt.html",
+      "fecha": "2026-11-20T20:12+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "Puigdemont rebautiza ERC para cargar contra Rufián: «Esquerra Rufiana de Catalunya»",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/cataluna/puigdemont-rebautiza-erc-cargar-rufian-esquerra-rufiana-20261120210926-nt.html",
+      "fecha": "2026-11-20T20:11+00:00",
+      "partidos": [
+        "erc",
+        "junts"
+      ]
+    },
+    {
+      "titulo": "Sánchez se cobra la revancha y gana a Feijóo en Galicia: “Votemos en homenaje a Ramón Sampedro”",
+      "medio": "El País",
+      "url": "https://elpais.com/espana/elecciones-generales/2026-11-20/sanchez-se-toma-la-revancha-en-galicia-y-esgrime-contra-feijoo-el-derecho-a-la-eutanasia-votemos-en-homenaje-a-ramon-sampedro.html",
+      "fecha": "2026-11-20T20:09+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "Montero y Rufián sacan músculo en Madrid en un acto con un duro discurso contra PSOE y Frente Amplio",
+      "medio": "El País",
+      "url": "https://elpais.com/espana/elecciones-generales/2026-11-20/montero-y-rufian-sacan-musculo-en-madrid-en-un-acto-con-un-duro-discurso-contra-psoe-y-frente-amplio.html",
+      "fecha": "2026-11-20T20:07+00:00",
+      "partidos": [
+        "psoe",
+        "sumar"
+      ]
+    },
+    {
+      "titulo": "Sánchez alerta de la \"amenaza\" que supone Feijóo para la Ley de Eutanasia junto a la pareja de Ramón Sampedro",
+      "medio": "Europa Press",
+      "url": "https://www.europapress.es/nacional/noticia-sanchez-alerta-amenaza-supone-feijoo-ley-eutanasia-junto-mujer-ramon-sampedro-20261120205345.html",
+      "fecha": "2026-11-20T19:53+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "Rufián alerta de lo que traería una mayoría de 210 diputados de PP y Vox y dice que Montero no se habría dejado \"avasallar\" como Sánchez",
+      "medio": "20minutos",
+      "url": "https://www.20minutos.es/nacional/rufian-alerta-que-traeria-una-mayoria-210-diputados-pp-vox-dice-que-montero-no-se-habria-dejado-avasallar-como-sanchez_7063916_0.html",
+      "fecha": "2026-11-20T19:48+00:00",
+      "partidos": [
+        "pp",
+        "vox"
+      ]
+    },
+    {
+      "titulo": "Podemos marca perfil de la mano de Rufián redoblando sus críticas a PSOE y Frente Amplio",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/politica/marca-perfil-mano-rufian-redoblando-criticas-psoe-frente-amplio_1_13681876.html",
+      "fecha": "2026-11-20T19:45+00:00",
+      "partidos": [
+        "psoe",
+        "sumar",
+        "podemos"
+      ]
+    },
+    {
+      "titulo": "Feijóo pide al PP \"darlo todo\" y reivindica su victoria ante Sánchez en el debate: \"Le puse ante el espejo de su corrupción y gestión\"",
+      "medio": "20minutos",
+      "url": "https://www.20minutos.es/nacional/feijoo-pide-pp-darlo-todo-reivindica-victoria-ante-sanchez-debate-puse-espejo-corrupcion-gestion_7063915_0.html",
+      "fecha": "2026-11-20T19:40+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "Montero y Rufián exhiben en Madrid su “alianza antifascista” ante la “sumisión” de Sumar al PSOE",
+      "medio": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/politica/20261120/11689491/montero-rufian-alianza-antifascista-madrid-sumision-sumar-psoe.html",
+      "fecha": "2026-11-20T19:34+00:00",
+      "partidos": [
+        "psoe",
+        "sumar"
+      ]
+    },
+    {
+      "titulo": "Vaya, PSOE y PP juegan al 'fact checking'",
+      "medio": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/politica/20261120/11689457/psoe-pp-juegan-fact-checking.html",
+      "fecha": "2026-11-20T18:53+00:00",
+      "partidos": [
+        "pp",
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "Feijóo pide al PP \"darlo todo\" en la recta final: \"Hemos ganado un debate pero no hemos ganado las elecciones\"",
+      "medio": "Europa Press",
+      "url": "https://www.europapress.es/nacional/noticia-feijoo-pide-pp-darlo-todo-recta-final-hemos-ganado-debate-aun-no-hemos-ganado-elecciones-20261120194551.html",
+      "fecha": "2026-11-20T18:45+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "Feijóo celebra el éxito del debate, pero pide prudencia: \"Ayer pusimos a Sánchez ante el espejo de su corrupción y mala gestión\"",
+      "medio": "El Confidencial",
+      "url": "https://www.elconfidencial.com/espana/2026-11-20/feijoo-sanchez-cara-a-cara-corrupcion_4469615/",
+      "fecha": "2026-11-20T18:41+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "El PP se muestra eufórico tras el cara a cara y la Moncloa justifica su estrategia",
+      "medio": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/politica/20261120/11689455/pp-muestra-euforico-cara-cara-moncloa-justifica-estrategia.html",
+      "fecha": "2026-11-20T18:20+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "Aitor Esteban (PNV): \"El debate de Sánchez y Feijóo mostró que hay dos mundos, Euskadi y España\"",
+      "medio": "20minutos",
+      "url": "https://www.20minutos.es/nacional/aitor-esteban-pnv-debate-sanchez-feijoo-mostro-que-hay-dos-mundos-euskadi-espana_7063884_0.html",
+      "fecha": "2026-11-20T17:58+00:00",
+      "partidos": [
+        "pp",
+        "pnv"
+      ]
+    },
+    {
+      "titulo": "La resaca del cara a cara Sánchez-Feijóo cierra la primera semana de campaña 29N y anticipa los \"platos fuertes\" del fin de semana",
+      "medio": "20minutos",
+      "url": "https://www.20minutos.es/nacional/resaca-cara-cara-sanchez-feijoo-cierra-primera-semana-campana-29n-anticipa-los-platos-fuertes-fin-semana_7063872_0.html",
+      "fecha": "2026-11-20T17:39+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
       "titulo": "Feijóo apuesta por un Mando Único para gestionar la inmigración en su visita a El Hierro",
       "medio": "ABC",
       "url": "https://www.abc.es/espana/canarias/feijoo-apuesta-mando-unico-gestionar-inmigracion-visita-20261120150604-nt.html",
@@ -7781,6 +8008,16 @@
       "fecha": "2026-11-20T16:40+00:00",
       "partidos": [
         "pp"
+      ]
+    },
+    {
+      "titulo": "Compromís denuncia una lona de Vox y pide a la Fiscalía que valore si podría ser delito",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/comunitat-valenciana/politica/compromis-denuncia-lona-vox-pide-fiscalia-valore-si-delito_1_13681494.html",
+      "fecha": "2026-11-20T16:33+00:00",
+      "partidos": [
+        "vox",
+        "compromis"
       ]
     },
     {
@@ -7889,6 +8126,16 @@
       "fecha": "2026-11-20T13:34+00:00",
       "partidos": [
         "psoe"
+      ]
+    },
+    {
+      "titulo": "\"Celebro que se ponga a Sánchez colorado como si fuera yo quien lo hace\": Abascal retoma la senda de la tregua con Feijóo",
+      "medio": "El Mundo",
+      "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/20/6b004a08e9cf4aa11d8b4597.html",
+      "fecha": "2026-11-20T13:30+00:00",
+      "partidos": [
+        "pp",
+        "vox"
       ]
     },
     {
@@ -10268,249 +10515,6 @@
       "fecha": "2026-11-18T12:48+00:00",
       "partidos": [
         "pp"
-      ]
-    },
-    {
-      "titulo": "El PSOE vuelve a escudarse en el secreto profesional para no entregar parte de la información que reclama el juez del 'caso Cloacas'",
-      "medio": "El Mundo",
-      "url": "https://www.elmundo.es/espana/2026/11/18/6afd840ce9cf4aeb368b4570.html",
-      "fecha": "2026-11-18T12:46+00:00",
-      "partidos": [
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "El juez exculpa a una alcaldesa del PSOE que fue denunciada por Teruel Existe: \"Siento alivio y una enorme emoción\"",
-      "medio": "elDiario.es",
-      "url": "https://www.eldiario.es/aragon/politica/juez-exculpa-alcaldesa-psoe-denunciada-teruel-existe-siento-alivio-enorme-emocion_1_13673221.html",
-      "fecha": "2026-11-18T12:35+00:00",
-      "partidos": [
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "EH Bildu y Sumar piden explicaciones a la Ertzaintza por la retirada de banderas de Palestina en el partido del Baskonia contra el Hapoel",
-      "medio": "elDiario.es",
-      "url": "https://www.eldiario.es/euskadi/eh-bildu-pide-explicaciones-ertzaintza-retirada-banderas-palestina-partido-baskonia-hapoel_1_13673636.html",
-      "fecha": "2026-11-18T12:23+00:00",
-      "partidos": [
-        "sumar",
-        "bildu"
-      ]
-    },
-    {
-      "titulo": "El PSOE ve positiva la entrevista de Sánchez en 'Lecturas' porque le humaniza frente al \"hijoputismo\" de PP y Vox",
-      "medio": "Europa Press",
-      "url": "https://www.europapress.es/nacional/noticia-psoe-ve-positiva-entrevista-sanchez-lecturas-porque-le-humaniza-frente-hijoputismo-pp-vox-20261118131318.html",
-      "fecha": "2026-11-18T12:13+00:00",
-      "partidos": [
-        "pp",
-        "psoe",
-        "vox"
-      ]
-    },
-    {
-      "titulo": "El PP dice que Feijóo afronta tranquilo el 'cara a cara' porque es Sánchez \"el que se la juega\": \"Saldrá a ganar\"",
-      "medio": "Europa Press",
-      "url": "https://www.europapress.es/nacional/noticia-pp-dice-feijoo-afronta-tranquilo-cara-cara-porque-sanchez-juega-saldra-ganar-20261118124943.html",
-      "fecha": "2026-11-18T11:49+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Mentiras y verdades del debate sobre vivienda entre PP y PSOE",
-      "medio": "elDiario.es",
-      "url": "https://www.eldiario.es/economia/mentiras-verdades-debate-vivienda-pp-psoe_1_13672878.html",
-      "fecha": "2026-11-18T11:42+00:00",
-      "partidos": [
-        "pp",
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "Vox despliega su arsenal xenófobo en València con ataques a la inmigración magrebí: \"invasión\" y \"que no te sustituyan\"",
-      "medio": "elDiario.es",
-      "url": "https://www.eldiario.es/comunitat-valenciana/politica/vox-despliega-arsenal-xenofobo-valencia-ataques-inmigracion-magrebi-invasion-no-sustituyan_1_13673252.html",
-      "fecha": "2026-11-18T11:32+00:00",
-      "partidos": [
-        "vox"
-      ]
-    },
-    {
-      "titulo": "Oskar Matute (EH Bildu) asegura ahora que ETA fue solo \"un estorbo\" y no una banda \"terrorista\" y el PNV se lo reprocha",
-      "medio": "El Mundo",
-      "url": "https://www.elmundo.es/pais-vasco/2026/11/18/6afd839efc6c83c7538b457a.html",
-      "fecha": "2026-11-18T11:29+00:00",
-      "partidos": [
-        "bildu",
-        "pnv"
-      ]
-    },
-    {
-      "titulo": "Abascal ve a Sánchez \"puto desesperado\" y lo compara con el asesino José Bretón y el Joker: \"Pasa de la risa loca al rictus serio\"",
-      "medio": "20minutos",
-      "url": "https://www.20minutos.es/nacional/abascal-ve-sanchez-puto-desesperado-compara-con-asesino-jose-breton-joker-pasa-risa-loca-rictus-serio_7062588_0.html",
-      "fecha": "2026-11-18T11:29+00:00",
-      "partidos": [
-        "vox"
-      ]
-    },
-    {
-      "titulo": "El PSOE expulsa a dos diputados de la Asamblea de Ceuta por romper la disciplina de voto",
-      "medio": "El Mundo",
-      "url": "https://www.elmundo.es/espana/2026/11/18/6afd8bc0e85ece38508b45b4.html",
-      "fecha": "2026-11-18T11:28+00:00",
-      "partidos": [
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "Feijóo repite visita a un pódcast con una entrevista a El sentido de la birra",
-      "medio": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/politica/20261118/11687077/feijoo-repite-visita-podcast-entrevista-sentido-birra.html",
-      "fecha": "2026-11-18T11:26+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "López Miras avala al 'gestor' Feijóo ante los empresarios: \"Un país que no funciona necesita cambiar de CEO\"",
-      "medio": "El Mundo",
-      "url": "https://www.elmundo.es/murcia/2026/11/18/6afd70ea21efa0154a8b45b6.html",
-      "fecha": "2026-11-18T11:23+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Horario del debate electoral entre Pedro Sánchez y Alberto Núñez Feijóo y dónde ver online y por televisión en directo",
-      "medio": "20minutos",
-      "url": "https://www.20minutos.es/nacional/horario-debate-electoral-pedro-sanchez-alberto-nunez-feijoo-elecciones-generales-donde-ver_7061066_0.html",
-      "fecha": "2026-11-18T11:23+00:00",
-      "partidos": [
-        "pp",
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "El PSOE entrega a la Audiencia Nacional el listado de todos los abogados contratados por el partido entre 2021 y 2025",
-      "medio": "elDiario.es",
-      "url": "https://www.eldiario.es/politica/psoe-entrega-audiencia-nacional-listado-abogados-contratados-partido-2021-2025_1_13673419.html",
-      "fecha": "2026-11-18T11:22+00:00",
-      "partidos": [
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "El PNV arremete contra Oskar Matute por señalar que ETA era “un estorbo que generaba dolor”",
-      "medio": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/local/paisvasco/20261118/11687130/pnv-arremete-oskar-matute-senalar-eta-estorbo-generaba-dolor.html",
-      "fecha": "2026-11-18T11:20+00:00",
-      "partidos": [
-        "pnv"
-      ]
-    },
-    {
-      "titulo": "El Supremo confirma cinco años de cárcel para Alfonso Rus, expresidente de la Diputación de Valencia por el PP",
-      "medio": "elDiario.es",
-      "url": "https://www.eldiario.es/comunitat-valenciana/supremo-confirma-cinco-anos-carcel-alfonso-rus-expresidente-diputacion-valencia-pp_1_13673394.html",
-      "fecha": "2026-11-18T11:15+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "El PSOE aporta al 'caso Leire' los abogados contratados entre 2021 y 2025 y facturas y pide que estén bajo secreto",
-      "medio": "Europa Press",
-      "url": "https://www.europapress.es/nacional/noticia-psoe-aporta-caso-leire-abogados-contratados-2021-2025-facturas-pide-esten-secreto-20261118121334.html",
-      "fecha": "2026-11-18T11:13+00:00",
-      "partidos": [
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "Cuando Vox quiere defender a los pequeños empresarios y se le vuelve en contra: \"Es fraude\"",
-      "medio": "elDiario.es",
-      "url": "https://www.eldiario.es/rastreador/vox-quiere-defender-pequenos-empresarios-le-vuelve-fraude_132_13673025.html",
-      "fecha": "2026-11-18T11:02+00:00",
-      "partidos": [
-        "vox"
-      ]
-    },
-    {
-      "titulo": "Álvarez de Toledo acusa a Sánchez de \"legitimar la violencia política\" con sus pactos con Bildu y la amnistía",
-      "medio": "20minutos",
-      "url": "https://www.20minutos.es/nacional/alvarez-toledo-acusa-sanchez-legitimar-violencia-politica-con-sus-pactos-con-bildu-amnistia_7062515_0.html",
-      "fecha": "2026-11-18T10:51+00:00",
-      "partidos": [
-        "bildu"
-      ]
-    },
-    {
-      "titulo": "El Tribunal de Cuentas ordena que un instructor investigue ya los pagos al hermano de Pedro Sánchez para recuperar el dinero",
-      "medio": "El Mundo",
-      "url": "https://www.elmundo.es/espana/2026/11/18/6afd74dbe4d4d829508b4592.html",
-      "fecha": "2026-11-18T10:33+00:00",
-      "partidos": [
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "Feijóo defiende poder pactar con Vox y rechaza lecciones de Sánchez: \"No pactaré con quien pida excarcelar etarras\"",
-      "medio": "Europa Press",
-      "url": "https://www.europapress.es/nacional/noticia-feijoo-defiende-poder-pactar-vox-rechaza-lecciones-sanchez-no-pactare-quien-pida-excarcelar-etarras-20261118113058.html",
-      "fecha": "2026-11-18T10:30+00:00",
-      "partidos": [
-        "pp",
-        "vox"
-      ]
-    },
-    {
-      "titulo": "Un día de campaña con Feijóo tras las agresiones a cargos del PP en el País Vasco: \"La violencia es consecuencia directa de blanquear a Bildu\"",
-      "medio": "El Mundo",
-      "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/17/6afca35ce4d4d8b81f8b45ab.html",
-      "fecha": "2026-11-18T10:24+00:00",
-      "partidos": [
-        "pp",
-        "bildu"
-      ]
-    },
-    {
-      "titulo": "El Tribunal de Cuentas se abre a investigar el sueldo del hermano de Pedro Sánchez en la Diputación de Badajoz",
-      "medio": "Europa Press",
-      "url": "https://www.europapress.es/nacional/noticia-tribunal-cuentas-abre-investigar-sueldo-hermano-pedro-sanchez-diputacion-badajoz-20261118112242.html",
-      "fecha": "2026-11-18T10:22+00:00",
-      "partidos": [
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "Pedro Sánchez contacta con los presidentes de Senegal y Gambia por El Hierro: \"Necesitamos una colaboración mucho más intensa\"",
-      "medio": "El Mundo",
-      "url": "https://www.elmundo.es/espana/2026/11/18/6afd7bd721efa049238b45a2.html",
-      "fecha": "2026-11-18T10:20+00:00",
-      "partidos": [
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "Hereu pide concentrar el voto en los socialistas frente a unas izquierdas “que se dan por vencidas”",
-      "medio": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/politica/20261118/11687072/hereu-pide-concentrar-voto-socialistas-frente-izquierdas-dan-vencidas.html",
-      "fecha": "2026-11-18T10:20+00:00",
-      "partidos": [
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "Albiol pide un triunfo amplio del PP que impida que Sánchez lidere la oposición y el PSOE",
-      "medio": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/politica/20261118/11687023/albiol-pide-triunfo-amplio-pp-impida-sanchez-lidere-oposicion-psoe.html",
-      "fecha": "2026-11-18T10:10+00:00",
-      "partidos": [
-        "pp",
-        "psoe"
       ]
     }
   ],
