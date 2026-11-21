@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-21T16:43+00:00",
+  "actualizado": "2026-11-21T22:06+00:00",
   "temas": [
     {
       "id": "vivienda",
@@ -7730,12 +7730,140 @@
   ],
   "noticias": [
     {
+      "titulo": "Bono a Felipe González: «No hagas el tonto. El PSOE te debe mucho, pero tú más al PSOE»",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/castilla-la-mancha/bono-felipe-gonzalez-hagas-tonto-psoe-debe-20261121221143-nt.html",
+      "fecha": "2026-11-21T21:11+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "Abascal, en Alicante: “La remigración me suena a música celestial”",
+      "medio": "El País",
+      "url": "https://elpais.com/espana/elecciones-generales/2026-11-21/abascal-en-alicante-la-remigracion-me-suena-a-musica-celestial.html",
+      "fecha": "2026-11-21T21:00+00:00",
+      "partidos": [
+        "vox"
+      ]
+    },
+    {
+      "titulo": "Besteiro apela a un respaldo «masivo» y confía en la remontada del PSOE",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/galicia/besteiro-apela-respaldo-masivo-confia-remontada-psoe-20261121215054-nt.html",
+      "fecha": "2026-11-21T20:50+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "Rueda pide «votar con fuerza» y superar el respaldo histórico del PP en Lugo",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/galicia/rueda-pide-votar-fuerza-superar-respaldo-historico-20261121210551-nt.html",
+      "fecha": "2026-11-21T20:06+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "Sánchez pide «votar con fuerza» en Gran Canaria para «mandar a PP y Vox a casa»",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/canarias/sanchez-pide-votar-fuerza-gran-canaria-mandar-20261121202516-nt.html",
+      "fecha": "2026-11-21T19:56+00:00",
+      "partidos": [
+        "pp",
+        "vox"
+      ]
+    },
+    {
+      "titulo": "Atilana Guerrero (Vox): «Los recursos no son infinitos y los españoles deben tener prioridad»",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/castilla-la-mancha/toledo/atilana-guerrero-vox-recursos-infinitos-espanoles-deben-20261121204542-nt.html",
+      "fecha": "2026-11-21T19:45+00:00",
+      "partidos": [
+        "vox"
+      ]
+    },
+    {
+      "titulo": "Sánchez pide votar \"por la memoria del exilio republicano\" ante \"la involución\" de PP-Vox",
+      "medio": "20minutos",
+      "url": "https://www.20minutos.es/nacional/sanchez-pide-votar-por-memoria-exilio-republicano-ante-involucion-pp-vox_7064139_0.html",
+      "fecha": "2026-11-21T19:41+00:00",
+      "partidos": [
+        "pp",
+        "vox"
+      ]
+    },
+    {
+      "titulo": "Exministros de Felipe González rebaten al expresidente: “Vamos a seguir votando al PSOE”",
+      "medio": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/politica/20261121/11690007/exministros-felipe-gonzalez-rebaten-expresidente-seguir-votando-psoe.html",
+      "fecha": "2026-11-21T18:49+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "El PP propone reducir de 18 a 12 meses el plazo para aprobar el nuevo modelo de carrera profesional del Sescam",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/castilla-la-mancha/pp-propone-reducir-meses-plazo-aprobar-nuevo-20261121182926-nt.html",
+      "fecha": "2026-11-21T17:29+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "Adelante Andalucía propone prohibir el turno laboral partido, apoyar la escritura en 'andalûh' y un Imserso universal",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/andalucia/adelante-andalucia-propone-prohibir-turno-laboral-partido-20261121180444-nts.html",
+      "fecha": "2026-11-21T17:28+00:00",
+      "partidos": [
+        "adelante"
+      ]
+    },
+    {
+      "titulo": "Bono conmina a González a reconsiderar su voto en blanco: “El PSOE te debe mucho, pero tú más al PSOE”",
+      "medio": "El País",
+      "url": "https://elpais.com/espana/elecciones-generales/2026-11-21/bono-conmina-a-gonzalez-a-reconsiderar-su-voto-en-blanco-el-psoe-te-debe-mucho-pero-tu-mas-al-psoe.html",
+      "fecha": "2026-11-21T17:03+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "Morant afirma que Feijóo siente “vergüenza” del PP valenciano que aún sigue sin candidato a la Generalitat",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/comunitat-valenciana/morant-afirma-feijoo-siente-verguenza-pp-valenciano-sigue-candidato-generalitat_1_13683249.html",
+      "fecha": "2026-11-21T17:02+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "El núcleo duro del primer Gobierno de Felipe González, excepto Guerra, pide el voto para Pedro Sánchez",
+      "medio": "20minutos",
+      "url": "https://www.20minutos.es/nacional/nucleo-duro-primer-gobierno-felipe-gonzalez-excepto-guerra-pide-voto-para-pedro-sanchez_7064100_0.html",
+      "fecha": "2026-11-21T16:39+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
       "titulo": "El PSOE valenciano encara el final de la campaña sin actos con Pedro Sánchez",
       "medio": "ABC",
       "url": "https://www.abc.es/espana/comunidad-valenciana/psoe-valenciano-encara-final-campana-actos-pedro-20261121053000-nt.html",
       "fecha": "2026-11-21T16:33+00:00",
       "partidos": [
         "psoe"
+      ]
+    },
+    {
+      "titulo": "El PP pide que Morant rectifique unas palabras en las que hablaba de 'abofetear' a Feijóo",
+      "medio": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/local/valencia/20261121/11689952/pp-pide-morant-rectifique-palabras-hablaba-abofetear-feijoo.html",
+      "fecha": "2026-11-21T16:32+00:00",
+      "partidos": [
+        "pp"
       ]
     },
     {
@@ -7907,6 +8035,15 @@
       ]
     },
     {
+      "titulo": "Feijóo: “No os fieis del ambiente, de nada. Son capaces de todo, y heridos son todavía más peligrosos”",
+      "medio": "El País",
+      "url": "https://elpais.com/espana/2026-11-21/feijoo-no-os-fieis-del-ambiente-no-os-fieis-de-nada-son-capaces-de-todo-y-heridos-son-todavia-mas-peligrosos.html",
+      "fecha": "2026-11-21T13:22+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
       "titulo": "Yolanda Díaz entra en campaña y avisa al PSOE: “No va de ser el primero, no sirve para gobernar”",
       "medio": "La Vanguardia",
       "url": "https://www.lavanguardia.com/politica/20261121/11689891/yolanda-diaz-entra-campana-avisa-psoe-primero-sirve-gobernar.html",
@@ -7922,6 +8059,16 @@
       "fecha": "2026-11-21T13:14+00:00",
       "partidos": [
         "pp"
+      ]
+    },
+    {
+      "titulo": "Colau llama a dar la vuelta a las encuestas en el final de campaña: “Vamos a congelar la sonrisa a Feijóo”",
+      "medio": "El País",
+      "url": "https://elpais.com/espana/elecciones-generales/2026-11-21/colau-llama-a-dar-la-vuelta-a-las-encuestas-en-el-final-de-campana-vamos-a-congelar-la-sonrisa-a-feijoo.html",
+      "fecha": "2026-11-21T13:14+00:00",
+      "partidos": [
+        "pp",
+        "sumar"
       ]
     },
     {
@@ -8016,6 +8163,15 @@
       "fecha": "2026-11-21T12:38+00:00",
       "partidos": [
         "pp"
+      ]
+    },
+    {
+      "titulo": "La plana mayor del primer Gobierno de Felipe González pide el voto para Pedro Sánchez: “Hay riesgo de involución y recorte de derechos”",
+      "medio": "El País",
+      "url": "https://elpais.com/espana/elecciones-generales/2026-11-21/la-plana-mayor-del-primer-gobierno-de-felipe-gonzalez-pide-el-voto-para-pedro-sanchez.html",
+      "fecha": "2026-11-21T11:47+00:00",
+      "partidos": [
+        "psoe"
       ]
     },
     {
@@ -10355,166 +10511,6 @@
       "fecha": "2026-11-19T10:15+00:00",
       "partidos": [
         "junts"
-      ]
-    },
-    {
-      "titulo": "El PP acusa a Sánchez de plegarse a Puigdemont: \"España por un sillón. Su sillón\"",
-      "medio": "El Confidencial",
-      "url": "https://www.elconfidencial.com/espana/2026-11-19/pp-acusa-sanchez-ceder-puigdemont-1tps_4468200/",
-      "fecha": "2026-11-19T10:06+00:00",
-      "partidos": [
-        "pp",
-        "junts"
-      ]
-    },
-    {
-      "titulo": "Ayuso tacha a Vox de “alfombra de los intereses” de Sánchez y reivindica “arraigo” frente a su “prioridad nacional”",
-      "medio": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/local/madrid/20261119/11687966/ayuso-tacha-vox-alfombra-intereses-sanchez-reivindica-arraigo-frente-prioridad-nacional.html",
-      "fecha": "2026-11-19T09:42+00:00",
-      "partidos": [
-        "vox"
-      ]
-    },
-    {
-      "titulo": "Bolaños ve \"bastante irrelevante\" la entrevista de Puigdemont y defiende que España tiene \"más cohesión que nunca\"",
-      "medio": "Europa Press",
-      "url": "https://www.europapress.es/nacional/noticia-bolanos-ve-bastante-irrelevante-entrevista-puigdemont-defiende-espana-tiene-mas-cohesion-nunca-20261119104138.html",
-      "fecha": "2026-11-19T09:41+00:00",
-      "partidos": [
-        "junts"
-      ]
-    },
-    {
-      "titulo": "Bolaños asegura que Puigdemont ha dejado \"muy claro\" que Junts prefiere a PP y Vox",
-      "medio": "El Confidencial",
-      "url": "https://www.elconfidencial.com/espana/2026-11-19/puigdemont-junts-prefiere-pp-vox-1tps_4468161/",
-      "fecha": "2026-11-19T09:31+00:00",
-      "partidos": [
-        "pp",
-        "vox",
-        "junts"
-      ]
-    },
-    {
-      "titulo": "Aitor Esteban (PNV) no comenta las palabras de Puigdemont, pero cree que la Ley de Amnistía era \"indefectible\"",
-      "medio": "Europa Press",
-      "url": "https://www.europapress.es/nacional/noticia-aitor-esteban-pnv-no-comenta-palabras-puigdemont-cree-ley-amnistia-era-indefectible-20261119103057.html",
-      "fecha": "2026-11-19T09:30+00:00",
-      "partidos": [
-        "junts",
-        "pnv"
-      ]
-    },
-    {
-      "titulo": "Sánchez y Feijóo, 120 minutos para no equivocarse",
-      "medio": "20minutos",
-      "url": "https://www.20minutos.es/nacional/sanchez-feijoo-120-minutos-para-no-equivocarse_7062992_3.html",
-      "fecha": "2026-11-19T09:15+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Última hora en directo de las elecciones generales del 29N y actualidad política: día del debate entre Sánchez y Feijóo",
-      "medio": "Europa Press",
-      "url": "https://www.europapress.es/nacional/noticia-ultima-hora-directo-elecciones-generales-29n-actualidad-politica-dia-debate-sanchez-feijoo-20261119082438.html",
-      "fecha": "2026-11-19T07:24+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Fernando Rodríguez Galisteo (Vox): \"Los españoles nos jugamos todo el 29-N, elegir entre Pedro Sánchez o democracia\"",
-      "medio": "20minutos",
-      "url": "https://www.20minutos.es/nacional/elecciones-generales/fernando-rodriguez-galisteo-vox-los-espanoles-nos-jugamos-todo-29-n-elegir-entre-pedro-sanchez-democracia_7062283_0.html",
-      "fecha": "2026-11-19T06:52+00:00",
-      "partidos": [
-        "psoe",
-        "vox"
-      ]
-    },
-    {
-      "titulo": "Feijóo y Sánchez, a cara de perro",
-      "medio": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/politica/20261119/11687592/feijoo-sanchez-cara-perro.html",
-      "fecha": "2026-11-19T05:00+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Feijóo combinará “moderación” con un tono “exigente” con Sánchez en el cara a cara",
-      "medio": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/politica/20261119/11687548/feijoo-combinara-moderacion-tono-exigente-sanchez.html",
-      "fecha": "2026-11-19T05:00+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "90 minutos cara a cara: Sánchez busca remontar los dos puntos que le separan del PP y Feijóo repetir el éxito de 2023",
-      "medio": "El País",
-      "url": "https://elpais.com/espana/elecciones-generales/2026-11-19/90-minutos-cara-a-cara-sanchez-busca-remontar-los-dos-puntos-que-le-separan-del-pp-y-feijoo-repetir-el-exito-de-2023.html",
-      "fecha": "2026-11-19T04:30+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Feijóo prepara el debate con su equipo gallego y sin Miguel Ángel Rodríguez: máxima presión sobre Sánchez sin arriesgar el perfil presidencial",
-      "medio": "El País",
-      "url": "https://elpais.com/espana/elecciones-generales/2026-11-19/feijoo-ira-a-la-yugular-sin-arriesgar-el-perfil-presidencial-en-un-debate-preparado-con-su-equipo-gallego-y-sin-miguel-angel-rodriguez.html",
-      "fecha": "2026-11-19T04:30+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Ada Colau: “La ultraderecha ha sabido diagnosticar mejor que el PSOE el malestar de la ciudadanía”",
-      "medio": "El País",
-      "url": "https://elpais.com/espana/elecciones-generales/2026-11-19/ada-colau-la-ultraderecha-ha-sabido-diagnosticar-mejor-que-el-psoe-el-malestar-de-la-ciudadania.html",
-      "fecha": "2026-11-19T04:30+00:00",
-      "partidos": [
-        "psoe",
-        "sumar"
-      ]
-    },
-    {
-      "titulo": "El PSPV se arriesga a una campaña de las generales sin Pedro Sánchez",
-      "medio": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/local/valencia/20261119/11687439/pspv-arriesga-campana-generales-pedro-sanchez.html",
-      "fecha": "2026-11-19T04:30+00:00",
-      "partidos": [
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "Miriam González, candidata al 29-N: \"No soy equidistante entre PP y PSOE, soy distante de los dos; sus gobiernos han sido desastrosos\"",
-      "medio": "El Confidencial",
-      "url": "https://www.elconfidencial.com/espana/2026-11-19/entrevista-contraluz-miriam-gonzalez-democracia21-cbtrntrv_4467030/",
-      "fecha": "2026-11-19T04:00+00:00",
-      "partidos": [
-        "pp",
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "Sánchez y Feijóo buscan dar un golpe de efecto en un cara a cara que ven clave para marcar el curso de la campaña",
-      "medio": "20minutos",
-      "url": "https://www.20minutos.es/nacional/sanchez-feijoo-buscan-dar-un-golpe-efecto-un-cara-cara-que-ven-clave-para-marcar-curso-campana_7062734_0.html",
-      "fecha": "2026-11-19T04:00+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Cuatro expertos analizan qué se espera de Sánchez y Feijóo: \"Va a perder quien sea más agresivo\"",
-      "medio": "20minutos",
-      "url": "https://www.20minutos.es/nacional/los-secretos-los-cara-cara-entre-ensayos-estrategias-quien-pierde-es-aquel-que-se-muestra-agresivo-amenazante_7062361_0.html",
-      "fecha": "2026-11-19T04:00+00:00",
-      "partidos": [
-        "pp"
       ]
     }
   ],
