@@ -351,48 +351,123 @@ body[data-tab="inicio"] .brand{color:var(--accent)}
 .ent li small a{color:inherit}
 .ent .ver{display:inline-flex;align-items:center;min-height:44px;font-weight:700;color:var(--accent);text-decoration:none}
 .idx p{margin:.35rem 0}
+
+/* ===== Diseño «índice lateral»: menú fijo a la izquierda en escritorio y barra inferior en móvil.
+   El color se reserva para los temas; la interfaz usa tinta neutra. ===== */
+:root{--accent:var(--ink);--side-w:16.5rem;--top-h:56px}
+body[data-tab]{--accent:var(--ink)}
+html{background:var(--paper)} body{background:var(--paper)!important}
+.skip{position:absolute;left:-9999px;top:0}
+.skip:focus{left:.5rem;top:.5rem;z-index:50;background:var(--sheet);color:var(--ink);padding:.6rem 1rem;border-radius:6px;outline:3px solid var(--civic)}
+:focus-visible{outline-color:var(--civic)}
+.topbar{position:sticky;top:0;z-index:20;display:flex;align-items:center;gap:1rem;height:calc(var(--top-h) + env(safe-area-inset-top,0px));
+  padding:env(safe-area-inset-top,0px) max(1.25rem,env(safe-area-inset-right,0px)) 0 max(1.25rem,env(safe-area-inset-left,0px));
+  background:var(--sheet);border-bottom:1px solid var(--line)}
+.topbar .brand{border:0;padding:0;margin:0;min-height:44px;font-weight:400;font-size:1.2rem;color:var(--ink)}
+.topbar .brand b{font-weight:700}
+.topbar-tag{margin:0;color:var(--muted);font-size:.95rem;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;min-width:0}
+.pill{margin:0 0 0 auto;flex:none;background:var(--ink);color:var(--sheet);border-radius:999px;padding:.2rem .8rem;font-size:.9rem;font-variant-numeric:tabular-nums}
+.pill:empty{display:none}
+.shell{display:grid;grid-template-columns:var(--side-w) minmax(0,1fr);align-items:start}
+.side{position:sticky;top:calc(var(--top-h) + env(safe-area-inset-top,0px));height:calc(100vh - var(--top-h) - env(safe-area-inset-top,0px));overflow-y:auto;
+  background:var(--sheet);border-right:1px solid var(--line);padding:1rem .75rem 2rem;display:flex;flex-direction:column}
+.side-list,.side-sub{list-style:none;margin:0;padding:0}
+.side-h{margin:1.25rem .65rem .3rem;font-size:.85rem;color:var(--muted)}
+.side a{display:flex;align-items:center;gap:.5rem;min-height:40px;padding:.35rem .65rem;border-radius:6px;color:var(--ink);text-decoration:none}
+.side a:hover{background:var(--paper)}
+.side a[aria-current="page"]{background:var(--paper);font-weight:700;box-shadow:inset 3px 0 0 var(--ink)}
+.side-sub{margin:.1rem 0 .35rem .65rem;padding-left:.4rem;border-left:1px solid var(--line)}
+.side-sub a{min-height:34px;font-size:.93rem;color:var(--muted)}
+.side-sub a::before{content:"";flex:none;width:.55rem;height:.55rem;border-radius:50%;background:var(--tc)}
+.side-sub a:hover{color:var(--ink)}
+.side-x{margin-top:auto!important;padding-top:1.5rem!important;font-size:.93rem;color:var(--muted)!important}
+.side-x svg{width:1rem;height:1rem;fill:currentColor}
+.wrap{max-width:none;margin:0;padding:0 clamp(1.25rem,4vw,3rem);min-width:0}
+.wrap>*{max-width:56rem}
+.hero{padding:2rem 0 1.25rem}
+body:not([data-tab="inicio"]) .hero{display:none}
+.hero h1{font-size:clamp(1.8rem,4vw,2.4rem);line-height:1.12;margin-bottom:.6rem}
+.panel{padding-top:2rem}
+body[data-tab="inicio"] .panel{padding-top:.5rem}
+.panel h2::before{display:none}
+.panel h2{font-size:1.5rem}
+section{border-top:0}
+.calendar li.done::before,.calendar li.voteday::before{background:var(--ink);border-color:var(--ink)}
+.calendar li.voteday::before{background:var(--sheet)}
+.medidas li{border-left-width:3px;background:none;border-radius:0;padding:.55rem 0 .55rem .85rem;border-top:0}
+.cita-v{margin:.3rem 0 0;font-size:.92rem;font-style:italic;color:var(--muted);flex-basis:100%}
+.med-meta{flex-direction:column;align-items:flex-start;gap:.15rem}
+.med-meta .src{border:0;padding:0;min-height:32px;font-weight:400;color:var(--muted);text-decoration:underline;text-underline-offset:.2em}
+.cmp-badge{display:inline-flex;align-items:center;gap:.3rem;border:0;padding:0}
+.cmp-badge i{font-style:normal;display:inline-grid;place-items:center;width:1.3rem;height:1.3rem;border-radius:50%;background:currentColor;font-size:.75rem}
+.cmp-badge i{color:var(--sheet)}
+.cmp-si i{background:var(--yes)} .cmp-no i{background:var(--no)} .cmp-matiz i{background:var(--pending)} .cmp-sin i,.cmp-pend i{background:var(--muted)}
+.cmp-sin,.cmp-pend{font-weight:400}
+.party,.vote,.case,.pv-topic,.cmp-q,.ent,.shortcuts a{box-shadow:none}
+.tabs.side,.tabs.tabbar{margin:0;backdrop-filter:none;border-bottom:0}
+.tabbar{display:none}
+.parties{grid-template-columns:repeat(auto-fill,minmax(21rem,1fr))}
+body[data-tab="programas"] .side-sub a[data-sel]{color:var(--ink);font-weight:700}
+footer{padding-bottom:3rem!important}
+@media (max-width:999px){
+  .topbar-tag{display:none}
+  .shell{display:block}
+  .side{display:none}
+  .side.open{display:flex;position:fixed;z-index:30;left:0;right:0;top:calc(var(--top-h) + env(safe-area-inset-top,0px));bottom:calc(64px + env(safe-area-inset-bottom,0px));height:auto;border-right:0;
+    padding-left:max(1rem,env(safe-area-inset-left,0px));padding-right:max(1rem,env(safe-area-inset-right,0px))}
+  .side.open a{min-height:44px;font-size:1.05rem}
+  body.menu-abierto{overflow:hidden}
+  .wrap{padding:0 max(1rem,env(safe-area-inset-right,0px)) 0 max(1rem,env(safe-area-inset-left,0px))}
+  .tabs.tabbar{display:flex;position:fixed;z-index:25;left:0;right:0;top:auto;bottom:0;height:calc(64px + env(safe-area-inset-bottom,0px));padding-bottom:env(safe-area-inset-bottom,0px);
+    background:var(--sheet);border-top:1px solid var(--line)}
+  .tabbar a,.tabbar button{flex:1;display:grid;place-items:center;align-content:center;gap:2px;font:inherit;font-size:.75rem;color:var(--muted);text-decoration:none;background:none;border:0;cursor:pointer;min-height:44px}
+  .tabbar svg{width:22px;height:22px;fill:none;stroke:currentColor;stroke-width:1.8;stroke-linecap:round;stroke-linejoin:round}
+  .tabbar [aria-current="page"],.tabbar button[aria-expanded="true"]{color:var(--ink);font-weight:700}
+  footer{padding-bottom:calc(5.5rem + env(safe-area-inset-bottom,0px))!important}
+}
+@media print{.topbar,.side,.tabbar{display:none}.shell{display:block}}
 </style>
 </head>
 <body data-tab="inicio">
-<svg class="bgmap" aria-hidden="true" viewBox="0 0 1060 800" preserveAspectRatio="xMaxYMax meet"><path d="M846,527L844,528L839,527L832,527L831,523L833,520L834,517L839,523L846,524L846,527ZM965,415L972,418L980,415L984,416L988,418L989,424L986,431L981,438L976,446L973,455L966,461L959,464L946,457L939,455L936,453L934,443L931,440L926,438L921,441L916,446L912,441L907,440L906,437L906,433L937,409L947,403L966,397L969,398L966,402L967,403L969,405L969,408L966,410L965,415ZM1053,410L1052,411L1028,399L1020,398L1018,396L1019,390L1019,388L1035,386L1048,391L1055,402L1055,404L1053,410ZM835,502L832,508L820,506L818,504L820,497L824,496L824,491L827,486L844,482L848,485L848,490L839,501L835,502ZM587,53L587,57L590,62L593,63L599,66L604,66L611,67L616,70L616,74L615,79L612,84L611,87L612,89L615,90L617,91L619,90L620,88L623,84L624,84L624,86L626,88L634,92L653,99L660,99L666,100L667,103L679,114L682,114L687,114L694,113L698,111L701,111L704,114L708,115L713,119L718,124L721,125L740,122L744,125L748,125L753,124L764,125L772,125L773,124L774,114L775,110L777,109L783,110L801,116L809,120L817,123L823,123L827,125L833,134L832,139L833,141L834,144L833,148L835,150L838,151L842,150L846,148L853,144L855,144L867,148L872,151L874,155L876,158L880,159L885,155L893,152L906,155L921,159L927,160L927,158L929,155L931,153L935,153L940,151L946,148L952,147L958,149L966,151L970,151L972,157L976,160L977,165L971,168L967,168L965,178L967,180L971,183L972,186L973,200L965,208L954,217L901,247L888,262L884,265L844,274L816,284L803,288L787,305L779,312L785,314L792,322L790,325L779,331L775,333L772,332L770,333L752,362L736,383L727,393L718,406L699,442L699,452L708,488L714,497L721,505L736,512L740,518L735,524L720,535L695,550L684,562L682,574L675,579L672,595L667,605L666,609L662,617L661,623L669,631L665,634L661,636L652,637L622,638L598,655L586,671L576,699L562,716L556,719L547,712L536,711L525,713L520,719L511,723L502,720L483,718L474,718L461,723L450,720L431,718L390,722L384,724L379,731L366,743L346,744L328,752L323,757L316,770L313,781L312,781L310,778L307,779L306,787L299,790L293,791L279,785L267,776L261,775L251,761L247,751L244,741L245,738L244,734L235,730L233,721L239,709L245,704L248,703L240,703L234,711L227,699L197,675L199,669L198,666L193,673L190,674L174,673L157,676L152,651L150,642L149,635L154,621L159,615L165,603L174,593L182,591L186,590L189,582L191,575L190,575L180,576L162,548L162,544L164,537L166,529L166,523L171,517L178,511L184,503L187,495L188,488L185,483L175,480L164,460L162,447L160,446L154,440L148,430L147,428L153,426L179,426L184,423L185,423L190,414L195,400L196,392L194,388L186,380L185,377L187,373L192,369L199,364L202,360L202,356L199,353L199,350L200,346L201,332L202,329L200,316L199,306L193,293L194,290L197,288L205,283L212,273L221,264L234,256L242,248L246,242L248,241L247,238L246,234L241,230L234,227L227,228L223,227L222,224L222,215L222,207L220,203L217,200L211,201L205,198L201,198L198,199L186,199L180,198L177,196L174,197L173,198L173,201L172,204L167,208L157,211L149,210L141,208L138,207L135,205L119,207L117,206L112,209L104,213L100,213L98,212L97,210L94,204L95,201L101,192L101,190L98,187L96,183L95,181L91,180L87,182L70,187L66,189L59,193L52,200L46,201L44,199L43,183L52,173L58,167L55,165L49,165L49,161L52,158L55,153L52,151L49,147L49,138L50,134L49,130L36,135L32,135L32,128L39,117L40,114L31,113L25,107L21,103L17,96L17,90L21,77L27,73L33,70L44,61L60,62L70,60L79,55L84,54L92,50L92,44L89,40L92,36L101,31L111,25L123,23L134,18L142,21L149,20L157,24L168,35L183,39L195,35L217,35L228,36L247,34L258,35L276,29L290,36L317,39L333,44L378,52L394,53L416,48L426,44L435,46L448,42L454,43L462,49L491,57L498,50L504,49L524,53L545,61L556,62L572,59L584,54L587,53ZM814,741L810,757L806,763L804,765L798,767L790,757L787,747L785,744L788,742L793,742L803,740L805,739L815,729L825,728L826,731L814,741ZM951,705L947,710L943,708L945,698L947,695L954,691L960,689L962,685L964,683L966,686L964,689L963,699L959,702L951,705ZM926,756L919,763L912,762L910,760L917,758L924,753L928,740L935,725L936,719L938,717L942,717L943,717L945,720L945,727L943,739L940,750L926,756ZM863,757L863,762L864,768L864,776L861,780L855,784L850,784L847,782L842,775L842,768L846,763L848,757L860,758L861,757L862,756L863,757ZM770,766L768,766L765,765L763,759L765,755L766,753L769,754L773,757L774,760L774,762L770,766ZM733,780L728,791L722,787L721,786L719,783L725,783L732,777L733,780ZM736,734L735,734L734,729L728,716L731,710L738,710L741,714L742,718L741,720L741,725L740,729L736,734Z"/><path class="inset" d="M700,800V660H1056"/></svg>
-<div class="wrap">
-  <div class="strip" aria-hidden="true"><span style="background:var(--c-inicio)"></span><span style="background:var(--c-partidos)"></span><span style="background:var(--c-programas)"></span><span style="background:var(--c-comparador)"></span><span style="background:var(--c-votaciones)"></span><span style="background:var(--c-como-votar)"></span><span style="background:var(--c-medios)"></span><span style="background:var(--c-metodo)"></span><span style="background:var(--c-buzon)"></span></div>
-  <header>
+<a class="skip" href="#contenido">Saltar al contenido</a>
+<header class="topbar">
+  <a class="brand" href="#inicio" data-go="inicio">info<b>29n</b></a>
+  <p class="topbar-tag">Elecciones generales del 29 de noviembre</p>
+  <p class="pill" id="pill" aria-live="off"></p>
+</header>
+<div class="shell">
+<nav class="tabs side" id="side" aria-label="Secciones">
+  <ul class="side-list">
+    <li><a href="#inicio" data-go="inicio" data-name="Inicio">Inicio</a></li>
+  </ul>
+  <p class="side-h">Decidir el voto</p>
+  <ul class="side-list">
+    <li><a href="#partidos" data-go="partidos" data-name="Partidos">Partidos</a></li>
+    <li><a href="#programas" data-go="programas" data-name="Propuestas">Propuestas</a>
+      <ul class="side-sub" id="side-topics"></ul></li>
+    <li><a href="#comparador" data-go="comparador" data-name="Comparador">Comparador</a></li>
+    <li><a href="#votaciones" data-go="votaciones" data-name="Votaciones">Votaciones</a></li>
+  </ul>
+  <p class="side-h">Actualidad y voto</p>
+  <ul class="side-list">
+    <li><a href="#medios" data-go="medios" data-name="Noticias">Noticias</a></li>
+    <li><a href="#como-votar" data-go="como-votar" data-name="Cómo votar">Cómo votar</a></li>
+  </ul>
+  <p class="side-h">Sobre la web</p>
+  <ul class="side-list">
+    <li><a href="#metodo" data-go="metodo" data-name="Método">Método</a></li>
+    <li><a href="#buzon" data-go="buzon" data-name="Buzón">Buzón</a></li>
+  </ul>
+  <a class="side-x" href="https://x.com/info29N" target="_blank" rel="noopener" aria-label="Síguenos en X (se abre en una pestaña nueva)">
+    <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M18.244 2.25h3.308l-7.227 8.26 8.502 11.24H16.17l-5.214-6.817L4.99 21.75H1.68l7.73-8.835L1.254 2.25H8.08l4.713 6.231zm-1.161 17.52h1.833L7.084 4.126H5.117z"/></svg>Síguenos en X</a>
+</nav>
+<div class="wrap" id="contenido">
+  <header class="hero">
     <h1>Elecciones generales del 29 de noviembre</h1>
     <p class="lede">Qué propone cada partido, qué ha votado y las últimas noticias sobre él, con enlace a la fuente de cada dato.</p>
     <p class="countdown" id="countdown"></p>
     <p class="updated">Última actualización: <span class="js-updated">—</span>.</p>
   </header>
-
-  <nav class="tabs" aria-label="Secciones">
-    <div class="navbar">
-      <a class="brand" href="#inicio" data-go="inicio" aria-label="Inicio">29N</a>
-      <div class="tablist" id="tablist">
-      <a class="tab" href="#partidos" data-go="partidos" style="--tc:var(--c-partidos)">Partidos</a>
-      <a class="tab" href="#programas" data-go="programas" style="--tc:var(--c-programas)">Propuestas</a>
-      <a class="tab" href="#comparador" data-go="comparador" style="--tc:var(--c-comparador)">Comparador</a>
-      <a class="tab" href="#votaciones" data-go="votaciones" style="--tc:var(--c-votaciones)">Votaciones</a>
-      <a class="tab" href="#medios" data-go="medios" style="--tc:var(--c-medios)">Noticias</a>
-      <a class="tab" href="#como-votar" data-go="como-votar" style="--tc:var(--c-como-votar)">Cómo votar</a>
-      </div>
-      <span class="nav-current" id="nav-current" aria-hidden="true"></span>
-      <button type="button" class="menu-btn" id="menu-btn" aria-expanded="false" aria-controls="nav-menu">
-        <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 7h16M4 12h16M4 17h16"/></svg><span>Menú</span></button>
-    </div>
-    <div class="nav-menu" id="nav-menu" hidden>
-      <ul>
-      <li><a href="#inicio" data-go="inicio" style="--tc:var(--c-inicio)"><b>Inicio</b><span>Calendario y accesos directos</span></a></li>
-      <li><a href="#partidos" data-go="partidos" style="--tc:var(--c-partidos)"><b>Partidos</b><span>Toda la información de cada partido</span></a></li>
-      <li><a href="#programas" data-go="programas" style="--tc:var(--c-programas)"><b>Propuestas</b><span>Qué propone cada uno, por tema</span></a></li>
-      <li><a href="#comparador" data-go="comparador" style="--tc:var(--c-comparador)"><b>Comparador</b><span>Su postura en las cuestiones clave</span></a></li>
-      <li><a href="#votaciones" data-go="votaciones" style="--tc:var(--c-votaciones)"><b>Votaciones</b><span>Qué votaron en el Congreso</span></a></li>
-      <li><a href="#medios" data-go="medios" style="--tc:var(--c-medios)"><b>Noticias</b><span>Titulares de campaña</span></a></li>
-      <li><a href="#como-votar" data-go="como-votar" style="--tc:var(--c-como-votar)"><b>Cómo votar</b><span>Censo, voto por correo y mesas</span></a></li>
-      <li><a href="#metodo" data-go="metodo" style="--tc:var(--c-metodo)"><b>Método</b><span>Cómo hacemos esta web</span></a></li>
-      <li><a href="#buzon" data-go="buzon" style="--tc:var(--c-buzon)"><b>Buzón</b><span>Correcciones y sugerencias</span></a></li>
-      </ul>
-    </div>
-  </nav>
 
   <section id="inicio" aria-labelledby="inicio-h" class="panel" tabindex="-1" hidden>
     <h2 id="inicio-h">Calendario electoral</h2>
@@ -574,10 +649,14 @@ body[data-tab="inicio"] .brand{color:var(--accent)}
   </footer>
 </div>
 
-<a class="follow-x" href="https://x.com/info29N" target="_blank" rel="noopener" aria-label="Síguenos en X (se abre en una pestaña nueva)">
-  <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M18.244 2.25h3.308l-7.227 8.26 8.502 11.24H16.17l-5.214-6.817L4.99 21.75H1.68l7.73-8.835L1.254 2.25H8.08l4.713 6.231zm-1.161 17.52h1.833L7.084 4.126H5.117z"/></svg>
-  Síguenos en X
-</a>
+</div>
+<nav class="tabs tabbar" aria-label="Accesos rápidos">
+  <a href="#inicio" data-go="inicio"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M3 11 12 4l9 7v9h-6v-6H9v6H3z"/></svg><span>Inicio</span></a>
+  <a href="#partidos" data-go="partidos"><svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="9" cy="8" r="3.5"/><path d="M2.5 20c.6-3.6 3.2-5.5 6.5-5.5s5.9 1.9 6.5 5.5M16 4.8a3.3 3.3 0 0 1 0 6.4M18 14.8c2 .6 3.2 2.3 3.5 5.2"/></svg><span>Partidos</span></a>
+  <a href="#programas" data-go="programas"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M8 6h13M8 12h13M8 18h13M3.5 6h.01M3.5 12h.01M3.5 18h.01"/></svg><span>Propuestas</span></a>
+  <a href="#comparador" data-go="comparador"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 3v18M5 21h14M4 8h16M4 8l-2.5 6a3 3 0 0 0 5 0zM20 8l-2.5 6a3 3 0 0 0 5 0z"/></svg><span>Comparador</span></a>
+  <button type="button" id="more-btn" aria-expanded="false" aria-controls="side"><svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="5" cy="12" r="1.3"/><circle cx="12" cy="12" r="1.3"/><circle cx="19" cy="12" r="1.3"/></svg><span>Más</span></button>
+</nav>
 <script>
 // ---- DATOS: se cargan desde datos.json ----
 let DEBATES=[],ENTREVISTAS={lista:[]};
@@ -585,7 +664,7 @@ let TOPICS=[],PARTIES=[],MEASURES={},RESUMEN={},VOTES=[],STATUS={},CASES=[],NEWS
 // Medidas visibles: las no verificadas (cita sin comprobar) no se publican.
 const visibles = (pid,tid) => ((MEASURES[pid]||{})[tid]||[]).filter(x=>x.verificada!==false);
 const citaLimpia = c => (c||"").replace(/(\p{L})-\s*\n\s*(\p{L})/gu,"$1$2").replace(/\s*\n\s*/g," ");
-const medidaHTML = x => `<li>${x.texto}<div class="med-meta"><a class="src" href="${x.fuente}" target="_blank" rel="noopener">${x.pagina?`Programa, pág. ${x.pagina}`:"Fuente"}</a>${x.cita?`<details class="cita"><summary>Ver cita</summary><blockquote>«${esc(citaLimpia(x.cita))}»</blockquote></details>`:""}</div></li>`;
+const medidaHTML = x => `<li>${x.texto}<div class="med-meta">${x.cita?`<blockquote class="cita-v">«${esc(citaLimpia(x.cita))}»</blockquote>`:""}<a class="src" href="${x.fuente}" target="_blank" rel="noopener">${x.pagina?`Programa, pág. ${x.pagina}`:"Fuente"}</a></div></li>`;
 const progInfo = pid => { const g=PROGRAMAS[pid]; return g&&g.url ? g : null; };
 const progDe = pid => { const p=PARTIES.find(x=>x.id===pid); return p&&p.programa_de&&!PROGRAMAS[pid] ? p : null; };
 const sinMedidas = pid => { const c=progDe(pid); return PROGRAMAS[pid] ? "Su programa no incluye medidas sobre este tema." : c ? `Comparte el programa del ${c.programa_de_nombre||pname(c.programa_de)}: <a href="#partido-${c.programa_de}">ver sus medidas</a>.` : "Programa aún no incorporado a esta web."; };
@@ -616,6 +695,7 @@ function render(){
   const t=TOPICS.find(x=>x.id===current);
   document.getElementById("topic-head").innerHTML=`<h3>${t.name}</h3><p>${t.desc}</p>`;
   document.getElementById("parties").dataset.tema=current;
+  document.querySelectorAll("#side-topics a").forEach(a=>a.toggleAttribute("data-sel",a.dataset.topic===current));
   document.getElementById("parties").innerHTML=PARTIES.filter(p=>scope==="all"||p.scope==="Toda España"||p.nacional).map(p=>{
     const m=visibles(p.id,current);
     const body=m.length
@@ -630,6 +710,8 @@ function render(){
   }).join("");
 }
 render();
+window.setTopic=id=>{ if(TOPICS.some(t=>t.id===id)){ current=id; render(); } };
+document.getElementById("side-topics").innerHTML=TOPICS.map(t=>`<li><a href="#programas" data-go="programas" data-topic="${t.id}" style="--tc:var(--t-${t.id})">${t.name}</a></li>`).join("");
 
 document.getElementById("votes").innerHTML=VOTES.map(v=>{
   const t=TOPICS.find(x=>x.id===v.topic);
@@ -671,6 +753,7 @@ document.getElementById("sug-form").addEventListener("submit",async e=>{
 let pendingPregunta=null;
 function irAPregunta(){ if(!pendingPregunta) return; const el=document.getElementById(pendingPregunta); if(el){ setTimeout(()=>el.scrollIntoView({block:"start"}),60); pendingPregunta=null; } }
 const POSTURA={si:["si","Sí"],no:["no","No"],matiz:["matiz","Con matices"],sin:["sin","No se pronuncia"],pend:["pend","Programa pendiente"],coal:["pend","Programa del PP"]};
+const SIMBOLO={si:"✓",no:"✕",matiz:"≈",sin:"–",pend:"…"};
 function postura(q,pid){
   const x=(q.posturas||{})[pid];
   if(!PROGRAMAS[pid]) return {k:progDe(pid)?"coal":"pend"};
@@ -679,7 +762,7 @@ function postura(q,pid){
 }
 function stanceCell(q,pid,showName){
   const {k,x}=postura(q,pid); const [cls,lbl]=POSTURA[k];
-  return `<li class="cmp-row">${showName?`<a class="cmp-party" href="#partido-${pid}">${pname(pid)}</a>`:""}<span class="cmp-badge cmp-${cls}">${lbl}</span>${x&&x.cita?`<details class="cita"><summary>${x.pagina?`Cita, pág. ${x.pagina}`:"Cita"}</summary><blockquote>«${esc(x.cita)}»</blockquote><a class="src" href="${x.fuente}" target="_blank" rel="noopener">Ver en el programa</a></details>`:""}</li>`;
+  return `<li class="cmp-row">${showName?`<a class="cmp-party" href="#partido-${pid}">${pname(pid)}</a>`:""}<span class="cmp-badge cmp-${cls}"><i aria-hidden="true">${SIMBOLO[cls]}</i>${lbl}</span>${x&&x.cita?`<details class="cita"><summary>${x.pagina?`Cita, pág. ${x.pagina}`:"Cita"}</summary><blockquote>«${esc(x.cita)}»</blockquote><a class="src" href="${x.fuente}" target="_blank" rel="noopener">Ver en el programa</a></details>`:""}</li>`;
 }
 let cmpTopic="all";
 function renderComparador(){
@@ -791,16 +874,18 @@ document.getElementById("party-view").addEventListener("click",e=>{
 });
 
 // ---- NAVEGACIÓN ----
-const tl=document.getElementById("tablist");
-function fadeTabs(){const max=tl.scrollWidth-tl.clientWidth;tl.classList.toggle("fade-l",tl.scrollLeft>4);tl.classList.toggle("fade-r",max>4&&tl.scrollLeft<max-4);}
-tl.addEventListener("scroll",fadeTabs,{passive:true}); window.addEventListener("resize",fadeTabs); fadeTabs();
 const panels=[...document.querySelectorAll("section.panel")];
-const SEC_NAME=Object.fromEntries([...document.querySelectorAll("#nav-menu a")].map(a=>[a.dataset.go,a.querySelector("b").textContent]));
-const menuBtn=document.getElementById("menu-btn"), menu=document.getElementById("nav-menu");
-function toggleMenu(open){ menu.hidden=!open; menuBtn.setAttribute("aria-expanded",open); if(open) menu.querySelector("a").focus(); }
-menuBtn.addEventListener("click",()=>toggleMenu(menu.hidden));
-document.addEventListener("keydown",e=>{ if(e.key==="Escape"&&!menu.hidden){ toggleMenu(false); menuBtn.focus(); } });
-document.addEventListener("click",e=>{ if(!menu.hidden && !e.target.closest(".tabs")) toggleMenu(false); });
+const side=document.getElementById("side"), moreBtn=document.getElementById("more-btn");
+const movil=()=>matchMedia("(max-width: 999px)").matches;
+function toggleMenu(open){
+  side.classList.toggle("open",open); moreBtn.setAttribute("aria-expanded",open);
+  document.body.classList.toggle("menu-abierto",open);
+  if(open) side.querySelector("a").focus();
+}
+moreBtn.addEventListener("click",()=>toggleMenu(!side.classList.contains("open")));
+document.addEventListener("keydown",e=>{ if(e.key==="Escape"&&side.classList.contains("open")){ toggleMenu(false); moreBtn.focus(); } });
+document.addEventListener("click",e=>{ if(side.classList.contains("open") && !e.target.closest("#side,#more-btn")) toggleMenu(false); });
+document.addEventListener("click",e=>{ const a=e.target.closest("[data-topic]"); if(a&&window.setTopic) window.setTopic(a.dataset.topic); });
 function selectTab(id){
   let party=null;
   if(id && id.startsWith("partido-")){ party=id.slice(8); id="partidos"; }
@@ -808,10 +893,9 @@ function selectTab(id){
   if(id && id.startsWith("pregunta-")){ pregunta=id; id="comparador"; }
   if(!document.getElementById(id) || !document.getElementById(id).classList.contains("panel")) id="inicio";
   panels.forEach(p=>p.hidden=p.id!==id);
-  document.querySelectorAll(".tabs [data-go]").forEach(a=>{ if(a.dataset.go===id) a.setAttribute("aria-current","page"); else a.removeAttribute("aria-current"); });
-  const cur=tl.querySelector('[aria-current="page"]'); if(cur) cur.scrollIntoView({block:"nearest",inline:"nearest"});
-  document.getElementById("nav-current").textContent=SEC_NAME[id]||"";
-  if(!menu.hidden) toggleMenu(false);
+  document.querySelectorAll(".tabs [data-go]:not([data-topic])").forEach(a=>{ if(a.dataset.go===id) a.setAttribute("aria-current","page"); else a.removeAttribute("aria-current"); });
+  document.querySelectorAll(".tabs [data-topic]").forEach(a=>a.removeAttribute("aria-current"));
+  if(side.classList.contains("open")) toggleMenu(false);
   document.body.dataset.tab=id;
   if(party){ currentParty=party; renderPartyView(); }
   if(pregunta){ cmpTopic="all"; pendingPregunta=pregunta; if(PREGUNTAS.length){ renderComparador(); irAPregunta(); } }
@@ -867,7 +951,7 @@ cargarDatos().then(d=>{
   document.querySelectorAll('.panel .sub').forEach(()=>{});
   const m=document.createElement("p"); m.className="load-error"; m.setAttribute("role","alert");
   m.textContent="No se han podido cargar los datos. Recarga la página en unos segundos.";
-  document.querySelector("header").appendChild(m);
+  document.querySelector(".hero").appendChild(m);
 });
 
 // ---- Calendario y cuenta atrás ----
@@ -876,6 +960,8 @@ document.querySelectorAll(".calendar li").forEach(li=>{
   if(new Date(li.dataset.date+"T00:00:00")<=today && !li.classList.contains("voteday")) li.classList.add("done");
 });
 const days=Math.round((new Date("2026-11-29T00:00:00")-today)/864e5);
+const hechos=[...document.querySelectorAll(".calendar li.done")]; if(hechos.length) hechos[hechos.length-1].classList.add("now");
+document.getElementById("pill").innerHTML = days>1 ? `<b>${days}</b> días` : days===1 ? "<b>1</b> día" : days===0 ? "Hoy se vota" : "";
 document.getElementById("countdown").innerHTML = days>0
   ? `Faltan <strong>${days} días</strong> para votar.`
   : days===0 ? `<strong>Hoy se vota.</strong>` : `Las elecciones se celebraron el 29 de noviembre.`;
