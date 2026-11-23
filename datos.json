@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-23T15:31+00:00",
+  "actualizado": "2026-11-23T21:09+00:00",
   "temas": [
     {
       "id": "vivienda",
@@ -7730,6 +7730,254 @@
   ],
   "noticias": [
     {
+      "titulo": "Pedro Sánchez, en Córdoba: «Quieren que la gente no lea, no piense y no vote, que estemos callados cuatro años»",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/andalucia/cordoba/pedro-sanchez-cordoba-quieren-gente-lea-piense-20261123204152-nts.html",
+      "fecha": "2026-11-23T20:45+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "Feijóo reitera que derogará la amnistía tras aplicársela el Supremo a Puigdemont",
+      "medio": "20minutos",
+      "url": "https://www.20minutos.es/nacional/feijoo-reitera-que-derogara-amnistia-tras-aplicarsela-supremo-puigdemont_7064849_0.html",
+      "fecha": "2026-11-23T20:33+00:00",
+      "partidos": [
+        "pp",
+        "junts"
+      ]
+    },
+    {
+      "titulo": "Rajoy pide concentrar el voto en Feijóo para evitar «cuatro años más de Frankenstein»",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/galicia/rajoy-pide-concentrar-voto-feijoo-evitar-cuatro-20261123213249-nt.html",
+      "fecha": "2026-11-23T20:32+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "El PP gana por la mínima al PSOE y la derecha supera a la izquierda en la última encuesta antes del 29N",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/politica/pp-gana-minima-psoe-derecha-supera-izquierda-ultima-encuesta-29n_1_13684963.html",
+      "fecha": "2026-11-23T20:31+00:00",
+      "partidos": [
+        "pp",
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "Vox sobre los siete empadronados en una casa de Marbella: «Este es el fraude para amañar las elecciones»",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/andalucia/malaga/vox-sobre-siete-empadronados-casa-marbella-fraude-20261123212429-nts.html",
+      "fecha": "2026-11-23T20:25+00:00",
+      "partidos": [
+        "vox"
+      ]
+    },
+    {
+      "titulo": "Rueda apela al voto de la provincia más fiel a Feijóo para «acabar con el sanchismo»",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/galicia/rueda-apela-voto-provincia-fiel-feijoo-acabar-20261123212224-nt.html",
+      "fecha": "2026-11-23T20:22+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "Debate a ocho de las elecciones generales, en directo: intervenciones de PP, PSOE, Vox, Frente Amplio, ERC, Junts, Bildu y PNV hoy en RTVE",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/debate-ocho-elecciones-generales-directo-intervenciones-pp-psoe-vox-20261123164534-di.html",
+      "fecha": "2026-11-23T20:18+00:00",
+      "partidos": [
+        "pp",
+        "psoe",
+        "vox",
+        "sumar",
+        "erc",
+        "junts",
+        "bildu",
+        "pnv"
+      ]
+    },
+    {
+      "titulo": "Pontón pide una «movilización masiva» para arañar un escaño del BNG por Orense",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/galicia/ponton-pide-movilizacion-masiva-aranar-escano-bng-20261123211623-nt.html",
+      "fecha": "2026-11-23T20:17+00:00",
+      "partidos": [
+        "bng"
+      ]
+    },
+    {
+      "titulo": "Abascal: «Está en manos del pueblo detener cualquier intento de Sánchez de robarnos las elecciones»",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/castilla-leon/abascal-manos-pueblo-detener-intento-sanchez-robarnos-20261123210417-nt.html",
+      "fecha": "2026-11-23T20:04+00:00",
+      "partidos": [
+        "vox"
+      ]
+    },
+    {
+      "titulo": "El PP resiste ante el crecimiento de Vox pero el PSOE se descalabra en Andalucía, según el Centra",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/andalucia/pp-resiste-ante-crecimiento-vox-psoe-descalabra-20261123081639-nts.html",
+      "fecha": "2026-11-23T19:56+00:00",
+      "partidos": [
+        "pp",
+        "psoe",
+        "vox"
+      ]
+    },
+    {
+      "titulo": "Feijóo ganó el debate, pero la campaña no ha terminado",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/ruben-rodriguez-marcos-feijoo-gano-debate-campana-terminado-20261123205408-nt.html",
+      "fecha": "2026-11-23T19:54+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "Abascal recrimina a Sánchez la \"infamia\" de la amnistía a Puigdemont y le llama \"traidor\"",
+      "medio": "Europa Press",
+      "url": "https://www.europapress.es/nacional/noticia-abascal-recrimina-sanchez-infamia-amnistia-puigdemont-le-llama-traidor-20261123204304.html",
+      "fecha": "2026-11-23T19:43+00:00",
+      "partidos": [
+        "vox",
+        "junts"
+      ]
+    },
+    {
+      "titulo": "La JEC abre expediente sancionador a Intxaurrondo tras cuestionar si «tiene cabida Vox» en TVE",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/jec-abre-expediente-sancionador-intxaurrondo-tras-cuestionar-20261123182530-nt.html",
+      "fecha": "2026-11-23T19:41+00:00",
+      "partidos": [
+        "vox"
+      ]
+    },
+    {
+      "titulo": "El PP de Córdoba insiste en Granada en la conversión de la N-432 en autovía: «El Gobierno de Sánchez es incapaz de cumplir»",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/andalucia/cordoba/pp-cordoba-insiste-granada-conversion-n432-autovia-20261123203003-nts.html",
+      "fecha": "2026-11-23T19:33+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "Javier Bardem, Sorogoyen y Rosa Montero firman un manifiesto que pide el voto a Frente Amplio",
+      "medio": "El Confidencial",
+      "url": "https://www.elconfidencial.com/espana/2026-11-23/personalidades-cultura-apoyan-frente-amplio-1tps_4471040/",
+      "fecha": "2026-11-23T19:14+00:00",
+      "partidos": [
+        "sumar"
+      ]
+    },
+    {
+      "titulo": "El voto de la Cultura entra en campaña: Bardem y Sorogoyen piden apoyar al Frente Amplio",
+      "medio": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/politica/20261123/11691557/voto-cultural-entra-campana-bardem-sorogoyen-piden-apoyar-frente-amplio.html",
+      "fecha": "2026-11-23T18:46+00:00",
+      "partidos": [
+        "sumar"
+      ]
+    },
+    {
+      "titulo": "Rodrigo Sorogoyen, Javier Bardem y más de 200 firmas de la Cultura piden el voto para Frente Amplio",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/cultura/sorogoyen-bardem-200-firmas-cultura-piden-voto-frente-amplio-ayudas-son-blindar-libertad-creativa_1_13686927.html",
+      "fecha": "2026-11-23T18:42+00:00",
+      "partidos": [
+        "sumar"
+      ]
+    },
+    {
+      "titulo": "Javier Bardem, Rodrigo Sorogoyen, Luis García Montero y 200 personalidades de la cultura piden el voto para Frente Amplio",
+      "medio": "20minutos",
+      "url": "https://www.20minutos.es/nacional/javier-bardem-rodrigo-sorogoyen-luis-garcia-montero-piden-voto-para-frente-amplio-es-hora-redistribuir-riqueza_7064705_0.html",
+      "fecha": "2026-11-23T18:37+00:00",
+      "partidos": [
+        "sumar"
+      ]
+    },
+    {
+      "titulo": "ERC calibra cómo polarizar con el PSC en la pugna por el voto frontera",
+      "medio": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/politica/20261123/11691538/erc-calibra-como-polarizar-psc-pugna-voto-frontera.html",
+      "fecha": "2026-11-23T18:16+00:00",
+      "partidos": [
+        "erc"
+      ]
+    },
+    {
+      "titulo": "Dirigentes del PP presionan para evitar la entrevista de Intxaurrondo a Feijóo ante el temor a una “encerrona” de final de campaña",
+      "medio": "El País",
+      "url": "https://elpais.com/espana/elecciones-generales/2026-11-23/dirigentes-del-pp-presionan-para-evitar-la-entrevista-de-intxaurrondo-a-feijoo-ante-el-temor-a-una-encerrona-de-final-de-campana.html",
+      "fecha": "2026-11-23T18:15+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "Un consejero de Ayuso critica la cultura de izquierdas: \"Almodóvar tiene un Oscar porque el PP invirtió en publicidad. Si no, no lo tendría\"",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/rastreador/consejero-ayuso-critica-cultura-izquierdas-almodovar-oscar-pp-invirtio-publicidad-si-no-no-tendria_132_13686955.html",
+      "fecha": "2026-11-23T17:33+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "El cálculo alternativo del CIS proyecta que Compromís-Front Valencià tendrá grupo propio en el Congreso con cinco diputados",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/comunitat-valenciana/politica/calculo-alternativo-cis-proyecta-compromis-front-valencia-tendra-grupo-propio-congreso-cinco-diputados_1_13686997.html",
+      "fecha": "2026-11-23T17:06+00:00",
+      "partidos": [
+        "compromis"
+      ]
+    },
+    {
+      "titulo": "La Junta Electoral abre expediente a Silvia Intxaurrondo por no ser neutral con Vox",
+      "medio": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/politica/20261123/11691429/junta-electoral-abre-expediente-silvia-intxaurrondo-neutral-vox.html",
+      "fecha": "2026-11-23T16:48+00:00",
+      "partidos": [
+        "vox"
+      ]
+    },
+    {
+      "titulo": "Vox tendrá que retirar la lona racista colgada en el centro de València al no estar en un espacio autorizado",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/comunitat-valenciana/politica/vox-tendra-retirar-lona-racista-colgada-centro-valencia-no-espacio-autorizado_1_13686819.html",
+      "fecha": "2026-11-23T16:12+00:00",
+      "partidos": [
+        "vox"
+      ]
+    },
+    {
+      "titulo": "Adelante Andalucía apela al voto útil en la recta final de campaña: \"Pido concentrar el voto de izquierdas para parar a PP y Vox\"",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/andalucia/adelante-andalucia-apela-voto-util-recta-final-campana-pido-concentrar-voto-izquierdas-parar-pp-vox_1_13685819.html",
+      "fecha": "2026-11-23T15:37+00:00",
+      "partidos": [
+        "pp",
+        "vox",
+        "adelante"
+      ]
+    },
+    {
+      "titulo": "Felipe González responde a Bono tras pedirle que vote al PSOE: \"Que no me hagan hablar\"",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/castilla-la-mancha/politica/felipe-gonzalez-responde-bono-pedirle-vote-psoe-no-hagan-hablar_1_13686728.html",
+      "fecha": "2026-11-23T15:34+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
       "titulo": "El PSOE de Page acusa a Núñez de basar su política del agua en «bulos y ocurrencias»",
       "medio": "ABC",
       "url": "https://www.abc.es/espana/castilla-la-mancha/toledo/talavera/psoe-page-acusa-nunez-basar-politica-agua-20261123155841-nt.html",
@@ -10297,247 +10545,6 @@
       "partidos": [
         "pp",
         "psoe"
-      ]
-    },
-    {
-      "titulo": "Ganador del debate Cara a cara Sánchez - Feijóo, en directo: reacciones y últimas noticias de las elecciones generales 29N hoy",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/ganador-debate-cara-cara-sanchez-feijoo-directo-20261120074658-di.html",
-      "fecha": "2026-11-20T13:25+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Frente Amplio afea a PP y PSOE no dignificar tres patios del cementerio de Toledo con represaliados de franquismo",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/castilla-la-mancha/toledo/frente-amplio-afea-pp-psoe-dignificar-tres-20261120140904-nt.html",
-      "fecha": "2026-11-20T13:11+00:00",
-      "partidos": [
-        "pp",
-        "psoe",
-        "sumar"
-      ]
-    },
-    {
-      "titulo": "El PP acusa a Tita García de hacer campaña por Sánchez «en contra de Talavera» para salvarse políticamente",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/castilla-la-mancha/toledo/talavera/pp-acusa-tita-garcia-campana-sanchez-talavera-20261120140602-nt.html",
-      "fecha": "2026-11-20T13:06+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Sánchez y Feijóo acuden al youtuber Plex para llegar al público joven",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/sanchez-feijoo-acuden-youtuber-plex-llegar-publico-20261120140358-nt.html",
-      "fecha": "2026-11-20T13:04+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Abascal, sobre el debate: «Celebro cuando a un tirano se le pone frente al espejo y se le sacan los colores»",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/castilla-leon/abascal-sobre-debate-celebro-tirano-pone-frente-20261120130124-nt.html",
-      "fecha": "2026-11-20T12:47+00:00",
-      "partidos": [
-        "vox"
-      ]
-    },
-    {
-      "titulo": "Vox vuelve a presionar al PP y exige a Feijóo que aclare su estrategia de alianzas",
-      "medio": "El País",
-      "url": "https://elpais.com/espana/elecciones-generales/2026-11-20/abascal-exige-a-feijoo-que-aclare-si-pactara-con-los-restos-del-psoe-despues-del-29-n.html",
-      "fecha": "2026-11-20T12:44+00:00",
-      "partidos": [
-        "pp",
-        "vox"
-      ]
-    },
-    {
-      "titulo": "Los jueces regalan a Feijóo una manguera para regar de falsedades su duelo con Sánchez",
-      "medio": "elDiario.es",
-      "url": "https://www.eldiario.es/politica/jueces-regalan-feijoo-manguera-regar-falsedades-duelo-sanchez_129_13679800.html",
-      "fecha": "2026-11-20T12:41+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Los 'barones' del PP erigen a Feijóo como \"vencedor\" del 'cara a cara' con Sánchez: \"Es la sensación general\"",
-      "medio": "Europa Press",
-      "url": "https://www.europapress.es/nacional/noticia-barones-pp-erigen-feijoo-vencedor-cara-cara-sanchez-sensacion-general-20261120133858.html",
-      "fecha": "2026-11-20T12:38+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Feijóo irá a TVE para ser entrevistado por Silvia Intxaurrondo",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/feijoo-ira-tve-entrevistado-silvia-intxaurrondo-20261120132722-nt.html",
-      "fecha": "2026-11-20T12:33+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "El PP de Castilla-La Mancha ve una «victoria contundente» de Feijóo sobre Sánchez en el debate",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/castilla-la-mancha/pp-castillala-mancha-victoria-contundente-feijoo-sobre-20261120132837-nt.html",
-      "fecha": "2026-11-20T12:28+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Vox exige blindar la autoridad del profesorado y garantizar la neutralidad ideológica en educación",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/castilla-la-mancha/vox-exige-blindar-autoridad-profesorado-garantizar-neutralidad-20261120132531-nt.html",
-      "fecha": "2026-11-20T12:26+00:00",
-      "partidos": [
-        "vox"
-      ]
-    },
-    {
-      "titulo": "Abascal se mofa de las menciones de Sánchez en el 'cara a cara': \"Le gusta debatir conmigo cuando no estoy\"",
-      "medio": "Europa Press",
-      "url": "https://www.europapress.es/nacional/noticia-abascal-mofa-menciones-sanchez-cara-cara-le-gusta-debatir-conmigo-cuando-no-estoy-20261120131927.html",
-      "fecha": "2026-11-20T12:19+00:00",
-      "partidos": [
-        "vox"
-      ]
-    },
-    {
-      "titulo": "Adelante Andalucía, la formación revelación en los sondeos que quiere prohibir la jornada partida y crear una red de supermercados públicos",
-      "medio": "El Mundo",
-      "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/20/6afdcd44fc6c83f1398b45a1.html",
-      "fecha": "2026-11-20T12:07+00:00",
-      "partidos": [
-        "adelante"
-      ]
-    },
-    {
-      "titulo": "El PP, eufórico tras el cara a cara, sale a por más: Feijóo también visitará a Plex",
-      "medio": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/politica/20261120/11689129/pp-euforico-cara-cara-sale-mas-feijoo-visitara-plex.html",
-      "fecha": "2026-11-20T11:58+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "PSOE y Frente Amplio hacen campaña juntos en Navarra para el Senado",
-      "medio": "elDiario.es",
-      "url": "https://www.eldiario.es/navarra/psoe-frente-amplio-campana-navarra-senado_1_13679725.html",
-      "fecha": "2026-11-20T11:54+00:00",
-      "partidos": [
-        "psoe",
-        "sumar"
-      ]
-    },
-    {
-      "titulo": "Radiografía verbal del debate electoral entre Sánchez y Feijóo: las más de 200 preguntas, dos disculpas y Vox como tercer protagonista",
-      "medio": "20minutos",
-      "url": "https://www.20minutos.es/nacional/que-dicen-las-palabras-cara-cara-entre-sanchez-feijoo-las-mas-200-preguntas-dos-disculpas-vox-como-tercer-protagonista_7063567_0.html",
-      "fecha": "2026-11-20T11:49+00:00",
-      "partidos": [
-        "pp",
-        "vox"
-      ]
-    },
-    {
-      "titulo": "Señalamientos, miradas a cámara y pequeños gestos corporales: El análisis del lenguaje no verbal del cara a cara entre Sánchez y Feijóo",
-      "medio": "20minutos",
-      "url": "https://www.20minutos.es/nacional/senalamientos-miradas-camara-pequenos-gestos-corporales-analisis-lenguaje-no-verbal-cara-cara-entre-sanchez-feijoo_7063572_0.html",
-      "fecha": "2026-11-20T11:36+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Las frases del cara a cara entre Sánchez y Feijóo",
-      "medio": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/politica/20261120/11689009/frases-cara-cara-sanchez-feijoo.html",
-      "fecha": "2026-11-20T10:40+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Los momentos más destacados del cara a cara entre Pedro Sánchez y Alberto Núñez Feijóo",
-      "medio": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/politica/20261120/11689016/cara-a-cara-pedro-sanchez-alberto-nunez-feijoo-debate-sanchez-feijoo-momentos-destacados-cara-a-cara-crisis-de-la-vivienda-espana-politica-migratoria-ceuta-el-hierro-rebaja-impuestos-iva-alimentos-politica-exterior-espana.html",
-      "fecha": "2026-11-20T10:39+00:00",
-      "partidos": [
-        "pp",
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "Vox crea los premios ‘Elementos Colgantes’ para decidir qué hacer con mil metros de tela roja sobrante en Toledo",
-      "medio": "elDiario.es",
-      "url": "https://www.eldiario.es/castilla-la-mancha/provincias/toledo/premios-elementos-colgantes-mil-metros-tela-sobrante-ciudad-patrimonio-humanidad_1_13679565.html",
-      "fecha": "2026-11-20T10:34+00:00",
-      "partidos": [
-        "vox"
-      ]
-    },
-    {
-      "titulo": "Votantes de Vox, SALF, Iustitia Europa y Falange: nostálgicos del franquismo coinciden en la misa del aniversario de la muerte del dictador",
-      "medio": "El País",
-      "url": "https://elpais.com/espana/elecciones-generales/2026-11-20/votantes-de-vox-salf-iustitia-europa-y-falange-nostalgicos-del-franquismo-coinciden-en-la-misa-del-aniversario-de-la-muerte-del-dictador.html",
-      "fecha": "2026-11-20T10:31+00:00",
-      "partidos": [
-        "vox",
-        "salf"
-      ]
-    },
-    {
-      "titulo": "Por qué aparece Óscar Puente en las listas del PSOE de las elecciones generales si dimitió y anunció que no se presentaría",
-      "medio": "20minutos",
-      "url": "https://www.20minutos.es/nacional/por-que-aparece-oscar-puente-listas-psoe-elecciones-generales-si-dimitio-anuncio-que-no-se-presentaria_7062020_0.html",
-      "fecha": "2026-11-20T10:16+00:00",
-      "partidos": [
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "Feijóo abruma hasta dejar mudo a un Sánchez que pide perdón tres veces",
-      "medio": "El Mundo",
-      "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/19/6aff232ce4d4d86b058b4593.html",
-      "fecha": "2026-11-20T10:09+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Ester Muñoz cree que Feijóo ganó a Sánchez en el cara a cara por \"cinco a cero\"",
-      "medio": "20minutos",
-      "url": "https://www.20minutos.es/nacional/ester-munoz-cree-que-feijoo-gano-sanchez-cara-cara-por-cinco-cero_7063542_0.html",
-      "fecha": "2026-11-20T10:07+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Irene Montero, crítica con los debatientes: \"Dos mujeres asesinadas ayer, pero solo Feijóo habló de feminismo.... y para atacarlo\"",
-      "medio": "20minutos",
-      "url": "https://www.20minutos.es/nacional/irene-montero-critica-con-los-debatientes-dos-mujeres-asesinadas-ayer-pero-solo-feijoo-hablo-feminismo-para-atacarlo_7063525_0.html",
-      "fecha": "2026-11-20T09:42+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Ester Muñoz cree que Feijóo ganó 5 a 0 y asegura que, en igualdad de condiciones, se ve al verdadero Sánchez",
-      "medio": "Europa Press",
-      "url": "https://www.europapress.es/nacional/noticia-ester-munoz-cree-feijoo-gano-asegura-igualdad-condiciones-ve-verdadero-sanchez-20261120101430.html",
-      "fecha": "2026-11-20T09:14+00:00",
-      "partidos": [
-        "pp"
       ]
     }
   ],
