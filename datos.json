@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-23T01:30+00:00",
+  "actualizado": "2026-11-23T15:31+00:00",
   "temas": [
     {
       "id": "vivienda",
@@ -7730,6 +7730,673 @@
   ],
   "noticias": [
     {
+      "titulo": "El PSOE de Page acusa a Núñez de basar su política del agua en «bulos y ocurrencias»",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/castilla-la-mancha/toledo/talavera/psoe-page-acusa-nunez-basar-politica-agua-20261123155841-nt.html",
+      "fecha": "2026-11-23T14:58+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "EH Bildu lleva la campaña a Treviño, donde no le pueden votar en las generales, para pedir su anexión a Álava",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/euskadi/eh-bildu-lleva-campana-trevino-no-le-votar-generales-reclamar-anexion-alava_1_13686617.html",
+      "fecha": "2026-11-23T14:51+00:00",
+      "partidos": [
+        "bildu"
+      ]
+    },
+    {
+      "titulo": "Encuestas elecciones generales en Aragón: resultados de PSOE, PP y Vox y ganador según los sondeos el 29N",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/aragon/encuestas-elecciones-generales-aragon-resultados-psoe-pp-20261123112403-nt.html",
+      "fecha": "2026-11-23T14:47+00:00",
+      "partidos": [
+        "pp",
+        "psoe",
+        "vox"
+      ]
+    },
+    {
+      "titulo": "Encuestas elecciones generales 29N en Comunidad Valenciana: resultados de PSOE, PP, Vox y Compromís y ganador según los sondeos",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/comunidad-valenciana/encuestas-elecciones-generales-29n-comunidad-valenciana-resultados-20261123111527-nt.html",
+      "fecha": "2026-11-23T14:46+00:00",
+      "partidos": [
+        "pp",
+        "psoe",
+        "vox",
+        "compromis"
+      ]
+    },
+    {
+      "titulo": "Un cálculo alternativo del CIS da empate técnico a PP y PSOE con una mayoría de las derechas",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/politica/calculo-alternativo-cis-da-empate-tecnico-pp-psoe-clara-mayoria-derechas_1_13686270.html",
+      "fecha": "2026-11-23T14:45+00:00",
+      "partidos": [
+        "pp",
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "La Audiencia Nacional descarta de nuevo investigar a Cospedal por Kitchen como pedía el PSOE",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/audiencia-nacional-descarta-nuevo-investigar-cospedal-kitchen-20261123145108-nt.html",
+      "fecha": "2026-11-23T14:21+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "El PP, tras el último CIS que dispara al PSOE: \"Será el último de Tezanos porque Feijóo le va a despedir en cuanto llegue a Moncloa\"",
+      "medio": "20minutos",
+      "url": "https://www.20minutos.es/nacional/pp-tras-ultimo-cis-que-dispara-psoe-sera-ultimo-tezanos-porque-feijoo-le-va-despedir-cuanto-llegue-moncloa_7064652_0.html",
+      "fecha": "2026-11-23T14:19+00:00",
+      "partidos": [
+        "pp",
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "Abascal asegura que es \"útil\" cualquier voto que no vaya a Sánchez ni a \"sus cómplices\" y pide al PP no repetir un mensaje \"dañino\"",
+      "medio": "20minutos",
+      "url": "https://www.20minutos.es/nacional/abascal-asegura-que-es-util-cualquier-voto-que-no-vaya-sanchez-ni-sus-complices-pide-pp-no-repetir-un-mensaje-danino_7064587_0.html",
+      "fecha": "2026-11-23T14:10+00:00",
+      "partidos": [
+        "pp",
+        "vox"
+      ]
+    },
+    {
+      "titulo": "Feijóo carga contra RTVE y promete recuperar la \"equidad\" en sus informativos: \"Parece una televisión norcoreana\"",
+      "medio": "20minutos",
+      "url": "https://www.20minutos.es/nacional/feijoo-carga-contra-rtve-promete-recuperar-equidad-sus-informativos-parece-una-television-norcoreana_7064645_0.html",
+      "fecha": "2026-11-23T14:09+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "Abascal defiende el apoyo a todo el bloque de la derecha: \"Cualquier voto que no vaya a la mafia de Sánchez o a sus cómplices es un voto útil para los españoles\"",
+      "medio": "El Mundo",
+      "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/23/6b0446bdfdddff7b7e8b458b.html",
+      "fecha": "2026-11-23T14:06+00:00",
+      "partidos": [
+        "vox"
+      ]
+    },
+    {
+      "titulo": "El PSOE aventaja en casi 10 puntos al PP, según el último CIS antes del 29-N",
+      "medio": "El País",
+      "url": "https://elpais.com/espana/elecciones-generales/2026-11-23/el-psoe-aventaja-en-casi-10-puntos-al-pp-segun-el-ultimo-cis-antes-del-29-n.html",
+      "fecha": "2026-11-23T14:05+00:00",
+      "partidos": [
+        "pp",
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "Santiago Abascal responde a Sánchez por decir que tiene datos que le dan mayoría: \"Los de votantes que distribuyes por provincias?\"",
+      "medio": "20minutos",
+      "url": "https://www.20minutos.es/nacional/abascal-responde-sanchez-por-decir-que-tiene-datos-que-le-dan-mayoria-que-datos-tienes-los-los-votantes-que-has-distribuido-por-las-provincias_7064642_0.html",
+      "fecha": "2026-11-23T13:58+00:00",
+      "partidos": [
+        "vox"
+      ]
+    },
+    {
+      "titulo": "Feijóo carga contra TVE: “Parece una televisión norcoreana y los informativos son una vergüenza”",
+      "medio": "El País",
+      "url": "https://elpais.com/espana/elecciones-generales/2026-11-23/feijoo-carga-contra-tve-parece-una-television-norcoreana-y-los-informativos-son-una-verguenza.html",
+      "fecha": "2026-11-23T13:45+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "Puigdemont reacciona al archivo de su causa y recomienda a sus \"enemigos\" un poema que dice: \"Me muero de ganas de daros por culo\"",
+      "medio": "20minutos",
+      "url": "https://www.20minutos.es/nacional/puigdemont-recomienda-sus-enemigos-un-poema-que-dice-me-muero-ganas-daros-por-culo-para-celebrar-su-amnistia_7064623_0.html",
+      "fecha": "2026-11-23T13:30+00:00",
+      "partidos": [
+        "junts"
+      ]
+    },
+    {
+      "titulo": "Puigdemont recomienda un poema \"a los enemigos\" tras la amnistía: \"Me muero de ganas de daros por el culo\"",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/catalunya/puigdemont-recomienda-poema-enemigos-amnistia-muero-ganas-daros-culo_1_13686211.html",
+      "fecha": "2026-11-23T13:25+00:00",
+      "partidos": [
+        "junts"
+      ]
+    },
+    {
+      "titulo": "El PP denuncia al CIS ante la Junta Electoral para exigir que todos los partidos tengan acceso a sus datos demoscópicos",
+      "medio": "20minutos",
+      "url": "https://www.20minutos.es/nacional/pp-denuncia-cis-ante-junta-electoral-para-exigir-que-todos-los-partidos-tengan-acceso-sus-datos-demoscopicos_7064598_0.html",
+      "fecha": "2026-11-23T13:14+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "Todas las encuestas menos el CIS dan la victoria a Feijóo y una amplia mayoría absoluta a PP y Vox",
+      "medio": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/politica/20261123/11691293/todas-encuestas-cis-dan-victoria-feijoo-amplia-mayoria-absoluta-pp-vox.html",
+      "fecha": "2026-11-23T13:08+00:00",
+      "partidos": [
+        "pp",
+        "vox"
+      ]
+    },
+    {
+      "titulo": "Felipe González tira de ironía para responder a Bono tras pedirle que siga votando al PSOE: \"Sé que él lo hace 'pro bono'\"",
+      "medio": "20minutos",
+      "url": "https://www.20minutos.es/nacional/felipe-gonzalez-tira-ironia-para-responder-bono-tras-pedirle-que-siga-votando-psoe-se-que-hace-pro-bono_7064613_0.html",
+      "fecha": "2026-11-23T13:06+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "Puigdemont cita un poema para dirigirse a sus “enemigos” tras ser amnistiado: “Me muero de ganas de daros por culo”",
+      "medio": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/politica/20261123/11691278/puigdemont-cita-poema-dirigirse-enemigos-amnistiado-me-muero-ganas-daros-culo.html",
+      "fecha": "2026-11-23T13:00+00:00",
+      "partidos": [
+        "junts"
+      ]
+    },
+    {
+      "titulo": "Nevenka Fernández considera “una vergüenza” que se “arrope” al alcalde de Móstoles (PP) investigado por acoso y apoyado por Ayuso",
+      "medio": "El País",
+      "url": "https://elpais.com/espana/elecciones-generales/2026-11-23/nevenka-fernandez-considera-una-verguenza-que-se-arrope-al-alcalde-de-mostoles-pp-investigado-por-presunto-acoso.html",
+      "fecha": "2026-11-23T12:57+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "Feijóo revela que su perra Cata tiene cáncer: el animal se hizo viral por la imagen que publicó el PP tras el cara a cara con Sánchez",
+      "medio": "20minutos",
+      "url": "https://www.20minutos.es/nacional/feijoo-revela-que-su-perra-cata-tiene-cancer-animal-se-hizo-viral-por-imagen-que-publico-pp-tras-cara-cara-con-sanchez_7064582_0.html",
+      "fecha": "2026-11-23T12:55+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "Abascal dice que Sánchez manipulará el recuento del CERA e impugnará las elecciones si no salen sus \"trampas\"",
+      "medio": "Europa Press",
+      "url": "https://www.europapress.es/nacional/noticia-abascal-dice-sanchez-manipulara-recuento-cera-impugnara-elecciones-si-no-salen-trampas-20261123135535.html",
+      "fecha": "2026-11-23T12:55+00:00",
+      "partidos": [
+        "vox"
+      ]
+    },
+    {
+      "titulo": "El 'CIS murciano' otorga la victoria al Partido Popular y augura una lucha agónica entre Vox y el PSOE por el último escaño",
+      "medio": "El Mundo",
+      "url": "https://www.elmundo.es/murcia/2026/11/23/6b042340e4d4d8d37e8b4588.html",
+      "fecha": "2026-11-23T12:45+00:00",
+      "partidos": [
+        "pp",
+        "psoe",
+        "vox"
+      ]
+    },
+    {
+      "titulo": "Nevenka Fernández, tras el apoyo del PP de Ayuso al alcalde de Móstoles: “Es una vergüenza”",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/comunitat-valenciana/nevenka-fernandez-ve-verguenza-pp-arrope-alcalde-mostoles-denunciado-acoso-peleamos-no-ocurra_1_13685491.html",
+      "fecha": "2026-11-23T12:37+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "El PP acusa a Sánchez de usar dinero público para \"fabricar una realidad electoral\" y promete destituir a Tezanos",
+      "medio": "Europa Press",
+      "url": "https://www.europapress.es/nacional/noticia-pp-acusa-sanchez-usar-dinero-publico-fabricar-realidad-electoral-promete-destituir-tezanos-20261123133347.html",
+      "fecha": "2026-11-23T12:33+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "El Supremo aplica la amnistía a Puigdemont y archiva definitivamente la causa del 'procés' nueve años después de su apertura",
+      "medio": "El Mundo",
+      "url": "https://www.elmundo.es/espana/2026/11/23/6b042ed9e4d4d8872c8b4579.html",
+      "fecha": "2026-11-23T12:29+00:00",
+      "partidos": [
+        "junts"
+      ]
+    },
+    {
+      "titulo": "Documento | El auto del Tribunal Supremo que aplica la amnistía a Puigdemont y cierra la causa del 'procés'",
+      "medio": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/politica/20261123/11691231/documento-auto-supremo-amnistia-puigdemont-cierra-proces.html",
+      "fecha": "2026-11-23T12:28+00:00",
+      "partidos": [
+        "junts"
+      ]
+    },
+    {
+      "titulo": "El Frente Amplio se rebela contra las encuestas y la llamada al voto útil del PSOE",
+      "medio": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/politica/20261123/11691233/frente-amplio-rebela-llamada-voto-util-psoe-colau-cis.html",
+      "fecha": "2026-11-23T12:25+00:00",
+      "partidos": [
+        "psoe",
+        "sumar"
+      ]
+    },
+    {
+      "titulo": "El Supremo amnistía al expresidente catalán Carles Puigdemont",
+      "medio": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/politica/20261123/11691225/supremo-amnistia-expresidente-catalan-carles-puigdemont.html",
+      "fecha": "2026-11-23T12:18+00:00",
+      "partidos": [
+        "junts"
+      ]
+    },
+    {
+      "titulo": "El Supremo amnistía a Puigdemont y cierra la causa del 'procés' casi una década después",
+      "medio": "Europa Press",
+      "url": "https://www.europapress.es/nacional/noticia-supremo-amnistia-puigdemont-cierra-causa-proces-casi-decada-despues-20261123131801.html",
+      "fecha": "2026-11-23T12:18+00:00",
+      "partidos": [
+        "junts"
+      ]
+    },
+    {
+      "titulo": "Junts relativiza los sondeos y apela al “voto útil” para Catalunya",
+      "medio": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/politica/20261123/11691222/junts-relativiza-sondeos-apela-voto-util-catalunya.html",
+      "fecha": "2026-11-23T12:17+00:00",
+      "partidos": [
+        "junts"
+      ]
+    },
+    {
+      "titulo": "El Supremo aplica la amnistía a Puigdemont y cierra su causa penal nueve años después",
+      "medio": "El Confidencial",
+      "url": "https://www.elconfidencial.com/espana/2026-11-23/la-sala-de-lo-penal-del-ts-declara-extinguida-la-responsabilidad-penal-de-puigdemont-por-la-amnistia_4470682/",
+      "fecha": "2026-11-23T12:17+00:00",
+      "partidos": [
+        "junts"
+      ]
+    },
+    {
+      "titulo": "El Supremo aplica la amnistía a Puigdemont y archiva la causa del procés",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/catalunya/supremo-aplica-amnistia-puigdemont-archiva-causa-proces_1_13676267.html",
+      "fecha": "2026-11-23T12:15+00:00",
+      "partidos": [
+        "junts"
+      ]
+    },
+    {
+      "titulo": "El Supremo aplica la amnistía a Puigdemont y cierra la causa del ‘procés’",
+      "medio": "El País",
+      "url": "https://elpais.com/espana/elecciones-generales/2026-11-23/el-supremo-aplica-la-amnistia-a-puigdemont-y-cierra-la-causa-del-proces.html",
+      "fecha": "2026-11-23T12:12+00:00",
+      "partidos": [
+        "junts"
+      ]
+    },
+    {
+      "titulo": "Frente Amplio acusa a Sánchez de plagiar con una \"mala copia\" su propuesta de impuesto a los ultrarricos",
+      "medio": "Europa Press",
+      "url": "https://www.europapress.es/nacional/noticia-frente-amplio-acusa-sanchez-plagiar-mala-copia-propuesta-impuesto-ultrarricos-20261123130458.html",
+      "fecha": "2026-11-23T12:04+00:00",
+      "partidos": [
+        "sumar"
+      ]
+    },
+    {
+      "titulo": "El CIS de Tezanos amplía y deja a casi 10 puntos la ventaja de Sánchez sobre Feijóo a las puertas del 29-N",
+      "medio": "El Confidencial",
+      "url": "https://www.elconfidencial.com/espana/2026-11-23/cis-tezanos-elecciones-generales-psoe-pp-vox-frente-amplio_4470602/",
+      "fecha": "2026-11-23T12:02+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "Un exsenador de Compromís denuncia que la Diputación de Castelló \"oculta\" el premio literario que le ha otorgado",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/comunitat-valenciana/exsenador-compromis-denuncia-diputacion-castello-oculta-premio-literario-le-otorgado_1_13685662.html",
+      "fecha": "2026-11-23T11:35+00:00",
+      "partidos": [
+        "compromis"
+      ]
+    },
+    {
+      "titulo": "El CIS de Tezanos dispara al PSOE diez puntos por encima del PP a solo una semana de las urnas mientras Vox se desploma",
+      "medio": "20minutos",
+      "url": "https://www.20minutos.es/nacional/cis-tezanos-dispara-psoe-diez-puntos-por-encima-pp-solo-una-semana-las-urnas-mientras-vox-se-desploma_7064553_0.html",
+      "fecha": "2026-11-23T11:29+00:00",
+      "partidos": [
+        "pp",
+        "psoe",
+        "vox"
+      ]
+    },
+    {
+      "titulo": "La Justicia llama a declarar a la líder balear de Podemos y a una ilustradora por el cartel de un santo con una sobrassada como pene",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/illes-balears/sociedad/justicia-investiga-lider-balear-ilustradora-cartel-santo-sobrassada-pene_1_13685459.html",
+      "fecha": "2026-11-23T11:18+00:00",
+      "partidos": [
+        "podemos"
+      ]
+    },
+    {
+      "titulo": "El Barómetro del CIS sitúa al PSOE casi diez puntos por encima del PP, mientras baja Vox",
+      "medio": "Europa Press",
+      "url": "https://www.europapress.es/nacional/noticia-cis-situa-psoe-diez-puntos-encima-pp-mientras-bajan-vox-frente-amplio-20261123121531.html",
+      "fecha": "2026-11-23T11:15+00:00",
+      "partidos": [
+        "pp",
+        "psoe",
+        "vox"
+      ]
+    },
+    {
+      "titulo": "Vox se desentiende de la causa de la dana y no acude a la declaración ante la jueza del perito hidráulico que había solicitado",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/comunitat-valenciana/vox-desentiende-causa-dana-no-acude-declaracion-jueza-perito-hidraulico-habia-solicitado_1_13685434.html",
+      "fecha": "2026-11-23T11:10+00:00",
+      "partidos": [
+        "vox"
+      ]
+    },
+    {
+      "titulo": "El CIS sitúa al PSOE en cabeza y diez puntos por delante del PP",
+      "medio": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/politica/20261123/11691034/cis-situa-psoe-cabeza-diez-puntos-delante-pp.html",
+      "fecha": "2026-11-23T11:06+00:00",
+      "partidos": [
+        "pp",
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "El último CIS antes de las elecciones da al PSOE una ventaja de casi diez puntos sobre el PP, que con Vox no suma mayoría absoluta",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/politica/ultimo-cis-elecciones-da-psoe-ventaja-diez-puntos-pp-vox-no-suma-mayoria-absoluta_1_13685466.html",
+      "fecha": "2026-11-23T11:04+00:00",
+      "partidos": [
+        "pp",
+        "psoe",
+        "vox"
+      ]
+    },
+    {
+      "titulo": "El CIS murciano da la victoria al PP en las elecciones generales en la Región, mientras que Vox y PSOE se disputan el décimo escaño",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/murcia/politica/pp-gana-elecciones-generales-region-murcia-vox-psoe-luchan-decimo-escano-cemop_1_13685338.html",
+      "fecha": "2026-11-23T11:04+00:00",
+      "partidos": [
+        "pp",
+        "psoe",
+        "vox"
+      ]
+    },
+    {
+      "titulo": "Abascal se revuelve contra las llamadas del PP al voto útil que tacha de “juego sucio”",
+      "medio": "El País",
+      "url": "https://elpais.com/espana/elecciones-generales/2026-11-23/abascal-se-revuelve-contra-las-llamadas-del-pp-al-voto-util-que-tacha-de-juego-sucio.html",
+      "fecha": "2026-11-23T10:06+00:00",
+      "partidos": [
+        "pp",
+        "vox"
+      ]
+    },
+    {
+      "titulo": "Feijóo define RTVE como una televisión “norcoreana” por la falta de “equidad” con Sánchez",
+      "medio": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/politica/20261123/11690976/feijoo-define-rtve-television-norcoreana-falta-equidad-sanchez.html",
+      "fecha": "2026-11-23T10:05+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "Illa a Feijóo: “Quien no entiende Catalunya, no entiende España y no puede gobernarla”",
+      "medio": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/politica/20261123/11690963/illa-feijoo-no-entiende-catalunya-espana-no-puede-gobernarla-ateneo.html",
+      "fecha": "2026-11-23T09:59+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "Colau advierte al PSOE sobre su estrategia del voto útil: \"Se vota un Gobierno de coalición, no es suficiente con ser la primera fuerza\"",
+      "medio": "20minutos",
+      "url": "https://www.20minutos.es/nacional/colau-advierte-psoe-sobre-su-estrategia-voto-util-se-vota-un-gobierno-coalicion-no-es-suficiente-con-ser-primera-fuerza_7064472_0.html",
+      "fecha": "2026-11-23T09:53+00:00",
+      "partidos": [
+        "psoe",
+        "sumar"
+      ]
+    },
+    {
+      "titulo": "Feijóo asegura que no derogará la eutanasia, sino que hará una \"nueva ley\" con \"un plus para garantizar la vida digna\"",
+      "medio": "El Mundo",
+      "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/23/6b0409f7fc6c83954e8b4578.html",
+      "fecha": "2026-11-23T09:51+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "Feijóo acusa a Sánchez de hacer \"una trampa\" con la 'ley de nietos': \"Está confirmado que ha habido un fraude electoral\"",
+      "medio": "Europa Press",
+      "url": "https://www.europapress.es/nacional/noticia-feijoo-acusa-sanchez-hacer-trampa-ley-nietos-confirmado-habido-fraude-electoral-20261123104947.html",
+      "fecha": "2026-11-23T09:49+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "Feijóo descarta cualquier tipo de acuerdo con Sánchez tras el 29N: \"No pacto con un político amoral\"",
+      "medio": "20minutos",
+      "url": "https://www.20minutos.es/nacional/feijoo-descartar-cualquier-tipo-acuerdo-con-sanchez-tras-29n-no-pacto-con-un-politico-amoral_7064471_0.html",
+      "fecha": "2026-11-23T09:47+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "Feijóo compara a RTVE con la \"televisión norcoreana\" y promete impulsar una nueva ley de eutanasia",
+      "medio": "El Confidencial",
+      "url": "https://www.elconfidencial.com/espana/2026-11-23/feijoo-compara-a-rtve-con-la_4470516/",
+      "fecha": "2026-11-23T09:45+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "La Junta Electoral ordena a la Universidad de Almería censurar una exposición por decir que Vox es extrema derecha",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/andalucia/almeria/junta-electoral-ordena-universidad-almeria-censure-exposicion-calificar-vox-extrema-derecha_1_13685207.html",
+      "fecha": "2026-11-23T09:43+00:00",
+      "partidos": [
+        "vox"
+      ]
+    },
+    {
+      "titulo": "El CIS andaluz le da la victoria al PP en Andalucía el 29N y confirma la irrupción de Adelante Andalucía, que barrería al Frente Amplio",
+      "medio": "El Mundo",
+      "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/23/6b0408defdddff47398b4575.html",
+      "fecha": "2026-11-23T09:38+00:00",
+      "partidos": [
+        "pp",
+        "sumar",
+        "adelante"
+      ]
+    },
+    {
+      "titulo": "Mañueco permite a Vox cambiar una normativa sanitaria ganadera que según los veterinarios dificultará el control de la tuberculosis bovina",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/castilla-y-leon/politica/junta-castilla-leon-deja-vox-cambie-normativa-sanidad-ganadera-veterinarios-advierten-afectara-control-tuberculosis-bovina_1_13685099.html",
+      "fecha": "2026-11-23T09:35+00:00",
+      "partidos": [
+        "vox"
+      ]
+    },
+    {
+      "titulo": "Colau avisa que Sánchez no podrá gobernar sin un Frente Amplio fuerte: \"No es suficiente que el PSOE quede primero\"",
+      "medio": "Europa Press",
+      "url": "https://www.europapress.es/nacional/noticia-colau-avisa-sanchez-no-podra-gobernar-frente-amplio-fuerte-no-suficiente-psoe-quede-primero-20261123101953.html",
+      "fecha": "2026-11-23T09:19+00:00",
+      "partidos": [
+        "psoe",
+        "sumar"
+      ]
+    },
+    {
+      "titulo": "Ministros de Zapatero apoyan a Sánchez ante un posible Gobierno de PP con Vox: \"Nos jugamos el modelo de sociedad\"",
+      "medio": "Europa Press",
+      "url": "https://www.europapress.es/nacional/noticia-ministros-zapatero-apoyan-sanchez-posible-gobierno-pp-vox-nos-jugamos-modelo-sociedad-20261123101755.html",
+      "fecha": "2026-11-23T09:17+00:00",
+      "partidos": [
+        "pp",
+        "vox"
+      ]
+    },
+    {
+      "titulo": "La ministra Robles entra en campaña y bromea con Pedro Sánchez: \"La verdad que está guapo, menudo pájaro\"",
+      "medio": "20minutos",
+      "url": "https://www.20minutos.es/nacional/ministra-robles-entra-campana-bromea-con-pedro-sanchez-menudo-pajaro_7064418_0.html",
+      "fecha": "2026-11-23T08:27+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "Frente Amplio y PSOE coinciden en la agenda sanitaria, pero difieren en su ambición presupuestaria",
+      "medio": "El Mundo",
+      "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/23/6b0089befc6c83d1748b456f.html",
+      "fecha": "2026-11-23T08:19+00:00",
+      "partidos": [
+        "psoe",
+        "sumar"
+      ]
+    },
+    {
+      "titulo": "El 'CIS andaluz' da la victoria al PP en las generales y la irrupción de Adelante Andalucía amortigua la caída del PSOE",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/andalucia/cis-andaluz-da-victoria-pp-generales-bloque-progresista-sorpasa-derechas-auge-adelante-psoe_1_13684900.html",
+      "fecha": "2026-11-23T07:49+00:00",
+      "partidos": [
+        "pp",
+        "psoe",
+        "adelante"
+      ]
+    },
+    {
+      "titulo": "La media de las encuestas en el último día para publicar: sube el PSOE, que concentra el voto de la izquierda, pero las derechas mantienen la mayoría absoluta",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/politica/media-encuestas-ultimo-dia-publicar-sube-psoe-concentra-voto-izquierda-derechas-mantienen-mayoria-absoluta_1_13684611.html",
+      "fecha": "2026-11-23T06:20+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "Cristina Valido (Coalición Canaria): \"Apoyar a un candidato a la investidura, sea del PSOE o del PP, no nos obliga a aceptar acuerdos con otros partidos\"",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/canariasahora/politica/cristina-valido-coalicion-canaria-apoyar-candidato-investidura-sea-psoe-pp-no-obliga-aceptar-acuerdos-partidos_1_13678042.html",
+      "fecha": "2026-11-23T05:01+00:00",
+      "partidos": [
+        "pp",
+        "psoe",
+        "cc"
+      ]
+    },
+    {
+      "titulo": "El PSOE es visto como el mejor defensor de las pensiones",
+      "medio": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/politica/20261123/11690576/psoe-visto-mejor-defensor-pensiones.html",
+      "fecha": "2026-11-23T05:00+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "Jordi Hereu: “Tómenselo como unas presidenciales: o Sánchez o Feijóo y Abascal”",
+      "medio": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/politica/20261123/11690568/jordi-hereu-tomenselo-presidenciales-sanchez-feijoo-abascal.html",
+      "fecha": "2026-11-23T05:00+00:00",
+      "partidos": [
+        "pp",
+        "vox"
+      ]
+    },
+    {
+      "titulo": "¿Qué dice la IA de corrupción? PP y PSOE empatan en respuestas negativas",
+      "medio": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/politica/20261123/11689405/ia-ve-limpios-partidos-esloganes-anticorrupcion.html",
+      "fecha": "2026-11-23T05:00+00:00",
+      "partidos": [
+        "pp",
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "La ventaja de la derecha no cede mientras el PSOE pugna por el primer puesto",
+      "medio": "El País",
+      "url": "https://elpais.com/espana/elecciones-generales/2026-11-23/la-ventaja-de-la-derecha-no-cede-mientras-el-psoe-pugna-por-el-primer-puesto.html",
+      "fecha": "2026-11-23T04:30+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "La batalla del 29-N se aprieta en Alicante y el PP se vuelca para mantener sus cinco diputados",
+      "medio": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/local/valencia/20261123/11690495/batalla-29-n-aprieta-alicante-pp-vuelca-mantener-cinco-diputados.html",
+      "fecha": "2026-11-23T04:30+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "El PSOE sube, pero el PP sigue primero a distancia y tendrá mayoría con Vox",
+      "medio": "20minutos",
+      "url": "https://www.20minutos.es/nacional/psoe-sube-28-pero-sigue-lejos-pp-que-suma-mayoria-absoluta-con-vox_7063769_0.html",
+      "fecha": "2026-11-23T04:00+00:00",
+      "partidos": [
+        "pp",
+        "psoe",
+        "vox"
+      ]
+    },
+    {
+      "titulo": "Más de la mitad de los españoles cree que gobernará Feijóo en coalición por un 38% que piensa que lo hará Sánchez",
+      "medio": "20minutos",
+      "url": "https://www.20minutos.es/nacional/52-los-espanoles-cree-que-pp-vox-gobernaran-tras-29-n-mientras-38-piensa-que-haran-psoe-las-izquierdas_7063809_0.html",
+      "fecha": "2026-11-23T04:00+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "Casi el 80% de los votantes del PSOE cree que deben ser públicas en campaña las operaciones judiciales contra la corrupción",
+      "medio": "20minutos",
+      "url": "https://www.20minutos.es/nacional/casi-80-los-votantes-psoe-cree-que-deben-ser-publicas-las-operaciones-judiciales-contra-corrupcion-durante-campana_7063774_0.html",
+      "fecha": "2026-11-23T04:00+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
       "titulo": "Feijóo: «Aprobaré tres leyes de vivienda, una auditoría general y un plan para el corredor ferroviario de Andalucía»",
       "medio": "ABC",
       "url": "https://www.abc.es/espana/feijoo-aprobare-tres-leyes-vivienda-auditoria-general-20261122014232-nt.html",
@@ -7775,6 +8442,15 @@
       ]
     },
     {
+      "titulo": "Rita Barberá, una figura presente en la vida política del Partido Popular y las izquierdas diez años después de su muerte",
+      "medio": "El Mundo",
+      "url": "https://www.elmundo.es/comunidad-valenciana/2026/11/23/6b02a87de9cf4a00688b4570.html",
+      "fecha": "2026-11-22T23:02+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
       "titulo": "Sánchez dice que no aceptará un referéndum en Cataluña aunque necesite los votos de Junts o ERC para gobernar",
       "medio": "Europa Press",
       "url": "https://www.europapress.es/nacional/noticia-sanchez-dice-no-aceptara-referendum-cataluna-necesite-votos-junts-erc-gobernar-20261122231957.html",
@@ -7803,6 +8479,15 @@
       ]
     },
     {
+      "titulo": "Juan Bravo: \"Con las reformas económicas del PP, el salario medio se colocará en 50.000 euros en ocho años\"",
+      "medio": "El Mundo",
+      "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/22/6b01e1e9e85eced47e8b456d.html",
+      "fecha": "2026-11-22T21:51+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
       "titulo": "Batalla al límite en 23 provincias: menos de 10.000 votos decidirán el último escaño, pero PP y Vox amarran su mayoría",
       "medio": "El Mundo",
       "url": "https://www.elmundo.es/espana/encuestas/2026/11/22/6b033046fc6c830e508b4594.html",
@@ -7810,6 +8495,34 @@
       "partidos": [
         "pp",
         "vox"
+      ]
+    },
+    {
+      "titulo": "Feijóo anticipa sus condiciones a Vox si tiene que negociar tras el 29N: ministros con experiencia y respeto a las autonomías",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/politica/feijoo-anticipa-condiciones-vox-si-negociar-29n-ministros-experiencia-respeto-autonomias_1_13679615.html",
+      "fecha": "2026-11-22T20:39+00:00",
+      "partidos": [
+        "pp",
+        "vox"
+      ]
+    },
+    {
+      "titulo": "Los de la ceja de Abascal: el caldo cultural que extiende el mensaje de Vox",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/cultura/musica/ceja-abascal-caldo-cultural-extiende-mensaje-vox_1_13673049.html",
+      "fecha": "2026-11-22T20:39+00:00",
+      "partidos": [
+        "vox"
+      ]
+    },
+    {
+      "titulo": "El BNG aspira a unificar el voto de izquierdas para un resultado histórico",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/galicia/bng-aspira-unificar-voto-izquierdas-resultado-historico_1_13671734.html",
+      "fecha": "2026-11-22T20:39+00:00",
+      "partidos": [
+        "bng"
       ]
     },
     {
@@ -9823,691 +10536,6 @@
       "medio": "Europa Press",
       "url": "https://www.europapress.es/nacional/noticia-ester-munoz-cree-feijoo-gano-asegura-igualdad-condiciones-ve-verdadero-sanchez-20261120101430.html",
       "fecha": "2026-11-20T09:14+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "El vicepresidente de Vox evita responder sobre los vínculos entre cargos del partido y Núcleo Nacional: “Siguiente pregunta”",
-      "medio": "elDiario.es",
-      "url": "https://www.eldiario.es/catalunya/vicepresidente-vox-evita-responder-vinculos-cargos-partido-nucleo-nacional-siguiente-pregunta_1_13679390.html",
-      "fecha": "2026-11-20T09:06+00:00",
-      "partidos": [
-        "vox"
-      ]
-    },
-    {
-      "titulo": "Las encuestas insisten en dar la victoria a Feijóo y una holgada mayoría absoluta a PP y Vox",
-      "medio": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/politica/20261120/11688932/encuestas-insisten-dar-victoria-feijoo-holgada-mayoria-absoluta-pp-vox.html",
-      "fecha": "2026-11-20T09:06+00:00",
-      "partidos": [
-        "pp",
-        "vox"
-      ]
-    },
-    {
-      "titulo": "La comunicación no verbal de Sánchez y Feijóo: la peligrosa ilusión de saber lo que piensan",
-      "medio": "20minutos",
-      "url": "https://www.20minutos.es/nacional/comunicacion-no-verbal-sanchez-feijoo-peligrosa-ilusion-saber-que-piensan_7063487_0.html",
-      "fecha": "2026-11-20T08:42+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "El cara a cara Sánchez-Feijóo, en frases: de \"el PIB no se come\" al \"perdón a las víctimas de los accidentes ferroviarios\"",
-      "medio": "20minutos",
-      "url": "https://www.20minutos.es/nacional/cara-cara-sanchez-feijoo-frases-pib-no-se-come-perdon-las-victimas-los-accidentes-ferroviarios_7063483_0.html",
-      "fecha": "2026-11-20T08:23+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "El PP da los \"buenos días\" con una foto de Feijóo paseando a su perro en un guiño a Sánchez tras el debate cara a cara",
-      "medio": "20minutos",
-      "url": "https://www.20minutos.es/nacional/pp-da-los-buenos-dias-con-una-foto-feijoo-paseando-un-perro_7063477_0.html",
-      "fecha": "2026-11-20T08:17+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "El 45% ve a Feijóo vencedor en el cara a cara contra Pedro Sánchez pero el voto apenas se mueve",
-      "medio": "elDiario.es",
-      "url": "https://www.eldiario.es/politica/45-ve-feijoo-vencedor-cara-cara-pedro-sanchez-voto-apenas-mueve_1_13678798.html",
-      "fecha": "2026-11-20T08:05+00:00",
-      "partidos": [
-        "pp",
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "Sánchez apela al voto en su ‘minuto de oro’ frente a Feijóo: “Vota con toda tu alma”",
-      "medio": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/politica/20261120/11688886/sanchez-apela-voto-minuto-oro-frente-feijoo-vota-toda-alma.html",
-      "fecha": "2026-11-20T08:02+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "El cara a cara íntegro entre Sánchez y Feijóo",
-      "medio": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/politica/20261120/11688864/cara-cara-integro-sanchez-feijoo.html",
-      "fecha": "2026-11-20T07:56+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Elecciones generales 29N, en directo: el debate entre Sánchez y Feijóo y la última hora de la campaña electoral",
-      "medio": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/politica/20261120/11687945/elecciones-generales-29n-2026-campana-electoral-viernes-20-noviembre-en-directo.html",
-      "fecha": "2026-11-20T07:56+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Feijóo reivindica su gestión y promete un cambio en su ‘minuto de oro’: “Yo sí cumplo”",
-      "medio": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/politica/20261120/11688880/feijoo-reivindica-gestion-promete-cambio-minuto-oro-cumplo.html",
-      "fecha": "2026-11-20T07:55+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "El PSOE fía la movilización en Valencia al tirón de Bernabé y busca recuperarse en el municipio de la secretaria de Organización",
-      "medio": "El Mundo",
-      "url": "https://www.elmundo.es/comunidad-valenciana/2026/11/20/6aff2888fdddff36678b456f.html",
-      "fecha": "2026-11-20T07:39+00:00",
-      "partidos": [
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "Elecciones generales 2026, en directo: resumen del debate ayer entre Sánchez y Feijóo y reacciones al cara a cara",
-      "medio": "Europa Press",
-      "url": "https://www.europapress.es/nacional/noticia-elecciones-generales-2026-directo-resumen-debate-sanchez-feijoo-reacciones-ultima-hora-campana-20261120083023.html",
-      "fecha": "2026-11-20T07:30+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "En busca de la redención y desbordado por Feijóo: ¿Dónde estaba 'Perro Sanxe'?",
-      "medio": "El Mundo",
-      "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/20/6aff2c8cfdddff12628b457d.html",
-      "fecha": "2026-11-20T07:19+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Así fue el incómodo silencio de Sánchez cuando Feijóo le preguntó quién financió sus primarias: \"No me contesta... bien\"",
-      "medio": "20minutos",
-      "url": "https://www.20minutos.es/nacional/asi-fue-incomodo-silencio-sanchez-cuando-feijoo-le-pregunto-quien-financio-sus-primarias-no-me-contesta-bien_7063422_0.html",
-      "fecha": "2026-11-20T04:44+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "El PSOE confía en movilizar a indecisos tras el debate mientras el PP contiene la euforia y pide no confiarse para ampliar su mayoría",
-      "medio": "20minutos",
-      "url": "https://www.20minutos.es/nacional/psoe-confia-movilizar-indecisos-tras-debate-mientras-pp-contiene-euforia-pide-no-confiarse-para-ampliar-su-mayoria_7063349_0.html",
-      "fecha": "2026-11-20T04:00+00:00",
-      "partidos": [
-        "pp",
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "Feijóo acusa a Sánchez de convertir España en «un chollo para las mafias» y sitúa Marruecos en el centro de su fracaso exterior",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/feijoo-acusa-sanchez-convertir-espana-chollo-mafias-20261119234121-nt.html",
-      "fecha": "2026-11-20T01:40+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Feijóo, entre la agresividad y los datos, acorrala a un Sánchez desbordado",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/feijoo-agresividad-datos-acorrala-sanchez-desbordado-20261119234527-nt.html",
-      "fecha": "2026-11-20T01:39+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Feijóo gana a Sánchez en todos los bloques del cara a cara y le deja sin argumentos ante su gestión",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/feijoo-gana-sanchez-bloques-cara-cara-deja-20261119022417-nt.html",
-      "fecha": "2026-11-20T01:24+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "La Audiencia avala al juez Vilaplana y aboca al banquillo a 14 ex altos cargos del PSOE por perder 1,2 millones de los andaluces",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/andalucia/audiencia-avala-juez-vilaplana-aboca-banquillo-altos-20261120022409-nts.html",
-      "fecha": "2026-11-20T01:24+00:00",
-      "partidos": [
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "Vídeo | Los mejores momentos del 'cara a cara' en el primer debate electoral entre Sánchez y Feijóo",
-      "medio": "El Confidencial",
-      "url": "https://www.elconfidencial.com/espana/2026-11-20/video-mejores-momentos-cara-cara-debate-electoral-sanchez-feijoo_4468896/",
-      "fecha": "2026-11-20T01:02+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "El regalo de Puigdemont a PP y Vox",
-      "medio": "elDiario.es",
-      "url": "https://www.eldiario.es/catalunya/regalo-puigdemont-pp-vox_129_13678194.html",
-      "fecha": "2026-11-20T00:43+00:00",
-      "partidos": [
-        "pp",
-        "vox",
-        "junts"
-      ]
-    },
-    {
-      "titulo": "Feijóo y Sánchez: dos horas de partido y ningún gol",
-      "medio": "elDiario.es",
-      "url": "https://www.eldiario.es/opinion/zona-critica/feijoo-sanchez-horas-partido-gol_129_13679072.html",
-      "fecha": "2026-11-20T00:43+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Feijóo quería \"dialogar\"",
-      "medio": "elDiario.es",
-      "url": "https://www.eldiario.es/opinion/zona-critica/feijoo-queria-dialogar_129_13679100.html",
-      "fecha": "2026-11-20T00:43+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Vídeo | El debate íntegro entre Sánchez y Feijóo antes de las elecciones generales del 29-N",
-      "medio": "El Confidencial",
-      "url": "https://www.elconfidencial.com/espana/2026-11-20/feijoo-sanchez-debate-cara-a-cara-elecciones-29n_4468894/",
-      "fecha": "2026-11-20T00:39+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "El cara a cara de Sánchez y Feijóo, en nueve vídeos",
-      "medio": "elDiario.es",
-      "url": "https://www.eldiario.es/politica/cara-cara-sanchez-feijoo-nueve-videos_1_13679028.html",
-      "fecha": "2026-11-20T00:32+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "¿Quién ha ganado el duelo? Los analistas de EL PAÍS dan por vencedor a Feijóo sobre Sánchez",
-      "medio": "El País",
-      "url": "https://elpais.com/espana/elecciones-generales/2026-11-19/quien-ha-ganado-el-duelo-los-analistas-de-el-pais-dan-por-vencedor-a-feijoo-sobre-sanchez.html",
-      "fecha": "2026-11-20T00:22+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "¿Quién ha ganado el debate cara a cara entre Pedro Sánchez y Feijóo?",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/ganador-debate-cara-cara-pedro-sanchez-feijoo-encuesta-20261119214314-nt.html",
-      "fecha": "2026-11-20T00:07+00:00",
-      "partidos": [
-        "pp",
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "Decepción en la izquierda con el papel de Sánchez en el debate: del \"te come Feijóo\" a la \"falta de contundencia\" contra el PP",
-      "medio": "El Mundo",
-      "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/20/6aff88a4fc6c831c7c8b459d.html",
-      "fecha": "2026-11-20T00:04+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Puigdemont, en el minuto uno",
-      "medio": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/politica/20261120/11688598/puigdemont-minuto.html",
-      "fecha": "2026-11-20T00:04+00:00",
-      "partidos": [
-        "junts"
-      ]
-    },
-    {
-      "titulo": "Feijóo sale fortalecido del cara a cara ante un Sánchez comedido",
-      "medio": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/politica/20261120/11688596/feijoo-sale-fortalecido-cara-cara-sanchez-comedido.html",
-      "fecha": "2026-11-20T00:00+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "El mensaje de Rufián a Sánchez durante el cara a cara: \"Si Feijóo te come así es que o no te lo has preparado o estás mal asesorado\"",
-      "medio": "El Confidencial",
-      "url": "https://www.elconfidencial.com/espana/2026-11-20/rufian-feijoo-sanchez-debate-cara-a-cara-elecciones-29n_4468880/",
-      "fecha": "2026-11-19T23:56+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Sánchez se queja de la \"mala educación\" de Feijóo y llama a los militantes a \"sudar la camiseta\" hasta el final",
-      "medio": "Europa Press",
-      "url": "https://www.europapress.es/nacional/noticia-sanchez-queja-mala-educacion-feijoo-llama-militantes-sudar-camiseta-final-20261120005447.html",
-      "fecha": "2026-11-19T23:54+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Feijóo celebra el resultado con decenas de cargos y militantes del PP pero avisa: \"Esto no ha acabado\"",
-      "medio": "Europa Press",
-      "url": "https://www.europapress.es/nacional/noticia-feijoo-celebra-resultado-decenas-cargos-militantes-pp-avisa-esto-no-acabado-20261120005343.html",
-      "fecha": "2026-11-19T23:53+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Euforia en la sede del PP y gritos de \"¡Sí, sí, sí, el cambio ya está aquí!\" ante un Feijóo que se siente \"satisfecho por el debate\" con Sánchez",
-      "medio": "20minutos",
-      "url": "https://www.20minutos.es/nacional/euforia-sede-pp-gritos-si-si-si-cambio-ya-esta-aqui-ante-un-feijoo-que-se-siente-satisfecho-por-debate-con-sanchez_7063413_0.html",
-      "fecha": "2026-11-19T23:51+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Ministros del Gobierno defienden el \"modelo de país\" de Sánchez ante la \"ley de la selva\" de Feijóo",
-      "medio": "Europa Press",
-      "url": "https://www.europapress.es/nacional/noticia-ministros-gobierno-defienden-modelo-pais-sanchez-ley-selva-feijoo-20261120005103.html",
-      "fecha": "2026-11-19T23:51+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Cara a cara Sánchez - Feijóo, en directo: ganador del debate por las elecciones generales, resultado y reacciones hoy",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/debate-pedro-sanchez-feijoo-directo-resultado-ganador-20261119200902-di.html",
-      "fecha": "2026-11-19T23:50+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "La ofensiva de Feijóo a Sánchez desata la euforia en el PP",
-      "medio": "El País",
-      "url": "https://elpais.com/espana/elecciones-generales/2026-11-19/la-ofensiva-de-feijoo-a-sanchez-desata-la-euforia-en-el-pp.html",
-      "fecha": "2026-11-19T23:49+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Un Sánchez contenido evita el choque contra un Feijóo al ataque",
-      "medio": "elDiario.es",
-      "url": "https://www.eldiario.es/politica/sanchez-contenido-evita-choque-feijoo-ataque_1_13678837.html",
-      "fecha": "2026-11-19T23:42+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Feijóo acorrala a un Sánchez noqueado por la corrupción y su gestión",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/feijoo-acorrala-sanchez-noqueado-corrupcion-gestion-20261119235946-nt.html",
-      "fecha": "2026-11-19T23:42+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Los 13 momentos que deciden el cara a cara: del silencio total de Sánchez sobre Puigdemont al temor al AVE de Feijóo",
-      "medio": "El Mundo",
-      "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/20/6aff2af521efa08f5f8b4595.html",
-      "fecha": "2026-11-19T23:37+00:00",
-      "partidos": [
-        "pp",
-        "junts"
-      ]
-    },
-    {
-      "titulo": "Rufián arremete contra Sánchez: \"Si Feijóo te come así en un debate es que no te lo has preparado o estás mal asesorado\"",
-      "medio": "20minutos",
-      "url": "https://www.20minutos.es/nacional/rufian-arremete-contra-sanchez-si-feijoo-te-come-asi-un-debate-es-que-no-te-has-preparado-estas-mal-asesorado_7063409_0.html",
-      "fecha": "2026-11-19T23:35+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Perro de marrón, poco mordedor y la inesperada web sorpresa del PP: el debate en las redes",
-      "medio": "El País",
-      "url": "https://elpais.com/espana/elecciones-generales/2026-11-19/perro-de-marron-poco-mordedor-y-la-inesperada-web-sorpresa-del-pp-el-debate-en-las-redes.html",
-      "fecha": "2026-11-19T23:35+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Ferraz arropa a Pedro Sánchez tras el cara a cara y el presidente presume de su tono en el debate: \"Buena política y mala educación\"",
-      "medio": "20minutos",
-      "url": "https://www.20minutos.es/nacional/ferraz-arropa-sanchez-tras-cara-cara-presidente-presume-su-tono-calmado-debate-buena-politica-mala-educacion_7063411_0.html",
-      "fecha": "2026-11-19T23:34+00:00",
-      "partidos": [
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "Feijóo apela a la \"decencia\" y a la \"gestión\" ante un Sánchez que pide \"perseverar en los avances\" y votar \"con el alma\"",
-      "medio": "20minutos",
-      "url": "https://www.20minutos.es/nacional/feijoo-apela-decencia-gestion-ante-un-sanchez-que-pide-perseverar-los-avances-votar-con-alma_7063408_0.html",
-      "fecha": "2026-11-19T23:30+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "¿Quién ha ganado el cara a cara entre Sánchez y Feijóo?",
-      "medio": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/politica/20261120/11688475/ganado-cara-cara.html",
-      "fecha": "2026-11-19T23:29+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Un Sánchez \"contenido\" busca refugio en Obama para hacer un control de daños en el cara a cara con Feijóo",
-      "medio": "El Mundo",
-      "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/20/6aff841fe85ece633b8b45a6.html",
-      "fecha": "2026-11-19T23:25+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Feijóo sorprende ante un Sánchez incómodo",
-      "medio": "El País",
-      "url": "https://elpais.com/opinion/2026-11-19/feijoo-sorprende-ante-un-sanchez-incomodo.html",
-      "fecha": "2026-11-19T23:23+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Jéssica Feijóo vs. Maricarmen Sánchez",
-      "medio": "El País",
-      "url": "https://elpais.com/opinion/2026-11-19/jessica-feijoo-vs-maricarmen-sanchez.html",
-      "fecha": "2026-11-19T23:23+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "El perro no ladra, Feijóo lo aprovecha",
-      "medio": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/politica/20261120/11688590/perro-ladra-feijoo-aprovecha.html",
-      "fecha": "2026-11-19T23:23+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Santiago Abascal, el patrón de Vox",
-      "medio": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/politica/20261120/11688486/santiago-abascal-patron-vox.html",
-      "fecha": "2026-11-19T23:23+00:00",
-      "partidos": [
-        "vox"
-      ]
-    },
-    {
-      "titulo": "Feijóo imita el estilo más duro de Abascal y Sánchez no le responde con la misma energía",
-      "medio": "elDiario.es",
-      "url": "https://www.eldiario.es/politica/feijoo-sanchez-debate-campana-elecciones_129_13678923.html",
-      "fecha": "2026-11-19T23:17+00:00",
-      "partidos": [
-        "pp",
-        "vox"
-      ]
-    },
-    {
-      "titulo": "El hombre que acabó con Pedro Sánchez",
-      "medio": "El Mundo",
-      "url": "https://www.elmundo.es/espana/2026/11/20/6aff80cefdddffdf3c8b4578.html",
-      "fecha": "2026-11-19T23:14+00:00",
-      "partidos": [
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "El minuto de oro de Feijóo: «España necesita servidores competentes y decentes»",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/minuto-oro-feijoo-gobernar-gobernado-gestionar-gestionado-20261119234156-nt.html",
-      "fecha": "2026-11-19T23:14+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Feijóo se lanza al ataque ante un Sánchez que evita el cuerpo a cuerpo",
-      "medio": "El País",
-      "url": "https://elpais.com/espana/elecciones-generales/2026-11-19/feijoo-enmienda-ocho-anos-de-gobierno-ante-un-sanchez-que-evita-la-confrontacion.html",
-      "fecha": "2026-11-19T23:13+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Feijóo acorrala a Sánchez: «¿Amañó usted las primarias de su partido?»",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/feijoo-acorrala-sanchez-amano-primarias-partido-20261119233145-nt.html",
-      "fecha": "2026-11-19T23:12+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "“Tiene más imputados que diputados” y otras frases del cara a cara entre Sánchez y Feijóo",
-      "medio": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/politica/20261120/11688585/mas-imputados-diputados-frases-cara-cara-sanchez-feijoo.html",
-      "fecha": "2026-11-19T23:11+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Pedro Sánchez se ha aficionado al ajedrez",
-      "medio": "elDiario.es",
-      "url": "https://www.eldiario.es/opinion/zona-critica/pedro-sanchez-aficionado-ajedrez_129_13679056.html",
-      "fecha": "2026-11-19T23:10+00:00",
-      "partidos": [
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "Euforia total en Génova: \"Ha sido un meneo, esto se acabó\"",
-      "medio": "El Mundo",
-      "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/20/6aff2a3b21efa0db4c8b45b0.html",
-      "fecha": "2026-11-19T23:09+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Piano, desayuno en tupper y banderas de España en Barcelona para el tour de Ayuso: \"Soy optimista, Feijóo está muy fuerte; ha comprobado en Madrid el rostro implacable del sanchismo\"",
-      "medio": "El Mundo",
-      "url": "https://www.elmundo.es/madrid/2026/11/20/6aff39cdfc6c83d7128b4582.html",
-      "fecha": "2026-11-19T23:02+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Minuto de oro en el cara a cara: Feijóo presume de su experiencia mientras que Sánchez llama a votar el 29N \"con el alma\"",
-      "medio": "20minutos",
-      "url": "https://www.20minutos.es/nacional/minuto-oro-cara-cara-feijoo-pone-valor-su-experiencia-mientras-que-sanchez-intenta-movilizar-electorado_7063407_0.html",
-      "fecha": "2026-11-19T23:01+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Feijóo frente a Sánchez, sus mejores frases en el cara a cara: «Usted conoce más a Jésica o Andrea que a Maricarmen»",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/feijoo-frente-sanchez-mejores-frases-cara-cara-20261119225050-nt.html",
-      "fecha": "2026-11-19T22:54+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Feijóo se despide del debate presumiendo de su perfil gestor y de saber gobernar: \"Yo sí cumplo\"",
-      "medio": "Europa Press",
-      "url": "https://www.europapress.es/nacional/noticia-feijoo-despide-debate-presumiendo-perfil-gestor-saber-gobernar-yo-si-cumplo-20261119234819.html",
-      "fecha": "2026-11-19T22:48+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Todas las mentiras del cara a cara entre Sánchez y Feijóo",
-      "medio": "elDiario.es",
-      "url": "https://www.eldiario.es/politica/mentiras-cara-cara_1_13678947.html",
-      "fecha": "2026-11-19T22:45+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Sánchez y Feijóo no se miran porque no pueden ni verse",
-      "medio": "El País",
-      "url": "https://elpais.com/espana/elecciones-generales/2026-11-19/sanchez-y-feijoo-ni-se-miran-porque-no-pueden-ni-verse.html",
-      "fecha": "2026-11-19T22:40+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Feijóo reprocha a Sánchez su posición ante la entrada masiva en Ceuta: \"¿Qué le debe usted a Marruecos?\"",
-      "medio": "El Confidencial",
-      "url": "https://www.elconfidencial.com/espana/2026-11-19/feijoo-sanchez-debate-elecciones-29n-marruecos_4468866/",
-      "fecha": "2026-11-19T22:39+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Feijóo ataca a Sánchez con la corrupción y las \"guarradas\" del Gobierno y el presidente rechaza lecciones del PP",
-      "medio": "Europa Press",
-      "url": "https://www.europapress.es/nacional/noticia-feijoo-ataca-sanchez-corrupcion-guarradas-gobierno-presidente-rechaza-lecciones-pp-20261119233103.html",
-      "fecha": "2026-11-19T22:31+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Irene Montero reprocha a Sánchez y Feijóo sus argumentos en el debate: \"Les escuchas y más ganas te entran de otra huelga general\"",
-      "medio": "20minutos",
-      "url": "https://www.20minutos.es/nacional/irene-montero-reprocha-sanchez-feijoo-sus-argumentos-debate-les-escuchas-mas-ganas-te-entran-otra-huelga-general_7063406_0.html",
-      "fecha": "2026-11-19T22:26+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Sánchez pregunta si el PP hará recortes para cumplir el 5% en Defensa y Feijóo garantiza los servicios públicos",
-      "medio": "Europa Press",
-      "url": "https://www.europapress.es/nacional/noticia-sanchez-pregunta-si-pp-hara-recortes-cumplir-defensa-feijoo-garantiza-servicios-publicos-20261119232427.html",
-      "fecha": "2026-11-19T22:24+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Mentiras y medias verdades del debate cara a cara entre Pedro Sánchez y Alberto Núñez Feijóo",
-      "medio": "El País",
-      "url": "https://elpais.com/espana/elecciones-generales/2026-11-19/mentiras-y-medias-verdades-del-debate-cara-a-cara-entre-pedro-sanchez-y-alberto-nunez-feijoo.html",
-      "fecha": "2026-11-19T22:17+00:00",
-      "partidos": [
-        "pp",
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "Sánchez pide perdón a víctimas de Adamuz y Urda, a instancias de Feijóo: \"Es un dolor que me llevaré conmigo\"",
-      "medio": "Europa Press",
-      "url": "https://www.europapress.es/nacional/noticia-sanchez-pide-perdon-victimas-adamuz-urda-instancias-feijoo-dolor-me-llevare-conmigo-20261119230618.html",
-      "fecha": "2026-11-19T22:06+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Feijóo baja a Sánchez del \"cohete\" económico y le afea la corrupción: \"Ha llenado el gobierno de pelotas\"",
-      "medio": "Europa Press",
-      "url": "https://www.europapress.es/nacional/noticia-feijoo-baja-sanchez-cohete-economico-le-afea-corrupcion-llenado-gobierno-pelotas-20261119230425.html",
-      "fecha": "2026-11-19T22:04+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Tú a por la dana y yo a por el diputado por Castellón: Ada Colau y Rufián se estrenan con Compromís-Front Valencià",
-      "medio": "elDiario.es",
-      "url": "https://www.eldiario.es/comunitat-valenciana/politica/dana-diputado-castellon-ada-colau-rufian-estrenan-compromis-front-valencia_1_13676298.html",
-      "fecha": "2026-11-19T22:01+00:00",
-      "partidos": [
-        "sumar",
-        "compromis"
-      ]
-    },
-    {
-      "titulo": "Feijóo exige a Sánchez que pida perdón en el cara a cara por Urda y Adamuz: \"¿Si se muriera un familiar suyo se pondría a bailar?\"",
-      "medio": "El Confidencial",
-      "url": "https://www.elconfidencial.com/espana/2026-11-19/feijoo-sanchez-urda-adamuz-debate-elecciones_4468853/",
-      "fecha": "2026-11-19T22:00+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "\"Estoy medio-medio de acuerdo con usted\", \"Yo coincido...\": los comentarios de Sánchez ante Feijóo que han 'descolocado' a las redes",
-      "medio": "20minutos",
-      "url": "https://www.20minutos.es/nacional/estoy-medio-acuerdo-con-usted-yo-coincido-los-comentarios-sanchez-ante-feijoo-que-han-descolocado-las-redes_7063404_0.html",
-      "fecha": "2026-11-19T21:57+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Sánchez exige a Feijóo en el cara a cara mediar con la patronal por los salarios y el líder del PP replica: \"¿Usted controla los sindicatos?\"",
-      "medio": "El Confidencial",
-      "url": "https://www.elconfidencial.com/espana/2026-11-19/sanchez-feijoo-debate-elecciones-29n_4468848/",
-      "fecha": "2026-11-19T21:56+00:00",
       "partidos": [
         "pp"
       ]
