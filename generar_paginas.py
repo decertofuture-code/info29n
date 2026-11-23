@@ -85,9 +85,10 @@ def pagina(ruta, titulo, descripcion, cuerpo, interactiva, imagen="/og-image.png
 <link rel="stylesheet" href="/estatico.css">
 </head>
 <body>
-<div class="strip" aria-hidden="true"><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span></div>
-<nav class="top"><a class="brand" href="/">29N</a><a class="go" href="/{interactiva}">Ver en la web interactiva →</a></nav>
-<main>
+<a class="skip" href="#contenido">Saltar al contenido</a>
+<header class="top"><a class="brand" href="/">info<b>29n</b></a><a class="go" href="/{interactiva}">Ver en la web interactiva</a></header>
+<nav class="secciones" aria-label="Secciones de la web"><a href="/#partidos">Partidos</a><a href="/#programas">Propuestas</a><a href="/#comparador">Comparador</a><a href="/#votaciones">Votaciones</a><a href="/#medios">Noticias</a><a href="/#como-votar">Cómo votar</a></nav>
+<main id="contenido">
 {cuerpo}
 </main>
 <footer>
@@ -102,6 +103,8 @@ def pagina(ruta, titulo, descripcion, cuerpo, interactiva, imagen="/og-image.png
     destino.parent.mkdir(parents=True, exist_ok=True)
     destino.write_text(doc, encoding="utf-8")
     return url
+
+SIMBOLO = {"si": "✓", "no": "✕", "matiz": "≈", "sin": "–", "pend": "…", "coal": "…"}
 
 def indice():
     p = " · ".join(f'<a href="/partido/{x["id"]}/">{e(x["name"])}</a>' for x in PARTIDOS)
@@ -119,7 +122,7 @@ def fila_postura(q, pid):
     cita = ""
     if x and x.get("cita"):
         cita = f'<small>«{e(x["cita"])}»' + (f' (pág. {x["pagina"]})' if x.get("pagina") else "") + "</small>"
-    return f'<li><span>{e(q["pregunta"])}{cita}</span><span class="badge p-{k}">{etiqueta(k, pid)}</span></li>'
+    return f'<li><span>{e(q["pregunta"])}{cita}</span><span class="badge p-{k}"><i aria-hidden="true">{SIMBOLO.get(k, "")}</i>{etiqueta(k, pid)}</span></li>'
 
 def fila_voto(v, pid):
     c, l = voto(v, pid)
@@ -268,7 +271,7 @@ def paginas_comparador():
                 enlace = f' <a class="src" href="{e(x.get("fuente"))}" rel="noopener">{"Programa, pág. " + str(x.get("pagina")) if x.get("pagina") else "Fuente"}</a>' if x.get("fuente") else ""
                 cita = f'<blockquote>«{e(x["cita"])}»{enlace}</blockquote>'
 
-            filas += f'<li><span><a href="/partido/{p["id"]}/">{e(p["name"])}</a>{cita}</span><span class="badge p-{k}">{etiqueta(k, p["id"])}</span></li>'
+            filas += f'<li><span><a href="/partido/{p["id"]}/">{e(p["name"])}</a>{cita}</span><span class="badge p-{k}"><i aria-hidden="true">{SIMBOLO.get(k, "")}</i>{etiqueta(k, p["id"])}</span></li>'
         n = len(PROGRAMAS)
         estado = f"Programas analizados: {n} de {len(PARTIDOS)}." if n else "Todavía no se ha publicado ningún programa. Las posturas aparecerán a medida que los partidos los presenten."
         cuerpo = f"""<header class="head"><p class="kicker">Comparador · <a href="/tema/{q["tema"]}/">{e(TEMA.get(q["tema"], ""))}</a></p><h1>{e(q["pregunta"])}</h1>
