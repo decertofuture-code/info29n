@@ -616,8 +616,8 @@ input[type=search]::-webkit-search-cancel-button{-webkit-appearance:none;display
     <div class="filtro">
       <h2 class="vh">Partidos que se muestran</h2>
       <h3 aria-hidden="true">Elige qué partidos comparar</h3>
-      <div class="chips desliza" id="part-chips" role="group" aria-label="Partidos que se muestran"></div>
-      <div class="acciones">
+      <div class="chips desliza js-part-chips" role="group" aria-label="Partidos que se muestran"></div>
+      <div class="acciones js-part-acc">
         <button type="button" class="enlace" data-sel="todos">Todos</button>
         <button type="button" class="enlace" data-sel="nac">Solo los que se presentan en toda España</button>
         <button type="button" class="enlace" data-sel="ninguno">Ninguno</button>
@@ -641,7 +641,17 @@ input[type=search]::-webkit-search-cancel-button{-webkit-appearance:none;display
     <h1 id="comparador-h">¿Quién propone qué?</h1>
     <p class="intro">La postura de cada partido en las cuestiones más debatidas, según lo que dice su programa. Pulsa una casilla para leer la cita y la página.</p>
     <p class="muted" id="cmp-status"></p>
-    <div class="chips desliza" id="cmp-filtro" role="group" aria-label="Filtrar por tema"></div>
+    <div class="chips desliza" id="cmp-filtro" role="group" aria-label="Filtrar por tema" style="margin-bottom:1.25rem"></div>
+    <div class="filtro">
+      <h2 class="vh">Partidos que se muestran</h2>
+      <h3 aria-hidden="true">Elige qué partidos comparar</h3>
+      <div class="chips desliza js-part-chips" role="group" aria-label="Partidos que se muestran"></div>
+      <div class="acciones js-part-acc">
+        <button type="button" class="enlace" data-sel="todos">Todos</button>
+        <button type="button" class="enlace" data-sel="nac">Solo los que se presentan en toda España</button>
+        <button type="button" class="enlace" data-sel="ninguno">Ninguno</button>
+      </div>
+    </div>
     <div class="leyenda" aria-hidden="true">
       <span class="pos si"><i>✓</i>Sí</span><span class="pos no"><i>✕</i>No</span><span class="pos matiz"><i>≈</i>Con matices</span><span class="pos sin"><i>–</i>No se pronuncia</span>
     </div>
@@ -950,11 +960,11 @@ $("#ent-temas").addEventListener("click",e=>{const b=e.target.closest("[data-et]
 let selPartidos=null, abiertos=new Set();
 function renderPropuestas(){
   if(!tema||!TOPICS.some(t=>t.id===tema)) tema=TOPICS[0].id;
-  if(!selPartidos){const g=ls.get("info29n-partidos");selPartidos=new Set(Array.isArray(g)?g.filter(id=>PARTIES.some(p=>p.id===id)):PARTIES.map(p=>p.id));}
+  initSel();
   const t=TOPICS.find(x=>x.id===tema);
   $("#tema-chips").innerHTML=TOPICS.map(x=>`<a class="chip" href="#tema-${x.id}" data-tema="${x.id}" aria-pressed="${x.id===tema}">${icono(x.id)}${esc(x.name)}<span class="pct">${(x.cis||0).toLocaleString("es-ES",{minimumFractionDigits:1})} %</span></a>`).join("");
   $("#tema-cab").innerHTML=`<div class="tema-cab" data-tema="${t.id}"><span class="ic">${icono(t.id)}</span><div><h2>${esc(t.name)}</h2><p>${esc(t.desc||"")}</p></div></div>`;
-  $("#part-chips").innerHTML=PARTIES.map(p=>`<button type="button" class="chip mini partido" data-p="${p.id}" aria-pressed="${selPartidos.has(p.id)}" style="${pstyle(p.id)}"><i class="dot"></i>${esc(pcorto(p.id))}</button>`).join("");
+  pintarSel();
   const lista=PARTIES.filter(p=>selPartidos.has(p.id));
   $("#props").innerHTML=lista.length?lista.map(p=>{
     const m=visibles(p.id,tema), key=p.id+"|"+tema, todo=abiertos.has(key), ver=todo?m:m.slice(0,3);
@@ -967,9 +977,12 @@ function renderPropuestas(){
       ${votos}</article>`;
   }).join(""):`<p class="vacio-p">No has elegido ningún partido. Pulsa sus nombres arriba para verlos.</p>`;
 }
-$("#part-chips").addEventListener("click",e=>{const b=e.target.closest("[data-p]");if(!b)return;const id=b.dataset.p;selPartidos.has(id)?selPartidos.delete(id):selPartidos.add(id);ls.set("info29n-partidos",[...selPartidos]);renderPropuestas();});
-$("#programas .acciones").addEventListener("click",e=>{const b=e.target.closest("[data-sel]");if(!b)return;const k=b.dataset.sel;
-  selPartidos=new Set(k==="todos"?PARTIES.map(p=>p.id):k==="nac"?PARTIES.filter(nacional).map(p=>p.id):[]);ls.set("info29n-partidos",[...selPartidos]);renderPropuestas();});
+function initSel(){if(!selPartidos){const g=ls.get("info29n-partidos");selPartidos=new Set(Array.isArray(g)?g.filter(id=>PARTIES.some(p=>p.id===id)):PARTIES.map(p=>p.id));}}
+function pintarSel(){const h=PARTIES.map(p=>`<button type="button" class="chip mini partido" data-p="${p.id}" aria-pressed="${selPartidos.has(p.id)}" style="${pstyle(p.id)}"><i class="dot"></i>${esc(pcorto(p.id))}</button>`).join("");$$(".js-part-chips").forEach(el=>el.innerHTML=h);}
+function cambioSel(){ls.set("info29n-partidos",[...selPartidos]);if(!$("#programas").hidden)renderPropuestas();if(!$("#comparador").hidden)renderComparador();}
+$$(".js-part-chips").forEach(el=>el.addEventListener("click",e=>{const b=e.target.closest("[data-p]");if(!b)return;const id=b.dataset.p;selPartidos.has(id)?selPartidos.delete(id):selPartidos.add(id);cambioSel();}));
+$$(".js-part-acc").forEach(el=>el.addEventListener("click",e=>{const b=e.target.closest("[data-sel]");if(!b)return;const k=b.dataset.sel;
+  selPartidos=new Set(k==="todos"?PARTIES.map(p=>p.id):k==="nac"?PARTIES.filter(nacional).map(p=>p.id):[]);cambioSel();}));
 $("#props").addEventListener("click",e=>{const b=e.target.closest("[data-mas]");if(!b)return;const k=b.dataset.mas;abiertos.has(k)?abiertos.delete(k):abiertos.add(k);renderPropuestas();
   const nb=$(`[data-mas="${CSS.escape(k)}"]`);if(nb)nb.focus();});
 
@@ -1035,13 +1048,14 @@ function renderComparador(){
   const n=Object.keys(PROGRAMAS).length;
   $("#cmp-status").textContent=n?`Programas analizados: ${n} de ${PARTIES.length}. Datos del ${fdatetime(UPDATED)}.`:"Todavía no se ha publicado ningún programa.";
   const on=q=>cmpTema==="todos"||q.tema===cmpTema;
+  initSel(); pintarSel(); const LP=PARTIES.filter(p=>selPartidos.has(p.id));
   const sel=PREGUNTAS.find(q=>q.id===pregunta);
   $("#cmp-tabla").innerHTML=`<table class="tabla"><caption class="vh">Postura de cada partido en cada pregunta</caption><thead><tr><th scope="col">Partido</th>${PREGUNTAS.map(q=>`<th scope="col" data-tema="${q.tema}" class="${on(q)?"":"apagada"} ${sel&&sel.id===q.id?"sel":""}"><button type="button" data-q="${q.id}" title="${esc(q.pregunta)}"><span class="etq">${esc(tname(q.tema).split(" ")[0])}</span><span>${esc(q.corta||CORTA[q.id]||q.pregunta)}</span></button></th>`).join("")}</tr></thead>
-    <tbody>${PARTIES.map(p=>`<tr><th scope="row"><a href="#partido-${p.id}" style="${pstyle(p.id)}"><i class="dot"></i>${esc(p.name)}</a></th>${PREGUNTAS.map(q=>{const {k,c}=postura(q,p.id);const [cls,lbl,sym]=POSTURA[k];const txt=k==="coal"&&c?`Programa del ${pcorto(c.programa_de)}`:lbl;
+    <tbody>${LP.length?"":`<tr><td colspan="${PREGUNTAS.length+1}" style="text-align:left;padding:1rem 1.1rem" class="muted">No has elegido ningún partido. Pulsa sus nombres arriba para verlos.</td></tr>`}${LP.map(p=>`<tr><th scope="row"><a href="#partido-${p.id}" style="${pstyle(p.id)}"><i class="dot"></i>${esc(p.name)}</a></th>${PREGUNTAS.map(q=>{const {k,c}=postura(q,p.id);const [cls,lbl,sym]=POSTURA[k];const txt=k==="coal"&&c?`Programa del ${pcorto(c.programa_de)}`:lbl;
       return `<td class="${on(q)?"":"apagada"} ${sel&&sel.id===q.id?"sel":""}"><button type="button" class="${cls}" data-q="${q.id}" data-p="${p.id}" aria-label="${esc(p.name)}. ${esc(q.pregunta)} ${esc(txt)}">${k==="coal"?"=":sym}</button></td>`;}).join("")}</tr>`).join("")}</tbody></table>`;
   if(!sel){$("#cmp-detalle").innerHTML='<p class="pista">Pulsa una casilla o el título de una pregunta para ver las citas de todos los partidos.</p>';return;}
   $("#cmp-detalle").innerHTML=`<article class="card detalle" data-tema="${sel.tema}" id="pregunta-${sel.id}-detalle"><span class="etq">${icono(sel.tema)}${esc(tname(sel.tema))}</span><h2>${esc(sel.pregunta)}</h2><p>${esc(sel.explicacion||"")}</p>
-    <ul class="lista">${PARTIES.map(p=>{const {k,x,c}=postura(sel,p.id);return `<li class="${p.id===preguntaPartido?"marcado":""}" id="det-${p.id}"><span class="t"><a href="#partido-${p.id}" style="${pstyle(p.id)}"><i class="dot"></i>${esc(p.name)}</a>${x&&x.cita?citaHTML(x.cita,x.pagina,x.fuente,"Ver cita"):""}</span>${posHTML(k,c)}</li>`;}).join("")}</ul>
+    <ul class="lista">${LP.map(p=>{const {k,x,c}=postura(sel,p.id);return `<li class="${p.id===preguntaPartido?"marcado":""}" id="det-${p.id}"><span class="t"><a href="#partido-${p.id}" style="${pstyle(p.id)}"><i class="dot"></i>${esc(p.name)}</a>${x&&x.cita?citaHTML(x.cita,x.pagina,x.fuente,"Ver cita"):""}</span>${posHTML(k,c)}</li>`;}).join("")}</ul>
     <div class="detalle-pie"><a class="btn js-compartir" href="/comparador/${sel.id}/">Compartir esta pregunta</a><button type="button" class="enlace js-cerrar-det">Cerrar</button></div></article>`;
   if(preguntaPartido){const d=$("#det-"+preguntaPartido+" details");if(d)d.open=true;}
 }
