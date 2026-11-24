@@ -101,11 +101,13 @@ def pagina(ruta, titulo, descripcion, cuerpo, interactiva, imagen="/og-image.png
 <meta name="twitter:description" content="{e(descripcion)}">
 <meta name="twitter:image" content="{WEB}{imagen}">
 <link rel="preload" href="/atkinson-400.woff2" as="font" type="font/woff2" crossorigin>
+<meta name="theme-color" content="#FFFFFF">
+<script src="/modo.js"></script>
 <link rel="stylesheet" href="/estatico.css">
 </head>
 <body>
 <a class="skip" href="#contenido">Saltar al contenido</a>
-<header class="top"><a class="brand" href="/">info<b>29n</b></a><a class="go" href="/{interactiva}">Ver en la web interactiva</a></header>
+<header class="top"><a class="brand" href="/">info<b>29n</b></a><span class="top-d"><button type="button" class="modo js-modo" aria-label="Cambiar de modo claro u oscuro"><svg class="i-luna" viewBox="0 0 24 24" aria-hidden="true"><path d="M20 14.5A8 8 0 1 1 9.5 4a6.5 6.5 0 0 0 10.5 10.5z"/></svg><svg class="i-sol" viewBox="0 0 24 24" aria-hidden="true"><circle cx="12" cy="12" r="4"/><path d="M12 2.5v2M12 19.5v2M2.5 12h2M19.5 12h2M5.3 5.3l1.4 1.4M17.3 17.3l1.4 1.4M5.3 18.7l1.4-1.4M17.3 6.7l1.4-1.4"/></svg></button><a class="go" href="/{interactiva}">Ver en la web interactiva</a></span></header>
 <nav class="secciones" aria-label="Secciones de la web"><a href="/#partidos">Partidos</a><a href="/#programas">Propuestas</a><a href="/#comparador">Comparador</a><a href="/#votaciones">Votaciones</a><a href="/#medios">Noticias</a><a href="/#como-votar">Cómo votar</a></nav>
 <main id="contenido">
 {cuerpo}

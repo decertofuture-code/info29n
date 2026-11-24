@@ -23,6 +23,8 @@
 <meta name="twitter:image:alt" content="Mapa de España junto al texto: Elecciones generales, 29 de noviembre. info29n.com">
 <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 1000 800'><path d='M587,53L587,57L590,62L593,63L599,66L604,66L611,67L616,70L616,74L615,79L612,84L611,87L612,89L615,90L617,91L619,90L620,88L623,84L624,84L624,86L626,88L634,92L653,99L660,99L666,100L667,103L679,114L682,114L687,114L694,113L698,111L701,111L704,114L708,115L713,119L718,124L721,125L740,122L744,125L748,125L753,124L764,125L772,125L773,124L774,114L775,110L777,109L783,110L801,116L809,120L817,123L823,123L827,125L833,134L832,139L833,141L834,144L833,148L835,150L838,151L842,150L846,148L853,144L855,144L867,148L872,151L874,155L876,158L880,159L885,155L893,152L906,155L921,159L927,160L927,158L929,155L931,153L935,153L940,151L946,148L952,147L958,149L966,151L970,151L972,157L976,160L977,165L971,168L967,168L965,178L967,180L971,183L972,186L973,200L965,208L954,217L901,247L888,262L884,265L844,274L816,284L803,288L787,305L779,312L785,314L792,322L790,325L779,331L775,333L772,332L770,333L752,362L736,383L727,393L718,406L699,442L699,452L708,488L714,497L721,505L736,512L740,518L735,524L720,535L695,550L684,562L682,574L675,579L672,595L667,605L666,609L662,617L661,623L669,631L665,634L661,636L652,637L622,638L598,655L586,671L576,699L562,716L556,719L547,712L536,711L525,713L520,719L511,723L502,720L483,718L474,718L461,723L450,720L431,718L390,722L384,724L379,731L366,743L346,744L328,752L323,757L316,770L313,781L312,781L310,778L307,779L306,787L299,790L293,791L279,785L267,776L261,775L251,761L247,751L244,741L245,738L244,734L235,730L233,721L239,709L245,704L248,703L240,703L234,711L227,699L197,675L199,669L198,666L193,673L190,674L174,673L157,676L152,651L150,642L149,635L154,621L159,615L165,603L174,593L182,591L186,590L189,582L191,575L190,575L180,576L162,548L162,544L164,537L166,529L166,523L171,517L178,511L184,503L187,495L188,488L185,483L175,480L164,460L162,447L160,446L154,440L148,430L147,428L153,426L179,426L184,423L185,423L190,414L195,400L196,392L194,388L186,380L185,377L187,373L192,369L199,364L202,360L202,356L199,353L199,350L200,346L201,332L202,329L200,316L199,306L193,293L194,290L197,288L205,283L212,273L221,264L234,256L242,248L246,242L248,241L247,238L246,234L241,230L234,227L227,228L223,227L222,224L222,215L222,207L220,203L217,200L211,201L205,198L201,198L198,199L186,199L180,198L177,196L174,197L173,198L173,201L172,204L167,208L157,211L149,210L141,208L138,207L135,205L119,207L117,206L112,209L104,213L100,213L98,212L97,210L94,204L95,201L101,192L101,190L98,187L96,183L95,181L91,180L87,182L70,187L66,189L59,193L52,200L46,201L44,199L43,183L52,173L58,167L55,165L49,165L49,161L52,158L55,153L52,151L49,147L49,138L50,134L49,130L36,135L32,135L32,128L39,117L40,114L31,113L25,107L21,103L17,96L17,90L21,77L27,73L33,70L44,61L60,62L70,60L79,55L84,54L92,50L92,44L89,40L92,36L101,31L111,25L123,23L134,18L142,21L149,20L157,24L168,35L183,39L195,35L217,35L228,36L247,34L258,35L276,29L290,36L317,39L333,44L378,52L394,53L416,48L426,44L435,46L448,42L454,43L462,49L491,57L498,50L504,49L524,53L545,61L556,62L572,59L584,54L587,53Z' fill='%232457C5'/></svg>">
 
+<meta name="theme-color" content="#FFFFFF">
+<script src="modo.js"></script>
 <link rel="preload" href="atkinson-400.woff2" as="font" type="font/woff2" crossorigin>
 <style>
 @font-face{font-family:"Atkinson Hyperlegible";font-weight:400;font-style:normal;font-display:swap;src:url(atkinson-400.woff2) format("woff2")}
@@ -78,6 +80,11 @@ button{font:inherit;color:inherit}
 .buscar:hover{border-color:var(--muted)}
 .icon-btn{display:none;place-items:center;width:44px;height:44px;border-radius:50%;border:1px solid var(--line);background:var(--sheet);cursor:pointer;color:var(--ink)}
 .menu-btn{display:none}
+.icon-btn.modo{display:grid}
+.i-sol{display:none}
+:root[data-theme="dark"] .i-sol{display:block}:root[data-theme="dark"] .i-luna{display:none}
+@media (prefers-color-scheme:dark){:root:not([data-theme="light"]) .i-sol{display:block}:root:not([data-theme="light"]) .i-luna{display:none}}
+:root[data-theme="dark"] .i-sol{display:block}:root[data-theme="dark"] .i-luna{display:none}
 @media (max-width:1100px){.nav a{padding:0 .55rem;font-size:.93rem}.buscar{min-width:0;width:44px;padding:0;justify-content:center}.buscar span{display:none}}
 @media (max-width:900px){
   .nav{display:none}
@@ -341,6 +348,7 @@ main{max-width:var(--max);margin:0 auto;padding:0 max(1.25rem,env(safe-area-inse
 .pos.sin i,.pos.nd i{background:transparent;border:2px solid var(--muted);color:var(--muted)}
 .pos.pend i{background:var(--soft);color:var(--muted)}
 @media (prefers-color-scheme:dark){:root:not([data-theme="light"]) .pos i{color:#11161E}:root:not([data-theme="light"]) .pos.sin i,:root:not([data-theme="light"]) .pos.nd i{color:var(--muted)}}
+:root[data-theme="dark"] .pos i{color:#11161E}:root[data-theme="dark"] .pos.sin i,:root[data-theme="dark"] .pos.nd i{color:var(--muted)}
 
 /* ===== Comparador ===== */
 .leyenda{display:flex;flex-wrap:wrap;gap:.5rem 1.25rem;margin:1rem 0;font-size:.92rem}
@@ -364,6 +372,7 @@ main{max-width:var(--max);margin:0 auto;padding:0 max(1.25rem,env(safe-area-inse
 .tabla .apagada{opacity:.28}
 .tabla .sel{background:color-mix(in srgb,var(--civic) 9%,transparent)}
 @media (prefers-color-scheme:dark){:root:not([data-theme="light"]) .tabla td button.si,:root:not([data-theme="light"]) .tabla td button.no,:root:not([data-theme="light"]) .tabla td button.matiz{color:#11161E}}
+:root[data-theme="dark"] .tabla td button.si,:root[data-theme="dark"] .tabla td button.no,:root[data-theme="dark"] .tabla td button.matiz{color:#11161E}
 @media (max-width:640px){.tabla th[scope="row"]{max-width:9.5rem;white-space:normal;font-size:.88rem}.tabla{min-width:44rem}}
 .detalle{margin-top:1.5rem;padding:1.4rem 1.5rem;border-top:5px solid var(--tc,var(--line))}
 .detalle h2{margin:.5rem 0 .3rem;font-size:1.5rem}
@@ -483,6 +492,8 @@ input[type=search]::-webkit-search-cancel-button{-webkit-appearance:none;display
 <body>
 <a class="skip" href="#contenido">Saltar al contenido</a>
 <svg width="0" height="0" style="position:absolute" aria-hidden="true">
+  <symbol id="i-luna" viewBox="0 0 24 24"><path d="M20 14.5A8 8 0 1 1 9.5 4a6.5 6.5 0 0 0 10.5 10.5z"/></symbol>
+  <symbol id="i-sol" viewBox="0 0 24 24"><circle cx="12" cy="12" r="4"/><path d="M12 2.5v2M12 19.5v2M2.5 12h2M19.5 12h2M5.3 5.3l1.4 1.4M17.3 17.3l1.4 1.4M5.3 18.7l1.4-1.4M17.3 6.7l1.4-1.4"/></symbol>
   <symbol id="i-lupa" viewBox="0 0 24 24"><circle cx="11" cy="11" r="6.5"/><path d="M16 16l5 5"/></symbol>
   <symbol id="i-menu" viewBox="0 0 24 24"><path d="M4 7h16M4 12h16M4 17h16"/></symbol>
   <symbol id="i-x" viewBox="0 0 24 24"><path d="M6 6l12 12M18 6L6 18"/></symbol>
@@ -514,6 +525,7 @@ input[type=search]::-webkit-search-cancel-button{-webkit-appearance:none;display
     </nav>
     <button type="button" class="buscar js-buscar"><svg class="svg" width="18" height="18" aria-hidden="true"><use href="#i-lupa"/></svg><span>Busca «alquiler», un partido…</span></button>
     <button type="button" class="icon-btn lupa js-buscar" aria-label="Buscar"><svg class="svg" width="20" height="20" aria-hidden="true"><use href="#i-lupa"/></svg></button>
+    <button type="button" class="icon-btn modo js-modo" aria-label="Cambiar de modo claro u oscuro"><svg class="svg i-luna" width="20" height="20" aria-hidden="true"><use href="#i-luna"/></svg><svg class="svg i-sol" width="20" height="20" aria-hidden="true"><use href="#i-sol"/></svg></button>
     <button type="button" class="icon-btn menu-btn" id="menu-btn" aria-label="Todas las secciones" aria-expanded="false" aria-controls="hoja"><svg class="svg" width="20" height="20" aria-hidden="true"><use href="#i-menu"/></svg></button>
   </div>
 </header>
