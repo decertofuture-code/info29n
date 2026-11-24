@@ -219,7 +219,7 @@ def paginas_tema():
 {f'<section><h2>En el comparador</h2><ul class="links">{comp}</ul></section>' if comp else ''}
 {f'<section><h2>Qué se votó en el Congreso</h2>{vot}</section>' if vot else ''}"""
         desc = f"{t['name']}: qué propone cada partido para las elecciones del 29 de noviembre y qué votó en el Congreso. Con la cita y la página de cada programa."
-        urls.append(pagina(f"tema/{tid}/", f"{t['name']}: qué propone cada partido · 29N", desc, cuerpo, f"#programas"))
+        urls.append(pagina(f"tema/{tid}/", f"{t['name']}: qué propone cada partido · 29N", desc, cuerpo, f"#tema-{tid}"))
     return urls
 
 # ------------------------------------------------------------------ comparador + imágenes
