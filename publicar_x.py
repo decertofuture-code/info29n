@@ -176,7 +176,7 @@ def cambios():
     # Debates confirmados
     vistos_deb = {x.get("id", x.get("titulo")) for x in viejo.get("debates", [])}
     for deb in nuevo.get("debates", []):
-        if deb.get("id", deb.get("titulo")) not in vistos_deb:
+        if deb.get("id", deb.get("titulo")) not in vistos_deb and deb.get("fecha", "") >= HOY.isoformat():
             a, m, dd = deb["fecha"].split("-")
             meses = ["enero", "febrero", "marzo", "abril", "mayo", "junio", "julio", "agosto", "septiembre", "octubre", "noviembre", "diciembre"]
             cuando = f"el {int(dd)} de {meses[int(m) - 1]}" + (f" a las {deb['hora']}" if deb.get("hora") else "")

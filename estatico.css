@@ -100,3 +100,8 @@ main,footer{max-width:76rem}
 .res.ok{background:color-mix(in srgb,var(--yes) 16%,var(--sheet))} .res.ok::before{background:var(--yes)}
 .res.ko{background:color-mix(in srgb,var(--no) 16%,var(--sheet))} .res.ko::before{background:var(--no)}
 @media (max-width:640px){.tema-head{flex-direction:column;align-items:flex-start;gap:.5rem}.ico-grande{width:3.2rem;height:3.2rem;padding:.7rem}}
+
+/* Color de cada partido en lo que trata sobre él */
+.p-dot{display:inline-block;width:.7em;height:.7em;border-radius:50%;background:var(--pc);margin-right:.5rem;vertical-align:.05em;box-shadow:0 0 0 3px color-mix(in srgb,var(--pc) 25%,transparent)}
+.phead{margin-top:1.5rem;padding:1.25rem 1.4rem 1.4rem;border-radius:12px;border:1px solid var(--line);border-top:6px solid var(--pc);background:linear-gradient(180deg,color-mix(in srgb,var(--pc) 14%,var(--sheet)),var(--sheet) 85%)}
+.pn::before{content:"";display:inline-block;width:.65em;height:.65em;border-radius:50%;background:var(--pc);margin-right:.45rem}

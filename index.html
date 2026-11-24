@@ -513,6 +513,20 @@ footer{padding-bottom:3rem!important}
 .commit p b{display:block;margin:0 0 .3rem;font-size:1.05rem}
 .commit svg{display:block;width:2.4rem;height:2.4rem;padding:.5rem;margin:0 0 .6rem;border-radius:50%;background:color-mix(in srgb,var(--hc) 16%,var(--sheet));fill:none;stroke:var(--ink);stroke-width:1.8;stroke-linecap:round;stroke-linejoin:round}
 .method>p{max-width:46rem}
+
+/* Color de cada partido, solo en lo que trata sobre ese partido */
+.p-dot{display:inline-block;flex:none;width:.8em;height:.8em;border-radius:50%;background:var(--pc);margin-right:.45rem;vertical-align:.02em;box-shadow:0 0 0 2px color-mix(in srgb,var(--pc) 25%,transparent)}
+.party-picker button{border-left:5px solid var(--pc)}
+.party-picker button[aria-pressed="true"]{border-color:var(--pc);box-shadow:inset 0 0 0 1px var(--pc);background:color-mix(in srgb,var(--pc) 12%,var(--sheet))}
+.pv-head{padding:1.1rem 1.25rem 1.25rem;border-radius:12px;border:1px solid var(--line);border-top:6px solid var(--pc);background:linear-gradient(180deg,color-mix(in srgb,var(--pc) 14%,var(--sheet)),var(--sheet) 85%)}
+.ent-top{background:color-mix(in srgb,var(--pc,var(--civic)) 13%,var(--sheet));border-top:5px solid var(--pc,var(--civic))}
+.ent-av{border-color:var(--pc,var(--ink))}
+.cmp-party::before{content:"";display:inline-block;width:.7em;height:.7em;border-radius:50%;background:var(--pc);margin-right:.4rem}
+#parties .party h4{display:flex;align-items:center}
+.deb-list li{border-left:4px solid var(--civic);padding-left:.8rem}
+.deb-list li.deb-pasado{border-left-color:var(--line)}
+.deb-partidos{display:flex;gap:.3rem;margin:.35rem 0 .1rem}
+.deb-partidos i{width:.85rem;height:.85rem;border-radius:50%;background:var(--pc)}
 </style>
 </head>
 <body data-tab="inicio">
@@ -783,6 +797,8 @@ const progInfo = pid => { const g=PROGRAMAS[pid]; return g&&g.url ? g : null; };
 const progDe = pid => { const p=PARTIES.find(x=>x.id===pid); return p&&p.programa_de&&!PROGRAMAS[pid] ? p : null; };
 const sinMedidas = pid => { const c=progDe(pid); return PROGRAMAS[pid] ? "Su programa no incluye medidas sobre este tema." : c ? `Comparte el programa del ${c.programa_de_nombre||pname(c.programa_de)}: <a href="#partido-${c.programa_de}">ver sus medidas</a>.` : "Programa aún no incorporado a esta web."; };
 const pname = id => (PARTIES.find(p=>p.id===id)||{}).name||id;
+const pcol = id => (PARTIES.find(p=>p.id===id)||{}).color||"var(--muted)";
+const pstyle = id => `--pc:${pcol(id)}`;
 const fdate = d => new Date(d+"T00:00:00").toLocaleDateString("es-ES",{day:"numeric",month:"long",year:"numeric"});
 function voteOf(v,id){ return v.si.includes(id)?["si",v.yesLabel]:v.no.includes(id)?["no",v.noLabel]:["nd","Sin dato"]; }
 
@@ -820,7 +836,7 @@ function render(){
     const easy=(RESUMEN[p.id]||{})[current];
     const votes=p.sin_escano?"":VOTES.filter(v=>v.topic===current).map(v=>{const [c,l]=voteOf(v,p.id);
       return `<p class="vote-line">${v.title} (${fdate(v.date)}): <span class="v ${c}">${l}</span></p>`;}).join("");
-    return `<article class="party${p.scope==="Toda España"||p.nacional?"":" terr"}" aria-label="${p.name}"><h4><a href="#partido-${p.id}">${p.name}</a></h4><p class="lead">${p.lead}</p>${easy?`<p class="easy">${easy}</p>`:""}${body}${votes}${prog}</article>`;
+    return `<article class="party${p.scope==="Toda España"||p.nacional?"":" terr"}" aria-label="${p.name}" style="${pstyle(p.id)}"><h4><span class="p-dot" aria-hidden="true"></span><a href="#partido-${p.id}">${p.name}</a></h4><p class="lead">${p.lead}</p>${easy?`<p class="easy">${easy}</p>`:""}${body}${votes}${prog}</article>`;
   }).join("");
 }
 render();
@@ -877,7 +893,7 @@ function postura(q,pid){
 }
 function stanceCell(q,pid,showName){
   const {k,x}=postura(q,pid); const [cls,lbl]=POSTURA[k];
-  return `<li class="cmp-row">${showName?`<a class="cmp-party" href="#partido-${pid}">${pname(pid)}</a>`:""}<span class="cmp-badge cmp-${cls}"><i aria-hidden="true">${SIMBOLO[cls]}</i>${lbl}</span>${x&&x.cita?`<details class="cita"><summary>${x.pagina?`Cita, pág. ${x.pagina}`:"Cita"}</summary><blockquote>«${esc(x.cita)}»</blockquote><a class="src" href="${x.fuente}" target="_blank" rel="noopener">Ver en el programa</a></details>`:""}</li>`;
+  return `<li class="cmp-row" style="${pstyle(pid)}">${showName?`<a class="cmp-party" href="#partido-${pid}">${pname(pid)}</a>`:""}<span class="cmp-badge cmp-${cls}"><i aria-hidden="true">${SIMBOLO[cls]}</i>${lbl}</span>${x&&x.cita?`<details class="cita"><summary>${x.pagina?`Cita, pág. ${x.pagina}`:"Cita"}</summary><blockquote>«${esc(x.cita)}»</blockquote><a class="src" href="${x.fuente}" target="_blank" rel="noopener">Ver en el programa</a></details>`:""}</li>`;
 }
 let cmpTopic="all";
 function renderComparador(){
@@ -923,14 +939,14 @@ function renderDebates(){
   el.innerHTML=`<ul class="pv-votes deb-list">${DEBATES.map(x=>{
     const pasado=x.fecha<hoy, esHoy=x.fecha===hoy;
     const cuando=`${fdate(x.fecha)}${x.hora?`, ${x.hora} h`:""}`;
-    return `<li class="${pasado?"deb-pasado":""}"><span class="t"><b>${esc(x.titulo)}</b><small>${cuando}${x.cadenas?` · ${esc(x.cadenas)}`:""}</small>${x.participantes?`<small>${esc(x.participantes)}</small>`:""}${x.fuente?`<small><a class="src" href="${x.fuente}" target="_blank" rel="noopener">Fuente</a></small>`:""}</span><span class="v ${esHoy?"si":pasado?"nd":""}">${esHoy?"Hoy":pasado?"Celebrado":"Próximo"}</span></li>`;}).join("")}</ul>`;
+    return `<li class="${pasado?"deb-pasado":""}"><span class="t"><b>${esc(x.titulo)}</b><small>${cuando}${x.cadenas?` · ${esc(x.cadenas)}`:""}</small>${(x.partidos||[]).length?`<span class="deb-partidos" aria-hidden="true">${x.partidos.map(id=>`<i style="${pstyle(id)}" title="${esc(pname(id))}"></i>`).join("")}</span>`:""}${x.participantes?`<small>${esc(x.participantes)}</small>`:""}${x.fuente?`<small><a class="src" href="${x.fuente}" target="_blank" rel="noopener">Fuente</a></small>`:""}</span><span class="v ${esHoy?"si":pasado?"nd":""}">${esHoy?"Hoy":pasado?"Celebrado":"Próximo"}</span></li>`;}).join("")}</ul>`;
 }
 
 // ---- ENTREVISTAS ----
 const temaNombre = id => (TOPICS.find(t=>t.id===id)||{}).name||"";
 const citaEntHTML = q => `<li style="--tc:var(--t-${q.tema})">${temaNombre(q.tema)?`<span class="ent-tema">${icono(q.tema)}${temaNombre(q.tema)}</span>`:""}<blockquote>«${esc(q.texto)}»</blockquote><small>${q.contexto?esc(q.contexto)+" · ":""}${q.minuto?`Minuto ${esc(q.minuto)} · `:""}Recogida por <a href="${q.fuente.url}" target="_blank" rel="noopener">${esc(q.fuente.medio)}</a></small></li>`;
 const iniciales = n => String(n).split(/\s+/).filter(w=>/^[A-ZÁÉÍÓÚÑ]/.test(w)).slice(0,2).map(w=>w[0]).join("");
-const entHTML = (e,conPartido) => `<article class="ent" id="entrevista-${e.id}"><div class="ent-top"><span class="ent-av" aria-hidden="true">${esc(iniciales(e.candidato))}</span><div><h3>${conPartido?`<a href="#partido-${e.partido}">${esc(e.candidato)}</a>`:esc(e.candidato)}</h3>
+const entHTML = (e,conPartido) => `<article class="ent" id="entrevista-${e.id}" style="${pstyle(e.partido)}"><div class="ent-top"><span class="ent-av" aria-hidden="true">${esc(iniciales(e.candidato))}</span><div><h3>${conPartido?`<a href="#partido-${e.partido}">${esc(e.candidato)}</a>`:esc(e.candidato)}</h3>
   <p class="meta">${conPartido?`${pname(e.partido)} · `:""}${esc(e.programa)} · ${fdate(e.fecha)}</p></div></div>
   <ul>${e.citas.map(citaEntHTML).join("")}</ul>
   <a class="ver" href="${e.video}" target="_blank" rel="noopener"><svg viewBox="0 0 24 24" aria-hidden="true"><rect x="2.5" y="5" width="19" height="14" rx="3"/><path d="M10 9.2v5.6l4.8-2.8z"/></svg>Ver la entrevista completa</a></article>`;
@@ -948,7 +964,7 @@ function renderPartyPicker(){
   el.innerHTML=PARTIES.map(p=>{const n=TOPICS.map(t=>[t.id,visibles(p.id,t.id).length]),tot=n.reduce((a,x)=>a+x[1],0);
     const bar=tot?`<span class="pp-bar" aria-hidden="true">${n.filter(x=>x[1]).map(([id,k])=>`<i style="flex:${k};--tc:var(--t-${id})"></i>`).join("")}</span><span class="pp-txt">${tot} medidas</span>`
       :`<span class="pp-bar vacia" aria-hidden="true"><i></i></span><span class="pp-txt">${p.programa_de?"Programa del "+esc(pname(p.programa_de).replace(/^.*\((.*)\)$/,"$1")):"Programa aún no incorporado"}</span>`;
-    return `<button type="button" data-party="${p.id}" aria-pressed="${p.id===currentParty}">${p.name}<small>${p.scope}</small>${bar}</button>`;}).join("");
+    return `<button type="button" data-party="${p.id}" aria-pressed="${p.id===currentParty}" style="${pstyle(p.id)}">${p.name}<small>${p.scope}</small>${bar}</button>`;}).join("");
 }
 function renderPartyView(){
   const v=document.getElementById("party-view");
@@ -970,7 +986,7 @@ function renderPartyView(){
   const news=NEWS.filter(n=>(n.partidos||[]).includes(p.id)).slice(0,8);
   const newsHTML=news.length?`<ul class="news-list">${news.map(n=>`<li><a href="${n.url}" target="_blank" rel="noopener">${esc(n.titulo)}</a>
       <span class="news-meta">${esc(n.medio)} · ${fdatetime(n.fecha)}</span></li>`).join("")}</ul>`:'<p class="pv-empty">No hay noticias recientes que lo mencionen.</p>';
-  v.innerHTML=`<header class="pv-head"><h3>${p.name}</h3><p>${p.lead}</p><div class="temas-franja" aria-hidden="true">${TOPICS.map(t=>`<i style="--tc:var(--t-${t.id})"></i>`).join("")}</div>
+  v.innerHTML=`<header class="pv-head" style="${pstyle(p.id)}"><h3><span class="p-dot" aria-hidden="true"></span>${p.name}</h3><p>${p.lead}</p><div class="temas-franja" aria-hidden="true">${TOPICS.map(t=>`<i style="--tc:var(--t-${t.id})"></i>`).join("")}</div>
       <nav class="pv-jump" aria-label="Secciones de ${p.name}"><a href="#pv-propuestas">Propuestas</a><a href="#pv-comparador">Comparador</a><a href="#pv-votaciones">Votaciones</a>${ents.length?'<a href="#pv-entrevistas">Entrevistas</a>':""}<a href="#pv-noticias">Noticias</a></nav></header>
     <section class="pv-block" id="pv-propuestas"><h4>Propuestas</h4>${topics}${(g=>g?`<p class="prog-link"><a href="${g.url}" target="_blank" rel="noopener">Leer el programa electoral completo (${g.formato==="web"?"web":"PDF"})</a><span>${g.paginas&&g.formato!=="web"?`${g.paginas} páginas · `:""}${g.formato==="web"?"Publicado por el partido en su web oficial":"Documento oficial publicado por el partido"}</span></p>`:"")(progInfo(p.id))}</section>
     <section class="pv-block" id="pv-comparador"><h4>Su postura en el comparador</h4>${partyStances(p.id)}</section>

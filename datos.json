@@ -43,67 +43,78 @@
       "id": "pp",
       "name": "Partido Popular (PP)",
       "scope": "Toda España",
-      "candidato": null
+      "candidato": "Alberto Núñez Feijóo",
+      "color": "#1D84CE"
     },
     {
       "id": "psoe",
       "name": "PSOE",
       "scope": "Toda España",
-      "candidato": null
+      "candidato": "Pedro Sánchez",
+      "color": "#E30613"
     },
     {
       "id": "vox",
       "name": "Vox",
       "scope": "Toda España",
-      "candidato": null
+      "candidato": "Santiago Abascal",
+      "color": "#63BE21"
     },
     {
       "id": "sumar",
       "name": "Frente Amplio",
       "scope": "Toda España",
-      "candidato": "Ada Colau"
+      "candidato": "Ada Colau",
+      "color": "#E51C55"
     },
     {
       "id": "erc",
       "name": "ERC",
       "scope": "Cataluña",
-      "candidato": null
+      "candidato": null,
+      "color": "#FFB232"
     },
     {
       "id": "junts",
       "name": "Junts",
       "scope": "Cataluña",
-      "candidato": null
+      "candidato": null,
+      "color": "#00C3B2"
     },
     {
       "id": "bildu",
       "name": "EH Bildu",
       "scope": "País Vasco y Navarra",
-      "candidato": null
+      "candidato": null,
+      "color": "#B5CF18"
     },
     {
       "id": "pnv",
       "name": "PNV",
       "scope": "País Vasco",
-      "candidato": null
+      "candidato": null,
+      "color": "#4AAE4A"
     },
     {
       "id": "podemos",
       "name": "Podemos",
       "scope": "Toda España",
-      "candidato": null
+      "candidato": null,
+      "color": "#6B2E68"
     },
     {
       "id": "bng",
       "name": "BNG",
       "scope": "Galicia",
-      "candidato": null
+      "candidato": null,
+      "color": "#76B3DD"
     },
     {
       "id": "cc",
       "name": "Coalición Canaria",
       "scope": "Canarias",
-      "candidato": null
+      "candidato": null,
+      "color": "#FFD700"
     },
     {
       "id": "upn",
@@ -112,7 +123,8 @@
       "candidato": null,
       "programa_de": "pp",
       "programa_nota": "Se presenta en Navarra en coalición con el PP y comparte su programa electoral. Sus medidas son las del PP.",
-      "programa_de_nombre": "PP"
+      "programa_de_nombre": "PP",
+      "color": "#2A52BE"
     },
     {
       "id": "fo",
@@ -120,7 +132,8 @@
       "scope": "Toda España",
       "candidato": null,
       "sin_escano": true,
-      "nacional": true
+      "nacional": true,
+      "color": "#B71C1C"
     },
     {
       "id": "salf",
@@ -128,7 +141,8 @@
       "scope": "46 circunscripciones",
       "candidato": "Alvise Pérez",
       "sin_escano": true,
-      "nacional": true
+      "nacional": true,
+      "color": "#0F6E8C"
     },
     {
       "id": "pcte",
@@ -136,7 +150,8 @@
       "scope": "39 circunscripciones",
       "candidato": null,
       "sin_escano": true,
-      "nacional": true
+      "nacional": true,
+      "color": "#A30D1B"
     },
     {
       "id": "pacma",
@@ -144,7 +159,8 @@
       "scope": "30 circunscripciones",
       "candidato": "Asier Esparza",
       "sin_escano": true,
-      "nacional": true
+      "nacional": true,
+      "color": "#8CBF26"
     },
     {
       "id": "compromis",
@@ -152,14 +168,16 @@
       "scope": "Comunitat Valenciana",
       "candidato": null,
       "sin_escano": true,
-      "votos_nota": "Sus diputados de esta legislatura fueron elegidos en la lista de Sumar, así que esta web no recoge sus votaciones por separado."
+      "votos_nota": "Sus diputados de esta legislatura fueron elegidos en la lista de Sumar, así que esta web no recoge sus votaciones por separado.",
+      "color": "#E0571C"
     },
     {
       "id": "adelante",
       "name": "Adelante Andalucía",
       "scope": "Andalucía",
       "candidato": null,
-      "sin_escano": true
+      "sin_escano": true,
+      "color": "#2E9E4F"
     }
   ],
   "medidas": {
@@ -11441,7 +11459,70 @@
       "paginas": 90
     }
   },
-  "debates": [],
+  "debates": [
+    {
+      "id": "lasexta-13n",
+      "titulo": "Debate de portavoces de laSexta",
+      "fecha": "2026-11-13",
+      "hora": "21:30",
+      "cadenas": "laSexta",
+      "participantes": "Carlos Cuerpo (PSOE), Juan Bravo (PP), José María Figaredo (Vox) y Pablo Bustinduy (Frente Amplio). Modera Ana Pastor",
+      "partidos": [
+        "psoe",
+        "pp",
+        "vox",
+        "sumar"
+      ],
+      "fuente": "https://www.formulatv.com/noticias/ana-pastor-debate-electoral-lasexta-psoe-pp-vox-fa-138735/"
+    },
+    {
+      "id": "cara-a-cara-19n",
+      "titulo": "Cara a cara entre Pedro Sánchez y Alberto Núñez Feijóo",
+      "fecha": "2026-11-19",
+      "hora": "22:00",
+      "cadenas": "la señal abierta de la Academia de Televisión (La 1 y otras cadenas)",
+      "participantes": "Pedro Sánchez (PSOE) y Alberto Núñez Feijóo (PP). Modera María Casado",
+      "partidos": [
+        "psoe",
+        "pp"
+      ],
+      "fuente": "https://www.elespanol.com/espana/politica/20261117/debate-sanchez-feijoo-abascal-colau-noviembre-academia-television/1003744461102_0.html"
+    },
+    {
+      "id": "rtve-8-23n",
+      "titulo": "Debate a ocho de RTVE",
+      "fecha": "2026-11-23",
+      "hora": "22:00",
+      "cadenas": "La 1, Canal 24 horas, RNE y RTVE Play",
+      "participantes": "Ester Muñoz (PP), Patxi López (PSOE), Pepa Millán (Vox), Emilio Delgado (Frente Amplio), Gabriel Rufián (ERC), Míriam Nogueras (Junts), Oskar Matute (EH Bildu) y Maribel Vaquero (PNV). Modera Xabier Fortes",
+      "partidos": [
+        "pp",
+        "psoe",
+        "vox",
+        "sumar",
+        "erc",
+        "junts",
+        "bildu",
+        "pnv"
+      ],
+      "fuente": "https://www.publico.es/politica/ultima-hora-debate-ocho-elecciones-generales-2026-directo.html"
+    },
+    {
+      "id": "cuatro-26n",
+      "titulo": "Debate a cuatro de los candidatos",
+      "fecha": "2026-11-26",
+      "hora": "22:00",
+      "cadenas": "la señal abierta de la Academia de Televisión, disponible para todas las cadenas",
+      "participantes": "Pedro Sánchez (PSOE), Alberto Núñez Feijóo (PP), Santiago Abascal (Vox) y Ada Colau (Frente Amplio)",
+      "partidos": [
+        "psoe",
+        "pp",
+        "vox",
+        "sumar"
+      ],
+      "fuente": "https://www.periodicodeibiza.es/noticias/elecciones-29n/2026/11/20/2753787/cuando-debate-cuatro-elecciones-generales-del-sanchez-feijoo-abascal-colau-fecha-hora.html"
+    }
+  ],
   "entrevistas": {
     "nota": "Entrevistas largas publicadas a los candidatos a la Presidencia del Gobierno. Recogemos el mismo número de frases de cada candidato, centradas en los temas que más preocupan según el CIS, con enlace a la entrevista completa. Que un partido no aparezca no implica nada sobre él.",
     "lista": [

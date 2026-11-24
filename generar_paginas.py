@@ -24,6 +24,7 @@ MEDIDAS, VOTOS = d.get("medidas", {}), d.get("votaciones", [])
 ESTADOS, PREGUNTAS, PROGRAMAS = d.get("estados", {}), d.get("preguntas", []), d.get("programas", {})
 NOMBRE = {p["id"]: p["name"] for p in PARTIDOS}
 TEMA = {t["id"]: t["name"] for t in TEMAS}
+COLOR_PARTIDO = {p["id"]: p.get("color", "#5A6678") for p in PARTIDOS}
 # Iconos de cada tema (mismos trazos que en la web interactiva)
 ICONO = {
     "vivienda": '<path d="M3 11 12 4l9 7"/><path d="M5 9.5V20h14V9.5"/><path d="M10 20v-5h4v5"/>',
@@ -173,7 +174,7 @@ def paginas_partido():
             vot = f'<p class="muted">{e(p.get("votos_nota") or "No tenía diputados en el Congreso en esta legislatura, así que no hay votaciones suyas.")}</p>'
         else:
             vot = '<ul class="rows">' + "".join(fila_voto(v, pid) for v in VOTOS) + "</ul>"
-        cuerpo = f"""<header class="head"><p class="kicker">Elecciones generales del 29 de noviembre</p><h1>{e(n)}</h1>
+        cuerpo = f"""<header class="head phead" style="--pc:{COLOR_PARTIDO[pid]}"><p class="kicker">Elecciones generales del 29 de noviembre</p><h1><span class="p-dot" aria-hidden="true"></span>{e(n)}</h1>
 <p class="muted">Se presenta en: {e(p.get("scope", ""))}. {cand}</p>{franja()}</header>
 <section><h2>Propuestas</h2>{prop}</section>
 {comp}
@@ -199,7 +200,7 @@ def paginas_tema():
                 cont = f'<p class="muted">Comparte el programa del {e(p.get("programa_de_nombre") or NOMBRE.get(de, de))}: <a href="/partido/{de}/">ver sus medidas</a>.</p>'
             else:
                 cont = '<p class="muted">Programa aún no incorporado a esta web.</p>'
-            bloques.append(f'<section class="card"><h3><a href="/partido/{p["id"]}/">{e(p["name"])}</a></h3>{cont}</section>')
+            bloques.append(f'<section class="card" style="--pc:{COLOR_PARTIDO[p["id"]]}"><h3><a class="pn" href="/partido/{p["id"]}/">{e(p["name"])}</a></h3>{cont}</section>')
         vs = [v for v in VOTOS if v["topic"] == tid]
         vot = ""
         for v in vs:
@@ -290,7 +291,7 @@ def paginas_comparador():
                 enlace = f' <a class="src" href="{e(x.get("fuente"))}" rel="noopener">{"Programa, pág. " + str(x.get("pagina")) if x.get("pagina") else "Fuente"}</a>' if x.get("fuente") else ""
                 cita = f'<blockquote>«{e(x["cita"])}»{enlace}</blockquote>'
 
-            filas += f'<li><span><a href="/partido/{p["id"]}/">{e(p["name"])}</a>{cita}</span><span class="badge p-{k}"><i aria-hidden="true">{SIMBOLO.get(k, "")}</i>{etiqueta(k, p["id"])}</span></li>'
+            filas += f'<li style="--pc:{COLOR_PARTIDO[p["id"]]}"><span><a class="pn" href="/partido/{p["id"]}/">{e(p["name"])}</a>{cita}</span><span class="badge p-{k}"><i aria-hidden="true">{SIMBOLO.get(k, "")}</i>{etiqueta(k, p["id"])}</span></li>'
         n = len(PROGRAMAS)
         estado = f"Programas analizados: {n} de {len(PARTIDOS)}." if n else "Todavía no se ha publicado ningún programa. Las posturas aparecerán a medida que los partidos los presenten."
         cuerpo = f"""<header class="head" data-tema="{q["tema"]}"><p class="kicker">Comparador · <a class="chip" href="/tema/{q["tema"]}/">{icono(q["tema"])}{e(TEMA.get(q["tema"], ""))}</a></p><h1>{e(q["pregunta"])}</h1>
