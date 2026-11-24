@@ -1016,12 +1016,12 @@ function renderPartidos(){
   ficha.innerHTML=`<nav class="cambiar" aria-label="Cambiar de partido"><a class="chip mini" href="#partidos"><svg class="svg" width="16" height="16" aria-hidden="true" style="transform:rotate(180deg)"><use href="#i-flecha"/></svg>Todos</a>${PARTIES.map(x=>`<a class="chip mini" href="#partido-${x.id}" style="${pstyle(x.id)}"${x.id===p.id?' aria-current="page"':""}><i class="dot"></i>${esc(pcorto(x.id))}</a>`).join("")}</nav>
     <header class="ficha-cab" style="${pstyle(p.id)}"><h1><i class="dot"></i>${esc(p.name)}</h1><p>${p.candidato?`Candidato: ${esc(p.candidato)} · `:""}Se presenta en: ${esc(p.scope)}</p>
       <div class="cifras"><span><b>${tot}</b><small>medidas</small></span><span><b>${posturas}</b><small>posturas claras</small></span>${ents.length?`<span><b>${ents.reduce((a,e)=>a+e.citas.length,0)}</b><small>frases en entrevistas</small></span>`:""}<span><b>${news.length}</b><small>noticias recientes</small></span></div></header>
-    <div class="pestanas" role="tablist" aria-label="Secciones de ${esc(p.name)}" style="${pstyle(p.id)}">${tabs.map(([id,n])=>`<button type="button" role="tab" id="tab-${id}" aria-selected="${id===pestana}" aria-controls="tabpanel" data-tab="${id}">${n}</button>`).join("")}</div>
+    <div class="pestanas" role="tablist" aria-label="Secciones de ${esc(p.name)}" style="${pstyle(p.id)}">${tabs.map(([id,n])=>`<button type="button" role="tab" id="tab-${id}" aria-selected="${id===pestana}" aria-controls="tabpanel" data-pest="${id}">${n}</button>`).join("")}</div>
     <div id="tabpanel" role="tabpanel" aria-labelledby="tab-${pestana}">${cuerpo}</div>`;
   const cur=ficha.querySelector('.cambiar [aria-current]');if(cur)cur.scrollIntoView({block:"nearest",inline:"center"});
 }
 $("#ficha").addEventListener("click",e=>{
-  const t=e.target.closest("[data-tab]");if(t){pestana=t.dataset.tab;renderPartidos();$("#tab-"+pestana).focus();const pt=$(".pestanas");if(pt.getBoundingClientRect().top<70)pt.scrollIntoView({block:"start"});return;}
+  const t=e.target.closest(".pestanas [data-pest]");if(t){pestana=t.dataset.pest;renderPartidos();$("#tab-"+pestana).focus();const pt=$(".pestanas");if(pt.getBoundingClientRect().top<70)pt.scrollIntoView({block:"start"});return;}
   const n=e.target.closest("[data-news-party]");if(n){newsParty=n.dataset.newsParty;newsLimite=30;}
 });
 $("#ficha").addEventListener("keydown",e=>{const t=e.target.closest("[role=tab]");if(!t||!["ArrowRight","ArrowLeft"].includes(e.key))return;const bs=$$(".pestanas [role=tab]");const i=bs.indexOf(t)+(e.key==="ArrowRight"?1:-1);const b=bs[(i+bs.length)%bs.length];b.click();});
