@@ -455,6 +455,64 @@ footer{padding-bottom:3rem!important}
 .ent .ver{gap:.45rem;margin:0 1.1rem .6rem;color:var(--ink)}
 .ent .ver svg{width:1.3rem;height:1.3rem;fill:none;stroke:currentColor;stroke-width:1.9;stroke-linejoin:round}
 .ent .ver:hover{text-decoration:underline}
+
+/* Color en todas las secciones (los temas marcan el color; nunca los partidos) */
+.chip-tema{display:inline-flex;align-items:center;gap:.35rem;padding:.12rem .6rem .12rem .45rem;border-radius:999px;font-size:.82rem;font-weight:700;color:var(--ink);background:color-mix(in srgb,var(--tc) 16%,var(--sheet))}
+.chip-tema .ico{width:1rem;height:1rem}
+/* Filtros como píldoras */
+.scope{gap:.5rem;margin:0 0 1.25rem}
+.scope button{display:inline-flex;align-items:center;gap:.4rem;min-height:40px;padding:0 .9rem;border:1px solid var(--line);border-radius:999px;background:var(--sheet);color:var(--ink);font-size:.92rem}
+.scope button:hover{border-color:var(--ink)}
+.scope button[aria-pressed="true"]{border-color:var(--tc,var(--ink));background:color-mix(in srgb,var(--tc,var(--ink)) 14%,var(--sheet));font-weight:700;color:var(--ink)}
+.scope button .ico{width:1rem;height:1rem}
+/* Calendario con progreso */
+.calendar{border-top-color:var(--line)}
+.calendar li.done{box-shadow:0 -4px 0 var(--civic)}
+.calendar li.done::before{background:var(--civic)!important;border-color:var(--civic)!important}
+.calendar li.voteday::before{background:var(--sheet)!important;border-color:var(--civic)!important;box-shadow:0 0 0 5px color-mix(in srgb,var(--civic) 22%,transparent)}
+.calendar li.voteday .d{color:var(--civic)}
+@media (max-width:640px){.calendar li.done{box-shadow:none}.calendar::before{background:var(--line)}}
+/* Avisos vacíos con dibujo */
+.aviso{display:flex;align-items:center;gap:1rem;max-width:46rem;padding:1rem 1.1rem;border:1px dashed var(--line);border-radius:10px;background:var(--sheet);color:var(--muted)}
+.aviso svg{flex:none;width:2.6rem;height:2.6rem;padding:.55rem;border-radius:50%;background:color-mix(in srgb,var(--civic) 12%,var(--sheet));fill:none;stroke:var(--ink);stroke-width:1.8;stroke-linecap:round;stroke-linejoin:round}
+/* Propuestas: tarjeta de partido con el color del tema elegido */
+#parties .party{border-top:4px solid var(--tc)}
+/* Comparador */
+.cmp-q{border-top:4px solid var(--tc,var(--line))}
+.cmp-q .cmp-tema{display:inline-flex;padding:.15rem .65rem .15rem .5rem;border-radius:999px;background:color-mix(in srgb,var(--tc) 16%,var(--sheet));font-size:.85rem}
+/* Votaciones */
+.votes{display:grid;gap:1rem}
+.vote{border-left:5px solid var(--tc,var(--line))}
+.vote .meta{display:flex;flex-wrap:wrap;align-items:center;gap:.5rem;margin:.35rem 0 .6rem}
+.res{display:inline-flex;align-items:flex-start;gap:.4rem;padding:.2rem .7rem;border-radius:6px;font-weight:700;background:color-mix(in srgb,var(--ink) 8%,var(--sheet))}
+.res.ok{background:color-mix(in srgb,var(--yes) 16%,var(--sheet))}
+.res.ko{background:color-mix(in srgb,var(--no) 16%,var(--sheet))}
+.res::before{content:"";flex:none;margin-top:.5em;width:.6rem;height:.6rem;border-radius:50%;background:var(--muted)}
+.res.ok::before{background:var(--yes)} .res.ko::before{background:var(--no)}
+.groups>div{padding:.6rem .8rem;border-radius:8px;background:color-mix(in srgb,var(--muted) 8%,var(--sheet))}
+.groups>div:has(.si){background:color-mix(in srgb,var(--yes) 11%,var(--sheet))}
+.groups>div:has(.no){background:color-mix(in srgb,var(--no) 11%,var(--sheet))}
+.groups dt{display:flex;align-items:center;gap:.4rem}
+/* Noticias */
+.news-list{max-width:none;grid-template-columns:repeat(auto-fill,minmax(24rem,1fr))}
+@media (max-width:640px){.news-list{grid-template-columns:1fr}}
+.news-list li{display:flex;flex-direction:column;border-left:4px solid var(--civic)}
+.news-medio{align-self:flex-start;margin:0 0 .35rem;padding:.05rem .5rem;border-radius:4px;font-size:.78rem;font-weight:700;color:var(--ink);background:color-mix(in srgb,var(--civic) 14%,var(--sheet))}
+/* Cómo votar */
+.howto summary{display:flex;align-items:center;gap:.8rem}
+.howto summary .hv{flex:none;width:2.3rem;height:2.3rem;padding:.45rem;border-radius:50%;background:color-mix(in srgb,var(--hc) 16%,var(--sheet));fill:none;stroke:var(--ink);stroke-width:1.8;stroke-linecap:round;stroke-linejoin:round}
+.howto details{border-left:5px solid var(--hc)}
+.howto details:nth-of-type(1){--hc:var(--t-inmigracion)} .howto details:nth-of-type(2){--hc:var(--t-sanidad)} .howto details:nth-of-type(3){--hc:var(--t-vivienda)}
+.howto details:nth-of-type(4){--hc:var(--t-politica)} .howto details:nth-of-type(5){--hc:var(--t-economia)}
+.howto .body{max-width:46rem}
+.steps b{color:var(--ink)!important;display:inline-flex;align-items:center;padding:.05rem .55rem;border-radius:6px;background:color-mix(in srgb,var(--hc,var(--civic)) 16%,var(--sheet))}
+/* Método */
+.commit{display:grid;grid-template-columns:repeat(auto-fit,minmax(15rem,1fr));gap:1rem;max-width:none;padding:0;border:0;background:none}
+.commit p{margin:0;padding:1rem 1.1rem;background:var(--sheet);border:1px solid var(--line);border-top:4px solid var(--hc);border-radius:10px}
+.commit p:nth-child(1){--hc:var(--t-vivienda)} .commit p:nth-child(2){--hc:var(--t-economia)} .commit p:nth-child(3){--hc:var(--t-inmigracion)}
+.commit p b{display:block;margin:0 0 .3rem;font-size:1.05rem}
+.commit svg{display:block;width:2.4rem;height:2.4rem;padding:.5rem;margin:0 0 .6rem;border-radius:50%;background:color-mix(in srgb,var(--hc) 16%,var(--sheet));fill:none;stroke:var(--ink);stroke-width:1.8;stroke-linecap:round;stroke-linejoin:round}
+.method>p{max-width:46rem}
 </style>
 </head>
 <body data-tab="inicio">
@@ -567,7 +625,7 @@ footer{padding-bottom:3rem!important}
     <p class="sub">Elige tu caso. Fechas según el calendario que marca la ley electoral (LOREG) a partir de la convocatoria del 6 de octubre.</p>
 
     <details>
-      <summary>Comprueba el censo y tu mesa (hasta el 19 de octubre)</summary>
+      <summary><svg class="hv" viewBox="0 0 24 24" aria-hidden="true"><circle cx="11" cy="11" r="6.5"/><path d="M16 16l5 5"/></svg>Comprueba el censo y tu mesa (hasta el 19 de octubre)</summary>
       <div class="body">
         <p>Del 12 al 19 de octubre puedes comprobar que estás bien inscrito en el censo electoral y ver en qué mesa y local te toca votar. Si hay un error, es el plazo para reclamar.</p>
         <ul>
@@ -581,7 +639,7 @@ footer{padding-bottom:3rem!important}
     </details>
 
     <details open>
-      <summary>Voy a votar en mi colegio electoral</summary>
+      <summary><svg class="hv" viewBox="0 0 24 24" aria-hidden="true"><rect x="3" y="9" width="18" height="12" rx="2"/><path d="M8 9V4h8v5M8 13h8"/></svg>Voy a votar en mi colegio electoral</summary>
       <div class="body">
         <p>Los colegios abren de 9:00 a 20:00. Lleva el original de tu DNI, pasaporte o carné de conducir (con foto; no vale una fotocopia).</p>
         <p>Puedes consultar cuál es tu colegio y tu mesa en la web del Instituto Nacional de Estadística (INE) en los días previos.</p>
@@ -590,7 +648,7 @@ footer{padding-bottom:3rem!important}
     </details>
 
     <details>
-      <summary>Quiero votar por correo</summary>
+      <summary><svg class="hv" viewBox="0 0 24 24" aria-hidden="true"><rect x="3" y="6" width="18" height="13" rx="2"/><path d="M3 7.5l9 6 9-6"/></svg>Quiero votar por correo</summary>
       <div class="body">
         <ol class="steps">
           <li><b>Desde 6 oct</b>Ya puedes pedirlo: en cualquier oficina de Correos con tu DNI, o por internet con certificado digital.</li>
@@ -603,7 +661,7 @@ footer{padding-bottom:3rem!important}
     </details>
 
     <details>
-      <summary>Vivo fuera de España o estaré fuera esos días</summary>
+      <summary><svg class="hv" viewBox="0 0 24 24" aria-hidden="true"><circle cx="12" cy="12" r="9"/><path d="M3 12h18M12 3c3.2 3.2 3.2 14.8 0 18M12 3c-3.2 3.2-3.2 14.8 0 18"/></svg>Vivo fuera de España o estaré fuera esos días</summary>
       <div class="body">
         <p><b>Si vives en el extranjero</b> y estás inscrito en el consulado (censo CERA), recibirás la documentación de oficio. Podrás votar por correo o depositar el voto en la urna del consulado en los días previos.</p>
         <p><b>Si estás fuera temporalmente</b> (estudios, trabajo, viaje), inscríbete como residente temporal en el consulado y pide allí el voto por correo dentro de plazo. Si aún estás en España, lo más sencillo es pedir el voto por correo normal antes del 19 de noviembre.</p>
@@ -611,7 +669,7 @@ footer{padding-bottom:3rem!important}
     </details>
 
     <details>
-      <summary>¿Me puede tocar ser miembro de mesa?</summary>
+      <summary><svg class="hv" viewBox="0 0 24 24" aria-hidden="true"><rect x="5" y="4" width="14" height="17" rx="2"/><path d="M9 4V3h6v1M9 10h6M9 14h6M9 18h3"/></svg>¿Me puede tocar ser miembro de mesa?</summary>
       <div class="body">
         <p>Cada ayuntamiento sortea los miembros de las mesas entre el 31 de octubre y los primeros días de noviembre, y te lo notifican en mano.</p>
         <p>Es obligatorio salvo causa justificada. Si tienes una, la alegas ante la Junta Electoral de Zona en los 7 días siguientes a la notificación.</p>
@@ -645,9 +703,9 @@ footer{padding-bottom:3rem!important}
   <section id="metodo" aria-labelledby="metodo-h" class="method panel" tabindex="-1" hidden>
     <h2 id="metodo-h">Cómo hacemos esta web</h2>
     <div class="commit">
-      <p><b>Sin publicidad, nunca.</b> Esta web no tiene ni tendrá anuncios, contenido patrocinado ni enlaces pagados.</p>
-      <p><b>Financiada por su responsable.</b> Todos los costes (dominio, alojamiento y herramientas) los paga de su bolsillo su responsable, Cristian Duarte Iglesias. La web no recibe dinero de partidos, empresas ni instituciones.</p>
-      <p><b>Neutral por principio.</b> Aplicamos los mismos criterios a todos los partidos, no valoramos sus propuestas y no pedimos ni recomendamos el voto. Si crees que algo no es neutral, escríbenos y lo revisaremos.</p>
+      <p><svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="12" cy="12" r="9"/><path d="M5.6 5.6l12.8 12.8"/></svg><b>Sin publicidad, nunca.</b> Esta web no tiene ni tendrá anuncios, contenido patrocinado ni enlaces pagados.</p>
+      <p><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 21s-7-4.4-9-9.2C1.6 8.3 4 5 7.3 5c2 0 3.5 1.1 4.7 2.7C13.2 6.1 14.7 5 16.7 5 20 5 22.4 8.3 21 11.8 19 16.6 12 21 12 21z"/></svg><b>Financiada por su responsable.</b> Todos los costes (dominio, alojamiento y herramientas) los paga de su bolsillo su responsable, Cristian Duarte Iglesias. La web no recibe dinero de partidos, empresas ni instituciones.</p>
+      <p><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 3v18M5 21h14M4 8h16M4 8l-2.5 6a3 3 0 0 0 5 0zM20 8l-2.5 6a3 3 0 0 0 5 0z"/></svg><b>Neutral por principio.</b> Aplicamos los mismos criterios a todos los partidos, no valoramos sus propuestas y no pedimos ni recomendamos el voto. Si crees que algo no es neutral, escríbenos y lo revisaremos.</p>
     </div>
     <p><b>Qué partidos aparecen.</b> Los que tienen diputados en el Congreso al final de la legislatura, ordenados por número de diputados. Después, los partidos sin diputados que se presentan al Congreso en al menos 30 de las 52 circunscripciones según las candidaturas proclamadas en el BOE, ordenados por número de circunscripciones. Por último, otros partidos a los que el último estudio preelectoral del CIS (<a href="https://www.cis.es/documents/d/guest/3584_estimacion-pdf" target="_blank" rel="noopener">estudio 3584</a>, publicado el 12 de noviembre de 2026) da al menos un escaño incluso en su estimación más baja, ordenados por escaños estimados. Los partidos sin diputados propios en esta legislatura no tienen votaciones.</p>
     <p><b>Qué temas.</b> Los que más citan los españoles como principal problema del país en el último barómetro del CIS, en ese orden.</p>
@@ -772,8 +830,9 @@ document.getElementById("side-topics").innerHTML=TOPICS.map(t=>`<li><a href="#pr
 document.getElementById("votes").innerHTML=VOTES.map(v=>{
   const t=TOPICS.find(x=>x.id===v.topic);
   const nd=PARTIES.filter(p=>!p.sin_escano&&!v.si.includes(p.id)&&!v.no.includes(p.id)).map(p=>p.name);
-  return `<article class="vote"><h3>${v.title}</h3><p class="meta">${t.name}. ${fdate(v.date)}</p>
-  <p>${v.what}</p><p><b>${v.result}</b></p>
+  const res=/^aprobad/i.test(v.result)?"ok":/^(rechazad|decay)|decay/i.test(v.result)?"ko":"";
+  return `<article class="vote" data-tema="${v.topic}"><h3>${v.title}</h3><p class="meta"><span class="chip-tema">${icono(v.topic)}${t.name}</span>${fdate(v.date)}</p>
+  <p>${v.what}</p><p><span class="res ${res}">${v.result}</span></p>
   <dl class="groups"><div><dt class="v si">${v.yesLabel}</dt><dd>${v.si.map(pname).join(", ")}</dd></div>
   <div><dt class="v no">${v.noLabel}</dt><dd>${v.no.map(pname).join(", ")}</dd></div>
   ${nd.length?`<div><dt class="v nd">Sin dato</dt><dd>${nd.join(", ")}</dd></div>`:""}</dl>
@@ -826,14 +885,14 @@ function renderComparador(){
   if(!PREGUNTAS.length){ list.innerHTML='<div class="empty">Todavía no hay preguntas.</div>'; return; }
   const temas=TOPICS.filter(t=>PREGUNTAS.some(q=>q.tema===t.id));
   f.innerHTML=[`<button type="button" data-t="all" aria-pressed="${cmpTopic==="all"}">Todos los temas</button>`]
-    .concat(temas.map(t=>`<button type="button" data-t="${t.id}" aria-pressed="${cmpTopic===t.id}">${t.name}</button>`)).join("");
+    .concat(temas.map(t=>`<button type="button" data-t="${t.id}" aria-pressed="${cmpTopic===t.id}" style="--tc:var(--t-${t.id})">${icono(t.id)}${t.name}</button>`)).join("");
   const publicados=Object.keys(PROGRAMAS).length;
   document.getElementById("cmp-status").textContent = publicados
     ? `Programas analizados: ${publicados} de ${PARTIES.length}.`
     : "Todavía no se ha publicado ningún programa. Las posturas aparecerán a medida que los partidos los presenten.";
   list.innerHTML=PREGUNTAS.filter(q=>cmpTopic==="all"||q.tema===cmpTopic).map(q=>{
     const t=TOPICS.find(x=>x.id===q.tema);
-    return `<article class="cmp-q" id="pregunta-${q.id}"><p class="cmp-tema" style="--tc:var(--t-${q.tema})">${t?icono(t.id)+t.name:""}</p><h3>${q.pregunta}</h3><p class="cmp-exp">${q.explicacion}</p>
+    return `<article class="cmp-q" id="pregunta-${q.id}" data-tema="${q.tema}"><p class="cmp-tema" style="--tc:var(--t-${q.tema})">${t?icono(t.id)+t.name:""}</p><h3>${q.pregunta}</h3><p class="cmp-exp">${q.explicacion}</p>
       <ul class="cmp-grid">${PARTIES.map(p=>stanceCell(q,p.id,true)).join("")}</ul>
       <a class="cmp-share" href="/comparador/${q.id}/">Compartir esta pregunta</a></article>`;
   }).join("");
@@ -859,7 +918,7 @@ document.getElementById("cmp-list").addEventListener("click",e=>{
 // ---- DEBATES ----
 function renderDebates(){
   const el=document.getElementById("debates");
-  if(!DEBATES.length){ el.innerHTML='<p class="pv-empty">Todavía no hay debates confirmados. Los añadiremos en cuanto las cadenas y los partidos cierren las fechas.</p>'; return; }
+  if(!DEBATES.length){ el.innerHTML='<p class="aviso"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 5h11a2 2 0 0 1 2 2v5a2 2 0 0 1-2 2H9l-4 3v-3H4a2 2 0 0 1-2-2V7a2 2 0 0 1 2-2z"/><path d="M19 9h1a2 2 0 0 1 2 2v5a2 2 0 0 1-2 2h-1v3l-4-3h-4"/></svg><span>Todavía no hay debates confirmados. Los añadiremos en cuanto las cadenas y los partidos cierren las fechas.</span></p>'; return; }
   const hoy=new Date().toLocaleDateString("sv-SE",{timeZone:"Europe/Madrid"});
   el.innerHTML=`<ul class="pv-votes deb-list">${DEBATES.map(x=>{
     const pasado=x.fecha<hoy, esHoy=x.fecha===hoy;
@@ -981,8 +1040,8 @@ function renderNews(){
   f.innerHTML=[`<button type="button" data-p="all" aria-pressed="${newsParty==="all"}">Todas</button>`]
     .concat(withNews.map(p=>`<button type="button" data-p="${p.id}" aria-pressed="${newsParty===p.id}">${p.name}</button>`)).join("");
   const items=NEWS.filter(n=>newsParty==="all"||(n.partidos||[]).includes(newsParty)).slice(0,60);
-  list.innerHTML=`<ul class="news-list">${items.map(n=>`<li><a href="${n.url}" target="_blank" rel="noopener">${esc(n.titulo)}</a>
-    <span class="news-meta">${esc(n.medio)} · ${fdatetime(n.fecha)}${(n.partidos||[]).length?" · "+n.partidos.map(pname).join(", "):""}</span></li>`).join("")}</ul>`;
+  list.innerHTML=`<ul class="news-list">${items.map(n=>`<li><span class="news-medio">${esc(n.medio)}</span><a href="${n.url}" target="_blank" rel="noopener">${esc(n.titulo)}</a>
+    <span class="news-meta">${fdatetime(n.fecha)}${(n.partidos||[]).length?" · "+n.partidos.map(pname).join(", "):""}</span></li>`).join("")}</ul>`;
 }
 const esc=t=>String(t).replace(/[&<>"']/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
 document.getElementById("news-filter").addEventListener("click",e=>{

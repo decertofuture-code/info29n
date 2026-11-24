@@ -24,6 +24,24 @@ MEDIDAS, VOTOS = d.get("medidas", {}), d.get("votaciones", [])
 ESTADOS, PREGUNTAS, PROGRAMAS = d.get("estados", {}), d.get("preguntas", []), d.get("programas", {})
 NOMBRE = {p["id"]: p["name"] for p in PARTIDOS}
 TEMA = {t["id"]: t["name"] for t in TEMAS}
+# Iconos de cada tema (mismos trazos que en la web interactiva)
+ICONO = {
+    "vivienda": '<path d="M3 11 12 4l9 7"/><path d="M5 9.5V20h14V9.5"/><path d="M10 20v-5h4v5"/>',
+    "economia": '<path d="M3 9h18l-2.2 10.2a1 1 0 0 1-1 .8H6.2a1 1 0 0 1-1-.8z"/><path d="M8 9l3-5M16 9l-3-5M9 13v3M12 13v3M15 13v3"/>',
+    "inmigracion": '<circle cx="12" cy="12" r="9"/><path d="M3 12h18M12 3c3.2 3.2 3.2 14.8 0 18M12 3c-3.2 3.2-3.2 14.8 0 18"/>',
+    "politica": '<path d="M3 9l9-5 9 5"/><path d="M4 9h16M6 10v7M10 10v7M14 10v7M18 10v7M4 17h16M3 20h18"/>',
+    "empleo": '<rect x="3" y="7" width="18" height="13" rx="2"/><path d="M9 7V5.5A1.5 1.5 0 0 1 10.5 4h3A1.5 1.5 0 0 1 15 5.5V7M3 12.5h18"/>',
+    "sanidad": '<path d="M9.5 3.5h5v6h6v5h-6v6h-5v-6h-6v-5h6z"/>',
+}
+def icono(tid, cls="ico"):
+    return f'<svg class="{cls}" viewBox="0 0 24 24" aria-hidden="true" focusable="false">{ICONO[tid]}</svg>' if tid in ICONO else ""
+def cuenta(pid, tid):
+    n = len(visibles(pid, tid))
+    return f"<small>{n} {'medida' if n == 1 else 'medidas'}</small>" if n else ""
+def franja():
+    return '<div class="franja" aria-hidden="true">' + "".join(f'<i data-tema="{t["id"]}"></i>' for t in TEMAS) + "</div>"
+def chip(tid):
+    return f'<span class="chip" data-tema="{tid}">{icono(tid)}{e(TEMA.get(tid, ""))}</span>'
 MESES = ["enero", "febrero", "marzo", "abril", "mayo", "junio", "julio", "agosto", "septiembre", "octubre", "noviembre", "diciembre"]
 POSTURA = {"si": ("si", "Sí"), "no": ("no", "No"), "matiz": ("matiz", "Con matices"), "sin": ("sin", "No se pronuncia"), "pend": ("pend", "Programa pendiente de incorporar")}
 
@@ -126,7 +144,7 @@ def fila_postura(q, pid):
 
 def fila_voto(v, pid):
     c, l = voto(v, pid)
-    return (f'<li><span><a href="/tema/{v["topic"]}/">{e(v["title"])}</a><small>{fecha(v["date"])} · {e(v["result"])}</small></span>'
+    return (f'<li data-tema="{v["topic"]}"><span><a href="/tema/{v["topic"]}/">{e(v["title"])}</a><small>{fecha(v["date"])} · {e(v["result"])}</small></span>'
             f'<span class="badge v-{c}">{e(l)}</span></li>')
 
 # ------------------------------------------------------------------ páginas por partido
@@ -137,7 +155,7 @@ def paginas_partido():
         cand = f"Candidato: {e(p['candidato'])}." if p.get("candidato") else "Candidatura por confirmar."
         if any(visibles(pid, t["id"]) for t in TEMAS):
             prop = "".join(
-                f'<section class="card"><h3>{e(t["name"])}</h3>' +
+                f'<section class="card" data-tema="{t["id"]}"><h3 class="th">{icono(t["id"])}<span>{e(t["name"])}</span>{cuenta(pid, t["id"])}</h3>' +
                 (f'<ul>{"".join(medida_li(m) for m in visibles(pid, t["id"]))}</ul>' if visibles(pid, t["id"]) else '<p class="muted">Su programa no incluye medidas sobre este tema.</p>') +
                 "</section>" for t in TEMAS)
             prop = f'<div class="grid">{prop}</div>'
@@ -156,7 +174,7 @@ def paginas_partido():
         else:
             vot = '<ul class="rows">' + "".join(fila_voto(v, pid) for v in VOTOS) + "</ul>"
         cuerpo = f"""<header class="head"><p class="kicker">Elecciones generales del 29 de noviembre</p><h1>{e(n)}</h1>
-<p class="muted">Se presenta en: {e(p.get("scope", ""))}. {cand}</p></header>
+<p class="muted">Se presenta en: {e(p.get("scope", ""))}. {cand}</p>{franja()}</header>
 <section><h2>Propuestas</h2>{prop}</section>
 {comp}
 <section><h2>Qué votó en esta legislatura</h2>{vot}</section>"""
@@ -188,14 +206,15 @@ def paginas_tema():
             si = ", ".join(NOMBRE.get(x, x) for x in v.get("si", []))
             no = ", ".join(NOMBRE.get(x, x) for x in v.get("no", []))
             nd = ", ".join(p["name"] for p in PARTIDOS if not p.get("sin_escano") and p["id"] not in v.get("si", []) + v.get("no", []))
-            vot += f"""<article class="card"><h3>{e(v["title"])}</h3><p class="muted">{fecha(v["date"])}</p><p>{e(v["what"])}</p><p><b>{e(v["result"])}</b></p>
+            res = "ok" if v["result"].lower().startswith("aprobad") else "ko" if (v["result"].lower().startswith("rechazad") or "decay" in v["result"].lower()) else ""
+            vot += f"""<article class="card voto" data-tema="{tid}"><h3>{e(v["title"])}</h3><p class="muted">{fecha(v["date"])}</p><p>{e(v["what"])}</p><p><span class="res {res}">{e(v["result"])}</span></p>
 <dl class="dl"><dt class="v-si">{e(v.get("yesLabel","A favor"))}</dt><dd>{e(si)}</dd><dt class="v-no">{e(v.get("noLabel","En contra"))}</dt><dd>{e(no)}</dd>{f'<dt class="v-nd">Sin dato</dt><dd>{e(nd)}</dd>' if nd else ''}</dl>
 <p class="srcs"><a href="{e(v["src"])}" rel="noopener">Ver la noticia de la votación</a></p></article>"""
         qs = [q for q in PREGUNTAS if q["tema"] == tid]
         comp = "".join(f'<li><a href="/comparador/{q["id"]}/">{e(q["pregunta"])}</a></li>' for q in qs)
-        cuerpo = f"""<header class="head"><p class="kicker">Elecciones generales del 29 de noviembre</p><h1>{e(t["name"])}: qué propone cada partido</h1>
-<p class="muted">{e(t.get("desc",""))}</p></header>
-<section><h2>Propuestas de cada partido</h2><div class="grid">{"".join(bloques)}</div></section>
+        cuerpo = f"""<header class="head tema-head" data-tema="{tid}">{icono(tid, "ico-grande")}<div><p class="kicker">Elecciones generales del 29 de noviembre</p><h1>{e(t["name"])}: qué propone cada partido</h1>
+<p class="muted">{e(t.get("desc",""))}</p></div></header>
+<section><h2>Propuestas de cada partido</h2><div class="grid" data-tema="{tid}">{"".join(bloques)}</div></section>
 {f'<section><h2>En el comparador</h2><ul class="links">{comp}</ul></section>' if comp else ''}
 {f'<section><h2>Qué se votó en el Congreso</h2>{vot}</section>' if vot else ''}"""
         desc = f"{t['name']}: qué propone cada partido para las elecciones del 29 de noviembre y qué votó en el Congreso. Con la cita y la página de cada programa."
@@ -274,9 +293,9 @@ def paginas_comparador():
             filas += f'<li><span><a href="/partido/{p["id"]}/">{e(p["name"])}</a>{cita}</span><span class="badge p-{k}"><i aria-hidden="true">{SIMBOLO.get(k, "")}</i>{etiqueta(k, p["id"])}</span></li>'
         n = len(PROGRAMAS)
         estado = f"Programas analizados: {n} de {len(PARTIDOS)}." if n else "Todavía no se ha publicado ningún programa. Las posturas aparecerán a medida que los partidos los presenten."
-        cuerpo = f"""<header class="head"><p class="kicker">Comparador · <a href="/tema/{q["tema"]}/">{e(TEMA.get(q["tema"], ""))}</a></p><h1>{e(q["pregunta"])}</h1>
+        cuerpo = f"""<header class="head" data-tema="{q["tema"]}"><p class="kicker">Comparador · <a class="chip" href="/tema/{q["tema"]}/">{icono(q["tema"])}{e(TEMA.get(q["tema"], ""))}</a></p><h1>{e(q["pregunta"])}</h1>
 <p class="muted">{e(q["explicacion"])}</p><p class="note">{estado} La postura se basa solo en lo que dice el programa electoral de cada partido.</p></header>
-<ul class="rows">{filas}</ul>"""
+<ul class="rows cmp" data-tema="{q["tema"]}">{filas}</ul>"""
         desc = f"{q['pregunta']} La postura de cada partido para el 29N según su programa electoral, con la cita literal."
         urls.append(pagina(f"comparador/{q['id']}/", f"{q['pregunta']} · Qué responde cada partido · 29N", desc, cuerpo, f"#pregunta-{q['id']}", img))
     return urls
