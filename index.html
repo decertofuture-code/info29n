@@ -265,9 +265,14 @@ main{max-width:var(--max);margin:0 auto;padding:0 max(1.25rem,env(safe-area-inse
 .tema-cab h2{margin:0;font-size:1.7rem}
 .tema-cab p{margin:.15rem 0 0;color:var(--muted)}
 .filtro{margin:0 0 1.5rem}
+.prov{display:flex;align-items:center;gap:.4rem .75rem;flex-wrap:wrap;margin:0 0 .6rem}
+.prov label{font-weight:700}
+.prov select{font:inherit;color:var(--ink);background:var(--sheet);border:1px solid var(--line);border-radius:10px;min-height:44px;padding:0 2.2rem 0 .8rem;max-width:100%;appearance:none;-webkit-appearance:none;
+  background-image:linear-gradient(45deg,transparent 50%,var(--ink) 50%),linear-gradient(135deg,var(--ink) 50%,transparent 50%);background-position:right 1rem center,right .7rem center;background-size:.35rem .35rem;background-repeat:no-repeat}
+.prov-nota{margin:0 0 .9rem;padding:.6rem .85rem;border-radius:10px;background:var(--civic-soft);font-size:.92rem;max-width:46rem}
 .filtro h3{font-size:.95rem;color:var(--muted);margin:0 0 .6rem;font-weight:700}
 .filtro .acciones{display:flex;gap:.25rem 1.25rem;flex-wrap:wrap;margin-top:.4rem}
-.filtro .acciones button{font-size:.92rem}
+.filtro .acciones button{font-size:.92rem;min-height:36px}
 .props{display:grid;gap:1rem;grid-template-columns:repeat(auto-fill,minmax(20rem,1fr));align-items:start}
 @media (max-width:640px){.props{grid-template-columns:1fr}}
 .prop{overflow:hidden;border-top:5px solid var(--pc)}
@@ -614,8 +619,10 @@ input[type=search]::-webkit-search-cancel-button{-webkit-appearance:none;display
     <div class="chips desliza" id="tema-chips" role="group" aria-label="Elige un tema"></div>
     <div id="tema-cab" aria-live="polite"></div>
     <div class="filtro">
+      <div class="prov"><label for="prov-tema">¿Dónde votas?</label><select class="js-prov" id="prov-tema"><option value="">En toda España (todos los partidos)</option></select></div>
+      <p class="prov-nota js-prov-nota" hidden></p>
       <h2 class="vh">Partidos que se muestran</h2>
-      <h3 aria-hidden="true">Elige qué partidos comparar</h3>
+      <h3 aria-hidden="true">O elige a mano qué partidos ver</h3>
       <div class="chips desliza js-part-chips" role="group" aria-label="Partidos que se muestran"></div>
       <div class="acciones js-part-acc">
         <button type="button" class="enlace" data-sel="todos">Todos</button>
@@ -643,8 +650,10 @@ input[type=search]::-webkit-search-cancel-button{-webkit-appearance:none;display
     <p class="muted" id="cmp-status"></p>
     <div class="chips desliza" id="cmp-filtro" role="group" aria-label="Filtrar por tema" style="margin-bottom:1.25rem"></div>
     <div class="filtro">
+      <div class="prov"><label for="prov-cmp">¿Dónde votas?</label><select class="js-prov" id="prov-cmp"><option value="">En toda España (todos los partidos)</option></select></div>
+      <p class="prov-nota js-prov-nota" hidden></p>
       <h2 class="vh">Partidos que se muestran</h2>
-      <h3 aria-hidden="true">Elige qué partidos comparar</h3>
+      <h3 aria-hidden="true">O elige a mano qué partidos ver</h3>
       <div class="chips desliza js-part-chips" role="group" aria-label="Partidos que se muestran"></div>
       <div class="acciones js-part-acc">
         <button type="button" class="enlace" data-sel="todos">Todos</button>
@@ -978,10 +987,23 @@ function renderPropuestas(){
   }).join(""):`<p class="vacio-p">No has elegido ningún partido. Pulsa sus nombres arriba para verlos.</p>`;
 }
 function initSel(){if(!selPartidos){const g=ls.get("info29n-partidos");selPartidos=new Set(Array.isArray(g)?g.filter(id=>PARTIES.some(p=>p.id===id)):PARTIES.map(p=>p.id));}}
-function pintarSel(){const h=PARTIES.map(p=>`<button type="button" class="chip mini partido" data-p="${p.id}" aria-pressed="${selPartidos.has(p.id)}" style="${pstyle(p.id)}"><i class="dot"></i>${esc(pcorto(p.id))}</button>`).join("");$$(".js-part-chips").forEach(el=>el.innerHTML=h);}
+let provincia=null;
+const enProv=(p,v)=>(p.circunscripciones||[]).includes(v)||!!(p.en_coalicion||{})[v];
+function notaProv(v){if(!v)return"";const g={};PARTIES.forEach(p=>{const c=(p.en_coalicion||{})[v];if(c)(g[c]=g[c]||[]).push(pcorto(p.id));});
+  const n=PARTIES.filter(p=>enProv(p,v)).length;
+  const y=l=>l.length>1?l.slice(0,-1).join(", ")+" y "+l[l.length-1]:l[0];
+  return `En ${esc(v)} se presentan ${n} de estos ${PARTIES.length} partidos.`+Object.entries(g).map(([c,l])=>` ${esc(y(l))} ${l.length>1?"van":"va"} dentro de la lista de ${esc(c)}.`).join("")+` <a href="${D.circunscripciones_fuente}" target="_blank" rel="noopener">Fuente: BOE</a>`;}
+function pintarSel(){
+  if(provincia===null){const g=ls.get("info29n-prov");provincia=(D.circunscripciones||[]).includes(g)?g:"";}
+  const ops=`<option value="">En toda España (todos los partidos)</option>`+(D.circunscripciones||[]).map(v=>`<option${v===provincia?" selected":""}>${esc(v)}</option>`).join("");
+  $$(".js-prov").forEach(el=>{el.innerHTML=ops;el.value=provincia;});
+  $$(".js-prov-nota").forEach(el=>{el.innerHTML=notaProv(provincia);el.hidden=!provincia;});
+  const h=PARTIES.map(p=>`<button type="button" class="chip mini partido" data-p="${p.id}" aria-pressed="${selPartidos.has(p.id)}" style="${pstyle(p.id)}"><i class="dot"></i>${esc(pcorto(p.id))}</button>`).join("");$$(".js-part-chips").forEach(el=>el.innerHTML=h);}
 function cambioSel(){ls.set("info29n-partidos",[...selPartidos]);if(!$("#programas").hidden)renderPropuestas();if(!$("#comparador").hidden)renderComparador();}
 $$(".js-part-chips").forEach(el=>el.addEventListener("click",e=>{const b=e.target.closest("[data-p]");if(!b)return;const id=b.dataset.p;selPartidos.has(id)?selPartidos.delete(id):selPartidos.add(id);cambioSel();}));
-$$(".js-part-acc").forEach(el=>el.addEventListener("click",e=>{const b=e.target.closest("[data-sel]");if(!b)return;const k=b.dataset.sel;
+$$(".js-prov").forEach(el=>el.addEventListener("change",()=>{provincia=el.value;ls.set("info29n-prov",provincia);
+  selPartidos=new Set(PARTIES.filter(p=>!provincia||enProv(p,provincia)).map(p=>p.id));cambioSel();}));
+$$(".js-part-acc").forEach(el=>el.addEventListener("click",e=>{const b=e.target.closest("[data-sel]");if(!b)return;const k=b.dataset.sel;provincia="";ls.set("info29n-prov","");
   selPartidos=new Set(k==="todos"?PARTIES.map(p=>p.id):k==="nac"?PARTIES.filter(nacional).map(p=>p.id):[]);cambioSel();}));
 $("#props").addEventListener("click",e=>{const b=e.target.closest("[data-mas]");if(!b)return;const k=b.dataset.mas;abiertos.has(k)?abiertos.delete(k):abiertos.add(k);renderPropuestas();
   const nb=$(`[data-mas="${CSS.escape(k)}"]`);if(nb)nb.focus();});
