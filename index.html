@@ -419,6 +419,42 @@ footer{padding-bottom:3rem!important}
 .shortcuts a>*:not(.sc-ico){grid-column:2}
 .sc-ico{grid-row:1/span 2;width:2.6rem;height:2.6rem;padding:.55rem;border-radius:50%;background:color-mix(in srgb,var(--civic) 10%,var(--sheet));fill:none;stroke:var(--ink);stroke-width:1.8;stroke-linecap:round;stroke-linejoin:round}
 .pv-topic h5 .ico{width:1.25rem;height:1.25rem}
+
+/* Más color y mejor uso del ancho en pantallas grandes */
+.wrap{width:100%;max-width:calc(78rem + 2*clamp(1.25rem,4vw,3rem));margin:0 auto}
+.wrap>*{max-width:none}
+.panel>p,.ent-nota,.lede{max-width:46rem}
+.temas-franja{display:flex;height:5px;border-radius:999px;overflow:hidden;margin:1rem 0 0}
+.temas-franja i{flex:1;background:var(--tc)}
+.pv-head{border-bottom:0;padding-bottom:0}
+.pv-jump{gap:.5rem;margin:.9rem 0 0}
+.pv-jump a{min-height:40px;padding:0 .95rem;border:1px solid var(--line);border-radius:999px;background:var(--sheet);font-size:.92rem}
+.pv-jump a:hover{border-color:var(--ink);color:var(--ink)}
+.pv-topic{border-top:4px solid var(--tc)!important;padding-top:0}
+.pv-topic h5{margin:0 -1rem .6rem;padding:.75rem 1rem;background:color-mix(in srgb,var(--tc) 12%,var(--sheet))}
+.pv-topic h5 .nm{color:var(--ink)}
+.pv-topics{grid-template-columns:repeat(auto-fill,minmax(18rem,1fr))}
+.party-picker{grid-template-columns:repeat(auto-fill,minmax(10rem,1fr))}
+.party-picker button{display:flex;flex-direction:column;justify-content:flex-start}
+.pp-bar{display:flex;gap:2px;height:6px;margin-top:auto;padding-top:.6rem;width:100%}
+.pp-bar i{display:block;height:6px;border-radius:2px;background:var(--tc)}
+.pp-bar.vacia i{flex:1;background:var(--line)}
+.pp-txt{display:block;font-weight:400;color:var(--muted);font-size:.78rem;margin-top:.3rem}
+.party-picker button[aria-pressed="true"]{border-color:var(--ink);box-shadow:inset 0 0 0 1px var(--ink)}
+.ent-list{max-width:none;grid-template-columns:repeat(auto-fill,minmax(26rem,1fr));align-items:start}
+@media (max-width:640px){.ent-list{grid-template-columns:1fr}}
+.ent{padding:0;overflow:hidden}
+.ent-top{display:flex;align-items:center;gap:.8rem;padding:1rem 1.1rem;background:color-mix(in srgb,var(--civic) 10%,var(--sheet));border-bottom:1px solid var(--line)}
+.ent-av{flex:none;display:grid;place-items:center;width:2.9rem;height:2.9rem;border-radius:50%;background:var(--sheet);border:2px solid var(--ink);font-weight:700;font-size:1rem;color:var(--ink)}
+.ent-top .meta{margin:.1rem 0 0}
+.ent ul{padding:.2rem 1.1rem}
+.ent li{border-top:0;border-left:4px solid var(--tc,var(--line));padding:.55rem 0 .55rem .85rem;margin:.6rem 0}
+.ent blockquote{font-size:1.05rem}
+.ent-tema{display:inline-flex;align-items:center;gap:.35rem;margin:0 0 .3rem;padding:.1rem .55rem .1rem .45rem;border-radius:999px;font-size:.8rem;font-weight:700;color:var(--ink);background:color-mix(in srgb,var(--tc) 16%,var(--sheet))}
+.ent-tema .ico{width:.95rem;height:.95rem}
+.ent .ver{gap:.45rem;margin:0 1.1rem .6rem;color:var(--ink)}
+.ent .ver svg{width:1.3rem;height:1.3rem;fill:none;stroke:currentColor;stroke-width:1.9;stroke-linejoin:round}
+.ent .ver:hover{text-decoration:underline}
 </style>
 </head>
 <body data-tab="inicio">
@@ -833,11 +869,12 @@ function renderDebates(){
 
 // ---- ENTREVISTAS ----
 const temaNombre = id => (TOPICS.find(t=>t.id===id)||{}).name||"";
-const citaEntHTML = q => `<li><blockquote>«${esc(q.texto)}»</blockquote><small>${temaNombre(q.tema)?`${temaNombre(q.tema)} · `:""}${q.contexto?esc(q.contexto)+" · ":""}${q.minuto?`Minuto ${esc(q.minuto)} · `:""}Recogida por <a href="${q.fuente.url}" target="_blank" rel="noopener">${esc(q.fuente.medio)}</a></small></li>`;
-const entHTML = (e,conPartido) => `<article class="ent" id="entrevista-${e.id}"><h3>${conPartido?`<a href="#partido-${e.partido}">${esc(e.candidato)}</a>`:esc(e.candidato)}</h3>
-  <p class="meta">${conPartido?`${pname(e.partido)} · `:""}${esc(e.programa)} · ${fdate(e.fecha)}</p>
+const citaEntHTML = q => `<li style="--tc:var(--t-${q.tema})">${temaNombre(q.tema)?`<span class="ent-tema">${icono(q.tema)}${temaNombre(q.tema)}</span>`:""}<blockquote>«${esc(q.texto)}»</blockquote><small>${q.contexto?esc(q.contexto)+" · ":""}${q.minuto?`Minuto ${esc(q.minuto)} · `:""}Recogida por <a href="${q.fuente.url}" target="_blank" rel="noopener">${esc(q.fuente.medio)}</a></small></li>`;
+const iniciales = n => String(n).split(/\s+/).filter(w=>/^[A-ZÁÉÍÓÚÑ]/.test(w)).slice(0,2).map(w=>w[0]).join("");
+const entHTML = (e,conPartido) => `<article class="ent" id="entrevista-${e.id}"><div class="ent-top"><span class="ent-av" aria-hidden="true">${esc(iniciales(e.candidato))}</span><div><h3>${conPartido?`<a href="#partido-${e.partido}">${esc(e.candidato)}</a>`:esc(e.candidato)}</h3>
+  <p class="meta">${conPartido?`${pname(e.partido)} · `:""}${esc(e.programa)} · ${fdate(e.fecha)}</p></div></div>
   <ul>${e.citas.map(citaEntHTML).join("")}</ul>
-  <a class="ver" href="${e.video}" target="_blank" rel="noopener">Ver la entrevista completa</a></article>`;
+  <a class="ver" href="${e.video}" target="_blank" rel="noopener"><svg viewBox="0 0 24 24" aria-hidden="true"><rect x="2.5" y="5" width="19" height="14" rx="3"/><path d="M10 9.2v5.6l4.8-2.8z"/></svg>Ver la entrevista completa</a></article>`;
 function renderEntrevistas(){
   const el=document.getElementById("entrevistas"), L=ENTREVISTAS.lista||[];
   if(!L.length){ el.innerHTML='<p class="pv-empty">Todavía no hay entrevistas recogidas.</p>'; return; }
@@ -849,7 +886,10 @@ let currentParty=null;
 const VOTE_TXT={si:"A favor",no:"En contra",nd:"Sin dato"};
 function renderPartyPicker(){
   const el=document.getElementById("party-picker");
-  el.innerHTML=PARTIES.map(p=>`<button type="button" data-party="${p.id}" aria-pressed="${p.id===currentParty}">${p.name}<small>${p.scope}</small></button>`).join("");
+  el.innerHTML=PARTIES.map(p=>{const n=TOPICS.map(t=>[t.id,visibles(p.id,t.id).length]),tot=n.reduce((a,x)=>a+x[1],0);
+    const bar=tot?`<span class="pp-bar" aria-hidden="true">${n.filter(x=>x[1]).map(([id,k])=>`<i style="flex:${k};--tc:var(--t-${id})"></i>`).join("")}</span><span class="pp-txt">${tot} medidas</span>`
+      :`<span class="pp-bar vacia" aria-hidden="true"><i></i></span><span class="pp-txt">${p.programa_de?"Programa del "+esc(pname(p.programa_de).replace(/^.*\((.*)\)$/,"$1")):"Programa aún no incorporado"}</span>`;
+    return `<button type="button" data-party="${p.id}" aria-pressed="${p.id===currentParty}">${p.name}<small>${p.scope}</small>${bar}</button>`;}).join("");
 }
 function renderPartyView(){
   const v=document.getElementById("party-view");
@@ -871,7 +911,7 @@ function renderPartyView(){
   const news=NEWS.filter(n=>(n.partidos||[]).includes(p.id)).slice(0,8);
   const newsHTML=news.length?`<ul class="news-list">${news.map(n=>`<li><a href="${n.url}" target="_blank" rel="noopener">${esc(n.titulo)}</a>
       <span class="news-meta">${esc(n.medio)} · ${fdatetime(n.fecha)}</span></li>`).join("")}</ul>`:'<p class="pv-empty">No hay noticias recientes que lo mencionen.</p>';
-  v.innerHTML=`<header class="pv-head"><h3>${p.name}</h3><p>${p.lead}</p>
+  v.innerHTML=`<header class="pv-head"><h3>${p.name}</h3><p>${p.lead}</p><div class="temas-franja" aria-hidden="true">${TOPICS.map(t=>`<i style="--tc:var(--t-${t.id})"></i>`).join("")}</div>
       <nav class="pv-jump" aria-label="Secciones de ${p.name}"><a href="#pv-propuestas">Propuestas</a><a href="#pv-comparador">Comparador</a><a href="#pv-votaciones">Votaciones</a>${ents.length?'<a href="#pv-entrevistas">Entrevistas</a>':""}<a href="#pv-noticias">Noticias</a></nav></header>
     <section class="pv-block" id="pv-propuestas"><h4>Propuestas</h4>${topics}${(g=>g?`<p class="prog-link"><a href="${g.url}" target="_blank" rel="noopener">Leer el programa electoral completo (${g.formato==="web"?"web":"PDF"})</a><span>${g.paginas&&g.formato!=="web"?`${g.paginas} páginas · `:""}${g.formato==="web"?"Publicado por el partido en su web oficial":"Documento oficial publicado por el partido"}</span></p>`:"")(progInfo(p.id))}</section>
     <section class="pv-block" id="pv-comparador"><h4>Su postura en el comparador</h4>${partyStances(p.id)}</section>
