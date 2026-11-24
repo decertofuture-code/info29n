@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-24T15:25+00:00",
+  "actualizado": "2026-11-24T20:05+00:00",
   "temas": [
     {
       "id": "vivienda",
@@ -8244,9 +8244,158 @@
   ],
   "noticias": [
     {
+      "titulo": "Feijóo acusa a Sánchez de \"fallar\" a las mujeres y denuncia su \"hipocresía\" en feminismo la víspera del 25N",
+      "medio": "Europa Press",
+      "url": "https://www.europapress.es/nacional/noticia-feijoo-acusa-sanchez-fallar-mujeres-denuncia-hipocresia-feminismo-vispera-25n-20261124205511.html",
+      "fecha": "2026-11-24T19:55+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "Sánchez recala en Barcelona para consolidar la 'ventaja competitiva' respecto al PP en Cataluña",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/sanchez-recala-barcelona-consolidar-ventaja-competitiva-respecto-20261124204702-nt.html",
+      "fecha": "2026-11-24T19:47+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "Feijóo evoca los años de Sánchez para llamar a una movilización masiva: \"Que un día de relajación no nos condene a años de lamento\"",
+      "medio": "20minutos",
+      "url": "https://www.20minutos.es/nacional/feijoo-evoca-los-anos-sanchez-para-llamar-una-movilizacion-masiva-que-un-dia-relajacion-no-nos-condene-anos-lamento_7065336_0.html",
+      "fecha": "2026-11-24T19:38+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "Moreno cede el Pabellón de la Navegación a Feijóo para cerrar campaña en Sevilla tras poner trabas a un mitin de Sánchez",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/andalucia/moreno-cede-pabellon-navegacion-feijoo-cerrar-campana-sevilla-poner-trabas-mitin-sanchez_1_13688083.html",
+      "fecha": "2026-11-24T19:31+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "El Frente Amplio promete revertir todas las privatizaciones sanitarias",
+      "medio": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/politica/20261124/11692553/frente-amplio-promete-revertir-todas-privatizaciones-sanitarias.html",
+      "fecha": "2026-11-24T19:29+00:00",
+      "partidos": [
+        "sumar"
+      ]
+    },
+    {
+      "titulo": "Loles León baila \"Yo sí te voy a votar, Pedro Sánchez\" en el mitin del PSOE: \"Begoña y tú sois amor\"",
+      "medio": "El Confidencial",
+      "url": "https://www.elconfidencial.com/espana/2026-11-24/loles-leon-baila-mitin-sanchez-barcelona_4471922/",
+      "fecha": "2026-11-24T19:26+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "Vox rescata las vallas en defensa de la identidad catalana de las autonómicas",
+      "medio": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/politica/20261124/11692543/vox-rescata-vallas-defensa-identidad-catalana-autonomicas.html",
+      "fecha": "2026-11-24T19:19+00:00",
+      "partidos": [
+        "vox"
+      ]
+    },
+    {
+      "titulo": "Tolón contrapone la inversión educativa del PSOE a los recortes del PP durante el Gobierno de Cospedal",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/castilla-la-mancha/toledo/talavera/tolon-contrapone-inversion-educativa-psoe-recortes-pp-20261124201214-nt.html",
+      "fecha": "2026-11-24T19:14+00:00",
+      "partidos": [
+        "pp",
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "Vox anuncia un \"despliegue histórico\" con 208 apoderados en 61 consulados para \"denunciar\" irregularidades\" en el 29N",
+      "medio": "Europa Press",
+      "url": "https://www.europapress.es/nacional/noticia-vox-anuncia-despliegue-historico-208-apoderados-61-consulados-denunciar-irregularidades-29n-20261124200711.html",
+      "fecha": "2026-11-24T19:07+00:00",
+      "partidos": [
+        "vox"
+      ]
+    },
+    {
+      "titulo": "Sánchez pide desde Huesca una victoria “inapelable” frente a PP y Vox: “Si ganamos por mucho no tendrán excusas”",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/aragon/politica/sanchez-pide-huesca-victoria-inapelable-frente-pp-vox-si-ganamos-no-tendran-excusas_1_13690408.html",
+      "fecha": "2026-11-24T18:12+00:00",
+      "partidos": [
+        "pp",
+        "vox"
+      ]
+    },
+    {
+      "titulo": "Frente Amplio apuesta por aliviar el «infierno burocrático» de los autónomos y blindar el pequeño comercio",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/castilla-la-mancha/toledo/frente-amplio-apuesta-aliviar-infierno-burocratico-autonomos-20261124185720-nt.html",
+      "fecha": "2026-11-24T17:57+00:00",
+      "partidos": [
+        "sumar"
+      ]
+    },
+    {
+      "titulo": "El juez del ‘caso Leire Díez’ reclama más información al PSOE para saber quién autorizó los pagos a sus abogados",
+      "medio": "El País",
+      "url": "https://elpais.com/espana/2026-11-24/el-juez-del-caso-leire-diez-reclama-mas-informacion-al-psoe-para-saber-quien-autorizo-los-pagos-a-sus-abogados.html",
+      "fecha": "2026-11-24T17:43+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "El piso de Jésica Rodríguez y el parador de Teruel: el PP hará una ruta el 25N por los lugares de \"degradación\" de Ábalos",
+      "medio": "20minutos",
+      "url": "https://www.20minutos.es/nacional/piso-jesica-rodriguez-parador-teruel-pp-hara-una-ruta-25n-por-los-lugares-degradacion-abalos_7065295_0.html",
+      "fecha": "2026-11-24T17:34+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "Sánchez dice en Huesca que \"para frenar la negrura\" de Feijóo y Abascal hay que votar \"al rojo socialista\"",
+      "medio": "Europa Press",
+      "url": "https://www.europapress.es/aragon/noticia-sanchez-psoe-dice-huesca-frenar-negrura-feijoo-abascal-hay-votar-rojo-socialista-20261124181723.html",
+      "fecha": "2026-11-24T17:17+00:00",
+      "partidos": [
+        "pp",
+        "vox"
+      ]
+    },
+    {
+      "titulo": "El PP rectifica y apoya el pacto de Estado de que piden las víctimas de Adamuz y suscriben PSOE, Vox y otras ocho formaciones",
+      "medio": "20minutos",
+      "url": "https://www.20minutos.es/nacional/pp-rectifica-apoya-pacto-estado-que-piden-las-victimas-adamuz-suscriben-psoe-vox-otras-ocho-formaciones_7065177_0.html",
+      "fecha": "2026-11-24T16:13+00:00",
+      "partidos": [
+        "pp",
+        "psoe",
+        "vox"
+      ]
+    },
+    {
       "titulo": "Radicales increpan a Ester Muñoz y a miembros del PP en un mitin en Guipúzcoa",
       "medio": "El Mundo",
       "url": "https://www.elmundo.es/espana/2026/11/24/6b057cd9e9cf4a3f6b8b457e.html",
+      "fecha": "2026-11-24T15:17+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "El PP vuelve a usar la IA para \"vestir\" a Sánchez con la camiseta de la selección de Marruecos",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/rastreador/pp-vuelve-ia-vestir-sanchez-camiseta-seleccion-marruecos_132_13689808.html",
       "fecha": "2026-11-24T15:17+00:00",
       "partidos": [
         "pp"
@@ -10911,156 +11060,6 @@
       "medio": "elDiario.es",
       "url": "https://www.eldiario.es/blog/el-boletin-del-director/mentiras-feijoo_132_13682307.html",
       "fecha": "2026-11-21T08:04+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Gabriel Arrúe (PSOE): \"Hay que construir, pero centrándonos en la vivienda pública y protegida y en regular el mercado\"",
-      "medio": "20minutos",
-      "url": "https://www.20minutos.es/nacional/gabriel-arrue-psoe-hay-que-construir-pero-centrandonos-vivienda-publica-protegida-regular-mercado_7060725_0.html",
-      "fecha": "2026-11-21T06:53+00:00",
-      "partidos": [
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "\"Refutación en altura\", así fue la estrategia de la calma que siguió Sánchez frente a Feijóo y que ya utilizó Obama en su campaña de 2008",
-      "medio": "20minutos",
-      "url": "https://www.20minutos.es/nacional/refutacion-altura-asi-estrategia-calma-que-siguio-sanchez-frente-feijoo-que-ya-utilizo-obama-su-campana-2008_7063664_0.html",
-      "fecha": "2026-11-21T06:48+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "El último baile de Yolanda Díaz: la ministra entra en la campaña de Frente Amplio para calentar una semana electoral decisiva",
-      "medio": "20minutos",
-      "url": "https://www.20minutos.es/nacional/ultimo-baile-yolanda-diaz-ministra-entra-campana-frente-amplio-para-calentar-una-semana-electoral-decisiva_7063321_0.html",
-      "fecha": "2026-11-21T06:45+00:00",
-      "partidos": [
-        "sumar"
-      ]
-    },
-    {
-      "titulo": "Santiago Abascal (Vox), sobre los impuestos en España: \"Tienen que ser los justos, los mínimos para que la economía privada pueda sostener lo público\"",
-      "medio": "El Confidencial",
-      "url": "https://www.elconfidencial.com/espana/2026-11-21/santiago-abascal-vox-impuestos-espana-justos-minimos-1qrt_4469022/",
-      "fecha": "2026-11-21T06:00+00:00",
-      "partidos": [
-        "vox"
-      ]
-    },
-    {
-      "titulo": "Marisol Collado (Unidad del Pueblo Canario): “Empobrecida, intolerante y desigual. Esa es la Canarias que proyecta un gobierno de PP y Vox”",
-      "medio": "elDiario.es",
-      "url": "https://www.eldiario.es/canariasahora/politica/marisol-collado-unidad-pueblo-canario-empobrecida-intolerante-desigual-canarias-proyecta-gobierno-pp-vox_1_13680934.html",
-      "fecha": "2026-11-21T05:02+00:00",
-      "partidos": [
-        "pp",
-        "vox"
-      ]
-    },
-    {
-      "titulo": "Miriam Nogueras: “Lo que ha hecho crecer a PP y Vox ha sido la política del PSOE”",
-      "medio": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/politica/20261121/11689489/miriam-nogueras-hecho-crecer-pp-vox-sido-politica-psoe.html",
-      "fecha": "2026-11-21T05:00+00:00",
-      "partidos": [
-        "pp",
-        "psoe",
-        "vox"
-      ]
-    },
-    {
-      "titulo": "¿Qué aconseja la IA en vivienda? Vota al PSOE si alquilas y al PP si eres propietario",
-      "medio": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/politica/20261121/11689391/que-aconseja-ia-vivienda-vota-psoe-alquilas-pp-propietario.html",
-      "fecha": "2026-11-21T05:00+00:00",
-      "partidos": [
-        "pp",
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "Sánchez vuelve al ataque para dejar atrás el debate mientras Feijóo intenta explotarlo al máximo",
-      "medio": "El País",
-      "url": "https://elpais.com/espana/elecciones-generales/2026-11-21/sanchez-vuelve-al-ataque-para-dejar-atras-el-debate-mientras-feijoo-intenta-explotarlo-al-maximo.html",
-      "fecha": "2026-11-21T04:45+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "400 folios y preguntas por sorpresa para entrenar los reflejos: así se preparó Feijóo para el cara a cara con Sánchez",
-      "medio": "El País",
-      "url": "https://elpais.com/espana/elecciones-generales/2026-11-21/400-folios-y-preguntas-por-sorpresa-para-entrenar-los-reflejos-asi-se-preparo-feijoo-para-el-cara-a-cara-con-sanchez.html",
-      "fecha": "2026-11-21T04:45+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "La gran batalla de PSOE, PP y Vox por los votos decisivos de las provincias pequeñas y medianas",
-      "medio": "El País",
-      "url": "https://elpais.com/espana/elecciones-generales/2026-11-21/la-gran-batalla-de-psoe-pp-y-vox-por-los-votos-decisivos-de-las-provincias-pequenas-y-medianas.html",
-      "fecha": "2026-11-21T04:30+00:00",
-      "partidos": [
-        "pp",
-        "psoe",
-        "vox"
-      ]
-    },
-    {
-      "titulo": "El PP mide su euforia tras el cara a cara en la plaza de toros de València, su icono electoral",
-      "medio": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/local/valencia/20261121/11688927/pp-mide-euforia-cara-cara-plaza-toros-valencia-icono-electoral.html",
-      "fecha": "2026-11-21T04:30+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Dos paradas en la España más bipartidista donde Vox busca hacerse hueco",
-      "medio": "El Mundo",
-      "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/21/6b00a606fc6c83374e8b45b0.html",
-      "fecha": "2026-11-21T01:15+00:00",
-      "partidos": [
-        "vox"
-      ]
-    },
-    {
-      "titulo": "Colau ve una oportunidad para desmarcarse de Sánchez: \"Solo no puede ganar ni un debate ni las elecciones\"",
-      "medio": "El Mundo",
-      "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/21/6b00a6c9fc6c83250e8b45b5.html",
-      "fecha": "2026-11-21T01:15+00:00",
-      "partidos": [
-        "sumar"
-      ]
-    },
-    {
-      "titulo": "Un asesor del PP en La Vila Joiosa y expresidente de NNGG gana una oposición para trabajar en el ayuntamiento",
-      "medio": "elDiario.es",
-      "url": "https://www.eldiario.es/comunitat-valenciana/politica/asesor-pp-vila-joiosa-expresidente-nngg-gana-oposicion-trabajar-ayuntamiento_1_13673134.html",
-      "fecha": "2026-11-21T00:46+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "El ‘momentum’ Puigdemont",
-      "medio": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/politica/20261121/11689362/momentum-puigdemont.html",
-      "fecha": "2026-11-20T23:05+00:00",
-      "partidos": [
-        "junts"
-      ]
-    },
-    {
-      "titulo": "Sánchez receta \"buena educación\" a Feijóo desde Galicia tras su cara a cara: \"La ventaja de dejarle hablar es que acaba retratándose\"",
-      "medio": "El Mundo",
-      "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/20/6b007d60fdddffa1598b45a1.html",
-      "fecha": "2026-11-20T22:23+00:00",
       "partidos": [
         "pp"
       ]
