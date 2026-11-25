@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-24T20:05+00:00",
+  "actualizado": "2026-11-25T04:03+00:00",
   "temas": [
     {
       "id": "vivienda",
@@ -8244,6 +8244,155 @@
   ],
   "noticias": [
     {
+      "titulo": "Feijóo propone recuperar Ocon-Sur y endurecer las penas para frenar el narcotráfico en Andalucía",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/andalucia/feijoo-propone-recuperar-oconsur-endurecer-penas-frenar-20261125024906-nts.html",
+      "fecha": "2026-11-25T01:49+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "Albiol propone seguridad jurídica a los propietarios de viviendas y Colau expropiar los 400.000 pisos turísticos",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/cataluna/albiol-propone-seguridad-juridica-propietarios-viviendas-colau-20261124001909-nt.html",
+      "fecha": "2026-11-25T01:29+00:00",
+      "partidos": [
+        "sumar"
+      ]
+    },
+    {
+      "titulo": "La catarsis de los históricos del PSOE",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/ketty-garat-catarsis-historicos-psoe-20261125022619-nt.html",
+      "fecha": "2026-11-25T01:26+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "La foto de la reunificación de la derecha navarra para derrotar la corrupción del PSOE y el \"binomio con Bildu\"",
+      "medio": "El Mundo",
+      "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/25/6b05d77bfdddfff75d8b4589.html",
+      "fecha": "2026-11-24T23:12+00:00",
+      "partidos": [
+        "psoe",
+        "bildu"
+      ]
+    },
+    {
+      "titulo": "Todos contra el PP en el gran debate electoral vasco y una presencia constante de Vox sin estar invitado",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/euskadi/pp-gran-debate-electoral-vasco-presencia-constante-vox-invitado_1_13690787.html",
+      "fecha": "2026-11-24T22:18+00:00",
+      "partidos": [
+        "pp",
+        "vox"
+      ]
+    },
+    {
+      "titulo": "Nogueras (Junts) ve una victoria en la amnistía a Puigdemont: \"¡Es libre, os ha ganado!\"",
+      "medio": "Europa Press",
+      "url": "https://www.europapress.es/catalunya/noticia-nogueras-junts-ve-victoria-amnistia-puigdemont-libre-os-ganado-20261124214949.html",
+      "fecha": "2026-11-24T20:49+00:00",
+      "partidos": [
+        "junts"
+      ]
+    },
+    {
+      "titulo": "La media final de las encuestas: el PSOE sube y los bloques se acercan antes del apagón demoscópico",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/politica/media-final-encuestas-psoe-sube-bloques-acercan-apagon-demoscopico_1_13688784.html",
+      "fecha": "2026-11-24T20:45+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "Feijóo ve a Sánchez \"desesperado\" por convertir \"la campaña del amor y los bailecitos\" en la de meter \"miedo\"",
+      "medio": "Europa Press",
+      "url": "https://www.europapress.es/nacional/noticia-feijoo-ve-sanchez-desesperado-convertir-campana-amor-bailecitos-meter-miedo-20261124214122.html",
+      "fecha": "2026-11-24T20:41+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "Feijóo arremete contra la “hipocresía” de Sánchez por el voto femenino",
+      "medio": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/politica/20261124/11692568/feijoo-arremete-hipocresia-sanchez-voto-femenino.html",
+      "fecha": "2026-11-24T20:38+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "Pedro Sánchez: “Cataluña no va a fallar y va a liderar la gran victoria progresista”",
+      "medio": "El País",
+      "url": "https://elpais.com/espana/elecciones-generales/2026-11-24/pedro-sanchez-cataluna-no-va-a-fallar-y-va-a-liderar-la-gran-victoria-progresista.html",
+      "fecha": "2026-11-24T20:36+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "Feijóo busca el «voto prestado» de socialistas desencantados con el sanchismo",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/comunidad-valenciana/alicante/feijoo-busca-voto-prestado-socialistas-desencantados-sanchismo-20261124205831-nt.html",
+      "fecha": "2026-11-24T20:34+00:00",
+      "partidos": [
+        "pp",
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "Sánchez mete a Loles León y a Serrat en campaña tras el apoyo de Bardem y otras personalidades de la cultura a Frente Amplio",
+      "medio": "El Mundo",
+      "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/24/6b05d44c21efa0d9778b456d.html",
+      "fecha": "2026-11-24T20:20+00:00",
+      "partidos": [
+        "sumar"
+      ]
+    },
+    {
+      "titulo": "Feijóo: “En España no habrá sitio para quien no respete a las mujeres ni a las personas LGTBI”",
+      "medio": "El País",
+      "url": "https://elpais.com/espana/elecciones-generales/2026-11-24/feijoo-en-espana-no-habra-sitio-para-quien-no-respete-a-las-mujeres-ni-a-las-personas-lgtbi.html",
+      "fecha": "2026-11-24T20:19+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "Junts replica a Sánchez que no se pasa página con la amnistía: “Os habéis equivocado de gente”",
+      "medio": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/politica/20261124/11692562/junts-replica-sanchez-pasa-pagina-amnistia-habeis-equivocado-gente.html",
+      "fecha": "2026-11-24T20:16+00:00",
+      "partidos": [
+        "junts"
+      ]
+    },
+    {
+      "titulo": "Sánchez insufla optimismo a la campaña con un baño de masas en Barcelona: “Feijóo y Abascal no llegarán a la Moncloa”",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/catalunya/sanchez-insufla-optimismo-campana-bano-masas-barcelona-feijoo-abascal-no-llegaran-moncloa_1_13690297.html",
+      "fecha": "2026-11-24T20:14+00:00",
+      "partidos": [
+        "pp",
+        "vox"
+      ]
+    },
+    {
+      "titulo": "Irene Montero alerta de una \"ofensiva antifeminista\" por la \"machosfera\" y lanza críticas a PP y PSOE",
+      "medio": "Europa Press",
+      "url": "https://www.europapress.es/sociedad/noticia-irene-montero-alerta-ofensiva-antifeminista-machosfera-lanza-criticas-pp-psoe-20261124210136.html",
+      "fecha": "2026-11-24T20:01+00:00",
+      "partidos": [
+        "pp",
+        "psoe"
+      ]
+    },
+    {
       "titulo": "Feijóo acusa a Sánchez de \"fallar\" a las mujeres y denuncia su \"hipocresía\" en feminismo la víspera del 25N",
       "medio": "Europa Press",
       "url": "https://www.europapress.es/nacional/noticia-feijoo-acusa-sanchez-fallar-mujeres-denuncia-hipocresia-feminismo-vispera-25n-20261124205511.html",
@@ -8253,12 +8402,33 @@
       ]
     },
     {
+      "titulo": "Junqueras incluye a “mucha gente de Junts” en el modelo de “ruina y miseria que representan” el PP, Vox y AC",
+      "medio": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/politica/20261124/11692502/junqueras-incluye-gente-junts-modelo-ruina-miseria-representan-pp-vox-ac.html",
+      "fecha": "2026-11-24T19:48+00:00",
+      "partidos": [
+        "pp",
+        "vox",
+        "junts"
+      ]
+    },
+    {
       "titulo": "Sánchez recala en Barcelona para consolidar la 'ventaja competitiva' respecto al PP en Cataluña",
       "medio": "ABC",
       "url": "https://www.abc.es/espana/sanchez-recala-barcelona-consolidar-ventaja-competitiva-respecto-20261124204702-nt.html",
       "fecha": "2026-11-24T19:47+00:00",
       "partidos": [
         "pp"
+      ]
+    },
+    {
+      "titulo": "Feijóo enarbola la bandera del feminismo para disputar al PSOE el voto de las mujeres: \"No habrá sitio para quien ejerza la violencia contra ellas\"",
+      "medio": "El Mundo",
+      "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/24/6b05c9e621efa046268b4573.html",
+      "fecha": "2026-11-24T19:41+00:00",
+      "partidos": [
+        "pp",
+        "psoe"
       ]
     },
     {
@@ -8370,6 +8540,15 @@
       "partidos": [
         "pp",
         "vox"
+      ]
+    },
+    {
+      "titulo": "Álvarez de Toledo alerta del riesgo de un empate: “Sánchez quiere igualar al PP y atrincherarse”",
+      "medio": "El País",
+      "url": "https://elpais.com/espana/elecciones-generales/2026-11-24/alvarez-de-toledo-alerta-del-riesgo-de-un-empate-sanchez-quiere-igualar-al-pp-y-atrincherarse.html",
+      "fecha": "2026-11-24T16:23+00:00",
+      "partidos": [
+        "pp"
       ]
     },
     {
@@ -8648,6 +8827,15 @@
       "fecha": "2026-11-24T09:23+00:00",
       "partidos": [
         "pp"
+      ]
+    },
+    {
+      "titulo": "Pablo Iglesias sale al rescate de Podemos para evitar que Irene Montero se quede sin escaño",
+      "medio": "El Mundo",
+      "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/24/6b054b58e85eceb17f8b459a.html",
+      "fecha": "2026-11-24T08:40+00:00",
+      "partidos": [
+        "podemos"
       ]
     },
     {
@@ -10875,191 +11063,6 @@
       "medio": "20minutos",
       "url": "https://www.20minutos.es/nacional/feijoo-logra-reventar-plaza-toros-valencia-asistentes-pide-pp-no-confiarse-heridos-son-mas-peligrosos_7064043_0.html",
       "fecha": "2026-11-21T13:29+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Feijóo: “No os fieis del ambiente, de nada. Son capaces de todo, y heridos son todavía más peligrosos”",
-      "medio": "El País",
-      "url": "https://elpais.com/espana/2026-11-21/feijoo-no-os-fieis-del-ambiente-no-os-fieis-de-nada-son-capaces-de-todo-y-heridos-son-todavia-mas-peligrosos.html",
-      "fecha": "2026-11-21T13:22+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Yolanda Díaz entra en campaña y avisa al PSOE: “No va de ser el primero, no sirve para gobernar”",
-      "medio": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/politica/20261121/11689891/yolanda-diaz-entra-campana-avisa-psoe-primero-sirve-gobernar.html",
-      "fecha": "2026-11-21T13:21+00:00",
-      "partidos": [
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "Feijóo advierte al PP en el acto central de campaña: \"No os fiéis, son capaces de todo y heridos son más peligrosos\"",
-      "medio": "elDiario.es",
-      "url": "https://www.eldiario.es/politica/feijoo-advierte-pp-acto-central-campana-no-fieis-son-capaces-heridos-son-peligrosos_1_13682705.html",
-      "fecha": "2026-11-21T13:14+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Colau llama a dar la vuelta a las encuestas en el final de campaña: “Vamos a congelar la sonrisa a Feijóo”",
-      "medio": "El País",
-      "url": "https://elpais.com/espana/elecciones-generales/2026-11-21/colau-llama-a-dar-la-vuelta-a-las-encuestas-en-el-final-de-campana-vamos-a-congelar-la-sonrisa-a-feijoo.html",
-      "fecha": "2026-11-21T13:14+00:00",
-      "partidos": [
-        "pp",
-        "sumar"
-      ]
-    },
-    {
-      "titulo": "Podemos pide concentrar el voto a la \"izquierda valiente\" en Murcia para \"echar a un fascista\" del Congreso",
-      "medio": "El Mundo",
-      "url": "https://www.elmundo.es/murcia/2026/11/21/6b0176fde9cf4ab64c8b4587.html",
-      "fecha": "2026-11-21T13:12+00:00",
-      "partidos": [
-        "podemos"
-      ]
-    },
-    {
-      "titulo": "El Frente Amplio llama a \"dar la vuelta a las encuestas\" en su acto central: \"La motosierra, para los de arriba\"",
-      "medio": "elDiario.es",
-      "url": "https://www.eldiario.es/politica/frente-amplio-llama-dar-vuelta-encuestas-acto-central-motosierra_1_13682824.html",
-      "fecha": "2026-11-21T13:04+00:00",
-      "partidos": [
-        "sumar"
-      ]
-    },
-    {
-      "titulo": "Abascal exige a Feijoo que no apele al voto útil y aclare antes del 29N si es posible que el PP pacte con “los restos del PSOE”",
-      "medio": "elDiario.es",
-      "url": "https://www.eldiario.es/andalucia/abascal-exige-feijoo-no-apele-voto-util-aclare-29n-si-posible-pp-pacte-restos-psoe_1_13682897.html",
-      "fecha": "2026-11-21T13:04+00:00",
-      "partidos": [
-        "pp",
-        "psoe",
-        "vox"
-      ]
-    },
-    {
-      "titulo": "Compromís-Front Valencià se reivindica como el voto unido de la izquierda y avisa a Pedro Sánchez: \"El fascismo no estará en Moncloa, pero los paseos en barco se han acabado\"",
-      "medio": "El Mundo",
-      "url": "https://www.elmundo.es/comunidad-valenciana/2026/11/21/6b018acfe9cf4a11588b457e.html",
-      "fecha": "2026-11-21T12:58+00:00",
-      "partidos": [
-        "psoe",
-        "compromis"
-      ]
-    },
-    {
-      "titulo": "Abascal regaña al PP por «repartirse ministerios» y apelar al voto útil: «No puede volver a pasar»",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/andalucia/abascal-regana-pp-repartirse-ministerios-apelar-voto-20261121135657-nts.html",
-      "fecha": "2026-11-21T12:56+00:00",
-      "partidos": [
-        "pp",
-        "vox"
-      ]
-    },
-    {
-      "titulo": "Yolanda Díaz entra en campaña con un aviso a Pedro Sánchez: \"Las elecciones no van de ser el primero, sino de sumar para gobernar\"",
-      "medio": "20minutos",
-      "url": "https://www.20minutos.es/nacional/yolanda-diaz-entra-campana-con-un-aviso-pedro-sanchez-las-elecciones-no-van-ser-primero-sino-sumar-para-gobernar_7064046_0.html",
-      "fecha": "2026-11-21T12:56+00:00",
-      "partidos": [
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "Feijóo pide al PP que no se fíe tras la victoria del cara a cara: “Heridos son más peligrosos”",
-      "medio": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/local/valencia/20261121/11689836/feijoo-pide-pp-fie-victoria-cara-cara-heridos-son-mas-peligrosos.html",
-      "fecha": "2026-11-21T12:52+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Belarra acusa al PSOE de \"rendirse\" ante la derecha y descarta volver a gobernar con PSOE",
-      "medio": "20minutos",
-      "url": "https://www.20minutos.es/nacional/belarra-acusa-psoe-rendirse-ante-derecha-descarta-volver-gobernar-con-psoe_7064044_0.html",
-      "fecha": "2026-11-21T12:47+00:00",
-      "partidos": [
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "Aznar reclama en un mitin con Ayuso \"concentrar el voto\" en Feijóo porque hace falta \"un presidente fuerte\"",
-      "medio": "20minutos",
-      "url": "https://www.20minutos.es/nacional/aznar-reclama-un-mitin-con-ayuso-concentrar-voto-feijoo-porque-hace-falta-un-presidente-fuerte_7064040_0.html",
-      "fecha": "2026-11-21T12:40+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Feijóo se da un baño en Valencia, pero advierte del exceso de euforia: \"No está nada hecho, no os fieis de las encuestas\"",
-      "medio": "El Confidencial",
-      "url": "https://www.elconfidencial.com/espana/comunidad-valenciana/2026-11-21/feijoo-bano-valencia-mitin-euforia-encuestas_4469772/",
-      "fecha": "2026-11-21T12:38+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "La plana mayor del primer Gobierno de Felipe González pide el voto para Pedro Sánchez: “Hay riesgo de involución y recorte de derechos”",
-      "medio": "El País",
-      "url": "https://elpais.com/espana/elecciones-generales/2026-11-21/la-plana-mayor-del-primer-gobierno-de-felipe-gonzalez-pide-el-voto-para-pedro-sanchez.html",
-      "fecha": "2026-11-21T11:47+00:00",
-      "partidos": [
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "Sánchez \"discrepa\" de que sea un \"amoral\" como dice Puigdemont e insiste en que va a buscar votos \"hasta debajo de las piedras\"",
-      "medio": "20minutos",
-      "url": "https://www.20minutos.es/nacional/sanchez-discrepa-que-sea-un-amoral-como-dice-puigdemont-insiste-que-va-buscar-votos-hasta-debajo-las-piedras_7063993_0.html",
-      "fecha": "2026-11-21T10:06+00:00",
-      "partidos": [
-        "junts"
-      ]
-    },
-    {
-      "titulo": "Sánchez, sobre el cara a cara con Feijóo: \"Transcurrió como yo quería\"",
-      "medio": "20minutos",
-      "url": "https://www.20minutos.es/nacional/sanchez-sobre-cara-cara-con-feijoo-transcurrio-como-yo-queria_7063982_0.html",
-      "fecha": "2026-11-21T10:01+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Estos son los casos en los que el PP propone retirar la nacionalidad por determinados delitos graves",
-      "medio": "20minutos",
-      "url": "https://www.20minutos.es/nacional/casos-pp-propone-retirar-nacionalidad-determinados-delitos-graves_7060160_0.html",
-      "fecha": "2026-11-21T08:44+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Las dudas que deja Sánchez tras su debate con Feijóo: \"¿Para qué intentar conquistar el centro cuando lo que necesitas es movilizar?\"",
-      "medio": "20minutos",
-      "url": "https://www.20minutos.es/nacional/dudas-sanchez-debate-feijoo-para-que-conquistar-centro-necesitas-movilizar_7063662_0.html",
-      "fecha": "2026-11-21T08:11+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Todas las mentiras de Feijóo",
-      "medio": "elDiario.es",
-      "url": "https://www.eldiario.es/blog/el-boletin-del-director/mentiras-feijoo_132_13682307.html",
-      "fecha": "2026-11-21T08:04+00:00",
       "partidos": [
         "pp"
       ]
