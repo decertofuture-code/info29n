@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-25T15:09+00:00",
+  "actualizado": "2026-11-25T19:06+00:00",
   "temas": [
     {
       "id": "vivienda",
@@ -8244,6 +8244,127 @@
   ],
   "noticias": [
     {
+      "titulo": "La 'ruta de Ábalos' conduce al PP al Parador de Teruel: «La corrupción rodea a Sánchez»",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/aragon/ruta-abalos-conduce-pp-parador-teruel-corrupcion-20261125174744-nt.html",
+      "fecha": "2026-11-25T18:44+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "El PP acusa al PSOE de Talavera de anteponer sus siglas a los intereses de España y de la ciudad",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/castilla-la-mancha/toledo/talavera/pp-acusa-psoe-talavera-anteponer-siglas-intereses-20261125191842-nt.html",
+      "fecha": "2026-11-25T18:18+00:00",
+      "partidos": [
+        "pp",
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "Álvarez de Toledo, desde el edificio en el que vivía Jésica, expareja de Ábalos: \"El PSOE ha utilizado a las mujeres como mercancía\"",
+      "medio": "20minutos",
+      "url": "https://www.20minutos.es/nacional/alvarez-toledo-desde-edificio-que-vivia-jesica-expareja-abalos-psoe-ha-utilizado-las-mujeres-como-mercancia_7065861_0.html",
+      "fecha": "2026-11-25T17:50+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "El mapa de Granada en las elecciones generales de 2023 por distritos: dónde ganó el PP y dónde se impuso el PSOE",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/andalucia/granada/mapa-granada-elecciones-generales-2023-distritos-gano-20261125184614-nts.html",
+      "fecha": "2026-11-25T17:46+00:00",
+      "partidos": [
+        "pp",
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "El PSOE rompe la unidad en el apoyo a las víctimas de la violencia machista",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/andalucia/psoe-resto-oposicion-ausentan-acto-dia-eliminacion-20261125110328-nts.html",
+      "fecha": "2026-11-25T17:44+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "Susana Díaz cuestiona la estrategia del PSOE y José Bono: «¿Qué haces buscándole la boca a Felipe González la última semana?»",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/andalucia/susana-diaz-cuestiona-estrategia-psoe-haces-buscandole-20261125130816-nts.html",
+      "fecha": "2026-11-25T17:41+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "Velázquez acusa al PSOE de hacer una «utilización ideológica de la mujer»",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/castilla-la-mancha/toledo/pueblos/velazquez-acusa-psoe-utilizacion-ideologica-mujer-20261125183539-nt.html",
+      "fecha": "2026-11-25T17:35+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "El PSOE andaluz sale en tromba contra Felipe González, cuestiona su lealtad por el voto en blanco y lo manda a «callar»",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/andalucia/psoe-andaluz-sale-tromba-felipe-gonzalez-cuestiona-20261125170131-nts.html",
+      "fecha": "2026-11-25T17:32+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "Una tertuliana de Canal Extremadura compara a Pedro Sánchez con “el novio que maltrata a su novia” en pleno 25N",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/extremadura/sociedad/tertuliana-canal-extremadura-compara-pedro-sanchez-novio-maltrata-novia-pleno-25n_1_13693350.html",
+      "fecha": "2026-11-25T17:02+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "El Banco de España entrega a la justicia lo que pagó a la banca por sus depósitos y Sumar exige acceso \"inmediato”",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/economia/banco-espana-entrega-justicia-pago-banca-depositos-sumar-exige-acceso-inmediato_1_13692955.html",
+      "fecha": "2026-11-25T16:42+00:00",
+      "partidos": [
+        "sumar"
+      ]
+    },
+    {
+      "titulo": "Frente Amplio suma 450 apoyos más al manifiesto de la cultura española: Antonio de la Torre, Tristán Ulloa, Nathalie Poza...",
+      "medio": "20minutos",
+      "url": "https://www.20minutos.es/nacional/frente-amplio-suma-450-apoyos-mas-manifiesto-cultura-espanola-antonio-torre-tristan-ulloa-nathalie-poza_7065824_0.html",
+      "fecha": "2026-11-25T16:41+00:00",
+      "partidos": [
+        "sumar"
+      ]
+    },
+    {
+      "titulo": "Sánchez, Feijóo, Abascal y Colau se miden mañana en un debate a cuatro que dibujará los dos bloques ante el 29N",
+      "medio": "Europa Press",
+      "url": "https://www.europapress.es/nacional/noticia-sanchez-feijoo-abascal-colau-miden-debate-cuatro-dibujara-dos-bloques-29n-20261125172619.html",
+      "fecha": "2026-11-25T16:26+00:00",
+      "partidos": [
+        "pp",
+        "vox",
+        "sumar"
+      ]
+    },
+    {
+      "titulo": "El PP promete 'pantallas cero' en los primeros años de la escuela: \"Los libros y el cuaderno volverán a ser las herramientas prioritarias\"",
+      "medio": "El Mundo",
+      "url": "https://www.elmundo.es/espana/2026/11/25/6b06c120e85ece682b8b4594.html",
+      "fecha": "2026-11-25T15:55+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
       "titulo": "Bono responde al PP tras su polémica con Felipe González: «Soy objeto de ataque de esos sinvergüenzas por no atacar a Sánchez»",
       "medio": "ABC",
       "url": "https://www.abc.es/espana/bono-responde-pp-tras-polemica-felipe-gonzalez-20261125160346-nt.html",
@@ -8268,6 +8389,16 @@
       "fecha": "2026-11-25T14:41+00:00",
       "partidos": [
         "psoe"
+      ]
+    },
+    {
+      "titulo": "El Gobierno andaluz de PP y Vox incluye por primera vez al \"concebido no nacido\" como beneficiario de ayudas públicas",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/andalucia/gobierno-andaluz-pp-vox-incluye-primera-vez-concebido-no-nacido-beneficiario-ayudas-publicas_1_13692437.html",
+      "fecha": "2026-11-25T14:40+00:00",
+      "partidos": [
+        "pp",
+        "vox"
       ]
     },
     {
@@ -8339,6 +8470,15 @@
       ]
     },
     {
+      "titulo": "Illa recibirá a Puigdemont en el Palau de la Generalitat, en una fecha aún sin concretar",
+      "medio": "20minutos",
+      "url": "https://www.20minutos.es/cataluna/illa-recibira-puigdemont-palau-generalitat-una-fecha-aun-sin-concretar_7065692_0.html",
+      "fecha": "2026-11-25T13:48+00:00",
+      "partidos": [
+        "junts"
+      ]
+    },
+    {
       "titulo": "Marlaska evita responder a Puigdemont y reprocha al PP su gestión de la crisis catalana",
       "medio": "ABC",
       "url": "https://www.abc.es/espana/galicia/marlaska-evita-responder-puigdemont-reprocha-pp-gestion-20261125144249-nt.html",
@@ -8376,6 +8516,26 @@
         "pp",
         "vox",
         "sumar"
+      ]
+    },
+    {
+      "titulo": "El PP acude al Parador de Teruel en el 25-N para simbolizar \"la desvergüenza\" del PSOE: \"Es el símbolo de los pecados capitales del sanchismo\"",
+      "medio": "El Mundo",
+      "url": "https://www.elmundo.es/elecciones/2026/11/25/6b06d40b21efa0396c8b4585.html",
+      "fecha": "2026-11-25T13:09+00:00",
+      "partidos": [
+        "pp",
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "El PSOE acusa al PP de usar a la mujer como \"moneda de cambio\" y los 'populares' critican la divergencia entre el \"discurso feminista en público y los comportamientos en privado\"",
+      "medio": "El Mundo",
+      "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/25/6b06caf9fdddff78028b45a2.html",
+      "fecha": "2026-11-25T12:25+00:00",
+      "partidos": [
+        "pp",
+        "psoe"
       ]
     },
     {
@@ -8739,6 +8899,17 @@
       "fecha": "2026-11-24T22:18+00:00",
       "partidos": [
         "pp",
+        "vox"
+      ]
+    },
+    {
+      "titulo": "El PSOE se aferra a un milagro en la \"España periférica\" mientras asume \"la fortaleza de PP y Vox\"",
+      "medio": "El Mundo",
+      "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/24/6b05f94821efa094338b4587.html",
+      "fecha": "2026-11-24T21:53+00:00",
+      "partidos": [
+        "pp",
+        "psoe",
         "vox"
       ]
     },
@@ -10899,174 +11070,6 @@
       "fecha": "2026-11-22T14:10+00:00",
       "partidos": [
         "vox"
-      ]
-    },
-    {
-      "titulo": "Colau pide la \"máxima movilización\" en la última semana para arrebatar escaños a Vox",
-      "medio": "20minutos",
-      "url": "https://www.20minutos.es/nacional/colau-pide-maxima-movilizacion-ultima-semana-para-arrebatar-escanos-vox_7064250_0.html",
-      "fecha": "2026-11-22T14:07+00:00",
-      "partidos": [
-        "vox",
-        "sumar"
-      ]
-    },
-    {
-      "titulo": "Feijóo: “Sabemos lo que pasó en 2023, ganar y no gobernar. ¡Tenedlo claro! ¡No hemos ganado nada!”",
-      "medio": "El País",
-      "url": "https://elpais.com/espana/2026-11-22/feijoo-sabemos-lo-que-paso-en-2023-ganar-y-no-gobernar-tenedlo-claro-no-hemos-ganado-nada.html",
-      "fecha": "2026-11-22T13:56+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "El PP anima a votar con \"rabia\" contra el Gobierno de Sánchez, el \"más antiandaluz y más antisevillano\" de la historia",
-      "medio": "El Mundo",
-      "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/22/6b02e37321efa09c698b4581.html",
-      "fecha": "2026-11-22T13:52+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Rufián reprocha a Sánchez que se dejara «avasallar» por Feijóo y se reivindica dentro de ERC",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/cataluna/rufian-reprocha-sanchez-dejara-avasallar-feijoo-reivindica-20261122144616-nt.html",
-      "fecha": "2026-11-22T13:46+00:00",
-      "partidos": [
-        "pp",
-        "erc"
-      ]
-    },
-    {
-      "titulo": "Abascal acusa al PP de estar “jugando sucio” en la recta final de la campaña",
-      "medio": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/politica/20261122/11690474/abascal-acusa-pp-jugando-sucio-recta-final-campana.html",
-      "fecha": "2026-11-22T13:46+00:00",
-      "partidos": [
-        "pp",
-        "vox"
-      ]
-    },
-    {
-      "titulo": "Rufián pide el voto para \"tutelar\" al PSOE: \"No queremos gobernar España, pero sí que se gobierne bien\"",
-      "medio": "elDiario.es",
-      "url": "https://www.eldiario.es/catalunya/rufian-pide-voto-tutelar-psoe-no-queremos-gobernar-espana-si-gobierne_1_13684052.html",
-      "fecha": "2026-11-22T13:18+00:00",
-      "partidos": [
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "Colau pide en Gran Canaria “cambiar las reglas del juego” y frenar el turismo masivo con más medidas como cerrar \"pisos ilegales\"",
-      "medio": "elDiario.es",
-      "url": "https://www.eldiario.es/canariasahora/politica/ada-colau-gran-canaria-mitin-frente-amplio-upc_1_13683890.html",
-      "fecha": "2026-11-22T13:08+00:00",
-      "partidos": [
-        "sumar"
-      ]
-    },
-    {
-      "titulo": "EH Bildu y ERC exhiben su \"amistad\" en Donostia y unen fuerzas para \"levantar un muro contra el fascismo\" el 29N",
-      "medio": "elDiario.es",
-      "url": "https://www.eldiario.es/euskadi/eh-bildu-erc-exhiben-amistad-donostia-unen-fuerzas-levantar-muro-fascismo-29n_1_13683873.html",
-      "fecha": "2026-11-22T13:08+00:00",
-      "partidos": [
-        "erc",
-        "bildu"
-      ]
-    },
-    {
-      "titulo": "Feijóo, frente al fantasma de 2023: \"Que no se relaje nadie\"",
-      "medio": "elDiario.es",
-      "url": "https://www.eldiario.es/politica/feijoo-pide-no-relaje-nadie-29n-no-anticipemos-cosecha_1_13684020.html",
-      "fecha": "2026-11-22T13:07+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Feijóo insiste en la prudencia tras ganar a Sánchez en el debate: “España no puede permitirse lo que ocurrió en 2023”",
-      "medio": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/politica/20261122/11690458/feijoo-insiste-prudencia-ganar-sanchez-debate-espana-permitirse-ocurrio-2023.html",
-      "fecha": "2026-11-22T13:01+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Sánchez se conjura contra el 'sorpasso' de Vox al PSOE en Murcia",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/sanchez-conjura-sorpasso-vox-psoe-murcia-20261122131843-nt.html",
-      "fecha": "2026-11-22T12:40+00:00",
-      "partidos": [
-        "psoe",
-        "vox"
-      ]
-    },
-    {
-      "titulo": "Junts reúne a Pujol, Mas y Puigdemont para plantear el 29N como un plebiscito: \"O votas España o votas Catalunya\"",
-      "medio": "elDiario.es",
-      "url": "https://www.eldiario.es/catalunya/junts-reune-pujol-puigdemont-plantear-29n-plebiscito-votas-espana-votas-catalunya_1_13683864.html",
-      "fecha": "2026-11-22T12:33+00:00",
-      "partidos": [
-        "junts"
-      ]
-    },
-    {
-      "titulo": "Sánchez responde a PP y Vox en Murcia por su declaración de persona non grata: “Este 29N es un referéndum de la buena política frente a la mala educación”",
-      "medio": "elDiario.es",
-      "url": "https://www.eldiario.es/murcia/politica/pedro-sanchez-triplica-abascal-mitin-murcia-elecciones-son-referendum-buena-politica-frente-mala-educacion_1_13683838.html",
-      "fecha": "2026-11-22T12:23+00:00",
-      "partidos": [
-        "pp",
-        "vox"
-      ]
-    },
-    {
-      "titulo": "Catalá, sobre la «metáfora» de Morant de abofetear a Feijóo: «Son el partido del odio»",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/comunidad-valenciana/catala-sobre-metafora-morant-abofetear-feijoo-partido-20261122131045-nt.html",
-      "fecha": "2026-11-22T12:17+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Pujol pide el voto para Nogueras en el mitin central de Junts: “Han hecho buen trabajo y lo seguirán haciendo”",
-      "medio": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/politica/20261122/11690402/pujol-pide-voto-nogueras-mitin-central-junts-han-hecho-buen-trabajo-seguiran-haciendo.html",
-      "fecha": "2026-11-22T12:15+00:00",
-      "partidos": [
-        "junts"
-      ]
-    },
-    {
-      "titulo": "El PP acusa a Page y Bono de «hacer campaña para Sánchez» pese a sus críticas al presidente",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/castilla-la-mancha/pp-acusa-page-bono-campana-sanchez-pese-20261122122129-nt.html",
-      "fecha": "2026-11-22T12:11+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Junts exhibe músculo convergente en su mitin central y pide salir a la ofensiva por Catalunya",
-      "medio": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/politica/20261122/11690422/junts-exhibe-musculo-convergente-mitin-central-pide-salir-ofensiva-catalunya.html",
-      "fecha": "2026-11-22T12:10+00:00",
-      "partidos": [
-        "junts"
-      ]
-    },
-    {
-      "titulo": "Pedro Sánchez vuelve a Andalucía para activar el antiguo granero socialista tras las críticas por su baile en Sevilla",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/andalucia/cordoba/pedro-sanchez-vuelve-andalucia-activar-voto-antiguo-20261122124053-nts.html",
-      "fecha": "2026-11-22T11:57+00:00",
-      "partidos": [
-        "psoe"
       ]
     }
   ],
