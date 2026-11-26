@@ -8244,6 +8244,18 @@
   ],
   "noticias": [
     {
+      "titulo": "Construcción, alquileres e inmigración: el choque de Sánchez, Feijóo, Abascal y Colau por la vivienda",
+      "medio": "El Diario de Madrid",
+      "url": "https://www.eldiariodemadrid.es/politica/debate-cuatro-vivienda-sanchez-feijoo-colau-abascal/20261126225210148103.html",
+      "fecha": "2026-11-26T21:52+00:00",
+      "partidos": [
+        "psoe",
+        "pp",
+        "vox",
+        "sumar"
+      ]
+    },
+    {
       "titulo": "Besteiro reivindica al PSOE como «dique de contención» frente a PP y Vox",
       "medio": "ABC",
       "url": "https://www.abc.es/espana/galicia/besteiro-reivindica-psoe-dique-contencion-frente-pp-20261126164517-nt.html",
@@ -12034,7 +12046,114 @@
         "vox",
         "sumar"
       ],
-      "fuente": "https://www.periodicodeibiza.es/noticias/elecciones-29n/2026/11/20/2753787/cuando-debate-cuatro-elecciones-generales-del-sanchez-feijoo-abascal-colau-fecha-hora.html"
+      "fuente": "https://www.periodicodeibiza.es/noticias/elecciones-29n/2026/11/20/2753787/cuando-debate-cuatro-elecciones-generales-del-sanchez-feijoo-abascal-colau-fecha-hora.html",
+      "resumen": {
+        "actualizado": "2026-11-27T00:20:00+01:00",
+        "nota": "Frases literales tal como las recogieron los medios. Mismo espacio para cada candidato.",
+        "partidos": [
+          {
+            "id": "psoe",
+            "portavoz": "Pedro Sánchez",
+            "frases": [
+              {
+                "texto": "He multiplicado por tres la hucha de las pensiones. Me lo dejaron los señores del PP en 5.000 millones de euros.",
+                "fuente": "https://www.eldiario.es/politica/ultima-hora-ultimo-debate-electoral-sanchez-feijoo-colau-abascal_6_13696999.html",
+                "medio": "elDiario.es"
+              },
+              {
+                "texto": "No merecen gobernar España",
+                "fuente": "https://www.diaridetarragona.com/espana/276609/sigue-directo-debate-cuatro-sanchez-feijoo-colau-abascal.html",
+                "medio": "Diari de Tarragona"
+              }
+            ],
+            "temas": [
+              "Pensiones: defendió la garantía del sistema público y la hucha de las pensiones.",
+              "Vivienda: defendió la ley estatal de vivienda, la construcción y la rehabilitación.",
+              "Presentó las elecciones como una decisión sobre que España siga siendo el motor de Europa."
+            ]
+          },
+          {
+            "id": "pp",
+            "portavoz": "Alberto Núñez Feijóo",
+            "frases": [
+              {
+                "texto": "Vamos a controlar el gasto público, vamos a bajar los impuestos y no vamos a disminuir la recaudación",
+                "fuente": "https://www.eldiario.es/politica/ultima-hora-ultimo-debate-electoral-sanchez-feijoo-colau-abascal_6_13696999.html",
+                "medio": "elDiario.es"
+              },
+              {
+                "texto": "esta ha sido la legislatura de la vivienda imposible",
+                "fuente": "https://www.diaridetarragona.com/espana/276609/sigue-directo-debate-cuatro-sanchez-feijoo-colau-abascal.html",
+                "medio": "Diari de Tarragona"
+              }
+            ],
+            "temas": [
+              "Vivienda: propuso construir un millón de viviendas.",
+              "Economía: control del gasto público y bajada de impuestos sin reducir la recaudación.",
+              "Empleo: planteó crear 500.000 puestos de trabajo."
+            ]
+          },
+          {
+            "id": "vox",
+            "portavoz": "Santiago Abascal",
+            "frases": [
+              {
+                "texto": "la red educativa también ha sido destruida y tiene los peores datos",
+                "fuente": "https://www.eldiario.es/politica/ultima-hora-ultimo-debate-electoral-sanchez-feijoo-colau-abascal_6_13696999.html",
+                "medio": "elDiario.es"
+              },
+              {
+                "texto": "es el enemigo número uno de lo público: los jóvenes no pueden comprar un piso, las mujeres están inseguras y Ceuta está abandonada",
+                "fuente": "https://www.diaridetarragona.com/espana/276609/sigue-directo-debate-cuatro-sanchez-feijoo-colau-abascal.html",
+                "medio": "Diari de Tarragona"
+              }
+            ],
+            "temas": [
+              "Vivienda: relacionó la falta de vivienda y los precios con la política migratoria.",
+              "Educación: criticó los resultados del sistema educativo.",
+              "Seguridad: habló de la seguridad de las mujeres y de la situación de Ceuta."
+            ]
+          },
+          {
+            "id": "sumar",
+            "portavoz": "Ada Colau",
+            "frases": [
+              {
+                "texto": "Las mujeres iremos en masa a votar para reivindicar libertades y exigimos respeto",
+                "fuente": "https://www.diaridetarragona.com/espana/276609/sigue-directo-debate-cuatro-sanchez-feijoo-colau-abascal.html",
+                "medio": "Diari de Tarragona"
+              },
+              {
+                "texto": "¿No cree usted que la señora Ayuso debería dimitir?",
+                "fuente": "https://www.eldiario.es/politica/ultima-hora-ultimo-debate-electoral-sanchez-feijoo-colau-abascal_6_13696999.html",
+                "medio": "elDiario.es"
+              }
+            ],
+            "temas": [
+              "Sanidad: criticó la privatización de la sanidad pública.",
+              "Igualdad: pidió condenar la violencia machista.",
+              "Vivienda: reclamó una intervención pública más ambiciosa."
+            ]
+          }
+        ],
+        "cobertura": [
+          {
+            "titulo": "Construcción, alquileres e inmigración: el choque de Sánchez, Feijóo, Abascal y Colau por la vivienda",
+            "url": "https://www.eldiariodemadrid.es/politica/debate-cuatro-vivienda-sanchez-feijoo-colau-abascal/20261126225210148103.html",
+            "medio": "El Diario de Madrid"
+          },
+          {
+            "titulo": "Debate a cuatro entre Sánchez, Feijóo, Colau y Abascal en directo",
+            "url": "https://www.eldiario.es/politica/ultima-hora-ultimo-debate-electoral-sanchez-feijoo-colau-abascal_6_13696999.html",
+            "medio": "elDiario.es"
+          },
+          {
+            "titulo": "Sigue en directo el debate a cuatro entre Sánchez, Feijóo, Colau y Abascal",
+            "url": "https://www.diaridetarragona.com/espana/276609/sigue-directo-debate-cuatro-sanchez-feijoo-colau-abascal.html",
+            "medio": "Diari de Tarragona"
+          }
+        ]
+      }
     }
   ],
   "entrevistas": {
