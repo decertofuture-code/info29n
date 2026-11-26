@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-25T19:06+00:00",
+  "actualizado": "2026-11-26T03:28+00:00",
   "temas": [
     {
       "id": "vivienda",
@@ -8244,6 +8244,219 @@
   ],
   "noticias": [
     {
+      "titulo": "Feijóo repite esquema para el debate a cuatro: test de estrés, muchos papeles y mismo equipo",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/feijoo-repite-esquema-debate-cuatro-test-estres-20261126023934-nt.html",
+      "fecha": "2026-11-26T01:39+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "El PSOE lleva en sus listas a una nacionalizada sin derecho a voto",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/psoe-lleva-listas-nacionalizada-derecho-voto-20261126022635-nt.html",
+      "fecha": "2026-11-26T01:39+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "Sánchez mantendrá el tono presidencial e intentará retratar a Feijóo con Abascal",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/sanchez-mantendra-tono-presidencial-intentara-retratar-feijoo-20261126022246-nt.html",
+      "fecha": "2026-11-26T01:23+00:00",
+      "partidos": [
+        "pp",
+        "vox"
+      ]
+    },
+    {
+      "titulo": "Colau intentará enmendar a Sánchez en el debate a cuatro y «desmentir» a Feijóo con datos",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/colau-intentara-enmendar-sanchez-debate-cuatro-desmentir-20261126022239-nt.html",
+      "fecha": "2026-11-26T01:22+00:00",
+      "partidos": [
+        "pp",
+        "sumar"
+      ]
+    },
+    {
+      "titulo": "Hermetismo total en Vox sobre la estrategia para el debate de un Abascal sin actos desde el lunes",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/hermetismo-total-vox-sobre-estrategia-abascal-actos-20261126022220-nt.html",
+      "fecha": "2026-11-26T01:22+00:00",
+      "partidos": [
+        "vox"
+      ]
+    },
+    {
+      "titulo": "Bono acusa al PP de pagar con dinero público a periodistas para difundir mentiras sobre dirigentes socialistas",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/castilla-la-mancha/bono-acusa-pp-pagar-dinero-publico-periodistas-20261126002408-nt.html",
+      "fecha": "2026-11-25T23:24+00:00",
+      "partidos": [
+        "pp",
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "Urtasun y Rufián acusan de “racismo” a PP y Vox, que defienden un giro en gestión migratoria",
+      "medio": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/politica/20261126/11693514/urtasun-rufian-acusan-racismo-pp-vox-defienden-giro-gestion-migratoria.html",
+      "fecha": "2026-11-25T23:08+00:00",
+      "partidos": [
+        "pp",
+        "vox"
+      ]
+    },
+    {
+      "titulo": "Colau va al debate a cuatro al choque con Feijóo y a marcar diferencias con Sánchez",
+      "medio": "El Mundo",
+      "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/26/6b072582fdddff89748b4579.html",
+      "fecha": "2026-11-25T23:02+00:00",
+      "partidos": [
+        "pp",
+        "sumar"
+      ]
+    },
+    {
+      "titulo": "El silencio nunca visto de Abascal en campaña: 72 horas para preparar su primer debate con Feijóo y romper su techo",
+      "medio": "El Mundo",
+      "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/26/6b073799fc6c83a9198b459d.html",
+      "fecha": "2026-11-25T23:02+00:00",
+      "partidos": [
+        "pp",
+        "vox"
+      ]
+    },
+    {
+      "titulo": "\"El voto musulmán\" sostiene al PSOE en Ceuta con la pugna PP-Vox en un puñado de votos",
+      "medio": "El Mundo",
+      "url": "https://www.elmundo.es/espana/2026/11/26/6b005c94fc6c83305c8b45b7.html",
+      "fecha": "2026-11-25T23:02+00:00",
+      "partidos": [
+        "pp",
+        "psoe",
+        "vox"
+      ]
+    },
+    {
+      "titulo": "Rufián señala los “intereses inmobiliarios” de Junts y Nogueras replica: “El señor de ERC es igual que el PSOE”",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/catalunya/rufian-senala-intereses-inmobiliarios-junts-nogueras-replica-senor-erc-igual-psoe_1_13694226.html",
+      "fecha": "2026-11-25T22:17+00:00",
+      "partidos": [
+        "psoe",
+        "erc",
+        "junts"
+      ]
+    },
+    {
+      "titulo": "Feijóo asegura que hay que \"reforzar\" la \"custodia de las sacas\" donde se guarda el voto por correo en su entrevista con Plex",
+      "medio": "20minutos",
+      "url": "https://www.20minutos.es/nacional/feijoo-asegura-que-hay-que-reforzar-custodia-las-sacas-donde-se-guarda-voto-por-correo-su-entrevista-con-plex_7065920_0.html",
+      "fecha": "2026-11-25T22:16+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "Rueda pide un «último esprint» aunque cree que el PSOE ya asume el fin del sanchismo",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/galicia/rueda-pide-ultimo-sprint-cree-psoe-asume-20261125230400-nt.html",
+      "fecha": "2026-11-25T22:04+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "Feijóo promete devolver la «decencia» al Gobierno y derribar el muro sanchista",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/madrid/feijoo-promete-devolver-decencia-gobierno-derribar-muro-20261125213242-nt.html",
+      "fecha": "2026-11-25T21:52+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "Vox apela a \"los que dudan\" y recuerda que \"los españoles siempre han estado por encima de sus peores gobernantes\"",
+      "medio": "Europa Press",
+      "url": "https://www.europapress.es/nacional/noticia-vox-apela-dudan-recuerda-espanoles-siempre-estado-encima-peores-gobernantes-20261125223905.html",
+      "fecha": "2026-11-25T21:39+00:00",
+      "partidos": [
+        "vox"
+      ]
+    },
+    {
+      "titulo": "Colau critica que el PSOE decepciona en vivienda y promete medidas en campaña que bloquea en el Gobierno",
+      "medio": "Europa Press",
+      "url": "https://www.europapress.es/nacional/noticia-colau-critica-psoe-decepciona-vivienda-promete-medidas-campana-bloquea-gobierno-20261125221158.html",
+      "fecha": "2026-11-25T21:11+00:00",
+      "partidos": [
+        "psoe",
+        "sumar"
+      ]
+    },
+    {
+      "titulo": "Feijóo llama a culminar el cambio el domingo para que gane \"la decencia\": \"Echaremos a los delincuentes del Gobierno\"",
+      "medio": "20minutos",
+      "url": "https://www.20minutos.es/nacional/feijoo-llama-culminar-cambio-domingo-para-que-gane-decencia-echaremos-los-delincuentes-gobierno_7065893_0.html",
+      "fecha": "2026-11-25T20:59+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "Feijóo llama en Madrid a “culminar las ganas de cambio” y echar a los “delincuentes del Gobierno”",
+      "medio": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/politica/20261125/11693483/feijoo-llama-madrid-culminar-ganas-cambio-echar-delincuentes-gobierno.html",
+      "fecha": "2026-11-25T20:54+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "Así han sido las entrevistas de Plex con Pedro Sánchez y Alberto Núñez Feijóo",
+      "medio": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/politica/20261125/11693418/sanchez-entrevista-plex-nunca-pense-llegaria-presidente-gobierno.html",
+      "fecha": "2026-11-25T20:47+00:00",
+      "partidos": [
+        "pp",
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "Feijóo, junto a Ayuso en un acto que no logran llenar en Madrid: “Si realmente eres socialista préstanos el voto para limpiar el PSOE”",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/politica/feijoo-ayuso-acto-no-logran-llenar-madrid-si-realmente-socialista-prestanos-voto-limpiar-psoe_1_13694058.html",
+      "fecha": "2026-11-25T20:36+00:00",
+      "partidos": [
+        "pp",
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "Feijóo avisa a Sánchez y al PSOE que \"ya no cuela el miedo\" y que \"esta vez no van a poder sumar con nadie\"",
+      "medio": "Europa Press",
+      "url": "https://www.europapress.es/nacional/noticia-feijoo-avisa-sanchez-psoe-ya-no-cuela-miedo-vez-no-van-poder-sumar-nadie-20261125212711.html",
+      "fecha": "2026-11-25T20:27+00:00",
+      "partidos": [
+        "pp",
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "Vox acusa al PSOE de destrozar las certezas de los trabajadores",
+      "medio": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/politica/20261125/11693466/vox-acusa-psoe-destrozar-certezas-trabajadores.html",
+      "fecha": "2026-11-25T19:29+00:00",
+      "partidos": [
+        "psoe",
+        "vox"
+      ]
+    },
+    {
       "titulo": "La 'ruta de Ábalos' conduce al PP al Parador de Teruel: «La corrupción rodea a Sánchez»",
       "medio": "ABC",
       "url": "https://www.abc.es/espana/aragon/ruta-abalos-conduce-pp-parador-teruel-corrupcion-20261125174744-nt.html",
@@ -8526,6 +8739,15 @@
       "partidos": [
         "pp",
         "psoe"
+      ]
+    },
+    {
+      "titulo": "Colau ficha a más actores para pedir el voto al Frente Amplio tras Javier Bardem: Eduard Fernández, Antonio de la Torre, Nathalie Poza o Tristán Ulloa",
+      "medio": "El Mundo",
+      "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/25/6b06c892e9cf4ad64d8b459d.html",
+      "fecha": "2026-11-25T12:58+00:00",
+      "partidos": [
+        "sumar"
       ]
     },
     {
@@ -10853,223 +11075,6 @@
       "fecha": "2026-11-22T20:39+00:00",
       "partidos": [
         "bng"
-      ]
-    },
-    {
-      "titulo": "Urtasun llama a elegir al Frente Amplio en vez de Vox como \"motor\" del Gobierno",
-      "medio": "Europa Press",
-      "url": "https://www.europapress.es/catalunya/noticia-urtasun-llama-elegir-frente-amplio-vez-vox-motor-gobierno-20261122213445.html",
-      "fecha": "2026-11-22T20:34+00:00",
-      "partidos": [
-        "vox",
-        "sumar"
-      ]
-    },
-    {
-      "titulo": "La IA llega a las promesas electorales de PP, PSOE, Vox, Frente Amplio y Podemos con distintas prioridades",
-      "medio": "20minutos",
-      "url": "https://www.20minutos.es/nacional/ia-llega-promesas-electorales-pp-psoe-vox-frente-amplio-podemos-distintas-prioridades_7064329_0.html",
-      "fecha": "2026-11-22T20:26+00:00",
-      "partidos": [
-        "pp",
-        "psoe",
-        "vox",
-        "sumar",
-        "podemos"
-      ]
-    },
-    {
-      "titulo": "Velázquez acusa al PSOE de no destinar fondos europeos para garantizar el agua en Los Montes de Toledo",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/castilla-la-mancha/toledo/pueblos/velazquez-acusa-psoe-destinar-fondos-europeos-garantizar-20261122210008-nt.html",
-      "fecha": "2026-11-22T20:10+00:00",
-      "partidos": [
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "Pedro Sánchez en Salvados con Gonzo en directo: Mi Gobierno “es de los más limpios de la historia de la democracia”",
-      "medio": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/politica/20261122/11690345/entrevista-pedro-sanchez-salvados-gonzo-elecciones-29n-hoy-en-directo.html",
-      "fecha": "2026-11-22T18:59+00:00",
-      "partidos": [
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "Un día detrás de Jon Echeverría, el nuevo Lamine Yamal del PP: \"No sueño con ser presidente del Gobierno\"",
-      "medio": "El Mundo",
-      "url": "https://www.elmundo.es/espana/2026/11/22/6b017facfc6c833d2b8b457c.html",
-      "fecha": "2026-11-22T18:55+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "El electorado canario prefiere a Sánchez como presidente, pero los más jóvenes se inclinan por Abascal",
-      "medio": "elDiario.es",
-      "url": "https://www.eldiario.es/canariasahora/politica/electorado-canario-prefiere-sanchez-presidente-jovenes-inclinan-abascal_1_13684646.html",
-      "fecha": "2026-11-22T17:49+00:00",
-      "partidos": [
-        "vox"
-      ]
-    },
-    {
-      "titulo": "PP y PSOE desembarcan en Formentera: la isla que se decide por la mínima y que por primera vez pone en juego un senador",
-      "medio": "El Mundo",
-      "url": "https://www.elmundo.es/baleares/2026/11/22/6b031472fc6c8339628b457e.html",
-      "fecha": "2026-11-22T16:52+00:00",
-      "partidos": [
-        "pp",
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "Frente Amplio reivindica la vivienda y los servicios públicos en su acto electoral en Alcázar",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/castilla-la-mancha/frente-amplio-reivindica-vivienda-servicios-publicos-acto-20261122172136-nt.html",
-      "fecha": "2026-11-22T16:21+00:00",
-      "partidos": [
-        "sumar"
-      ]
-    },
-    {
-      "titulo": "Rufián apela al voto socialista ante un Sánchez que se deja \"avasallar\" por Feijóo: \"Hay que ir a votar con ganas\"",
-      "medio": "20minutos",
-      "url": "https://www.20minutos.es/nacional/rufian-apela-voto-socialista-ante-un-sanchez-que-se-deja-avasallar-por-feijoo-hay-que-ir-votar-con-ganas_7064281_0.html",
-      "fecha": "2026-11-22T16:21+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Frente Amplio se va \"puerta a puerta\" para dar la vuelta a las encuestas y pide que no se dé por hecho el resultado",
-      "medio": "elDiario.es",
-      "url": "https://www.eldiario.es/euskadi/frente-amplio-puerta-puerta-dar-vuelta-encuestas-pide-no-hecho-resultado_1_13684446.html",
-      "fecha": "2026-11-22T16:18+00:00",
-      "partidos": [
-        "sumar"
-      ]
-    },
-    {
-      "titulo": "Carmela Silva, candidata del PSOE en el Senado, denuncia pintadas con insultos machistas en la casa de su hijo",
-      "medio": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/politica/20261122/11690516/carmela-silva-candidata-psoe-senado-denuncia-pintadas-insultos-machistas-casa-hijo.html",
-      "fecha": "2026-11-22T16:13+00:00",
-      "partidos": [
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "Abascal hace un llamamiento a \"todos los españoles\" en un momento de \"emergencia\": \"El que vota a la izquierda también cabe\"",
-      "medio": "20minutos",
-      "url": "https://www.20minutos.es/nacional/abascal-hace-un-llamamiento-todos-los-espanoles-un-momento-emergencia-que-vota-izquierda-tambien-cabe_7064277_0.html",
-      "fecha": "2026-11-22T16:13+00:00",
-      "partidos": [
-        "vox"
-      ]
-    },
-    {
-      "titulo": "Miriam González apela a los votantes desencantados de la política y acusa al PP y al PSOE de “40 años de corrupción pendular”",
-      "medio": "El País",
-      "url": "https://elpais.com/espana/elecciones-generales/2026-11-22/miriam-gonzalez-apela-a-los-votantes-desencantados-de-la-politica-y-acusa-al-pp-y-al-psoe-de-40-anos-de-corrupcion-pendular.html",
-      "fecha": "2026-11-22T15:57+00:00",
-      "partidos": [
-        "pp",
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "Aznar dice que un nuevo gobierno del PSOE haría peligrar la convivencia entre españoles",
-      "medio": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/politica/20261122/11690511/aznar-dice-nuevo-gobierno-psoe-haria-peligrar-convivencia-espanoles.html",
-      "fecha": "2026-11-22T15:56+00:00",
-      "partidos": [
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "Sergio Gutiérrez pide un «voto inteligente» para evitar una mayoría de PP y Vox",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/castilla-la-mancha/toledo/pueblos/sergio-gutierrez-pide-voto-inteligente-evitar-mayoria-20261122160132-nt.html",
-      "fecha": "2026-11-22T15:01+00:00",
-      "partidos": [
-        "pp",
-        "vox"
-      ]
-    },
-    {
-      "titulo": "El PSOE retrata en un vídeo a la derecha con chalecos, perlas y banderas de España",
-      "medio": "20minutos",
-      "url": "https://www.20minutos.es/nacional/psoe-retrata-un-video-derecha-con-chalecos-perlas-banderas-espana_7064263_0.html",
-      "fecha": "2026-11-22T15:01+00:00",
-      "partidos": [
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "Colau pide «cambiar las reglas del juego» en la vivienda: «Fuera especuladores de nuestros barrios»",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/canarias/colau-pide-cambiar-reglas-juego-vivienda-especuladores-20261122154403-nt.html",
-      "fecha": "2026-11-22T14:44+00:00",
-      "partidos": [
-        "sumar"
-      ]
-    },
-    {
-      "titulo": "ERC pide aglutinar el voto progresista: “Votar PSC es votar Adif, Renfe y el desastre de Rodalies”",
-      "medio": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/politica/20261122/11690472/erc-pide-aglutinar-voto-progresista-votar-psc-votar-adif-renfe-desastre-rodalies.html",
-      "fecha": "2026-11-22T14:44+00:00",
-      "partidos": [
-        "erc"
-      ]
-    },
-    {
-      "titulo": "Alberto Núñez Feijóo, sobre la estrategia electoral del PSOE: «Quieren que te olvides de que tienen más imputados que diputados»",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/alberto-nunez-feijoo-sobre-estrategia-electoral-psoe-20261122145334-nt.html",
-      "fecha": "2026-11-22T14:23+00:00",
-      "partidos": [
-        "pp",
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "Garriga afirma que Vox apoyará a los profesionales de la cultura que realicen un \"producto nacional de calidad\"",
-      "medio": "20minutos",
-      "url": "https://www.20minutos.es/nacional/garriga-afirma-que-vox-apoyara-los-profesionales-cultura-que-realicen-un-producto-nacional-calidad_7064257_0.html",
-      "fecha": "2026-11-22T14:19+00:00",
-      "partidos": [
-        "vox"
-      ]
-    },
-    {
-      "titulo": "Junts recupera el espíritu de Convergència con Jordi Pujol y Artur Mas para remontar las encuestas del 29-N",
-      "medio": "El Mundo",
-      "url": "https://www.elmundo.es/cataluna/2026/11/22/6b02c6e121efa0ef0d8b457d.html",
-      "fecha": "2026-11-22T14:16+00:00",
-      "partidos": [
-        "junts"
-      ]
-    },
-    {
-      "titulo": "Feijóo pide un país que \"vuelva a funcionar\" y desacredita la \"educación\" del PSOE: \"A los de las bofetadas le vamos a parar con votos\"",
-      "medio": "20minutos",
-      "url": "https://www.20minutos.es/nacional/feijoo-pide-pais-vuelva-funcionar-desacredita-educacion-psoe-bofetadas-vamos-parar-votos_7064252_0.html",
-      "fecha": "2026-11-22T14:16+00:00",
-      "partidos": [
-        "pp",
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "Abascal quiere más que una \"simple mayoría absoluta\" para finiquitar el estado autonómico: \"No nos gusta\"",
-      "medio": "elDiario.es",
-      "url": "https://www.eldiario.es/aragon/politica/abascal-quiere-simple-mayoria-absoluta-finiquitar-autonomico-no-gusta_1_13684269.html",
-      "fecha": "2026-11-22T14:10+00:00",
-      "partidos": [
-        "vox"
       ]
     }
   ],
