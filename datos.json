@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-26T14:36+00:00",
+  "actualizado": "2026-11-26T18:56+00:00",
   "temas": [
     {
       "id": "vivienda",
@@ -8244,6 +8244,271 @@
   ],
   "noticias": [
     {
+      "titulo": "Besteiro reivindica al PSOE como «dique de contención» frente a PP y Vox",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/galicia/besteiro-reivindica-psoe-dique-contencion-frente-pp-20261126164517-nt.html",
+      "fecha": "2026-11-26T18:49+00:00",
+      "partidos": [
+        "pp",
+        "psoe",
+        "vox"
+      ]
+    },
+    {
+      "titulo": "Montero carga contra la \"izquierda dócil\" del PSOE y Pravia cuestiona la capacidad negociadora de Lastra",
+      "medio": "Europa Press",
+      "url": "https://www.europapress.es/asturias/noticia-montero-carga-contra-izquierda-docil-psoe-pravia-cuestiona-capacidad-negociadora-lastra-20261126194709.html",
+      "fecha": "2026-11-26T18:47+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "Las medidas de Frente Amplio y Ada Colau en materia de inmigración en España: propuestas de su programa electoral para las elecciones generales 29N",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/medidas-frente-amplio-ada-colau-materia-inmigracion-20261123194535-nt.html",
+      "fecha": "2026-11-26T18:46+00:00",
+      "partidos": [
+        "sumar"
+      ]
+    },
+    {
+      "titulo": "Qué propone Santiago Abascal y Vox para la agricultura y la ganadería en España: medidas de su programa electoral para las elecciones generales 29N",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/propone-santiago-abascal-vox-agricultura-ganaderia-espana-20261126190517-nt.html",
+      "fecha": "2026-11-26T18:35+00:00",
+      "partidos": [
+        "vox"
+      ]
+    },
+    {
+      "titulo": "Las medidas de Vox y Abascal para resolver el problema de la inmigración en España: propuestas de su programa electoral para las elecciones generales en España",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/medidas-vox-abascal-resolver-problema-inmigracion-espana-20261119192934-nt.html",
+      "fecha": "2026-11-26T18:31+00:00",
+      "partidos": [
+        "vox"
+      ]
+    },
+    {
+      "titulo": "Última hora sobre el último debate electoral con Sánchez, Feijóo, Colau y Abascal",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/politica/ultima-hora-ultimo-debate-electoral-sanchez-feijoo-colau-abascal_6_13696999.html",
+      "fecha": "2026-11-26T18:28+00:00",
+      "partidos": [
+        "pp",
+        "vox",
+        "sumar"
+      ]
+    },
+    {
+      "titulo": "Qué proponen Frente Amplio y Ada Colau para mejorar la sanidad en España: medidas de su programa electoral para las elecciones generales",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/proponen-frente-amplio-ada-colau-mejorar-sanidad-20261126185722-nt.html",
+      "fecha": "2026-11-26T18:27+00:00",
+      "partidos": [
+        "sumar"
+      ]
+    },
+    {
+      "titulo": "Las propuestas de Ada Colau y el Frente Amplio para la agricultura y la ganadería en España: medidas de su programa electoral para las elecciones generales",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/propuestas-ada-colau-frente-amplio-agricultura-ganaderia-20261126192642-nt.html",
+      "fecha": "2026-11-26T18:27+00:00",
+      "partidos": [
+        "sumar"
+      ]
+    },
+    {
+      "titulo": "Vox denuncia el retraso de las obras del cuartel de Toledo y reclama soluciones para las familias desalojadas",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/castilla-la-mancha/toledo/vox-denuncia-retraso-obras-cuartel-toledo-reclama-20261126192636-nt.html",
+      "fecha": "2026-11-26T18:26+00:00",
+      "partidos": [
+        "vox"
+      ]
+    },
+    {
+      "titulo": "Las medidas de Abascal y Vox para mejorar la sanidad en España: programa electoral para las elecciones generales del 29N",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/medidas-abascal-vox-mejorar-sanidad-espana-programa-20261126184743-nt.html",
+      "fecha": "2026-11-26T18:18+00:00",
+      "partidos": [
+        "vox"
+      ]
+    },
+    {
+      "titulo": "El divertido momento de Irene Montero con una mujer que no la reconoce y provoca la risa de la líder de Podemos: \"Me parezco, sí\"",
+      "medio": "20minutos",
+      "url": "https://www.20minutos.es/nacional/divertido-momento-irene-montero-con-una-mujer-que-no-reconoce-provoca-risa-lider-podemos-me-parezco-si_7066385_0.html",
+      "fecha": "2026-11-26T18:00+00:00",
+      "partidos": [
+        "podemos"
+      ]
+    },
+    {
+      "titulo": "La Justicia condena a un concejal de ERC por amenazar a un edil de Ciudadanos: «Acabaré contigo»",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/cataluna/justicia-condena-concejal-erc-amenazar-edil-ciudadanos-20261126185957-nt.html",
+      "fecha": "2026-11-26T17:59+00:00",
+      "partidos": [
+        "erc"
+      ]
+    },
+    {
+      "titulo": "Qué proponen Frente Amplio y Ada Colau para la educación en España: medidas de su programa electoral de las elecciones generales 29N",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/proponen-frente-amplio-ada-colau-educacion-espana-20261126182225-nt.html",
+      "fecha": "2026-11-26T17:52+00:00",
+      "partidos": [
+        "sumar"
+      ]
+    },
+    {
+      "titulo": "Las medidas de Vox y Abascal en educación que recoge su programa electoral: propuestas para las elecciones generales 29N",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/medidas-vox-abascal-educacion-recoge-programa-electoral-20261126181225-nt.html",
+      "fecha": "2026-11-26T17:42+00:00",
+      "partidos": [
+        "vox"
+      ]
+    },
+    {
+      "titulo": "Encuestas elecciones generales 29N: resultados de PSOE, PP, Vox y Frente Amplio y ganador según GAD3, el CIS y otros sondeos",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/encuestas-elecciones-generales-29n-resultados-psoe-pp-vox-frente-amplio-ganador-segundos-20261126050000-nt.html",
+      "fecha": "2026-11-26T17:39+00:00",
+      "partidos": [
+        "pp",
+        "psoe",
+        "vox",
+        "sumar"
+      ]
+    },
+    {
+      "titulo": "Debate electoral a 4, en directo: Sánchez, Feijóo, Abascal y Colau, minuto a minuto",
+      "medio": "Europa Press",
+      "url": "https://www.europapress.es/nacional/noticia-debate-electoral-directo-sanchez-feijoo-abascal-colau-minuto-minuto-20261126183629.html",
+      "fecha": "2026-11-26T17:36+00:00",
+      "partidos": [
+        "pp",
+        "vox",
+        "sumar"
+      ]
+    },
+    {
+      "titulo": "Vox plantea un recorte “moderado” de 112.000 millones de gasto público",
+      "medio": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/politica/20261126/11694309/vox-plantea-recorte-moderado-112-000-millones-gasto-publico.html",
+      "fecha": "2026-11-26T17:00+00:00",
+      "partidos": [
+        "vox"
+      ]
+    },
+    {
+      "titulo": "Un misterioso cartel del PSOE oculta a los invitados de su último mitin y las redes bromean: \"¿Te imaginas a Aitana o Rosalía?\"",
+      "medio": "20minutos",
+      "url": "https://www.20minutos.es/nacional/psoe-publica-un-misterioso-cartel-que-oculta-los-invitados-su-ultimo-mitin-campana-madrid_7066348_0.html",
+      "fecha": "2026-11-26T16:51+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "Una concejala del PSOE en Murcia, a Vox tras relatar los abusos que sufrió con 13 años: \"Ustedes dirían que se trata de una denuncia falsa\"",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/murcia/politica/concejala-psoe-murcia-vox-relatar-abusos-sufrio-13-anos-dirian-trata-denuncia-falsa_1_13696589.html",
+      "fecha": "2026-11-26T16:45+00:00",
+      "partidos": [
+        "psoe",
+        "vox"
+      ]
+    },
+    {
+      "titulo": "Vox concreta su tijeretazo al gasto público: 112.000 millones, el doble del gasto anual en Educación",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/economia/vox-concreta-tijeretazo-gasto-publico-112-000-millones-doble-gasto-anual-educacion_1_13696579.html",
+      "fecha": "2026-11-26T16:34+00:00",
+      "partidos": [
+        "vox"
+      ]
+    },
+    {
+      "titulo": "La jueza rechaza investigar si hay vínculos entre Vox y el apaleamiento de un muñeco de Sánchez en Ferraz",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/politica/jueza-rechaza-investigar-si-hay-vinculos-vox-apaleamiento-muneco-sanchez-ferraz_1_13696580.html",
+      "fecha": "2026-11-26T16:17+00:00",
+      "partidos": [
+        "psoe",
+        "vox"
+      ]
+    },
+    {
+      "titulo": "La tertuliana de Canal Extremadura que comparó a Pedro Sánchez con un maltratador: \"Ahora me considero una mujer maltratada\"",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/extremadura/politica/tertuliana-canal-extremadura-comparo-pedro-sanchez-maltratador-ahora-considero-mujer-maltratada_1_13696422.html",
+      "fecha": "2026-11-26T15:46+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "El juez Manuel Ruiz de Lara publica un vídeo en redes contra el PSOE y Silvia Intxaurrondo y luego lo borra",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/politica/juez-manuel-ruiz-lara-publica-video-redes-psoe-silvia-intxaurrondo-luego-borra_1_13696415.html",
+      "fecha": "2026-11-26T15:42+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "Feijóo promete endurecer las penas por agredir a policías y declarar la profesión de riesgo si llega a Moncloa",
+      "medio": "Europa Press",
+      "url": "https://www.europapress.es/nacional/noticia-feijoo-promete-endurecer-penas-agredir-policias-declarar-profesion-riesgo-si-llega-moncloa-20261126161956.html",
+      "fecha": "2026-11-26T15:19+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "Mas también arropará a Nogueras en el mitin final de Junts",
+      "medio": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/politica/20261126/11694201/arropara-nogueras-mitin-final-junts.html",
+      "fecha": "2026-11-26T15:18+00:00",
+      "partidos": [
+        "junts"
+      ]
+    },
+    {
+      "titulo": "Dos años de investigación judicial para un desnudo integral del PSOE sin resultado conocido",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/politica/anos-investigacion-judicial-desnudo-integral-psoe-resultado-conocido_129_13694506.html",
+      "fecha": "2026-11-26T15:10+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "El alcalde de Girona Lluc Salellas (CUP) anuncia que votará a ERC el 29-N para “frenar la involución de PP y Vox”",
+      "medio": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/politica/20261126/11693972/alcalde-girona-lluc-salellas-cup-anuncia-votara-erc-29-n-frenar-involucion-pp-vox.html",
+      "fecha": "2026-11-26T15:06+00:00",
+      "partidos": [
+        "pp",
+        "vox",
+        "erc"
+      ]
+    },
+    {
+      "titulo": "Jorge Javier invita a Pedro Sánchez a juzgar a Peinado en un nuevo programa: \"No me tires de la lengua\"",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/rastreador/jorge-javier-invita-pedro-sanchez-juzgar-peinado-nuevo-programa-no-tires-lengua_132_13696049.html",
+      "fecha": "2026-11-26T14:37+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
       "titulo": "Un juez en activo entra en “campaña” con un vídeo en redes contra el Gobierno, el PSOE y la periodista Silvia Intxaurrondo",
       "medio": "El País",
       "url": "https://elpais.com/espana/2026-11-26/un-juez-en-activo-entra-en-campana-con-un-video-en-redes-contra-el-gobierno-el-psoe-y-la-periodista-silvia-intxaurrondo.html",
@@ -8376,6 +8641,16 @@
       ]
     },
     {
+      "titulo": "PP y Vox ponen de ejemplo el pacto valenciano a las puertas del 29-N: \"El Gobierno del cambio ha valido la pena\"",
+      "medio": "El Mundo",
+      "url": "https://www.elmundo.es/comunidad-valenciana/2026/11/26/6b07ff7de85ece933c8b4579.html",
+      "fecha": "2026-11-26T11:36+00:00",
+      "partidos": [
+        "pp",
+        "vox"
+      ]
+    },
+    {
       "titulo": "El PP de Zaragoza veta una obra de teatro para jóvenes sobre una maestra republicana por no ser \"neutral\"",
       "medio": "elDiario.es",
       "url": "https://www.eldiario.es/aragon/cultura/pp-zaragoza-veta-obra-teatral-jovenes-acerca-maestra-republicana-no-considerarla-neutral_1_13695054.html",
@@ -8497,6 +8772,17 @@
       "fecha": "2026-11-26T08:17+00:00",
       "partidos": [
         "pp"
+      ]
+    },
+    {
+      "titulo": "Colau promete \"firmeza\" con Abascal y Feijóo y avanza que hablará de violencia machista en el debate a cuatro",
+      "medio": "Europa Press",
+      "url": "https://www.europapress.es/nacional/noticia-colau-promete-firmeza-abascal-feijoo-avanza-hablara-violencia-machista-debate-cuatro-20261126091635.html",
+      "fecha": "2026-11-26T08:16+00:00",
+      "partidos": [
+        "pp",
+        "vox",
+        "sumar"
       ]
     },
     {
@@ -10791,289 +11077,6 @@
       "fecha": "2026-11-23T14:51+00:00",
       "partidos": [
         "bildu"
-      ]
-    },
-    {
-      "titulo": "Encuestas elecciones generales en Aragón: resultados de PSOE, PP y Vox y ganador según los sondeos el 29N",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/aragon/encuestas-elecciones-generales-aragon-resultados-psoe-pp-20261123112403-nt.html",
-      "fecha": "2026-11-23T14:47+00:00",
-      "partidos": [
-        "pp",
-        "psoe",
-        "vox"
-      ]
-    },
-    {
-      "titulo": "Encuestas elecciones generales 29N en Comunidad Valenciana: resultados de PSOE, PP, Vox y Compromís y ganador según los sondeos",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/comunidad-valenciana/encuestas-elecciones-generales-29n-comunidad-valenciana-resultados-20261123111527-nt.html",
-      "fecha": "2026-11-23T14:46+00:00",
-      "partidos": [
-        "pp",
-        "psoe",
-        "vox",
-        "compromis"
-      ]
-    },
-    {
-      "titulo": "Un cálculo alternativo del CIS da empate técnico a PP y PSOE con una mayoría de las derechas",
-      "medio": "elDiario.es",
-      "url": "https://www.eldiario.es/politica/calculo-alternativo-cis-da-empate-tecnico-pp-psoe-clara-mayoria-derechas_1_13686270.html",
-      "fecha": "2026-11-23T14:45+00:00",
-      "partidos": [
-        "pp",
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "La Audiencia Nacional descarta de nuevo investigar a Cospedal por Kitchen como pedía el PSOE",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/audiencia-nacional-descarta-nuevo-investigar-cospedal-kitchen-20261123145108-nt.html",
-      "fecha": "2026-11-23T14:21+00:00",
-      "partidos": [
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "El PP, tras el último CIS que dispara al PSOE: \"Será el último de Tezanos porque Feijóo le va a despedir en cuanto llegue a Moncloa\"",
-      "medio": "20minutos",
-      "url": "https://www.20minutos.es/nacional/pp-tras-ultimo-cis-que-dispara-psoe-sera-ultimo-tezanos-porque-feijoo-le-va-despedir-cuanto-llegue-moncloa_7064652_0.html",
-      "fecha": "2026-11-23T14:19+00:00",
-      "partidos": [
-        "pp",
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "Abascal asegura que es \"útil\" cualquier voto que no vaya a Sánchez ni a \"sus cómplices\" y pide al PP no repetir un mensaje \"dañino\"",
-      "medio": "20minutos",
-      "url": "https://www.20minutos.es/nacional/abascal-asegura-que-es-util-cualquier-voto-que-no-vaya-sanchez-ni-sus-complices-pide-pp-no-repetir-un-mensaje-danino_7064587_0.html",
-      "fecha": "2026-11-23T14:10+00:00",
-      "partidos": [
-        "pp",
-        "vox"
-      ]
-    },
-    {
-      "titulo": "Feijóo carga contra RTVE y promete recuperar la \"equidad\" en sus informativos: \"Parece una televisión norcoreana\"",
-      "medio": "20minutos",
-      "url": "https://www.20minutos.es/nacional/feijoo-carga-contra-rtve-promete-recuperar-equidad-sus-informativos-parece-una-television-norcoreana_7064645_0.html",
-      "fecha": "2026-11-23T14:09+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Abascal defiende el apoyo a todo el bloque de la derecha: \"Cualquier voto que no vaya a la mafia de Sánchez o a sus cómplices es un voto útil para los españoles\"",
-      "medio": "El Mundo",
-      "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/23/6b0446bdfdddff7b7e8b458b.html",
-      "fecha": "2026-11-23T14:06+00:00",
-      "partidos": [
-        "vox"
-      ]
-    },
-    {
-      "titulo": "El PSOE aventaja en casi 10 puntos al PP, según el último CIS antes del 29-N",
-      "medio": "El País",
-      "url": "https://elpais.com/espana/elecciones-generales/2026-11-23/el-psoe-aventaja-en-casi-10-puntos-al-pp-segun-el-ultimo-cis-antes-del-29-n.html",
-      "fecha": "2026-11-23T14:05+00:00",
-      "partidos": [
-        "pp",
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "Santiago Abascal responde a Sánchez por decir que tiene datos que le dan mayoría: \"Los de votantes que distribuyes por provincias?\"",
-      "medio": "20minutos",
-      "url": "https://www.20minutos.es/nacional/abascal-responde-sanchez-por-decir-que-tiene-datos-que-le-dan-mayoria-que-datos-tienes-los-los-votantes-que-has-distribuido-por-las-provincias_7064642_0.html",
-      "fecha": "2026-11-23T13:58+00:00",
-      "partidos": [
-        "vox"
-      ]
-    },
-    {
-      "titulo": "Feijóo carga contra TVE: “Parece una televisión norcoreana y los informativos son una vergüenza”",
-      "medio": "El País",
-      "url": "https://elpais.com/espana/elecciones-generales/2026-11-23/feijoo-carga-contra-tve-parece-una-television-norcoreana-y-los-informativos-son-una-verguenza.html",
-      "fecha": "2026-11-23T13:45+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Puigdemont reacciona al archivo de su causa y recomienda a sus \"enemigos\" un poema que dice: \"Me muero de ganas de daros por culo\"",
-      "medio": "20minutos",
-      "url": "https://www.20minutos.es/nacional/puigdemont-recomienda-sus-enemigos-un-poema-que-dice-me-muero-ganas-daros-por-culo-para-celebrar-su-amnistia_7064623_0.html",
-      "fecha": "2026-11-23T13:30+00:00",
-      "partidos": [
-        "junts"
-      ]
-    },
-    {
-      "titulo": "Puigdemont recomienda un poema \"a los enemigos\" tras la amnistía: \"Me muero de ganas de daros por el culo\"",
-      "medio": "elDiario.es",
-      "url": "https://www.eldiario.es/catalunya/puigdemont-recomienda-poema-enemigos-amnistia-muero-ganas-daros-culo_1_13686211.html",
-      "fecha": "2026-11-23T13:25+00:00",
-      "partidos": [
-        "junts"
-      ]
-    },
-    {
-      "titulo": "El PP denuncia al CIS ante la Junta Electoral para exigir que todos los partidos tengan acceso a sus datos demoscópicos",
-      "medio": "20minutos",
-      "url": "https://www.20minutos.es/nacional/pp-denuncia-cis-ante-junta-electoral-para-exigir-que-todos-los-partidos-tengan-acceso-sus-datos-demoscopicos_7064598_0.html",
-      "fecha": "2026-11-23T13:14+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Todas las encuestas menos el CIS dan la victoria a Feijóo y una amplia mayoría absoluta a PP y Vox",
-      "medio": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/politica/20261123/11691293/todas-encuestas-cis-dan-victoria-feijoo-amplia-mayoria-absoluta-pp-vox.html",
-      "fecha": "2026-11-23T13:08+00:00",
-      "partidos": [
-        "pp",
-        "vox"
-      ]
-    },
-    {
-      "titulo": "Felipe González tira de ironía para responder a Bono tras pedirle que siga votando al PSOE: \"Sé que él lo hace 'pro bono'\"",
-      "medio": "20minutos",
-      "url": "https://www.20minutos.es/nacional/felipe-gonzalez-tira-ironia-para-responder-bono-tras-pedirle-que-siga-votando-psoe-se-que-hace-pro-bono_7064613_0.html",
-      "fecha": "2026-11-23T13:06+00:00",
-      "partidos": [
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "Puigdemont cita un poema para dirigirse a sus “enemigos” tras ser amnistiado: “Me muero de ganas de daros por culo”",
-      "medio": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/politica/20261123/11691278/puigdemont-cita-poema-dirigirse-enemigos-amnistiado-me-muero-ganas-daros-culo.html",
-      "fecha": "2026-11-23T13:00+00:00",
-      "partidos": [
-        "junts"
-      ]
-    },
-    {
-      "titulo": "Nevenka Fernández considera “una vergüenza” que se “arrope” al alcalde de Móstoles (PP) investigado por acoso y apoyado por Ayuso",
-      "medio": "El País",
-      "url": "https://elpais.com/espana/elecciones-generales/2026-11-23/nevenka-fernandez-considera-una-verguenza-que-se-arrope-al-alcalde-de-mostoles-pp-investigado-por-presunto-acoso.html",
-      "fecha": "2026-11-23T12:57+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Feijóo revela que su perra Cata tiene cáncer: el animal se hizo viral por la imagen que publicó el PP tras el cara a cara con Sánchez",
-      "medio": "20minutos",
-      "url": "https://www.20minutos.es/nacional/feijoo-revela-que-su-perra-cata-tiene-cancer-animal-se-hizo-viral-por-imagen-que-publico-pp-tras-cara-cara-con-sanchez_7064582_0.html",
-      "fecha": "2026-11-23T12:55+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Abascal dice que Sánchez manipulará el recuento del CERA e impugnará las elecciones si no salen sus \"trampas\"",
-      "medio": "Europa Press",
-      "url": "https://www.europapress.es/nacional/noticia-abascal-dice-sanchez-manipulara-recuento-cera-impugnara-elecciones-si-no-salen-trampas-20261123135535.html",
-      "fecha": "2026-11-23T12:55+00:00",
-      "partidos": [
-        "vox"
-      ]
-    },
-    {
-      "titulo": "El 'CIS murciano' otorga la victoria al Partido Popular y augura una lucha agónica entre Vox y el PSOE por el último escaño",
-      "medio": "El Mundo",
-      "url": "https://www.elmundo.es/murcia/2026/11/23/6b042340e4d4d8d37e8b4588.html",
-      "fecha": "2026-11-23T12:45+00:00",
-      "partidos": [
-        "pp",
-        "psoe",
-        "vox"
-      ]
-    },
-    {
-      "titulo": "Nevenka Fernández, tras el apoyo del PP de Ayuso al alcalde de Móstoles: “Es una vergüenza”",
-      "medio": "elDiario.es",
-      "url": "https://www.eldiario.es/comunitat-valenciana/nevenka-fernandez-ve-verguenza-pp-arrope-alcalde-mostoles-denunciado-acoso-peleamos-no-ocurra_1_13685491.html",
-      "fecha": "2026-11-23T12:37+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "El PP acusa a Sánchez de usar dinero público para \"fabricar una realidad electoral\" y promete destituir a Tezanos",
-      "medio": "Europa Press",
-      "url": "https://www.europapress.es/nacional/noticia-pp-acusa-sanchez-usar-dinero-publico-fabricar-realidad-electoral-promete-destituir-tezanos-20261123133347.html",
-      "fecha": "2026-11-23T12:33+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "El Supremo aplica la amnistía a Puigdemont y archiva definitivamente la causa del 'procés' nueve años después de su apertura",
-      "medio": "El Mundo",
-      "url": "https://www.elmundo.es/espana/2026/11/23/6b042ed9e4d4d8872c8b4579.html",
-      "fecha": "2026-11-23T12:29+00:00",
-      "partidos": [
-        "junts"
-      ]
-    },
-    {
-      "titulo": "Documento | El auto del Tribunal Supremo que aplica la amnistía a Puigdemont y cierra la causa del 'procés'",
-      "medio": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/politica/20261123/11691231/documento-auto-supremo-amnistia-puigdemont-cierra-proces.html",
-      "fecha": "2026-11-23T12:28+00:00",
-      "partidos": [
-        "junts"
-      ]
-    },
-    {
-      "titulo": "El Frente Amplio se rebela contra las encuestas y la llamada al voto útil del PSOE",
-      "medio": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/politica/20261123/11691233/frente-amplio-rebela-llamada-voto-util-psoe-colau-cis.html",
-      "fecha": "2026-11-23T12:25+00:00",
-      "partidos": [
-        "psoe",
-        "sumar"
-      ]
-    },
-    {
-      "titulo": "El Supremo amnistía al expresidente catalán Carles Puigdemont",
-      "medio": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/politica/20261123/11691225/supremo-amnistia-expresidente-catalan-carles-puigdemont.html",
-      "fecha": "2026-11-23T12:18+00:00",
-      "partidos": [
-        "junts"
-      ]
-    },
-    {
-      "titulo": "El Supremo amnistía a Puigdemont y cierra la causa del 'procés' casi una década después",
-      "medio": "Europa Press",
-      "url": "https://www.europapress.es/nacional/noticia-supremo-amnistia-puigdemont-cierra-causa-proces-casi-decada-despues-20261123131801.html",
-      "fecha": "2026-11-23T12:18+00:00",
-      "partidos": [
-        "junts"
-      ]
-    },
-    {
-      "titulo": "Junts relativiza los sondeos y apela al “voto útil” para Catalunya",
-      "medio": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/politica/20261123/11691222/junts-relativiza-sondeos-apela-voto-util-catalunya.html",
-      "fecha": "2026-11-23T12:17+00:00",
-      "partidos": [
-        "junts"
-      ]
-    },
-    {
-      "titulo": "El Supremo aplica la amnistía a Puigdemont y cierra su causa penal nueve años después",
-      "medio": "El Confidencial",
-      "url": "https://www.elconfidencial.com/espana/2026-11-23/la-sala-de-lo-penal-del-ts-declara-extinguida-la-responsabilidad-penal-de-puigdemont-por-la-amnistia_4470682/",
-      "fecha": "2026-11-23T12:17+00:00",
-      "partidos": [
-        "junts"
       ]
     }
   ],
