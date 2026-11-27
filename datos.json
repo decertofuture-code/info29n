@@ -8244,6 +8244,30 @@
   ],
   "noticias": [
     {
+      "titulo": "Debate electoral a cuatro, en directo: bloques y última hora de Sánchez, Feijóo, Abascal y Colau",
+      "medio": "OKDiario",
+      "url": "https://okdiario.com/espana/debate-electoral-del-29n-directo-horario-donde-ver-ultima-hora-sanchez-feijoo-abascal-colau-21280256",
+      "fecha": "2026-11-26T23:02+00:00",
+      "partidos": [
+        "psoe",
+        "pp",
+        "vox",
+        "sumar"
+      ]
+    },
+    {
+      "titulo": "Debate a cuatro por las elecciones generales del 29N, en directo",
+      "medio": "Público",
+      "url": "https://www.publico.es/politica/debate-cuatro-elecciones-generales-29n-directo.html",
+      "fecha": "2026-11-26T21:31+00:00",
+      "partidos": [
+        "psoe",
+        "pp",
+        "vox",
+        "sumar"
+      ]
+    },
+    {
       "titulo": "Construcción, alquileres e inmigración: el choque de Sánchez, Feijóo, Abascal y Colau por la vivienda",
       "medio": "El Diario de Madrid",
       "url": "https://www.eldiariodemadrid.es/politica/debate-cuatro-vivienda-sanchez-feijoo-colau-abascal/20261126225210148103.html",
@@ -12048,28 +12072,34 @@
       ],
       "fuente": "https://www.periodicodeibiza.es/noticias/elecciones-29n/2026/11/20/2753787/cuando-debate-cuatro-elecciones-generales-del-sanchez-feijoo-abascal-colau-fecha-hora.html",
       "resumen": {
-        "actualizado": "2026-11-27T00:20:00+01:00",
-        "nota": "Frases literales tal como las recogieron los medios. Mismo espacio para cada candidato.",
+        "actualizado": "2026-11-27T01:20:00+01:00",
+        "nota": "Tres frases literales por candidato, tal como las recogieron medios de distintas líneas, y los temas que planteó cada uno.",
         "partidos": [
           {
             "id": "psoe",
             "portavoz": "Pedro Sánchez",
             "frases": [
               {
-                "texto": "He multiplicado por tres la hucha de las pensiones. Me lo dejaron los señores del PP en 5.000 millones de euros.",
-                "fuente": "https://www.eldiario.es/politica/ultima-hora-ultimo-debate-electoral-sanchez-feijoo-colau-abascal_6_13696999.html",
-                "medio": "elDiario.es"
+                "texto": "La ley estatal de vivienda es una de las mayores conquistas de la democracia.",
+                "fuente": "https://www.publico.es/politica/debate-cuatro-elecciones-generales-29n-directo.html",
+                "medio": "Público"
               },
               {
-                "texto": "No merecen gobernar España",
-                "fuente": "https://www.diaridetarragona.com/espana/276609/sigue-directo-debate-cuatro-sanchez-feijoo-colau-abascal.html",
-                "medio": "Diari de Tarragona"
+                "texto": "Hemos demostrado que se puede subir el salario mínimo y llenar la hucha de las pensiones",
+                "fuente": "https://okdiario.com/espana/debate-electoral-del-29n-directo-horario-donde-ver-ultima-hora-sanchez-feijoo-abascal-colau-21280256",
+                "medio": "OKDiario"
+              },
+              {
+                "texto": "Tú vas a tener mucho más poder que Abascal y que Feijóo juntos",
+                "fuente": "https://www.elespanol.com/espana/20261126/debate-a-cuatro-4-electoral-hoy-directo-ganador-resultado-ultima-hora-pedro-sanchez-alberto-nunez-feijoo-santiago-abascal-ada-colau/1003744473723_10.html",
+                "medio": "El Español"
               }
             ],
             "temas": [
-              "Pensiones: defendió la garantía del sistema público y la hucha de las pensiones.",
-              "Vivienda: defendió la ley estatal de vivienda, la construcción y la rehabilitación.",
-              "Presentó las elecciones como una decisión sobre que España siga siendo el motor de Europa."
+              "Vivienda: defendió la ley estatal de vivienda.",
+              "Economía y pensiones: subida del salario mínimo y la hucha de las pensiones.",
+              "Política exterior: calificó de genocidio lo ocurrido en Gaza.",
+              "En el minuto final pidió el voto para que España siga «progresando 4 años más»."
             ]
           },
           {
@@ -12077,19 +12107,25 @@
             "portavoz": "Alberto Núñez Feijóo",
             "frases": [
               {
+                "texto": "El PP propone un millón de viviendas y ustedes ponen un millón de excusas.",
+                "fuente": "https://www.publico.es/politica/debate-cuatro-elecciones-generales-29n-directo.html",
+                "medio": "Público"
+              },
+              {
                 "texto": "Vamos a controlar el gasto público, vamos a bajar los impuestos y no vamos a disminuir la recaudación",
                 "fuente": "https://www.eldiario.es/politica/ultima-hora-ultimo-debate-electoral-sanchez-feijoo-colau-abascal_6_13696999.html",
                 "medio": "elDiario.es"
               },
               {
-                "texto": "esta ha sido la legislatura de la vivienda imposible",
-                "fuente": "https://www.diaridetarragona.com/espana/276609/sigue-directo-debate-cuatro-sanchez-feijoo-colau-abascal.html",
-                "medio": "Diari de Tarragona"
+                "texto": "Se acabarán las regularizaciones masivas. Quien cometa un delito será expulsado.",
+                "fuente": "https://www.elespanol.com/espana/20261126/debate-a-cuatro-4-electoral-hoy-directo-ganador-resultado-ultima-hora-pedro-sanchez-alberto-nunez-feijoo-santiago-abascal-ada-colau/1003744473723_10.html",
+                "medio": "El Español"
               }
             ],
             "temas": [
               "Vivienda: propuso construir un millón de viviendas.",
               "Economía: control del gasto público y bajada de impuestos sin reducir la recaudación.",
+              "Inmigración: «legal y ordenada», sin regularizaciones masivas.",
               "Empleo: planteó crear 500.000 puestos de trabajo."
             ]
           },
@@ -12098,20 +12134,26 @@
             "portavoz": "Santiago Abascal",
             "frases": [
               {
+                "texto": "El próximo Gobierno no puede convertirse en un enemigo de los trabajadores",
+                "fuente": "https://okdiario.com/espana/debate-electoral-del-29n-directo-horario-donde-ver-ultima-hora-sanchez-feijoo-abascal-colau-21280256",
+                "medio": "OKDiario"
+              },
+              {
                 "texto": "la red educativa también ha sido destruida y tiene los peores datos",
                 "fuente": "https://www.eldiario.es/politica/ultima-hora-ultimo-debate-electoral-sanchez-feijoo-colau-abascal_6_13696999.html",
                 "medio": "elDiario.es"
               },
               {
-                "texto": "es el enemigo número uno de lo público: los jóvenes no pueden comprar un piso, las mujeres están inseguras y Ceuta está abandonada",
-                "fuente": "https://www.diaridetarragona.com/espana/276609/sigue-directo-debate-cuatro-sanchez-feijoo-colau-abascal.html",
-                "medio": "Diari de Tarragona"
+                "texto": "Les pido el voto para que España reconquiste su futuro",
+                "fuente": "https://www.elespanol.com/espana/20261126/debate-a-cuatro-4-electoral-hoy-directo-ganador-resultado-ultima-hora-pedro-sanchez-alberto-nunez-feijoo-santiago-abascal-ada-colau/1003744473723_10.html",
+                "medio": "El Español"
               }
             ],
             "temas": [
-              "Vivienda: relacionó la falta de vivienda y los precios con la política migratoria.",
-              "Educación: criticó los resultados del sistema educativo.",
-              "Seguridad: habló de la seguridad de las mujeres y de la situación de Ceuta."
+              "Vivienda: la relacionó con la inmigración y propuso impuestos cero para la primera vivienda.",
+              "Inmigración: control de fronteras y defensa de Ceuta.",
+              "Servicios públicos: criticó la situación de la sanidad y los resultados educativos.",
+              "Economía: criticó la presión fiscal y los salarios."
             ]
           },
           {
@@ -12119,9 +12161,14 @@
             "portavoz": "Ada Colau",
             "frases": [
               {
-                "texto": "Las mujeres iremos en masa a votar para reivindicar libertades y exigimos respeto",
-                "fuente": "https://www.diaridetarragona.com/espana/276609/sigue-directo-debate-cuatro-sanchez-feijoo-colau-abascal.html",
-                "medio": "Diari de Tarragona"
+                "texto": "Le hago una petición: si hay un Gobierno progresista bajemos los alquileres y expropiemos a los fondos buitres",
+                "fuente": "https://www.publico.es/politica/debate-cuatro-elecciones-generales-29n-directo.html",
+                "medio": "Público"
+              },
+              {
+                "texto": "Quiero dejar muy claro que las mujeres no vamos a parar hasta que las víctimas sean cero",
+                "fuente": "https://okdiario.com/espana/debate-electoral-del-29n-directo-horario-donde-ver-ultima-hora-sanchez-feijoo-abascal-colau-21280256",
+                "medio": "OKDiario"
               },
               {
                 "texto": "¿No cree usted que la señora Ayuso debería dimitir?",
@@ -12130,9 +12177,10 @@
               }
             ],
             "temas": [
+              "Vivienda: bajar los alquileres y expropiar viviendas a los fondos de inversión.",
+              "Igualdad: condena de la violencia machista.",
               "Sanidad: criticó la privatización de la sanidad pública.",
-              "Igualdad: pidió condenar la violencia machista.",
-              "Vivienda: reclamó una intervención pública más ambiciosa."
+              "Corrupción: pidió responsabilidades a cargos del PP."
             ]
           }
         ],
@@ -12143,9 +12191,24 @@
             "medio": "El Diario de Madrid"
           },
           {
+            "titulo": "Debate a cuatro por las elecciones generales del 29N, en directo",
+            "url": "https://www.publico.es/politica/debate-cuatro-elecciones-generales-29n-directo.html",
+            "medio": "Público"
+          },
+          {
+            "titulo": "Debate electoral a cuatro, en directo",
+            "url": "https://okdiario.com/espana/debate-electoral-del-29n-directo-horario-donde-ver-ultima-hora-sanchez-feijoo-abascal-colau-21280256",
+            "medio": "OKDiario"
+          },
+          {
             "titulo": "Debate a cuatro entre Sánchez, Feijóo, Colau y Abascal en directo",
             "url": "https://www.eldiario.es/politica/ultima-hora-ultimo-debate-electoral-sanchez-feijoo-colau-abascal_6_13696999.html",
             "medio": "elDiario.es"
+          },
+          {
+            "titulo": "Debate electoral a cuatro, en directo",
+            "url": "https://www.elespanol.com/espana/20261126/debate-a-cuatro-4-electoral-hoy-directo-ganador-resultado-ultima-hora-pedro-sanchez-alberto-nunez-feijoo-santiago-abascal-ada-colau/1003744473723_10.html",
+            "medio": "El Español"
           },
           {
             "titulo": "Sigue en directo el debate a cuatro entre Sánchez, Feijóo, Colau y Abascal",
