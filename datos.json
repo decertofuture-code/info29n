@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-27T14:30+00:00",
+  "actualizado": "2026-11-27T18:49+00:00",
   "temas": [
     {
       "id": "vivienda",
@@ -8244,6 +8244,129 @@
   ],
   "noticias": [
     {
+      "titulo": "Isabel Rodríguez: «La fuerza de las mujeres es imparable, acompaña al PSOE»",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/castilla-la-mancha/isabel-rodriguez-fuerza-mujeres-imparable-acompana-psoe-20261127192040-nt.html",
+      "fecha": "2026-11-27T18:22+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "¿Quién ganó el debate a cuatro entre Sánchez, Feijóo, Abascal y Ada Colau? Este es el resultado, según los lectores de ABC",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/gano-debate-cuatro-sanchez-feijoo-abascal-ada-20261127184143-nt.html",
+      "fecha": "2026-11-27T18:18+00:00",
+      "partidos": [
+        "pp",
+        "vox",
+        "sumar"
+      ]
+    },
+    {
+      "titulo": "El PP se juega catorce escaños claves con la izquierda o nacionalistas",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/pp-juega-catorce-escanos-claves-izquierda-nacionalistas-20261127191147-nt.html",
+      "fecha": "2026-11-27T18:17+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "Frente Amplio apela a una “remontada épica”: dos buenas horas de debate rescatan dos semanas grises de campaña",
+      "medio": "El País",
+      "url": "https://elpais.com/espana/elecciones-generales/2026-11-27/frente-amplio-apela-a-una-remontada-epica-dos-buenas-horas-de-debate-rescatan-dos-semanas-grises-de-campana.html",
+      "fecha": "2026-11-27T17:05+00:00",
+      "partidos": [
+        "sumar"
+      ]
+    },
+    {
+      "titulo": "Vox asiste con inquietud a la movilización de la izquierda de cara a los comicios: \"La suma no está hecha\"",
+      "medio": "Europa Press",
+      "url": "https://www.europapress.es/nacional/noticia-vox-asiste-inquietud-movilizacion-izquierda-cara-comicios-suma-no-hecha-20261127171651.html",
+      "fecha": "2026-11-27T16:16+00:00",
+      "partidos": [
+        "vox"
+      ]
+    },
+    {
+      "titulo": "El PP sitúa a Santos Cerdán en la cárcel y pidiendo el indulto en un nuevo vídeo con IA",
+      "medio": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/politica/20261127/11695245/pp-situa-santos-cerdan-carcel-pidiendo-indulto-nuevo-video-ia.html",
+      "fecha": "2026-11-27T16:14+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "Retirada la lona racista de Vox en València tras las denuncias de la izquierda en el último día de campaña",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/comunitat-valenciana/politica/retirada-lona-racista-vox-valencia-denuncias-izquierda-ultimo-dia-campana_1_13699807.html",
+      "fecha": "2026-11-27T16:11+00:00",
+      "partidos": [
+        "vox"
+      ]
+    },
+    {
+      "titulo": "A qué se dedicaba Pedro Sánchez antes de ser presidente del Gobierno",
+      "medio": "20minutos",
+      "url": "https://www.20minutos.es/nacional/dedicaba-pedro-sanchez-antes-ser-presidente-gobierno_5158762_0.html",
+      "fecha": "2026-11-27T16:07+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "Feijóo interrumpe su mitin en Barcelona para que atiendan a una persona indispuesta entre el público",
+      "medio": "20minutos",
+      "url": "https://www.20minutos.es/nacional/feijoo-interrumpe-su-mitin-barcelona-para-que-atiendan-una-persona-indispuesta-entre-publico_7066839_0.html",
+      "fecha": "2026-11-27T15:49+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "Feijóo acusa a Colau de dejar a los \"okupas dentro\" cuando era alcaldesa de Barcelona y dice que Albiol los echará",
+      "medio": "20minutos",
+      "url": "https://www.20minutos.es/nacional/feijoo-acusa-colau-dejar-los-okupas-dentro-cuando-era-alcaldesa-barcelona-dice-que-albiol-los-echara_7066829_0.html",
+      "fecha": "2026-11-27T15:19+00:00",
+      "partidos": [
+        "pp",
+        "sumar"
+      ]
+    },
+    {
+      "titulo": "Pedro Sánchez, a Feijóo y Abascal: \"La España de 2026 no tiene calladitas a las mujeres\"",
+      "medio": "El Mundo",
+      "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/27/6b0995ece85ece541a8b4597.html",
+      "fecha": "2026-11-27T14:57+00:00",
+      "partidos": [
+        "pp",
+        "psoe",
+        "vox"
+      ]
+    },
+    {
+      "titulo": "¿Por qué Santiago Abascal no hizo la mili? Las tres prórrogas que le permitieron evitar el servicio militar",
+      "medio": "20minutos",
+      "url": "https://www.20minutos.es/nacional/por-que-santiago-abascal-no-hizo-mili-tres-prorrogas-permitieron-evitar-servicio-militar_7066733_0.html",
+      "fecha": "2026-11-27T14:54+00:00",
+      "partidos": [
+        "vox"
+      ]
+    },
+    {
+      "titulo": "Abascal amenaza con \"tumbar la Comisión Europea\" después de que Bruselas cargue contra la \"prioridad nacional\" pactada por PP y Vox",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/comunitat-valenciana/politica/abascal-amenaza-tumbar-comision-europea-despues-bruselas-cargue-prioridad-nacional-pactada-pp-vox_1_13699700.html",
+      "fecha": "2026-11-27T14:49+00:00",
+      "partidos": [
+        "pp",
+        "vox"
+      ]
+    },
+    {
       "titulo": "Feijóo erige al PP en Barcelona en la “casa común de los catalanes” y apela al votante del PSOE y de Junts",
       "medio": "La Vanguardia",
       "url": "https://www.lavanguardia.com/politica/20261127/11695154/feijoo-erige-pp-barcelona-casa-comun-catalanes-apela-votante-psoe-junts.html",
@@ -9104,6 +9227,17 @@
         "pp",
         "psoe",
         "vox"
+      ]
+    },
+    {
+      "titulo": "Sánchez se aferra a Colau para tratar de batir a Feijóo con Abascal en su guion",
+      "medio": "El Mundo",
+      "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/27/6b0881cae85eced65b8b45a2.html",
+      "fecha": "2026-11-26T23:37+00:00",
+      "partidos": [
+        "pp",
+        "vox",
+        "sumar"
       ]
     },
     {
@@ -10960,135 +11094,6 @@
       "partidos": [
         "psoe",
         "sumar"
-      ]
-    },
-    {
-      "titulo": "Loles León apoya a Pedro Sánchez en Barcelona: “Somos las abuelas de los 70 con las tetas bien puestas”",
-      "medio": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/politica/20261125/11692820/loles-leon-apoya-pedro-sanchez-barcelona-abuelas-70-tetas-puestas.html",
-      "fecha": "2026-11-25T07:47+00:00",
-      "partidos": [
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "Colau y Albiol confrontan los dos modelos de vivienda y sociedad que se medirán en las urnas",
-      "medio": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/politica/20261125/11692838/colau-albiol-confrontan-debate-dos-modelos-vivienda-sociedad-mediran-urnas.html",
-      "fecha": "2026-11-25T07:44+00:00",
-      "partidos": [
-        "sumar"
-      ]
-    },
-    {
-      "titulo": "Elecciones generales 2026, en directo: Puigdemont anuncia su regreso el 12 de diciembre y última hora del 29N",
-      "medio": "Europa Press",
-      "url": "https://www.europapress.es/nacional/noticia-elecciones-generales-2026-directo-ultimas-noticias-29n-encuestas-debate-electoral-manana-20261125084430.html",
-      "fecha": "2026-11-25T07:44+00:00",
-      "partidos": [
-        "junts"
-      ]
-    },
-    {
-      "titulo": "Cuándo y dónde ver las entrevistas de Plex a Sánchez y a Feijóo",
-      "medio": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/politica/20261125/11692080/cuando-donde-ver-entrevistas-plex-sanchez-feijoo.html",
-      "fecha": "2026-11-25T06:00+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "La estrategia de Feijóo y Sánchez para captar el voto útil en las elecciones enoja a sus aliados",
-      "medio": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/politica/20261125/11692520/estrategia-feijoo-sanchez-captar-voto-util-enoja-aliados.html",
-      "fecha": "2026-11-25T05:00+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Pedro Sánchez, el ‘iron man’ del PSOE",
-      "medio": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/politica/20261125/11692497/pedro-sanchez-iron-man-psoe.html",
-      "fecha": "2026-11-25T05:00+00:00",
-      "partidos": [
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "Las últimas oposiciones de Feijóo",
-      "medio": "El País",
-      "url": "https://elpais.com/espana/elecciones-generales/2026-11-25/las-ultimas-oposiciones-de-feijoo.html",
-      "fecha": "2026-11-25T04:30+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "El nerviosismo del PP en la recta final: resucita el fantasma del pucherazo y admite la posibilidad de un empate con el PSOE",
-      "medio": "El País",
-      "url": "https://elpais.com/espana/elecciones-generales/2026-11-25/el-nerviosismo-del-pp-en-la-recta-final-resucita-el-fantasma-del-pucherazo-y-admite-la-posibilidad-de-un-empate-con-el-psoe.html",
-      "fecha": "2026-11-25T04:30+00:00",
-      "partidos": [
-        "pp",
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "Podemos busca capitalizar el 25N en la disputa por el voto feminista en la izquierda",
-      "medio": "El País",
-      "url": "https://elpais.com/espana/elecciones-generales/2026-11-25/podemos-busca-capitalizar-el-25n-en-la-disputa-por-el-voto-feminista-en-la-izquierda.html",
-      "fecha": "2026-11-25T04:30+00:00",
-      "partidos": [
-        "podemos"
-      ]
-    },
-    {
-      "titulo": "La Junta Electoral rechaza por unanimidad las quejas de PP y Vox sobre noticias sin pruebas contra el voto CERA",
-      "medio": "El País",
-      "url": "https://elpais.com/espana/2026-11-25/la-junta-electoral-rechaza-por-unanimidad-las-quejas-de-pp-y-vox-sobre-noticias-sin-pruebas-contra-el-voto-cera.html",
-      "fecha": "2026-11-25T04:30+00:00",
-      "partidos": [
-        "pp",
-        "vox"
-      ]
-    },
-    {
-      "titulo": "Las víctimas de la dana entran en el 29-N y marcan distancias con PP y Vox",
-      "medio": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/local/valencia/20261125/11692361/victimas-dana-entran-29-n-marcan-distancias-pp-vox.html",
-      "fecha": "2026-11-25T04:30+00:00",
-      "partidos": [
-        "pp",
-        "vox"
-      ]
-    },
-    {
-      "titulo": "Pedro Sánchez: \"La vivienda será nuestra gran prioridad, hay que construir más y regular contra los que especulan\"",
-      "medio": "20minutos",
-      "url": "https://www.20minutos.es/nacional/pedro-sanchez-vivienda-sera-nuestra-gran-prioridad-hay-que-construir-mas-regular-contra-los-que-especulan_7065391_0.html",
-      "fecha": "2026-11-25T04:00+00:00",
-      "partidos": [
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "Figaredo (Vox): \"Si traen productos de fuera, que se produzcan en iguales condiciones que en España\"",
-      "medio": "20minutos",
-      "url": "https://www.20minutos.es/lainformacion/economia-y-finanzas/jose-maria-figaredo-vox-es-mentira-que-los-espanoles-no-quieran-trabajar-campo-que-no-quieren-son-salarios-miseria_7063336_0.html",
-      "fecha": "2026-11-25T04:00+00:00",
-      "partidos": [
-        "vox"
-      ]
-    },
-    {
-      "titulo": "Feijóo propone recuperar Ocon-Sur y endurecer las penas para frenar el narcotráfico en Andalucía",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/andalucia/feijoo-propone-recuperar-oconsur-endurecer-penas-frenar-20261125024906-nts.html",
-      "fecha": "2026-11-25T01:49+00:00",
-      "partidos": [
-        "pp"
       ]
     }
   ],
