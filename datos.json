@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-28T03:11+00:00",
+  "actualizado": "2026-11-28T13:46+00:00",
   "temas": [
     {
       "id": "vivienda",
@@ -8244,6 +8244,204 @@
   ],
   "noticias": [
     {
+      "titulo": "El día de reflexión de los candidatos: Feijóo viaja a Ceuta mientras Sánchez hace deporte",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/dia-reflexion-candidatos-feijoo-ceuta-20261128100308-nt.html",
+      "fecha": "2026-11-28T13:28+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "Feijóo pasa la mañana del día de reflexión en Ceuta junto a Juan Vivas",
+      "medio": "20minutos",
+      "url": "https://www.20minutos.es/nacional/feijoo-pasa-manana-dia-reflexion-ceuta-juan-jesus-vivas_7067041_0.html",
+      "fecha": "2026-11-28T13:24+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "Las medidas clave del PP: una \"renta de activación\" ligará el cobro del IMV y otros subsidios a la búsqueda de empleo",
+      "medio": "El Confidencial",
+      "url": "https://www.elconfidencial.com/espana/2026-11-28/medidas-clave-pp-renta-de-activacion-cobro-imv-empleo_4462240/",
+      "fecha": "2026-11-28T13:08+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "Feijóo, sobre la relación de España con Marruecos: «No podemos considerarlo un aliado. Si no nos respeta, aplicaría la Constitución para desplegar el Ejército en la frontera»",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/feijoo-sobre-relacion-espana-marruecos-podemos-considerarlo-20261128140000-nt.html",
+      "fecha": "2026-11-28T13:00+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "Felipe el Hermoso, Javier Milei y John Wayne, con Vox en la plaza de toros de València",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/comunitat-valenciana/politica/felipe-hermoso-javier-milei-john-wayne-vox-plaza-toros-valencia_130_13701317.html",
+      "fecha": "2026-11-28T12:45+00:00",
+      "partidos": [
+        "vox"
+      ]
+    },
+    {
+      "titulo": "En qué colegio electoral votan Sánchez, Feijóo, Abascal, Colau y el resto de candidatos en las elecciones del 29-N",
+      "medio": "El Confidencial",
+      "url": "https://www.elconfidencial.com/espana/2026-11-28/donde-hora-votan-sanchez-feijoo-abascal-resto-candidatos_4474751/",
+      "fecha": "2026-11-28T12:43+00:00",
+      "partidos": [
+        "pp",
+        "vox",
+        "sumar"
+      ]
+    },
+    {
+      "titulo": "El PSOE de Alcázar acusa al PP de ocupar durante toda la campaña los espacios de propaganda asignados a los socialistas",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/castilla-la-mancha/toledo/psoe-alcazar-acusa-pp-ocupar-campana-espacios-20261128132519-nt.html",
+      "fecha": "2026-11-28T12:28+00:00",
+      "partidos": [
+        "pp",
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "A qué se dedicaba Ada Colau antes de la política: de los trabajos temporales al activismo social",
+      "medio": "20minutos",
+      "url": "https://www.20minutos.es/nacional/que-se-dedicaba-ada-colau-antes-politica-trabajos-temporales-activismo-social_7067006_0.html",
+      "fecha": "2026-11-28T12:26+00:00",
+      "partidos": [
+        "sumar"
+      ]
+    },
+    {
+      "titulo": "Ada Colau pasa la jornada de reflexión en familia en Barcelona, donde votará mañana",
+      "medio": "Europa Press",
+      "url": "https://www.europapress.es/nacional/noticia-ada-colau-pasa-jornada-reflexion-familia-barcelona-donde-votara-manana-20261128130629.html",
+      "fecha": "2026-11-28T12:06+00:00",
+      "partidos": [
+        "sumar"
+      ]
+    },
+    {
+      "titulo": "Muere Rita Moraga, la primera mujer que dirigió el PSOE de Albacete e impulsora del liderazgo femenino",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/castilla-la-mancha/provincias/albacete/muere-rita-moraga-primera-mujer-dirigio-psoe-albacete-e-impulsora-liderazgo-femenino_1_13701127.html",
+      "fecha": "2026-11-28T10:42+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "Amor, bailes, 'Lecturas' y vídeos al estilo Lula, la campaña de Sánchez para frenar a PP y Vox",
+      "medio": "Europa Press",
+      "url": "https://www.europapress.es/nacional/noticia-amor-bailes-lecturas-videos-estilo-lula-campana-sanchez-frenar-pp-vox-20261128113830.html",
+      "fecha": "2026-11-28T10:38+00:00",
+      "partidos": [
+        "pp",
+        "vox"
+      ]
+    },
+    {
+      "titulo": "Feijóo pide un apoyo “fuerte” para gobernar tras las elecciones del 29-N",
+      "medio": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/politica/20261128/11695705/feijoo-pide-apoyo-fuerte-gobernar-elecciones-29-n.html",
+      "fecha": "2026-11-28T10:18+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "Feijóo se desplaza a Ceuta en plena jornada de reflexión para mostrar su \"apoyo y solidaridad\"",
+      "medio": "El Confidencial",
+      "url": "https://www.elconfidencial.com/espana/2026-11-28/feijoo-ceuta-jornada-reflexion-elecciones_4474701/",
+      "fecha": "2026-11-28T09:47+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "Feijóo visita Ceuta en la jornada de reflexión como muestra de \"apoyo y solidaridad\"",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/politica/feijoo-visita-ceuta-jornada-reflexion-muestra-apoyo-solidaridad_1_13701045.html",
+      "fecha": "2026-11-28T09:46+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "Feijóo busca conquistar Moncloa tras una campaña apelando al \"cambio\" y al voto \"prestado\" socialista",
+      "medio": "Europa Press",
+      "url": "https://www.europapress.es/nacional/noticia-feijoo-busca-conquistar-moncloa-campana-apelando-cambio-voto-prestado-socialista-20261128102953.html",
+      "fecha": "2026-11-28T09:29+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "Jornada de reflexión, en directo | Última hora de los candidatos: Feijóo viaja a Ceuta, Sánchez y Rufián hacen deporte, Montero pasa el día con 'Rumba' y Colau con la familia",
+      "medio": "20minutos",
+      "url": "https://www.20minutos.es/nacional/jornada-reflexion-directo-ultima-hora-agenda-hoy-los-candidatos-29n-descanso-familia-deporte_7066959_6.html",
+      "fecha": "2026-11-28T07:51+00:00",
+      "partidos": [
+        "pp",
+        "sumar"
+      ]
+    },
+    {
+      "titulo": "El refugio de Pedro Sánchez en el Pirineo aragonés: el pueblo de 1.540 metros de altitud donde esquía en Navidad con Begoña Gómez",
+      "medio": "El Confidencial",
+      "url": "https://www.elconfidencial.com/espana/2026-11-28/refugio-pedro-sanchez-pirineo-aragones-pueblo-esquia-navarra-1qrt_4450696/",
+      "fecha": "2026-11-28T07:35+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "Sánchez, Feijóo y Abascal ejercerán su derecho al voto en Madrid y Colau lo hará en Barcelona",
+      "medio": "Europa Press",
+      "url": "https://www.europapress.es/nacional/noticia-sanchez-feijoo-abascal-ejerceran-derecho-voto-madrid-colau-hara-barcelona-20261128080951.html",
+      "fecha": "2026-11-28T07:09+00:00",
+      "partidos": [
+        "pp",
+        "vox",
+        "sumar"
+      ]
+    },
+    {
+      "titulo": "Galicia pone a prueba la resistencia de la marca Feijóo con un BNG al alza",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/galicia/galicia-pone-prueba-resistencia-marca-feijoo-bng-alza_1_13696927.html",
+      "fecha": "2026-11-28T05:00+00:00",
+      "partidos": [
+        "pp",
+        "bng"
+      ]
+    },
+    {
+      "titulo": "Un puñado de votos decidirán si el PNV mantiene su grupo y si Bildu rompe su techo electoral",
+      "medio": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/local/paisvasco/20261128/11695317/punado-votos-decidiran-pnv-mantiene-grupo-bildu-rompe-techo-electoral.html",
+      "fecha": "2026-11-28T05:00+00:00",
+      "partidos": [
+        "bildu",
+        "pnv"
+      ]
+    },
+    {
+      "titulo": "La victoria del PSOE y otras sorpresas posibles, según las encuestas",
+      "medio": "El País",
+      "url": "https://elpais.com/actualidad/newsletter-kiko-llaneras/2026-11-28/la-victoria-del-psoe-y-otras-sorpresas-posibles-segun-las-encuestas.html",
+      "fecha": "2026-11-28T04:30+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
       "titulo": "El Galapagar de Pedro Sánchez",
       "medio": "ABC",
       "url": "https://www.abc.es/espana/ketty-garat-galapagar-pedro-sanchez-20261128023857-nt.html",
@@ -8259,6 +8457,53 @@
       "fecha": "2026-11-27T23:04+00:00",
       "partidos": [
         "pp"
+      ]
+    },
+    {
+      "titulo": "Las izquierdas dan por descontado el voto catalán mientras PP y Vox tratan de convertirlo en su trampolín",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/catalunya/izquierdas-dan-descontado-voto-catalan-pp-vox-tratan-convertirlo-trampolin_1_13698854.html",
+      "fecha": "2026-11-27T22:26+00:00",
+      "partidos": [
+        "pp",
+        "vox"
+      ]
+    },
+    {
+      "titulo": "Vox pone al alcance de la motosierra 200.000 millones en recortes del Estado del Bienestar y rebajas fiscales a los ricos",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/economia/vox-pone-alcance-motosierra-200-000-millones-recortes-bienestar-rebajas-fiscales-ricos_1_13681204.html",
+      "fecha": "2026-11-27T22:26+00:00",
+      "partidos": [
+        "vox"
+      ]
+    },
+    {
+      "titulo": "\"Si no fuera por la inmigración, el campo habría muerto\": la paradoja que Vox no puede resolver en Murcia",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/murcia/politica/si-no-fuera-inmigracion-campo-habria-muerto-paradoja-vox-no-resolver-murcia_1_13698588.html",
+      "fecha": "2026-11-27T22:26+00:00",
+      "partidos": [
+        "vox"
+      ]
+    },
+    {
+      "titulo": "Otra actividad teatral vetada en Zaragoza: denuncian que el PP sustituye un cuentacuentos sobre ayuda humanitaria",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/aragon/cultura/actividad-teatral-vetada-zaragoza-denuncian-pp-sustituye-cuentacuentos-ayuda-humanitaria_1_13698823.html",
+      "fecha": "2026-11-27T22:26+00:00",
+      "partidos": [
+        "pp"
+      ]
+    },
+    {
+      "titulo": "Necesitamos las pilas que le pone al PSOE Frente Amplio",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/andalucia/desdeelsur/necesitamos-pilas-le-pone-psoe-frente-amplio_132_13699696.html",
+      "fecha": "2026-11-27T22:26+00:00",
+      "partidos": [
+        "psoe",
+        "sumar"
       ]
     },
     {
@@ -10837,249 +11082,6 @@
       "fecha": "2026-11-25T21:11+00:00",
       "partidos": [
         "psoe",
-        "sumar"
-      ]
-    },
-    {
-      "titulo": "Feijóo y Abascal asisten a su primer debate en tándem para llegar juntos a la Moncloa frente a Sánchez y Colau",
-      "medio": "elDiario.es",
-      "url": "https://www.eldiario.es/politica/feijoo-abascal-asisten-primer-debate-tandem-llegar-moncloa-frente-sanchez-colau_1_13693175.html",
-      "fecha": "2026-11-25T21:08+00:00",
-      "partidos": [
-        "pp",
-        "vox",
-        "sumar"
-      ]
-    },
-    {
-      "titulo": "El Frente Amplio se conjura para lograr la “remontada” en la recta final: “Lo que vemos no tiene nada que ver con las encuestas”",
-      "medio": "elDiario.es",
-      "url": "https://www.eldiario.es/politica/frente-amplio-conjura-lograr-remontada-recta-final-vemos-no-ver-encuestas_1_13693282.html",
-      "fecha": "2026-11-25T21:08+00:00",
-      "partidos": [
-        "sumar"
-      ]
-    },
-    {
-      "titulo": "El PP recurre a las putas en el día de la violencia machista",
-      "medio": "elDiario.es",
-      "url": "https://www.eldiario.es/politica/pp-recurre-putas-dia-violencia-machista_129_13692947.html",
-      "fecha": "2026-11-25T21:08+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Los agujeros del \"gestor\" Feijóo en 13 años en la Xunta: fiascos económicos, parón en vivienda pública y deterioro en la sanidad",
-      "medio": "elDiario.es",
-      "url": "https://www.eldiario.es/galicia/agujeros-gestor-feijoo-13-anos-xunta-fiascos-economicos-paron-vivienda-publica-deterioro-sanidad_1_13670753.html",
-      "fecha": "2026-11-25T21:08+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Alberto Orriols Feijóo",
-      "medio": "elDiario.es",
-      "url": "https://www.eldiario.es/opinion/tribuna-abierta/alberto-orriols-feijoo_129_13692924.html",
-      "fecha": "2026-11-25T21:08+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Albiol, el 'sheriff' de Badalona con el que Feijóo quiere taponar el auge de Vox",
-      "medio": "elDiario.es",
-      "url": "https://www.eldiario.es/catalunya/albiol-sheriff-badalona-feijoo-quiere-taponar-auge-vox_1_13690220.html",
-      "fecha": "2026-11-25T21:08+00:00",
-      "partidos": [
-        "pp",
-        "vox"
-      ]
-    },
-    {
-      "titulo": "Calasparra, el bastión socialista de la Murcia del PP: \"¿Para qué vamos a cambiar si estamos a gusto?\"",
-      "medio": "elDiario.es",
-      "url": "https://www.eldiario.es/murcia/politica/calasparra-bastion-socialista-murcia-pp-cambiar-si-gusto_1_13669752.html",
-      "fecha": "2026-11-25T21:08+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "España tiene medio millón de pisos más en alquiler que en 2018: la cifra que desmiente al PP y a las patronales",
-      "medio": "elDiario.es",
-      "url": "https://www.eldiario.es/economia/espana-medio-millon-pisos-alquiler-cifra-desmiente-pp-patronales_1_13693142.html",
-      "fecha": "2026-11-25T21:08+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Feijóo llama a culminar el cambio el domingo para que gane \"la decencia\": \"Echaremos a los delincuentes del Gobierno\"",
-      "medio": "20minutos",
-      "url": "https://www.20minutos.es/nacional/feijoo-llama-culminar-cambio-domingo-para-que-gane-decencia-echaremos-los-delincuentes-gobierno_7065893_0.html",
-      "fecha": "2026-11-25T20:59+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Feijóo llama en Madrid a “culminar las ganas de cambio” y echar a los “delincuentes del Gobierno”",
-      "medio": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/politica/20261125/11693483/feijoo-llama-madrid-culminar-ganas-cambio-echar-delincuentes-gobierno.html",
-      "fecha": "2026-11-25T20:54+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Así han sido las entrevistas de Plex con Pedro Sánchez y Alberto Núñez Feijóo",
-      "medio": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/politica/20261125/11693418/sanchez-entrevista-plex-nunca-pense-llegaria-presidente-gobierno.html",
-      "fecha": "2026-11-25T20:47+00:00",
-      "partidos": [
-        "pp",
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "Gorka Urtaran, candidato del PNV: \"En Madrid se nos reconoce por la capacidad de influencia que tenemos\"",
-      "medio": "elDiario.es",
-      "url": "https://www.eldiario.es/euskadi/gorka-urtaran-candidato-pnv-madrid-reconoce-capacidad-influencia_128_13692248.html",
-      "fecha": "2026-11-25T20:43+00:00",
-      "partidos": [
-        "pnv"
-      ]
-    },
-    {
-      "titulo": "Feijóo, junto a Ayuso en un acto que no logran llenar en Madrid: “Si realmente eres socialista préstanos el voto para limpiar el PSOE”",
-      "medio": "elDiario.es",
-      "url": "https://www.eldiario.es/politica/feijoo-ayuso-acto-no-logran-llenar-madrid-si-realmente-socialista-prestanos-voto-limpiar-psoe_1_13694058.html",
-      "fecha": "2026-11-25T20:36+00:00",
-      "partidos": [
-        "pp",
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "Feijóo avisa a Sánchez y al PSOE que \"ya no cuela el miedo\" y que \"esta vez no van a poder sumar con nadie\"",
-      "medio": "Europa Press",
-      "url": "https://www.europapress.es/nacional/noticia-feijoo-avisa-sanchez-psoe-ya-no-cuela-miedo-vez-no-van-poder-sumar-nadie-20261125212711.html",
-      "fecha": "2026-11-25T20:27+00:00",
-      "partidos": [
-        "pp",
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "Vox acusa al PSOE de destrozar las certezas de los trabajadores",
-      "medio": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/politica/20261125/11693466/vox-acusa-psoe-destrozar-certezas-trabajadores.html",
-      "fecha": "2026-11-25T19:29+00:00",
-      "partidos": [
-        "psoe",
-        "vox"
-      ]
-    },
-    {
-      "titulo": "La 'ruta de Ábalos' conduce al PP al Parador de Teruel: «La corrupción rodea a Sánchez»",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/aragon/ruta-abalos-conduce-pp-parador-teruel-corrupcion-20261125174744-nt.html",
-      "fecha": "2026-11-25T18:44+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "El PP acusa al PSOE de Talavera de anteponer sus siglas a los intereses de España y de la ciudad",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/castilla-la-mancha/toledo/talavera/pp-acusa-psoe-talavera-anteponer-siglas-intereses-20261125191842-nt.html",
-      "fecha": "2026-11-25T18:18+00:00",
-      "partidos": [
-        "pp",
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "Álvarez de Toledo, desde el edificio en el que vivía Jésica, expareja de Ábalos: \"El PSOE ha utilizado a las mujeres como mercancía\"",
-      "medio": "20minutos",
-      "url": "https://www.20minutos.es/nacional/alvarez-toledo-desde-edificio-que-vivia-jesica-expareja-abalos-psoe-ha-utilizado-las-mujeres-como-mercancia_7065861_0.html",
-      "fecha": "2026-11-25T17:50+00:00",
-      "partidos": [
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "El mapa de Granada en las elecciones generales de 2023 por distritos: dónde ganó el PP y dónde se impuso el PSOE",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/andalucia/granada/mapa-granada-elecciones-generales-2023-distritos-gano-20261125184614-nts.html",
-      "fecha": "2026-11-25T17:46+00:00",
-      "partidos": [
-        "pp",
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "El PSOE rompe la unidad en el apoyo a las víctimas de la violencia machista",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/andalucia/psoe-resto-oposicion-ausentan-acto-dia-eliminacion-20261125110328-nts.html",
-      "fecha": "2026-11-25T17:44+00:00",
-      "partidos": [
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "Susana Díaz cuestiona la estrategia del PSOE y José Bono: «¿Qué haces buscándole la boca a Felipe González la última semana?»",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/andalucia/susana-diaz-cuestiona-estrategia-psoe-haces-buscandole-20261125130816-nts.html",
-      "fecha": "2026-11-25T17:41+00:00",
-      "partidos": [
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "Velázquez acusa al PSOE de hacer una «utilización ideológica de la mujer»",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/castilla-la-mancha/toledo/pueblos/velazquez-acusa-psoe-utilizacion-ideologica-mujer-20261125183539-nt.html",
-      "fecha": "2026-11-25T17:35+00:00",
-      "partidos": [
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "El PSOE andaluz sale en tromba contra Felipe González, cuestiona su lealtad por el voto en blanco y lo manda a «callar»",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/andalucia/psoe-andaluz-sale-tromba-felipe-gonzalez-cuestiona-20261125170131-nts.html",
-      "fecha": "2026-11-25T17:32+00:00",
-      "partidos": [
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "Una tertuliana de Canal Extremadura compara a Pedro Sánchez con “el novio que maltrata a su novia” en pleno 25N",
-      "medio": "elDiario.es",
-      "url": "https://www.eldiario.es/extremadura/sociedad/tertuliana-canal-extremadura-compara-pedro-sanchez-novio-maltrata-novia-pleno-25n_1_13693350.html",
-      "fecha": "2026-11-25T17:02+00:00",
-      "partidos": [
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "El Banco de España entrega a la justicia lo que pagó a la banca por sus depósitos y Sumar exige acceso \"inmediato”",
-      "medio": "elDiario.es",
-      "url": "https://www.eldiario.es/economia/banco-espana-entrega-justicia-pago-banca-depositos-sumar-exige-acceso-inmediato_1_13692955.html",
-      "fecha": "2026-11-25T16:42+00:00",
-      "partidos": [
-        "sumar"
-      ]
-    },
-    {
-      "titulo": "Frente Amplio suma 450 apoyos más al manifiesto de la cultura española: Antonio de la Torre, Tristán Ulloa, Nathalie Poza...",
-      "medio": "20minutos",
-      "url": "https://www.20minutos.es/nacional/frente-amplio-suma-450-apoyos-mas-manifiesto-cultura-espanola-antonio-torre-tristan-ulloa-nathalie-poza_7065824_0.html",
-      "fecha": "2026-11-25T16:41+00:00",
-      "partidos": [
         "sumar"
       ]
     }
