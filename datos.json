@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-28T13:46+00:00",
+  "actualizado": "2026-11-28T17:28+00:00",
   "temas": [
     {
       "id": "vivienda",
@@ -8244,6 +8244,73 @@
   ],
   "noticias": [
     {
+      "titulo": "Pedro Sánchez practica ciclismo de montaña junto a su mujer, Begoña Gómez, en la jornada de reflexión",
+      "medio": "20minutos",
+      "url": "https://www.20minutos.es/nacional/pedro-sanchez-practica-ciclismo-montana-junto-su-mujer-begona-gomez-jornada-reflexion_7067059_0.html",
+      "fecha": "2026-11-28T14:59+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "Una pelea nocturna en Jaca con la edil de Vox involucrada se salda con denuncias cruzadas y una detenida por agredirla",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/aragon/politica/pelea-nocturna-jaca-edil-vox-involucrada-salda-denuncias-cruzadas-detenida-agredirla_1_13701423.html",
+      "fecha": "2026-11-28T14:51+00:00",
+      "partidos": [
+        "vox"
+      ]
+    },
+    {
+      "titulo": "Podemos resucita a Iglesias en el cierre de campaña en un intento de salvar el escaño de Montero",
+      "medio": "ABC",
+      "url": "https://www.abc.es/espana/podemos-resucita-iglesias-cierre-campana-intento-salvar-20261127210709-nt.html",
+      "fecha": "2026-11-28T14:31+00:00",
+      "partidos": [
+        "podemos"
+      ]
+    },
+    {
+      "titulo": "Pedro Sánchez sale a montar en bici por el campo con Begoña Gómez en la jornada de reflexión",
+      "medio": "Europa Press",
+      "url": "https://www.europapress.es/nacional/noticia-pedro-sanchez-sale-montar-bici-campo-begona-gomez-jornada-reflexion-20261128152227.html",
+      "fecha": "2026-11-28T14:22+00:00",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
+      "titulo": "Dónde vota mañana cada candidato: Pedro Sánchez, Alberto Núñez Feijóo, Irene Montero, Ada Colau y Santiago Abascal",
+      "medio": "20minutos",
+      "url": "https://www.20minutos.es/nacional/donde-vota-manana-cada-candidato-pedro-sanchez-alberto-nunez-feijoo-irene-montero-ada-colau-santiago-abascal_7064610_0.html",
+      "fecha": "2026-11-28T14:07+00:00",
+      "partidos": [
+        "pp",
+        "psoe",
+        "vox",
+        "sumar"
+      ]
+    },
+    {
+      "titulo": "Detenida una joven de 22 años en Jaca (Huesca) por agredir a una concejal de Vox",
+      "medio": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/politica/20261128/11695803/detenida-joven-22-anos-jaca-huesca-agredir-concejala-vox.html",
+      "fecha": "2026-11-28T14:06+00:00",
+      "partidos": [
+        "vox"
+      ]
+    },
+    {
+      "titulo": "De los planes familiares de Sánchez, Colau, Montero y Rufián al viaje de Feijóo a Ceuta: así pasan los candidatos la jornada de reflexión",
+      "medio": "elDiario.es",
+      "url": "https://www.eldiario.es/politica/planes-familiares-sanchez-colau-montero-rufian-viaje-feijoo-ceuta-pasan-candidatos-jornada-reflexion_1_13701321.html",
+      "fecha": "2026-11-28T13:32+00:00",
+      "partidos": [
+        "pp",
+        "sumar"
+      ]
+    },
+    {
       "titulo": "El día de reflexión de los candidatos: Feijóo viaja a Ceuta mientras Sánchez hace deporte",
       "medio": "ABC",
       "url": "https://www.abc.es/espana/dia-reflexion-candidatos-feijoo-ceuta-20261128100308-nt.html",
@@ -8451,12 +8518,30 @@
       ]
     },
     {
+      "titulo": "Sánchez se aferra al voto de las mujeres como en 2023 en busca de su suma mágica: 136 + 41, sin Junts",
+      "medio": "El Mundo",
+      "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/28/6b09d22fe85ece541a8b45b6.html",
+      "fecha": "2026-11-28T00:36+00:00",
+      "partidos": [
+        "junts"
+      ]
+    },
+    {
       "titulo": "La angustia demográfica allana el final de la década perdida del PP en Canarias",
       "medio": "El Mundo",
       "url": "https://www.elmundo.es/espana/2026/11/28/6b0984f6fc6c8389188b4579.html",
       "fecha": "2026-11-27T23:04+00:00",
       "partidos": [
         "pp"
+      ]
+    },
+    {
+      "titulo": "\"Los rojos\" pintados como \"el demonio\" en el bastión de la izquierda en Madrid: \"Hemos tenido a Aznar y a Rajoy y no pasó nada, pero Abascal es muy peligroso\"",
+      "medio": "El Mundo",
+      "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/28/6b003e40fdddffdf3c8b459a.html",
+      "fecha": "2026-11-27T23:04+00:00",
+      "partidos": [
+        "vox"
       ]
     },
     {
@@ -10994,94 +11079,6 @@
       "fecha": "2026-11-25T23:02+00:00",
       "partidos": [
         "pp",
-        "sumar"
-      ]
-    },
-    {
-      "titulo": "El silencio nunca visto de Abascal en campaña: 72 horas para preparar su primer debate con Feijóo y romper su techo",
-      "medio": "El Mundo",
-      "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/26/6b073799fc6c83a9198b459d.html",
-      "fecha": "2026-11-25T23:02+00:00",
-      "partidos": [
-        "pp",
-        "vox"
-      ]
-    },
-    {
-      "titulo": "\"El voto musulmán\" sostiene al PSOE en Ceuta con la pugna PP-Vox en un puñado de votos",
-      "medio": "El Mundo",
-      "url": "https://www.elmundo.es/espana/2026/11/26/6b005c94fc6c83305c8b45b7.html",
-      "fecha": "2026-11-25T23:02+00:00",
-      "partidos": [
-        "pp",
-        "psoe",
-        "vox"
-      ]
-    },
-    {
-      "titulo": "Rufián señala los “intereses inmobiliarios” de Junts y Nogueras replica: “El señor de ERC es igual que el PSOE”",
-      "medio": "elDiario.es",
-      "url": "https://www.eldiario.es/catalunya/rufian-senala-intereses-inmobiliarios-junts-nogueras-replica-senor-erc-igual-psoe_1_13694226.html",
-      "fecha": "2026-11-25T22:17+00:00",
-      "partidos": [
-        "psoe",
-        "erc",
-        "junts"
-      ]
-    },
-    {
-      "titulo": "Feijóo asegura que hay que \"reforzar\" la \"custodia de las sacas\" donde se guarda el voto por correo en su entrevista con Plex",
-      "medio": "20minutos",
-      "url": "https://www.20minutos.es/nacional/feijoo-asegura-que-hay-que-reforzar-custodia-las-sacas-donde-se-guarda-voto-por-correo-su-entrevista-con-plex_7065920_0.html",
-      "fecha": "2026-11-25T22:16+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Rueda pide un «último esprint» aunque cree que el PSOE ya asume el fin del sanchismo",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/galicia/rueda-pide-ultimo-sprint-cree-psoe-asume-20261125230400-nt.html",
-      "fecha": "2026-11-25T22:04+00:00",
-      "partidos": [
-        "psoe"
-      ]
-    },
-    {
-      "titulo": "Feijóo promete devolver la «decencia» al Gobierno y derribar el muro sanchista",
-      "medio": "ABC",
-      "url": "https://www.abc.es/espana/madrid/feijoo-promete-devolver-decencia-gobierno-derribar-muro-20261125213242-nt.html",
-      "fecha": "2026-11-25T21:52+00:00",
-      "partidos": [
-        "pp"
-      ]
-    },
-    {
-      "titulo": "Sánchez busca la revancha en un debate en el que Abascal \"complica\" la posición de Feijóo: \"No pueden ir a un pacto de no agresión\"",
-      "medio": "El Mundo",
-      "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/25/6b070c74fdddff89748b456e.html",
-      "fecha": "2026-11-25T21:46+00:00",
-      "partidos": [
-        "pp",
-        "vox"
-      ]
-    },
-    {
-      "titulo": "Vox apela a \"los que dudan\" y recuerda que \"los españoles siempre han estado por encima de sus peores gobernantes\"",
-      "medio": "Europa Press",
-      "url": "https://www.europapress.es/nacional/noticia-vox-apela-dudan-recuerda-espanoles-siempre-estado-encima-peores-gobernantes-20261125223905.html",
-      "fecha": "2026-11-25T21:39+00:00",
-      "partidos": [
-        "vox"
-      ]
-    },
-    {
-      "titulo": "Colau critica que el PSOE decepciona en vivienda y promete medidas en campaña que bloquea en el Gobierno",
-      "medio": "Europa Press",
-      "url": "https://www.europapress.es/nacional/noticia-colau-critica-psoe-decepciona-vivienda-promete-medidas-campana-bloquea-gobierno-20261125221158.html",
-      "fecha": "2026-11-25T21:11+00:00",
-      "partidos": [
-        "psoe",
         "sumar"
       ]
     }
